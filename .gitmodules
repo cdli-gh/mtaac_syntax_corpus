@@ -1,3 +1,6 @@
 [submodule "doc"]
 	path = doc
 	url = https://github.com/cdli-gh/annodoc
+[submodule "pre-annotated"]
+	path = pre-annotated
+	url = https://github.com/cdli-gh/MTAAC_syntax_preannotated.git
