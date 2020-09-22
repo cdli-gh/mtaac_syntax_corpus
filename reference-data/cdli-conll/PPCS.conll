@@ -253,7 +253,7 @@
 1	dur-an-ki-ka	dur-an-ki	Dur-an-ki	3	LOC	_	_
 2	dur2	dur2	rump	3	ABS	_	_
 3	ba-an-jar	jar	to place	0	root	_	_
-4	jectug2	jectug2	ear	3	ERG	_	_
+4	jectug2	jectug2	ear	3	GEN+ERG	_	_
 5	dajal-la-ke4	dajal	to be wide	4	amod	_	_
 
 # c532
@@ -491,11 +491,11 @@
 
 # 
 
-1	PN1	_	_	7	ABS	_	_
+1	PN1	_	_	4	ERG	_	_
 2	dam-ce3	_	_	3	TERM	_	_
 3	ha-tuku	_	_	4	ccomp	_	_
-4	bi2-in-dug4-ga	_	_	1	SUB	_	_
-5	PN2	_	_	7	ABS	_	_
+4	bi2-in-dug4-ga	_	_	1	acl+ABS	_	_
+5	PN2	_	_	7	ERG	_	_
 6	PN3	_	_	5	appos	_	_
 7	nam-erim2-am3	_	_	0	root	_	_
 
@@ -533,13 +533,14 @@
 
 # c1815
 
-1	lugal-ju10	lugal	king	7	ERG	_	_
-2	tukum-bi	tukum-bi	if	5	mark	_	_
-3	ud-da	ud	day(light)	5	LOC	_	_
-4	kur-ra	kur	(mountain) land	5	LOC	_	_
-5	i-ni-in-ku4-ku4-de3	kur9	to enter	7	SUB	_	_
-6	{d}utu	utu	Utu	7	COM	_	_
-7	he2-me-da-an-zu	zu	to know	0	root	_	_
+1	lugal-ju10	lugal	king	_	_	7	ERG	_	_
+2	tukum-bi	tukum-bi	if	_	_	5	mark	_	_
+3	ud-da	ud	day(light)	_	_	5	LOC	_	_
+4	kur-ra	kur	land	_	_	5	LOC	_	_
+5	i-ni-in-ku4-ku4-de3	kur9	enter	_	_	7	acl	_	_
+6	{d}utu	utu	Utu	_	_	7	COM	_	_
+7	he2-me-da-an-zu	zu	know	_	_	0	root	_	_
+	 
 
 # c217
 
