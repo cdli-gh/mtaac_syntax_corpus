@@ -9,3 +9,7 @@ Manually analyzed sample data, mostly drawn from the literature
 known issues:
 - at the moment, FORM/WORD, SEGM/LEMMA, XPOS columns follow (mostly) the original source, not MTAAC/CDLI
 - this also includes transcription rules in FORM/WORD
+
+at the moment, we provide
+- 3,200 tokens of reference data from the literature, mostly Ur III data
+- 6 hand-corrected files from MTAAC
