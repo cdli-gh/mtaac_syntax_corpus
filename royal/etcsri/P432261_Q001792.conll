@@ -1,0 +1,33 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}en-lil₂	{d}en-lil₂	N1=NAME	11	DAT-H	DN	1	
+2	lugal	lugal	N1=STEM	1	appos	N	king	
+3	kur-kur-ra	kur-kur	N1=STEM-RDP.N5=GEN	2	GEN	N	mountain	
+4	lugal	lugal	N1=STEM	6	ABS	N	king	
+5	ki	ki	N1=STEM.N5=ABS	4	appos	N	place	
+6	aŋ₂-ŋa₂-ni-ir	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	2	amod	V/t	measure	
+7	{d}amar-{d}suen	{d}amar-{d}suen	N1=NAME	11	ERG	RN	1	
+8	{d}en-lil₂-le	{d}en-lil₂	N1=NAME.N5=ERG	7	appos	DN	1	
+9	nibru{ki}-a	nibru{ki}	N1=NAME.N5=L1	11	L1	SN	1	
+10	mu	mu	N1=STEM.N5=ABS	11	ABS	N	name	
+11	pad₃-da	pad₃	NV2=STEM.NV4=SUB	29	ERG	V/t	find	
+12	saŋ-us₂	saŋ-us₂	NV2=STEM	11	appos	V/i	constant	
+13	e₂	e₂	N1=STEM	12	GEN	N	house	
+14	{d}en-lil₂-ka	{d}en-lil₂	N1=NAME.N5=GEN.N5=GEN	13	GEN	DN	1	
+15	lugal	lugal	N1=STEM	11	appos	N	king	
+16	kalag-ga	kalag	NV2=STEM.NV4=SUB	15	amod	V/i	strong	
+17	lugal	lugal	N1=STEM	11	appos	N	king	
+18	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	17	GEN	SN	1	
+19	lugal	lugal	N1=STEM	11	appos	N	king	
+20	an-ub-da	an-ub-da	N1=STEM	19	GEN	N	quarter	
+21	limmu₂-ba-ke₄	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	20	amod	NU	four	
+22	e₂	e₂	N1=STEM	29	ABS	N	house	
+23	lal₃	lal₃	N1=STEM.N5=ABS	22	appos	N	syrup	
+24	i₃-nun	i₃-nun	N1=STEM.N5=ABS	23	conj	N	ghee	
+25	u₃	u₃	N1=STEM	23	cc	CNJ	and	
+26	ŋeštin	ŋeštin	N1=STEM.N5=ABS	23	conj	N	vine	
+27	ki	ki	N1=STEM	29	L1	N	place	
+28	sizkur₂-ra-ka-na	sizkur₂	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=L1	27	appos	N	prayer	
+29	nu-silig-ge	silig	NV1=NEG.NV2=STEM.NV3=PF.N5=ABS	30	ABS	V/t	cease	
+30	mu-na-an-du₃	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	build
+	
+

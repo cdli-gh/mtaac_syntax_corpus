@@ -1,0 +1,57 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nanna	{d}nanna	N1=NAME	16	DAT-H	DN	1	
+2	dumu-saŋ	dumu-saŋ	N1=STEM	1	appos	N	first-born	
+3	{d}en-lil₂-la₂	{d}en-lil₂	N1=NAME.N5=GEN	2	GEN	DN	1	
+4	lugal-a-ni	lugal	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	1	appos	N	king	
+5	ur-{d}namma	ur-{d}namma	N1=NAME	16	ERG	RN	1	
+6	nita	nita	N1=STEM	5	appos	N	male	
+7	kalag-ga	kalag	NV2=STEM.NV4=SUB	6	amod	V/i	strong	
+8	lugal	lugal	N1=STEM	5	appos	N	king	
+9	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	8	GEN	SN	1	
+10	lugal	lugal	N1=STEM	5	appos	N	king	
+11	ki-en-gi	ki-en-gi	N1=NAME	10	GEN	GN	1	
+12	ki-uri-ke₄	ki-uri	N1=NAME.N5=GEN.N5=ERG	11	appos	GN	1	
+13	ud	ud	N1=STEM	16	ABS	N	sun	
+14	e₂	e₂	N1=STEM	13	appos	N	house	
+15	{d}en-lil₂-la₂	{d}en-lil₂	N1=NAME.N5=GEN.N5=ABS	14	GEN	DN	1	
+16	in-du₃-a	du₃	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	0	_	V/t	build	
+17	id₂-da	id₂	N1=STEM.N5=GEN	0	_	N	river	
+18	{d}nanna	{d}nanna	N1=NAME.N5=ABS	17	GEN	DN	1	
+19	gu₂-gal	gu₂-gal	N1=STEM.N5=ABS	0	_	N	inspector	
+20	mu-bi	mu	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	0	_	N	name	
+21	id₂	id₂	N1=STEM	23	ABS.	N	river	
+22	ki-sur-ra-kam	ki-sur-ra	N1=STEM.N5=GEN.N5=ABS.N6=COP-3-SG	21	GEN	N	border	
+23	mu-ba-al	ba-al	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	dig	
+24	kun-bi	kun	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	26	ABS	N	tail	
+25	a-ab-ba-ka	a-ab-ba	N1=STEM.N5=L1	26	L1	N	sea	
+26	ni-la₂	la₂	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	stretch	
+27	di	di	N1=STEM	31	ABL	N	lawsuit	
+28	niŋ₂-gen₆-na	niŋ₂-gen₆-na	N1=STEM	27	appos	N	truth	
+29	{d}utu-ta	{d}utu	N1=NAME.N5=GEN.N5=ABL	28	GEN	DN	1	
+30	bar	bar	N1=STEM.N5=ABS	31	ABS	N	outside	
+31	bi₂-tam	tam	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	clean	
+32	inim	inim	N1=STEM.N5=ABS	33	ABS	N	word	
+33	bi₂-ge-en₆	ge-en₆	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/i	establish	
+34	lu₂	lu₂	N1=STEM	36	COM	N	person	
+35	{d}nanna-a	{d}nanna	N1=NAME.N5=COM	34	appos	DN	1	
+36	in-dab₆-kur₂-a	kur₂	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=ABS	0	_	V/i	different	
+37	lugal	lugal	N1=STEM.N5=ABS	38	ABS	N	king	
+38	he₂-a	am₃	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	0	_	V/i	be	
+39	ensi₂	ensi₂	N1=STEM.N5=ABS	40	ABS	N	ruler	
+40	he₂-a	am₃	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	0	_	V/i	be	
+41	lu₂	lu₂	N1=STEM	43	ABS	N	person	
+42	aš₂	aš₂	N1=STEM.N5=ABS	41	appos	N	curse	
+43	dug₄-ga	dug₄	NV2=STEM.NV4=SUB	45	EQU	V/t	speak	
+44	{d}nanna-gin₇	{d}nanna	N1=NAME.N5=GEN.N5=EQU	43	GEN	DN	1	
+45	he₂-na	am₃	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V12=COP.V14=3-SG-S	0	_	V/i	be	
+46	ki-tuš	ki-tuš	N1=STEM	48	L2-NH	N	dwelling	
+47	{d}nanna-ka	{d}nanna	N1=NAME.N5=GEN.N5=L2-NH	46	GEN	DN	1	
+48	he₂-eb₂-pel₂	pel₂	V1=MOD1.V2=FIN.V5=3-NH.V10=L2-SYN.V12=STEM.V14=3-SG-S	0	_	V/t	defile	
+49	iri-ne₂	iri	N1=STEM.N3=3-SG-H-POSS.N5=ERG	51	ERG	N	city	
+50	{gi}sumurₓ(KA)-ta	{gi}sumurₓ(KA)	N1=STEM.N5=ABL	51	ABL	N	roof	
+51	he₂-ta-dag-dag-ge	dag-dag	V1=MOD1.V2=FIN.V5=3-NH.V9=ABL.V11=3-SG-H-P.V12=STEM-PF.V14=3-SG-A	0	_	V/i	leave	
+52	nam-ti-il	nam-ti-il	N1=STEM.N5=ABS	0	_	N	life	
+53	niŋ₂-gig-ga-ni	niŋ₂-gig	N1=STEM.N3=3-SG-H-POSS.N5=ABS	54	ABS	N	bad thing	
+54	he₂-a	am₃	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	0	_	V/i	be
+	
+

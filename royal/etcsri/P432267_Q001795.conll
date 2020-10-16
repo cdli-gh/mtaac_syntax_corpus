@@ -1,0 +1,22 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}amar-{d}suen	{d}amar-{d}suen	N1=NAME	12	ERG	RN	1	
+2	lugal	lugal	N1=STEM	1	appos	N	king	
+3	kalag-ga	kalag	NV2=STEM.NV4=SUB	2	amod	V/i	strong	
+4	lugal	lugal	N1=STEM	1	appos	N	king	
+5	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	4	GEN	SN	1	
+6	lugal	lugal	N1=STEM	1	appos	N	king	
+7	an-ub-da	an-ub-da	N1=STEM	6	GEN	N	quarter	
+8	limmu₂-ba-ke₄	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	7	amod	NU	four	
+9	ki	ki	N1=STEM	12	ABS	N	place	
+10	en-nu-ŋa₂	en-nu	N1=STEM.N5=GEN	9	GEN	N	imprisonment	
+11	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN.N5=ABS	9	GEN	SN	1	
+12	mu-na-du₃	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	build	
+13	ki	ki	N1=STEM	0	_	N	place	
+14	en-nu-ŋa₂-ba	en-nu	N1=STEM.N5=GEN.N3=DEM2.N5=GEN	13	GEN	N	imprisonment	
+15	{d}amar-{d}suen	{d}amar-{d}suen	N1=NAME	17	ABS	RN	1	
+16	ki	ki	N1=STEM.N5=ABS	15	appos	N	place	
+17	aŋ₂	aŋ₂	NV2=STEM	13	amod	V/t	measure	
+18	{d}nanna	{d}nanna	N1=NAME.N5=GEN.N5=ABS	17	GEN	DN	1	
+19	mu-bi-im	mu	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	0	_	N	name
+	
+

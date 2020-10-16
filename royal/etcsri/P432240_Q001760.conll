@@ -1,0 +1,25 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nin-mar-ki	{d}nin-mar-ki	N1=NAME	22	DAT-H	DN	1	
+2	nin	nin	N1=STEM	1	appos	N	lady	
+3	munus-gil-sa	munus-gil-sa	N1=NAME.N5=GEN	2	GEN	TN	1	
+4	nin-a-ni	nin	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	1	appos	N	lady	
+5	nam-til₃	nam-til₃	N1=STEM	22	TERM	N	life	
+6	{d}šul-gi	{d}šul-gi	N1=NAME	5	appos	RN	1	
+7	nita	nita	N1=STEM	5	appos	N	male	
+8	kalag-ga	kalag	NV2=STEM.NV4=SUB	7	amod	V/i	strong	
+9	lugal	lugal	N1=STEM	5	appos	N	king	
+10	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	9	GEN	SN	1	
+11	lugal	lugal	N1=STEM	9	GEN	N	king	
+12	an-ub-da	an-ub-da	N1=STEM	11	GEN	N	quarter	
+13	limmu₂-ba-ka-še₃	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	12	amod	NU	four	
+14	ur-{d}nin-ŋir₂-su	ur-{d}nin-ŋir₂-su	N1=NAME	22	ERG	PN	3	
+15	en-me-zid-an-na	en-me-zid-an-na	N1=NAME	14	appos	PN	1	
+16	šennuₓ(|ME.AD.KU₃|)	šennuₓ(|ME.AD.KU₃|)	N1=STEM	14	appos	N	priest	
+17	en	en	N1=STEM	19	ABS	N	priest	
+18	ki	ki	N1=STEM.N5=ABS	17	appos	N	place	
+19	aŋ₂	aŋ₂	NV2=STEM	16	amod	V/t	measure	
+20	{d}nanše-ke₄	{d}nanše	N1=NAME.N5=GEN.N5=ERG	19	GEN	DN	1	
+21	a	a	N1=STEM.N5=ABS	22	ABS	N	water	
+22	mu-na-ru	ru	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	cvve
+	
+

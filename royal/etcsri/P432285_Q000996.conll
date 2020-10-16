@@ -1,0 +1,34 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}šu-{d}suen	{d}šu-{d}suen	N1=NAME	3	ABS	RN	1	
+2	mu	mu	N1=STEM.N5=ABS	1	appos	N	name	
+3	pad₃-da	pad₃	NV2=STEM.NV4=SUB	6	ABS	V/t	find	
+4	an-na	an	N1=NAME.N5=GEN	3	GEN	DN	1	
+5	ki	ki	N1=STEM.N5=ABS	3	appos	N	place	
+6	aŋ₂	aŋ₂	NV2=STEM	12	ERG	V/t	measure	
+7	{d}en-lil₂-la₂	{d}en-lil₂	N1=NAME.N5=GEN	6	GEN	DN	1	
+8	lugal	lugal	N1=STEM	6	appos	N	king	
+9	{d}en-lil₂-le	{d}en-lil₂	N1=NAME.N5=ERG	8	appos	DN	1	
+10	šag₄	šag₄	N1=STEM	12	L3-NH	N	heart	
+11	kug-ge	kug	NV2=STEM.N5=L3-NH	10	amod	V/i	pure	
+12	pad₃-da	pad₃	NV2=STEM.NV4=SUB	31	GEN.TERM	V/t	find	
+13	nam-sipad	nam-sipad	N1=STEM	12	appos	N	shepherdship	
+14	kalam-ma	kalam	N1=STEM.N5=GEN	13	GEN	N	land	
+15	u₃	u₃	N1=STEM	13	cc	CNJ	and	
+16	an-ub-da	an-ub-da	N1=STEM	13	conj	N	quarter	
+17	limmu₂-ba-še₃	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=TERM	16	amod	NU	four	
+18	lugal	lugal	N1=STEM	31	DAT-H	N	king	
+19	kalag-ga	kalag	NV2=STEM.NV4=SUB	18	amod	V/i	strong	
+20	lugal	lugal	N1=STEM	18	appos	N	king	
+21	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	20	GEN	SN	1	
+22	lugal	lugal	N1=STEM	18	appos	N	king	
+23	an-ub-da	an-ub-da	N1=STEM	22	GEN	N	quarter	
+24	limmu₂-ba	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN	23	amod	NU	four	
+25	diŋir-ra-ni-ir	diŋir	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	22	appos	N	deity	
+26	i-tu-ri-a	i-tu-ri-a	N1=NAME	31	ERG	PN	1	
+27	ensi₂	ensi₂	N1=STEM	26	appos	N	ruler	
+28	aš₂-nun-na{ki}-ka	aš₂-nun-na{ki}	N1=Ešnunak.N5=GEN	27	GEN	SN	1	
+29	arad₂-da-ni-e	arad₂	N1=STEM.N3=3-SG-H-POSS.N5=ERG	26	appos	N	slave	
+30	e₂-a-ni	e₂	N1=STEM.N3=3-SG-H-POSS.N5=ABS	31	ABS	N	house	
+31	mu-na-an-du₃	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	build
+	
+

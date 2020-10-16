@@ -1,0 +1,22 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nanše	{d}nanše	N1=NAME	19	DAT-H	DN	1	
+2	nin	nin	N1=STEM	1	appos	N	lady	
+3	uru₁₆	uru₁₆	NV2=STEM	2	amod	V/i	exalted	
+4	nin	nin	N1=STEM	1	appos	N	lady	
+5	in-dub-ba	in-dub-ba	N1=STEM.N5=GEN	4	GEN	N	boundary	
+6	nin-a-ni	nin	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	1	appos	N	lady	
+7	šul-gi	šul-gi	N1=NAME	19	ERG	RN	1	
+8	nita	nita	N1=STEM	7	appos	N	male	
+9	kalag-ga	kalag	NV2=STEM.NV4=SUB	8	amod	V/i	strong	
+10	lugal	lugal	N1=STEM	7	appos	N	king	
+11	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	10	GEN	SN	1	
+12	lugal	lugal	N1=STEM	7	appos	N	king	
+13	ki-en-gi	ki-en-gi	N1=NAME	12	GEN	GN	1	
+14	ki-uri-ke₄	ki-uri	N1=NAME.N5=GEN.N5=ERG	13	appos	GN	1	
+15	e₂-šeš-šeš-e-ŋa₂-ra	e₂-šeš-šeš-e-ŋa₂-ra	N1=NAME	19	ABS	TN	1	
+16	e₂	e₂	N1=STEM	18	ABS	N	house	
+17	ki	ki	N1=STEM.N5=ABS	16	appos	N	place	
+18	aŋ₂-ŋa₂-ni	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	15	amod	V/t	measure	
+19	mu-na-du₃	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	build
+	
+

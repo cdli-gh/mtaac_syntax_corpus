@@ -1,0 +1,32 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nanna	{d}nanna	N1=NAME	16	DAT-H	DN	1	
+2	dumu-saŋ	dumu-saŋ	N1=STEM	1	appos	N	first-born	
+3	{d}en-lil₂-la₂	{d}en-lil₂	N1=NAME.N5=GEN	2	GEN	DN	1	
+4	lugal-a-ni	lugal	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	1	appos	N	king	
+5	ur-{d}namma	ur-{d}namma	N1=NAME	16	ERG	RN	1	
+6	nita	nita	N1=STEM	5	appos	N	male	
+7	kalag-ga	kalag	NV2=STEM.NV4=SUB	6	amod	V/i	strong	
+8	lugal	lugal	N1=STEM	5	appos	N	king	
+9	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	8	GEN	SN	1	
+10	lugal	lugal	N1=STEM	5	appos	N	king	
+11	ki-en-gi	ki-en-gi	N1=NAME	10	GEN	GN	1	
+12	ki-uri-ke₄	ki-uri	N1=NAME.N5=GEN.N5=ERG	11	appos	GN	1	
+13	lu₂	lu₂	N1=STEM	16	ABS	N	person	
+14	e₂	e₂	N1=STEM	13	appos	N	house	
+15	{d}nanna	{d}nanna	N1=NAME.N5=GEN.N5=ABS	14	GEN	DN	1	
+16	in-du₃-a	du₃	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	20	ERG	V/t	build	
+17	niŋ₂	niŋ₂	N1=STEM	20	GEN.L3-NH	N	thing	
+18	ul-li₂-a-ke₄	ul-li₂	NV2=STEM.NV4=SUB.N5=GEN.N5=L3-NH	17	amod	V/i	distant	
+19	pa	pa	N1=STEM.N5=ABS	20	ABS	N	branch	
+20	mu-na-e₃	e₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/i	leave	
+21	gaba	gaba	N1=STEM	0	_	N	chest	
+22	a-ab-ka-ka	a-ab	N1=STEM.N5=GEN.N5=L2-NH	21	GEN	N	sea	
+23	ki-saₓ(SAR)-a	ki-saₓ(SAR)	N1=STEM.N5=L2-NH	25	L2-NH	N	platform	
+24	nam-ga-eš₈	nam-ga-eš₈	N1=STEM.N5=ABS	25	ABS	N	trade	
+25	bi₂-sa₂	sa₂	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	equal	
+26	ma₂	ma₂	N1=STEM	29	ABS	N	ship	
+27	ma₂-gan	ma₂-gan	N1=NAME.N5=ABS	26	appos	GN	1	
+28	šu-na	šu	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	29	L2-NH	N	hand	
+29	mu-ni-gi₄	gi₄	V4=VEN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/i	turn
+	
+

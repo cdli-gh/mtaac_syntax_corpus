@@ -1,0 +1,17 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	ud	ud	N1=STEM	5	ABS	N	sun	
+2	e₂	e₂	N1=STEM	4	ABS	N	house	
+3	ki	ki	N1=STEM.N5=ABS	2	appos	N	place	
+4	aŋ₂-ŋa₂-ni	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	1	amod	V/t	measure	
+5	mu-na-du₃-a	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	11	L1	V/t	build	
+6	|BAD₃.AN.KI|	|BAD₃.AN.KI|	N1=NAME	11	ABS	SN	1	
+7	iri	iri	N1=STEM	9	ABS	N	city	
+8	ki	ki	N1=STEM.N5=ABS	7	appos	N	place	
+9	aŋ₂-ŋa₂-ni	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	6	amod	V/t	measure	
+10	ki-be₂	ki	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	11	L3-NH	N	place	
+11	mu-na-gi₄-a	gi₄	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	14	L1	V/i	turn	
+12	nam-til₃-la-ni-še₃	nam-til₃	N1=STEM.N3=3-SG-H-POSS.N5=TERM	14	TERM	N	life	
+13	a	a	N1=STEM.N5=ABS	14	ABS	N	water	
+14	mu-na-ru	ru	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	cvve
+	
+

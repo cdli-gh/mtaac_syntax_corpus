@@ -1,0 +1,46 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	N1=NAME	14	ERG	RN	1	
+2	diŋir	diŋir	N1=STEM	1	appos	N	deity	
+3	kalam-ma-na	kalam	N1=STEM.N3=3-SG-H-POSS.N5=GEN	2	GEN	N	land	
+4	lugal	lugal	N1=STEM	1	appos	N	king	
+5	kalag-ga	kalag	NV2=STEM.NV4=SUB	4	amod	V/i	strong	
+6	lugal	lugal	N1=STEM	1	appos	N	king	
+7	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	6	GEN	SN	1	
+8	lugal	lugal	N1=STEM	1	appos	N	king	
+9	an-ub-da	an-ub-da	N1=STEM	8	GEN	N	quarter	
+10	limmu₂-ba-ke₄	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	9	amod	NU	four	
+11	nam	nam	N1=STEM	14	ABS	N	fate	
+12	gal	gal	NV2=STEM	11	amod	V/i	big	
+13	ki	ki	N1=STEM.N5=ABS	11	appos	N	place	
+14	aŋ₂	aŋ₂	NV2=STEM	17	COM	V/t	measure	
+15	{d}suen-na-da	{d}suen	N1=NAME.N5=GEN.N5=COM	14	GEN	DN	1	
+16	urim₅{ki}	urim₅{ki}	N1=NAME.N5=ABS	17	ABS	SN	1	
+17	daŋal-e-de₃	daŋal	NV2=STEM.NV3=PF.N5=DAT-NH	19	DAT-NH	V/i	wide	
+18	sa	sa₂	N1=STEM.N5=ABS	19	ABS	N	advice	
+19	im-ma-ši-ŋar	ŋar	V2=FIN.V4=VEN.V5=MID.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	place	
+20	ur₅-ta	ur₅	N1=STEM.N5=ABL	0	_	IP	he	
+21	kalam	kalam	N1=STEM.N5=ABS	22	ABS	N	land	
+22	gen₆-ne₂	gen₆	NV2=STEM.NV3=PF	25	ABS	V/i	establish	
+23	sig	sig	NV2=STEM	22	appos	V/i	weak	
+24	nim	nim	NV2=STEM.N5=ABS	22	appos	V/i	high	
+25	gurum-e-de₃	gurum	NV2=STEM.NV3=PF.N5=DAT-NH	30	DAT-NH	V/t	bend	
+26	bad₃	bad₃	N1=STEM	30	L1	N	wall	
+27	gal	gal	NV2=STEM	26	amod	V/i	big	
+28	za-pa-aŋ₂-ba	za-pa-aŋ₂	N1=STEM.N3=3-SG-NH-POSS.N5=L1	26	appos	N	breath	
+29	šu	šu	N1=STEM.N5=ABS	30	ABS	N	hand	
+30	nu-ku₄-ku₄	ku₄-ku₄	NV1=NEG.NV2=STEM-PF.NV3=PF.N5=ABS	34	ABS	V/i	enter	
+31	hur-saŋ	hur-saŋ	N1=STEM	34	EQU	N	mountain	
+32	sig₇-ga-gin₇	sig₇	NV2=STEM.NV4=SUB.N5=EQU	31	amod	V/i	green	
+33	iri{ki}-ne₂	iri{ki}	N1=STEM.N3=3-SG-H-POSS.N5=L3-NH	34	L3-NH	N	city	
+34	im-mi-dab₆	dab₆	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	go around	
+35	uru₁₈	uru₁₈	N1=STEM.N5=L1	38	L1	N	root	
+36	temen-be₂	temen	N1=STEM.N3=3-SG-NH-POSS.N5=DAT-NH	38	DAT-NH	N	foundation	
+37	ki	ki	N1=STEM.N5=ABS	38	ABS	N	place	
+38	in-ma-ni-pad₃	pad₃	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=pad.V14=3-SG-P	0	_	V/t	find	
+39	bad₃-ba	bad₃	N1=STEM.N3=DEM2.N5=GEN	0	_	N	wall	
+40	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	N1=NAME.N5=ABS	39	GEN	RN	1	
+41	gu₂-gal	gu₂-gal	N1=STEM	0	_	N	inspector	
+42	nam-nun-na	nam-nun	N1=STEM.N5=GEN.N5=ABS	41	GEN	N	magnificence	
+43	mu-bi-im	mu	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	0	_	N	name
+	
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}šara₂	{d}šara₂	N1=NAME	22	DAT-H	DN	1	
+2	nir-ŋal₂	nir-ŋal₂	NV2=STEM	1	amod	V/i	authoritative	
+3	an-na	an	N1=NAME.N5=GEN	1	GEN	DN	1	
+4	dumu	dumu	N1=STEM	6	ABS	N	child	
+5	ki	ki	N1=STEM.N5=ABS	4	appos	N	place	
+6	aŋ₂	aŋ₂	NV2=STEM	1	amod	V/t	measure	
+7	{d}inana	{d}inana	N1=NAME.N5=GEN	6	GEN	DN	1	
+8	ad-da-ni-ir	ad-da	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	6	appos	N	father	
+9	{d}šu-{d}suen	{d}šu-{d}suen	N1=NAME	22	ERG	RN	1	
+10	lugal	lugal	N1=STEM	9	appos	N	king	
+11	kalag-ga	kalag	NV2=STEM.NV4=SUB	10	amod	V/i	strong	
+12	lugal	lugal	N1=STEM	9	appos	N	king	
+13	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	12	GEN	SN	1	
+14	lugal	lugal	N1=STEM	9	appos	N	king	
+15	an-ub-da	an-ub-da	N1=STEM	14	GEN	N	quarter	
+16	limmu₂-ba-ke₄	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	15	amod	NU	four	
+17	e₂-šag₄-ge₄-pad₃-da	e₂-šag₄-ge₄-pad₃-da	N1=NAME	22	ABS	TN	1	
+18	e₂	e₂	N1=STEM	20	ABS	N	house	
+19	ki	ki	N1=STEM.N5=ABS	18	appos	N	place	
+20	aŋ₂-ŋa₂-ni	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	17	amod	V/t	measure	
+21	nam-til₃-la-ni-še₃	nam-til₃	N1=STEM.N3=3-SG-H-POSS.N5=TERM	22	TERM	N	life	
+22	mu-na-du₃	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	build
+	
+

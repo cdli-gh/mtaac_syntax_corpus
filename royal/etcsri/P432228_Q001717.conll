@@ -1,0 +1,27 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	šul-gi	šul-gi	N1=NAME	0	_	RN	1	
+2	nita	nita	N1=STEM	1	appos	N	male	
+3	kalag-ga	kalag	NV2=STEM.NV4=SUB	2	amod	V/i	strong	
+4	lugal	lugal	N1=STEM	1	appos	N	king	
+5	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	4	GEN	SN	1	
+6	lugal	lugal	N1=STEM	1	appos	N	king	
+7	ki-en-gi	ki-en-gi	N1=NAME	6	GEN	GN	1	
+8	ki-uri-x	ki-uri	N1=NAME.N5=GEN.N5=ABS	7	appos	GN	1	
+9	šu-qur-tum	šu-qur-tum	N1=NAME	0	_	PN	1	
+10	lukur	lukur	N1=STEM	12	ABS	N	priestess	
+11	ki	ki	N1=STEM.N5=ABS	10	appos	N	place	
+12	aŋ₂-ŋa₂-ni	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	9	amod	V/t	measure	
+13	lu₂	lu₂	N1=STEM	16	L2-NH	N	person	
+14	mu-sar-ra-ba	mu-sar-ra	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	13	appos	N	inscription	
+15	šu	šu	N1=STEM.N5=ABS	16	ABS	N	hand	
+16	bi₂-ib₂-uru₁₂-a	uru₁₂	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	18	ABS	V/t	drag	
+17	mu-ni	mu	N1=STEM.N3=3-SG-H-POSS.N5=ABS	16	appos	N	name	
+18	bi₂-ib₂-sar-a	sar	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=ABS	0	_	V/t	write	
+19	{d}nin-sumun₂	{d}nin-sumun₂	N1=NAME	24	ERG	DN	1	
+20	diŋir-ŋu₁₀	diŋir	N1=STEM.N3=1-SG-POSS	19	appos	N	deity	
+21	{d}lugal-ban₃-da	{d}lugal-ban₃-da	N1=NAME	19	appos	DN	1	
+22	lugal-ŋu₁₀	lugal	N1=STEM.N3=1-SG-POSS.N5=ERG	19	appos	N	king	
+23	nam	nam	N1=STEM.N5=ABS	24	ABS	N	fate	
+24	ha-ba-da-kuru₅-ne	kuru₅	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-PL-A	0	_	V/t	cut
+	
+

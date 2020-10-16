@@ -1,0 +1,31 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}šu-{d}suen	{d}šu-{d}suen	N1=NAME	3	ABS	RN	1	
+2	ki	ki	N1=STEM.N5=ABS	1	appos	N	place	
+3	aŋ₂	aŋ₂	NV2=STEM	8	ERG	V/t	measure	
+4	{d}en-lil₂-la₂	{d}en-lil₂	N1=NAME.N5=GEN	3	GEN	DN	1	
+5	lugal	lugal	N1=STEM	3	appos	N	king	
+6	{d}en-lil₂-le	{d}en-lil₂	N1=NAME.N5=ERG	5	appos	DN	1	
+7	ki	ki	N1=STEM.N5=ABS	8	ABS	N	place	
+8	aŋ₂	aŋ₂	NV2=STEM	10	L1	V/t	measure	
+9	šag₄-ga-na	šag₄	N1=STEM.N3=3-SG-H-POSS.N5=L1	8	appos	N	heart	
+10	in-pad₃	pad₃	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	find	
+11	lugal	lugal	N1=STEM	27	DAT-H	N	king	
+12	kalag-ga	kalag	NV2=STEM.NV4=SUB	11	amod	V/i	strong	
+13	lugal	lugal	N1=STEM	11	appos	N	king	
+14	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	13	GEN	SN	1	
+15	lugal	lugal	N1=STEM	11	appos	N	king	
+16	an-ub-da	an-ub-da	N1=STEM	15	GEN	N	quarter	
+17	limmu₂-ba	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN	16	amod	NU	four	
+18	diŋir	diŋir	N1=STEM	20	ABS	N	deity	
+19	ki	ki	N1=STEM.N5=ABS	18	appos	N	place	
+20	aŋ₂-ŋa₂-a-ni	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	15	amod	V/t	measure	
+21	ha-ba-lu₅-ge₂	ha-ba-lu₅-ge₂	N1=NAME	27	ERG	PN	1	
+22	ensi₂	ensi₂	N1=STEM	21	appos	N	ruler	
+23	adab{ki}	adab{ki}	N1=NAME.N5=GEN	22	GEN	SN	1	
+24	arad-da-ne₂	arad	N1=STEM.N3=3-SG-H-POSS.N5=ERG	21	appos	N	slave	
+25	e₂	e₂	N1=STEM	27	ABS	N	house	
+26	ki	ki	N1=STEM.N5=ABS	25	appos	N	place	
+27	aŋ₂-ŋa₂-a-ni	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	28	ABS	V/t	measure	
+28	mu-na-du₃	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	build
+	
+

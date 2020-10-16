@@ -1,0 +1,36 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nanna	{d}nanna	N1=NAME	24	DAT-H	DN	1	
+2	amar	amar	N1=STEM	1	appos	N	young	
+3	ban₃-da	ban₃-da	NV2=STEM	2	amod	V/i	junior	
+4	an-na	an	N1=NAME.N5=GEN	2	GEN	DN	1	
+5	en	en	N1=STEM	1	appos	N	lord	
+6	dumu-saŋ	dumu-saŋ	N1=STEM	1	appos	N	first-born	
+7	{d}en-lil₂-la₂	{d}en-lil₂	N1=NAME.N5=GEN	6	GEN	DN	1	
+8	lugal-a-ni-ir	lugal	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	1	appos	N	king	
+9	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	N1=NAME	24	ERG	RN	1	
+10	diŋir	diŋir	N1=STEM	9	appos	N	deity	
+11	kalam-ma-na	kalam	N1=STEM.N3=3-SG-H-POSS.N5=GEN	10	GEN	N	land	
+12	lugal	lugal	N1=STEM	9	appos	N	king	
+13	kalag-ga	kalag	NV2=STEM.NV4=SUB	12	amod	V/i	strong	
+14	lugal	lugal	N1=STEM	9	appos	N	king	
+15	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	14	GEN	SN	1	
+16	lugal	lugal	N1=STEM	9	appos	N	king	
+17	an-ub-da	an-ub-da	N1=STEM	16	GEN	N	quarter	
+18	limmu₂-ba-ke₄	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	17	amod	NU	four	
+19	ur	ur	N1=STEM	24	ABL	N	dog	
+20	gun₃-a	gun₃	NV2=STEM.NV4=SUB	19	amod	V/i	speckled	
+21	me-luh-ha{ki}	me-luh-ha{ki}	N1=NAME.N5=GEN	19	GEN	GN	1	
+22	mar-ha-ši{ki}-ta	mar-ha-ši{ki}	N1=NAME.N5=ABL	19	appos	GN	1	
+23	gu₂-un-še₃	gu₂-un	N1=STEM.N5=TERM	24	TERM	N	load	
+24	mu-na-ab-tum₂-ma-ni	tum₂	V4=VEN.V11=3-SG-NH-A.V12=STEM.V14=3-SG-P.V15=SUB.N3=3-SG-H-POSS.N5=X	26	X	V/t	lead	
+25	tam-ši-lum-bi	tam-ši-lum	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	26	ABS	N	image	
+26	mu-dim₂	dim₂	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	create	
+27	nam-til₃-la-ni-še₃	nam-til₃	N1=STEM.N3=3-SG-H-POSS.N5=TERM	29	TERM	N	life	
+28	a	a	N1=STEM.N5=ABS	29	ABS	N	water	
+29	mu-na-ru	ru	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	cvve	
+30	ur	ur	N1=STEM	32	GEN	N	dog	
+31	gun₃-a-ba	gun₃	NV2=STEM.NV4=SUB.N3=DEM2.N5=GEN	30	amod	V/i	speckled	
+32	he₂-dab₅	dab₅	V1=MOD1.V2=FIN.V14=STEM.V14=3-SG-S	0	_	V/t	seize	
+33	mu-bi-im	mu	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	0	_	N	name
+	
+

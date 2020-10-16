@@ -1,0 +1,31 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nun-gal	{d}nun-gal	N1=NAME	13	DAT-H	DN	1	
+2	nin	nin	N1=STEM	1	appos	N	lady	
+3	e₂-kur-ra	e₂-kur	N1=STEM.N5=GEN	2	GEN	N	prison	
+4	nin	nin	N1=STEM	6	ABS	N	lady	
+5	lu₂	lu₂	N1=STEM.N5=ABS	4	appos	N	person	
+6	til₃-til₃	til₃-til₃	NV2=STEM-RDP	2	amod	V/i	live	
+7	nin-a-ni-ir	nin	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	6	appos	N	lady	
+8	nam-til₃	nam-til₃	N1=STEM	13	L1	N	life	
+9	{d}amar-{d}suen	{d}amar-{d}suen	N1=NAME	8	appos	RN	1	
+10	nibru{ki}-a	nibru{ki}	N1=NAME.N5=L1	8	appos	SN	1	
+11	{d}en-lil₂-le	{d}en-lil₂	N1=NAME.N5=ERG	13	ERG	DN	1	
+12	mu	mu	N1=STEM.N5=ABS	13	ABS	N	name	
+13	pad₃-da	pad₃	NV2=STEM.NV4=SUB	28	TERM	V/t	find	
+14	saŋ-us₂	saŋ-us₂	NV2=STEM	13	appos	V/i	constant	
+15	e₂	e₂	N1=STEM	14	GEN	N	house	
+16	{d}en-lil₂-ka	{d}en-lil₂	N1=NAME.N5=GEN.N5=GEN	15	GEN	DN	1	
+17	nita	nita	N1=STEM	13	appos	N	male	
+18	kalag-ga	kalag	NV2=STEM.NV4=SUB	17	amod	V/i	strong	
+19	lugal	lugal	N1=STEM	13	appos	N	king	
+20	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	19	GEN	SN	1	
+21	lugal	lugal	N1=STEM	19	GEN	N	king	
+22	an-ub-da	an-ub-da	N1=STEM	21	GEN	N	quarter	
+23	limmu₂-ba-ka-še₃	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	22	amod	NU	four	
+24	puzur₄-i₃-li₂	puzur₄-i₃-li₂	N1=NAME	28	ERG	PN	1	
+25	šabra	šabra	N1=STEM	24	appos	N	administrator	
+26	e₂-UG-ti-ke₄	e₂-UG-ti	N1=NAME.N5=GEN.N5=ERG	25	GEN	TN	1	
+27	a	a	N1=STEM.N5=ABS	28	ABS	N	water	
+28	mu-na-ru	ru	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	cvve
+	
+

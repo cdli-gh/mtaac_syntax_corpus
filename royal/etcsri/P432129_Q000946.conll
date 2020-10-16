@@ -1,0 +1,39 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nanna	{d}nanna	N1=NAME	15	DAT-H	DN	1	
+2	dumu-saŋ	dumu-saŋ	N1=STEM	1	appos	N	first-born	
+3	{d}en-lil₂-la₂	{d}en-lil₂	N1=NAME.N5=GEN	2	GEN	DN	1	
+4	lugal-a-ni	lugal	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	1	appos	N	king	
+5	ur-{d}namma	ur-{d}namma	N1=NAME	15	ERG	RN	1	
+6	nita	nita	N1=STEM	5	appos	N	male	
+7	kalag-ga	kalag	NV2=STEM.NV4=SUB	6	amod	V/i	strong	
+8	lugal	lugal	N1=STEM	5	appos	N	king	
+9	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	8	GEN	SN	1	
+10	lugal	lugal	N1=STEM	5	appos	N	king	
+11	ki-en-gi	ki-en-gi	N1=NAME	10	GEN	GN	1	
+12	ki-uri-ke₄	ki-uri	N1=NAME.N5=GEN.N5=ERG	11	appos	GN	1	
+13	sug	sug	N1=STEM	15	ABS	N	marsh	
+14	peš	peš	N1=STEM.N5=ABS	13	appos	N	seedling	
+15	du₃-a	du₃	NV2=STEM.NV4=SUB	17	ABS	V/t	build	
+16	sug	sug	N1=STEM.N5=ABS	15	appos	N	marsh	
+17	he₂-me-am₃	me	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S.N6=COP-3-SG	0	_	V/i	be	
+18	a-šag₄-bi	a-šag₄	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	0	_	N	field	
+19	1(šargal){gal}	_	_	0	_	n	_	
+20	gana₂-am₃	gana₂	N1=STEM.N5=ABS.N6=COP-3-SG	22	ABS.	N	field	
+21	a-ta	a	N1=STEM.N5=ABL	22	ABL	N	water	
+22	ha-mu-na-ta-ed₃	ed₃	V1=MOD1.V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/i	ascend	
+23	eg₂-bi	eg₂	N1=STEM.N3=3-SG-NH-POSS	0	_	N	levee	
+24	4(diš)	_	_	0	_	n	_	
+25	da-na	da-na	N1=STEM	0	_	N	unit	
+26	4(geš₂)	_	_	0	_	n	_	
+27	2(u)	_	_	0	_	n	_	
+28	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	N1=STEM	0	_	N	pole	
+29	he₂-na-ak	ak	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	do	
+30	urim₅{ki}-e	urim₅{ki}	N1=NAME.N5=L3-NH	32	L3-NH	SN	1	
+31	gil-sa-aš	gil-sa	N1=STEM.N5=ADV	32	ADV	N	treasure	
+32	he₂-mi-ak	ak	V1=MOD1.V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	do	
+33	eg₂-ba	eg₂	N1=STEM.N3=DEM2.N5=GEN	0	_	N	levee	
+34	a-ba	a-ba	N1=STEM.N5=ABS	33	GEN	N	who?	
+35	{d}nanna-gin₇	{d}nanna	N1=NAME.N5=EQU	0	_	DN	1	
+36	mu-bi	mu	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	0	_	N	name
+	
+

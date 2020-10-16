@@ -1,0 +1,28 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}bil₃-ga-meš₃	{d}bil₃-ga-meš₃	N1=NAME	15	DAT-H	DN	1	
+2	enegir₃{ki}	enegir₃{ki}	N1=NAME.N5=GEN	1	GEN	SN	1	
+3	lugal-a-ni	lugal	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	1	appos	N	king	
+4	ur-{d}namma	ur-{d}namma	N1=NAME	15	ERG	RN	1	
+5	nita	nita	N1=STEM	4	appos	N	male	
+6	kalag-ga	kalag	NV2=STEM.NV4=SUB	5	amod	V/i	strong	
+7	lugal	lugal	N1=STEM	4	appos	N	king	
+8	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	7	GEN	SN	1	
+9	lugal	lugal	N1=STEM	4	appos	N	king	
+10	ki-en-gi	ki-en-gi	N1=NAME	9	GEN	GN	1	
+11	ki-uri-ke₄	ki-uri	N1=NAME.N5=GEN.N5=ERG	10	appos	GN	1	
+12	ud	ud	N1=STEM	15	ABS	N	sun	
+13	e₂	e₂	N1=STEM	12	appos	N	house	
+14	{d}nanna	{d}nanna	N1=NAME.N5=GEN.N5=ABS	13	GEN	DN	1	
+15	mu-du₃-a	du₃	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	18	L1	V/t	build	
+16	nam-til₃-la-ni-še₃	nam-til₃	N1=STEM.N3=3-SG-H-POSS.N5=TERM	18	TERM	N	life	
+17	a	a	N1=STEM.N5=ABS	18	ABS	N	water	
+18	mu-na-ru	ru	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	cvve	
+19	lu₂	lu₂	N1=STEM	22	L2-NH	N	person	
+20	mu-sar-ra-ba	mu-sar-ra	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	19	appos	N	inscription	
+21	šu	šu	N1=STEM.N5=ABS	22	ABS	N	hand	
+22	bi₂-ib₂-uru₁₂-a	uru₁₂	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=ABS	0	_	V/t	drag	
+23	{d}bil₃-ga-meš₃-e	{d}bil₃-ga-meš₃	N1=NAME.N5=ERG	25	ERG	DN	1	
+24	nam	nam	N1=STEM.N5=ABS	25	ABS	N	fate	
+25	ha-ba-da-kud-e	kud	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-SG-A	0	_	V/t	cut
+	
+

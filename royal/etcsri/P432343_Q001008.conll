@@ -1,0 +1,20 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	lugal	lugal	N1=STEM	6	ERG	N	king	
+2	ki-en-gi	ki-en-gi	N1=NAME	1	GEN	GN	1	
+3	ki-uri-ke₄	ki-uri	N1=NAME.N5=GEN.N5=ERG	2	appos	GN	1	
+4	nam-til₃-la-ni-še₃	nam-til₃	N1=STEM.N3=3-SG-H-POSS.N5=TERM	6	TERM	N	life	
+5	a	a	N1=STEM.N5=ABS	6	ABS	N	water	
+6	mu-na-ru	ru	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	_	V/t	cvve	
+7	lu₂	lu₂	N1=STEM	10	L2-NH	N	person	
+8	mu-sar-ra-ba	mu-sar-ra	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	7	appos	N	inscription	
+9	šu	šu	N1=STEM.N5=ABS	10	ABS	N	hand	
+10	bi₂-ib₂-uru₁₂-a	uru₁₂	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	12	ABS	V/t	drag	
+11	mu-ni	mu	N1=STEM.N3=3-SG-H-POSS.N5=ABS	10	appos	N	name	
+12	bi₂-ib₂-sar-a	sar	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	0	_	V/t	write	
+13	lu₂-ba	lu₂	N1=STEM.N3=DEM2.N5=X	12	appos	N	person	
+14	{d}nanna	{d}nanna	N1=NAME	0	_	DN	1	
+15	lugal-ŋu₁₀	lugal	N1=STEM.N3=1-SG-POSS	0	_	N	king	
+16	x-ŋu₁₀	_	_	0	_	u	_	
+17	{d}nin-gal-e	{d}nin-gal	N1=NAME.N5=ERG	0	_	DN	1
+	
+

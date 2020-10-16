@@ -1,0 +1,12 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}šul-gi	{d}šul-gi	N1=NAME	0	_	RN	1	
+2	nita	nita	N1=STEM	1	appos	N	male	
+3	kalag-ga	kalag	NV2=STEM.NV4=SUB	2	amod	V/i	strong	
+4	lugal	lugal	N1=STEM	1	appos	N	king	
+5	urim₅{ki}-ma-ke₄	urim₅{ki}	N1=NAME.N5=GEN.N5=ERG	4	GEN	SN	1	
+6	na-ra-am-i₃-li₂	na-ra-am-i₃-li₂	N1=NAME	0	_	PN	1	
+7	sukkal	sukkal	N1=STEM	6	appos	N	secretary	
+8	i₃-du₈	i₃-du₈	N1=STEM.N5=GEN.N5=ABS	7	GEN	N	doorkeeper	
+9	arad₂-zu	arad₂	N1=STEM.N3=2-SG-POSS.N5=ABS	0	_	N	slave
+	
+
