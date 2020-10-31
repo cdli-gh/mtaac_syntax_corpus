@@ -1,6 +1,12 @@
 # MTAAC/CDLI Ur-III parallel subcorpus
 
-Used for projecting dependency annotations from English translations
+Projected dependency annotations from English translations
+
+## Contents
+
+- `atf/` parallel subcorpus of the MTAAC/CDLI Ur-III corpus
+- `sux-projected/` raw projection from English, CoNLL format
+- `sux-mtaac/` MTAAC dependencies automatically derived from projections [TODO]
 
 ## Approach
 - extract ATF files with English translations from https://github.com/cdli-gh/mtaac_cdli_ur3_corpus (preserve test/train/dev split)
