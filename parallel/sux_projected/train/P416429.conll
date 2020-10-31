@@ -1,0 +1,118 @@
+# train/P416429.atf
+						
+
+# tr.en: male lambs female lambs male ids female kids newborns female lambs male kid male kid female kids female kids additional newborns suckling long-fleeced lamb suckling male kid suckling male kid speckled female kid speckled additional newborns slaughtered among old suckling fat-tailed female lamb newborn slaughtered of delivery house of shrine accepted month th day year Kimas was destroyed
+1	4(disz)	_	NN	0	nummod	
+2	sila4	male	JJ	1	amod	
+3	gub	lambs	NNS	1	compound	
+4	...	_	NN	1	appos	
+5	8(disz)	_	_	0	nummod	
+6	kir11	female	JJ	4	amod	
+7	gub	lambs	NNS	4	compound	
+8	...	_	NN	4	appos	
+9	5(disz)	_	_	0	nummod	
+10	masz2	male	JJ	8	amod	
+11	gub	ids	NNS	8	compound	
+12	...	_	NN	4	appos	
+13	6(disz)	_	_	0	nummod	
+14	{munus}asz2-gar3	female kids	JJ	12	amod	
+15	gub	_	,	12	_	
+16	...	_	_	0	dep	
+17	($	_	CD	12	amod	
+18	blank	_	_	0	_	
+19	space	_	_	0	_	
+20	$)	_	_	0	_	
+21	2(u)	_	_	0	nummod	
+22	3(disz)	_	_	21	nummod	
+23	u3-tu-da	newborns	NNS	12	appos	
+24	2(disz)	_	NN	4	nummod	
+25	kir11	female	JJ	24	amod	
+26	gub	lambs	NNS	24	compound	
+27	...	_	NN	24	appos	
+28	1(disz)	_	_	0	nummod	
+29	masz2	male	JJ	27	amod	
+30	gub	kid	NN	27	compound	
+31	...	_	NN	24	appos	
+32	1(disz)	_	_	0	nummod	
+33	masz2	male	JJ	31	amod	
+34	gub	kid	NN	31	compound	
+35	...	_	NN	24	appos	
+36	3(disz)	_	_	0	nummod	
+37	{munus}asz2-gar3	female kids	JJ	35	amod	
+38	gub	_	,	35	_	
+39	...	_	,	35	dep	
+40	2(disz)	_	_	0	nummod	
+41	{munus}asz2-gar3	female kids	NNS	35	conj	
+42	gub	_	CD	35	conj	
+43	...	_	_	0	dep	
+44	($	_	,	35	_	
+45	blank	_	_	0	_	
+46	space	_	_	0	_	
+47	$)	_	_	0	_	
+48	1(u)	_	_	0	nummod	
+49	la2	_	_	48	_	
+50	1(disz@t)	_	_	49	nummod	
+51	diri	_	:	1	_	
+52	u3-tu-da	additional newborns	NNS	35	appos	
+53	1(disz)	_	,	54	nummod	
+54	sila4	lamb	NN	55	dobj	
+55	ga	suckling	VBG	1	xcomp	
+56	a-lum	long-fleeced	JJ	54	amod	
+57	1(disz)	_	,	54	nummod	
+58	masz2	male kid	NN	54	conj	
+59	ga	suckling	NN	58	compound	
+60	1(disz)	_	,	54	nummod	
+61	masz2	_	CD	65	nummod	
+62	ga	suckling	NN	63	compound	
+63	igi-gun3	male kid speckled	NN	54	conj	
+64	1(disz)	_	CD	54	nummod	
+65	{munus}asz2-gar3	female kid	NN	54	conj	
+66	igi-gun3	speckled	JJ	54	conj	
+67	($	_	_	0	_	
+68	blank	_	_	0	_	
+69	space	_	_	0	_	
+70	$)	_	_	0	_	
+71	4(disz)	_	_	0	nummod	
+72	diri	_	:	1	_	
+73	u3-tu-da	additional newborns	NNS	54	conj	
+74	ba-usz2	slaughtered	VBN	54	acl	
+75	sza3	_	:	1	_	
+76	libir	among old	JJ	1	nmod:among	
+77	1(disz)	_	CD	78	nummod	
+78	kir11	female lamb	NN	79	dobj	
+79	ga	suckling	VBG	103	xcomp	
+80	gukkal	fat-tailed	JJ	78	amod	
+81	($	_	_	0	_	
+82	blank	_	_	0	_	
+83	space	_	_	0	_	
+84	$)	_	_	0	_	
+85	1(disz)	_	_	0	nummod	
+86	u3-tu-da	newborn	JJ	78	conj	
+87	ba-usz2	slaughtered	VBN	78	acl	
+88	sza3	_	NN	94	compound	
+89	mu-kux(DU)-ra	of delivery	NN	79	nmod:of	
+90	x	_	,	94	dep	
+91	zi-ga	_	_	0	_	
+92	x	_	NN	94	appos	
+93	x	_	_	0	dep	
+94	e2-esz3	house shrine	NN	89	conj	
+95	...	house shrine	NN	94	nmod:of	
+96	x	_	_	0	dep	
+97	i3-dab5	_	_	0	_	
+98	...	_	_	0	dep	
+99	x	_	_	0	dep	
+100	x	_	NN	0	root	
+101	...	_	.	100	dep	
+102	x	_	,	54	dep	
+103	x	_	LS	1	dep	
+104	iti	month	NN	89	conj	
+105	...	_	``	111	dep	
+106	u4	th	_	0	_	
+107	mu	year	NN	111	appos	
+108	ki-masz{ki}	Kimas	NNP	110	nsubjpass	
+109	ba-hul	was destroyed	VBD	110	auxpass	
+110	3(u)	was destroyed	VBN	111	nummod	
+111	7(disz)	_	NN	89	nummod	
+112	udu	_	:	110	_
+	
+

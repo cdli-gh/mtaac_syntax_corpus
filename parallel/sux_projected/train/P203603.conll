@@ -1,0 +1,21 @@
+# train/P203603.atf
+						
+
+# tr.en: Basket-of-tablets long-tablets barley allocations of governor via Ur-Nigar son of Ur-Igalim are here year following Kima was destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub	long-tablets	NNS	5	compound	
+3	gid2-da	_	_	0	_	
+4	sze	barley	NN	5	compound	
+5	szuku-ra	allocations	NNS	11	nsubj	
+6	ensi2	governor	NN	5	nmod:of	
+7	giri3	via	IN	8	nmod:via	
+8	ur-nigar{gar}	Ur-Nigar	NNP	5	nmod:via	
+9	dumu	son	NN	8	appos	
+10	ur-{d}ig-alim	Ur-Igalim	NNP	9	nmod:of	
+11	i3-gal2	are here	RB	1	_	
+12	mu	year	NN	13	_	
+13	us2-sa	following	VBG	15	acl	
+14	ki-masz{ki}	_	:	15	_	
+15	ba-hul	was destroyed	VBN	11	parataxis
+	
+

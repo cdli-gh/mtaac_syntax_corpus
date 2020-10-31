@@ -1,0 +1,37 @@
+# train/P392634.atf
+						
+
+# tr.en: gur ban sila of large bread booked out of Szu-nir from Gurzan under seal of governor month extra year Simanum was destroyed Szu-Suen strong king king of Ur king of heaven with its four corners Ayakalla governor of Umma your servant
+1	1(asz)	_	''	5	nummod	
+10	ki	from	IN	11	nmod:from	
+11	gur4-za-an-ta	Gurzan	NNP	3	nmod:from	
+12	kiszib3	under seal	NN	3	nmod:under	
+13	ensi2	governor	NN	12	nmod:of	
+14	iti	month	NN	16	_	
+15	diri	_	``	16	_	
+16	mu	year	NN	3	_	
+17	si-ma-num2{ki}	Simanum	NNP	18	nsubjpass	
+18	ba-hul	was destroyed	VBN	16	acl	
+19	{d}szu-{d}suen	Szu-Suen	NNP	3	_	
+2	5(ban2)	_	_	1	nummod	
+20	lugal	king	NN	19	appos	
+21	kal-ga	strong	JJ	20	amod	
+22	lugal	king	NN	19	appos	
+23	uri5{ki}-ma	Ur	NN	22	nmod:of	
+24	lugal	king	NN	19	appos	
+25	an	four	CD	27	nummod	
+26	ub-da	heaven	NN	24	nmod:of	
+27	limmu2-ba	with its corners	NNS	24	nmod:with	
+28	a-a-kal-la	Ayakalla	NNP	19	_	
+29	ensi2	governor	NN	28	appos	
+3	5(disz)	ban	NN	2	nummod	
+30	umma{ki}	of Umma	NNP	29	nmod:of	
+31	ARAD2-zu	your servant	NN	28	appos
+	
+4	sila3	sila	NN	3	_	
+5	ninda	bread	NN	4	nmod:of	
+6	gal	large	JJ	5	amod	
+7	gur	gur	NN	3	compound	
+8	zi-ga	booked	VBN	5	acl	
+9	szu-nir	out Szu-nir	NN	8	nmod:out.of	
+

@@ -1,0 +1,32 @@
+# test/P273510.atf
+						
+
+# tr.en: fattened oxen Nanna in evening king enters When first day of month has passed From Ur-Szugalama booked out In Ur Month Szulgi festival Year en-priest of Eridu was installed oxen
+1	2(disz)	_	,	2	nummod	
+2	gu4	oxen	NN	3	dobj	
+3	niga	fattened	VBD	9	ccomp	
+4	{d}nanna	Nanna	NNP	2	appos	
+5	a2	_	,	9	_	
+6	u4	_	DT	8	det	
+7	te-na	in evening	NN	3	nmod:in	
+8	lugal	king	NN	9	nsubj	
+9	kux(KWU147)-ra	enters	VBZ	0	root	
+10	iti	month	NN	13	nmod:of	
+11	u4	_	.	9	_	
+12	1(disz)	_	_	0	nummod	
+13	ba-zal	When first day has passed	VBN	9	advcl	
+14	ki	_	,	15	_	
+15	ur-szu-ga-lam-ma-ta	From Ur-Szugalama	NNP	9	nmod:from	
+16	ba-zi	booked out	VBD	15	acl	
+17	sza3	In	IN	18	nmod:in	
+18	uri5{ki}-ma	Ur	NN	16	nmod:in	
+19	iti	Month	NNP	20	compound	
+20	ezem-{d}szul-gi	Szulgi festival	NN	9	parataxis	
+21	mu	Year	NN	20	_	
+22	en	en-priest	JJS	24	nsubjpass	
+23	eridu{ki}	Eridu	NNP	22	nmod:of	
+24	ba-hun	was installed	VBN	21	acl	
+25	2(disz)	_	.	9	nummod	
+26	gu4	oxen	NNS	24	_
+	
+

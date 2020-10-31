@@ -1,0 +1,36 @@
+# train/P273493.atf
+						
+
+# tr.en: long-baskets for dusu-service errum mats their extent garden for palace garment-boat covered from received Under official seal under seal of Ikalla Year unuri was destroyed Ikalla
+1	3(u)	_	,	3	nummod	
+2	5(disz)	_	CD	8	nummod	
+3	{gi}pisan	long-baskets	NNS	0	root	
+4	gid2-da	_	_	0	_	
+5	dusu	for dusu-service	NN	3	nmod:for	
+6	4(disz)	_	,	3	nummod	
+7	{gi}kid	errum	NN	8	compound	
+8	szer7-ru-um	mats	NNS	3	appos	
+9	ki-la2-bi	their extent	NN	3	appos	
+10	1(disz)	_	``	11	nummod	
+11	1/3(disz)	_	NN	3	nummod	
+12	sar	garden	CD	11	nummod	
+13	e2-gal-sze3	for palace garment-boat	NN	11	nmod:for	
+14	ma2	_	:	11	_	
+15	tug2	_	_	0	_	
+16	ba-a-dul9	covered	VBD	13	acl:relcl	
+17	...-ta	from	IN	11	nmod:from	
+18	...	_	.	11	dep	
+19	szu	_	_	0	_	
+20	ba-ti	received	VBN	11	acl	
+21	kiszib3	_	.	3	_	
+22	nam-sza3-tam	Under official seal	NN	11	nmod:under	
+23	kiszib3	under seal	NN	11	nmod:under	
+24	i3-kal-la	Ikalla	NNP	23	nmod:of	
+25	mu	Year	NN	3	_	
+26	hu-hu-nu-ri{ki}	unuri	NNP	27	nsubjpass	
+27	ba-hul	was destroyed	VBN	25	acl	
+28	i3-kal-la	Ikalla	NNP	3	_	
+29	...	_	NN	0	root	
+30	...	_	.	29	dep
+	
+

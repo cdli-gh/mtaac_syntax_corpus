@@ -1,0 +1,31 @@
+# train/P432228.atf
+						
+
+# tr.en: For Szulgi the mighty man king of Ur and king of Sumer and Akkad Szqurtum his beloved lukur priestess A person who this inscription shall erase and write his own name on it may Ninsun my goddess and Lugalbanda my master curse him
+1	szul-gi	For Szulgi	NNP	0	root	
+2	nita	the	DT	3	det	
+3	kal-ga	mighty man	NN	25	root	
+4	lugal	king	NN	3	conj	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	3	conj	
+7	ki-en-gi	Sumer	NNP	6	nmod:of	
+8	ki-uri-x	and and Akkad	CC	3	cc	
+9	szu-gur-tum	Szqurtum	NNP	3	appos	
+10	lukur	lukur priestess	NN	18	nsubj	
+11	ki-ag2-ga2-ni	his beloved	PRP$	10	nmod:poss	
+12	lu2	_	_	0	_	
+13	mu-sar-ra-ba	A person who this inscription	NN	10	appos	
+14	szu	_	_	0	_	
+15	bi2-ib2-ur3-a	shall erase	VB	13	acl:relcl	
+16	mu-ni	and	CC	15	cc	
+17	bi2-ib2-sar-a	write his own name on it	VB	15	conj	
+18	{d}nin-sun2	may Ninsun	VB	9	acl:relcl	
+19	dingir-mu	my goddess	NN	18	dobj	
+20	{d}lugal-banda3{da}	and Lugalbanda	CC	19	cc	
+21	lugal-mu	my master	PRP$	22	nmod:poss	
+22	nam	curse	NN	19	dobj	
+23	ha-ba-da-ku5-ne	him	PRP	22	nmod:npmod	
+24	 	_	NN	0	root	
+25	 	_	NN	24	appos
+	
+

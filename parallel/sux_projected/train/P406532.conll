@@ -1,0 +1,29 @@
+# train/P406532.atf
+						
+
+# tr.en: gur barig barley royal barley of interest of dumudab of from depot of village Urli from Bazi Ur-Dumuzi received month Harvest year Urbilum was destroyed
+1	9(asz)	_	,	3	nummod	
+2	4(barig)	barig	NN	1	nummod	
+3	sze	barley	NN	0	root	
+4	gur	gur	NN	3	compound	
+5	lugal	royal	NN	3	appos	
+6	sze	barley	NN	3	appos	
+7	ur5-ra	_	NN	10	nmod:of	
+8	dumu	_	:	3	_	
+9	dab5	_	_	0	_	
+10	u3-x	of interest of dumudab of	NN	6	nmod:of	
+11	i3-dub	from depot	NN	3	nmod:from	
+12	e2-duru5	_	,	11	_	
+13	ur-li-ka-ta	village Urli	NNP	11	nmod:of	
+14	ki	from	IN	16	nmod:from	
+15	ba-zi-ta	Bazi	NNP	16	compound	
+16	ur-{d}dumu-zi	Ur-Dumuzi	NNP	11	nmod:from	
+17	szu	_	:	3	_	
+18	ba-ti	received	VBD	11	acl	
+19	iti	month	NN	20	compound	
+20	sze-sag11-ku5	Harvest	NNP	23	_	
+21	mu	year	NN	23	nmod:tmod	
+22	ur-bi2-i3-lum{ki}	Urbilum	NN	23	nsubjpass	
+23	ba-hul	was destroyed	VBN	3	parataxis
+	
+

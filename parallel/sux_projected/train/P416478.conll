@@ -1,0 +1,28 @@
+# train/P416478.atf
+						
+
+# tr.en: male lamb female lamb suckling lamb slaughtered th day from Nalu Ur-nigar received month ki-siki of Ninazu year Kima urti were destroyed
+1	1(disz)	_	,	2	nummod	
+2	sila4	male lamb	NN	8	nsubj	
+3	1(disz)	_	,	2	nummod	
+4	kir11	female lamb	NN	2	appos	
+5	1(disz)	_	,	2	nummod	
+6	sila4	lamb	NN	2	appos	
+7	ga	suckling	NN	6	compound	
+8	ba-usz2	slaughtered	VBN	0	root	
+9	u4	th day	NN	8	nmod:tmod	
+10	1(u)	_	,	8	nummod	
+11	2(disz)-kam	_	_	10	nummod	
+12	ki	from	IN	16	mark	
+13	na-lu5-ta	Nalu	NNP	16	nsubj	
+14	ur-nigar{gar}	Ur-nigar	JJ	16	advmod	
+15	szu	_	:	8	_	
+16	ba-ti	received	VBN	8	advcl	
+17	iti	month	NN	8	_	
+18	ki-siki-{d}nin-a-zu	ki-siki Ninazu	NN	17	_	
+19	mu	year	NN	18	_	
+20	ki-masz{ki}	_	:	18	_	
+21	hu-ur5-ti{ki}	urti	NNP	22	nsubjpass	
+22	ba-hul	were destroyed	VBN	18	acl
+	
+

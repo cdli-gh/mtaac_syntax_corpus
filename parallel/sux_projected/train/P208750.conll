@@ -1,0 +1,177 @@
+# train/P208750.atf
+						
+
+# tr.en: its labor n days iku of tug-sag work harrowing times at iku field area its labor days bur of harrowing times at ee field area the troops labor days bur of harrowing times at ee field area the troops labor days bur ee iku of harrowing times at ee field area the troops labor days labor of harrowing sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar of hoeing at sar its labor days sar of pickaxing at sar its labor days sar of pickaxing at sar its labor days sar of pickaxing at sar its labor days workers for days cleaning furrows of clumps of earth and debris inspection of Ur-gigir supervisor of leatherworkers The foreman Ur-gigir oxen overseer under seal of Szekalla Kamari field Year Szauru was destroyed Lugal-nig-lagar-e scribe son of Dada
+1	...	_	_	0	dep	
+2	x	_	_	0	dep	
+3	...	_	_	0	dep	
+4	a2-bi	its labor	NN	171	_	
+5	u4	days	NNS	4	_	
+6	...	_	,	4	dep	
+7	5(iku)	_	_	0	nummod	
+8	GAN2	iku	NN	4	_	
+9	tug2-gurx(|SZE.KIN|)	tug-sag work	NN	8	compound	
+10	x	_	_	0	dep	
+11	x	_	_	0	dep	
+12	gesz-ur3-ra	harrowing	JJ	17	amod	
+13	a-ra2	_	_	0	_	
+14	3(disz)	_	_	0	nummod	
+15	4(iku)	_	_	14	nummod	
+16	1/2(iku)	_	_	14	nummod	
+17	GAN2-ta	area times at iku field	NNS	8	_	
+18	a2-bi	its labor	NN	4	appos	
+19	u4	days	NNS	4	_	
+20	3(u)	_	:	19	nummod	
+21	8(disz)	_	CD	24	nummod	
+22	1/3(disz)-kam	_	_	21	nummod	
+23	4(bur3)	_	,	24	nummod	
+24	GAN2	bur	NN	19	_	
+25	gesz-ur3-ra	harrowing	JJ	29	amod	
+26	a-ra2	_	_	0	_	
+27	4(disz)	_	_	0	nummod	
+28	1(esze3)	_	_	27	nummod	
+29	GAN2-ta	times at ee field area	NNS	24	nmod:of	
+30	a2	the	DT	31	det	
+31	erin2-na-bi	troops labor	NN	24	appos	
+32	u4	days	NNS	31	_	
+33	4(gesz2)	_	:	24	nummod	
+34	6(bur3)	_	,	35	nummod	
+35	GAN2	bur	NN	24	_	
+36	gesz-ur3-ra	harrowing	JJ	40	amod	
+37	a-ra2	_	_	0	_	
+38	3(disz)	_	_	0	nummod	
+39	1(esze3)	_	_	38	nummod	
+40	GAN2-ta	times	NNS	35	nmod:of	
+41	GAN2-ta	at ee field area	NN	35	nmod:at	
+42	a2	the	DT	43	det	
+43	erin2-na-bi	troops labor	NN	35	appos	
+44	u4	days	NNS	35	_	
+45	4(gesz2)	_	:	44	nummod	
+46	3(u)	_	CD	50	nummod	
+47	3(bur3)	_	,	46	nummod	
+48	1(esze3)	_	_	46	nummod	
+49	5(iku)	_	_	46	nummod	
+50	GAN2	bur	NN	44	_	
+51	gesz-ur3-ra	harrowing	JJ	55	amod	
+52	a-ra2	_	_	0	_	
+53	2(disz)	_	_	0	nummod	
+54	1(esze3)	_	_	53	nummod	
+55	GAN2-ta	area ee iku times at ee field	NN	50	appos	
+56	a2	the	DT	57	det	
+57	erin2-na-bi	troops labor	NN	50	appos	
+58	u4	days	_	0	_	
+59	1(gesz2)	_	:	50	nummod	
+60	4(u)	_	NNS	59	nummod	
+61	8(disz)	_	NN	59	nummod	
+62	a2	labor	_	0	_	
+63	gesz-ur3-ra	harrowing	JJ	61	nmod:of	
+64	2(gesz2)	_	,	59	nummod	
+65	3(u)	_	_	59	nummod	
+66	sar	sar	NN	60	_	
+67	al	hoeing	VBG	66	acl	
+68	5(disz)	_	_	0	nummod	
+69	sar-ta	at sar	NN	67	nmod:at	
+70	a2-bi	its labor	NN	60	appos	
+71	u4	days	NNS	60	_	
+72	3(u)	_	:	59	nummod	
+73	3(gesz'u)	_	,	59	nummod	
+74	1(gesz2)	_	_	59	nummod	
+75	5(u)	_	_	59	nummod	
+76	1(disz)	_	_	59	nummod	
+77	sar	sar	NN	60	_	
+78	al	hoeing	VBG	77	acl	
+79	6(disz)	_	_	0	nummod	
+80	sar-ta	at sar	NN	78	nmod:at	
+81	a2-bi	its labor	NN	60	appos	
+82	u4	days	NNS	60	_	
+83	5(gesz2)	_	:	59	nummod	
+84	1(u)	_	CD	91	nummod	
+85	8(disz)	_	_	84	nummod	
+86	1/2(disz)	_	_	84	nummod	
+87	2(gesz'u)	_	,	59	nummod	
+88	4(gesz2)	_	_	59	nummod	
+89	3(u)	_	_	59	nummod	
+90	7(disz)	_	_	59	nummod	
+91	sar	sar	NN	60	_	
+92	al	hoeing	VBG	91	acl	
+93	7(disz)	_	_	0	nummod	
+94	sar-ta	at sar	NN	92	nmod:at	
+95	a2-bi	its labor	NN	60	appos	
+96	u4	days	NNS	60	_	
+97	3(gesz2)	_	:	59	nummod	
+98	3(u)	_	CD	102	nummod	
+99	1(disz)	_	_	98	nummod	
+100	2(gesz'u)	_	,	59	nummod	
+101	9(gesz2)	_	_	59	nummod	
+102	sar	sar	NN	60	_	
+103	al	hoeing	VBG	102	acl	
+104	8(disz)	_	_	0	nummod	
+105	sar-ta	at sar	NN	103	nmod:at	
+106	a2-bi	its labor	NN	60	appos	
+107	u4	days	NNS	60	_	
+108	3(gesz2)	_	:	59	nummod	
+109	3(u)	_	CD	114	nummod	
+110	7(disz)	_	_	109	nummod	
+111	1/2(disz)	_	_	109	nummod	
+112	2(gesz2)	_	,	114	nummod	
+113	3(u)	_	_	112	nummod	
+114	sar	sar	NN	60	_	
+115	nig2-gul	pickaxing	NN	114	nmod:of	
+116	1(u)	_	_	0	nummod	
+117	5(disz)	_	_	116	nummod	
+118	sar-ta	at sar	NN	114	nmod:at	
+119	a2-bi	its labor	NN	114	appos	
+120	u4	days	NNS	119	_	
+121	1(u)	_	:	59	nummod	
+122	1(gesz'u)	_	,	124	nummod	
+123	5(gesz2)	_	_	122	nummod	
+124	sar	sar	NN	60	_	
+125	nig2-gul	pickaxing	NN	124	nmod:of	
+126	2(u)	_	_	0	nummod	
+127	sar-ta	at sar	NN	124	nmod:at	
+128	a2-bi	its labor	NN	124	appos	
+129	u4	days	NNS	124	_	
+130	4(u)	_	:	59	nummod	
+131	5(disz)	_	CD	135	nummod	
+132	3(gesz2)	_	,	131	nummod	
+133	3(u)	_	_	131	nummod	
+134	6(disz)	_	_	131	nummod	
+135	sar	sar	NN	60	_	
+136	nig2-gul	pickaxing	NN	135	nmod:of	
+137	1(u)	_	_	0	nummod	
+138	2(disz)	_	_	137	nummod	
+139	sar-ta	at sar	NN	135	nmod:at	
+140	a2-bi	its labor	NN	135	appos	
+141	u4	days	NNS	135	_	
+142	1(u)	_	:	141	nummod	
+143	8(disz)	_	CD	146	nummod	
+144	x	_	,	146	dep	
+145	2(gesz2)	_	_	0	nummod	
+146	gurusz	workers	NNS	141	conj	
+147	u4	days	NNS	146	nmod:for	
+148	n-sze3	for	IN	147	nmod:for	
+149	la-ag	cleaning furrows	VBG	146	acl	
+150	ab-sin2-ta	clumps	NNS	149	nmod:of	
+151	ri-ri-ga	earth and debris	NN	150	nmod:of	
+152	gurum2-ak	inspection	NN	141	_	
+153	ur-{gesz}gigir	Ur-gigir	NN	152	nmod:of	
+154	ugula	_	.	152	_	
+155	aszgab(TA)	supervisor leatherworkers	NN	152	appos	
+156	ugula	foreman	NN	157	compound	
+157	ur-{gesz}gigir	The Ur-gigir	NN	152	_	
+158	nu-banda3-gu4	oxen overseer	NN	157	appos	
+159	kiszib3	under seal	NN	141	nmod:under	
+160	szesz-kal-la	Szekalla	NNP	161	compound	
+161	...	_	NN	159	nmod:of	
+162	a-sza3	field	NN	141	_	
+163	ka-ma-ri2{ki}	Kamari	NNP	162	compound	
+164	mu	_	.	171	_	
+165	sza-asz-szu2-ru{ki}	Year Szauru	NN	141	_	
+166	ba-hul	was destroyed	VBN	165	acl	
+167	lugal-nig2-lagar-e	Lugal-nig-lagar-e	NN	171	_	
+168	dub-sar	scribe	NN	167	conj	
+169	dumu	son	NN	167	appos	
+170	da-da	Dada	NNP	169	nmod:of	
+171	 	_	NN	0	root
+	
+

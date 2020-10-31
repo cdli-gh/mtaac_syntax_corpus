@@ -1,0 +1,100 @@
+# train/P102364.atf
+						
+
+# tr.en: butter oil royal n talents ma-na goat hair received butter oil big-cheese talent mana wool Inim- received n sila butter oil barig ban n big-cheese talent mana wool Lugal-inim- received sila butter oil n less sila big-cheese n mana wool received sila butter oil n sila big-cheese mana wool Ur-susu received deficit year Accounts of hoes year after
+1	1(gesz2)	_	_	0	nummod	
+2	1(u)	_	_	1	nummod	
+3	1(barig)	_	_	1	nummod	
+4	n	_	_	0	_	
+5	i3-nun	butter oil	NN	0	root	
+6	lugal	royal	NN	5	appos	
+7	x	_	NN	0	root	
+8	x	_	.	7	dep	
+9	...	_	NN	7	dep	
+10	lugal	_	_	0	_	
+11	n	n	CD	12	nummod	
+12	gu2	talents	NNS	5	appos	
+13	5(disz)	_	,	5	nummod	
+14	ma-na	_	NN	5	appos	
+15	siki-ud5	ma-na goat hair	NN	12	_	
+16	...-x-a-mu	received	VBD	14	acl	
+17	i3-dab5	_	NN	20	compound	
+18	1(u)	_	,	20	nummod	
+19	n	_	NN	24	compound	
+20	i3-nun	butter oil	NN	5	_	
+21	1(u)	_	,	20	nummod	
+22	n	_	CD	31	nummod	
+23	ga	_	_	0	_	
+24	gal-gal	big-cheese	NN	20	conj	
+25	1(asz)	_	,	20	nummod	
+26	gu2	talent	NN	31	compound	
+27	5(u)	_	_	0	nummod	
+28	8(disz)	_	_	27	nummod	
+29	1/3(disz)	_	_	27	nummod	
+30	ma-na	mana	NN	31	compound	
+31	siki	wool	NN	20	conj	
+32	inim-{d}x-x	Inim-	JJ	33	advmod	
+33	i3-dab5	received	VBN	20	acl	
+34	3(u)	_	,	38	nummod	
+35	n	_	:	20	_	
+36	1(disz)	_	CD	40	nummod	
+37	sila3	sila	NN	38	compound	
+38	i3-nun	butter oil	NN	20	conj	
+39	1(barig)	_	,	38	nummod	
+40	4(ban2)	barig ban	NN	39	nummod	
+41	n(disz)	n	CD	44	nummod	
+42	sila3	_	CD	51	nummod	
+43	ga	_	_	0	_	
+44	gal	big-cheese	NN	40	_	
+45	1(asz)	_	,	38	nummod	
+46	gu2	talent	NN	51	compound	
+47	2(u)	_	_	0	nummod	
+48	1(disz)	_	_	47	nummod	
+49	1/3(disz)	_	_	47	nummod	
+50	ma-na	mana	NN	51	compound	
+51	siki	wool	NN	38	appos	
+52	lugal-inim-x	Lugal-inim-	JJ	53	advmod	
+53	i3-dab5	received	VBN	38	acl:relcl	
+54	n	_	_	0	_	
+55	x	_	_	0	dep	
+56	1(u)	_	_	0	nummod	
+57	4(disz)	_	_	56	nummod	
+58	sila3	sila	NN	60	compound	
+59	i3-nun	butter oil	NN	60	compound	
+60	...	butter oil	NN	20	conj	
+61	n	_	,	60	_	
+62	la2	less	RBR	66	advmod	
+63	2(asz@45)	_	_	62	nummod	
+64	sila3	sila	NN	66	compound	
+65	ga	_	_	0	_	
+66	gal	big-cheese	NN	60	_	
+67	...	_	NN	20	appos	
+68	n	_	,	60	_	
+69	ma-na	mana	NN	70	compound	
+70	siki	wool	NN	60	appos	
+71	...	_	NN	77	dep	
+72	i3-dab5	received	VBD	67	acl	
+73	...	_	_	0	dep	
+74	n	_	_	0	_	
+75	1/2(disz)	_	_	0	nummod	
+76	sila3	sila	NN	77	compound	
+77	i3-nun	butter oil	NN	20	_	
+78	n	_	,	77	_	
+79	4(disz)	_	,	77	nummod	
+80	sila3	sila	NN	82	compound	
+81	ga	_	CD	86	nummod	
+82	gal	big-cheese	NN	77	appos	
+83	8(disz)	_	,	77	nummod	
+84	1/3(disz)	_	_	83	nummod	
+85	ma-na	mana	NN	86	compound	
+86	siki	wool	NN	77	appos	
+87	ur-su4-su4	Ur-susu	NN	88	nsubj	
+88	i3-dab5	received	VBD	77	acl:relcl	
+89	la2-ia3-am3	deficit	NN	20	_	
+90	mu	year	NN	93	_	
+91	nig2-ka9	Accounts	NNPS	93	nsubj	
+92	al-la	_	.	5	_	
+93	mu	year	NN	5	_	
+94	us2-a-bi	hoes after	NNS	91	nmod:of
+	
+

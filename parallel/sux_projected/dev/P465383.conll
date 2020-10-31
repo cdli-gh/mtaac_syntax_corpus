@@ -1,0 +1,32 @@
+# dev/P465383.atf
+						
+
+# tr.en: Assorted into booty I made king of into captivity I took and I did not let him escape my hand A person who order of a wicked thing shall issue against it
+1	'.	_	NN	0	root	
+2	x	_	_	0	dep	
+3	x	_	_	0	dep	
+4	x	_	_	0	dep	
+5	hi-a	Assorted	JJ	1	amod	
+6	'.	_	_	0	_	
+7	nam-ra-asz	into booty	NN	1	nmod:into	
+8	'.	_	NN	1	_	
+9	ha-da-ak	I made	VBD	7	acl:relcl	
+10	'.	_	_	0	_	
+11	NE-ESZ2	_	_	0	_	
+12	lugal	king	NN	8	_	
+13	'.	_	NN	12	nmod:of	
+14	x-x{ki}	of	IN	13	nmod:of	
+15	'.	_	_	0	_	
+16	szaga-a	into captivity	NN	12	nmod:into	
+17	'.	_	,	12	_	
+18	he2-ni-dab5	I took	VBD	16	acl:relcl	
+19	'.	_	.	1	_	
+20	szu-mu	and I	CC	12	cc	
+21	ba-ra-ba-ta-e3	did not let him escape my hand	VB	12	conj	
+22	'.	_	_	0	_	
+23	lu2	_	_	0	_	
+24	hul-	A person who order a wicked thing	NN	1	appos	
+25	'.	_	,	1	_	
+26	ib2-szi-ag2-ge26-a	shall issue against it	VB	24	acl:relcl
+	
+

@@ -1,0 +1,25 @@
+# train/P203863.atf
+						
+
+# tr.en: Basket-of-tablets cows and nannies within Girsu fattening house of governor are here year after Kima year after that
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	ab2	cows	NNS	12	compound	
+3	ud5	nannies	NNS	2	conj	
+4	dab5-ba	and	CC	2	cc	
+5	sza3	within	IN	6	nmod:within	
+6	gir2-su{ki}	Girsu	NNP	13	nmod:within	
+7	e2	house	NN	13	nsubj	
+8	kuruszda	fattening	NN	7	compound	
+9	ensi2	governor	NN	19	compound	
+10	...	_	IN	19	dep	
+11	 	_	NN	0	root	
+12	x	_	NN	11	dep	
+13	i3-gal2	are here	RB	12	acl:relcl	
+14	mu	year	NN	12	_	
+15	us2-sa	after	IN	14	nmod:after	
+16	ki-masz{ki}	Kima	NNP	14	_	
+17	mu	year	NN	16	_	
+18	us2-sa-a-bi	after that	DT	17	nmod:after	
+19	 	_	_	0	_
+	
+

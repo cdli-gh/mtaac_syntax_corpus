@@ -1,0 +1,45 @@
+# test/P416453.atf
+						
+
+# tr.en: sheep Liptum received sheep ewes n bucks responsible official of Uruk the th day from Duga booked out via Ur-Baba scribe month Festival of An year en-priestess of Eridu was hired small cattle
+1	2(disz)	_	_	0	nummod	
+2	udu	sheep	NN	3	compound	
+3	li-ip-tum	Liptum	NNP	5	nsubj	
+4	szu	_	CD	8	nummod	
+5	ba-ti	received	VBD	0	root	
+6	2(gesz2)	_	,	8	nummod	
+7	5(disz)	_	CD	10	nummod	
+8	udu	sheep	NN	5	dobj	
+9	1(u)	_	_	0	nummod	
+10	u8	ewes	NNS	8	conj	
+11	n	_	,	8	_	
+12	masz2-gal	bucks	NNS	8	conj	
+13	...	_	_	0	dep	
+14	x-mu	_	_	0	_	
+15	...	_	_	0	dep	
+16	...	_	_	0	dep	
+17	x-x	_	:	8	dep	
+18	...	_	_	0	dep	
+19	maszkim	responsible official	NN	8	appos	
+20	unu{ki}-ga	Uruk	NNP	8	nmod:of	
+21	u4	the th day	NN	20	appos	
+22	2(u)	_	,	20	nummod	
+23	6(disz)-kam	_	_	22	nummod	
+24	ki	from	IN	25	nmod:from	
+25	du11-ga-ta	Duga	NNP	20	nmod:from	
+26	ba-zi	booked out	VBD	20	acl	
+27	giri3	via	IN	28	nmod:via	
+28	ur-{d}ba-ba6	Ur-Baba	NNP	8	nmod:via	
+29	dub-sar	scribe	NN	28	appos	
+30	iti	month	NN	32	compound	
+31	ezem-an-na	Festival	NNP	30	_	
+32	mu	year	NN	5	_	
+33	en	en-priestess	NN	36	nsubjpass	
+34	eridu{ki}	Eridu	NNP	33	nmod:of	
+35	ba-hun	was hired	VBD	36	auxpass	
+36	2(gesz2)	was hired	VBN	32	nummod	
+37	3(u)	_	.	5	nummod	
+38	1(disz)	_	_	37	nummod	
+39	udu	small cattle	NNS	5	dobj
+	
+

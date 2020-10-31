@@ -1,0 +1,755 @@
+# train/P432279.atf
+						
+
+# tr.en: the queen of war and battle battering like a wild bull the Lady who for warriors craft was born who with mace arrows and quiver was presented all covered with astonishing qualities great daughter of Suen holding fifty divine powers the holy one Inanna Sz-Sin her beloved spouse in hostile land not obedient to him which wages war and combat like a huge flood and wind-storm which has risen up to sweep over its people of those powerful inimical evildoers to accomplish striking and smiting of them of those vital black-headed folk with famous name to obliterate name of them and to make all its big mountain ranges with distant flanks to submit Inanna by Enlil for Sz-Sin the mighty king king of Ur and king of four world quarters his helper was caused to become The two of them to his right and left came down from heaven King Sz-Sin the lapis lazuli Ekur By order of Enlil Sz-Sin the border of the god the god below the land its king in those wars and battles by might of Enlil and Ninlil Sz-Sin the mighty king king of Ur and king of four world quarters repeatedly vanquished them The rebellious lands the hostile territory flood the king a flood which sweeps over rebellious land whose orders make foreign land tremble whose might is pre-eminent his daughter to Simanum for a bride was given But Simnum Habra and all their lands against king did hostilites instigate His daughter from house where she resided they dislodged The Amorites people who the Tidnumites and Iamadiumites came out Their kings in their war and battles confronted him together By might of Enlil his master in war and battle with them he repeatedly vanquished them youthful Utu his daughter Simnum Habra and their lands hostilities against king did instigate His daughter from house where she resided they dislodged Sz-Sin the king of Ur their runners into captivity he took and their personnel he covered with earth Simnum Habra and all their lands their heads he slapped His daughter to her residence house he sent back Simnum Habra and all their lands to serve her he presented to her The evil persons which he had taken as booty for Enlil and Ninlil in borderland of Nippur Simnum he settled them and he built a city for them and set it apart from for them Of that city Sz-Sin was its god Since time fate was decreed no king with persons he had made into booty for Enlil and Ninlil in borderland of Nippur a city had ever founded but Sz-Sin the mighty king king of Ur and king of four world quarters Simnum he founded for them with persons he had made into his booty for Enlil and Ninlil on borderland of Nippur Simnum he settled for them Since that time the Amorites a destructive people with discernment like a wolfs pens A people who do not know barley a people who inof well-being together with by he put them all from above was all big mountain ranges as if by an eagle with neck to ground were put before him All their towns and villages which had been settled he made into ruined mounds Sz-Sin the mighty king the king of Ur given wisdom by Enki and great wisdom by the king of Nippur Sz-Sin he dislodged The Amorites a destructive people the Tidnumites and Iamadiumites came forth Its kings in war and combat to all quarters of sky they reached all governors Sz-Sin king Sz-Sin king their great forces At that time warrior by command of Enlil the brickwork of Ekur in war and battle in heaven and earth May a throne with a secure foundation be in country May his name in all lands be known Before all great gods may he most happily pass by and in lapis lazuli Ekur of Enlil may he lift high his shoulders Of my statue if off its standing place one removes it and a stone statue of himself one makes stand upon it or he who my handiwork shall erase
+1	'.	the	DT	10	det	
+2	...-la2	_	_	0	_	
+3	'.	_	,	10	_	
+4	...-ni	_	_	0	_	
+5	'.	_	_	0	_	
+6	...	_	_	0	dep	
+7	x-a-ba	_	_	0	_	
+8	'.	_	_	0	_	
+9	...	_	_	0	dep	
+10	szen-szen-na	queen war and battle	NN	134	_	
+11	'.	_	,	10	_	
+12	am-gin7!	battering like a	VBG	10	acl	
+13	du7-du7	wild bull	NN	12	nmod:like	
+14	'.	the	DT	15	det	
+15	in-nin	Lady who	NN	10	appos	
+16	nam-ur-sag-sze3	for warriors craft	NN	18	nmod:for	
+17	'.	_	,	18	_	
+18	tu-da	was born	VBN	15	acl:relcl	
+19	'.	_	_	0	_	
+20	x	_	_	0	dep	
+21	{gesz}tukul	_	_	0	_	
+22	ti	_	_	0	_	
+23	mar-uru5	who with mace arrows and quiver	WP	26	nsubjpass	
+24	'.	_	,	26	_	
+25	sag-sze3	_	_	0	_	
+26	rig7-a	was presented	VBN	18	ccomp	
+27	'.	_	,	29	_	
+28	mud5-me-gar	all covered	VBN	26	advcl	
+29	dul4!-dul4-la	with astonishing qualities	NNS	28	nmod:with	
+30	'.	_	,	29	_	
+31	dumu	_	_	0	_	
+32	gal	great	JJ	33	amod	
+33	{d}suen-na	daughter Suen	NN	29	appos	
+34	'.	_	,	29	_	
+35	me	holding	VBG	29	acl	
+36	ninnu	fifty	CD	37	nummod	
+37	szu-du8	divine powers	NNS	35	dobj	
+38	'.	_	,	40	_	
+39	ku3	_	NNP	40	appos	
+40	{d}inanna-ke4	the holy one Inanna	CD	29	_	
+41	'.	_	,	40	_	
+42	{d}szu-{d}suen	Sz-Sin	_	0	_	
+43	'.	_	,	40	_	
+44	mu10-us2	her	PRP$	45	nmod:poss	
+45	ki-ag2-ga2-ni-ir	beloved spouse	NN	40	appos	
+46	'.	_	_	0	_	
+47	kur	land	NN	40	nmod:in	
+48	gu2	_	_	0	_	
+49	erim2-gal2	in hostile	IN	47	nmod:in	
+50	'.	_	_	0	_	
+51	nu-sze-ga-na	not obedient to him	JJ	47	acl	
+52	'.	_	,	53	_	
+53	me3	war	NN	122	nsubj	
+54	gesz	_	_	0	_	
+55	gesz-sze3	which wages	WDT	122	dobj	
+56	la2-a-kam	and combat	CC	53	cc	
+57	'.	_	_	0	_	
+58	a-ma-ru	like a huge flood	NN	53	conj	
+59	u18	and	CC	58	cc	
+60	mah	wind-storm	NN	58	conj	
+61	'.	_	_	0	_	
+62	zi-ga-gin7	which has risen up	VBN	58	acl:relcl	
+63	'.	_	,	65	_	
+64	ug3-ba	to sweep	NN	62	nmod:to	
+65	ur3-ur3-de3	over its people	NNS	64	nmod:over	
+66	'.	_	,	69	_	
+67	a2	_	_	0	_	
+68	tuku	those	DT	71	det	
+69	hul-gal2	powerful inimical	JJ	71	amod	
+70	'.	_	_	0	_	
+71	erim2-du-bi-ne	evildoers	NNS	65	nmod:of	
+72	'.	_	,	53	_	
+73	tu11-tu11	to accomplish	VB	62	xcomp	
+74	tu10-tu10-bi	striking and	JJ	73	dobj	
+75	ak-de3	smiting them	NN	74	conj	
+76	'.	_	_	0	_	
+77	sag-ge6	vital black-headed	JJ	78	amod	
+78	zi-gal2	those folk	NN	53	conj	
+79	'.	_	_	0	_	
+80	mu	_	_	0	_	
+81	tuku-ba	with famous name	NN	78	nmod:with	
+82	'.	_	,	53	_	
+83	mu-bi	name	NN	84	dobj	
+84	ha-lam-e-de3	to obliterate them	VB	78	acl	
+85	'.	_	_	0	_	
+86	hur-sag	and	CC	53	cc	
+87	gal-gal	to make all its big mountain ranges	VB	53	conj	
+88	'.	_	_	0	_	
+89	a2	_	_	0	_	
+90	su3-ra2-bi	with distant flanks	NNS	87	nmod:with	
+91	'.	_	,	94	_	
+92	gu2	_	_	0	_	
+93	ki-sze3	to	TO	94	mark	
+94	ga2-ga2-de3	submit	VB	87	xcomp	
+95	'.	_	_	0	_	
+96	{d}inanna	Inanna	NNP	94	dobj	
+97	{d}en-lil2-le	by Enlil	NNP	96	nmod:by	
+98	'.	for	IN	96	nmod:for	
+99	{d}szu-{d}suen	_	,	96	_	
+100	'.	the	DT	101	det	
+101	lugal	king	NN	96	appos	
+102	kal-ga	mighty	JJ	101	amod	
+103	'.	_	_	0	_	
+104	lugal	king	NN	96	conj	
+105	uri5{ki}-ma	Ur	NN	104	nmod:of	
+106	'.	and	CC	96	cc	
+107	lugal	king	NN	96	conj	
+108	an	four	CD	110	nummod	
+109	ub-da	world	NN	110	compound	
+110	limmu2-ba-ra	quarters	NNS	96	nmod:of	
+111	'.	_	_	0	_	
+112	a2-dah-a-na	his helper	NN	114	nsubjpass	
+113	'.	_	.	53	_	
+114	mu-na-ni-ku4-ku4	was caused to become	VBN	96	acl:relcl	
+115	'.	_	_	0	_	
+116	min3-na-ne-ne	The two them	CD	53	conj	
+117	'.	_	_	0	_	
+118	zi-da	to his right	NN	116	nmod:to	
+119	gub3-bu-na	and left	CC	53	cc	
+120	'.	_	.	134	_	
+121	an-ta	from	IN	122	nmod:from	
+122	mu-e3!-esz	came down heaven	VBD	51	acl:relcl	
+123	'.	_	_	0	_	
+124	lugal	King	NNP	125	compound	
+125	{d}szu-{d}suen	Sz-Sin	NNP	134	_	
+126	'.	_	_	0	_	
+127	...	_	_	0	dep	
+128	'.	_	_	0	_	
+129	...	_	_	0	dep	
+130	'.	_	_	0	_	
+131	e2-kur	the lapis	DT	132	det	
+132	za-gin3	lazuli Ekur	NNP	136	_	
+133	 	_	NN	0	root	
+134	 	_	NN	133	appos	
+135	 	_	_	0	_	
+136	 	_	_	0	_	
+137	'.	_	_	0	_	
+138	...	_	_	0	dep	
+139	'.	_	_	0	_	
+140	...	_	_	0	dep	
+141	'.	_	_	0	_	
+142	...	_	_	0	dep	
+143	'.	_	_	0	_	
+144	inim	order	NN	126	nmod:by	
+145	{d}en-lil2-la2-ta	By Enlil	IN	144	nmod:by	
+146	'.	_	_	0	_	
+147	...	_	_	0	dep	
+148	'.	_	_	0	_	
+149	...	_	_	0	dep	
+150	'.	_	_	0	_	
+151	{d}szu-{d}suen	Sz-Sin	JJ	146	amod	
+152	'.	the	DT	132	det	
+153	x	_	_	0	dep	
+154	...	_	IN	159	dep	
+155	'.	_	NN	159	_	
+156	za3	_	_	0	_	
+157	...	_	_	0	dep	
+158	'.	_	_	0	_	
+159	{d}...	the god	NN	132	nmod:of	
+160	'.	_	NN	155	_	
+161	{d}...	the god	DT	160	det	
+162	'.	_	_	0	_	
+163	sig	below	IN	162	nmod:below	
+164	...	_	_	0	dep	
+165	'.	_	_	0	_	
+166	x	_	_	0	dep	
+167	...	_	_	0	dep	
+168	'.	the	DT	175	det	
+169	NI	_	_	0	_	
+170	...	_	_	0	dep	
+171	'.	_	_	0	_	
+172	kur	land	NN	175	compound	
+173	...	_	_	0	dep	
+174	'.	_	_	0	_	
+175	x	_	_	0	dep	
+176	...	_	_	0	dep	
+177	'.	_	_	0	_	
+178	lugal-bi	its king	NN	462	dobj	
+179	'.	_	_	0	_	
+180	me3	in	IN	181	nmod:in	
+181	szen-szen-ba	those wars and battles	NNS	178	nmod:in	
+182	'.	_	_	0	_	
+183	x	_	_	0	dep	
+184	{d}en-lil2	by might Enlil	NN	462	nmod:by	
+185	'.	_	NN	184	conj	
+186	{d}nin-lil2-la2-ta	and Ninlil	CC	184	cc	
+187	'.	_	,	462	_	
+188	{d}szu-{d}suen	Sz-Sin	_	0	_	
+189	'.	the	DT	190	det	
+190	lugal	king	NN	462	conj	
+191	kal-ga	mighty	JJ	190	amod	
+192	'.	_	_	0	_	
+193	lugal	king	NN	190	conj	
+194	uri5{ki}-ma	Ur	NN	193	nmod:of	
+195	'.	_	,	462	_	
+196	lugal	king	NN	190	conj	
+197	an	four	CD	190	nummod	
+198	ub-da	world	NN	190	compound	
+199	limmu2-ba-ke4	and quarters	CC	190	cc	
+200	'.	_	.	135	_	
+201	aga3-kar2	repeatedly	RB	202	advmod	
+202	bi2-se3-se3	vanquished them	VBN	462	acl	
+203	'.	_	NN	135	_	
+204	kur	The rebellious lands	NNS	203	nsubj	
+205	bala	_	_	0	_	
+206	x	_	_	0	dep	
+207	x	_	_	0	dep	
+208	'.	the	DT	210	det	
+209	gu2	_	_	0	_	
+210	erim2-gal2	hostile territory	NN	219	nsubj	
+211	'.	_	_	0	_	
+212	x	_	_	0	dep	
+213	...	_	_	0	dep	
+214	'.	_	_	0	_	
+215	x	_	_	0	dep	
+216	x	_	_	0	dep	
+217	x	_	_	0	dep	
+218	x	_	_	0	dep	
+219	a-ma-ru	flood	NN	203	ccomp	
+220	'.	the	DT	221	det	
+221	lugal	king	NN	219	nsubj	
+222	x	_	_	0	dep	
+223	x	_	_	0	dep	
+224	x	_	_	0	dep	
+225	a-ma-ru	a flood	NN	219	dobj	
+226	'.	_	,	228	_	
+227	ki-bala-a	which sweeps over rebellious	VBZ	225	acl:relcl	
+228	ur3-ur3	land	NN	227	nmod:over	
+229	'.	_	_	0	_	
+230	a2-ag2-ga2-ni	whose orders	NNS	233	nsubj	
+231	'.	_	,	228	_	
+232	kur	land	NN	233	nsubj	
+233	tuk4-tuk4-e	make foreign tremble	VBP	228	acl:relcl	
+234	'.	_	_	0	_	
+235	kal-ga-ni	whose might	WP$	237	nsubj	
+236	'.	_	,	237	_	
+237	sag-bi-sze3	is pre-eminent	JJ	228	acl:relcl	
+238	e3-a	_	_	0	_	
+239	'.	_	_	0	_	
+240	dumu-munus-a-ni	his daughter	NN	247	nsubjpass	
+241	'.	_	_	0	_	
+242	si-ma-num2{ki}-e	to Simanum	NNP	240	nmod:to	
+243	'.	_	_	0	_	
+244	nam-e2-gi4-a-bi-sze3	for a bride	NN	240	nmod:for	
+245	'.	_	.	135	_	
+246	...	_	_	0	dep	
+247	x-szum2	was given	VBN	237	parataxis	
+248	'.	_	,	259	_	
+249	si-ma-num2{ki}	But Simnum	CC	135	cc	
+250	'.	_	,	259	_	
+251	ha-bu-ra{ki}	Habra	NNP	259	conj	
+252	'.	_	_	0	_	
+253	u3	and	CC	259	cc	
+254	ma-da	lands	NNS	259	conj	
+255	ma-da-bi	all their	DT	254	det:predet	
+256	'.	_	_	0	_	
+257	lugal-da	against king	NN	254	nmod:against	
+258	gu2	_	_	0	_	
+259	erim2	did hostilites	VBD	135	conj	
+260	'.	_	.	135	_	
+261	ba-an-da-ab-gal2	instigate	VB	259	ccomp	
+262	'.	_	_	0	_	
+263	dumu-munus-a-ni	His daughter	NN	135	_	
+264	'.	_	_	0	_	
+265	e2	house	NN	263	nmod:from	
+266	ki-tusz-a-ni-ta	from where she resided	IN	265	nmod:from	
+267	'.	_	.	135	_	
+268	sag2	_	_	0	_	
+269	im-ta-esz	they dislodged	VBD	265	ccomp	
+270	'.	_	NN	271	acl:relcl	
+271	mar-tu	The Amorites people	NNPS	283	nsubj	
+272	lu2	who	WP	270	nsubj	
+273	x	_	,	271	dep	
+274	x	_	_	0	dep	
+275	x	_	_	0	dep	
+276	'.	_	,	271	_	
+277	ti-id-nu-um	the Tidnumites	NNPS	271	appos	
+278	x	_	_	0	dep	
+279	KI	_	_	0	_	
+280	'.	_	_	0	_	
+281	ia3-a-ma-di3-um-da	and Iamadiumites	CC	271	cc	
+282	'.	_	.	135	_	
+283	im-ma-da-e3-esz	came out	VBD	135	acl	
+284	'.	_	_	0	_	
+285	lugal-bi	Their kings	NNS	291	nsubj	
+286	'.	_	_	0	_	
+287	me3	in	IN	288	nmod:in	
+288	szen-szen-ba	their war and battles	NN	285	nmod:in	
+289	gaba	_	_	0	_	
+290	'.	_	.	135	_	
+291	im-ma-na-da-ri-esz	confronted him together	VBD	135	acl	
+292	'.	_	_	0	_	
+293	a2	By	IN	294	nmod:by	
+294	{d}en-lil2	might Enlil	NN	135	nmod:by	
+295	'.	_	,	294	_	
+296	lugal-na-ta	his master	NN	294	_	
+297	'.	_	_	0	_	
+298	me3	in war	NN	294	nmod:in	
+299	szen-szen-ba	and battle with them	CC	298	cc	
+300	'.	_	.	135	_	
+301	aga3-kar2	he repeatedly	PRP	302	nsubj	
+302	bi2-se3-se3	vanquished them	VBD	294	acl:relcl	
+303	'.	_	NN	135	_	
+304	szul	youthful	JJ	303	amod	
+305	{d}utu	Utu	NNP	303	compound	
+306	...	_	_	0	dep	
+307	'.	_	.	308	_	
+308	dumu-munus-a-ni	his daughter	NN	322	nsubj	
+309	'.	_	,	310	_	
+310	si-ma-num2{ki}	Simnum	NNP	308	_	
+311	'.	_	,	310	_	
+312	ha-bu-ra{ki}	Habra	NNP	310	appos	
+313	'.	_	_	0	_	
+314	u3	and	CC	308	cc	
+315	ma-da	lands	NNS	318	compound	
+316	ma-da-bi	their	PRP$	318	nmod:poss	
+317	'.	_	_	0	_	
+318	lugal-da	hostilities against	NNS	308	conj	
+319	gu2	_	_	0	_	
+320	erim2-gal2	king	NN	318	nmod:against	
+321	'.	_	.	135	_	
+322	ba-an-da-ab-gal2	did instigate	VB	303	acl:relcl	
+323	'.	_	_	0	_	
+324	dumu-munus-a-ni	His daughter	NN	135	_	
+325	'.	_	_	0	_	
+326	e2	house	NN	324	nmod:from	
+327	ki-tusz-a-ni-ta	from where she resided	IN	326	nmod:from	
+328	'.	_	.	135	_	
+329	sag2	_	NN	135	_	
+330	im-ta-esz-am3	they dislodged	VBD	326	ccomp	
+331	'.	_	,	329	_	
+332	{d}szu-{d}suen	Sz-Sin	_	0	_	
+333	lugal	_	_	0	_	
+334	kal-ga	_	_	0	_	
+335	'.	the	DT	336	det	
+336	lugal	king	NN	329	appos	
+337	uri5{ki}-ma	Ur	NN	336	nmod:of	
+338	'.	_	_	0	_	
+339	hur	_	_	0	_	
+340	...	_	_	0	dep	
+341	'.	_	_	0	_	
+342	am	_	_	0	_	
+343	TAR	_	_	0	_	
+344	x	_	_	0	dep	
+345	...	_	_	0	dep	
+346	'.	_	_	0	_	
+347	x	_	_	0	dep	
+348	...	_	_	0	dep	
+349	'.	_	_	0	_	
+350	du10	their	PRP$	351	nmod:poss	
+351	tuku-bi	runners	NNS	463	conj	
+352	szaga-a	into captivity	NN	351	nmod:into	
+353	'.	_	,	135	_	
+354	mi-ni-in-dab5	he took	VBD	352	acl:relcl	
+355	'.	_	_	0	_	
+356	nam-lu2-u18-ba	and their personnel	CC	135	cc	
+357	'.	_	.	135	_	
+358	sahar	_	_	0	_	
+360	'.	_	,	361	_	
+361	si-ma-num2{ki}	Simnum	NNP	135	appos	
+362	'.	_	,	361	_	
+363	ha-bu-ra{ki}	Habra	NNP	361	conj	
+364	'.	_	,	135	_	
+365	u3	and	CC	361	cc	
+366	ma-da	lands	NNS	361	conj	
+367	ma-da-ba	all their	DT	366	det:predet	
+368	'.	_	_	0	_	
+369	sag-du-bi	their heads	NNS	135	appos	
+370	'.	_	.	135	_	
+371	tibir2	he	PRP	372	nsubj	
+372	im-mi-ra	slapped	VBD	369	acl:relcl	
+373	'.	_	_	0	_	
+374	dumu-munus-a-ni	His daughter	NN	135	_	
+375	'.	_	_	0	_	
+376	e2	_	_	0	_	
+377	ki-tusz-a-ni-a	to her residence house	NN	374	nmod:to	
+378	'.	_	.	135	_	
+379	im-ma-szi-in-gi4	he sent back	VBD	374	acl:relcl	
+380	'.	_	,	381	_	
+381	si-ma-num2{ki}	Simnum	NNP	135	_	
+382	'.	_	,	381	_	
+383	ha-bu-ra{ki}	Habra	NNP	381	conj	
+384	'.	_	_	0	_	
+385	u3	and	CC	381	cc	
+386	ma-da	lands	NNS	381	conj	
+387	ma-da-bi	all their	DT	386	det:predet	
+388	'.	_	_	0	_	
+389	nam-ARAD2-da-ni-sze3	to serve her	VB	386	acl	
+390	'.	_	.	135	_	
+391	sag-sze3	he	PRP	392	nsubj	
+392	mu-ni-rig7	presented to her	VBD	389	acl:relcl	
+393	'.	_	_	0	_	
+394	sag	_	_	0	_	
+395	erim2-gal2	The evil persons	NNS	135	_	
+396	'.	_	:	135	_	
+397	nam-ra-asz	which	WDT	398	dobj	
+398	ak-ni	he had taken as booty	VBN	395	acl:relcl	
+399	'.	_	_	0	_	
+400	{d}en-lil2	for Enlil	NNP	410	nmod:for	
+401	{d}nin-lil2-ra	and Ninlil	CC	400	cc	
+402	'.	_	_	0	_	
+403	ki-sur-ra	in borderland	NN	410	nmod:in	
+404	'.	_	_	0	_	
+405	nibru{ki}-ka	of Nippur	IN	407	nmod:of	
+406	'.	_	_	0	_	
+407	si-ma-num2{ki}	Simnum	NNP	403	nmod:of	
+408	'.	_	,	410	_	
+409	ki	_	_	0	_	
+410	mu-ne-gar	he settled them	VBD	135	acl	
+411	'.	and	CC	410	cc	
+412	iri{ki}	he built a city	VBD	410	conj	
+413	mu-ne-du3	for them	PRP	412	nmod:for	
+414	'.	_	.	135	_	
+415	x-ta	_	_	0	_	
+416	mu-ne-ta-an-gub	and set it apart from for them	CC	412	cc	
+417	'.	_	NN	422	nmod:of	
+418	iri{ki}-ba	Of that city	IN	417	nmod:of	
+419	'.	_	_	0	_	
+420	{d}szu-{d}suen	Sz-Sin	_	0	_	
+421	'.	_	.	422	_	
+422	dingir-bi-im	was its god	NN	0	root	
+423	'.	_	,	718	_	
+424	u4	_	_	0	_	
+425	nam-tar-ra-ta	Since time fate was decreed	NN	718	nmod:since	
+426	'.	_	_	0	_	
+427	lugal-na-me	no king	NN	718	_	
+428	'.	_	_	0	_	
+429	sag	_	_	0	_	
+430	nam-ra-asz	booty	NN	431	nmod:into	
+431	ak-ni-ta	with persons he had made into	NNS	427	nmod:with	
+432	'.	_	_	0	_	
+433	{d}en-lil2	for Enlil	NNP	431	nmod:for	
+434	{d}nin-lil2-ra	and Ninlil	CC	433	cc	
+435	'.	_	_	0	_	
+436	ki-sur-ra	in borderland	NN	431	nmod:in	
+437	'.	_	_	0	_	
+438	nibru{ki}-ka	of Nippur	NNP	436	nmod:of	
+439	'.	_	_	0	_	
+440	iri{ki}	a city	NN	443	nsubj	
+441	'.	_	:	427	_	
+442	ki	_	_	0	_	
+443	nu-ne-gar	had ever founded	VBN	436	acl:relcl	
+444	'.	but	CC	427	cc	
+445	{d}szu-{d}suen	_	,	427	_	
+446	'.	the	DT	447	det	
+447	lugal	king	NN	427	appos	
+448	kal-ga	mighty	JJ	447	amod	
+449	'.	_	_	0	_	
+450	lugal	king	NN	427	appos	
+451	uri5{ki}-ma	Ur	NN	450	nmod:of	
+452	'.	_	,	427	_	
+453	lugal	king	NN	450	conj	
+454	an	four	CD	453	nummod	
+455	ub-da	world	NN	453	compound	
+456	limmu2-ba-ke4	and quarters	CC	450	cc	
+457	'.	_	_	0	_	
+458	si-ma-num2{ki}	Simnum	NNP	427	appos	
+459	'.	_	_	0	_	
+460	ki	_	_	0	_	
+461	mu-ne-gar	he founded for them	VBD	458	acl:relcl	
+462	 	_	_	0	_	
+463	 	_	_	0	_	
+464	'.	_	_	0	_	
+465	...	_	_	0	dep	
+466	x	_	_	0	dep	
+467	x	_	_	0	dep	
+468	...	_	_	0	dep	
+469	'.	_	_	0	_	
+470	...	_	_	0	dep	
+471	'.	_	_	0	_	
+472	...	_	_	0	dep	
+473	'.	_	_	0	_	
+474	...	_	_	0	dep	
+475	'.	_	_	0	_	
+476	...	_	_	0	dep	
+477	'.	_	_	0	_	
+478	sag	_	_	0	_	
+479	nam-ra-asz	booty	NN	480	nmod:into	
+480	ak-ni-ta	with persons he had made into his	NNS	460	nmod:with	
+481	'.	_	_	0	_	
+482	{d}en-lil2	for Enlil	NNP	479	nmod:for	
+483	{d}nin-lil2-ra	and Ninlil	CC	482	cc	
+484	'.	_	_	0	_	
+485	ki-sur-ra	on borderland	NN	480	nmod:on	
+486	'.	_	_	0	_	
+487	nibru{ki}-ka	of Nippur	IN	489	nmod:of	
+488	'.	_	_	0	_	
+489	si-ma-num2{ki}	Simnum	NNP	485	nmod:of	
+490	'.	_	.	427	_	
+491	ki	_	_	0	_	
+492	mu-ne-gar	he settled for them	VBD	485	acl:relcl	
+493	'.	_	,	427	_	
+494	u4-bi-ta	Since that time	NN	427	nmod:since	
+495	'.	the	DT	498	det	
+496	mar-tu	_	,	427	_	
+497	lu2	_	_	0	_	
+498	ha-lam-ma	Amorites a destructive people	NNPS	427	appos	
+499	'.	_	_	0	_	
+500	dim2	with discernment	NN	427	nmod:with	
+501	'.	_	POS	502	nmod:'s	
+502	ur-bar-ra-gin7	like a wolfs	IN	500	acl	
+503	'.	_	.	504	_	
+504	tur3	pens	NNS	502	_	
+505	x	_	_	0	dep	
+506	x	_	_	0	dep	
+507	x	_	_	0	dep	
+508	'.	_	,	511	_	
+509	lu2	_	_	0	_	
+510	sze	barley	NN	511	dobj	
+511	nu-zu	A people who do not know	NNS	504	appos	
+512	'.	_	.	540	_	
+513	lu2	_	.	540	_	
+514	...-ga	a people who	NNS	511	appos	
+515	'.	_	_	0	_	
+516	...	_	_	0	dep	
+517	silim-ma	inof well-being	NN	540	_	
+518	'.	_	NN	517	nmod:with	
+519	...	_	_	0	dep	
+520	x-da	together with	RB	518	advmod	
+521	'.	_	DT	522	det	
+522	x	_	NN	518	nmod:by	
+523	...-ke4	by	IN	522	nmod:by	
+524	'.	_	_	0	_	
+525	mu-un-se3-se3	he put them all	VBD	522	acl:relcl	
+526	'.	_	NN	538	acl:relcl	
+527	...	_	_	0	dep	
+528	'.	_	_	0	_	
+529	...	_	_	0	dep	
+530	'.	_	_	0	_	
+531	...	_	_	0	dep	
+532	'.	_	_	0	_	
+533	...	_	_	0	dep	
+534	'.	_	_	0	_	
+535	...	_	_	0	dep	
+536	'.	_	_	0	_	
+537	u4	_	_	0	_	
+538	iri{ki}	_	_	0	_	
+539	...	_	NN	526	nsubj	
+540	'.	_	NN	514	acl:relcl	
+541	an-ta	from	IN	542	nmod:from	
+542	nam-mi-x	above was	JJ	526	nmod:from	
+543	x	_	,	540	dep	
+544	'.	_	_	0	_	
+545	hur-sag	_	_	0	_	
+546	gal-gal	all big mountain ranges	VBZ	540	acl:relcl	
+547	'.	_	,	548	_	
+548	hu-ri2-in-gin7	as if by an eagle	NN	546	nmod:as.by	
+549	'.	_	_	0	_	
+550	gu2	_	_	0	_	
+551	ki-sze3	with neck to ground	NN	548	nmod:with	
+552	'.	_	.	553	_	
+553	ba-an-da-ab-gar	were put before him	VBN	546	ccomp	
+554	'.	_	_	0	_	
+555	iri{ki}	_	_	0	_	
+556	a2-dam	All their towns and villages	NNS	553	dobj	
+557	'.	_	_	0	_	
+558	ki-gar-gar-ra-bi	which had been settled	VBN	556	acl:relcl	
+559	'.	_	_	0	_	
+560	du6-du6-ra2	he made	VBD	558	ccomp	
+561	mi-ni-gar	into ruined mounds	NNS	560	nmod:into	
+562	'.	_	NN	540	_	
+563	x	_	_	0	dep	
+564	...	_	_	0	dep	
+565	'.	_	_	0	_	
+566	{d}szu-{d}suen	Sz-Sin	_	0	_	
+567	'.	the	DT	568	det	
+568	lugal	king	NN	562	appos	
+569	kal-ga	mighty	JJ	568	amod	
+570	'.	the	DT	571	det	
+571	lugal	king	NN	562	appos	
+572	uri5{ki}-ma	Ur	NN	571	nmod:of	
+573	'.	_	_	0	_	
+574	gesztu2	wisdom by	NN	562	appos	
+575	szum2-ma	given	VBN	574	amod	
+576	{d}en-ki-ka	Enki	NNP	574	nmod:by	
+577	'.	and	CC	576	cc	
+578	gesztu2	wisdom by	NN	576	conj	
+579	mah	great	JJ	578	amod	
+580	...	_	NN	574	nmod:by	
+581	'.	the	DT	582	det	
+582	lugal	king	NN	562	appos	
+583	nibru{ki}	Nippur	NNP	586	compound	
+584	...	_	NN	586	dep	
+585	'.	_	_	0	_	
+586	{d}szu-{d}suen	Sz-Sin	_	0	_	
+587	'.	_	.	511	_	
+588	...	he dislodged	PRP	589	dep	
+589	'.	he dislodged	VBD	621	acl:relcl	
+590	nam-ma-...	_	_	0	_	
+591	'.	_	_	0	_	
+592	x	_	_	0	dep	
+593	x	_	_	0	dep	
+594	...	_	_	0	dep	
+595	'.	_	,	601	_	
+596	sag2	_	_	0	_	
+597	...	_	_	0	dep	
+598	'.	_	_	0	_	
+599	mar-tu	The	DT	601	det	
+600	lu2	_	_	0	_	
+601	ha-lam-ma	Amorites a destructive people	NNPS	609	nsubj	
+602	'.	_	,	601	_	
+603	ti-id-nu-um	the Tidnumites	DT	604	det	
+604	...	the Tidnumites	NNPS	601	appos	
+605	'.	_	_	0	_	
+606	ia3-a-ma-di-um	and Iamadiumites	CC	601	cc	
+607	...	and Iamadiumites	NNS	601	conj	
+608	'.	_	.	502	_	
+609	im-ma-da-e3-esz	came forth	VBD	511	acl:relcl	
+610	'.	_	_	0	_	
+611	lugal	_	_	0	_	
+612	x	Its	PRP$	614	dep	
+613	x	_	_	0	dep	
+614	...	kings	NNS	502	dep	
+615	'.	_	PRP	614	nsubj	
+616	me3	in	IN	617	nmod:in	
+617	szen-szen-na	war and combat	NN	614	nmod:in	
+618	'.	_	_	0	_	
+619	im-ma-du7-du7	_	_	0	_	
+620	 	_	_	0	_	
+621	 	_	_	0	_	
+622	'.	_	_	0	_	
+623	...	_	_	0	dep	
+624	'.	_	_	0	_	
+625	...	_	_	0	dep	
+626	'.	_	_	0	_	
+627	...	_	_	0	dep	
+628	'.	_	_	0	_	
+629	...	_	_	0	dep	
+630	'.	_	_	0	_	
+631	...	_	_	0	dep	
+632	'.	_	_	0	_	
+633	x-sze3	_	_	0	_	
+634	mi	_	_	0	_	
+635	du	_	_	0	_	
+636	x	_	_	0	dep	
+637	x	_	_	0	dep	
+638	'.	_	_	0	_	
+639	ub-da	_	_	0	_	
+640	an-na-ke4	to all quarters sky	NNS	620	nmod:to	
+641	'.	_	_	0	_	
+642	sa2	they	PRP	643	nsubj	
+643	bi2-in-ne-esz	reached	VBD	640	acl:relcl	
+644	'.	_	VBP	666	acl:relcl	
+645	...	_	_	0	dep	
+646	x	_	_	0	dep	
+647	HI	_	_	0	_	
+648	x	_	_	0	dep	
+649	...	_	_	0	dep	
+650	'.	_	_	0	_	
+651	...	_	_	0	dep	
+652	ga	_	_	0	_	
+653	x	_	_	0	dep	
+654	...	_	_	0	dep	
+655	'.	_	_	0	_	
+656	ensi2-ensi2	all governors	NNS	644	nsubj	
+657	'.	_	_	0	_	
+658	{d}szu-{d}suen	Sz-Sin	DT	659	det	
+659	lugal	king	NN	644	iobj	
+660	...	_	_	0	dep	
+661	'.	_	_	0	_	
+662	x	_	NN	644	dobj	
+663	x	_	DT	640	dep	
+664	iri	_	DT	640	det	
+665	...	_	_	0	dep	
+666	 	_	_	0	_	
+667	'.	_	_	0	_	
+668	{d}szu-{d}suen	Sz-Sin	DT	669	det	
+669	lugal	king	NN	662	_	
+670	...	_	_	0	dep	
+671	'.	_	NN	669	acl:relcl	
+672	a2-gal-bi	their great forces	PRP$	671	nmod:poss	
+673	...	their great forces	JJ	671	dep	
+674	'.	_	.	502	_	
+675	u4-ba	At that time	NN	671	nmod:at	
+676	x	_	_	0	dep	
+677	x	_	.	427	dep	
+678	ur-sag	warrior	NN	666	appos	
+679	x	_	_	0	dep	
+680	...	_	_	0	dep	
+681	'.	_	,	683	_	
+682	inim	by	IN	683	nmod:by	
+683	{d}en-lil2-la2-ta	command Enlil	NN	427	nmod:by	
+684	'.	_	NN	687	nmod:of	
+685	sig4	_	_	0	_	
+686	e2-kur-ra	the brickwork Ekur	DT	687	det	
+687	...	the brickwork Ekur	NN	683	dep	
+688	'.	_	_	0	_	
+689	me3	in	IN	690	nmod:in	
+690	szen-szen-na	war and battle	NN	684	nmod:in	
+691	...	_	_	0	dep	
+692	'.	war and battle	CC	690	cc	
+693	ki-x-gi4	_	_	0	_	
+694	a	war and battle	NN	750	compound	
+695	x	_	_	0	dep	
+696	...	_	_	0	dep	
+697	'.	_	_	0	_	
+698	x	_	_	0	dep	
+699	an-ki-a	in heaven and earth	IN	700	nmod:in	
+700	...	in heaven and earth	NN	690	nmod:in	
+701	'.	_	_	0	_	
+702	...	_	_	0	dep	
+703	'.	_	_	0	_	
+704	...	_	_	0	dep	
+705	'.	_	_	0	_	
+706	...	_	_	0	dep	
+707	'.	_	_	0	_	
+708	{gesz}gu-za	throne	NN	683	nsubj	
+709	suhusz	May with	MD	683	aux	
+710	gi-na	a a secure foundation	DT	708	det	
+711	'.	_	.	427	_	
+712	kalam-ma	country	NN	683	nmod:in	
+713	he2-x	be in	VB	683	cop	
+714	'.	_	_	0	_	
+715	mu-ni	May his name in	MD	718	aux	
+716	kur-kur-ra	all lands	NNS	718	nmod:in	
+717	'.	_	.	718	_	
+718	he2-zu	be known	VBN	422	parataxis	
+719	'.	_	_	0	_	
+720	igi	_	_	0	_	
+721	dingir	_	_	0	_	
+722	gal-gal-ne-sze3	Before all great gods	NNS	718	nmod:before	
+723	'.	_	_	0	_	
+724	hul2-hul2!-la-ne2	may he most happily	MD	726	aux	
+725	'.	_	,	726	_	
+726	he2-dib-dib-e	pass by	VB	718	acl	
+727	'.	and	CC	726	cc	
+728	e2-kur	in lapis	IN	729	nmod:in	
+729	za-gin3	lazuli Ekur	NNS	726	conj	
+730	'.	_	_	0	_	
+731	{d}en-lil2-la2-ka	of Enlil	NNP	734	nmod:of	
+732	'.	_	.	726	_	
+733	gu2	_	_	0	_	
+734	an-sze3	may he lift high	VB	729	acl:relcl	
+735	he2-ni-zi	his shoulders	NNS	734	dobj	
+736	'.	_	:	726	_	
+737	alan-ga2	Of my statue	NN	726	nmod:of	
+738	'.	_	_	0	_	
+739	ki-gub-bi	if off its standing place	IN	741	mark	
+740	'.	_	,	741	_	
+741	ib2-da-ab-kur2-a	one removes it	VBZ	726	parataxis	
+742	'.	_	_	0	_	
+743	alan-na-ni	and a stone statue himself	CC	741	cc	
+744	'.	_	,	741	_	
+745	bi2-ib2-gub-a	one makes stand upon it	VBZ	741	conj	
+746	'.	_	_	0	_	
+747	nig2-dim2-ma-mu	or he who my handiwork	CC	741	cc	
+748	'.	_	,	726	_	
+749	ib2-zi-re-a	shall erase	VB	741	acl:relcl	
+750	 	_	_	0	_
+	
+

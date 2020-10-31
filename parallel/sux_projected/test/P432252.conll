@@ -1,0 +1,21 @@
+# test/P432252.atf
+						
+
+# tr.en: for life of Szulgi the mighty man king of Ur
+1	'.	_	_	0	_	
+2	...	_	_	0	dep	
+3	x	_	_	0	dep	
+4	...	_	_	0	dep	
+5	'.	_	_	0	_	
+6	nam-ti	for life	NN	15	nmod:for	
+7	'.	_	,	8	_	
+8	{d}szul-gi	Szulgi	NNP	6	nmod:of	
+9	'.	_	,	8	_	
+10	nita	the	DT	11	det	
+11	kal-ga	mighty man	NN	8	appos	
+12	'.	_	,	15	_	
+13	lugal	king	NN	8	appos	
+14	uri5{ki}-ma	Ur	NN	13	nmod:of	
+15	 	_	NN	0	root
+	
+

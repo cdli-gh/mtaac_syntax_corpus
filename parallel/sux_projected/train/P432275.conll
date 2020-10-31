@@ -1,0 +1,38 @@
+# train/P432275.atf
+						
+
+# tr.en: Amar-Suena king of Ur and king of four world quarters of Suen To Taddin-Itar his beloved daughter he presented it
+1	'.	_	,	5	_	
+2	...	_	_	0	dep	
+3	x	_	_	0	dep	
+4	'.	_	_	0	_	
+5	{d}amar-{d}suen	Amar-Suena	NNP	0	root	
+6	'.	_	_	0	_	
+7	lugal	king	NN	5	conj	
+8	uri5{ki}-ma	Ur	NN	7	nmod:of	
+9	'.	_	_	0	_	
+10	lugal	king	NN	5	conj	
+11	an	four	CD	5	nummod	
+12	ub-da	world	NN	5	compound	
+13	limmu2-ba-ke4	and quarters	CC	5	cc	
+14	 	_	NN	0	root	
+15	 	_	.	14	_	
+16	'.	_	_	0	_	
+17	...	_	_	0	dep	
+18	'.	_	_	0	_	
+19	{d}suen-na	of Suen	NNP	9	nmod:of	
+20	'.	_	,	27	_	
+21	x	_	_	0	dep	
+22	x	_	_	0	dep	
+23	x	_	_	0	dep	
+24	x	_	_	0	dep	
+25	x	_	_	0	dep	
+26	'.	_	_	0	_	
+27	ta2-di3-in-{d}inanna	To Taddin-Itar	NNP	16	nmod:to	
+28	'.	_	,	27	_	
+29	dumu	_	_	0	_	
+30	ki-ag2-ga2-ni-ir	his beloved daughter	NN	27	appos	
+31	'.	_	.	15	_	
+32	in-na-ba	he presented it	VBD	19	acl:relcl
+	
+

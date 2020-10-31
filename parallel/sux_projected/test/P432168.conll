@@ -1,0 +1,19 @@
+# test/P432168.atf
+						
+
+# tr.en: Szulgi the mighty man king of Ur and king of Sumer and Akkad the Mountain House his beloved house he built
+1	szul-gi	Szulgi	NNP	0	root	
+2	nita	the	DT	3	det	
+3	kal-ga	mighty man	NN	1	appos	
+4	lugal	king	NN	1	appos	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	4	conj	
+7	ki-en-gi	Sumer	NNP	6	nmod:of	
+8	ki-uri-ke4	and and Akkad	CC	4	cc	
+9	e2	the	DT	10	det	
+10	hur-sag	Mountain House	NNP	1	appos	
+11	e2	house	NN	1	appos	
+12	ki-ag2-ga2-ni	his beloved	PRP$	11	nmod:poss	
+13	mu-du3	he built	VBD	1	acl:relcl
+	
+

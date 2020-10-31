@@ -1,0 +1,80 @@
+# train/P132748.atf
+						
+
+# tr.en: Dingir-saga Ur-Numuda Utu-Laga-gal Ur-Nane they are ox-drivers Lu-Gatumdu Kuli Baba-izu they are worktroopers at shekel each from month Malt feast to month Festival of Szulgi shekels Adda barig Lu-Ningirsu barig they are worktroopers from month Malt feast to month Grain carried day completed shekels its silver shekels its barley of rations gur barig labor of hirelings on orders of Su- from city not going out house of Gatumdu year Szu-Suen king of Ur lands of Zabaali destroyed
+1	1(disz)	_	CD	2	nummod	
+2	dingir-sa6-ga	Dingir-saga	NN	74	appos	
+3	1(disz)	_	CD	2	nummod	
+4	ur-{d}nu-musz-da	Ur-Numuda	NNP	2	conj	
+5	1(disz)	_	CD	2	nummod	
+6	{d}utu-lagasz{ki}-gal	Utu-Laga-gal	NNP	2	conj	
+7	1(disz)	_	,	2	nummod	
+8	ur-{d}nansze	Ur-Nane	NNP	2	conj	
+9	sza3-gu4-me	they are ox-drivers	NNS	2	acl:relcl	
+10	1(disz)	_	CD	11	nummod	
+11	lu2-{d}ga2-tum3-du10	Lu-Gatumdu	NNP	16	nsubj	
+12	1(disz)	_	CD	13	nummod	
+13	ku-li	Kuli	NNP	11	appos	
+14	1(disz)	_	,	13	nummod	
+15	{d}ba-ba6-i3-zu	Baba-izu	NN	13	appos	
+16	erin2-me	they are worktroopers	NNS	74	_	
+17	igi-3(disz)-gal2-ta	at shekel each	NN	16	nmod:at	
+18	iti	month	NN	17	nmod:from	
+19	munu4-gu7-ta	from Malt feast	IN	18	nmod:from	
+20	iti	month	NN	16	nmod:to	
+21	ezem-{d}szul-gi-sze3	to Festival Szulgi	TO	20	nmod:to	
+22	7(disz)	_	:	23	nummod	
+23	gin2	shekels	NNS	16	_	
+24	1(disz)	_	,	23	nummod	
+25	ad-da	Adda	NNP	23	appos	
+26	1(asz)	_	CD	23	nummod	
+27	2(barig)	_	,	26	nummod	
+28	<gur>	barig	NN	23	appos	
+29	1(disz)	_	,	23	nummod	
+30	lu2-{d}nin-gir2-su	Lu-Ningirsu	NNP	23	conj	
+31	1(asz)	_	_	0	nummod	
+32	2(barig)	_	_	31	nummod	
+33	<gur>	barig	NN	23	conj	
+34	erin2-me	they are worktroopers	NNS	23	acl:relcl	
+35	iti	month	NN	23	nmod:from	
+36	munu4-gu7-ta	from Malt feast	IN	35	nmod:from	
+37	iti	month	NN	23	nmod:to	
+38	sze-il2-la	to Grain carried	TO	37	nmod:to	
+39	u4	day	NN	23	nmod:tmod	
+40	1(u)	_	:	45	nummod	
+41	5(disz)	_	_	40	nummod	
+42	ba-zal-sze3	completed	VBN	23	acl	
+43	7(disz)	_	_	0	nummod	
+44	1/2(disz)	_	_	43	nummod	
+45	gin2	shekels	NNS	42	_	
+46	ku3-bi	its silver	NN	45	_	
+47	1(u)	_	:	46	nummod	
+48	4(disz)	_	_	47	nummod	
+49	1/2(disz)	_	_	47	nummod	
+50	gin2	shekels	NNS	46	_	
+51	sze	barley	NN	46	_	
+52	szuku-ra-bi	its rations	PRP$	51	nmod:poss	
+53	2(asz)	_	:	46	nummod	
+54	4(barig)	barig	NN	55	nummod	
+55	gur	gur	NN	46	_	
+56	a2	labor	NN	46	_	
+57	hun-ga2	hirelings	NNS	56	nmod:of	
+58	inim	_	:	46	_	
+59	szu-{d}x	on orders Su-	NNS	56	nmod:on	
+60	x	_	``	46	dep	
+61	iri-ta	from out	IN	62	nmod:from	
+62	nu-e3	city not going	NN	60	root	
+63	...	city not going	RB	62	dep	
+64	e2	house	NN	62	root	
+65	{d}ga2-tum3-du10	Gatumdu	NNP	66	compound	
+66	...	_	NN	64	nmod:of	
+67	mu	year	NN	64	_	
+68	{d}szu-{d}suen	Szu-Suen	NNP	67	root	
+69	lugal	king	NN	68	appos	
+70	uri5{ki}-ma-ke4	Ur	NN	69	nmod:of	
+71	ma-da	lands	NNS	73	nsubj	
+72	za-ab-sza-li{ki}	Zabaali	NN	71	nmod:of	
+73	mu-hul	destroyed	VBD	68	acl:relcl	
+74	 	_	NN	0	root
+	
+

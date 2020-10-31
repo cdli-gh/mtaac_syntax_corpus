@@ -1,0 +1,22 @@
+# train/P432224.atf
+						
+
+# tr.en: Szulgi the mighty king of Ur and king of world quarters the four
+1	...	_	_	0	dep	
+2	x	_	_	0	dep	
+3	...	_	_	0	dep	
+4	...	_	_	0	dep	
+5	NE	_	_	0	_	
+6	IGI	_	_	0	_	
+7	{d}szul-gi	Szulgi	NNP	0	root	
+8	da-num2	the mighty	DT	15	det	
+9	_lugal_	king	NN	15	_	
+10	uri5{ki}	Ur	NN	9	nmod:of	
+11	u3	and	CC	10	cc	
+12	_lugal_	king	NN	10	conj	
+13	ki-ib-ra-tim	world quarters	NNS	10	nmod:of	
+14	ar-ba-im	the four	DT	15	det	
+15	...	the four	CD	7	appos	
+16	x	_	_	0	dep
+	
+

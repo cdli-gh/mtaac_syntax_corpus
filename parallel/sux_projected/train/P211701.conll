@@ -1,0 +1,21 @@
+# train/P211701.atf
+						
+
+# tr.en: Basket-of-tablets sealed documents seized in and of Lu-aya are here year en of Inanna in Uruk by goat was found
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	kiszib3	sealed documents	NNS	9	nsubj	
+3	dab-ba	seized	VBD	2	conj	
+4	sza3	in	IN	5	nmod:in	
+5	ze2	_	NN	2	nmod:in	
+6	u3	and	CC	5	cc	
+7	...	_	NN	5	dep	
+8	lu2-{d}ha-ia3	Lu-aya	NNP	5	nmod:of	
+9	i3-gal2	are here	RB	1	_	
+10	mu	year	NN	15	nmod:tmod	
+11	en	en	IN	15	nsubjpass	
+12	{d}inanna	Inanna	NNP	11	nmod:of	
+13	unu{ki}	in Uruk	NNP	11	nmod:in	
+14	masz-e	by goat	NN	11	nmod:by	
+15	i3-pa3	found was	VBN	9	parataxis
+	
+

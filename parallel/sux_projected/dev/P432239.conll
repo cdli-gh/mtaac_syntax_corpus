@@ -1,0 +1,229 @@
+# dev/P432239.atf
+						
+
+# tr.en: For Nindara the powerful king his master for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad Szulgi-kiursa-kalama his person in charge of sacrifices a statue of him he created The statue Szulgi Given Strength by Nindara The Inspiration of His City is its name the opening of bowl dealing with cows in Place of An On day of festival in temple of Ninmar when first are taken into courtyard jugs of sweet-wort jugs of beer barig and ban of royal flour linen cover and linen for throne cedar sprouts and cedar herders times minas of them split fish royal gur of salt gur of soda quart jugs of silver fish of sea silver rings jug of oil were gifts of artisans In Girsu in month of barley transporting a properly equipped boat which is to be caulked from Guabba the office of master of ceremonies one who bears fire from temple belong to artians A term of ten days and a one-third in temple of Ki-es one-third in temple of Girsu that when boat spends night at shrine and when boat lands at quay an allotment of of that for when boat is taken to outer district these requisitions were owed to no person Legs of beef and mutton of palace and grain-stores and dais of Ningirsu the office of ita-priest with its uncultivated land subsistance plots holy water the grain-store of palace sheep legs of wool-bearing mother sheep quarts of ghee barig of royal dates n plus ban of cheese ban of milk quarts of wine n strings of figs strings of apples food for jourey to Guabba are requisitions of artisans The field Little Marsh the field Kimura the field Little Canebrake Vinegar Field the field is list of artisans The sheep come from temple and goats of word are requisitions of artisans Forever for one who will put wood into oven for him may I be that mans guardian angel May he invoke my name and tend to me
+1	{d}nin-dar-a	For Nindara	NNP	0	root	
+2	lugal	king	NN	94	root	
+3	uru16	the powerful	DT	2	det	
+4	x	the powerful	JJ	2	dep	
+5	...	_	_	0	dep	
+6	lugal-a-ni	his master	NN	95	_	
+7	nam-ti	for life	NN	6	nmod:for	
+8	{d}szul-gi	Szulgi	NNP	7	nmod:of	
+9	nita	the	DT	10	det	
+10	kal-ga	mighty man	NN	8	appos	
+11	lugal	king	NN	8	appos	
+12	uri5{ki}-ma	Ur	NN	11	nmod:of	
+13	lugal	king	NN	11	conj	
+14	ki-en-gi	Sumer	NNP	13	nmod:of	
+15	ki-uri-ka-sze3	and and Akkad	CC	11	cc	
+16	{d}szul-gi-ki-ur5-sa6-kalam-ma-ka	Szulgi-kiursa-kalama	NN	221	_	
+17	lu2	_	,	16	_	
+18	{gesz}tag-ga-ni	his person in charge sacrifices	NN	16	dobj	
+19	alan-a-ni	a statue him	NN	16	appos	
+20	mu-du2	he created	VBD	19	acl:relcl	
+21	alan-na	The statue	NN	16	_	
+22	{d}szul-gi	Szulgi	NNP	30	nsubj	
+23	a2	_	_	0	_	
+24	szum2-ma	Given Strength	NN	22	appos	
+25	{d}nin-dar-a	by Nindara	NNP	24	nmod:by	
+26	zi-sza3-gal2	The Inspiration	NN	25	appos	
+27	iri-na	His City	NN	26	nmod:of	
+28	mu-bi	is its name	VBZ	30	cop	
+29	x	is its name	PRP$	30	dep	
+30	x	is its name	NN	21	dep	
+31	x	_	_	0	dep	
+32	x	_	_	0	dep	
+33	za	_	_	0	_	
+34	x	_	_	0	dep	
+35	x	_	_	0	dep	
+36	x	_	_	0	dep	
+37	KA	the	DT	38	det	
+38	bur-ra	opening bowl	NN	96	_	
+39	ki	_	.	30	_	
+40	an-na-ka	dealing with cows in	VBG	38	acl	
+41	ab2-ba	Place An	NN	40	nmod:in	
+42	szu	_	_	0	_	
+43	tum3	_	_	0	_	
+44	u4	_	_	0	_	
+45	ezem-ma-ka	On day festival	NN	30	nmod:on	
+46	e2	in	IN	47	nmod:in	
+47	{d}nin-mar{ki}-ka	temple Ninmar	NN	45	nmod:in	
+48	sag	_	:	30	_	
+49	kisal-la	when first are taken into courtyard	VBN	45	acl:relcl	
+50	dab5-ba	_	CD	52	nummod	
+51	5(asz)	_	,	52	nummod	
+52	dug	jugs	NNS	105	nsubj	
+53	dida	sweet-wort	NN	52	nmod:of	
+54	7(asz)	_	,	52	nummod	
+55	dug	jugs	NNS	52	conj	
+56	kasz	beer	NN	55	nmod:of	
+57	1(barig)	barig	NN	52	nummod	
+58	1(ban2)	ban	NN	57	nummod	
+59	zi3	and flour	CC	52	cc	
+60	lugal	royal	JJ	58	amod	
+61	1(disz)	_	_	0	nummod	
+62	gada	_	_	0	_	
+63	ga-dul9	linen cover	NN	52	conj	
+64	1(disz)	_	,	52	nummod	
+65	gada	and linen for	CC	52	cc	
+66	gu-za	throne	NN	52	nmod:for	
+67	{gesz}dar-du3	cedar	NN	68	compound	
+68	{gesz}erin	sprouts	NNS	52	conj	
+69	u3	and	CC	52	cc	
+70	gab2-ra	cedar	NN	71	compound	
+71	{gesz}erin	herders	NNS	52	conj	
+72	7(disz)	_	,	52	nummod	
+73	ma-na	minas	NNS	52	conj	
+74	a-ra2	times them	NNS	73	nummod	
+75	2(disz)-am3	times them	PRP	73	nummod	
+76	1(gesz'u)	_	CD	79	nummod	
+77	la2	_	CD	83	nummod	
+78	1(u)	_	_	77	nummod	
+79	ku6	fish	NN	52	conj	
+80	al-dar-ra	split	NN	79	compound	
+81	1(asz)	_	,	52	nummod	
+82	mun	salt	NN	83	nmod:of	
+83	gur	gur	NN	52	conj	
+84	lugal	royal	NN	83	compound	
+85	1(asz)	_	,	52	nummod	
+86	naga	soda	NN	87	nmod:of	
+87	gur	gur	NN	52	conj	
+88	dug	jugs	NNS	52	conj	
+89	sila3	_	NN	88	nmod:of	
+90	|IGIxX|	quart	NN	88	compound	
+91	1(asz)	_	_	0	nummod	
+92	ku3	silver	NN	91	compound	
+93	...	_	_	0	dep	
+94	...	_	NN	0	root	
+95	 	_	_	0	_	
+96	 	_	_	0	_	
+97	ku6	fish	NN	89	conj	
+98	ab-ba	sea	NN	97	nmod:of	
+99	har	rings	NNS	89	conj	
+100	ku3-x	silver	NN	99	compound	
+101	1(asz)	_	,	89	nummod	
+102	dug	jug	NN	89	appos	
+103	i3-x	oil	NN	102	nmod:of	
+104	x	_	_	0	dep	
+105	nig2-ba	were gifts	NNS	30	parataxis	
+106	gaszam-kam	artisans	NNS	105	nmod:of	
+107	gir2-su{ki}	Girsu	NNP	119	nmod:in	
+108	sze	barley	NN	107	compound	
+109	il2-la-ka	In in month transporting	IN	107	nmod:in	
+110	ma2	_	_	0	_	
+111	szu	_	_	0	_	
+112	du7-a	a properly equipped boat	NN	107	appos	
+113	gu2-ab-ba{ki}-ta	which	WDT	114	nsubj	
+114	du8-dam	is to be caulked from Guabba	VBZ	112	acl:relcl	
+115	nam-lu2-be6-lu5-da	the office master ceremonies	NN	119	nsubj	
+116	e2-ta	one	NN	115	nmod:of	
+117	izi	who	WP	118	nsubj	
+118	la2-a	bears fire from temple	VBZ	116	acl:relcl	
+119	gaszam-kam	belong to artians	VBP	105	parataxis	
+120	bala	A term ten	NN	119	dobj	
+121	u4	days	NNS	120	nmod:of	
+122	1(u)	_	_	0	nummod	
+123	u3	and	CC	120	cc	
+124	igi-3(disz)-gal2	a one-third	NN	120	conj	
+125	e2	_	,	120	_	
+126	ki-es3-sa{ki}-ga	in temple Ki-es	NN	124	nmod:in	
+127	e2	_	,	120	_	
+128	gir2-su{ki}-ka	one-third in temple Girsu	NN	120	appos	
+129	igi-3(disz)-gal2	_	_	0	_	
+130	ma2	boat	NN	202	nsubj	
+131	esz3	shrine	NN	202	nmod:at	
+132	ge6	at	IN	131	nmod:at	
+133	zal	that when spends night	IN	202	mark	
+134	u3	and	CC	202	cc	
+135	ma2	boat	NN	137	compound	
+136	kar-e!(BUR)	when	WRB	189	advmod	
+137	tag-da-bi	lands at quay	NNS	189	nsubj	
+138	nig2-ba	an allotment of that	NN	137	conj	
+139	5/6(disz){sza}-bi	_	_	0	nummod	
+140	ma2	_	,	137	_	
+141	nigin9-bar-sze3	for when	IN	142	mark	
+142	de6-a-bi	boat is taken to outer district	VBN	138	acl	
+143	nig2-dab5-bi	these	DT	145	det	
+144	lu2	_	.	137	_	
+145	nu-da-tuku	requisitions were owed to no person	VBN	137	acl:relcl	
+146	ur2	Legs	NNS	137	_	
+147	gu4	_	_	0	_	
+148	udu	_	_	0	_	
+149	e2-gal	of palace	NN	150	nmod:of	
+150	e2-sag	beef and mutton and grain-stores	NN	146	nmod:of	
+151	u3	and	CC	150	cc	
+152	bara2	dais	NN	150	conj	
+153	{d}nin-gir2-su-ka	of Ningirsu	NNP	152	nmod:of	
+154	nam-szita4	the office ita-priest	NN	146	appos	
+155	kislah	with	IN	157	nmod:with	
+156	szuku	_	,	157	_	
+157	a-gub2-bi	its uncultivated land subsistance plots holy water	NN	146	nmod:with	
+158	e2-sag	the grain-store	NN	157	conj	
+159	udu	sheep	NN	158	nmod:of	
+160	e2-gal	palace	NN	159	compound	
+161	ur2	legs	NNS	157	conj	
+162	udu	sheep	NN	161	nmod:of	
+163	ama	wool-bearing mother	JJ	162	amod	
+164	siki	_	,	157	_	
+165	5(disz)	_	,	157	nummod	
+166	sila3	quarts	NNS	157	conj	
+167	i3-nun	ghee	NN	166	nmod:of	
+168	1(barig)	_	_	0	nummod	
+169	zu2-lum	barig dates	NN	157	conj	
+170	lugal	royal	NN	169	compound	
+171	n(disz)	_	,	157	_	
+172	1(ban2)	ban	NN	157	nummod	
+173	ga-ar3	plus cheese	CC	172	cc	
+174	1(ban2)	ban	NN	172	nummod	
+175	ga	milk	NN	174	nmod:of	
+176	1(u)	_	_	0	nummod	
+177	sila3	quarts	NNS	157	conj	
+178	gesztin	wine	NN	177	nmod:of	
+179	n(disz)	_	,	157	_	
+180	{gesz}pesz3	figs	NNS	181	nmod:of	
+181	sze-er-gu	strings	NNS	157	conj	
+182	4(disz)	_	,	157	nummod	
+183	{gesz}haszhur	apples	NNS	184	nmod:of	
+184	sze-er-gu	strings	NNS	157	conj	
+185	ninda	_	,	157	_	
+186	kaskal	food for jourey	NN	157	appos	
+187	gu2-ab-ba{ki}-sze3	to Guabba	NNP	186	nmod:to	
+188	nig2-dab5	are	VBP	189	cop	
+189	gaszam-kam	requisitions artisans	NNS	202	conj	
+190	a-sza3	field	NN	202	nsubj	
+191	ambar	The Marsh	DT	190	det	
+192	tur	Little	JJ	190	amod	
+193	a-sza3	field	NN	190	appos	
+194	ki-mu-ra	the Kimura	DT	193	det	
+195	a-sza3	field	NN	193	appos	
+196	gesz-gi	the Little	DT	195	det	
+197	tur	Canebrake	NN	195	_	
+198	a-sza3	_	,	197	_	
+199	a-gesztin-na	Vinegar Field	NNP	197	appos	
+200	a-sza3	field	NN	197	appos	
+201	x-gi4-a	the	DT	200	det	
+202	giri3-gen-na	is list	NN	120	_	
+203	gaszam-kam	artisans	NNS	202	nmod:of	
+204	udu	sheep	NN	206	nsubj	
+205	e2	_	,	120	_	
+206	lah5	The come from temple	VBN	120	acl	
+207	masz2	and goats	CC	120	cc	
+208	inim-ma	word	NN	120	nmod:of	
+209	nig2-dab5	are	VBP	210	cop	
+210	gaszam-kam	requisitions artisans	NNS	119	_	
+211	u4	_	,	219	_	
+212	ul-li2-a-sze3	Forever	RB	219	advmod	
+213	lu2	_	,	219	_	
+214	gesz	for	IN	215	nmod:for	
+215	udun	one who will put	CD	219	nmod:for	
+216	i3-na-szum2-da	him wood into oven for	NN	215	dobj	
+217	lu2-ba	may	MD	219	aux	
+218	{d}lamma-a-ni	I be that mans	PRP	219	nsubj	
+219	he2-me	guardian angel	NN	210	_	
+220	mu-mu	May	MD	221	aux	
+221	he2-pa3-de3	he invoke my name	VB	14	acl	
+222	en3-mu	and tend	CC	221	cc	
+223	he2-<tar>-re	to me	PRP	221	nmod:to
+	
+

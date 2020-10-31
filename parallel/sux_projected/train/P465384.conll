@@ -1,0 +1,40 @@
+# train/P465384.atf
+						
+
+# tr.en: of Dawa- governor of Zaul governor of Hunuri -mat governor of -laka -a military governor of -al Sabum
+1	'.	_	_	0	_	
+2	x	_	_	0	dep	
+3	...	_	_	0	dep	
+4	KI	of	IN	34	nmod:of	
+5	'.	_	,	34	_	
+6	da-wa-a-x	Dawa-	NN	34	compound	
+7	'.	_	_	0	_	
+8	|PA.|	governor	NN	5	root	
+9	'.	_	.	8	_	
+10	za-ul{ki}	Zaul	NN	8	nmod:of	
+11	'.	_	_	0	_	
+12	x	_	_	0	dep	
+13	x	_	_	0	dep	
+14	'.	_	_	0	_	
+15	|PA.|	governor	NN	8	appos	
+16	'.	_	.	17	_	
+17	hu-uh2-nu-ri!{ki}	of Hunuri	NNP	15	nmod:of	
+18	'.	_	,	17	_	
+19	(x)	_	_	0	_	
+20	x-ma-at	-mat	NN	17	_	
+21	'.	_	_	0	_	
+22	|PA.|	governor	NN	17	appos	
+23	'.	_	.	8	_	
+24	x-x-la2-ka	-laka	NN	22	nmod:of	
+25	'.	_	,	26	_	
+26	...-x-a	-a	NN	8	_	
+27	'.	_	_	0	_	
+28	szagina	military governor	NN	26	appos	
+29	'.	_	_	0	_	
+30	...-al{ki}	-al	JJ	32	amod	
+31	'.	_	.	8	_	
+32	sa-bu-um{}	Sabum	NNP	28	nmod:of	
+33	 	_	NN	0	root	
+34	 	_	NN	33	appos
+	
+

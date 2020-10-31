@@ -1,0 +1,31 @@
+# dev/P416425.atf
+						
+
+# tr.en: via Szu-Edar cupbearer bala th day month Festival of Mekigal year high-priest of Inanna in Uruk by means of extispicy was chosen Ibbi-Suen strong king king of Ur Szu-Edar cup-bearer son of -du your servant
+1	giri3	via	IN	2	nmod:via	
+2	szu-esz18-dar	Szu-Edar	NNP	17	nmod:via	
+3	sagi	cupbearer	NN	8	compound	
+4	bala	bala	NN	3	conj	
+5	u4	th day	NN	3	appos	
+6	1(u)	_	:	3	nummod	
+7	3(disz)-kam	_	_	6	nummod	
+8	iti	month	NN	17	_	
+9	ezem-me-ki-gal2	Festival Mekigal	NNP	8	_	
+10	mu	year	NN	9	_	
+11	en	high-priest	NN	15	nsubjpass	
+12	{d}inanna	Inanna	NNP	11	nmod:of	
+13	unu{ki}-ga	in Uruk	NNP	11	nmod:in	
+14	masz2-e	by	IN	11	nmod:by	
+15	i3-pa3	extispicy was chosen means	VBN	9	acl	
+16	{d}i-bi2-{d}suen	Ibbi-Suen	NNP	17	compound	
+17	lugal	king	NN	0	root	
+18	kal-ga	strong	JJ	17	amod	
+19	lugal	king	NN	17	appos	
+20	uri5{ki}-ma	Ur	NNP	19	nmod:of	
+21	szu-esz18-dar	Szu-Edar	NNP	17	_	
+22	sagi	cup-bearer	NN	21	appos	
+23	dumu	son	NN	21	appos	
+24	...-du	_	,	21	_	
+25	ARAD2-zu	your servant	NN	21	appos
+	
+

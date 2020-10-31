@@ -1,0 +1,23 @@
+# train/P432126.atf
+						
+
+# tr.en: For Inanna Ninkununa his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad the Ebur her beloved temple he built for her
+1	{d}inanna	For Inanna	IN	4	nmod:for	
+2	nin	_	_	0	_	
+3	ku3	_	_	0	_	
+4	nun-na	Ninkununa	NNP	0	root	
+5	nin-a-ni	his mistress	NN	4	_	
+6	ur-{d}namma	Ur-Namma	NN	5	appos	
+7	nita	the	DT	8	det	
+8	kal-ga	mighty man	NN	5	appos	
+9	lugal	king	NN	5	appos	
+10	uri5{ki}-ma	Ur	NN	9	nmod:of	
+11	lugal	king	NN	9	conj	
+12	ki-en-gi	Sumer	NNP	11	nmod:of	
+13	ki-uri-ke4	and and Akkad	CC	9	cc	
+14	esz3-bur	the Ebur	NNP	5	appos	
+15	e2	_	,	5	_	
+16	ki-ag2-ga2-ni	her beloved temple	NN	5	appos	
+17	mu-na-du3	he built for her	VBD	5	acl:relcl
+	
+

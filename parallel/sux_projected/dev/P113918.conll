@@ -1,0 +1,92 @@
+# dev/P113918.atf
+						
+
+# tr.en: bur ee iku field surface its barley gur barig the deficit gur barig field Dalbana bur ee iku field surface its barley gur the surplus gur field before E-amar bur ee iku field surface its barley gur barig ban the deficit gur barig ban field Village-bazi GAN its barley gur barig ban the surplus gur barig ban field Ab-illa total bur field surface total its barley barig ban deliveries total gur ban are deficit foreman Szu-Ea year
+1	5(bur3)	_	,	4	nummod	
+2	1(esze3)	_	_	1	nummod	
+3	3(iku)	_	_	1	nummod	
+4	GAN2	bur ee iku field surface	NN	0	root	
+5	sze-bi	its barley	NN	4	appos	
+6	4(u)	_	:	9	nummod	
+7	8(asz)	_	_	6	nummod	
+8	2(barig)	barig	NN	9	nummod	
+9	gur	gur	NN	4	_	
+10	la2-ia3	the deficit	DT	11	det	
+11	1(gesz2)	the deficit	NN	9	nummod	
+12	1(asz)	barig	NN	15	nummod	
+13	3(barig)	_	,	12	nummod	
+14	sze	_	_	0	_	
+15	gur	gur	NN	11	_	
+16	a-sza3	field	NN	17	compound	
+17	dal-ba-na	Dalbana	NNP	15	appos	
+18	2(bur3)	_	,	21	nummod	
+19	1(esze3)	_	_	18	nummod	
+20	3(iku)	_	_	18	nummod	
+21	GAN2	bur ee iku field surface	NN	15	_	
+22	sze-bi	its barley	NN	21	appos	
+23	5(u)	_	,	25	nummod	
+24	6(asz)	_	_	23	nummod	
+25	gur	gur	NN	21	_	
+26	diri	the surplus	NN	25	appos	
+27	6(asz)	_	_	0	nummod	
+28	gur	gur	NN	29	compound	
+29	a-sza3	field	NN	25	_	
+30	igi	before	IN	31	nmod:before	
+31	e2-amar	E-amar	NN	29	nmod:before	
+32	3(bur3)	_	,	35	nummod	
+33	1(esze3)	_	_	32	nummod	
+34	3(iku)	_	_	32	nummod	
+35	GAN2	bur ee iku field surface	NN	29	_	
+36	sze-bi	its barley	NN	35	appos	
+37	1(gesz2)	_	,	41	nummod	
+38	8(asz)	_	_	37	nummod	
+39	1(barig)	_	_	37	nummod	
+40	2(ban2)	barig ban	NN	41	nummod	
+41	gur	gur	NN	35	_	
+42	la2-ia3	the deficit	NN	41	appos	
+43	1(asz)	_	_	0	nummod	
+44	3(barig)	_	_	43	nummod	
+45	4(ban2)	barig ban	NN	48	nummod	
+46	gur	gur	NN	82	nsubj	
+47	a-sza3	field	NN	48	compound	
+48	e2-duru5-ba-zi	Village-bazi	NN	46	_	
+49	1(esze3)	_	_	0	nummod	
+50	3(iku)	_	_	49	nummod	
+51	GAN2	GAN	NN	46	_	
+52	sze-bi	its barley	NN	51	_	
+53	1(u)	_	,	57	nummod	
+54	4(asz)	_	_	53	nummod	
+55	1(barig)	_	_	53	nummod	
+56	2(ban2)	barig ban	NN	57	nummod	
+57	gur	gur	NN	46	_	
+58	diri	the surplus	NN	57	appos	
+59	4(asz)	ban	NN	64	nummod	
+60	1(barig)	_	_	59	nummod	
+61	2(ban2)	barig	NN	64	nummod	
+62	gur	gur	NN	57	_	
+63	a-sza3	field	NN	64	compound	
+64	ab-il2-la	Ab-illa	NN	62	_	
+65	szunigin	total	NN	46	_	
+66	1(bur'u)	_	,	68	nummod	
+67	2(bur3)	_	_	66	nummod	
+68	GAN2	bur field surface	NN	65	_	
+69	szunigin	total	NN	68	appos	
+70	sze-bi	its barley	PRP$	71	nmod:poss	
+71	3(gesz2)	its barley	NN	68	nummod	
+72	6(asz)	_	,	74	nummod	
+73	4(barig)	_	_	72	nummod	
+74	4(ban2)	ban	NN	68	nummod	
+75	gur	barig	NN	74	compound	
+76	mu-kux(DU)	deliveries	NN	74	appos	
+77	szunigin	total	NN	46	_	
+78	5(u)	_	,	46	nummod	
+79	3(asz)	_	_	78	nummod	
+80	2(ban2)	ban	NN	81	nummod	
+81	gur	gur	NN	77	_	
+82	la2-ia3-am3	are deficit	NN	41	_	
+83	ugula	foreman	NN	82	_	
+84	szu-e2-a	Szu-Ea	NN	83	_	
+85	mu	year	NN	82	appos	
+86	...	_	:	82	dep
+	
+

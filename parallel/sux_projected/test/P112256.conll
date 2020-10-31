@@ -1,0 +1,17 @@
+# test/P112256.atf
+						
+
+# tr.en: nannies of sukkalma via Szekalla household manager booked out year Szarum was destroyed
+1	2(disz)	_	NN	2	nummod	
+2	ud5	nannies	NNS	0	root	
+3	nig2-ka-a	of	IN	4	nmod:of	
+4	sukkal-mah	sukkalma	NN	1	nmod:of	
+5	giri3	via	IN	6	nmod:via	
+6	szesz-kal-la	Szekalla	NNP	2	nmod:via	
+7	szabra	household manager	NN	6	appos	
+8	zi-ga	booked out	VBN	6	acl	
+9	mu	year	NN	6	_	
+10	sza-asz-ru-um{ki}	_	``	6	_	
+11	ba-hul	was destroyed	VBN	6	acl
+	
+

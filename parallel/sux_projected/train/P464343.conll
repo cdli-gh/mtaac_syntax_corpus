@@ -1,0 +1,43 @@
+# train/P464343.atf
+						
+
+# tr.en: n sila x ban sila dried cheese gur barig ban sila dates from Szu-Edar received year Szu-Suen king of Ur house of Szara in Umma erected Nr-il scribe son of Ur-Dumuzi scribe
+1	n	n	CD	37	compound	
+2	2(disz)	_	,	5	nummod	
+3	1/2(disz)	_	CD	7	nummod	
+4	sila3	sila	NN	5	compound	
+5	x	x	NN	9	nsubj	
+6	4(ban2)	_	,	9	nummod	
+7	8(disz)	ban	NN	5	nummod	
+8	sila3	sila	NN	7	_	
+9	ga-ar3	dried cheese	VBD	0	root	
+10	1(u)	_	,	9	nummod	
+11	8(asz)	_	_	10	nummod	
+12	3(barig)	_	_	10	nummod	
+13	3(ban2)	_	_	10	nummod	
+14	5(disz)	barig ban	NN	17	nummod	
+15	sila3	sila	NN	16	compound	
+16	zu2-lum	dates	NNS	14	_	
+17	gur	gur	NN	9	appos	
+18	ki	from	IN	19	nmod:from	
+19	szu-esz18-dar-ta	Szu-Edar	NNP	9	nmod:from	
+20	...	_	_	0	dep	
+21	szu	_	:	9	_	
+22	ba-ti	received	VBD	9	parataxis	
+23	mu	year	NN	9	parataxis	
+24	{d}szu-{d}suen	Szu-Suen	NNP	23	_	
+25	lugal	king	NN	24	appos	
+26	uri5{ki}-ma-ke4	Ur	NN	25	nmod:of	
+27	e2	house	NN	30	nsubj	
+28	{d}szara2	Szara	NNP	27	nmod:of	
+29	umma{ki}	Umma in	NNP	27	nmod:in	
+30	mu-du3	erected	VBD	24	acl:relcl	
+31	nu-ur2-i3-li2	_	''	9	_	
+32	dub-sar	scribe	NN	9	conj	
+33	dumu	son	NN	9	appos	
+34	ur-{d}dumu-zi	Ur-Dumuzi	NNP	33	nmod:of	
+35	dub-sar	scribe	NN	34	appos	
+36	 	_	NN	0	root	
+37	 	_	.	36	_
+	
+

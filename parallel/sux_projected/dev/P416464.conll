@@ -1,0 +1,33 @@
+# dev/P416464.atf
+						
+
+# tr.en: kids the th day from Abbasaga Intaea accepted month year Enmagalana high-priestess of Nanna was hired
+1	2(u)	_	,	27	nummod	
+2	2(disz)	_	_	1	nummod	
+3	...	_	_	0	dep	
+4	1(u)	_	_	0	nummod	
+5	1(disz)	_	_	4	nummod	
+6	...	_	_	0	dep	
+7	5(disz)	_	_	0	nummod	
+8	masz2	kids	NNS	27	appos	
+9	u4	the th day	NN	27	appos	
+10	1(u)	_	,	27	nummod	
+11	la2	_	_	10	_	
+12	1(disz@t)-kam	_	_	11	nummod	
+13	ki	from	IN	14	nmod:from	
+14	ab-ba-sa6-ga-ta	Abbasaga	NNP	27	nmod:from	
+15	in-ta-e3-a	Intaea	NNP	14	appos	
+16	i3-dab5	accepted	VBN	15	amod	
+17	iti	month	NN	16	_	
+18	...	_	:	17	dep	
+19	mu	year	NN	17	_	
+20	en-mah-gal-an-na	Enmagalana	NNP	24	nsubjpass	
+21	en	high-priestess	NN	20	appos	
+22	{d}nanna	Nanna	NNP	21	nmod:of	
+23	ba-hun	was hired	VBD	24	auxpass	
+24	3(u)	was hired	VBN	19	nummod	
+25	8(disz)	_	IN	22	nummod	
+26	 	_	NN	0	root	
+27	 	_	.	26	_
+	
+

@@ -1,0 +1,79 @@
+# test/P404807.atf
+						
+
+# tr.en: talents mana old wool the warehouse Ati-Dazagula talents mana wool wool Apisal the warehouse Da-zagula talents mana black wool the warehouse Ati-Esag less from Ur-ee talents mana wool the warehouse Ati-Esag from Kas the warehouse of governor mana wool native mana wool combings with Ur-Szara mana wool native with Lukalla
+1	1(gesz2)	_	,	4	nummod	
+2	3(u)	_	_	1	nummod	
+3	5(asz)	_	_	1	nummod	
+4	gu2	talents	NNS	0	root	
+5	3(u)	_	_	0	nummod	
+6	5(disz)	_	_	5	nummod	
+7	1/3(disz)	_	_	5	nummod	
+8	ma-na	mana	NN	9	compound	
+9	siki	wool	NN	4	_	
+10	sumun	old	JJ	9	amod	
+11	e2-kiszib3-ba	the	DT	12	det	
+12	a2-ti-da-za3-gu2-la2	warehouse Ati-Dazagula	NNP	4	appos	
+13	3(u)	_	,	12	nummod	
+14	3(asz)	_	_	13	nummod	
+15	gu2	talents	NNS	12	appos	
+16	1(u)	_	_	0	nummod	
+17	4(disz)	_	NN	22	nummod	
+18	5/6(disz)	_	_	17	nummod	
+19	ma-na	mana	NN	20	compound	
+20	siki!	wool	NN	15	_	
+21	siki	wool	_	0	_	
+22	a-pi4-sal4{ki}	Apisal	NN	12	appos	
+23	e2-kiszib3-ba	the	DT	24	det	
+24	da-za3-gu2-la2	warehouse Da-zagula	NN	12	appos	
+25	4(asz)	_	,	24	nummod	
+26	gu2	talents	NNS	12	appos	
+27	1(u)	_	_	0	nummod	
+28	la2	_	_	27	_	
+29	1(disz@t)	_	_	28	nummod	
+30	ma-na	mana	NN	31	compound	
+31	siki	wool	NN	26	_	
+32	ge6	black	JJ	31	amod	
+33	e2-kiszib3-ba	the	DT	34	det	
+34	a2-ti-e2-sag{ki}	warehouse Ati-Esag	NNP	12	appos	
+35	1(gesz2)	_	CD	12	nummod	
+36	3(u)	_	_	35	nummod	
+37	la2	less	JJR	35	advmod	
+38	5(u)	_	_	37	nummod	
+39	ki	from	IN	40	nmod:from	
+40	ur-e11-e-ta	Ur-ee	NN	35	nmod:from	
+41	4(u)	_	,	12	nummod	
+42	7(asz)	_	_	41	nummod	
+43	gu2	talents	NNS	12	_	
+44	4(u)	_	_	0	nummod	
+45	6(disz)	_	_	44	nummod	
+46	5/6(disz)	_	_	44	nummod	
+47	ma-na	mana	NN	48	compound	
+48	siki	wool	NN	43	_	
+49	e2-kiszib3-ba	the	DT	50	det	
+50	a2-ti-e2-sag{ki}	warehouse Ati-Esag	NNP	12	appos	
+51	ki	from	IN	52	nmod:from	
+52	kas4-ta	Kas	NN	12	nmod:from	
+53	e2-kiszib3-ba	the warehouse	NN	4	_	
+54	ensi2-ka	governor	NN	53	nmod:of	
+55	2(u)	_	_	0	nummod	
+56	7(disz)	_	_	55	nummod	
+57	5/6(disz)!	_	CD	64	nummod	
+58	ma-na	mana	NN	64	compound	
+59	siki-gi	wool native	NN	64	compound	
+60	2(u)	_	_	0	nummod	
+61	2/3(disz)	_	_	60	nummod	
+62	ma-na	mana	NN	64	compound	
+63	siki	wool	NN	64	compound	
+64	mug	combings	NNS	4	_	
+65	ki	with	IN	66	nmod:with	
+66	ur-{d}szara2	Ur-Szara	NN	64	nmod:with	
+67	2(u)	_	_	0	nummod	
+68	6(disz)	_	_	67	nummod	
+69	5/6(disz)	_	_	67	nummod	
+70	ma-na	mana	NN	71	compound	
+71	siki-gi	wool native	NN	4	_	
+72	ki	with	IN	73	nmod:with	
+73	lu2-kal-la	Lukalla	NN	71	nmod:with
+	
+

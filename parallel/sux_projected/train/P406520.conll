@@ -1,0 +1,24 @@
+# train/P406520.atf
+						
+
+# tr.en: gur barig barley royal from Lu-Ninubur Lukalla chief of silo received month Festival of Baba year Szarum was destroyed
+1	1(gesz2)	_	,	5	nummod	
+2	5(u)	_	_	1	nummod	
+3	4(asz)	_	_	1	nummod	
+4	1(barig)	barig	NN	5	nummod	
+5	sze	barley	NN	0	root	
+6	gur	gur	NN	5	compound	
+7	lugal	royal	NN	5	appos	
+8	ki	from	IN	9	nmod:from	
+9	lu2-{d}nin-szubur-ta	Lu-Ninubur	NNP	5	nmod:from	
+10	lu2-kal-la	Lukalla	NNP	9	appos	
+11	ka-guru7	chief silo	NN	9	appos	
+12	szu	_	:	5	_	
+13	ba-ti	received	VBD	9	acl	
+14	iti	month	NN	16	_	
+15	ezem-{d}ba-ba6	Festival Baba	NNP	16	_	
+16	mu	year	NN	5	parataxis	
+17	sza-asz-ru-um{ki}	_	``	16	_	
+18	ba-hul	was destroyed	VBN	16	acl
+	
+

@@ -1,0 +1,87 @@
+# train/P432264.atf
+						
+
+# tr.en: For Nanna his beloved master the Dublamah since ancient days though not an offering place where daily rations had been withdrawn having become since its temple had not been rebuilt Amar-Suena beloved by Nanna whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the mighty man king of Ur and king of four world quarters the Dublamah the temple which is wonder of country his place of judgment where from his net the enemies of Amar-Suena do not escape that temple he rebuilt and made resplendent for him With gold silver and lapis lazuli he decorated it for him Amar-Suen shall therewith prolong his life A person who when temple has become old having rebuilt it but this inscription and its utensils from its standing-place does not change in eyes of Nanna may he find favor But a person who this inscription shall erase and its utensils to its standing-place shall not return may serpent of Nanna be set upon him and to his descendants may Nanna make an end
+1	{d}nanna	For Nanna	NNP	64	nmod:for	
+2	lugal	_	_	0	_	
+3	ki-ag2-ga2-ni-ir	his beloved master	NN	64	nsubj	
+4	dub-la2	the Dublamah	NNP	3	_	
+5	mah	_	,	3	_	
+6	u4	days	NNS	3	nmod:since	
+7	ul-li2-a-ta	since ancient	IN	6	nmod:since	
+8	ki-szu-tag	though not an offering place	IN	55	mark	
+9	szuku	_	_	0	_	
+10	u4	_	_	0	_	
+11	szub-ba	where daily rations had been withdrawn	VBN	55	acl:relcl	
+12	i3-me-a-na-an-na	having become	VBN	11	xcomp	
+13	e2-bi	since	IN	14	mark	
+14	nu-du3-am3	its temple had not been rebuilt	VBN	21	advcl	
+15	{d}amar-{d}suen	Amar-Suena	NNP	14	dobj	
+16	ki-ag2	beloved	JJ	15	amod	
+17	{d}nanna	by Nanna	NNP	16	nmod:by	
+18	nibru{ki}-a	whom in Nippur	WP	17	appos	
+19	{d}en-lil2-le	Enlil	NNP	21	nsubj	
+20	mu	_	,	21	_	
+21	pa3-da	chose by name	VBD	55	acl:relcl	
+22	sag-us2	the constant supporter	NN	21	appos	
+23	e2	_	,	24	_	
+24	{d}en-lil2-ka	of temple of Enlil	NN	22	nmod:of	
+25	nita	the	DT	26	det	
+26	kal-ga	mighty man	NN	24	appos	
+27	lugal	king	NN	24	appos	
+28	uri5{ki}-ma	Ur	NN	27	nmod:of	
+29	lugal	king	NN	27	conj	
+30	an	four	CD	29	nummod	
+31	ub-da	world	NN	29	compound	
+32	limmu2-ba-ke4	and quarters	CC	27	cc	
+33	dub-la2	the Dublamah	NNP	21	appos	
+34	mah	_	,	21	_	
+35	e2	_	,	21	_	
+36	u6-di-kalam-ma	the temple which is wonder country	NN	21	appos	
+37	ki	_	,	38	_	
+38	di-ku5-da-ni	his place judgment	NN	21	appos	
+39	sa-bar-a-ni	where from his net	WRB	42	advmod	
+40	lu2-erim2	the enemies	NNS	42	nsubj	
+41	{d}amar-{d}suen-ka	of Amar-Suena	NNP	40	nmod:of	
+42	nu-e3	do not escape	VB	38	acl:relcl	
+43	e2-bi	that temple rebuilt	IN	52	mark	
+44	mu-na-du3	he	PRP	52	nsubj	
+45	pa	and	CC	52	cc	
+46	mu-na-an-e3	made resplendent for him	VBD	52	conj	
+47	ku3-sig17	With gold	NN	52	nmod:with	
+48	ku3-babbar	silver	NN	47	conj	
+49	na4	_	_	0	_	
+50	za-gin3-na	and lapis lazuli	CC	47	cc	
+51	mu10	he	PRP	52	nsubj	
+52	mu-na-ni-du11	decorated it for him	VBD	21	ccomp	
+53	{d}amar-{d}suen-ke4	Amar-Suen	NN	55	nsubj	
+54	u4	_	.	3	_	
+55	im-da-ab-su3-re6	shall therewith prolong his life	VB	6	acl	
+56	lu2	_	,	59	_	
+57	e2	_	_	0	_	
+58	a-ba-sumun	A person who when temple has become old	NN	3	appos	
+59	u3-un-du3	having rebuilt it	VBN	58	acl:relcl	
+60	mu-sar-ra-bi	but this inscription	CC	3	cc	
+61	u3	and	CC	3	cc	
+62	{gesz}szu-kar2-bi	its utensils	NNS	3	conj	
+63	ki-gub-ba-bi	from its standing-place	NN	62	nmod:from	
+64	nu-ub-da-ab-kur2-re-a	does not change	VB	0	root	
+65	igi	_	_	0	_	
+66	{d}nanna-ka	in eyes Nanna	NNS	64	nmod:in	
+67	he2-en-sa6	may he find favor	VB	64	advcl	
+68	lu2	a	DT	78	det	
+69	mu-sar-ra-ba	But person who this inscription	CC	67	cc	
+70	szu	_	_	0	_	
+71	bi2-ib2-ur3-re-a	shall erase	VB	78	acl:relcl	
+72	u3	and	CC	71	cc	
+73	{gesz}szu-kar2-bi	its utensils	NNS	75	nsubj	
+74	ki-gub-bi-sze3	to its standing-place	JJ	73	nmod:to	
+75	nu-ub-szi-ib2-gi4-gi4-a	shall not return	VB	71	conj	
+76	musz	may serpent	MD	78	aux	
+77	{d}nanna	Nanna	NNP	78	nmod:of	
+78	he2-en-gar	be set upon him	VBN	67	conj	
+79	numun-na-ni	and to his descendants	CC	78	cc	
+80	{d}nanna	may Nanna	MD	81	aux	
+81	he2-eb-til-le	make an end	VB	78	conj
+	
+

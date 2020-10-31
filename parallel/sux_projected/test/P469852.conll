@@ -1,0 +1,29 @@
+# test/P469852.atf
+						
+
+# tr.en: shekel silver its barley barig ban from Szekalla did Alla receive to month Flight to be repaid month First fruits year Ibbi-Suen is king Alla scribe son of Lu-irisag
+1	1/3(disz)	_	,	3	nummod	
+2	gin2	shekel	NN	3	compound	
+3	ku3-babbar	silver	NN	0	root	
+4	sze-bi	its barley	NN	3	appos	
+5	2(barig)	ban	NN	6	nummod	
+6	2(ban2)	barig	NN	3	nummod	
+7	ki	from	IN	8	nmod:from	
+8	szesz-kal-la-ta	Szekalla	NNP	11	nmod:from	
+9	al-la	did Alla	VBD	11	aux	
+10	szu	_	:	11	_	
+11	ba-ti	receive	VB	6	acl	
+12	iti	month	NN	11	nmod:to	
+13	ri-sze3	to Flight	TO	12	nmod:to	
+14	su-su-dam	to be repaid	VBN	12	acl	
+15	iti	month	NN	11	_	
+16	nesag	First fruits	NNS	15	_	
+17	mu	year	NN	16	_	
+18	{d}i-bi2-{d}suen	Ibbi-Suen is	NNP	19	nsubj	
+19	lugal	king	NN	16	_	
+20	al-la	Alla	NNP	16	_	
+21	dub-sar	scribe	NN	20	appos	
+22	dumu	son	NN	20	appos	
+23	lu2-iri-sag	Lu-irisag	NN	22	nmod:of
+	
+

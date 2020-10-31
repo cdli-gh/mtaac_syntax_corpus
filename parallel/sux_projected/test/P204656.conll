@@ -1,0 +1,29 @@
+# test/P204656.atf
+						
+
+# tr.en: Basket-of-tablets long-tablets Ur-Enlil Akalla son of Ursaga Ur-Baba son of Ur-iedina Ur-Nane son of Ur-Eanna Ur-Lamma son of Urnig and Iddina son of Lu-girizal are here year Enmagalann was hired
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub-gid2-da	long-tablets	NNS	20	nsubj	
+3	ur-{d}en-lil2	Ur-Enlil	NNP	2	conj	
+4	a-kal-la	Akalla	NNP	2	conj	
+5	dumu	son	NN	2	conj	
+6	ur-sa6-ga	Ursaga	NNP	5	nmod:of	
+7	ur-{d}ba-ba6	Ur-Baba	NNP	6	appos	
+8	dumu	son	NN	6	appos	
+9	ur-i7-edin-na	Ur-iedina	NNP	8	nmod:of	
+10	ur-{d}nansze	Ur-Nane	NNP	9	appos	
+11	dumu	son	NN	9	appos	
+12	ur-e2-an-na	Ur-Eanna	NNP	11	nmod:of	
+13	ur-{d}lamma	Ur-Lamma	NNP	12	appos	
+14	dumu	son	NN	12	appos	
+15	ur-nig2	Urnig	NNP	14	nmod:of	
+16	u3	and	CC	12	cc	
+17	ma-an-szum2-na	Iddina	NNP	12	conj	
+18	dumu	son	NN	17	appos	
+19	lu2-giri17-zal	Lu-girizal	JJ	18	nmod:of	
+20	i3-gal2	are here	RB	1	_	
+21	mu	year	NN	23	_	
+22	en-mah-gal-an-na	Enmagalann	NNP	23	nsubjpass	
+23	ba-hun	was hired	VBN	20	parataxis
+	
+

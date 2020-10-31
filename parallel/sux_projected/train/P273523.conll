@@ -1,0 +1,37 @@
+# train/P273523.atf
+						
+
+# tr.en: A field of iku harrowed once iku each its erin-work is man-days Field Du-Geika Overseer Lugal-Itida Sealed document of Lu-Szara son of Ur-Gigir Year after martu-wall was erected Lu-Szara the scribe son of Ur-Gigir
+1	1(bur3)	_	,	4	nummod	
+2	1(esze3)	_	_	1	nummod	
+3	GAN2	_	_	0	_	
+4	gesz-ur3-ra	harrowed once	JJ	11	_	
+5	a-ra2	_	_	0	_	
+6	1(disz@t)	_	_	0	nummod	
+7	4(iku)	_	_	6	nummod	
+8	1/2(iku)	each	DT	4	nummod	
+9	GAN2-ta	A field iku iku	NN	0	root	
+10	a2	_	.	11	_	
+11	erin2-na-bi	its erin-work is man-days	NNS	9	_	
+12	u4	_	_	0	_	
+13	1(u)	_	_	0	nummod	
+14	6(disz)	_	_	13	nummod	
+15	a-sza3	_	.	9	_	
+16	du6-gesz-i3-ka	Field Du-Geika	NNP	11	parataxis	
+17	ugula	Overseer	NNP	18	compound	
+18	lugal-iti-da	Lugal-Itida	NNP	9	_	
+19	kiszib3	Sealed document	NN	18	_	
+20	lu2-{d}szara2	Lu-Szara	NNP	21	compound	
+21	dumu	son	NN	19	nmod:of	
+22	ur-{gesz}gigir	Ur-Gigir	NNP	21	nmod:of	
+23	mu	Year	NN	9	_	
+24	us2-sa	after	IN	27	mark	
+25	bad3	_	.	28	_	
+26	mar-tu	martu-wall	NN	27	nsubjpass	
+27	ba-du3	was erected	VBN	28	advcl	
+28	lu2-{d}szara2	Lu-Szara	NN	9	_	
+29	dub-sar	the scribe	NN	28	appos	
+30	dumu	son	NN	29	appos	
+31	ur-{gesz}gigir	Ur-Gigir	NNP	30	nmod:of
+	
+

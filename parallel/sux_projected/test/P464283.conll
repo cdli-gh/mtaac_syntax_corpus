@@ -1,0 +1,24 @@
+# test/P464283.atf
+						
+
+# tr.en: jack th day from Abbasaga Sz-Erra accepted month Ubi-feast year Enunugal of Inanna in Uruk was installed
+1	1(disz)	_	,	2	nummod	
+2	dusu2-nita2	jack	NN	18	_	
+3	u4	th day	NN	2	appos	
+4	1(u)	_	:	2	nummod	
+5	5(disz)-kam	_	_	4	nummod	
+6	ki	from	IN	8	nmod:from	
+7	ab-ba-sa6-ga-ta	Abbasaga	NNP	8	compound	
+8	szu-er3-ra	Sz-Erra	NNP	2	nmod:from	
+9	i3-dab5	accepted	VBD	8	acl	
+10	iti	month	NN	11	_	
+11	u5-bi2-gu7	Ubi-feast	JJ	2	_	
+12	mu	year	NN	11	_	
+13	en-unu6-gal	Enunugal	NNP	17	nsubjpass	
+14	{d}inanna	Inanna	NNP	13	nmod:of	
+15	unu{ki}-ga	in Uruk	NNP	13	nmod:in	
+16	ba-hun	was installed	VBD	17	auxpass	
+17	1(disz)	was installed	VBN	11	nummod	
+18	 	_	LS	0	root
+	
+

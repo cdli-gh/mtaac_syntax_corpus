@@ -1,0 +1,45 @@
+# test/P116018.atf
+						
+
+# tr.en: mana shekel grains silver mana resin of Ninebtum the remainder of year after wall of land was erected barig barley royal remainder of year high-priestess of Nanna under seal of Ur-saga manager to be repaid the trade agents will confirm year Amar-Suen king Ur-saga manager of throne bearers
+1	3(disz)	_	_	0	nummod	
+2	ma-na	mana	NN	5	compound	
+3	1(disz)	_	_	0	nummod	
+4	1/2(disz)	_	,	9	nummod	
+5	gin2	shekel	NN	0	root	
+6	1(u)	_	CD	14	nummod	
+7	5(disz)	_	_	6	nummod	
+8	sze	grains	NNS	5	_	
+9	ku3-babbar	silver	NN	8	_	
+10	4(disz)	_	,	9	nummod	
+11	2/3(disz)	_	_	10	nummod	
+12	ma-na	mana	NN	14	compound	
+13	SZIM	_	_	0	_	
+14	{d}nin-eb-tum	resin Ninebtum	NN	9	appos	
+15	si-i3-tum	the remainder	NN	9	appos	
+16	mu	year	NN	15	nmod:of	
+17	us2-sa	after	IN	20	_	
+18	bad3	wall	NN	20	nsubjpass	
+19	ma-da	land	NN	18	nmod:of	
+20	ba-du3	was erected	VBN	15	acl	
+21	2(barig)	barig	NN	22	nummod	
+22	sze	barley	NN	5	_	
+23	lugal	royal	NN	22	appos	
+24	si-i3-tum	remainder	NN	22	appos	
+25	mu	year	NN	24	nmod:of	
+26	en	high-priestess	NN	5	_	
+27	{d}nanna	Nanna	NNP	26	nmod:of	
+28	kiszib3	under seal	NN	5	nmod:under	
+29	ur-sa6-ga	Ur-saga	NN	28	nmod:of	
+30	nu-banda3	manager	NN	29	appos	
+31	su-su-dam	to be repaid	VBN	5	acl	
+32	dam-gar3-ne-bi	the trade	DT	33	det	
+33	gi-ne2-dam	agents will confirm	VB	5	parataxis	
+34	mu	year	NN	36	_	
+35	{d}amar-{d}suen	Amar-Suen	JJ	36	amod	
+36	lugal	king	NN	5	parataxis	
+37	ur-sa6-ga	Ur-saga	NN	38	compound	
+38	nu-banda3	manager	NN	5	_	
+39	gu-za-la2	throne bearers	NNS	38	nmod:of
+	
+

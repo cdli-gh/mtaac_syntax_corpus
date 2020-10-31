@@ -1,0 +1,22 @@
+# dev/P482028.atf
+						
+
+# tr.en: less lambs billy th day from Abbasaga did Intaea accept month Big-festival year Szaru was destroyed
+4	sila4	lambs	_	0	_	
+5	1(disz)	_	_	0	nummod	
+6	masz2	billy	RB	0	root	
+7	u4	th day	JJ	6	amod	
+8	 	_	NN	0	root	
+9	3(u)-kam	_	_	0	nummod	
+10	ki	from	IN	8	nmod:from	
+11	ab-ba-sa6-ga-ta	Abbasaga	NNP	0	root	
+12	in-ta-e3-a	did Intaea	VBD	0	root	
+13	i3-dab5	accept	VB	0	root	
+14	iti	month	NN	9	_	
+15	ezem-mah	Big-festival	JJ	0	root	
+16	mu	year	NN	19	_	
+17	sza-asz-ru{ki}	_	``	19	_	
+18	ba-hul	was destroyed	VBD	19	auxpass	
+19	1(u)	was destroyed	VBN	0	nummod
+	
+

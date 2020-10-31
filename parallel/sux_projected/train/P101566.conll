@@ -1,0 +1,38 @@
+# train/P101566.atf
+						
+
+# tr.en: Basket-of-tablets copies sealed documents men of takes in debits to be placeds the sealed documents of Ur-Nungal are here via -Baba and -zi month Festival-of-Szu-Suen year
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	gaba-ri	copies	NNS	19	nsubj	
+3	kiszib3	sealed documents	NNS	2	conj	
+4	lu2	_	,	2	_	
+5	nig2-dab5-ke4-ne	men takes	NNS	2	conj	
+6	ugu2-a	_	POS	8	nmod:'s	
+7	ga2-ga2-de3	in debits to be placeds	NNS	2	conj	
+8	kiszib3-bi	the sealed documents	NNS	7	nmod:'s	
+9	ur-{d}nun-gal	Ur-Nungal	NNP	8	nmod:of	
+10	...	_	_	0	dep	
+11	x	_	IN	9	dep	
+12	...	_	_	0	dep	
+13	'.	_	:	19	_	
+14	...	_	_	0	dep	
+15	x	_	_	0	dep	
+16	x	_	_	0	dep	
+17	...	_	_	0	dep	
+18	'.	_	_	0	_	
+19	i3-gal2	are here	RB	1	_	
+20	'.	_	,	22	_	
+21	giri3	via	IN	22	nmod:via	
+22	x-{d}ba-ba6	-Baba	NN	19	nmod:via	
+23	'.	_	NN	22	conj	
+24	u3	and	CC	22	cc	
+25	x	_	,	22	dep	
+26	x-zi	-zi	_	0	_	
+27	'.	_	,	22	_	
+28	iti	month	NN	29	compound	
+29	ezem-{d}szu-{d}suen	Festival-of-Szu-Suen	NNP	22	conj	
+30	'.	_	:	19	_	
+31	mu	year	NN	22	_	
+32	{d}...	_	``	19	_
+	
+

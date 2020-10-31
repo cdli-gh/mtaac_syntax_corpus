@@ -1,0 +1,28 @@
+# train/P102347.atf
+						
+
+# tr.en: ox ewes nanny goats ugid offerings for kitchen th day from Abbasaga booked out month kisiki of Ninazu year Amar-Suen king Urbilum destroyed
+1	1(disz)	_	NN	2	nummod	
+2	gu4	ox	NN	0	root	
+3	2(disz)	_	,	22	nummod	
+4	u8	ewes	NNS	22	conj	
+5	3(disz)	_	,	22	nummod	
+6	ud5	nanny goats	NNS	22	conj	
+7	szu-gid2	ugid offerings	NNS	22	appos	
+8	e2-muhaldim-sze3	for kitchen	NN	7	nmod:for	
+9	u4	th day	NN	15	nmod:tmod	
+10	2(u)	_	,	15	nummod	
+11	7(disz)-kam	_	_	10	nummod	
+12	ki	from	IN	13	nmod:from	
+13	ab-ba-sa6-ga-ta	Abbasaga	NNP	15	nmod:from	
+14	ba-zi	booked out	VBD	13	acl	
+15	iti	month	NN	22	_	
+16	ki-siki-{d}nin-a-zu	kisiki Ninazu	NN	15	_	
+17	mu	year	NN	15	_	
+18	{d}amar-{d}suen	Amar-Suen	NNP	15	_	
+19	lugal-e	king	NN	18	appos	
+20	ur-bi2-lum{ki}	Urbilum	NN	21	nsubj	
+21	mu-hul	destroyed	VBD	18	acl:relcl	
+22	6(disz)	_	.	2	nummod
+	
+

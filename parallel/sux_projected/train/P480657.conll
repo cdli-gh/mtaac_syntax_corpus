@@ -1,0 +1,24 @@
+# train/P480657.atf
+						
+
+# tr.en: barig EA bitumen from Gududu under seal of Agu month First-fruits year house of Szara of Umma was erected Agu scribe son of Lugal-emae
+1	2(barig)	barig	NN	2	nummod	
+2	esir2	bitumen	NN	0	root	
+3	E2-A	EA	NN	2	compound	
+4	ki	from	IN	5	nmod:from	
+5	gu-du-du-ta	Gududu	NNP	2	nmod:from	
+6	kiszib3	under seal	NN	2	nmod:under	
+7	a-gu	Agu	NN	6	nmod:of	
+8	iti	month	NN	9	compound	
+9	nesag	First-fruits	NNS	2	_	
+10	mu	year	NN	9	_	
+11	e2	house	NN	14	nsubjpass	
+12	{d}szara2	Szara	NN	11	nmod:of	
+13	umma{ki}-ka	Umma	NNP	12	nmod:of	
+14	ba-du3	was erected	VBN	9	acl	
+15	a-gu	Agu	NNP	9	_	
+16	dub-sar	scribe	NN	15	appos	
+17	dumu	son	NN	15	appos	
+18	lugal-e2-mah-e	Lugal-emae	NN	17	nmod:of
+	
+

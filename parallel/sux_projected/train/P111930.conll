@@ -1,0 +1,25 @@
+# train/P111930.atf
+						
+
+# tr.en: Deficit gur barig ban dabin-flour royal flour bala of governor of Kazallu booked out from Lugal-ezem Ur-tur will be repaid year wall was erected
+1	la2-ia3	Deficit	NN	0	root	
+2	5(asz)	_	,	6	nummod	
+3	3(barig)	_	_	2	nummod	
+4	1(ban2)	barig ban	NN	5	nummod	
+5	dabin	dabin-flour	NN	6	_	
+6	gur	gur	NN	12	nsubj	
+7	lugal	royal	NN	6	conj	
+8	zi3	flour	NN	6	conj	
+9	bala	bala	NN	6	appos	
+10	ensi2	governor	NN	9	nmod:of	
+11	ka-zal-lu-ka	Kazallu	NNP	10	nmod:of	
+12	zi-ga	booked out	VBD	1	acl	
+13	ki	from	IN	14	nmod:from	
+14	lugal-ezem-ta	Lugal-ezem	NN	16	nmod:from	
+15	ur-tur	Ur-tur	NN	14	appos	
+16	su-su-dam	will be repaid	VBN	12	parataxis	
+17	mu	year	NN	12	parataxis	
+18	bad3	wall	NN	19	nsubjpass	
+19	ba-du3	was erected	VBN	17	acl
+	
+

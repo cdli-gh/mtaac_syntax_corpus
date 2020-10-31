@@ -1,0 +1,21 @@
+# test/P432167.atf
+						
+
+# tr.en: For Ninmu butcher of Ekur temple Szulgi the mighty man king of Ur and king of Sumer and Akkad her temple he built for her
+1	{d}nin-mu2	For Ninmu	NNP	0	root	
+2	gir2-la2	butcher	NN	15	root	
+3	e2-kur2-ra-ra	Ekur temple	NN	2	nmod:of	
+4	szul-gi	Szulgi	NN	3	appos	
+5	nita	the	DT	6	det	
+6	kal-ga	mighty man	NN	3	appos	
+7	lugal	king	NN	3	appos	
+8	uri5{ki}-ma	Ur	NN	7	nmod:of	
+9	lugal	king	NN	7	conj	
+10	ki-en-gi	Sumer	NNP	9	nmod:of	
+11	ki-uri-ke4	and and Akkad	CC	7	cc	
+12	e2-a-ni	her temple	NN	2	_	
+13	mu-na-du3	he built for her	VBD	12	acl:relcl	
+14	 	_	NN	0	root	
+15	 	_	NN	14	appos
+	
+

@@ -1,0 +1,17 @@
+# test/P290857.atf
+						
+
+# tr.en: Basket-of-tablets sealed documents of Szarayamu are here and from debts year Big-Stele was erected
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	kiszib3	sealed	VBN	3	amod	
+3	dab-ba	documents	NNS	5	nsubj	
+4	{d}szara2-a-mu	Szarayamu	NNP	3	nmod:of	
+5	i3-gal2	are here	RB	1	_	
+6	u3	and	CC	5	cc	
+7	...	_	,	8	dep	
+8	la2-ia3-ta	from debts	NNS	5	conj	
+9	mu	year	NN	8	appos	
+10	na-ru2-a-mah	Big-Stele	NNP	11	nsubjpass	
+11	ba-du3	was erected	VBN	1	acl
+	
+

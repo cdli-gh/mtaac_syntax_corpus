@@ -1,0 +1,39 @@
+# test/P392629.atf
+						
+
+# tr.en: The debit royal gur of barley remaining debit of account by Abani-sege to be repaid month Harvest year Amar-Suen is king The debit royal gur of barley remaining debit of account by Abani-sege to be repaid month Harvest year Amar-Suen is king Aba-isege son of
+1	la2-ia3	The debit	NN	0	root	
+2	5(asz)	_	,	4	nummod	
+3	sze	barley	NN	4	nmod:of	
+4	gur	gur	NN	1	_	
+5	lugal	royal	NN	4	compound	
+6	si-i3-tum	remaining debit	NN	4	appos	
+7	nig2-ka9-ak	account	NN	6	nmod:of	
+8	a-ba-ni-se3-ge-e	by Abani-sege	NN	4	nmod:by	
+9	su-su-dam	to be repaid	VBN	8	acl	
+10	iti	month	NN	11	compound	
+11	sze-sag11-ku5	Harvest	NNP	14	_	
+12	mu	year	NN	14	_	
+13	{d}amar-{d}suen	Amar-Suen is	NNP	14	nsubj	
+14	lugal	king	NN	1	_	
+15	la2-ia3	The debit	DT	18	det	
+16	5(asz)	_	,	17	nummod	
+17	sze	barley	NN	18	root	
+18	gur	gur	NN	1	_	
+19	lugal	royal	NN	18	compound	
+20	si-i3-tum	remaining debit	NN	17	appos	
+21	nig2-ka9-ak	account	NN	17	nmod:of	
+22	a-ba-i3-se3-ge-e	by Abani-sege	NN	17	nmod:by	
+23	su-su-dam	to be repaid	VBN	22	acl	
+24	iti	month	NN	17	_	
+25	sze-sag11-ku5	Harvest	NNP	17	_	
+26	mu	year	NN	17	_	
+27	{d}amar-{d}suen	Amar-Suen is	NNP	26	nsubj	
+28	lugal	_	.	26	_	
+29	a-ba-i3-se3-ge-e	Aba-isege	JJ	30	amod	
+30	dumu	son	NN	17	_	
+31	szi-x-...	of	IN	30	nmod:of	
+32	x	_	NN	0	root	
+33	tag-x	_	.	32	_
+	
+

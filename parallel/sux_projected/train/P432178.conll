@@ -1,0 +1,21 @@
+# train/P432178.atf
+						
+
+# tr.en: For Ninmar his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad her Munusgilsa temple of Girsu he built for her
+1	{d}nin-mar{ki}	For Ninmar	IN	0	root	
+2	nin-a-ni	his mistress	NN	1	_	
+3	{d}szul-gi	Szulgi	NN	2	appos	
+4	nita	the	DT	5	det	
+5	kal-ga	mighty man	NN	2	appos	
+6	lugal	king	NN	2	appos	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	king	NN	6	conj	
+9	ki-en-gi	Sumer	NNP	8	nmod:of	
+10	ki-uri-ke4	and and Akkad	CC	6	cc	
+11	e2	temple	NN	2	appos	
+12	munus	_	_	0	_	
+13	gil-sa	her Munusgilsa	PRP$	11	nmod:poss	
+14	gir2-su{ki}-ka-ni	of Girsu	NNP	11	nmod:of	
+15	mu-na-du3	he built for her	VBD	11	acl:relcl
+	
+

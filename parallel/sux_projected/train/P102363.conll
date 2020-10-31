@@ -1,0 +1,22 @@
+# train/P102363.atf
+						
+
+# tr.en: -ene from nubanda -Ikur received month Harvest th day passed year Great-throne of Enlil was fashioned
+1	...-e-ne	-ene	NN	0	root	
+2	ki	from	IN	6	nmod:from	
+3	nu-banda3{da}-ta	nubanda	NN	6	_	
+4	x-{d}iszkur-ke4	-Ikur	JJ	6	advmod	
+5	szu	_	:	1	_	
+6	ba-ti	received	VBN	1	acl	
+7	iti	month	NN	8	compound	
+8	sze-sag11-ku5	Harvest	NNP	12	nsubj	
+9	u4	_	''	8	_	
+10	1(u)	_	,	12	nummod	
+11	5(disz)	_	_	10	nummod	
+12	zal-la	passed	VBD	1	parataxis	
+13	mu	year	NN	12	nmod:tmod	
+14	gu-za-mah	Great-throne	NN	16	nsubjpass	
+15	{d}en-lil2-la2	Enlil	NNP	14	nmod:of	
+16	ba-dim2	was fashioned	VBN	12	ccomp
+	
+

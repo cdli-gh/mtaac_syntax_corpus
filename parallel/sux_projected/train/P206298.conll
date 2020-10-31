@@ -1,0 +1,88 @@
+# train/P206298.atf
+						
+
+# tr.en: iku surface orchard date palms UgIL orchardist ex-voto of Lu-Nanna son of Ur-ur the foreman Abba-gula iku surface irrigation-inlet-plot iku surface uncultivated land date palms date palms beaten down ARlam objects of pine trees AR objects of apple trees AR objects of pear trees AR objects of long junipers AR objects of long boxwood trees mulberry trees AR objects of long tamarisk Nimgir-KAgina orchard Amar-sunzida sar surface of date palms date palms Lu-girizal throne-bearer orchard Adiri E-hegal herdsman the foreman Enlila
+1	1(iku)	_	:	3	nummod	
+2	1/4(iku)	_	CD	7	nummod	
+3	GAN2	iku surface	NN	0	root	
+4	{gesz}kiri6	orchard	NN	3	_	
+5	2(gesz2)	_	:	3	nummod	
+6	2(u)	_	_	5	nummod	
+7	{gesz}geszimmar	date palms	NNS	3	_	
+8	ug3-IL2	UgIL	NNP	9	compound	
+9	nu-{gesz}kiri6	orchardist	NN	3	_	
+10	a-ru-a	ex-voto	NN	9	_	
+11	lu2-{d}nanna	Lu-Nanna	NNP	12	compound	
+12	dumu	son	NN	10	nmod:of	
+13	ur-ur	Ur-ur	NN	12	nmod:of	
+14	ugula	the foreman	DT	15	det	
+15	ab-ba-gu-la	Abba-gula	NN	3	_	
+16	2(iku)	_	:	3	nummod	
+17	1/2(iku)	_	CD	23	nummod	
+18	GAN2	iku	NN	15	_	
+19	ka-a-DU	surface irrigation-inlet-plot	NN	18	_	
+20	3(iku)	_	:	3	nummod	
+21	1/2(iku)	_	CD	27	nummod	
+22	GAN2	_	_	0	_	
+23	ki-gal2	iku surface uncultivated land	NN	3	_	
+24	3(gesz2)	iku surface uncultivated land	NN	23	nummod	
+25	5(u)	_	CD	29	nummod	
+26	3(disz)	_	_	25	nummod	
+27	{gesz}geszimmar	date palms	NNS	3	_	
+28	1(gesz2)	_	``	34	nummod	
+29	{gesz}geszimmar	date palms beaten	NNS	27	_	
+30	u2	_	NN	34	compound	
+31	du11-ga	down	RB	29	advmod	
+32	(gesz'u)	_	''	34	_	
+33	5(gesz2)	_	:	3	nummod	
+34	(u)	objects	NNS	3	_	
+35	3(disz)	_	''	3	nummod	
+36	<HAR>-lam	trees	NNS	34	nmod:of	
+37	{gesz}u3-suh5	pine	VBP	36	amod	
+38	7(gesz2)	_	:	3	nummod	
+39	1(u)	_	_	38	nummod	
+40	HAR	AR objects	_	0	_	
+41	{gesz}haszhur	apple trees	NNS	3	nmod:of	
+42	1(u)	_	:	44	nummod	
+43	2(disz)	_	''	42	nummod	
+44	HAR	AR objects	NNS	3	_	
+45	{gesz}pesz3	pear trees	NNS	44	nmod:of	
+46	($	_	:	44	_	
+47	blank	_	_	0	_	
+48	space	_	_	0	_	
+49	$)	_	_	0	_	
+50	HAR	AR objects	_	0	_	
+51	{gesz}sze-du10	junipers	NNS	44	nmod:of	
+52	gid2	long	JJ	51	amod	
+53	2(u)	_	:	44	nummod	
+54	la2	_	CD	59	nummod	
+55	2(disz)	_	_	54	nummod	
+56	{gesz}mes	AR objects boxwood trees	NNS	44	_	
+57	gid2	long	JJ	56	amod	
+58	7(disz)	_	:	44	nummod	
+59	{gesz}giparx(PAR4)	mulberry trees	NNS	44	_	
+60	1(u)	_	:	44	nummod	
+61	5(disz)	_	_	60	nummod	
+62	HAR	AR objects	NNS	44	_	
+63	{gesz}szinig	tamarisk	NN	62	nmod:of	
+64	gid2	long	JJ	63	amod	
+65	nimgir-inim-gi-na	Nimgir-KAgina	NNP	44	_	
+66	{gesz}kiri6	orchard	NN	67	compound	
+67	amar-sun2-zi-da	Amar-sunzida	NN	44	_	
+68	1(u)	_	:	44	nummod	
+69	sar	sar	NN	44	_	
+70	GAN2	surface	NN	69	_	
+71	{gesz}geszimmar	date palms	NNS	70	nmod:of	
+72	1(u)	_	:	44	nummod	
+73	6(disz)	_	_	72	nummod	
+74	{gesz}geszimmar	date palms	NNS	44	_	
+75	lu2-giri17-zal	Lu-girizal	JJ	44	_	
+76	gu-za-la2	throne-bearer	NN	75	appos	
+77	{gesz}kiri6	orchard	NN	78	compound	
+78	a-diri	Adiri E-hegal	NNP	44	_	
+79	e2-he2-gal2	_	,	78	_	
+80	unu3	_	NN	78	appos	
+81	ugula	the foreman	DT	82	det	
+82	{d}en-lil2-la2	Enlila	NN	44	_
+	
+

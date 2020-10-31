@@ -1,0 +1,62 @@
+# train/P464286.atf
+						
+
+# tr.en: sila beer sila bread shekels oil shekels potash fish bundle onions Sz-Adad sila beer sila bread shekels oil shekels potash fish bundle onions Ur-Nanna ban bread ban beer regular sila plant oil provisions for messengers via Ur-Nanna th day month First fruits year following Szarum was destroyed
+1	3(disz)	_	,	2	nummod	
+2	sila3	sila	NN	3	appos	
+3	kasz	beer	_	0	_	
+4	2(disz)	_	CD	9	nummod	
+5	sila3	sila	NN	2	compound	
+6	ninda	bread	NN	2	conj	
+7	2(disz)	_	,	2	nummod	
+8	gin2	shekels	NNS	9	compound	
+9	i3	oil	NN	2	conj	
+10	2(disz)	_	CD	14	nummod	
+11	gin2	shekels	NNS	12	nsubj	
+12	naga	potash	VBP	2	acl:relcl	
+13	1(disz)	_	,	14	nummod	
+14	ku6	fish	NN	2	appos	
+15	1(disz)	_	_	0	nummod	
+16	sa	bundle	NN	17	compound	
+17	szum2	onions	NNS	14	conj	
+18	szu-{d}iszkur	Sz-Adad	NNP	14	appos	
+19	3(disz)	_	,	21	nummod	
+20	sila3	sila	NN	21	compound	
+21	kasz	beer	NN	14	_	
+22	2(disz)	_	CD	27	nummod	
+23	sila3	sila	NN	24	compound	
+24	ninda	bread	NN	21	conj	
+25	2(disz)	_	,	21	nummod	
+26	gin2	shekels	NNS	27	compound	
+27	i3	oil	NN	21	conj	
+28	2(disz)	_	CD	32	nummod	
+29	gin2	shekels	NNS	30	nsubj	
+30	naga	potash	VBP	21	acl:relcl	
+31	1(disz)	_	,	21	nummod	
+32	ku6	fish	NN	21	conj	
+33	1(disz)	_	_	0	nummod	
+34	sa	bundle	NN	35	compound	
+35	szum2	onions	NNS	21	conj	
+36	ur-{d}nanna	Ur-Nanna	NNP	21	appos	
+37	5(ban2)	ban	NN	38	nummod	
+38	ninda	bread	NN	21	conj	
+39	3(ban2)	ban	NN	40	nummod	
+40	kasz	beer	NN	38	conj	
+41	du	regular	JJ	38	amod	
+42	1/2(disz)	_	,	38	nummod	
+43	sila3	sila	NN	44	compound	
+44	i3-gesz	plant oil	NN	38	appos	
+45	sza3-gal	for	IN	46	nmod:for	
+46	kas4-e-ne	provisions messengers	NNS	38	appos	
+47	giri3	via	IN	48	nmod:via	
+48	ur-{d}nanna	Ur-Nanna	NNP	38	nmod:via	
+49	u4	th day	NN	21	_	
+50	4(disz)-kam	_	:	2	nummod	
+51	iti	month	NN	52	compound	
+52	nesag	First fruits	NNS	2	_	
+53	mu	year	NN	52	_	
+54	<us2>-sa	following	VBG	53	acl	
+55	sza-asz-ru-um{ki}	_	``	52	_	
+56	ba-hul	was destroyed	VBN	52	acl
+	
+

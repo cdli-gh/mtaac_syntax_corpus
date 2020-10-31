@@ -1,0 +1,49 @@
+# train/P432282.atf
+						
+
+# tr.en: the mighty king king of Ur and king of four world quarters when land of Zabali and lands of Simaki he destroyed a big goat tribute of Anan which they had brought to him a representation of it he fashioned for her and for his life he dedicated it to her
+1	'.	the	DT	4	det	
+2	...	_	_	0	dep	
+3	'.	_	_	0	_	
+4	lugal	king	NN	43	root	
+5	kal-ga	mighty	JJ	4	amod	
+6	'.	_	_	0	_	
+7	lugal	king	NN	4	conj	
+8	uri5{ki}-ma	Ur	NN	7	nmod:of	
+9	'.	_	,	4	_	
+10	lugal	king	NN	4	conj	
+11	an	four	CD	4	nummod	
+12	ub-da	world	NN	4	compound	
+13	limmu2-ba-ke4	and quarters	CC	4	cc	
+14	'.	_	_	0	_	
+15	u4	_	_	0	_	
+16	ma-da	land	NN	17	_	
+17	za-ab-sza-li{ki}	when Zabali	WRB	4	_	
+18	'.	_	_	0	_	
+19	u3	and	CC	16	cc	
+20	ma-da	_	_	0	_	
+21	ma-da	lands	NNS	16	conj	
+22	'.	_	_	0	_	
+23	szimaszki{ki}-ka	of Simaki	NNP	21	nmod:of	
+24	'.	_	,	16	_	
+25	mu-hul-a	he destroyed	VBD	21	acl:relcl	
+26	'.	_	_	0	_	
+27	masz2	goat	NN	16	appos	
+28	gal	a big	DT	27	det	
+29	'.	_	_	0	_	
+30	gu2-un	tribute	NN	16	_	
+31	an-sza-an{ki}-na	Anan	NN	30	nmod:of	
+32	'.	_	_	0	_	
+33	mu-un-tum2-<ma>-na	which they had brought to him	VBN	30	acl:relcl	
+34	'.	_	_	0	_	
+35	dam-szi-lum-bi	a representation it	NN	16	_	
+36	'.	_	,	16	_	
+37	mu-na-an-dim2	he fashioned for her	VBD	35	acl:relcl	
+38	'.	and	CC	16	cc	
+39	nam-ti-la-ni-sze3	for his life	NN	16	conj	
+40	'.	_	.	4	_	
+41	a	he	PRP	42	nsubj	
+42	mu-na-ru	dedicated it to her	VBD	39	acl:relcl	
+43	 	_	NN	0	root
+	
+

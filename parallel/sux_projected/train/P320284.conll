@@ -1,0 +1,35 @@
+# train/P320284.atf
+						
+
+# tr.en: gur barig of barley royal Barley loan for plowmen of oxen overseer from warehouse of Ninhursag from Bazi instead of Manum under seal of Namani his brother household of Namani month Amar-ayasi year Kima was destroyed Namani scribe
+1	1(u)	_	.	4	nummod	
+2	3(asz)	_	_	1	nummod	
+3	4(barig)	barig	NN	5	nummod	
+4	sze	barley	NN	3	nmod:of	
+5	gur	gur	NN	0	root	
+6	lugal	royal	NN	4	conj	
+7	sze	_	_	0	_	
+8	ur5-ra	loan	NN	4	conj	
+9	engar	_	_	0	_	
+10	nu-banda3-	Barley for plowmen oxen overseer	NN	8	compound	
+11	i3-dub	from	IN	12	nmod:from	
+12	{d}nin-hur-sag-ta	warehouse Ninhursag	NN	8	nmod:from	
+13	ki	from	IN	14	nmod:from	
+14	ba-zi-ta	Bazi	NNP	4	nmod:from	
+15	mu	_	_	0	_	
+16	ma-an-szum2-	instead Manum	NNP	4	nmod:instead	
+17	kiszib3	under seal	NN	16	nmod:under	
+18	nam-ha-ni	Namani	NNP	17	nmod:of	
+19	szesz-a-na	his brother	NN	5	appos	
+20	e2	household	NN	5	_	
+21	nam-ha-ni	Namani	NNP	20	nmod:of	
+22	iti	month	NN	23	_	
+23	amar-a-a-si	Amar-ayasi	JJ	5	_	
+24	mu	year	NN	23	_	
+25	ki-masz{ki}	_	:	5	_	
+26	ba-hul	was destroyed	VBN	5	acl	
+27	nam-ha-ni	Namani	NNP	5	_	
+28	dub-sar	scribe	NN	27	appos	
+29	...	_	NN	0	root
+	
+

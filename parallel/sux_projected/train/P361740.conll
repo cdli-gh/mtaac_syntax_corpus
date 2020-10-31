@@ -1,0 +1,44 @@
+# train/P361740.atf
+						
+
+# tr.en: gur barig ban emmer royal gur barig ban wheat royal from Lu-igimae under seal of Ur-Lamma son Ur-Baba depot of field Aratia-Nin-dar-a month Festival of Szulgi year Simurum and Lullubum for th time were destroyed Ur-Lamma scribe son Ur-Baba
+1	5(asz)	_	,	4	nummod	
+2	3(barig)	_	CD	13	nummod	
+3	5(ban2)	barig ban	NN	4	nummod	
+4	ziz2	emmer	NN	5	_	
+5	gur	gur	NN	0	root	
+6	lugal	royal	NN	4	appos	
+7	3(u)	_	,	4	nummod	
+8	2(asz)	_	_	7	nummod	
+9	4(barig)	_	_	7	nummod	
+10	1(ban2)	_	_	7	nummod	
+11	...	barig ban	NN	12	dep	
+12	gig	wheat	NN	13	_	
+13	gur	gur	NN	4	appos	
+14	lugal	royal	NN	4	appos	
+15	ki	from	IN	16	nmod:from	
+16	lu2-{d}igi-ma-sze3-ta	Lu-igimae	NN	4	nmod:from	
+17	kiszib3	under seal	NN	4	nmod:under	
+18	ur-{d}lamma	Ur-Lamma	NNP	17	nmod:of	
+19	dumu	son	NN	20	compound	
+20	ur-{d}ba-ba6	Ur-Baba	NNP	4	appos	
+21	i3-dub	depot	NN	4	appos	
+22	a-sza3	field	NN	23	compound	
+23	ar-sza-ti-a-{d}nin-dar-a-ta	Aratia-Nin-dar-a	NN	21	nmod:of	
+24	iti	month	NN	25	compound	
+25	ezem-{d}szul-gi	Festival Szulgi	NNP	34	_	
+26	mu	year	NN	27	compound	
+27	si-mu-ur4-um{ki}	Simurum	NNP	34	nsubjpass	
+28	u3	and	CC	27	cc	
+29	lu-lu-bu-um{ki}	Lullubum th	NNP	27	conj	
+30	a-ra2	for	IN	27	nmod:for	
+31	1(u)	_	.	5	nummod	
+32	la2	_	''	31	_	
+33	1(disz@t)-kam-asz	_	_	32	nummod	
+34	ba-hul-a	time were destroyed	VBN	5	parataxis	
+35	ur-{d}lamma	Ur-Lamma	NNP	5	_	
+36	dub-sar	scribe	NN	35	conj	
+37	dumu	son	NN	38	compound	
+38	ur-{d}ba-ba6	Ur-Baba	NNP	35	appos
+	
+

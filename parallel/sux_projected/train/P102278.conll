@@ -1,0 +1,39 @@
+# train/P102278.atf
+						
+
+# tr.en: gur barig barley royal from depot of Tulta gur barig ban from depot of Ur-nigar loan barley of worktrooper ploughmen ox-drivers and oxen managers did Ur-Mama recieve Inanna from depot of Urub year throne of Enlil was fashioned
+1	1(u)	_	,	4	nummod	
+2	2(asz)	_	_	1	nummod	
+3	2(barig)	barig	NN	4	nummod	
+4	sze	barley	NN	0	root	
+5	gur	gur	NN	4	compound	
+6	lugal	royal	NN	4	appos	
+7	i3-dub	from depot	NN	4	nmod:from	
+8	tul2-ta-ta	Tulta	NN	7	nmod:of	
+9	1(asz)	_	,	12	nummod	
+10	4(barig)	_	_	9	nummod	
+11	5(ban2)	barig ban	NN	12	nummod	
+12	gur	gur	NN	4	conj	
+13	i3-dub	from depot	NN	12	nmod:from	
+14	ur-nigar{gar}-ta	Ur-nigar	NN	13	nmod:of	
+15	sze	barley	NN	24	_	
+16	ur5-ra	loan worktrooper	NN	15	compound	
+17	erin2	_	_	0	_	
+18	engar	ploughmen	NN	15	conj	
+19	sza3-gu4	ox-drivers	NNS	15	conj	
+20	u3	and	CC	15	cc	
+21	nu-banda3-gu4	oxen managers	NNS	15	conj	
+22	ur-ma-ma-ke4	did Ur-Mama	VBD	24	aux	
+23	szu	_	NN	27	compound	
+24	ba-ti	recieve	VB	4	conj	
+25	mu	_	_	0	_	
+26	sanga	_	_	0	_	
+27	{d}inanna	Inanna	NNP	24	_	
+28	i3-dub	from depot	NN	27	nmod:from	
+29	uru11{ki}-ta	Urub	NNP	28	nmod:of	
+30	mu	year	NN	4	_	
+31	gu-za	throne	NN	33	nsubjpass	
+32	{d}en-lil2-la2	Enlil	NNP	31	nmod:of	
+33	ba-dim2	was fashioned	VBN	30	acl
+	
+

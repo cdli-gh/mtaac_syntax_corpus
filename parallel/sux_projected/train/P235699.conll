@@ -1,0 +1,66 @@
+# train/P235699.atf
+						
+
+# tr.en: talent-pounds of wool geese dates sila of lard sila shekels of -oil ban ban from Ur-kuga did Ur-ubur receive Therefrom gur barley remaining account deficit Before Zuzu foreman of Tabbani Ur-Szumah -zu -la Month Set for bricks Year en of Inanna was chosen by means of omens
+1	1(gesz2)	_	,	5	nummod	
+2	5(u)	_	CD	8	nummod	
+3	3(asz)	_	_	2	nummod	
+4	gu2	_	_	0	_	
+5	ma-na	talent-pounds	NNS	0	root	
+6	siki	wool	NN	5	nmod:of	
+7	4(disz)	_	,	5	nummod	
+8	ku-gi4{muszen}	geese	NNS	5	conj	
+9	2(barig)	_	,	5	nummod	
+10	zu2-lum	dates	NNS	5	conj	
+11	2(disz)	_	,	5	nummod	
+12	sila3	sila	NN	5	conj	
+13	i3-szah2	lard	NN	12	nmod:of	
+14	2(disz)	_	,	5	nummod	
+15	sila3	sila	NN	5	conj	
+16	1(u)	_	CD	22	nummod	
+17	5(disz)	_	_	16	nummod	
+18	gin2	shekels	NNS	15	_	
+19	i3	-oil	NN	18	nmod:of	
+20	...	_	NN	31	nsubj	
+21	1(ban2)	_	_	0	nummod	
+22	lu2-hu-a	ban	NN	5	appos	
+23	4(ban2)	ban	NN	20	nummod	
+24	gesz	_	NN	23	_	
+25	x	_	_	0	dep	
+26	x	_	_	0	dep	
+27	ki	from	IN	28	nmod:from	
+28	ur-ku3-ga-ta	Ur-kuga	NN	24	nmod:from	
+29	ur-szubur	did Ur-ubur	VBD	31	aux	
+30	szu	_	.	31	_	
+31	ba-ti	receive	VBP	22	root	
+32	sza3-bi-ta	Therefrom	NNP	31	_	
+33	1(asz)	_	,	38	nummod	
+34	2(barig)	_	_	33	nummod	
+35	sze	barley	NN	36	_	
+36	gur	gur	NN	32	_	
+37	si-i3-tum	remaining	VBG	38	amod	
+38	nig2-ka9-ak	account	NN	36	appos	
+39	la2-ia3	deficit	NN	38	appos	
+40	igi	_	DT	43	det	
+41	zu-zu	Before Zuzu	IN	38	_	
+42	ugula	foreman	NN	41	root	
+43	x	_	NN	42	nmod:of	
+44	x	_	,	42	dep	
+45	1(disz)	_	,	46	nummod	
+46	tab-ba-a-ni	Tabbani	NNP	42	appos	
+47	1(disz)	_	CD	51	nummod	
+48	ur-{d}szu-mah	Ur-Szumah	NNP	46	appos	
+49	1(disz)	_	,	46	nummod	
+50	x	_	NN	46	appos	
+51	x-zu	-zu	NN	46	appos	
+52	1(disz)	_	,	46	nummod	
+53	x-la	-la	_	0	_	
+54	iti	Month	NNP	46	appos	
+55	sig4-sze3-ba-gar	Set for bricks	VB	42	acl	
+56	mu	Year	NN	55	amod	
+57	en	en	IN	60	nsubjpass	
+58	{d}inanna	Inanna	NNP	57	nmod:of	
+59	masz2-e	was by	VBD	60	auxpass	
+60	i3-pa3	omens chosen means	VBN	56	acl
+	
+

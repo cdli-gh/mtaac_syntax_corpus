@@ -1,0 +1,69 @@
+# test/P102297.atf
+						
+
+# tr.en: male laborers for day carried n male laborers bread carried n male laborers -straw carried n male laborers condiments carried n male laborers in a barge reeds erected male laborers barge with flour oil fish from the mouth of canal punted and barge transfered over out of Umma load to delivery of transfer carried under seal of Lukalla year Szu-Suen king Lu-kalla scribe son of Ur-nigar cattle manager
+1	4(u)	_	NN	3	nummod	
+2	5(disz)	_	_	1	nummod	
+3	gurusz	male laborers	NNS	7	nsubj	
+4	u4	for day	IN	1	nmod:for	
+5	1(disz)-sze3	_	_	0	nummod	
+6	x	_	_	0	dep	
+7	ga6-ga2	carried	VBD	0	root	
+8	n	_	,	7	_	
+9	1(u)	_	_	0	nummod	
+10	5(disz)	_	_	9	nummod	
+11	gurusz	male laborers	JJ	12	amod	
+12	ninda	bread	NN	13	nsubj	
+13	ga6-ga2	carried	VBD	7	ccomp	
+14	n	_	,	7	_	
+15	7(disz)	_	_	0	nummod	
+16	gurusz	male laborers	NNS	18	nsubj	
+17	in-bul5-bul5	-straw	JJ	18	amod	
+18	ga6-ga2	carried	VBD	7	parataxis	
+19	n	_	,	18	_	
+20	1(disz)	_	_	0	nummod	
+21	gurusz	male laborers	NNS	18	dobj	
+22	mun-gazi	condiments	NNS	23	nsubj	
+23	ga6-ga2	carried	VBD	21	acl:relcl	
+24	n	_	,	23	_	
+25	2(u)	_	,	30	nummod	
+26	1(disz)	_	CD	33	nummod	
+27	gurusz	male laborers	NNS	23	dobj	
+28	ma2-a	in a barge	IN	29	nmod:in	
+29	gi	reeds	NNS	23	nmod:in	
+30	du3-a	erected	VBD	29	acl	
+31	1(u)	_	_	0	nummod	
+32	1(disz)	_	_	31	nummod	
+33	gurusz	male laborers	NNS	30	dobj	
+34	ma2	barge	NN	42	nsubj	
+35	zi3-da	with flour	NN	34	nmod:with	
+36	an-na	_	_	0	_	
+37	i3	oil	NN	35	conj	
+38	ku6-ta	fish from	NN	35	appos	
+39	ka	the mouth	NN	38	nmod:from	
+40	i7-da	canal	NN	39	compound	
+41	gurusz-gin7-du-sze3	punted	VBN	39	acl	
+42	<gid2-da>	transfered over	VBD	33	acl:relcl	
+43	u3	and	CC	41	cc	
+44	ma2	barge	NN	41	conj	
+45	bala	_	_	0	_	
+46	ak	_	_	0	_	
+47	umma{ki}-ta	out Umma	IN	50	nmod:out	
+48	gu2	_	_	0	_	
+49	x-sze3	to delivery	TO	42	nmod:to	
+50	nig2-gu2-na	load	NN	42	nmod:out.of	
+51	bala	transfer	NN	52	nmod:of	
+52	ga6-ga2	carried	VBD	42	acl:relcl	
+53	x-x-la	_	IN	50	nmod:of	
+54	kiszib3	under seal	NN	48	nmod:under	
+55	lu2-kal-la	Lukalla	NNP	54	nmod:of	
+56	mu	year	NN	52	_	
+57	{d}szu-{d}suen	Szu-Suen	JJ	58	amod	
+58	lugal	king	NN	56	_	
+59	lu2-kal-la	Lu-kalla	NN	7	dobj	
+60	dub-sar	scribe	NN	59	conj	
+61	dumu	son	NN	59	appos	
+62	ur-nigar{gar}	Ur-nigar	JJ	63	amod	
+63	szusz3	cattle manager	NN	61	nmod:of
+	
+

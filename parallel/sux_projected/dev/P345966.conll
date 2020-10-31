@@ -1,0 +1,37 @@
+# dev/P345966.atf
+						
+
+# tr.en: millstone of high-quality black basalt Lugal-itida millstone of black basalt Akalla leatherworker millstone Umu millstone Akadani millstone Szara-zame from Adu the sealed tablet of Ur-Numushda Year after king Szu-Suen erected Amorite wall
+1	1(disz)	_	_	0	nummod	
+2	kikken	millstone	NN	0	root	
+3	a2-da-bar	high-quality black basalt	JJ	5	amod	
+4	saga	_	_	0	_	
+5	lugal-iti-da	Lugal-itida	NN	2	nmod:of	
+6	1(disz)	_	_	0	nummod	
+7	kikken	millstone	NN	5	_	
+8	a2-da-bar	black basalt	JJ	9	amod	
+9	a-kal-la	Akalla	NNP	5	nmod:of	
+10	aszgab	leatherworker	NN	2	appos	
+11	1(disz)	_	,	13	nummod	
+12	kikken	millstone	NN	13	compound	
+13	usz-mu	Umu	NNP	31	nsubj	
+14	x	_	CD	17	dep	
+15	1(disz)	_	,	13	nummod	
+16	kikken	millstone	NN	17	compound	
+17	a-ka3-da-ni	Akadani	NNP	13	appos	
+18	1(disz)	_	,	13	nummod	
+19	kikken	millstone	NN	20	compound	
+20	{d}szara2-za-me	Szara-zame	NN	13	appos	
+21	ki	from	IN	22	nmod:from	
+22	a-du-ta	Adu	NNP	13	nmod:from	
+23	kiszib3	_	.	13	_	
+24	ur-{d}nu-musz-da	the sealed tablet Ur-Numushda	NN	13	appos	
+25	mu	Year	NN	31	_	
+26	us2-sa	after	IN	31	advmod	
+27	{d}szu-{d}suen	Szu-Suen	NN	31	nsubj	
+28	lugal-e	king	NN	27	compound	
+29	bad3	_	.	2	_	
+30	mar-tu	Amorite wall	NN	31	dobj	
+31	mu-du3	erected	VBD	2	parataxis
+	
+

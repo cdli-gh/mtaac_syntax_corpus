@@ -1,0 +1,40 @@
+# dev/P465776.atf
+						
+
+# tr.en: n gur n sila shekels barley wages of hirelings of field n gur barig wages of hirelings deficit of account of ARAD-dingira Atu son of Lugal-saga must replace it year Atu scribe son of Lugal-saga
+1	n	n	CD	6	nummod	
+2	n	n	CD	6	nummod	
+3	sila3	sila	NN	6	compound	
+4	3(disz)	_	NN	6	nummod	
+5	1/3(disz)	_	,	4	nummod	
+6	gin2	shekels	NNS	0	root	
+7	sze	barley	NN	4	compound	
+8	gur	gur	NN	6	compound	
+9	x	_	_	0	dep	
+10	a2	_	NN	12	_	
+11	lu2	_	_	0	_	
+12	hun-ga2	wages hirelings	NNS	4	appos	
+13	a-sza3-ga	of field	NN	12	nmod:of	
+14	n	_	:	10	_	
+15	6(asz)	_	NN	20	nummod	
+16	4(barig)	barig	NN	15	nummod	
+17	gur	gur	NN	10	_	
+18	a2	_	,	15	_	
+19	lu2	_	_	0	_	
+20	hun-ga2	wages hirelings	NNS	17	_	
+21	x	_	_	0	dep	
+22	la2-ia3	deficit	NN	15	appos	
+23	nig2-ka9-ak	account	NN	22	nmod:of	
+24	ARAD2-dingir-ra	of ARAD-dingira	NN	23	nmod:of	
+25	a-tu	Atu	NNP	28	nsubj	
+26	dumu	son	NN	25	appos	
+27	lugal-saga-ke4	Lugal-saga	NN	26	nmod:of	
+28	su-su-dam	must replace it	VB	10	acl	
+29	mu	year	NN	28	_	
+30	x-...	_	:	29	dep	
+31	a-tu	Atu	NNP	6	_	
+32	dub-sar	scribe	NN	31	appos	
+33	dumu	son	NN	31	appos	
+34	lugal-sa6-ga	Lugal-saga	NN	33	nmod:of
+	
+

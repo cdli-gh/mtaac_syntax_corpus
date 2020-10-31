@@ -1,0 +1,21 @@
+# train/P102332.atf
+						
+
+# tr.en: ox grain-feden th day from Abbasaga Au-wer accepted month Szu-ea year unuri was destroyed
+1	4(disz)	_	,	2	nummod	
+2	gu4	ox	NN	0	root	
+3	niga	grain-feden	NN	2	appos	
+4	u4	th day	NN	2	appos	
+5	8(disz)-kam	_	,	2	nummod	
+6	ki	from	IN	8	nmod:from	
+7	ab-ba-sa6-ga-ta	Abbasaga	NNP	8	compound	
+8	a-hu-we-er	Au-wer	NN	2	nmod:from	
+9	i3-dab5	accepted	VBD	8	acl	
+10	iti	month	NN	11	compound	
+11	szu-esz5-sza	Szu-ea	NN	2	_	
+12	mu	year	NN	15	_	
+13	hu-uh2-nu-ri{ki}	unuri	NNP	15	nsubjpass	
+14	ba-hul	was destroyed	VBD	15	auxpass	
+15	4(disz)	was destroyed	VBN	11	nummod
+	
+

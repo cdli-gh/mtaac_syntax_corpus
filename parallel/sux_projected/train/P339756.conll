@@ -1,0 +1,23 @@
+# train/P339756.atf
+						
+
+# tr.en: Basket-of-tablets sealed documents of dab Naua year months are here from year Enmagalana to year Enunugal of Inanna was hired months
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	kiszib3	sealed documents	NNS	9	nsubj	
+3	dab-ba	dab	NN	2	nmod:of	
+4	na-u2-a	Naua	NN	2	appos	
+5	mu	year	NN	4	_	
+6	1(disz)	_	,	2	nummod	
+7	iti	months	NNS	5	nmod:npmod	
+8	5(disz)-kam	_	_	0	nummod	
+9	i3-gal2	are here	RB	1	_	
+10	mu	year	NN	9	nmod:from	
+11	en-mah-gal-an-na-ta	from Enmagalana	IN	10	nmod:from	
+12	mu	year	NN	10	nmod:to	
+13	en-unu6-gal	to Enunugal	TO	12	nmod:to	
+14	{d}inanna	Inanna	NNP	15	nmod:of	
+15	ba-hun	was hired	VBN	10	acl	
+16	iti	months	NNS	15	nmod:tmod	
+17	5(disz)-sze3	_	.	1	nummod
+	
+

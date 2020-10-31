@@ -1,0 +1,31 @@
+# test/P235700.atf
+						
+
+# tr.en: sheep of u-gid sheep adult billygoats slaughtered for kitchen th day out of Intaea booked Month Festival of An Year Huhnuri was destroyed sheep
+1	1(u)	_	_	0	nummod	
+2	5(disz)	_	_	1	nummod	
+3	udu	sheep	NN	0	root	
+4	szu-gid2	u-gid	NN	3	nmod:of	
+5	2(u)	_	,	7	nummod	
+6	6(disz)	_	CD	9	nummod	
+7	udu	sheep	NN	17	_	
+8	3(disz)	_	,	7	nummod	
+9	masz2-gal	adult billygoats	NNS	7	appos	
+10	ba-usz2	slaughtered	VBN	7	acl	
+11	e2-muhaldim-sze3	for kitchen	NN	7	nmod:for	
+12	u4	th day	NN	7	_	
+13	1(u)	_	.	7	nummod	
+14	3(disz)-kam	_	_	13	nummod	
+15	ki	_	_	0	_	
+16	in-ta-e3-a-ta	out Intaea	NNP	7	nmod:out.of	
+17	ba-zi	booked	VBD	3	acl	
+18	iti	Month	NNP	17	nmod:tmod	
+19	ezem-an-na	Festival An	NNP	17	_	
+20	mu	Year	NN	19	nmod:of	
+21	hu-uh2-nu-ri{ki}	Huhnuri	NNP	22	nsubjpass	
+22	ba-hul	was destroyed	VBN	19	acl	
+23	4(u)	_	``	24	nummod	
+24	4(disz)	_	NN	22	nummod	
+25	udu	sheep	CD	24	nummod
+	
+

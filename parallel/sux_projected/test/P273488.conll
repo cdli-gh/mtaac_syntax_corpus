@@ -1,0 +1,28 @@
+# test/P273488.atf
+						
+
+# tr.en: sheep ewes nanny goats kitchen on th day Booked out from Ur-kununa Month Akitu Year after Kima was destroyed
+1	6(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	4(disz)	_	,	2	nummod	
+4	u8	ewes	NNS	2	conj	
+5	5(disz)	_	,	2	nummod	
+6	ud5	nanny goats	NNS	2	conj	
+7	e2-muhaldim	kitchen	NN	2	appos	
+8	u4	on th day	NN	2	nmod:on	
+9	2(u)	_	.	2	nummod	
+10	5(disz)-kam	_	_	9	nummod	
+11	zi-ga	Booked out	VBN	2	acl	
+12	ki	from	IN	13	nmod:from	
+13	ur-ku3-nun-na	Ur-kununa	NN	11	nmod:from	
+14	iti	Month	NNP	22	compound	
+15	a2-ki-ti	_	``	22	_	
+16	mu	Year	NN	19	_	
+17	us2-sa	after	IN	19	_	
+18	ki-masz{ki}	_	:	19	_	
+19	ba-hul	was destroyed	VBN	22	acl	
+20	 	_	NN	0	root	
+21	 	_	.	20	_	
+22	 	_	NNP	21	_
+	
+

@@ -1,0 +1,22 @@
+# train/P432194.atf
+						
+
+# tr.en: For Ninhursag of Susa his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad her temple he built for her
+1	{d}nin-hur-sag	For Ninhursag	NN	0	root	
+2	szuszin{ki}-na	of Susa	NNP	1	nmod:of	
+3	nin-a-ni	his mistress	NN	16	root	
+4	{d}szul-gi	Szulgi	NN	3	appos	
+5	nita	the	DT	6	det	
+6	kal-ga	mighty man	NN	3	appos	
+7	lugal	king	NN	3	appos	
+8	uri5{ki}-ma	Ur	NN	7	nmod:of	
+9	lugal	king	NN	7	conj	
+10	ki-en-gi	Sumer	NNP	9	nmod:of	
+11	ki-uri-ke4	and and Akkad	CC	7	cc	
+12	e2-a-ni	her temple	NN	3	appos	
+13	mu-na-du3	he built for her	VBD	12	acl:relcl	
+14	 	_	NN	0	root	
+15	 	_	.	14	_	
+16	 	_	,	15	_
+	
+

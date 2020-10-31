@@ -1,0 +1,20 @@
+# train/P432355.atf
+						
+
+# tr.en: For the strong king of Ur x-agazi
+1	'.	_	NN	0	root	
+2	...	For	IN	1	dep	
+3	'.	_	NN	14	root	
+4	x	_	,	3	dep	
+5	kal-ga	the strong	DT	3	det	
+6	'.	_	,	8	_	
+7	lugal	king	NN	3	appos	
+8	uri5{ki}-ma-ka-sze3	Ur	NN	7	nmod:of	
+9	'.	_	,	8	_	
+10	x	_	NN	8	dep	
+11	aga3-zi	x-agazi	NN	8	conj	
+12	'.	_	NN	0	root	
+13	...	_	.	12	dep	
+14	sar	_	NN	12	appos
+	
+

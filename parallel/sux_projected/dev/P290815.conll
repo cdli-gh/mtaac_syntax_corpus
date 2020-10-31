@@ -1,0 +1,26 @@
+# dev/P290815.atf
+						
+
+# tr.en: bundles of good reed in bales of bundles each from Lugalmu-manag sealed tablet of Alulu Month barley brought to docks year priest of Eridu is installed Alulu son of Inim-Szara fattener of Szara
+1	5(u)	_	_	0	nummod	
+2	sa	bundles	NNS	0	root	
+3	gi-zi	good reed	NN	2	nmod:of	
+4	gu-nigin2-ba	in bales bundles each	NNS	2	nmod:in	
+5	5(disz)-ta	_	,	4	nummod	
+6	ki	from	IN	7	nmod:from	
+7	lugal-mu-ma-an-ag2-ta	Lugalmu-manag	NN	4	nmod:from	
+8	kiszib3	sealed tablet	NN	4	conj	
+9	a-lu5-lu5	Alulu	NNP	8	nmod:of	
+10	iti	Month	NNP	16	compound	
+11	sze-kar-ra-gal2-la	barley brought to docks	NN	10	_	
+12	mu	year	NN	10	_	
+13	en	priest	NN	15	nsubjpass	
+14	eridu{ki}	Eridu	NNP	13	nmod:of	
+15	ba-hun	is installed	VBN	10	acl	
+16	a-lu5-lu5	Alulu	NNP	2	_	
+17	dumu	son	NN	16	appos	
+18	inim-{d}szara2	Inim-Szara	NNP	17	nmod:of	
+19	kuruszda	fattener	NN	16	appos	
+20	{d}szara2-ka	Szara	NN	19	nmod:of
+	
+

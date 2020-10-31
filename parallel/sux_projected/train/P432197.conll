@@ -1,0 +1,26 @@
+# train/P432197.atf
+						
+
+# tr.en: Szulgi the god of his country the mighty king of Ur and king of world quarters the four when the countries of Kima and Hurtim he obliterated a ditch he created and an embankment he built
+1	{d}szul-gi	Szulgi	NNP	0	root	
+2	_dingir_	the god	NN	1	appos	
+3	ma-ti-szu	his country	NN	2	nmod:of	
+4	da-num2	the mighty	DT	1	_	
+5	_lugal_	king	NN	4	root	
+6	uri5{ki}	Ur	NN	5	nmod:of	
+7	_lugal_	and king	CC	6	cc	
+8	ki-ib-ra-tim	world quarters	NNS	6	nmod:of	
+9	ar-ba-im	the four	CD	5	nmod:tmod	
+10	i3-nu	when	WRB	9	acl	
+11	ma-at	the countries	NNS	10	root	
+12	ki-masz{ki}	Kima	NNP	11	nmod:of	
+13	u3	and	CC	12	cc	
+14	hu-ur-tim{ki}	Hurtim	NNP	12	conj	
+15	u3-ha-li-qu2-na	he obliterated	VBD	11	acl:relcl	
+16	hi-ri-tam2	a ditch	NN	11	appos	
+17	isz-ku-un	he created	VBD	16	acl:relcl	
+18	u3	and	CC	16	cc	
+19	bi2-ru-tam2	an embankment	NN	16	conj	
+20	ib-ni	he built	VBD	19	acl:relcl
+	
+

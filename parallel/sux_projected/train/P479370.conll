@@ -1,0 +1,29 @@
+# train/P479370.atf
+						
+
+# tr.en: cadaver ram grain-fed from Baaga fattener did Adda-rabi agrig receive month Festival of Lisi day elapsed year priest of Inanna of Uruk by goat was chosen
+1	1(disz)	_	,	2	nummod	
+2	ad3	cadaver	NN	11	nsubj	
+3	udu	ram	NN	2	appos	
+4	niga	grain-fed	JJ	2	appos	
+5	ki	from	IN	6	nmod:from	
+6	ba-a-ga	Baaga	NNP	2	nmod:from	
+7	kuruszda-ta	fattener	NN	6	appos	
+8	{d}iszkur-ra-bi2	did Adda-rabi	VBD	11	aux	
+9	agrig	agrig	NN	11	appos	
+10	szu	_	:	11	_	
+11	ba-ti	receive	VBP	0	root	
+12	iti	month	NN	13	compound	
+13	ezem-{d}li9-si4	Festival Lisi	NNP	11	parataxis	
+14	u4	day	NN	17	nmod:tmod	
+15	2(u)	_	,	17	nummod	
+16	5(disz)	_	_	15	nummod	
+17	ba-zal	elapsed	VBN	13	acl:relcl	
+18	mu	year	NN	17	_	
+19	en	priest	NN	23	nsubjpass	
+20	{d}inanna	Inanna	NNP	19	nmod:of	
+21	unu{ki}	Uruk	NNP	20	nmod:of	
+22	masz2-e	by goat	NN	19	nmod:by	
+23	i3-pa3	chosen was	VBN	13	acl
+	
+

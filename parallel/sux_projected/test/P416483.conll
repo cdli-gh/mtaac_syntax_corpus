@@ -1,0 +1,23 @@
+# test/P416483.atf
+						
+
+# tr.en: lamb th day from Abba-saga Nalu accepted month Gazelle feast year Szaru was destroyed
+1	1(disz)	_	,	2	nummod	
+2	sila4	lamb	NN	17	_	
+3	u4	th day	NN	2	appos	
+4	3(u)	_	,	2	nummod	
+5	la2	_	_	4	_	
+6	1(disz@t)-kam	_	_	5	nummod	
+7	ki	from	IN	8	nmod:from	
+8	ab-ba-sa6-ga-ta	Abba-saga	NN	2	nmod:from	
+9	na-lu5	Nalu	NNP	10	nsubj	
+10	i3-dab5	accepted	VBD	2	acl:relcl	
+11	iti	month	NN	10	nmod:tmod	
+12	masz-da3-gu7	Gazelle feast	NN	2	_	
+13	mu	year	NN	12	_	
+14	sza-asz-ru{ki}	_	``	12	_	
+15	ba-hul	was destroyed	VBD	16	auxpass	
+16	1(disz)	was destroyed	VBN	12	nummod	
+17	 	_	LS	0	root
+	
+

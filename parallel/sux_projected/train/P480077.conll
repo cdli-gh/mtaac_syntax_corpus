@@ -1,0 +1,36 @@
+# train/P480077.atf
+						
+
+# tr.en: bur harrowed time iku each the labor of its team days field of Nin-ura foreman Ur-ama under seal of Szeani year Sz-Suen king erected Big Stele for Enlil and Ninlil Szeani scribe son of Dada
+1	5(bur3)	_	CD	4	nummod	
+2	GAN2	bur	NN	0	root	
+3	gesz-ur3-ra	harrowed	VBN	4	amod	
+4	a-ra2	time	NN	2	appos	
+5	1(disz)	_	,	2	nummod	
+6	4(iku)	_	_	5	nummod	
+7	1/2(iku)	each	DT	8	nummod	
+8	GAN2-ta	iku	NN	2	appos	
+9	a2	the	DT	10	det	
+10	erin2-na-bi	labor its team	NN	2	appos	
+11	u4	days	NNS	2	_	
+12	1(gesz2)	_	:	11	nummod	
+13	a-sza3	field	NN	11	conj	
+14	{d}nin-ur4-ra	Nin-ura	NN	13	nmod:of	
+15	ugula	foreman	NN	16	compound	
+16	ur-am3-ma	Ur-ama	NN	13	appos	
+17	kiszib3	under seal	NN	11	conj	
+18	szesz-a-ni	Szeani	NNP	17	nmod:of	
+19	mu	year	NN	21	compound	
+20	{d}szu-{d}suen	Sz-Suen	NNP	21	compound	
+21	lugal-e	king	NN	11	_	
+22	na-ru2-a	erected Big Stele	VBD	21	acl	
+23	mah	_	.	2	_	
+24	{d}en-lil2	for Enlil	NNP	22	nmod:for	
+25	{d}nin-lil2-ra	and	CC	24	cc	
+26	mu-ne-du3	Ninlil	NNP	24	conj	
+27	szesz-a-ni	Szeani	NNP	2	_	
+28	dub-sar	scribe	NN	27	appos	
+29	dumu	son	NN	27	appos	
+30	da-da	Dada	NN	29	nmod:of
+	
+

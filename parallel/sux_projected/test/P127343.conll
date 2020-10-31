@@ -1,0 +1,29 @@
+# test/P127343.atf
+						
+
+# tr.en: grain-fed top ox oxen grain-fed oxen e-e-festival House-th-day of month days elapsed from Auni Nasa received month Piglet-feast year after Urbilum was destroyed
+1	2(disz)	_	NN	6	nummod	
+2	gu4	oxen	_	0	_	
+3	niga	grain-fed	JJ	0	root	
+4	sag-gu4	top ox	JJ	6	amod	
+5	4(disz)	_	,	6	nummod	
+6	gu4	oxen	NN	3	appos	
+7	niga	_	''	6	_	
+8	esz3-esz3	e-e-festival	JJ	9	amod	
+9	e2-u4-7(disz)	House-th-day	JJ	6	appos	
+10	iti	month	NN	6	nmod:of	
+11	u4	days	NNS	13	nmod:npmod	
+12	5(disz)	_	:	3	nummod	
+13	ba-zal	elapsed	VBN	10	acl	
+14	ki	from	IN	16	nmod:from	
+15	a-hu-ni-ta	Auni	NNP	16	compound	
+16	na-sa6	Nasa	NNP	3	nmod:from	
+17	i3-dab5	received	VBD	16	acl	
+18	iti	month	NN	19	compound	
+19	ses-da-gu7	Piglet-feast	NN	3	_	
+20	mu	year	NN	19	advmod	
+21	us2-sa	after	IN	20	nmod:after	
+22	ur-bi2-lum{ki}	Urbilum	NN	23	nsubjpass	
+23	ba-hul	was destroyed	VBN	19	parataxis
+	
+

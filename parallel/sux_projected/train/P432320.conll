@@ -1,0 +1,28 @@
+# train/P432320.atf
+						
+
+# tr.en: the strong man king of Sumer and Akkad and king of four world quarters the storehouse hisher house of flour he built for himher
+1	'.	_	,	3	_	
+2	nita	the	DT	3	det	
+3	kal-ga	strong man	NN	0	root	
+4	'.	_	_	0	_	
+5	lugal	king	NN	3	appos	
+6	ki-en-gi	Sumer	NNP	5	nmod:of	
+7	ki-uri	and Akkad	CC	6	cc	
+8	'.	and	CC	5	cc	
+9	lugal	king	NN	5	conj	
+10	an	four	CD	12	nummod	
+11	ub-da	world	NN	12	compound	
+12	limmu2-ba	quarters	NNS	9	nmod:of	
+13	'.	the	DT	14	det	
+14	ga2-nun	storehouse	NN	3	appos	
+15	...	_	,	14	dep	
+16	'.	_	_	0	_	
+17	e2	house	NN	14	appos	
+18	zi3	flour	NN	17	_	
+19	x	_	_	0	dep	
+20	x-ni	hisher	NN	17	compound	
+21	'.	_	.	3	_	
+22	mu-na-du3	he built for himher	VBD	18	acl:relcl
+	
+

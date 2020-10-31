@@ -1,0 +1,27 @@
+# dev/P470071.atf
+						
+
+# tr.en: male laborer workdays grain from Irisagrig booked out foreman Alaya under seal of Ur-mes month Szuea year unuri was destroyed Ur-mes scribe son of Ur-Suen
+1	2(gesz2)	_	,	4	nummod	
+2	3(u)	_	_	1	nummod	
+3	gurusz	male laborer	JJ	4	amod	
+4	u4	workdays	NNS	0	root	
+5	1(disz)-sze3	_	_	0	nummod	
+6	sze	grain	NN	8	nsubj	
+7	iri-sa12-rig7{ki}-ta	from Irisagrig	NNP	6	nmod:from	
+8	zi-ga	booked out	VBD	4	acl:relcl	
+9	ugula	foreman	NN	8	_	
+10	a-la-a	Alaya	NNP	13	compound	
+11	kiszib3	under seal	NN	13	nmod:under	
+12	ur-mes	Ur-mes	NNS	11	nmod:of	
+13	iti	month	NN	9	_	
+14	szu-esz-sza	Szuea	NNP	13	_	
+15	mu	year	NN	13	nmod:tmod	
+16	hu-uh2-nu-ri{ki}	unuri	NNP	17	nsubjpass	
+17	ba-hul	was destroyed	VBN	13	acl	
+18	ur-mes	Ur-mes	NNS	13	_	
+19	dub-sar	scribe	NN	18	conj	
+20	dumu	son	NN	18	appos	
+21	ur-{d}suen	Ur-Suen	NNP	20	nmod:of
+	
+

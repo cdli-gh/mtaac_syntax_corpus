@@ -1,0 +1,66 @@
+# train/P102360.atf
+						
+
+# tr.en: ban sila barig ban sila barig ban sila for E- from Lu-dingira son of Inim-Szara ban sila barig ban sila barig ban sila for E- from Lu-dingira son of Inim-Szara month ubi feast year Amar-Suen king Urbilum destroyed Szulgi strong man king of Ur Utu-GIRgal scribe official your servant
+1	1(ban2)	_	NN	0	nummod	
+2	7(disz)	_	CD	1	nummod	
+3	1/3(disz)	ban	NN	1	nummod	
+4	sila3	sila	NN	1	compound	
+5	x	_	_	0	dep	
+6	x	_	_	0	dep	
+7	x	_	_	0	dep	
+8	1(barig)	_	NN	1	nummod	
+9	1(ban2)	_	CD	1	nummod	
+10	6(disz)	_	_	1	nummod	
+11	2/3(disz)	barig ban	NN	1	nummod	
+12	sila3	sila	NN	8	compound	
+13	...	_	_	0	dep	
+14	1(barig)	_	_	0	nummod	
+15	4(ban2)	barig ban	NN	1	nummod	
+16	5(disz)	barig ban	NN	1	nummod	
+17	sila3	sila	NN	16	_	
+18	e2-...	for E-	NN	16	nmod:for	
+19	ki	from	IN	20	nmod:from	
+20	lu2-dingir-ra	Lu-dingira	NN	18	nmod:from	
+21	dumu	son	NN	1	appos	
+22	inim-{d}szara2-ta	of Inim-Szara	IN	23	nmod:of	
+23	1(ban2)	of Inim-Szara	NNP	21	nummod	
+24	7(disz)	_	NN	1	nummod	
+25	1/3(disz)	ban	NN	1	nummod	
+26	sila3	sila	NN	24	compound	
+27	...	_	_	0	dep	
+28	x	_	_	0	dep	
+29	1(barig)	_	NN	1	nummod	
+30	1(ban2)	_	CD	1	nummod	
+31	6(disz)	_	_	1	nummod	
+32	2/3(disz)	barig ban	NN	1	nummod	
+33	sila3	sila	NN	29	compound	
+34	x	_	_	0	dep	
+35	...	_	_	0	dep	
+36	1(barig)	_	_	0	nummod	
+37	4(ban2)	barig ban	NN	1	nummod	
+38	5(disz)	barig ban	NN	1	nummod	
+39	sila3	sila	NN	38	_	
+40	e2-...	for E-	NN	38	nmod:for	
+41	ki	from	IN	42	nmod:from	
+42	lu2-dingir-ra	Lu-dingira	NN	40	nmod:from	
+43	dumu	son	NN	25	appos	
+44	inim-{d}szara2-ta	of Inim-Szara	NNP	43	nmod:of	
+45	iti	month	NN	1	_	
+46	u5-bi2-gu7	ubi feast	NN	45	_	
+47	mu	year	NN	46	_	
+48	{d}amar-{d}suen	Amar-Suen	NNP	51	nsubj	
+49	lugal-e	king	NN	48	appos	
+50	ur-bi2-lum{ki}	Urbilum	NN	51	_	
+51	mu-hul	destroyed	VBD	46	acl	
+52	{d}szul-gi	Szulgi	NNP	1	_	
+53	nita	_	,	52	_	
+54	kal-ga	strong man	NN	52	appos	
+55	lugal	king	NN	52	appos	
+56	uri5{ki}-ma	Ur	NN	55	nmod:of	
+57	{d}utu-GIR2@g-gal	Utu-GIRgal	NNP	56	conj	
+58	dub-sar	scribe	NN	56	conj	
+59	sza3-tam	official	NN	56	conj	
+60	ARAD2-zu	your servant	NN	56	appos
+	
+

@@ -1,0 +1,21 @@
+# dev/P432188.atf
+						
+
+# tr.en: Szulgi the mighty king of Ur and king of world quarters the four builder of Emeslam the temple of Nergal his lord in Kutha
+1	szul-gi	Szulgi	NNP	0	root	
+2	da-num2	the mighty	DT	1	_	
+3	_lugal_	king	NN	2	root	
+4	uri5{ki}	Ur	NN	3	nmod:of	
+5	u3	and	CC	4	cc	
+6	_lugal_	king	NN	4	conj	
+7	ki-ib-ra-tim	world quarters	NNS	4	nmod:of	
+8	ar-ba-im	the four	CD	3	_	
+9	_ba-dim2_	builder	NN	8	appos	
+10	e2-mes-lam	Emeslam	NNP	9	nmod:of	
+11	_e2_	the	DT	12	det	
+12	{d}ne3-eri11-gal	temple Nergal	NN	8	appos	
+13	be-li2-szu	his lord	NN	12	_	
+14	in	in	IN	15	nmod:in	
+15	gu2-du8-a{ki}	Kutha	NNP	13	nmod:in
+	
+

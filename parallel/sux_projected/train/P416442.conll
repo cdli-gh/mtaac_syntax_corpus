@@ -1,0 +1,53 @@
+# train/P416442.atf
+						
+
+# tr.en: minas of copper weight of old sickles from Kuli mina of copper weight of old sickles from Lugina minas of copper weight of old sickles from -lu n shekels of copper weight of old sickles from -idim to warehouse brought year after Kima was destroyed
+1	1(u)	_	,	4	nummod	
+2	2(disz)	_	_	1	nummod	
+3	1/3(disz)	_	_	1	nummod	
+4	ma-na	minas	NNS	0	root	
+5	uruda	copper	NN	4	nmod:of	
+6	ki-la2	weight	NN	4	appos	
+7	{uruda}gur10	sickles	NNS	6	nmod:of	
+8	sumun	old	JJ	7	amod	
+9	1(gesz2)	_	,	4	nummod	
+10	5(u)	_	_	9	nummod	
+11	4(disz)-kam	_	_	9	nummod	
+12	ki	from	IN	13	nmod:from	
+13	ku-li-ta	Kuli	NNP	4	nmod:from	
+14	1/2(disz)	_	,	15	nummod	
+15	ma-na	mina	NN	13	_	
+16	uruda	copper	NN	15	nmod:of	
+17	ki-la2	weight	NN	15	appos	
+18	{uruda}gur10	sickles	NNS	17	nmod:of	
+19	sumun	old	JJ	18	amod	
+20	4(disz)-kam	_	,	15	nummod	
+21	ki	from	IN	22	nmod:from	
+22	lu2-gi-na-ta	Lugina	NNP	15	nmod:from	
+23	3(disz)	_	,	24	nummod	
+24	ma-na	minas	NNS	13	_	
+25	uruda	copper	NN	24	nmod:of	
+26	ki-la2	weight	NN	24	appos	
+27	{uruda}gur10	sickles	NNS	26	nmod:of	
+28	sumun	old	JJ	27	amod	
+29	2(u)-kam	_	,	24	nummod	
+30	ki	from	IN	24	nmod:from	
+31	...-lu5-ta	_	:	13	_	
+32	n	n	CD	33	nummod	
+33	gin2	shekels	NNS	13	_	
+34	uruda	copper	NN	33	nmod:of	
+35	ki-la2	weight	NN	33	appos	
+36	{uruda}gur10	sickles	NNS	35	nmod:of	
+37	sumun	old	JJ	36	amod	
+38	1(u)	_	,	33	nummod	
+39	4(disz)-kam	_	_	38	nummod	
+40	ki	from	IN	41	nmod:from	
+41	...-{d}idim-ta	-idim	NN	33	nmod:from	
+42	e2-kiszib3-ba-sze3	to warehouse	NN	13	nmod:to	
+43	ba-an-kux(KWU147)	brought	VBD	42	acl	
+44	mu	year	NN	47	_	
+45	us2-sa	after	IN	44	nmod:after	
+46	ki-masz{ki}	_	:	44	_	
+47	ba-hul	was destroyed	VBN	13	parataxis
+	
+

@@ -1,0 +1,28 @@
+# train/P384820.atf
+						
+
+# tr.en: barig ban of barley fodder for grain-fed sheep from Gududu under seal of Ur Mami via Gina month year Simurrum was destroyed Ur-Mami son of Inim-Szara animal fattener of Szara
+4	sza3-gal	fodder for	NN	25	_	
+5	udu	sheep	NN	4	nmod:for	
+6	niga	grain-fed	JJ	5	amod	
+7	ki	from	IN	8	nmod:from	
+8	gu-du-du-ta	Gududu	NNP	4	nmod:from	
+9	kiszib3	under seal	NN	4	nmod:under	
+10	ur-{d}ma-mi	Ur Mami	NN	9	nmod:of	
+11	giri3	via	IN	13	nmod:via	
+12	gi-na	Gina	NNP	13	compound	
+13	iti	month	NN	4	nmod:via	
+14	...	_	:	4	dep	
+15	mu	year	NN	25	_	
+16	si-mu-ru-um{ki}	Simurrum	NNP	17	nsubjpass	
+17	ba-hul	was destroyed	VBN	25	acl	
+18	ur-{d}ma-mi	Ur-Mami	NNP	25	_	
+19	dumu	son	NN	18	appos	
+20	inim-{d}szara2	Inim-Szara	NNP	19	nmod:of	
+21	kuruszda	animal fattener	NN	20	appos	
+22	{d}szara2-ka	Szara	NN	21	nmod:of	
+23	 	_	NN	0	root	
+24	 	_	.	23	_	
+25	 	_	NN	24	_
+	
+

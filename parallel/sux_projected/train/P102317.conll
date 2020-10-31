@@ -1,0 +1,22 @@
+# train/P102317.atf
+						
+
+# tr.en: lambs th day from Abbasaga Intaea accepted month Piglet-feast year en-priestess of Nanna was installed
+1	7(disz)	_	,	2	nummod	
+2	sila4	lambs	NNS	0	root	
+3	u4	th day	NN	2	appos	
+4	2(u)	_	,	2	nummod	
+5	8(disz)-kam	_	_	4	nummod	
+6	ki	from	IN	8	nmod:from	
+7	ab-ba-sa6-ga-ta	Abbasaga	NNP	8	compound	
+8	in-ta-e3-a	Intaea	NNP	2	nmod:from	
+9	i3-dab5	accepted	VBD	8	acl	
+10	iti	month	NN	11	compound	
+11	ses-da-gu7	Piglet-feast	NN	2	_	
+12	mu	year	NN	11	_	
+13	en	en-priestess	NN	16	nsubjpass	
+14	{d}nanna	Nanna	NNP	13	nmod:of	
+15	ba-hun	was installed	VBD	16	auxpass	
+16	7(disz)	was installed	VBN	11	nummod
+	
+

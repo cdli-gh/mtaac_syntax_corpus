@@ -1,0 +1,25 @@
+# train/P320228.atf
+						
+
+# tr.en: gur ban barley royal as a barley loan from UrNI Ur-nigar has received under seal of Atu month Amar-ayasi year Urbilum was destroyed
+1	2(asz)	_	_	0	nummod	
+2	4(ban2)	ban	NN	3	nummod	
+3	sze	barley	NN	0	root	
+4	gur	gur	NN	3	compound	
+5	lugal	royal	NN	3	appos	
+6	sze	barley	NN	7	compound	
+7	ur5-ra-sze3	as a loan	NN	5	nmod:as	
+8	ki	from	IN	9	nmod:from	
+9	ur-NI-ta	UrNI	NN	7	nmod:from	
+10	ur-nigar	Ur-nigar	NN	12	nsubj	
+11	szu	has	VBZ	12	aux	
+12	ba-ti	received	VBN	3	acl:relcl	
+13	kiszib3	under seal	NN	3	_	
+14	a-tu	Atu	NN	13	nmod:of	
+15	iti	month	NN	16	_	
+16	amar-a-a-si	Amar-ayasi	JJ	3	_	
+17	mu	year	NN	16	_	
+18	ur-bi2-lum{ki}	Urbilum	NN	19	nsubjpass	
+19	ba-hul	was destroyed	VBN	3	acl
+	
+

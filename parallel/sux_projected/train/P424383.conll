@@ -1,0 +1,33 @@
+# train/P424383.atf
+						
+
+# tr.en: shekel silver for interest from Lugalkuzu merchant Ubar doorman of Ninlil has received Month Bricks days passed year Szu-Suen king destroyed country Zabali Ubar
+1	1(disz)	_	_	0	nummod	
+2	gin2	shekel	NN	3	compound	
+3	ku3-babbar	silver	NN	12	nsubj	
+4	ur5-sze3	for interest	NN	3	nmod:for	
+5	ki	from	IN	6	nmod:from	
+6	lugal-ku3-zu	Lugalkuzu	NNP	4	nmod:from	
+7	dam-gar3-ta	merchant	NN	6	conj	
+8	u-bar	Ubar	NNP	6	conj	
+9	i3-du8	doorman	NN	6	appos	
+10	{d}nin-lil2-la2	Ninlil	NNP	9	nmod:of	
+11	szu	has	VBZ	12	aux	
+12	ba-ti	received	VBN	0	root	
+13	iti	Month	NNP	12	dobj	
+14	sig4	Bricks	NNP	13	_	
+15	u4	days	NNS	17	nmod:npmod	
+16	8(disz)	_	:	12	nummod	
+17	ba-zal	passed	VBN	13	amod	
+18	mu	year	NN	12	parataxis	
+19	{d}szu-{d}suen	Szu-Suen	NNP	23	nsubj	
+20	lugal-e	king	NN	19	appos	
+21	ma-da	_	.	12	_	
+22	za-ab-sza-li{ki}	country Zabali	NNP	23	dobj	
+23	mu-hul	destroyed	VBD	18	acl	
+24	u-bar	Ubar	NNP	25	compound	
+25	x	_	NN	12	dobj	
+26	...	_	NN	0	root	
+27	...	_	.	26	dep
+	
+

@@ -1,0 +1,54 @@
+# train/P480068.atf
+						
+
+# tr.en: various oxen and cows various sheep and goats -the delivered- from Enlil-ziagal booked out month Festival of Szu-Suen strong king king of Ur king of four regions
+1	2(gesz2)	_	,	4	nummod	
+2	2(u)	_	CD	11	nummod	
+3	4(disz)	_	_	2	nummod	
+4	gu4	oxen	NNS	0	root	
+5	ab2	and cows	CC	4	cc	
+6	hi-a	various	JJ	4	amod	
+7	5(gesz'u)	_	,	4	nummod	
+8	8(gesz2)	_	:	15	nummod	
+9	3(u)	_	_	8	nummod	
+10	3(disz)	_	_	8	nummod	
+11	udu	sheep	NN	4	appos	
+12	masz2	and goats	CC	11	cc	
+13	hi-a	various	JJ	11	amod	
+14	szu	_	:	15	_	
+15	szum2-ma	-the delivered-	VBN	4	acl	
+16	ki	from	IN	17	nmod:from	
+17	{d}en-lil2-zi-sza3-gal2-ta	Enlil-ziagal	JJ	15	nmod:from	
+18	ba-zi	booked out	VBN	17	acl	
+19	iti	month	NN	20	compound	
+20	ezem-{d}szu-{d}suen	Festival Szu-Suen	NNP	15	conj	
+21	'.	_	_	0	_	
+22	x	Festival Szu-Suen	NNP	20	nmod:of	
+23	...	_	_	0	dep	
+24	'.	_	_	0	_	
+25	x	_	IN	22	dep	
+26	...	_	_	0	dep	
+27	'.	_	_	0	_	
+28	...	_	_	0	dep	
+29	'.	_	_	0	_	
+30	...	_	_	0	dep	
+31	'.	_	_	0	_	
+32	...	_	_	0	dep	
+33	{d}...-{d}suen	_	NN	34	_	
+34	 	_	_	0	_	
+35	lugal	king	NN	34	appos	
+36	kal-ga	strong	JJ	35	amod	
+37	lugal	king	NN	34	appos	
+38	uri5{ki}-ma	Ur	NN	37	nmod:of	
+39	lugal	king	NN	34	appos	
+40	an	four	CD	42	nummod	
+41	ub-da	_	NN	15	_	
+42	limmu2-ba	regions	NNS	39	nmod:of	
+43	x	_	IN	42	dep	
+44	...	_	JJ	33	dep	
+45	x	_	,	34	dep	
+46	...	_	,	34	dep	
+47	...	_	DT	42	dep	
+48	...	_	:	15	dep
+	
+

@@ -1,0 +1,24 @@
+# train/P416482.atf
+						
+
+# tr.en: sheep slaughtered the th day from Nalu Szulgi-irimu received month ki-siki of Ninazu year high-priestess of Eridu was hired
+1	1(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	ba-usz2	slaughtered	VBN	2	acl	
+4	u4	the th day	NN	2	appos	
+5	1(u)	_	,	2	nummod	
+6	la2	_	_	5	_	
+7	1(disz@t)-kam	_	_	6	nummod	
+8	ki	from	IN	10	nmod:from	
+9	na-lu5-ta	Nalu	NNP	10	compound	
+10	{d}szul-gi-iri-mu	Szulgi-irimu	NNP	2	nmod:from	
+11	szu	_	:	2	_	
+12	ba-ti	received	VBD	10	acl	
+13	iti	month	NN	15	compound	
+14	ki-siki-{d}nin-a-zu	ki-siki Ninazu	NN	15	_	
+15	mu	year	NN	2	_	
+16	en	high-priestess	NN	18	nsubjpass	
+17	eridu{ki}	Eridu	NNP	16	nmod:of	
+18	ba-hun	was hired	VBN	15	acl
+	
+

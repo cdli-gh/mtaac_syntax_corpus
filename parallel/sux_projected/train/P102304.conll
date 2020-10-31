@@ -1,0 +1,39 @@
+# train/P102304.atf
+						
+
+# tr.en: bundles fodder-reed their bales at bundles each reeds of dumugi and fisheries laborers bundles fodder-reed their bales at bundles each from Ur-Enlil under seal of Gurzaran via Basaga storehouse of Aabba month Mine year after Kima was destroyed Gurzaran son of Alla
+1	6(gesz2)	_	,	3	nummod	
+2	1(u)	_	_	1	nummod	
+3	sa	bundles	NNS	0	root	
+4	gi-zi	fodder-reed	NN	3	appos	
+5	gu-nigin2-ba	their	PRP$	7	nmod:poss	
+6	5(disz)	_	,	3	nummod	
+7	sa-ta	bales at bundles each	NNS	3	appos	
+8	gi	reeds	NNS	3	appos	
+9	dumu-gi7	dumugi	NN	8	nmod:of	
+10	szu-ku6-ne	and fisheries laborers	CC	9	cc	
+11	5(gesz2)	_	,	12	nummod	
+12	sa	bundles	NNS	3	_	
+13	gi-zi	fodder-reed	NN	12	appos	
+14	gu-nigin2-ba	their	PRP$	16	nmod:poss	
+15	6(disz)	_	,	12	nummod	
+16	sa-ta	bales at bundles each	NNS	12	appos	
+17	ki	from	IN	18	nmod:from	
+18	ur-{d}en-lil2-la2-ta	Ur-Enlil	NNP	12	nmod:from	
+19	kiszib3	under seal	NN	12	nmod:under	
+20	gur4-za-an	Gurzaran	NNP	19	nmod:of	
+21	giri3	via	IN	22	nmod:via	
+22	ba-saga	Basaga	NNP	12	nmod:via	
+23	ga2-nun	storehouse	NN	22	appos	
+24	a-ab-ba	Aabba	NN	23	nmod:of	
+25	iti	month	NN	26	compound	
+26	min-esz3	Mine	NNP	3	_	
+27	mu	year	NN	26	advmod	
+28	us2-sa	after	IN	27	nmod:after	
+29	ki-masz{ki}	_	:	26	_	
+30	ba-hul	was destroyed	VBN	26	acl	
+31	gur4-za-an	Gurzaran	JJ	32	amod	
+32	dumu	son	NN	3	_	
+33	al-la	Alla	NNP	32	nmod:of
+	
+

@@ -1,0 +1,222 @@
+# train/P465388.atf
+						
+
+# tr.en: Enlil indeed gave to him to Sz-Sin the mighty the king of Ur and king of world quarters the four favorite of Enlil and Sin the lands of Simaki He destroyed the land of Zabali the land of Sigri the land of Nibulmat the land of Alumiddatim the land of Garta and land Szatilu a total of six lands Azaar Bulma Nuumar Nuganelum Zizirtum Arair Indasu and life of in order with his life to escape and deity and deity and gods the whole and Ninurta as bailiff in From gold which he plundered a statue of himself he created and to Enlil his lord for his life he dedicated it The one who tablet this shall remove may Enlil and Ninlil his foundation tear out and his seed pluck up Inscription on hip of Indasu the captive king Indasu governor of Zabali Inscription on his shoulder Sz-Sin beloved of Enlil the king whom Enlil as one beloved of his heart did choose the mighty king king of Ur and king of four world quarters Inscription on back of a man of Indasu the captive king with a foot pressed down on him Titi governor of Nuumar Inscription on his right shoulder Samri governor of -li-x Inscription on his foot Nu-x-li governor of Alumiddatum Inscription on his chest Bunirni governor of Sigri Inscription on his left shoulder behind it Bariiza governor of Arair Inscription behind his left shoulder Waburtum governor of Lulubum Inscription on his left shoulder They are six captured men written upon and their six guards not written upon Nenibzu governor of Zizirtum Inscription behind his right side Tirubiu governor of Nuganelum Inscription behind his right shoulder -amti governor of Garta Inscription on his right shoulder-top Dungat governor of Nibulmat Inscription on his right shoulder-top They are four captured men written upon and their four guards not written upon In front of him behind him on his right and left sides Inscriptions the captive kings and Sz-Sin who upon Indasu has pressed down his foot
+1	{d}en-lil2	Enlil	NNP	2	nsubj	
+2	_i-di-szum-ma_	indeed gave to him	VBD	0	root	
+3	_a-na_	to	TO	216	nmod:to	
+4	{d}szu-{d}suen	_	,	216	_	
+5	_da-nim_	the mighty	JJ	216	appos	
+6	lugal	king	NN	2	dobj	
+7	uri5{ki}	the Ur	DT	6	det	
+8	u3	and	CC	6	cc	
+9	lugal	king	NN	6	conj	
+10	_ki-ib-ra-tim_	world quarters	NNS	6	nmod:of	
+11	_ar-ba-im_	the four	CD	6	_	
+12	_mi-gir_	favorite	NN	11	appos	
+13	{d}en-lil2	Enlil	NN	12	nmod:of	
+14	_u3_	and	CC	13	cc	
+15	{d}suen	Sin	NN	13	conj	
+16	_ma-ta-at_	the	DT	17	det	
+17	si-masz-ki-im{ki}	lands Simaki	NNS	11	appos	
+18	_u3-ha-li-iq_	He destroyed	VBD	2	parataxis	
+19	ma-da	the land	NN	18	dobj	
+20	za-ab-sza-li{ki}	Zabali	NNP	19	nmod:of	
+21	...	the land Sigri	NN	18	dep	
+22	_ma-at_	the land	NN	18	dobj	
+23	ni-bu-ul-ma-at{ki}	Nibulmat	NNP	22	nmod:of	
+24	_ma-at_	the land	NN	23	appos	
+25	a-lu-mi-id-da-tim{ki}	Alumiddatim	NNP	24	nmod:of	
+26	_ma-at_	the land	NN	23	appos	
+27	ga-ar-ta{ki}	Garta	NNP	26	nmod:of	
+28	_ma-at_	and land	CC	22	cc	
+29	sza-ti-lu{ki}	Szatilu	NNP	22	conj	
+30	szu-nigin	a total six	NN	29	_	
+31	6(disz)	_	.	2	nummod	
+32	ma-da	lands	NNS	30	nmod:of	
+33	a-za-ha-ar{ki}	Azaar	NNP	47	nsubj	
+34	bu-ul-ma{ki}	Bulma	NNP	33	conj	
+35	nu-szu-usz-ma-ar{ki}	Nuumar	NNP	33	conj	
+36	nu-usz-ga-ne-lu-um{ki}	Nuganelum	NNP	33	conj	
+37	zi-zi-ir-tum{ki}	Zizirtum	NNP	33	conj	
+38	a-ra-hi-ir{ki}	Arair	NNP	33	conj	
+39	in-da-su2	Indasu	NNP	40	compound	
+40	...	_	NN	33	conj	
+41	u3	and	CC	33	cc	
+42	ni-isz	life of	NN	33	conj	
+43	...	life of	IN	42	dep	
+44	_a-na	in	IN	45	nmod:in	
+45	na-'a3-s'i-im_	order with his life	NN	33	nmod:in	
+46	sa-tu_-e	to escape	TO	47	mark	
+47	...	to escape	VB	2	parataxis	
+48	u3	and	CC	47	cc	
+49	{d}...	deity	NN	47	compound	
+50	u3	and	CC	47	cc	
+51	{d}...	deity	NN	47	compound	
+52	{d}...	and gods	CC	47	cc	
+53	szar2-ra	the whole	DT	47	det	
+54	...	the whole	JJ	47	dep	
+55	u3	and	CC	47	cc	
+56	{d}nin-urta	Ninurta	NNP	47	conj	
+57	maszkim	as bailiff	IN	56	nmod:as	
+58	...	as bailiff	NN	56	dep	
+59	_in_	in	IN	61	nmod:in	
+60	...	_	_	0	dep	
+61	x	_	NN	56	nmod:in	
+62	...	_	_	0	dep	
+63	_i-na_	From	IN	64	nmod:from	
+64	ku3-sig17	gold	NN	61	nmod:from	
+65	_sza	_	_	0	_	
+66	isz-lu-lu_	which he plundered	VBD	64	acl:relcl	
+67	alan-_szu_	a statue himself	NN	66	dobj	
+68	_ib-ni-ma_	he created and	VBD	67	acl:relcl	
+69	_a-na_	to	TO	70	mark	
+70	{d}en-lil2	Enlil	VB	47	conj	
+71	_be-li2-szu_	his lord	NN	70	dobj	
+72	_a-na_	for	IN	73	nmod:for	
+73	_na-'a3-s'i-szu_	his life	NN	70	nmod:for	
+74	a	he	PRP	75	nsubj	
+75	mu-na-ru	dedicated it	VBD	73	acl:relcl	
+76	_sza	The	DT	77	det	
+77	t,up-pa2-am_	one who tablet	NN	79	nsubj	
+78	_szu-a-ti_	this	DT	77	dobj	
+79	_u3-sza-sa3-ku_	shall remove	VB	2	parataxis	
+80	{d}en-lil2	may Enlil	MD	88	aux	
+81	u3	_	_	0	_	
+82	_{d}nin-lil2_-tum	and Ninlil	CC	88	cc	
+83	suhusz-_su2_	his foundation	NN	84	nsubj	
+84	_li-su2-ha_	tear out	VB	88	acl	
+85	u3	and	CC	84	cc	
+86	sze-numun-_szu_	his seed	NN	87	nsubj	
+87	_li-il-qu2-ta2_	pluck up	VB	84	conj	
+88	mu-sar-ra	Inscription	NN	79	dobj	
+89	ur2	on	IN	90	nmod:on	
+90	in-da-su	hip Indasu	NN	88	nmod:on	
+91	lugal	king	NN	88	appos	
+92	szaga	the captive	DT	91	det	
+93	in-da-su2	Indasu	FW	94	compound	
+94	ensi2	governor	NN	88	_	
+95	za-ab-sza-li{ki}	of Zabali	NNP	94	nmod:of	
+96	mu-sar-ra	Inscription	NN	94	_	
+97	za3-ga-na	on his shoulder	NN	96	nmod:on	
+98	{d}szu-{d}suen	_	,	97	_	
+99	ki-ag2	beloved	JJ	97	amod	
+100	{d}en-lil2-la2	Enlil	NNP	99	nmod:of	
+101	lugal	king	NN	97	appos	
+102	{d}en-lil2-le	the whom Enlil	DT	101	det	
+103	ki-ag2	as one beloved	CD	105	nmod:as	
+104	sza3-ga-na	his heart	NN	103	nmod:of	
+105	in-pa3	did choose	VB	101	acl:relcl	
+106	lugal	king	NN	97	appos	
+107	kal-ga	the mighty	DT	106	det	
+108	lugal	king	NN	97	appos	
+109	uri5{ki}-ma	Ur	NN	108	nmod:of	
+110	lugal	king	NN	108	conj	
+111	an	four	CD	113	nummod	
+112	ub-da	world	NN	113	compound	
+113	limmu2-ba	quarters	NNS	110	nmod:of	
+114	mu-sar-ra	Inscription	NN	88	_	
+115	murgu	on	IN	116	nmod:on	
+116	x-KI	back	NN	114	nmod:on	
+117	lu2	a man	NN	88	_	
+118	in-da-su2	Indasu	NNP	117	nmod:of	
+119	lugal	king	NN	117	_	
+120	szaga	the captive	DT	119	det	
+121	giri3	_	.	88	_	
+122	an-us2-sa	with a foot pressed down on him	NN	119	nmod:with	
+123	ti-ti	Titi	NNP	88	_	
+124	ensi2	governor	NN	123	appos	
+125	nu-szu-usz-ma-ar{ki}	of Nuumar	NNP	124	nmod:of	
+126	mu-sar-ra	Inscription	NN	88	_	
+127	za3	on	IN	128	nmod:on	
+128	zi-da-na	his right shoulder	NN	126	nmod:on	
+129	sa-am-ri	Samri	NNP	128	appos	
+130	ensi2	governor	NN	128	appos	
+131	x-x-li-x{ki}	-li-x	NN	130	nmod:of	
+132	mu-sar-ra	Inscription	NN	88	_	
+133	giri3-na	on his foot	NN	132	nmod:on	
+134	nu-x-li	Nu-x-li	NN	133	appos	
+135	ensi2	governor	NN	133	appos	
+136	a-lu-mi-id-da-tim	of Alumiddatum	IN	137	nmod:of	
+137	mu-sar-ra	Inscription	NNP	135	nmod:of	
+138	gaba-na	on his chest	NN	135	nmod:on	
+139	bu-ni-ir-ni	Bunirni	NNP	138	appos	
+140	ensi2	governor	NN	138	appos	
+141	si-ig-ri2-isz{ki}	of Sigri	NNP	140	nmod:of	
+142	mu-sar-ra	Inscription	NN	88	_	
+143	za3	on his	IN	144	nmod:on	
+144	gub3-bu	left shoulder	NN	142	nmod:on	
+145	egir-ra-na	behind it	PRP	142	nmod:behind	
+146	ba-ri-hi-za	Bariiza	NNP	149	compound	
+147	ensi2	governor	NN	146	appos	
+148	a-ra-hi-ir{ki}	of Arair	NNP	147	nmod:of	
+149	mu-sar-ra	Inscription	NN	2	parataxis	
+150	egir	behind	IN	152	nmod:behind	
+151	za3	his	PRP$	152	nmod:poss	
+152	gub3-bu-na	left shoulder	NN	149	nmod:behind	
+153	wa-bur-tum	Waburtum	NNP	156	compound	
+154	ensi2	governor	NN	153	appos	
+155	lu-lu-bi-im{ki}	of Lulubum	NNP	154	nmod:of	
+156	mu-sar-ra	Inscription	NN	152	_	
+157	za3	on	IN	158	nmod:on	
+158	gub3-bu-na	his left shoulder	NN	156	nmod:on	
+159	6(disz)	_	_	0	nummod	
+160	lu2	_	_	0	_	
+161	szu-du8-a-me-esz	They are	PRP	162	nsubj	
+162	a-ab-sar	six captured men written upon	NNS	149	_	
+163	6(disz)	_	.	167	nummod	
+164	lu2	_	_	0	_	
+165	en-nu-ug3-bi	and	CC	167	cc	
+166	nu-ub-sar	their six guards not written upon	NNS	167	conj	
+167	nu-ub-sar	their six guards not written upon	VBN	162	nmod	
+168	ne-ni-ib2-zu	Nenibzu	NNP	171	compound	
+169	ensi2	governor	NN	168	appos	
+170	zi-zi-ir-tum{ki}	of Zizirtum	NN	169	nmod:of	
+171	mu-sar-ra	Inscription	NN	167	dobj	
+172	egir	behind	IN	173	nmod:behind	
+173	zi-da-na	his right side	NN	171	nmod:behind	
+174	ti-ru-bi-u2	Tirubiu	NN	173	appos	
+175	ensi2	governor	NN	173	appos	
+176	nu-usz-ga-ne-lu-um{ki}	of Nuganelum	NN	175	nmod:of	
+177	mu-sar-ra	Inscription	NN	167	_	
+178	egir	behind	IN	180	nmod:behind	
+179	za3	his	PRP$	180	nmod:poss	
+180	zi-da-ni	right shoulder	NN	177	nmod:behind	
+181	x-am-ti	-amti	NN	180	_	
+182	ensi2	governor	NN	180	appos	
+183	ga-ar-ta{ki}	of Garta	NNP	182	nmod:of	
+184	mu-sar-ra	Inscription	NN	177	_	
+185	za3-si	on his	IN	186	nmod:on	
+186	zi-da-ni	right shoulder-top	NN	184	nmod:on	
+187	dun-ga2-at	Dungat	NN	186	_	
+188	ensi2	governor	NN	186	appos	
+189	ni-bu-ul-ma-at{ki}	of Nibulmat	NN	188	nmod:of	
+190	mu-sar-ra	Inscription	NN	184	_	
+191	za3-si	on his	IN	192	nmod:on	
+192	zi-da-ni	right shoulder-top	NN	190	nmod:on	
+193	4(disz)	_	_	0	nummod	
+194	lu2	_	_	0	_	
+195	szu-du8-a-me-esz	They are	PRP	196	nsubj	
+196	a-ab-sar	four captured men written upon	NNS	162	parataxis	
+197	4(disz)	_	.	200	nummod	
+198	lu2	_	_	0	_	
+199	en-nu-ug3-bi	four	CD	200	nummod	
+200	nu-ub-sar	and their guards not written upon	VBN	196	advcl	
+201	igi-na	In front	NN	200	nmod:in	
+202	egir-ra-na	him behind him	PRP	201	nmod:of	
+203	zi-da	on his right	NN	201	nmod:on	
+204	gub3-bu-na	and left sides	CC	203	cc	
+205	mu-sar-ra	Inscriptions	NNPS	203	_	
+206	lugal	_	_	0	_	
+207	szaga-me-esz	the captive kings	NNS	205	_	
+208	u3	and	CC	207	cc	
+209	{d}szu-{d}suen	_	,	207	_	
+210	lu2	_	_	0	_	
+211	in-da-su	who upon Indasu	WP	213	nsubj	
+212	giri3	_	.	2	_	
+213	an-us2-sa	has pressed down his foot	VBN	207	acl:relcl	
+214	 	_	NN	0	root	
+215	 	_	NN	214	appos	
+216	 	_	NNP	215	nmod:to
+	
+

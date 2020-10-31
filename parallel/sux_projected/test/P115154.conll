@@ -1,0 +1,41 @@
+# test/P115154.atf
+						
+
+# tr.en: Deficit less workdays female laborers remainder of account dedicated female laborers and female laborers by weapon seized from month Harvest year Karar for rd time was destroyed to month Festival of Szulgi year Anan was destroyed to Ur-Ningezida son of Ur-Baba it is to be repaid year Anan was destroyed
+1	la2-ia3	Deficit	NN	32	ccomp	
+2	1(gesz'u)	_	,	7	nummod	
+3	4(u)	_	_	2	nummod	
+4	la2	less	RBR	7	advmod	
+5	2(disz)	_	_	4	nummod	
+6	geme2	female laborers	NNS	7	appos	
+7	u4	workdays	NNS	1	_	
+8	1(disz)-sze3	_	_	0	nummod	
+9	si-i3-tum	remainder	NN	7	appos	
+10	nig2-ka9-ak	account	NN	9	nmod:of	
+11	geme2	female laborers	NNS	16	nsubj	
+12	a-ru-a	_	:	7	_	
+13	u3	and	CC	11	cc	
+14	geme2	female laborers	NNS	11	conj	
+15	{gesz}tukul-e	dedicated by weapon	VBN	11	amod	
+16	dab5-ba	seized	VBD	7	acl:relcl	
+17	iti	month	NN	7	nmod:from	
+18	szu-numun	from Harvest	IN	17	nmod:from	
+19	mu	year	NN	17	appos	
+20	kar2-har{ki}	_	``	7	_	
+21	a-ra2	for rd time	NN	23	nmod:for	
+22	3(disz)-kam-asz	_	,	23	nummod	
+23	ba-hul-ta	was destroyed	VBN	7	acl	
+24	iti	month	NN	23	nmod:to	
+25	ezem-{d}szul-gi	to Festival Szulgi	TO	24	nmod:to	
+26	mu	year	NN	7	_	
+27	an-sza-an{ki}	_	:	7	_	
+28	ba-hul-sze3	was destroyed	VBN	7	acl	
+29	ur-{d}nin-gesz-zi-da	to Ur-Ningezida	NNP	1	nmod:to	
+30	dumu	son	NN	29	appos	
+31	ur-{d}ba-ba6	Ur-Baba	NNP	30	nmod:of	
+32	su-su-dam	repaid it is to be	VBZ	0	root	
+33	mu	year	NN	32	nmod:tmod	
+34	an-sza-an{ki}	_	:	32	_	
+35	ba-hul	was destroyed	VBN	32	parataxis
+	
+

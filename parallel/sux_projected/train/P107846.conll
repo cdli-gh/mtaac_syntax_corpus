@@ -1,0 +1,43 @@
+# train/P107846.atf
+						
+
+# tr.en: oxen cows various sheep goats various booked out with Szulgi-ayamu month Big-festival year Enunugal of Inanna in Uruk was installed in house Amar-Suen strong man king of Ur king of four quarters Lugal-itida scribe son of Ur-Dumuzida is your servant
+1	4(u)	_	,	4	nummod	
+2	8(disz)	_	CD	11	nummod	
+3	gu4	oxen	NN	4	compound	
+4	ab2	cows	NNS	0	root	
+5	hi-a	various	JJ	4	amod	
+6	1(gesz'u)	_	,	4	nummod	
+7	2(gesz2)	_	_	6	nummod	
+8	5(u)	_	_	6	nummod	
+9	5(disz)	_	_	6	nummod	
+10	udu	sheep	NN	11	compound	
+11	masz2	goats	NNS	4	conj	
+12	hi-a	various	JJ	4	amod	
+13	zi-ga	booked out	VBN	4	acl	
+14	ki	with	IN	15	nmod:with	
+15	{d}szul-gi-a-a-mu	Szulgi-ayamu	NN	13	nmod:with	
+16	iti	month	NN	17	_	
+17	ezem-mah	Big-festival	JJ	13	xcomp	
+18	mu	year	NN	4	_	
+19	en-unu6-gal	Enunugal	NNP	22	nsubjpass	
+20	{d}inanna	Inanna	NNP	19	nmod:of	
+21	unu{ki}	in Uruk	NNP	19	nmod:in	
+22	ba-hun	was installed	VBN	4	acl	
+23	e2-tum	in house	IN	22	nmod:in	
+24	{d}amar-{d}suen	Amar-Suen	NNP	22	_	
+25	nita	_	,	24	_	
+26	kal-ga	strong man	NN	24	appos	
+27	lugal	king	NN	24	appos	
+28	uri5{ki}-ma	Ur	NN	27	nmod:of	
+29	lugal	king	NN	24	appos	
+30	an	four	CD	32	nummod	
+31	ub-da	_	:	24	_	
+32	limmu2-ba	quarters	NNS	29	nmod:of	
+33	lugal-iti-da	Lugal-itida	NN	37	nsubj	
+34	dub-sar	scribe	NN	33	conj	
+35	dumu	son	NN	33	appos	
+36	ur-{d}dumu-zi-da	Ur-Dumuzida	NNP	35	nmod:of	
+37	ARAD2-zu	is your servant	NN	24	_
+	
+

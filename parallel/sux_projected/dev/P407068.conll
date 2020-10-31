@@ -1,0 +1,24 @@
+# dev/P407068.atf
+						
+
+# tr.en: oxen ugid-type th day from Abbasaga Enlila accepted month Festival-of-An year high priest of Eridu was installed
+1	2(disz)	_	,	4	nummod	
+2	gu4	oxen	NNS	18	nsubj	
+3	szu-gid2	ugid-type	JJ	4	amod	
+4	u4	th day	NN	2	appos	
+5	2(u)	_	:	2	nummod	
+6	4(disz)-kam	_	_	5	nummod	
+7	ki	from	IN	9	nmod:from	
+8	ab-ba-sa6-ga-ta	Abbasaga	NNP	9	compound	
+9	{d}en-lil2-la2	Enlila	NNP	2	nmod:from	
+10	i3-dab5	accepted	VBD	9	acl	
+11	iti	month	NN	12	compound	
+12	ezem-an-na	Festival-of-An	NN	2	_	
+13	mu	year	NN	12	_	
+14	en	high priest	NN	17	nsubjpass	
+15	eridu{ki}	Eridu	NNP	14	nmod:of	
+16	ba-hun	was installed	VBD	17	auxpass	
+17	2(disz)	was installed	VBN	12	nummod	
+18	 	_	LS	0	root
+	
+

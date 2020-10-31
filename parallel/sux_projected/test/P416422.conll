@@ -1,0 +1,39 @@
+# test/P416422.atf
+						
+
+# tr.en: hybrid goat nann goats wild suckling lamb of a hybrid mouflon gazelles gazelle fawn slaughtered th day from Lu-dingira Ur-nigar received month Gazelle feast year after Kima and urti were destroyed
+1	1(disz)	_	,	3	nummod	
+2	masz2	_	CD	5	nummod	
+3	a-dara4	hybrid goat	NN	0	root	
+4	4(disz)	_	,	3	nummod	
+5	ud5	goats	NNS	3	conj	
+6	dara4	nann wild	NN	5	compound	
+7	1(disz)	_	,	8	nummod	
+8	sila4	lamb	NN	4	root	
+9	ga	suckling	NN	8	compound	
+10	a-udu	a hybrid	DT	11	det	
+11	hur-sag	mouflon	NN	8	nmod:of	
+12	3(disz)	_	,	8	nummod	
+13	masz-da3	gazelles	NNS	8	conj	
+14	1(disz)	_	,	8	nummod	
+15	amar	_	_	0	_	
+16	masz-da3	gazelle fawn	NN	8	conj	
+17	ba-usz2	slaughtered	VBN	8	acl	
+18	u4	th day	NN	8	appos	
+19	1(u)	_	_	0	nummod	
+20	6(disz)-kam	_	_	19	nummod	
+21	ki	from	IN	25	nmod:from	
+22	lu2-dingir-ra-ta	Lu-dingira	NN	25	_	
+23	ur-nigar{gar}	Ur-nigar	JJ	25	advmod	
+24	szu	_	:	8	_	
+25	ba-ti	received	VBN	18	acl	
+26	iti	month	NN	27	compound	
+27	masz-da3-gu7	Gazelle feast	NN	8	_	
+28	mu	year	NN	27	advmod	
+29	us2-sa	after	IN	28	nmod:after	
+30	ki-masz{ki}	_	:	27	_	
+31	u3	and	CC	33	cc	
+32	hu-ur5-ti{ki}	urti	NNP	33	conj	
+33	ba-hul	were destroyed	VBN	27	parataxis
+	
+

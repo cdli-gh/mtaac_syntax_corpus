@@ -1,0 +1,44 @@
+# test/P432332.atf
+						
+
+# tr.en: The temple After I placed recumbent lions and bulls by residence That bed from Mardu mountains to place KAL he brought and KAL for Ninsun he shall stretch out a snare
+1	'.	The	DT	30	det	
+2	e2	temple	NN	30	compound	
+3	...	_	_	0	dep	
+4	'.	_	_	0	_	
+5	...	_	_	0	dep	
+6	x	_	_	0	dep	
+7	x	_	_	0	dep	
+8	...	_	_	0	dep	
+9	'.	_	,	12	_	
+10	pirig	After	IN	12	mark	
+11	gu4	_	_	0	_	
+12	nu2	I placed	VBD	30	acl	
+13	ki!(NA)-tusz	recumbent lions and bulls	NNS	12	dobj	
+14	u3-gar	by residence	NN	12	nmod:by	
+15	'.	_	_	0	_	
+16	gesznu2-bi	That bed	NN	12	conj	
+17	'.	_	_	0	_	
+18	kur	_	_	0	_	
+19	mar-tu-ta	from Mardu mountains	NNS	16	nmod:from	
+20	'.	_	_	0	_	
+21	KAL{ki}-sze3	to place KAL	NN	16	nmod:to	
+22	'.	_	,	12	_	
+23	ba-an-tum3	he brought	VBD	21	acl:relcl	
+24	'.	_	NN	12	conj	
+25	KAL{ki}	and	CC	12	cc	
+26	DU	KAL	NNP	24	compound	
+27	x	_	_	0	dep	
+28	'.	_	_	0	_	
+29	{d}nin-sun2-ra	for Ninsun	IN	28	nmod:for	
+30	 	_	_	0	_	
+31	'.	_	.	30	_	
+32	...	_	_	0	dep	
+33	u3	_	_	0	_	
+34	x	_	_	0	dep	
+35	ab-x-x	_	_	0	_	
+36	'.	_	_	0	_	
+37	gu	_	_	0	_	
+38	ab-la2-e	he shall stretch out a snare	VB	28	acl:relcl
+	
+

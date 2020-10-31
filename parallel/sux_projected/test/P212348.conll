@@ -1,0 +1,34 @@
+# test/P212348.atf
+						
+
+# tr.en: mana of silver for Nanna mana of silver for Ningal-enuna royal offerings Out of Lu-dingira booked In Ur Month Akitu year Bitum-rabium Iabru with its territories and Huhnuri were destroyed
+1	n	_	,	10	_	
+2	ma-na	mana	NN	10	nsubj	
+3	ku3-babbar	silver	NN	2	nmod:of	
+4	...	_	IN	3	dep	
+5	{d}nanna	for Nanna	NNP	10	nmod:for	
+6	n	_	,	10	_	
+7	ma-na	mana	NN	10	nsubj	
+8	ku3-babbar	silver	NN	7	nmod:of	
+9	{d}nin-gal-e2-nun-na	for Ningal-enuna	NN	10	nmod:for	
+10	a-ru-a	offerings	NNS	0	root	
+11	lugal	royal	JJ	10	amod	
+12	ki	_	_	0	_	
+13	lu2-dingir-ra-ta	Out Lu-dingira	IN	10	advmod	
+14	ba-zi	booked	VBN	13	acl	
+15	sza3	In	IN	16	nmod:in	
+16	uri5{ki}-ma	Ur	NN	14	nmod:in	
+17	iti	Month	NNP	10	compound	
+18	a2-ki-ti	_	``	10	_	
+19	mu	year	NN	10	_	
+20	bi2-tum-ra-bi2-um	Bitum-rabium Iabru	JJ	10	amod	
+21	ki	with	IN	23	nmod:with	
+22	i3-ab-ru{ki}	its	PRP$	23	nmod:poss	
+23	ma-da{ki}-bi	territories	NNS	10	nmod:with	
+24	u3	and	CC	10	cc	
+25	hu-uh2-nu-ri{ki}	Huhnuri	NNP	10	conj	
+26	ba-hul	destroyed were	VBD	27	auxpass	
+27	...	destroyed were	VBN	10	dep	
+28	ma-na	_	NN	0	root
+	
+

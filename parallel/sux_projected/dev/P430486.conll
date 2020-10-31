@@ -1,0 +1,18 @@
+# dev/P430486.atf
+						
+
+# tr.en: Sz-Suen strong king king of Ur king of four corners to Szu-Sin-ana-Sin-takil his servant he gifted
+1	{d}szu-{d}suen	Sz-Suen	NNP	0	root	
+2	lugal	king	NN	1	appos	
+3	kal-ga	strong	JJ	2	amod	
+4	lugal	king	NN	1	appos	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an	four	CD	9	nummod	
+8	ub-da	_	:	1	_	
+9	limmu2-ba-ke4	corners	NNS	6	nmod:of	
+10	{d}szu-{d}suen-a-na-{d}suen-ta2-ki-il2	to Szu-Sin-ana-Sin-takil	NNP	1	nmod:to	
+11	ARAD2-da-ni-ir	his servant	NN	10	appos	
+12	in-na-ba	he gifted	JJ	10	acl:relcl
+	
+

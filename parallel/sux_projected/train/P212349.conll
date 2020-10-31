@@ -1,0 +1,36 @@
+# train/P212349.atf
+						
+
+# tr.en: sheep nanny goats ugid offerings the th day from Tahi-atal ox cow the th day from Intaea Duga accepted Month Akitu year boat of Enki was fashioned
+1	2(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	3(disz)	_	,	2	nummod	
+4	ud5	nanny goats	NNS	2	conj	
+5	szu-gid2	ugid offerings	NNS	2	conj	
+6	u4	the th day	NN	2	appos	
+7	1(u)	_	,	2	nummod	
+8	7(disz)-kam	_	_	7	nummod	
+9	ki	from	IN	10	nmod:from	
+10	ta2-hi-isz-a-tal-ta	Tahi-atal	JJ	2	nmod:from	
+11	1(disz)	_	,	10	nummod	
+12	gu4	ox	NN	10	conj	
+13	1(disz)	_	_	0	nummod	
+14	ab2	cow	NN	10	conj	
+15	u4	the th day	NN	10	appos	
+16	1(u)	_	,	10	nummod	
+17	8(disz)-kam	_	_	16	nummod	
+18	ki	from	IN	19	nmod:from	
+19	in-ta-e3-a-ta	Intaea	NNP	10	nmod:from	
+20	du11-ga	Duga	NNP	21	nsubj	
+21	i3-dab5	accepted	VBD	10	acl:relcl	
+22	iti	Month	NNP	30	compound	
+23	a2-ki-ti	_	``	30	_	
+24	mu	year	NN	30	_	
+25	ma2	boat	NN	27	nsubjpass	
+26	{d}en-ki	Enki	NNP	25	nmod:of	
+27	ba-dim2	was fashioned	VBN	30	acl	
+28	 	_	NN	0	root	
+29	 	_	.	28	_	
+30	 	_	NNP	29	_
+	
+

@@ -1,0 +1,36 @@
+# train/P416461.atf
+						
+
+# tr.en: sheep barley-fed siskur-offering ofs buck for beer-drinking via Ninamati ox barley-fed slaughtered booked out from Kalam-enagi of month day elapsed month Harvest year after Kima and urti were destroyed
+1	1(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	barley-fed	JJ	2	amod	
+4	siskur2	siskur-offering	JJ	5	amod	
+5	dingir-ne	ofs	NNS	2	appos	
+6	1(disz)	_	_	0	nummod	
+7	masz2-gal	buck	NN	2	_	
+8	kasz	_	,	9	_	
+9	nag-sze3	for beer-drinking	JJ	7	nmod:for	
+10	giri3	via	IN	11	nmod:via	
+11	nin-ha-ma-ti	Ninamati	NNP	9	nmod:via	
+12	1(disz)	_	:	13	nummod	
+13	gu4	ox	NN	2	_	
+14	niga	barley-fed	JJ	13	amod	
+15	ba-usz2	slaughtered	VBN	13	acl	
+16	zi-ga	booked out	VBN	13	acl	
+17	ki	from	IN	18	nmod:from	
+18	kalam-he2-na-gi-ta	Kalam-enagi	NN	16	nmod:from	
+19	iti-ta	of month	NN	16	nmod:of	
+20	u4	day	NN	16	_	
+21	8(disz)	_	:	2	nummod	
+22	ba-ra-zal	elapsed	VBN	20	acl	
+23	iti	month	NN	24	compound	
+24	sze-sag11-ku5	Harvest	NNP	2	_	
+25	mu	year	NN	24	advmod	
+26	us2-sa	after	IN	25	nmod:after	
+27	ki-masz{ki}	_	:	24	_	
+28	u3	and	CC	30	cc	
+29	hur-ti{ki}	urti	NNP	30	conj	
+30	ba-hul	were destroyed	VBN	24	acl
+	
+

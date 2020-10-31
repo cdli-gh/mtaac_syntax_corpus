@@ -1,0 +1,63 @@
+# test/P113314.atf
+						
+
+# tr.en: male laborers hirelings for barge punting the labor its fodder sila each for days its barley gur barig ban sila labor of hirelings barge of gur its labor sila per barge captain hireling his labor fodder sila per for days its barley barig ban sila foreman Nindam barley of field of Nina via Namma Monat Festival of Baba fodder barig sila
+1	1(u)	_	,	2	nummod	
+2	gurusz	male laborers	NNS	0	root	
+3	hun-ga2	hirelings	NNS	2	appos	
+4	ma2	barge	NN	5	compound	
+5	gid2	punting	NN	2	nmod:for	
+6	a2	the	DT	7	det	
+7	sza3-gal-bi	labor its fodder	NN	2	appos	
+8	7(disz)	_	,	9	nummod	
+9	sila3-ta	sila each	NN	2	_	
+10	6(disz)	_	,	9	nummod	
+11	1/2(disz)	_	_	10	nummod	
+12	u4-sze3	for days	NNS	9	nmod:for	
+13	sze-bi	its barley	NN	9	appos	
+14	1(asz)	_	,	19	nummod	
+15	2(barig)	_	_	14	nummod	
+16	3(ban2)	_	_	14	nummod	
+17	2(disz)	barig ban	NN	19	nummod	
+18	sila3	sila	NN	17	_	
+19	gur	gur	NN	9	_	
+20	a2	labor	NN	19	appos	
+21	lu2	_	:	19	_	
+22	hun-ga2-kam	hirelings	NNS	20	nmod:of	
+23	1(disz)	_	,	24	nummod	
+24	ma2	barge	NN	19	_	
+25	3(u)	_	_	0	nummod	
+26	gur	gur	NN	24	nmod:of	
+27	a2-bi	its labor	NN	24	appos	
+28	6(disz)	_	,	29	nummod	
+29	sila3-ta	sila per	NN	24	_	
+30	1(disz)	_	,	31	nummod	
+31	ma2-lah5	barge captain hireling	NN	28	root	
+32	hun-ga2	_	_	0	_	
+33	a2	_	,	37	_	
+34	sza3-gal-ni	his labor fodder	NN	31	appos	
+35	7(disz)	_	_	0	nummod	
+36	sila3-ta	sila per	NN	34	_	
+37	u4	for days	NNS	44	_	
+38	7(disz)-sze3	_	,	37	nummod	
+39	sze-bi	its barley	NN	37	appos	
+40	1(barig)	_	,	37	nummod	
+41	3(ban2)	_	_	40	nummod	
+42	5(disz)	barig ban	NN	37	nummod	
+43	sila3	sila	NN	42	_	
+44	ugula	foreman	NN	36	nmod:per	
+45	nin-dam	Nindam	NNP	53	compound	
+46	sze	barley	NN	45	appos	
+47	a-sza3	field	NN	46	nmod:of	
+48	nigin6{ki}	Nina	NNP	47	nmod:of	
+49	giri3	via	IN	50	nmod:via	
+50	nam-mah	Namma	NNP	45	nmod:via	
+51	iti	_	:	45	_	
+52	ezem-{d}ba-ba6	Monat Festival Baba	NNP	45	_	
+53	sza3-gal	fodder	NN	44	_	
+54	1(asz)	barig	NN	53	nummod	
+55	4(barig)	_	.	31	nummod	
+56	7(disz)	_	_	55	nummod	
+57	sila3	sila	NN	54	_
+	
+

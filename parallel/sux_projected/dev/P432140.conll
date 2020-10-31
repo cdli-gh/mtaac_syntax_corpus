@@ -1,0 +1,138 @@
+# dev/P432140.atf
+						
+
+# tr.en: from great gate of Elam to border of Susa for king they killed many cattle and killed many sheep All governors of Elam like birds stealing eggs together were themselves taking booty Persons born in Elam At that time like a dog paws having lain at feet Gutarla citizen of Gutium the word of An had not touched Of signs of Enlil there were none at all regarding him For kingship he bathed himself The crown which they had and he carried there For what he had done there the lands of Gutium and Simudar planted troops there in south Tulium the harbor which knew no deep-going boats a fitting thing because of and because of Ur-Namma inof Ur the encouragement of holy Enlil from above Lugalbanda did to men was splitting upward
+1	'.	_	_	0	_	
+2	ig	from	IN	4	nmod:from	
+3	gal	great	JJ	4	amod	
+4	elam-a-ta	gate Elam	NN	12	nmod:from	
+5	'.	_	,	12	_	
+6	za3	border	NN	4	nmod:to	
+7	szuszin{ki}-sze3	to Susa	TO	6	nmod:to	
+8	'.	_	_	0	_	
+9	lugal-ra	for king	NN	12	nmod:for	
+10	'.	_	_	0	_	
+11	gu4	_	_	0	_	
+12	mu-na-gi4-gi4	they killed many cattle	VBD	0	root	
+13	'.	and	CC	12	cc	
+14	udu	sheep	NN	15	dobj	
+15	mu-na-gi4-gi4	killed many	VBD	12	conj	
+16	'.	_	_	0	_	
+17	ensi2-ensi2	governors	NNS	26	nsubj	
+18	elam-a-ke4	All Elam	PDT	17	det:predet	
+19	'.	_	_	0	_	
+20	muszen	birds	NNS	17	nmod:like	
+21	tesz2-bi	like	IN	20	nmod:like	
+22	nunuz	stealing eggs	VBG	20	acl	
+23	zuh-zuh-gin7	together	RB	26	advmod	
+24	'.	_	.	12	_	
+25	ne-ra	were	VBD	26	aux	
+26	ni2-ba	themselves taking	VBG	12	parataxis	
+27	mu-na-ak-ke4	booty	NN	26	dobj	
+28	'.	_	_	0	_	
+29	sag	_	_	0	_	
+30	elam	Persons born in Elam	NNPS	12	_	
+31	u3-tu-da	_	_	0	_	
+32	'.	_	,	30	_	
+33	...	_	_	0	dep	
+34	'.	_	_	0	_	
+35	u4-ba	At that time	IN	30	nmod:at	
+36	...	At that time	DT	30	dep	
+37	'.	_	_	0	_	
+38	ur	like	IN	30	nmod:like	
+39	szu-si	a dog paws	DT	30	det	
+40	...	a dog paws	NN	30	dep	
+41	'.	_	,	43	_	
+42	giri3	_	_	0	_	
+43	a-ba-x-nu2	having lain at feet	VBG	30	acl	
+44	'.	_	,	30	_	
+45	gu2-tar-la2	Gutarla	NNP	43	appos	
+46	dumu	_	_	0	_	
+47	gu-tim-um-ma-ra	citizen Gutium	NN	43	appos	
+48	'.	the	DT	50	det	
+49	inim	_	_	0	_	
+50	an-na-ke4	word An	NN	53	nsubjpass	
+51	'.	_	.	53	_	
+52	szu	_	_	0	_	
+53	nu-mu-ni-ib2-tag	had not touched	VBN	30	acl	
+54	'.	_	_	0	_	
+55	geszkim	Of signs	NNS	59	nmod:of	
+56	{d}en-lil2-la2	Enlil	NN	55	nmod:of	
+57	'.	_	.	30	_	
+58	na-me	there	EX	59	expl	
+59	nu-mu-da-gal2	were none at all regarding him	VBD	53	parataxis	
+60	'.	_	_	0	_	
+61	nam-lugal-sze3	For kingship	NN	30	nmod:for	
+62	'.	_	.	30	_	
+63	a	he	PRP	64	nsubj	
+64	im-ma-tu5	bathed himself	VBD	61	acl:relcl	
+65	'.	_	_	0	_	
+66	aga	crown	NN	30	_	
+67	ba-an	The	DT	66	det	
+68	x	_	_	0	dep	
+69	x-ne2-esz2-a	which they had	VBD	66	acl:relcl	
+70	'.	_	.	12	_	
+71	NE-...	_	_	0	_	
+72	mi-...	_	_	0	_	
+73	'.	_	_	0	_	
+74	u3	and	CC	69	cc	
+75	a-ne	_	_	0	_	
+76	...	_	_	0	dep	
+77	mi-ni-IL2	he carried there	VBD	69	conj	
+78	'.	_	,	87	_	
+79	a-na	For	IN	80	mark	
+80	bi2-in-ak-bi	what he had done there	VBN	87	advcl	
+81	'.	the	DT	82	det	
+82	ma-da	lands	NNS	87	nsubj	
+83	gu-tim-um{ki}	Gutium	NNP	82	nmod:of	
+84	'.	_	_	0	_	
+85	si2-mu-dar{ki}	and Simudar	CC	83	cc	
+86	'.	_	NN	87	nmod:in	
+87	sig-ba	planted	VBD	12	parataxis	
+88	ugnim	troops	NNS	87	dobj	
+89	ki	_	NN	87	dobj	
+90	ba-ni-tag	there in south	RB	87	advmod	
+91	'.	_	,	89	_	
+92	tu-li-um{ki}	Tulium	_	0	_	
+93	'.	the	DT	94	det	
+94	kar	harbor	NN	89	appos	
+95	ma2-gur8	which knew no deep-going	VBD	94	acl:relcl	
+96	nu-zu	boats	NNS	95	dobj	
+97	'.	_	NN	99	_	
+98	me-te	a fitting	DT	99	det	
+99	NI	thing	NN	89	appos	
+100	...	_	_	0	dep	
+101	'.	_	NN	99	nmod:because	
+102	nam-...	because	IN	101	nmod:because	
+103	'.	_	NN	89	conj	
+104	nam	because	IN	103	nmod:because	
+105	...	_	,	103	dep	
+106	su3	and	CC	89	cc	
+107	...	_	_	0	dep	
+108	'.	_	NN	103	appos	
+109	ur-{d}namma	Ur-Namma	NN	108	compound	
+110	...	inof	JJ	111	dep	
+111	uri5{ki}-ma	Ur	NN	108	_	
+112	'.	the	DT	113	det	
+113	zi-sza3-gal2	encouragement	NN	111	_	
+114	(x)	holy	JJ	116	amod	
+115	ku3	_	_	0	_	
+116	{d}en-lil2-la2	Enlil	NN	113	nmod:of	
+117	'.	_	NN	126	nmod:above	
+118	an-ta	from above	IN	126	mark	
+119	...	from above	IN	117	dep	
+120	'.	_	.	12	_	
+121	...	_	_	0	dep	
+122	{d}lugal-banda3{da}	Lugalbanda	NNP	126	compound	
+123	...	_	_	0	dep	
+124	x	_	NN	12	dep	
+125	lu2	_	_	0	_	
+126	mu-szi-ak	did to men	VBD	113	acl	
+127	'.	_	NN	12	_	
+128	...	_	_	0	dep	
+129	im-mi-dar-e	was	VBD	12	cop	
+130	AN	splitting	JJ	12	amod	
+131	gi4	upward	RB	127	advmod	
+132	...	_	_	0	dep
+	
+

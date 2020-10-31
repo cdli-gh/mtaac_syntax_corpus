@@ -1,0 +1,30 @@
+# train/P102333.atf
+						
+
+# tr.en: sheep grain-fed rd grade alum sheep grain-fed rd grade nd day from Abbasaga Szu-Mama accepted month festival of Mekigal Year unuri was destroyed
+1	1(disz)	_	NN	3	nummod	
+2	udu	sheep	_	0	_	
+3	niga	grain-fed	NN	0	root	
+4	3(disz)-kam	_	_	0	nummod	
+5	us2	rd	_	0	_	
+6	1(disz)	_	,	3	nummod	
+7	udu	sheep	NN	24	_	
+8	a-lum	alum	_	0	_	
+9	niga	grain-fed	JJ	7	amod	
+10	3(disz)-kam	_	,	7	nummod	
+11	us2	rd grade	NN	7	appos	
+12	u4	nd day	NN	17	appos	
+13	2(disz)-kam	_	,	17	nummod	
+14	ki	from	IN	16	nmod:from	
+15	ab-ba-sa6-ga-ta	Abbasaga	NNP	16	compound	
+16	szu-ma-ma	Szu-Mama	NNP	17	nmod:from	
+17	i3-dab5	accepted	VBD	7	acl:relcl	
+18	iti	month	NN	17	_	
+19	ezem-me-ki-gal2	festival Mekigal	NN	18	_	
+20	mu	Year	NN	19	_	
+21	hu-uh2-nu-ri{ki}	unuri	NNP	23	nsubjpass	
+22	ba-hul	was destroyed	VBD	23	auxpass	
+23	2(disz)	was destroyed	VBN	19	nummod	
+24	 	_	LS	0	root
+	
+

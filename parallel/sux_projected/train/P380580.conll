@@ -1,0 +1,34 @@
+# train/P380580.atf
+						
+
+# tr.en: gur barley by royal measure its interest shekels of silver too little did Ur-Lamma brewer of Nane receive It is barley on loan harvest will remit debt it is to be replaced month Harvest year after Princess
+1	1(u)	_	,	3	nummod	
+2	6(asz)	_	_	1	nummod	
+3	sze	barley by measure	NN	0	root	
+4	gur	gur	NN	3	compound	
+5	lugal	royal	NN	3	compound	
+6	masz-bi	its interest	NN	3	appos	
+7	2(disz)	_	_	0	nummod	
+8	1/2(disz)	_	_	7	nummod	
+9	gin2	shekels	NNS	17	_	
+10	ku3-babbar	silver	NN	9	nmod:of	
+11	ba-la2	too little	RB	9	advmod	
+12	ur-{d}lamma	did Ur-Lamma	VBD	17	aux	
+13	lu2	_	,	17	_	
+14	lunga	brewer	NN	17	appos	
+15	{d}nansze	Nane	NNP	14	nmod:of	
+16	szu	_	:	17	_	
+17	ba-ti	receive	VBP	3	acl	
+18	sze	barley	NN	17	parataxis	
+19	ur5-ra-kam	It is on loan	PRP	18	nsubj	
+20	buru14	harvest	NN	21	nsubj	
+21	ama-bi	will remit	VB	18	ccomp	
+22	gi4-gi4	debt	NN	21	dobj	
+23	su-su-dam	it is to be replaced	VBZ	17	parataxis	
+24	iti	month	NN	25	compound	
+25	sze-sag11-ku5	Harvest	NNP	17	parataxis	
+26	mu	year	NN	25	_	
+27	dumu-lugal	Princess	NNP	25	_	
+28	us2-sa	after	IN	26	nmod:after
+	
+

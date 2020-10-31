@@ -1,0 +1,33 @@
+# train/P129708.atf
+						
+
+# tr.en: mana shekels less grains silver remainder of account against ubidam trade agent exists it is to be repaid via Ki-tulu scribe and Sipa-inimgina year For rd time Simuurrum was destroyed
+1	2(disz)	_	,	10	nummod	
+2	1/2(disz)	_	_	1	nummod	
+3	ma-na	mana	NN	0	root	
+4	4(disz)	_	_	0	nummod	
+5	gin2	shekels	NNS	3	_	
+6	la2	less	RBR	10	advmod	
+7	1(u)	_	_	6	nummod	
+8	5(disz)	_	_	7	nummod	
+9	sze	grains	NNS	10	compound	
+10	ku3-babbar	silver	NN	15	nsubj	
+11	si-i3-tum	remainder	NN	10	appos	
+12	nig2-ka9-ak	account	NN	11	nmod:of	
+13	hu-bi2-dam	against ubidam	NNP	10	nmod:against	
+14	dam-gar3	trade agent	NN	10	appos	
+15	in-da-gal2	exists	VBZ	5	acl:relcl	
+16	su-su-dam	it is to be repaid	VBZ	3	parataxis	
+17	giri3	via	IN	18	nmod:via	
+18	ki-tusz-lu2	Ki-tulu	NN	27	nmod:via	
+19	dub-sar	scribe	NN	18	appos	
+20	u3	and	CC	19	cc	
+21	sipa-inim-gi-na	Sipa-inimgina	NN	19	conj	
+22	mu	year	NN	27	_	
+23	us2-sa	_	.	3	_	
+24	a-ra2	_	:	22	_	
+25	3(disz)-kam	_	''	3	nummod	
+26	si-mu-ru-um{ki}	Simuurrum	NN	27	nsubjpass	
+27	ba-hul	was destroyed	VBN	16	parataxis
+	
+

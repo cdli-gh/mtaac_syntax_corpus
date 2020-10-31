@@ -1,0 +1,32 @@
+# train/P500720.atf
+						
+
+# tr.en: gur barig barley barley of field Small-marsh -flour labor of female textile workers to Lagash from Lugula high priest of Dumuzi under seal of Lu-Ningirsu via Lu-Utu son of Lugina year lands of Zabali were destroyed
+1	1(u)	_	NN	3	nummod	
+2	1(barig)	barig	NN	1	nummod	
+3	sze	barley	NN	0	root	
+4	gur	gur	NN	3	compound	
+5	sze	barley	_	0	_	
+6	a-sza3	field	NN	1	nmod:of	
+7	ambar-tur	Small-marsh	JJ	1	_	
+8	zi3-KA	-flour workers	JJ	7	_	
+9	a2	labor	NN	7	appos	
+10	geme2	female	JJ	9	amod	
+11	usz-bar	textile	NN	9	compound	
+12	lagasz{ki}-ka-sze3	to Lagash	NNP	7	nmod:to	
+13	ki	from	IN	14	nmod:from	
+14	lu2-gu-la	Lugula	NNP	7	nmod:from	
+15	sanga	_	,	7	_	
+16	{d}dumu-zi-ta	high priest Dumuzi	NN	7	conj	
+17	kiszib3	under seal	NN	7	nmod:under	
+18	lu2-{d}nin-gir2-su	Lu-Ningirsu	NNP	17	nmod:of	
+19	giri3	via	IN	20	nmod:via	
+20	lu2-{d}utu	Lu-Utu	NN	7	nmod:via	
+21	dumu	son	NN	7	appos	
+22	lu2-gi-na	Lugina	NNP	21	nmod:of	
+23	mu	year	NN	3	_	
+24	ma-da	lands	NNS	26	nsubjpass	
+25	za-ab-sza-li	Zabali	NNP	24	nmod:of	
+26	<ba>-hul	were destroyed	VBN	23	acl
+	
+

@@ -1,0 +1,387 @@
+# extract annotations for Sumerian from English Stanford projections
+# mapping to CDLI dependency *labels* is in get-cdli-labels.sparql, to be called afterwards
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# remove IGNORE
+DELETE {
+	?a conll:IGNORE ?b
+} WHERE {
+	?a conll:IGNORE ?b 
+};
+
+# remove *RETOK* tokens
+DELETE {
+	?w ?prop ?word
+} WHERE {
+	?w ?prop ?word.	# conll:WORD
+	filter(contains(?word,"*RETOK*"))
+	#FILTER(?word in ("*RETOK*-_", "*RETOK*-?"))
+};
+
+# remove all ?-valued properties (misalignment)
+DELETE {
+	?x ?y "?"
+} WHERE {
+	?x ?y "?"
+	FILTER(?y != conll:WORD)	# CDLI doesn't provide modern punctuation for Sumerian
+};
+
+# restore full english gloss
+INSERT {
+	?s rdfs:comment ?en
+} WHERE {
+	?s a nif:Sentence.
+	{ SELECT ?s (GROUP_CONCAT(?tr; separator=" ") as ?trans)
+	  WHERE {
+		?s a nif:Sentence. ?w conll:HEAD ?s; conll:ENG ?eng.
+		OPTIONAL { ?w conll:ENG_NORM ?eng_norm }
+		BIND(if(?eng="CARD" && bound(?eng_norm), ?eng_norm, ?eng) AS ?tr)
+		{ SELECT ?w ?lnr ?enr
+		  WHERE {
+			?w conll:LINE ?l; conll:ENG_GIZA ?e. ?w conll:ENG ?tr
+			BIND(xsd:int(?l) as ?lnr)
+			BIND(xsd:int(?e) as ?enr)
+		 } GROUP BY ?w ?lnr ?enr ORDER BY asc(?lnr) asc(?enr)
+		}
+	  } GROUP BY ?s
+	}	
+	BIND(concat(" tr.en: ",?trans) AS ?en)
+};
+
+# create ENG_HEAD as an object property
+DELETE {
+	?w conll:ENG_HEAD ?eh.
+	# ?w conll:ENG_ID ?eid.	# keep in for debugging
+	# ?h conll:ENG_ID ?eh.
+} INSERT {
+	?w conll:ENG_HEAD ?h.
+} WHERE {
+	?w conll:ENG_HEAD ?eh.
+	?w conll:ENG_ID ?eid.
+	?h conll:ENG_ID ?eh.
+	FILTER(?eh != "?")
+};
+
+# remove unresolved ENG_HEAD (=> "0")
+DELETE {
+	?w conll:ENG_HEAD ?eh
+} WHERE {
+	?w conll:ENG_HEAD ?eh.
+	FILTER(isLiteral(?eh))
+};
+
+# ENG_ID may be duplicated if parser performed sentence splitting => multiple HEADs (e.g., in P102524) 
+## should not actually happen if sentence splitting by parser is disabled
+
+# can occur with duplicated IDs
+DELETE {
+	?w conll:ENG_HEAD ?w
+} WHERE {
+	?w conll:ENG_HEAD ?w
+};
+
+# keep the closest head, if equal distance, the preceding one
+DELETE {
+	?w conll:ENG_HEAD ?h1
+} INSERT {
+	?w rdfs:comment ?log
+} WHERE {
+	?w conll:ENG_HEAD ?hpre, ?hpost. FILTER(?hpre!=?hpost)
+	?hpre conll:LINE ?lpre.
+	?hpre nif:nextWord+ ?hpost.
+	?hpost conll:LINE ?lpost.
+	?w conll:LINE ?l.
+	BIND(if(?hpredist > ?hpostdist, ?hpre, ?hpost) AS ?h1)
+	BIND(if(?hpredist > ?hpostdist, concat("delete ",str(?hpre)," with "+str(?hpredist)), concat("delete ",str(?hpost)," with "+str(?hpostdist))) AS ?log)
+};
+	
+# equal distance => reduce multiple preceding heads to the closest
+DELETE {
+	?w conll:ENG_HEAD ?h1.
+} WHERE {
+	?w conll:ENG_HEAD ?h1, ?h2. FILTER(?h1!=?h2)
+	?h1 nif:nextWord+ ?h2.
+	?h2 nif:nextWord+ ?w.
+};
+
+# equal distance => reduce multiple following heads to the closest
+DELETE {
+	?w conll:ENG_HEAD ?h1.
+} WHERE {
+	?w conll:ENG_HEAD ?h1, ?h2. FILTER(?h1!=?h2)
+	?w nif:nextWord+ ?h2.
+	?h2 nif:nextWord+ ?h1.
+}; # afterwards, there is at most one head before and at most one after 
+
+# equal distance => keep the preceding head
+DELETE {
+	?w conll:ENG_HEAD ?hpost
+} WHERE {
+	?w conll:ENG_HEAD ?hpre, ?hpost. FILTER(?hpre!=?hpost)
+	?hpre nif:nextWord+ ?hpost.
+};
+
+# initialize HEAD with ENG_HEAD
+DELETE {
+	?w conll:HEAD ?s
+} INSERT {
+	?w conll:HEAD ?h
+} WHERE {
+	?w conll:HEAD ?s. # ?s a nif:Sentence.
+	?w conll:ENG_HEAD ?h.
+	?h a nif:Word.
+};
+
+# remove punctuations and elements without dependency annotation from alignments
+# except for expressions with dependents
+DELETE {
+	?w conll:SUX_GIZA ?sg
+} WHERE {
+	?w conll:EDGE ?e; conll:SUX_GIZA ?sg
+	FILTER( ?e in ("punct","?"))
+};
+
+# within each alignment, move Sumerian WORD to the English word highest in the tree
+# but only if only one such candidate does exist
+# if this happens, an empty pseudotoken remains as head
+DELETE {
+	?w conll:WORD ?word
+} INSERT {
+	?t conll:WORD ?word
+} WHERE {
+	?w conll:WORD ?word; conll:LINE ?line; conll:SUX_GIZA ?sg; conll:HEAD+ ?t.
+	?t conll:LINE ?line; conll:SUX_GIZA ?sg.
+	MINUS { ?t conll:WORD [] }
+	MINUS { ?t conll:HEAD [ conll:LINE ?line; conll:SUX_GIZA ?sg ] }
+	MINUS {
+		?w conll:WORD []; conll:LINE ?line; conll:SUX_GIZA ?sg; conll:HEAD+ ?t.
+		?v conll:WORD []; conll:LINE ?line; conll:SUX_GIZA ?sg; conll:HEAD+ ?t.
+		?t conll:LINE ?line; conll:SUX_GIZA ?sg.
+		FILTER(?w!=?v)
+	}
+};
+
+# within each alignment, create an English gloss from ENG_NORM
+INSERT {
+	?w conll:GLOSS ?gloss
+} WHERE {
+	{ SELECT ?w (GROUP_CONCAT(?e; separator=" ") AS ?gloss)
+	  WHERE {
+		?w conll:WORD []; conll:LINE ?line; conll:SUX_GIZA ?sg.
+		{ SELECT ?x ?line ?sg ?eg ?e
+		  WHERE {
+			?x conll:LINE ?line; conll:SUX_GIZA ?sg; conll:ENG_GIZA ?eg; conll:ENG ?eng.
+			OPTIONAL { ?x conll:ENG_NORM ?eng_norm }
+			BIND(if(?eng="CARD" && bound(?eng_norm), ?eng_norm, ?eng) AS ?e)
+		  }  ORDER BY ?line ?eg
+		}
+	  } GROUP BY ?w
+	}
+};
+
+# preserve case information of nmods
+DELETE {
+	?w conll:EDGE ?edge
+} INSERT {
+	?w conll:EDGE ?new
+} WHERE {
+	?w conll:EDGE ?edge.
+	FILTER(?edge in ("nmod"))
+	# this iteration is necessary to prevent different adpositions to lead to competing edge labels, e.g.,
+	# P102353 mu-kux(DU)-ra-ta "from among the deliveries" => nmod:from.among
+	{ SELECT ?w (GROUP_CONCAT(?norm; separator=".") AS ?case)
+	  WHERE {
+		?w conll:EDGE ?edge.
+		FILTER(?edge in ("nmod"))
+		{ SELECT ?w ?eid ?norm
+		  WHERE {
+			?w conll:EDGE ?edge.
+			FILTER(?edge in ("nmod"))
+			[ conll:EDGE "case"; conll:ENG_NORM ?norm; conll:ENG_ID ?engid ] conll:HEAD ?w.
+			BIND(xsd:int(?engid) as ?eid)
+		  } GROUP BY ?w ?eid ?norm ORDER BY asc(?eid)
+		}
+	  } GROUP BY ?w
+	}
+	BIND(concat(?edge,':',?case) as ?new)
+};
+
+# move HEAD without Word to next dominating node with Word
+DELETE {
+	?w conll:HEAD ?h
+} INSERT {
+	?w conll:HEAD ?sum
+} WHERE {
+	?w conll:WORD []; conll:HEAD ?h. MINUS { ?h conll:WORD [] }
+	?h conll:HEAD+ ?sum.
+	?sum conll:WORD [].
+	MINUS {
+		?h conll:HEAD+ ?tmp.
+		?tmp conll:HEAD+ ?sum.
+		?tmp conll:WORD []
+	}
+};
+
+# detach alignment errors
+DELETE {
+	?w conll:HEAD ?h.
+	?w conll:EDGE ?edge.
+} INSERT {
+	?w conll:HEAD ?s.
+	?w conll:EDGE "dep".
+} WHERE {
+	?w conll:HEAD ?h.
+	{ ?w conll:EDGE ?e.
+	   FILTER(?e in ("?"))
+	} UNION {
+	  ?w conll:WORD ?word.
+	  FILTER(contains(?word,"*RETOK*"))
+	}
+	?w conll:HEAD+ ?s.
+	?s a nif:Sentence.
+};
+
+# mark everything that does not have a WORD descendant for deletion
+INSERT {
+	?w a terms:DELETE
+} WHERE {
+	?w a nif:Word.
+	MINUS { ?w conll:WORD [] }
+	MINUS { ?w (^conll:HEAD)*/conll:WORD [] }
+};
+
+# case => nmod:$ENG_NORM
+# normally, case should not be head, this is usually an alignment error *with the correct phrase*
+# e.g., P102524
+# s2_123 . . . \ case------- masz2-e              ENG by ENG_HEAD s2_30 ENG_NORM by GLOSS goat by ID 61 LINE 172 NEW_HEAD 16 POS IN SUX_NORM masz2-e
+DELETE {
+	?w conll:EDGE "case"
+} INSERT {
+	?w conll:EDGE ?rel
+} WHERE {
+	?w conll:EDGE "case"; conll:ENG_NORM ?prep.
+	BIND(concat("nmod:",?prep) AS ?rel)
+};
+
+# delete labels that indicate an error
+# punct indicates an alignment error (actually, the attachment is likely wrong, then, as well)
+# dep indicates a parsing error (we use dep differently, for attaching fragments)
+DELETE {
+	?w conll:EDGE ?label
+} WHERE {
+	?w conll:EDGE ?label
+	FILTER(?label in ("punct", "dep"))
+};
+
+# every numeral must be a nummod (according to CDLI guidelines)
+DELETE {
+	?w conll:EDGE ?edge
+} INSERT {
+	?w conll:EDGE "nummod"
+} WHERE {
+	{ ?w conll:ENG "CARD". }UNION { ?w conll:WORD ?word. FILTER(regex(?word,"^[0-9].*")) }
+	OPTIONAL { ?w conll:EDGE ?edge }
+};
+
+# every fragment without a dependent or without a label is a dep
+# if a fragment does have another relation, this is very likely an alignment error
+DELETE {
+	?w conll:EDGE ?edge
+} INSERT {
+	?w conll:EDGE "dep"
+} WHERE {
+	?w conll:WORD ?word.
+	FILTER(regex(?word, "^[\\.\\-x]+$"))
+	{ 	?w conll:WORD ?word. MINUS { [] conll:HEAD ?w }
+		# if it does have a dependent, the structure may be correct (except that a dispreferred head was chosen due to alignment error)
+	} UNION {
+		?w conll:WORD ?word. MINUS { ?w conll:EDGE [] }
+		# assign dep if it doesn't have a dependency label
+	}
+	OPTIONAL { ?w conll:EDGE ?edge }
+};
+
+# in projected phrases
+# a numeral or la2 following another numeral or la2 and 
+# either modifying the same head, 
+# or having no head must modify the preceding numeral
+DELETE {
+	?num2 conll:HEAD ?head2
+} INSERT {
+	?num2 conll:HEAD ?num1
+} WHERE {
+	?num1 conll:WORD ?w1 FILTER(regex(?w1,"^[0-9].*|la2$")). # treat la2 like a numeral
+	?num1 nif:nextWord ?num2; conll:HEAD ?h.
+	?num2 conll:WORD ?w2 FILTER(regex(?w2, "^[0-9].*|la2$")). # treat la2 like a numeral
+	{ ?num2 conll:HEAD ?h } UNION { ?num2 conll:HEAD ?h2. MINUS { ?h2 a nif:Word }}
+	?num2 conll:HEAD ?head2.
+};
+
+# in a complex nummod, all nummod dependents and la2 modify the first nummod
+DELETE {
+	?num3 conll:HEAD ?num2
+} INSERT {
+	?num3 conll:HEAD ?num1
+} WHERE {
+	?num1 conll:EDGE "nummod".
+	MINUS { ?num1 conll:HEAD/conll:EDGE "nummod" }
+	?num1 nif:nextWord+ ?num3.
+	?num3 conll:HEAD ?num2.
+	?num2 conll:HEAD+ ?num1.
+	{ ?num3 conll:EDGE "nummod" } UNION { ?num3 conll:WORD "la2" }
+	MINUS { 
+		?num3 conll:HEAD+ ?tmp. ?tmp conll:HEAD+ ?num1. ?num1 conll:EDGE "nummod". ?num1 nif:nextWord+ ?num3.
+		MINUS { ?tmp conll:EDGE "nummod" }
+	}
+};
+
+# verbal elements that have a HEAD but no dependency label are very likely acl
+INSERT {
+	?verb conll:EDGE "acl"
+} WHERE {
+	?verb conll:POS ?pos; conll:HEAD/a nif:Word.
+	FILTER(strstarts(?pos,"V"))
+	MINUS { ?verb conll:EDGE [] }
+};
+
+# disambiguate "empty" root node => first child within the current alignment window
+# this will generally be correct for nouns, less frequently so for clauses and transactions
+DELETE {
+	?dep conll:HEAD ?root.
+	?first conll:HEAD ?root; conll:EDGE ?fedge.
+} INSERT {
+	?dep conll:HEAD ?first.
+	?first conll:HEAD ?rhead; conll:EDGE ?redge.
+	?root a terms:DELETE.
+} WHERE {
+	?first conll:HEAD ?root; conll:LINE ?line; conll:SUX_GIZA ?sg.
+	?root a nif:Word; conll:HEAD ?rhead; conll:LINE ?line; conll:SUX_GIZA ?sg.
+	MINUS { ?root conll:WORD [] }
+	?dep conll:HEAD ?root. FILTER(?dep!=?first)
+	OPTIONAL { ?first conll:EDGE ?fedge.}
+	OPTIONAL { ?root conll:EDGE ?redge }
+	MINUS { [ conll:HEAD ?root; conll:LINE ?line; conll:SUX_GIZA ?sg ] nif:nextWord+ ?first. }	
+};
+
+# remove ENG_GIZA, SUX_GIZA
+DELETE {
+	?w conll:ENG_GIZA ?eg; conll:SUX_GIZA ?sg
+} WHERE {
+	?w conll:ENG_GIZA ?eg; conll:SUX_GIZA ?sg
+};
+
+# non-linguistic fixes
+## to suppress warning in -grammar
+INSERT {
+	?w conll:WORD " "
+} WHERE {
+	?w a nif:Word. MINUS { ?w conll:WORD [] }
+};

@@ -1,0 +1,40 @@
+# train/P235696.atf
+						
+
+# tr.en: grain-fed sheep kitchen on account of Gunda Hurtian when he came from Hurti Conveyer Itrak-ili messenger Szuru-kin general was guarantor The th day of month has passed Booked out of Szulgi-aamu nd great festival month year Enmahgalanna was installed as priestess of Nanna
+1	2(disz)	_	,	4	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	grain-fed	JJ	2	amod	
+4	e2-muhaldim	kitchen	NN	2	_	
+5	mu	_	,	8	_	
+6	gu-un-da	on account	NN	4	nmod:on	
+7	lu2	_	_	0	_	
+8	hu-ur5-ti{ki}-sze3	Gunda Hurtian	NNP	6	nmod:of	
+9	u4	_	.	8	_	
+10	hu-ur5-ti{ki}-ta	when he	WRB	11	advmod	
+11	i3-im-gen-na-a	came from Hurti	VBD	8	acl:relcl	
+12	giri3	_	.	14	_	
+13	it-ra-ak-i3-li2	Conveyer Itrak-ili	NNP	8	_	
+14	sukkal	messenger	NN	15	appos	
+15	szu-ru-usz-ki-in	Szuru-kin guarantor	NN	13	parataxis	
+16	szagina	general	JJ	14	appos	
+17	maszkim	was	VBD	15	cop	
+18	iti	month	NN	19	nmod:of	
+19	u4	th day	NN	22	nsubj	
+20	2(u)	_	.	22	nummod	
+21	4(disz)	_	_	20	nummod	
+22	ba-zal	The has passed	VBN	15	parataxis	
+23	ki	_	``	24	_	
+24	{d}szul-gi-a-a-mu-ta	Booked Szulgi-aamu	VBN	22	conj	
+25	ba-zi	out	IN	24	nmod:out	
+26	iti	month	NN	29	compound	
+27	ezem-mah	nd great festival	NN	22	parataxis	
+28	2(disz)-kam	_	_	0	nummod	
+29	mu	year	NN	27	_	
+30	en-mah-gal-an-na	Enmahgalanna as	NNP	34	nsubjpass	
+31	en	priestess	NN	34	nmod:as	
+32	{d}nanna	Nanna	NNP	31	nmod:of	
+33	ba-hun	was installed	VBD	34	auxpass	
+34	2(disz)	was installed	VBN	27	nummod
+	
+

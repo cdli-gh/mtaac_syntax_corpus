@@ -1,0 +1,22 @@
+# test/P458389.atf
+						
+
+# tr.en: Sz-Suen beloved of Enlil king of four corners king of Ur son of Lugal-melam governor of Nippur is your servant
+1	{d}szu-{d}suen	Sz-Suen	NNP	0	root	
+2	ki-ag2	beloved	JJ	1	amod	
+3	{d}en-lil2-la2	Enlil	NNP	2	nmod:of	
+4	lugal	king	NN	1	appos	
+5	an	four	CD	7	nummod	
+6	ub-da	_	:	1	_	
+7	limmu2-ba	corners	NNS	4	nmod:of	
+8	lugal	king	NN	1	_	
+9	uri5{ki}-ma	Ur	NN	8	nmod:of	
+10	...	_	IN	9	dep	
+11	...	_	_	0	dep	
+12	dumu	son	NN	16	nsubj	
+13	lugal-me-lam2	Lugal-melam	NN	12	nmod:of	
+14	ensi2	governor	NN	12	appos	
+15	nibru{ki}	Nippur	NNP	14	nmod:of	
+16	ARAD2-zu	is your servant	NN	8	_
+	
+

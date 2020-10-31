@@ -1,0 +1,29 @@
+# train/P459080.atf
+						
+
+# tr.en: sheep th day from Abba-saga Nalu accepted month ubi-feast year Enunugal of Inanna of Uruk was installed
+1	1(u)	_	,	4	nummod	
+2	la2	_	_	1	_	
+3	1(disz@t)	_	_	2	nummod	
+4	udu	sheep	NN	0	root	
+5	u4	th day	NN	4	appos	
+6	2(u)	_	,	4	nummod	
+7	8(disz)-kam	_	_	6	nummod	
+8	ki	from	IN	9	nmod:from	
+9	ab-ba-sa6-ga-ta	Abba-saga	NN	4	nmod:from	
+10	na-lu5	Nalu	NNP	11	nsubj	
+11	i3-dab5	accepted	VBD	4	acl:relcl	
+12	iti	month	NN	13	_	
+13	u5-bi2-gu7	ubi-feast	JJ	4	_	
+14	mu	year	NN	13	_	
+15	en-unu6-gal	Enunugal	NNP	19	nsubjpass	
+16	{d}inanna	Inanna	NNP	15	nmod:of	
+17	unu{ki}-ga	Uruk	NNP	16	nmod:of	
+18	ba-hun	was installed	VBD	19	auxpass	
+19	1(u)	was installed	VBN	13	nummod	
+20	 	_	NN	0	root	
+21	 	_	.	20	_	
+22	la2	_	_	0	_	
+23	1(disz@t)	_	,	21	nummod
+	
+

@@ -1,0 +1,70 @@
+# train/P416401.atf
+						
+
+# tr.en: ee land for harrowing workers each hoeing sar Lu-Utu plot manager ee land for harrowing workers each hoeing sar Nimgir-edu plot manager ee land for harrowing workers each hoeing sar Engar-zi plot manager ee land for harrowing workers each hoeing sar Szara-mutum plot manager ee land for harrowing workers each hoeing sar Bala plot manager field Menkar inspection on th day month Sowing year unuri was destroyed
+1	1(esze3)	_	,	3	nummod	
+2	GAN2	ee	NN	3	compound	
+3	gesz-ur3-ra	land for harrowing	NN	0	root	
+4	1(gesz2)	_	,	8	nummod	
+5	gurusz	workers	NNS	1	root	
+6	al	hoeing	NN	8	compound	
+7	5(disz)	each	DT	8	nummod	
+8	sar-ta	sar	NN	5	_	
+9	lu2-{d}utu	Lu-Utu plot	NN	8	appos	
+10	engar	manager	NN	8	appos	
+11	1(esze3)	_	,	13	nummod	
+12	GAN2	ee	NN	14	compound	
+13	gesz	for	IN	14	_	
+14	ur3-ra	land harrowing	NN	8	_	
+15	1(gesz2)	_	_	0	nummod	
+16	gurusz	workers	NNS	11	root	
+17	al	hoeing	NN	20	compound	
+18	5(disz)	each	DT	20	nummod	
+19	sar-ta	sar	NN	20	compound	
+20	nimgir-he2-du7	Nimgir-edu plot	NN	16	_	
+21	engar	manager	NN	16	appos	
+22	1(esze3)	_	,	24	nummod	
+23	GAN2	ee	NN	25	compound	
+24	gesz	for	IN	25	_	
+25	ur3-ra	land harrowing	NN	16	_	
+26	1(gesz2)	_	,	30	nummod	
+27	gurusz	workers	NNS	22	root	
+28	al	hoeing	NN	30	compound	
+29	5(disz)	each	DT	30	nummod	
+30	sar-ta	sar	NN	27	_	
+31	engar-zi	Engar-zi plot	NN	30	appos	
+32	engar	manager	NN	30	appos	
+33	1(esze3)	_	,	35	nummod	
+34	GAN2	ee	NN	36	compound	
+35	gesz	for	IN	36	_	
+36	ur3-ra	land harrowing	NN	30	_	
+37	1(gesz2)	_	,	41	nummod	
+38	gurusz	workers	NNS	33	root	
+39	al	hoeing	NN	41	compound	
+40	5(disz)	each	DT	41	nummod	
+41	sar-ta	sar	NN	38	_	
+42	{d}szara2-mu-tum2	Szara-mutum plot	NN	41	appos	
+43	engar	manager	NN	41	appos	
+44	1(esze3)	_	,	46	nummod	
+45	GAN2	ee	NN	47	compound	
+46	gesz	for	IN	47	_	
+47	ur3-ra	land harrowing	NN	41	_	
+48	1(gesz2)	_	,	49	nummod	
+49	gurusz	workers	NNS	44	root	
+50	al	hoeing	NN	52	compound	
+51	5(disz)	each	DT	52	nummod	
+52	sar-ta	sar	NN	49	_	
+53	ba-la	Bala plot	NNP	54	compound	
+54	engar	manager	NN	49	appos	
+55	a-sza3	field	NN	56	compound	
+56	me-en-kar2	Menkar	NNP	49	_	
+57	gurum2	inspection on	NN	56	_	
+58	u4	th day	NN	57	nmod:on	
+59	6(disz)-kam	_	:	49	nummod	
+60	iti	month	NN	61	_	
+61	szu-numun	Sowing	NN	49	_	
+62	mu	year	NN	61	_	
+63	hu-hu-nu-ri{ki}	unuri	NNP	64	nsubjpass	
+64	ba-hul	was destroyed	VBN	61	acl
+	
+

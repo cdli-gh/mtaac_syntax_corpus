@@ -1,0 +1,29 @@
+# train/P482086.atf
+						
+
+# tr.en: Ebarad king of Anshan and Susa Silaa Grand-Regent Addau Anshan and Susa did Addauu Regent and in Susa son of sister of Silaa the house of build
+1	e-ba-ra-ad	Ebarad	NNP	0	root	
+2	lugal	king	NN	1	appos	
+3	an-sza-an	Anshan	NNP	2	nmod:of	
+4	u3	and	CC	3	cc	
+5	szuszin	Susa	NNP	3	conj	
+6	si-il-ha-ha	Silaa	NNP	7	compound	
+7	sukkal-mah	Grand-Regent	NNP	12	nsubj	
+8	ad-da-szu-x	Addau	NNP	9	compound	
+9	an-sza-an	Anshan	NNP	7	conj	
+10	u3	and	CC	7	cc	
+11	szuszin-am3	Susa	NNP	7	conj	
+12	ad-da-hu-szu	did Addauu	VBD	1	appos	
+13	sukkal	_	,	17	_	
+14	u3	_	_	0	_	
+15	ip-pi2-ir	Regent and	NNP	12	dobj	
+16	sza3	in	IN	17	nmod:in	
+17	szuszin	Susa	NNP	15	nmod:in	
+18	dumu	son	NN	17	appos	
+19	nin9	sister	NN	18	nmod:of	
+20	si-il-ha-ha	Silaa	NNP	19	nmod:of	
+21	e2	house	NN	23	nsubj	
+22	{d}|ENxKUR|	the	DT	21	det	
+23	mu-du3	build	VBP	19	acl:relcl
+	
+

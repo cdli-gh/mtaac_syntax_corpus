@@ -1,0 +1,28 @@
+# train/P110083.atf
+						
+
+# tr.en: shekels grains silver deficit repaid from Ur-Ningal son of Erinda into palace brought via Ur-Lamma month Harvest year after Amar-Suen king
+1	2(disz)	_	,	6	nummod	
+2	gin2	shekels	NNS	0	root	
+3	igi-3(disz)-gal2	_	_	0	_	
+4	1(u)	_	_	0	nummod	
+5	sze	grains	NNS	6	compound	
+6	ku3-babbar	silver	NN	2	_	
+7	la2-ia3	deficit	NN	6	appos	
+8	su-ga	repaid	VBN	6	acl	
+9	ki	from	IN	11	nmod:from	
+10	ur-{d}nun-gal	Ur-Ningal	JJ	11	amod	
+11	dumu	son	NN	6	nmod:from	
+12	erin-da-ta	Erinda	NNP	11	nmod:of	
+13	e2-gal-la	into	IN	14	nmod:into	
+14	ba-an-kux(KWU147)	palace brought	NN	6	nmod:into	
+15	giri3	via	IN	16	nmod:via	
+16	ur-{d}lamma	Ur-Lamma	NNP	6	nmod:via	
+17	iti	month	NN	18	compound	
+18	szu-numun	Harvest	NNP	2	_	
+19	mu	year	NN	18	advmod	
+20	us2-sa	after	IN	19	nmod:after	
+21	{d}amar-{d}suen	Amar-Suen	JJ	22	amod	
+22	lugal	king	NN	18	_
+	
+

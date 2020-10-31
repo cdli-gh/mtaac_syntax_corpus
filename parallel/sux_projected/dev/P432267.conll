@@ -1,0 +1,25 @@
+# dev/P432267.atf
+						
+
+# tr.en: Amar-Suena the mighty king king of Ur and king of four world quarters the place of watch in Ur he built for him This place of watch Amar-Suena Is Beloved of Nanna is its name
+1	{d}amar-{d}suen	Amar-Suena	NNP	0	root	
+2	lugal	king	NN	1	appos	
+3	kal-ga	the mighty	DT	2	det	
+4	lugal	king	NN	1	appos	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	4	conj	
+7	an	four	CD	6	nummod	
+8	ub-da	world	NN	6	compound	
+9	limmu2-ba-ke4	and quarters	CC	4	cc	
+10	ki	_	_	0	_	
+11	en-nu-ga2	the place watch in	NN	1	appos	
+12	uri5{ki}-ma	Ur	NN	11	nmod:in	
+13	mu-na-du3	he built for him	VBD	11	acl:relcl	
+14	ki	_	:	1	_	
+15	en-nu-ga2-ba	This place watch	NN	1	_	
+16	{d}amar-{d}suen	Amar-Suena	NNP	17	nsubj	
+17	ki-ag2	Is Beloved	NNP	19	csubj	
+18	{d}nanna	Nanna	NNP	17	nmod:of	
+19	mu-bi-im	is its name	NN	1	_
+	
+

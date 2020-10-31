@@ -1,0 +1,21 @@
+# train/P339740.atf
+						
+
+# tr.en: Basket-of-tablets credits of barley are here from month Festival-of-Amar-Suen th day passed year Amar-Suen king Szaurum destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	zi-ga	credits	NNS	4	nsubj	
+3	sze	barley	NN	2	nmod:of	
+4	i3-gal2	are here	RB	1	_	
+5	iti	month	NN	10	nmod:from	
+6	ezem-{d}amar-{d}suen-ta	from Festival-of-Amar-Suen	IN	5	nmod:from	
+7	u4	day	NN	10	nmod:tmod	
+8	2(u)	_	,	10	nummod	
+9	4(disz)-am3	_	_	8	nummod	
+10	ba-ra-zal-la-ta	passed	VBD	4	parataxis	
+11	mu	year	NN	10	_	
+12	{d}amar-{d}suen	Amar-Suen	NNP	4	_	
+13	lugal-e	king	NN	12	appos	
+14	sza-asz-szu2-ru-um{ki}	Szaurum	NN	15	nsubj	
+15	mu-hul-ta	destroyed	VBD	12	acl:relcl
+	
+

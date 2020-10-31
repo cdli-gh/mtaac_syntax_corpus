@@ -1,0 +1,20 @@
+# train/P432319.atf
+						
+
+# tr.en: king of Ur and king of four world quarters the man who temple of Ulmatum
+1	'.	_	_	0	_	
+2	lugal	king	NN	0	root	
+3	uri5{ki}-ma	Ur	NN	2	nmod:of	
+4	'.	and	CC	3	cc	
+5	lugal	king	NN	3	conj	
+6	an	four	CD	8	nummod	
+7	ub-da	world	NN	8	compound	
+8	limmu2-ba	quarters	NNS	3	nmod:of	
+9	'.	the	DT	10	det	
+10	lu2	man	NN	14	root	
+11	e2	_	NN	12	nmod:of	
+12	{d}ul-ma-szi-tum-ma	who temple Ulmatum	WP	10	acl	
+13	 	_	NN	0	root	
+14	 	_	,	13	_
+	
+

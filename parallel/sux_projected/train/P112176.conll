@@ -1,0 +1,22 @@
+# train/P112176.atf
+						
+
+# tr.en: male laborer work days food transported from Lu-Utu under seal of Ur-Szara that of bala year unuri was destroyed
+1	2(u)	_	,	7	nummod	
+2	2(disz)	_	_	1	nummod	
+3	gurusz	male laborer work	JJ	4	amod	
+4	u4	days	NNS	7	nmod:tmod	
+5	1(disz)-sze3	_	_	0	nummod	
+6	u2	food	NN	7	nsubj	
+7	ga6-ga2	transported	VBD	0	root	
+8	ki	from	IN	9	nmod:from	
+9	lu2-{d}utu-ta	Lu-Utu	NN	7	nmod:from	
+10	kiszib3	under seal	NN	7	nmod:under	
+11	ur-{d}szara2	Ur-Szara	NNP	10	nmod:of	
+12	sza3	_	:	13	_	
+13	bala-a	that bala	IN	16	_	
+14	mu	year	NN	16	_	
+15	hu-uh2-nu-ri{ki}	unuri	NNP	16	nsubjpass	
+16	ba-hul	was destroyed	VBN	7	parataxis
+	
+

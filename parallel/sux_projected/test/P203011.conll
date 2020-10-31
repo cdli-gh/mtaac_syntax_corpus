@@ -1,0 +1,25 @@
+# test/P203011.atf
+						
+
+# tr.en: Basket-of-tablets house of house of house of house of house of house of house of house of and property of Ur-Lamma year
+1	pisan-dub-ba	Basket-of-tablets	_	0	_	
+2	gu2	_	_	0	_	
+3	bi-tum	_	_	0	_	
+4	e2	house	NN	19	_	
+5	e2	house	NN	4	nmod:of	
+6	e2	house	NN	5	nmod:of	
+7	e2	house	NN	6	nmod:of	
+8	e2	house	NN	7	nmod:of	
+9	e2	house	NN	8	nmod:of	
+10	e2	house	NN	9	nmod:of	
+11	e2	house	NN	10	nmod:of	
+12	u3	and	CC	11	cc	
+13	nig2-gal2-la	property	NN	11	conj	
+14	x	_	_	0	dep	
+15	x	_	_	0	dep	
+16	x	_	_	0	dep	
+17	ur-{d}lamma	Ur-Lamma	NN	18	compound	
+18	mu	year	NN	11	nmod:of	
+19	 	_	NN	0	root
+	
+

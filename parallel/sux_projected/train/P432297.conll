@@ -1,0 +1,20 @@
+# train/P432297.atf
+						
+
+# tr.en: then king whom Enlil as beloved in heart did choose the strong king king of Ur
+1	'.	_	_	0	_	
+2	lugal	king	NN	0	root	
+3	{d}en-lil2-le	then whom Enlil	RB	2	advmod	
+4	'.	_	_	0	_	
+5	ki-ag2	as beloved	JJ	8	acl	
+6	sza3-ga-na	in heart	NN	5	nmod:in	
+7	'.	_	,	2	_	
+8	in-pa3	did choose	VB	2	acl:relcl	
+9	'.	the	DT	10	det	
+10	lugal	king	NN	7	root	
+11	kal-ga	strong	JJ	10	amod	
+12	'.	_	,	10	_	
+13	lugal	king	NN	10	appos	
+14	uri5{ki}-ma	Ur	NN	13	nmod:of
+	
+

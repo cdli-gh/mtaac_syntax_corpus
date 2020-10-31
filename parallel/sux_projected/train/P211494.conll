@@ -1,0 +1,27 @@
+# train/P211494.atf
+						
+
+# tr.en: Basket-of-tablets sealed documents daba labor of troops of Ipae oxen manager months are here from month Bricks set in molds to month Dumuzi year Sz-Suen king lands of Zabali destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	kiszib3	sealed	VBN	3	amod	
+3	dab-ba	documents	NNS	5	nsubj	
+4	a2	labor	NN	5	conj	
+5	erin2-na-ka	daba troops	VBP	1	acl	
+6	i7-pa-e3	Ipae	NN	5	conj	
+7	nu-banda3-gu4	oxen manager	NN	5	conj	
+8	iti	months	NNS	5	nmod:tmod	
+9	1(u)	_	,	5	nummod	
+10	1(disz)-kam	_	_	9	nummod	
+11	i3-gal2	are here	RB	5	advmod	
+12	iti	month	NN	5	nmod:from	
+13	sig4-{gesz}i3-szub-ba-gar-ra-ta	from Bricks set in molds	IN	12	nmod:from	
+14	iti	month	NN	12	nmod:to	
+15	{d}dumu-zi-sze3	to Dumuzi	TO	14	nmod:to	
+16	mu	year	NN	14	_	
+17	{d}szu-{d}suen	Sz-Suen	NNP	14	_	
+18	lugal-e	king	NN	17	appos	
+19	ma-da	lands	NNS	21	nsubj	
+20	za-ab-sza-li{ki}	Zabali	NN	19	nmod:of	
+21	mu-hul	destroyed	VBD	17	acl:relcl
+	
+

@@ -1,0 +1,35 @@
+# train/P103956.atf
+						
+
+# tr.en: After harvest the oil deficit Ai-tb declared I will replace it He swore by royal name If he has not replaced it it is a capital crime one Inim-Inanna-e one Lugal-itida one Lu-gina one Ur-saga one Ur-kununa are witnesses month Harvest year Urbilum was destroyed
+1	egir	_	NN	6	nmod:after	
+2	buru14-sze3	After harvest	IN	1	nmod:after	
+3	la2-ia3	the deficit	DT	5	det	
+4	i3	oil	NN	5	compound	
+5	a-hi-t,a-be2	Ai-tb	NN	6	nsubj	
+6	ga-ab-su	declared will replace	VBD	0	root	
+7	bi2-in-du11	_	.	6	_	
+8	mu	_	:	6	_	
+9	lugal-bi	He swore by royal name	VBD	6	parataxis	
+10	in-pa3	_	_	0	_	
+11	tukum-bi	If	IN	12	mark	
+12	nu-un-su	he has not replaced it	VBN	13	advcl	
+13	szer7-da-am3	it is a capital crime	NN	6	parataxis	
+14	1(disz)	_	,	15	nummod	
+15	inim-{d}inanna-sze3	one Inim-Inanna-e	NNP	24	nsubj	
+16	1(disz)	_	,	15	nummod	
+17	lugal-iti-da	one Lugal-itida	NN	15	appos	
+18	1(disz)	_	,	15	nummod	
+19	lu2-gi-na	one Lu-gina	NN	15	appos	
+20	1(disz)	_	,	15	nummod	
+21	ur-sa6-ga	one Ur-saga	NN	15	appos	
+22	1(disz)	_	,	15	nummod	
+23	ur-ku3-nun-na	one Ur-kununa	NN	15	appos	
+24	lu2-inim-ma-bi-me	are witnesses	NNS	13	parataxis	
+25	iti	month	NN	26	compound	
+26	sze-sag11-ku5	Harvest	NNP	13	parataxis	
+27	mu	year	NN	29	nmod:tmod	
+28	ur-bi2-lum{ki}	Urbilum	NN	29	nsubjpass	
+29	ba-hul	was destroyed	VBN	26	acl
+	
+

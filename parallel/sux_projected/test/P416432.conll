@@ -1,0 +1,44 @@
+# test/P416432.atf
+						
+
+# tr.en: oxen barley-fed cows barley-fed oxen cows male mules n male equids as consignment from Nasa month Festival of An day elapsed year Hari and Kima were destroyed
+1	1(gesz2)	_	,	5	nummod	
+2	2(u)	_	_	1	nummod	
+3	la2	_	_	1	_	
+4	1(disz@t)	_	_	3	nummod	
+5	gu4	oxen	NN	0	root	
+6	niga	barley-fed	_	0	_	
+7	7(gesz2)	_	,	5	nummod	
+8	ab2	cows	_	0	_	
+9	niga	barley-fed	JJ	5	amod	
+10	5(gesz2)	_	,	12	nummod	
+11	1(disz)	_	CD	16	nummod	
+12	gu4	oxen	NN	5	appos	
+13	6(gesz2)	_	,	12	nummod	
+14	4(u)	_	CD	18	nummod	
+15	7(disz)	_	_	14	nummod	
+16	ab2	cows	NNS	12	conj	
+17	1(gesz2)	_	_	0	nummod	
+18	{ansze}kunga2-nita2	male mules	NNS	12	conj	
+19	n	_	,	12	_	
+20	2(disz)	_	,	12	nummod	
+21	dusu2-nita2	male equids	NNS	12	conj	
+22	'.	_	,	12	_	
+23	szu-szum2-ma	as consignment	NN	12	nmod:as	
+24	'.	_	:	5	_	
+25	ki	from	IN	26	nmod:from	
+26	na-sa6	Nasa	NNP	12	nmod:from	
+27	'.	_	:	5	_	
+28	iti	month	NN	30	compound	
+29	ezem-an-na	Festival	NNP	30	nsubj	
+30	u4	day	NN	5	_	
+31	3(u)	_	_	0	nummod	
+32	ba-zal	elapsed	VBN	30	acl	
+33	'.	_	.	5	_	
+34	mu	year	NN	38	_	
+35	ha-ar-szi{ki}	_	:	38	_	
+36	u3	and	CC	38	cc	
+37	ki-masz{ki}	Kima	NNP	38	conj	
+38	ba-hul	were destroyed	VBN	5	parataxis
+	
+

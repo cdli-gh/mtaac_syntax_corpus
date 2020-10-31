@@ -1,0 +1,66 @@
+# train/P111567.atf
+						
+
+# tr.en: less female laborers from month musudu to month Grain-carried year Ibbi-Suen king female laborers from month GANma to month Festival of Baba year high-priest of Inanna with extispicy was named the labor workdays female laborers account of labor of female laborers Lu-Ningirsu son of Ur-Nane of months year high-priest of Inanna with extispicy was named
+1	3(gesz2)	_	,	4	nummod	
+2	la2	less	JJR	35	advmod	
+3	1/2(disz)	_	_	2	nummod	
+4	geme2	female laborers	NNS	0	root	
+5	iti	month	NN	4	nmod:from	
+6	mu-szu-du7-ta	from musudu	IN	5	nmod:from	
+7	iti	month	NN	4	nmod:to	
+8	sze-il2-la-sze3	to Grain-carried	TO	7	nmod:to	
+9	mu	year	NN	4	_	
+10	{d}i-bi2-{d}suen	Ibbi-Suen	JJ	11	amod	
+11	lugal	king	NN	4	_	
+12	2(gesz2)	_	,	4	nummod	
+13	5(u)	_	_	12	nummod	
+14	1(disz)	_	_	12	nummod	
+15	geme2	female laborers	NNS	4	_	
+16	iti	month	NN	4	nmod:from	
+17	GAN2-masz-ta	from GANma	IN	16	nmod:from	
+18	iti	month	NN	4	nmod:to	
+19	ezem-{d}ba-ba6-sze3	to Festival Baba	TO	18	nmod:to	
+20	mu	year	NN	4	_	
+21	en	high-priest	NN	24	nsubjpass	
+22	{d}inanna	Inanna	NNP	21	nmod:of	
+23	unu{ki}	with	IN	25	nmod:with	
+24	masz2-e	named	VBN	4	ccomp	
+25	i3-pa3	extispicy was	NN	21	nmod:with	
+26	a2-bi	the labor	DT	27	det	
+27	1(szar'u)	the labor	NN	24	nummod	
+28	7(szar2)	_	_	27	nummod	
+29	2(gesz'u)	_	_	27	nummod	
+30	3(gesz2)	_	_	0	nummod	
+31	geme2	female laborers	NNS	32	appos	
+32	u4	workdays	NNS	27	_	
+33	1(disz)-sze3	_	_	0	nummod	
+34	 	_	NN	0	root	
+35	 	_	NN	34	appos	
+36	'.	_	NN	47	compound	
+37	zi	_	_	0	_	
+38	...	_	_	0	dep	
+39	'.	_	_	0	_	
+40	nig2-ka9-ak	account	NN	32	_	
+41	a2	labor	NN	40	nmod:of	
+42	geme2	female laborers	JJ	47	amod	
+43	(x)	_	_	0	_	
+44	ki	_	_	0	_	
+45	(x)	_	_	0	_	
+46	'.	_	:	32	_	
+47	lu2-{d}nin-gir2-su	Lu-Ningirsu	NNP	41	nmod:of	
+48	dumu	son	NN	47	appos	
+49	ur-{d}nansze	Ur-Nane	NNP	48	nmod:of	
+50	'.	_	,	51	_	
+51	iti	months	NNS	32	nmod:of	
+52	1(u)	_	_	0	nummod	
+53	2(disz)-kam	_	_	52	nummod	
+54	'.	_	.	4	_	
+55	mu	year	NN	51	appos	
+56	en	high-priest	NN	59	nsubjpass	
+57	{d}inanna	Inanna	NNP	56	nmod:of	
+58	unu{ki}-ga	with	IN	60	nmod:with	
+59	masz2-e	named	VBN	32	acl	
+60	i3-pa3	extispicy was	NN	56	nmod:with
+	
+

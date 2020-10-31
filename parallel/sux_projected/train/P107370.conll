@@ -1,0 +1,29 @@
+# train/P107370.atf
+						
+
+# tr.en: Basket-of-tablets sealed documents of conveyances of Lugal-mea year chair of Enlil was fashioned and year Enmagalana was installed and sealed documents of conveyances of Aian years from year Chair to year Szaru are here
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	kiszib3	sealed	VBN	3	amod	
+3	dabx(U8)-ba	documents	NNS	1	_	
+4	lugal-me-a	conveyances Lugal-mea	NNS	3	nmod:of	
+5	mu	year	NN	4	_	
+6	gu-za	chair	NN	8	nsubjpass	
+7	{d}en-lil2-la2	Enlil	NNP	6	nmod:of	
+8	ba-dim2	was fashioned	VBN	5	acl	
+9	u3	and	CC	8	cc	
+10	mu	year	NN	8	conj	
+11	en-mah-gal-an-na	Enmagalana	NNP	12	nsubjpass	
+12	ba-hun	was installed	VBN	10	acl	
+13	u3	and	CC	12	cc	
+14	kiszib3	sealed documents	NNS	12	conj	
+15	dabx(U8)-ba	conveyances	NNS	14	nmod:of	
+16	a-szi-an	_	,	15	_	
+17	mu	years	NNS	15	appos	
+18	5(disz)-kam	_	:	12	nummod	
+19	mu	year	NN	12	nmod:from	
+20	gu-za-ta	from	IN	19	nmod:from	
+21	mu	year	NN	19	nmod:to	
+22	sza-asz-ru{ki}-sze3	to Szaru	TO	21	nmod:to	
+23	i3-gal2	are here	RB	8	parataxis
+	
+

@@ -1,0 +1,16 @@
+# test/P432114.atf
+						
+
+# tr.en: For Nanna his master Ur-Namma king of Ur his temple he built for him and walls of Ur he built for him
+1	{d}nanna	For Nanna	IN	2	nmod:for	
+2	lugal-a-ni	his master	NN	0	root	
+3	ur-{d}namma	Ur-Namma	NN	2	root	
+4	lugal	king	NN	3	root	
+5	uri5{ki}-ma-ke4	Ur	NN	4	nmod:of	
+6	e2-a-ni	his temple	NN	4	root	
+7	mu-na-du3	he built for him	VBD	6	acl:relcl	
+8	bad3	and walls	CC	6	cc	
+9	uri5{ki}-ma	Ur	NN	6	nmod:of	
+10	mu-na-du3	he built for him	VBD	9	acl:relcl
+	
+

@@ -1,0 +1,23 @@
+# dev/P424392.atf
+						
+
+# tr.en: adara-nanny slaughtered on th day from Ludingira Szulgi-irimu received month Festival of Ninazu year Szaru was destroyed
+1	1(disz)	_	,	3	nummod	
+2	ud5	_	_	0	_	
+3	a-dara4	adara-nanny	NN	12	nsubj	
+4	ba-usz2	slaughtered	VBN	3	acl	
+5	u4	on th day	NN	3	nmod:on	
+6	2(u)	_	,	3	nummod	
+7	8(disz)-kam	_	_	6	nummod	
+8	ki	from	IN	10	nmod:from	
+9	lu2-dingir-ra	Ludingira	NNP	10	compound	
+10	{d}szul-gi-iri-mu	Szulgi-irimu	NN	3	nmod:from	
+11	szu	_	:	12	_	
+12	ba-ti	received	VBD	0	root	
+13	iti	month	NN	15	compound	
+14	ezem-{d}nin-a-zu	Festival Ninazu	NNP	13	_	
+15	mu	year	NN	12	_	
+16	sza-asz-ru{ki}	_	``	15	_	
+17	ba-hul	was destroyed	VBN	15	acl
+	
+

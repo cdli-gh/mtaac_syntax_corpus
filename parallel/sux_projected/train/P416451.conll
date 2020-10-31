@@ -1,0 +1,25 @@
+# train/P416451.atf
+						
+
+# tr.en: n suckling male equids suckling female equid newborns via Bululu delivery Nasa accepted year urti and ari were destroyed
+1	n	n	CD	2	nummod	
+2	dusu2-nita2	male equids	NNS	0	root	
+3	amar	_	,	2	_	
+4	ga	suckling	VBG	2	amod	
+5	1(disz)	_	,	6	nummod	
+6	dusu2-munus	female equid	JJ	8	amod	
+7	amar	_	_	0	_	
+8	ga	suckling	NN	2	_	
+9	u3-tu-da	newborns	NNS	6	appos	
+10	giri3	via	IN	11	nmod:via	
+11	bu3-lu5-lu5	Bululu	NNP	6	nmod:via	
+12	mu-kux(DU)	delivery	NN	11	conj	
+13	na-sa6	Nasa	NNP	14	nsubj	
+14	i3-dab5	accepted	VBD	11	acl:relcl	
+15	mu	year	NN	14	nmod:tmod	
+16	hu-ur5-ti{ki}	_	``	6	_	
+17	u3	and	CC	19	cc	
+18	ha-ar-szi{ki}	ari	NNP	19	conj	
+19	ba-hul	were destroyed	VBN	6	ccomp
+	
+

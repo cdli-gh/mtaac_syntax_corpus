@@ -1,0 +1,32 @@
+# train/P102968.atf
+						
+
+# tr.en: sheep Szimagi buck goats th day from Abbasaga En-dingirmu accepted month Szu-ea year Enma-gal-ana lord of Nanna was installed
+1	1(gesz2)	_	,	4	nummod	
+2	2(u)	_	CD	6	nummod	
+3	5(disz)	_	_	2	nummod	
+4	udu	sheep	NN	0	root	
+5	2(u)	_	,	4	nummod	
+6	masz2-gal	buck goats	NNS	4	appos	
+7	szimaszgi	Szimagi	NN	6	compound	
+8	u4	th day	NN	4	appos	
+9	1(u)	_	,	4	nummod	
+10	8(disz)-kam	_	_	9	nummod	
+11	ki	from	IN	12	nmod:from	
+12	ab-ba-sa6-ga-ta	Abbasaga	NNP	4	nmod:from	
+13	en-dingir-mu	En-dingirmu	JJ	14	advmod	
+14	i3-dab5	accepted	VBN	12	acl	
+15	iti	month	NN	16	compound	
+16	szu-esz5-sza	Szu-ea	NN	4	_	
+17	mu	year	NN	22	_	
+18	en-mah-gal-an-na	Enma-gal-ana	NN	22	_	
+19	en	lord	NN	22	nsubjpass	
+20	{d}nanna	Nanna	NNP	19	nmod:of	
+21	ba-hun	was installed	VBD	22	auxpass	
+22	1(gesz2)	was installed	VBN	16	nummod	
+23	 	_	NN	0	root	
+24	 	_	.	23	_	
+25	4(u)	_	:	24	nummod	
+26	5(disz)	_	:	16	nummod
+	
+

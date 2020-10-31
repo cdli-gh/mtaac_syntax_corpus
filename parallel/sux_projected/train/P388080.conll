@@ -1,0 +1,25 @@
+# train/P388080.atf
+						
+
+# tr.en: sheep slaughtered th day in Tummal from Endingirgu Szulgi-irigu received month Szuea year throne of Enlil was crafted
+1	1(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	ba-usz2	slaughtered	VBN	2	acl	
+4	u4	th day	NN	3	_	
+5	1(u)	_	_	0	nummod	
+6	3(disz)-kam	_	_	5	nummod	
+7	sza3	in	IN	8	nmod:in	
+8	tum-ma-al	Tummal	NNP	4	nmod:in	
+9	ki	from	IN	11	nmod:from	
+10	en-dingir-mu-ta	Endingirgu	FW	11	compound	
+11	{d}szul-gi-iri-mu	Szulgi-irigu	FW	4	nmod:from	
+12	szu	_	:	3	_	
+13	ba-ti	received	VBN	11	acl	
+14	iti	month	NN	15	compound	
+15	szu-esz-sza	Szuea	NNP	3	_	
+16	mu	year	NN	15	_	
+17	{gesz}gu-za	throne	NN	19	nsubjpass	
+18	{d}en-lil2-la2	Enlil	NNP	17	nmod:of	
+19	ba-dim2	was crafted	VBN	15	acl
+	
+

@@ -1,0 +1,29 @@
+# train/P432122.atf
+						
+
+# tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man the lord of Uruk king of Ur and king of Sumer and Akkad the House With a Foundation Clad in Fearsomeness his beloved temple he built and restored for him
+1	{d}nanna	For Nanna	NNP	0	root	
+2	dumu-sag	the first-born son	NN	23	root	
+3	{d}en-lil2-la2	Enlil	NNP	2	nmod:of	
+4	lugal-a-ni	his master	NN	16	nsubj	
+5	ur-{d}namma	Ur-Namma	NN	4	appos	
+6	nita	the	DT	7	det	
+7	kal-ga	mighty man	NN	4	appos	
+8	en	_	,	9	_	
+9	unu{ki}-ga	the lord Uruk	NN	4	appos	
+10	lugal	king	NN	9	conj	
+11	uri5{ki}-ma	Ur	NN	10	nmod:of	
+12	lugal	king	NN	9	conj	
+13	ki-en-gi	Sumer	NNP	12	nmod:of	
+14	ki-uri-ke4	and and Akkad	CC	9	cc	
+15	e2-temen-ni2-gur3	the House With a Foundation Clad in Fearsomeness	NNP	4	appos	
+16	e2-temen-ni2-gur3	the House With a Foundation Clad in Fearsomeness	VBD	2	acl:relcl	
+17	e2	_	,	2	_	
+18	ki-ag2-ga2-ni	his beloved temple	NN	2	appos	
+19	mu-na-du3	he built	VBD	2	acl:relcl	
+20	ki-be2	and restored	CC	19	cc	
+21	mu-na-gi4	for him	PRP	19	nmod:for	
+22	 	_	NN	0	root	
+23	 	_	NN	22	appos
+	
+

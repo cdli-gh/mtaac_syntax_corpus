@@ -1,0 +1,22 @@
+# train/P432256.atf
+						
+
+# tr.en: Amar-Suen in Nippur by Enlil called by name headrest in house of Enlil strong man king of Ur king of four corners
+1	{d}amar-{d}suen	Amar-Suen	NNP	0	root	
+2	nibru{ki}-a	in Nippur	NNP	1	nmod:in	
+3	{d}en-lil2-le	by Enlil	NNP	2	nmod:by	
+4	mu	_	,	1	_	
+5	pa3-da	called by name	VBN	3	acl	
+6	sag-us2	headrest	NN	1	_	
+7	e2	in house	NN	1	nmod:in	
+8	{d}en-lil2-ka	Enlil	NNP	7	nmod:of	
+9	nita	_	,	1	_	
+10	kal-ga	strong man	NN	1	appos	
+11	lugal	king	NN	1	appos	
+12	uri5{ki}-ma	Ur	NN	11	nmod:of	
+13	lugal	king	NN	1	appos	
+14	an	four	CD	16	nummod	
+15	ub-da	_	.	1	_	
+16	limmu2-ba	corners	NNS	13	nmod:of
+	
+

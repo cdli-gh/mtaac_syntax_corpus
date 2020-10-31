@@ -1,0 +1,31 @@
+# train/P121320.atf
+						
+
+# tr.en: shekel silver labor of wintertime over two months from Ur-Damu did Ur-gagia one Lugal-egal and Ur-Sulpae receive month bara-zagar the rd day completed year Lullubum was destroyed
+1	1(disz)	_	,	3	nummod	
+2	gin2	shekel	NN	3	compound	
+3	ku3-babbar	silver	NN	11	nsubj	
+4	a2	labor	NN	3	appos	
+5	en-te	wintertime	NN	4	nmod:of	
+6	iti	months	NNS	3	nmod:over	
+7	min-na-sze3	over two	IN	6	nmod:over	
+8	ki	from	IN	9	nmod:from	
+9	ur-{d}da-mu-ta	Ur-Damu	NNP	3	nmod:from	
+10	1(disz)	_	,	17	nummod	
+11	ur-ga2-gi4-a	did Ur-gagia	VBD	0	root	
+12	1(disz)	_	_	0	nummod	
+13	lugal-he2-gal2	one Lugal-egal	JJ	17	conj	
+14	1(disz)	_	''	17	nummod	
+15	ur-{d}szul-pa-e3	and Ur-Sulpae	CC	17	cc	
+16	szu	_	:	17	_	
+17	ba-ti-esz2	receive	VB	11	xcomp	
+18	iti	month	NN	17	parataxis	
+19	bara2-za3-gar	bara-zagar	JJ	18	_	
+20	u4	the rd	DT	22	det	
+21	3(disz)	_	,	19	nummod	
+22	zal-la	day completed	NN	19	_	
+23	mu	year	NN	19	_	
+24	lu-lu-bu-um{ki}	Lullubum	NNP	25	nsubjpass	
+25	ba-hul	was destroyed	VBN	19	parataxis
+	
+

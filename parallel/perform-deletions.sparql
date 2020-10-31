@@ -1,0 +1,78 @@
+# remove every nif:Word that is a terms:DELETE
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+
+# create temporary number property
+INSERT {
+	?w terms:NR ?nr
+} WHERE {
+	{ SELECT ?w (COUNT(distinct ?pre) as  ?nr)
+	  WHERE {
+		?w a nif:Word.
+		?pre nif:nextWord* ?w
+	  } GROUP BY ?w
+	}
+};
+
+# delete all terms:DELETE
+DELETE { ?a ?b ?w.	} WHERE { ?w a terms:DELETE. ?a ?b ?w };
+DELETE { ?w ?c ?d.	} WHERE { ?w a terms:DELETE. ?w ?c ?d };
+
+# restore interrupted nif:nextWords using terms:NR (overgenerates)
+INSERT {
+	?a nif:nextWord ?b
+} WHERE {
+	?a a nif:Word; terms:NR ?anr.
+	MINUS { ?a nif:nextWord [] }
+	?b a nif:Word; terms:NR ?bnr.
+	MINUS { [] nif:nextWord ?b }
+	FILTER(?anr<?bnr)
+	MINUS {
+		?a terms:NR ?anr.	MINUS { ?a nif:nextWord [] }
+		?tmp terms:NR ?tnr.	FILTER(?anr < ?tnr) MINUS { [] nif:nextWord ?tmp }
+		?b terms:NR ?bnr. 	FILTER(?tnr<?bnr)
+	}
+};
+
+# remove terms:NR
+DELETE {
+	?w terms:NR ?nr
+} WHERE {
+	?w terms:NR ?nr 
+};
+
+# update or create ID
+DELETE {
+	?w conll:ID ?old
+} INSERT {
+	?w conll:ID ?newid
+} WHERE {
+	{ SELECT ?w (COUNT(distinct ?pre) as ?new)
+	  WHERE {
+		?w a nif:Word.
+		?pre nif:nextWord* ?w
+	  } GROUP BY ?w
+	}
+	BIND(str(?new) as ?newid)
+	OPTIONAL { ?w conll:ID ?old}
+};
+
+# create NEW_HEAD, pointing to those IDs
+INSERT {
+	?w conll:NEW_HEAD ?h
+} WHERE {
+	?w conll:HEAD/conll:ID ?h
+};
+
+# ... or 0 for root
+INSERT {
+	?w conll:NEW_HEAD "0"
+} WHERE {
+	?w conll:HEAD/a nif:Sentence
+};

@@ -1,0 +1,21 @@
+# train/P102329.atf
+						
+
+# tr.en: sheep grain-fed th day from Abbasaga Nalu accepted month Festival of Mekigal year Szaru was destroyed
+1	8(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	grain-fed	JJ	2	amod	
+4	u4	th day	NN	2	appos	
+5	8(disz)-kam	_	,	2	nummod	
+6	ki	from	IN	8	nmod:from	
+7	ab-ba-sa6-ga-ta	Abbasaga	NNP	8	compound	
+8	na-lu5	Nalu	NNP	2	nmod:from	
+9	i3-dab5	accepted	VBD	8	acl	
+10	iti	month	NN	12	_	
+11	ezem-me-ki-gal2	Festival Mekigal	NNP	12	_	
+12	mu	year	NN	2	_	
+13	sza-asz-ru{ki}	_	``	12	_	
+14	ba-hul	was destroyed	VBD	15	auxpass	
+15	8(disz)	was destroyed	VBN	12	nummod
+	
+

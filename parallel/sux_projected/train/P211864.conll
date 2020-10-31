@@ -1,0 +1,27 @@
+# train/P211864.atf
+						
+
+# tr.en: Basket-of-tablets threshed barley of oxen-field a into palace household to be brought a for prebend doled out accounts of silver of interest of fields are here year Simanum was destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	sze	barley	NN	1	_	
+3	gesz-e3-a	threshed	VBN	2	amod	
+4	GAN2-gu4	oxen-field	NN	2	nmod:of	
+5	apin-la2	_	:	2	_	
+6	e2-gal-la	into palace brought	IN	7	nmod:into	
+7	kux(KWU147)-kux(KWU147)	household to be	NN	2	nmod:into	
+8	apin-la2	_	:	2	_	
+9	szuku-sze3	for prebend doled	NN	10	nmod:for	
+10	szuku-sze3	for prebend doled	VBD	2	conj	
+11	ha-la-a	out	RP	10	compound:prt	
+12	nig2-ka9	accounts	NNS	2	conj	
+13	ku3	silver	NN	12	nmod:of	
+14	masz	interest	NN	13	nmod:of	
+15	a-sza3-ga	of fields	IN	16	nmod:of	
+16	szi-im	of fields	NNS	14	nmod:of	
+17	didli-bi	_	IN	13	nmod:of	
+18	i3-gal2	are here	VBP	2	conj	
+19	mu	year	NN	2	conj	
+20	si-ma-num2{ki}	Simanum	NNP	21	nsubjpass	
+21	ba-hul	was destroyed	VBN	2	acl
+	
+

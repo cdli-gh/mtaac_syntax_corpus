@@ -1,0 +1,76 @@
+# train/P102282.atf
+						
+
+# tr.en: ban ban oxen-manager ban ban ban sila the oxen-manager -x ban son of Lu-Ninubur ban son of Ur-Mami ban son of Ur-nam-anna oxen-manager of Szekalla son of Gu-dun ban son of Uramma the oxen-manager of Lugal-nesage ban son of Ur-gigir the oxen driver of Szekalla son of Dada ban son of Adaga the oxen-manager of Ur-lugal total barig ban sila old grain barley rations of sons of oxen-drivers from threshing floor of field Nin-ura month Dumuzi year lands of Zabaali were destroyed
+1	...	ban	NN	0	root	
+2	1(ban2)	_	NN	1	nummod	
+3	...	ban	NN	0	root	
+4	1(ban2)	_	_	0	nummod	
+5	...	_	CD	3	dep	
+6	nu-banda3-gu4	oxen-manager	NN	3	compound	
+7	...	ban	NN	3	dep	
+8	1(ban2)	_	NN	7	nummod	
+9	...	ban	NN	10	dep	
+10	1(ban2)	_	NN	8	nummod	
+11	...	_	:	8	dep	
+12	1(ban2)	ban	NN	8	nummod	
+13	6(disz)	_	_	8	nummod	
+14	sila3	sila	NN	12	_	
+15	...	_	NN	8	dep	
+16	nu-banda3-gu4	the oxen-manager	DT	19	det	
+17	...-x	-x	CD	19	dep	
+18	1(ban2)	_	:	20	nummod	
+19	5(disz)	ban	NN	15	nummod	
+20	dumu	son	NN	8	_	
+21	lu2-{d}nin-szubur	Lu-Ninubur	NNP	20	nmod:of	
+22	4(ban2)	ban	NN	20	nummod	
+23	dumu	son	NN	20	_	
+24	ur-{d}ma-mi	Ur-Mami	NNP	23	nmod:of	
+25	1(ban2)	_	,	27	nummod	
+26	5(disz)	ban	NN	23	nummod	
+27	dumu	son	NN	23	_	
+28	ur-{d}nam2-an-na	Ur-nam-anna	NN	27	nmod:of	
+29	nu-banda3-gu4	oxen-manager	NN	27	appos	
+30	szesz-kal-la	Szekalla	NNP	29	nmod:of	
+31	dumu	son	NN	27	appos	
+32	gu-dun	Gu-dun	NN	31	nmod:of	
+33	1(ban2)	ban	NN	27	nummod	
+34	dumu	son	NN	33	_	
+35	ur-am3-ma	Uramma	NNP	34	nmod:of	
+36	nu-banda3-gu4	the oxen-manager	NN	35	appos	
+37	lugal-nesag-e	Lugal-nesage	NN	36	nmod:of	
+38	2(ban2)	_	,	40	nummod	
+39	5(disz)	ban	NN	34	nummod	
+40	dumu	son	NN	34	_	
+41	ur-{gesz}gigir	Ur-gigir	NN	40	nmod:of	
+42	nu-banda3-gu4	the oxen	DT	43	det	
+43	szesz-kal-la	driver Szekalla	NN	40	appos	
+44	dumu	son	NN	43	appos	
+45	da-da	Dada	NN	44	nmod:of	
+46	2(ban2)	_	IN	43	nummod	
+47	5(disz)	_	,	49	nummod	
+48	dumu	son	NN	40	_	
+49	a-da-ga	Adaga	NNP	48	nmod:of	
+50	nu-banda3-gu4	the oxen-manager	NN	49	appos	
+51	ur-lugal	Ur-lugal	JJ	50	nmod:of	
+52	szunigin	total	NN	40	_	
+53	4(barig)	_	,	58	nummod	
+54	5(disz)	ban	NN	53	nummod	
+55	sila3	sila	NN	56	compound	
+56	sze	grain	NN	54	_	
+57	sumun	old	JJ	56	amod	
+58	gur	barig	NN	52	_	
+59	sze-ba	barley rations	NNS	58	appos	
+60	dumu	_	_	0	_	
+61	sza3-gu4	sons oxen-drivers	NNS	59	nmod:of	
+62	ki-su7	from threshing	IN	64	nmod:from	
+63	a-sza3	field	NN	64	compound	
+64	{d}nin-ur4-ra-ta	floor Nin-ura	NN	59	nmod:from	
+65	iti	month	NN	27	_	
+66	{d}dumu-zi	Dumuzi	NNP	27	_	
+67	mu	year	NN	27	_	
+68	ma-da	lands	NNS	70	nsubjpass	
+69	za-ab-sza-li{ki}	Zabaali	NNP	68	nmod:of	
+70	ba-hul	were destroyed	VBN	23	acl
+	
+

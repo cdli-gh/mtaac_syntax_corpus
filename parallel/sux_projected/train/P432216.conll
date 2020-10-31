@@ -1,0 +1,23 @@
+# train/P432216.atf
+						
+
+# tr.en: To Nanna his master Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life he dedicated to him Of this statue Nanna is My Wall is its name
+1	{d}nanna	To Nanna	VB	0	root	
+2	lugal-a-ni	his master	NN	1	dobj	
+3	szul-gi	Szulgi	NN	2	appos	
+4	nita	the	DT	5	det	
+5	kal-ga	mighty man	NN	1	_	
+6	lugal	king	NN	5	conj	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	king	NN	5	conj	
+9	ki-en-gi	Sumer	NNP	5	nmod:of	
+10	ki-uri-ke4	and and Akkad	CC	5	cc	
+11	nam-ti-la-ni-sze3	for his life	NN	5	nmod:for	
+12	a	he	PRP	13	nsubj	
+13	mu-na-ru	dedicated to him	VBD	11	acl:relcl	
+14	alan-ba	Of this statue	NN	1	nmod:of	
+15	{d}nanna	Nanna	NNP	16	nsubj	
+16	bad3-x-mu	is My Wall	NN	1	parataxis	
+17	mu-bi-im	is its name	NN	16	_
+	
+

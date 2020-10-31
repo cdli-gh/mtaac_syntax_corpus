@@ -1,0 +1,26 @@
+# dev/P432162.atf
+						
+
+# tr.en: For goddess DN her mistress Tarm-Uram daughter of Apil-kn the king of Mari bride of Ur-Namma king of Ur
+1	'.	_	,	3	_	
+2	x	_	_	0	dep	
+3	x	For goddess DN	NN	0	root	
+4	'.	_	,	5	_	
+5	nin-a-ni-ir	her mistress	NN	1	root	
+6	'.	_	,	5	_	
+7	da-ra-am-uri5{ki}-am	Tarm-Uram	NNP	5	appos	
+8	'.	_	_	0	_	
+9	dumu-munus	daughter	NN	5	appos	
+10	a-pil-ki-in	Apil-kn	NN	9	nmod:of	
+11	'.	the	DT	12	det	
+12	lugal	king	NN	9	_	
+13	ma-ri2{ki}-ka	Mari	NNP	12	nmod:of	
+14	'.	_	_	0	_	
+15	e2-gi4-a	bride	NN	13	appos	
+16	'.	_	,	13	_	
+17	ur-{d}namma	Ur-Namma	NNP	15	nmod:of	
+18	'.	_	,	5	_	
+19	lugal	king	NN	13	appos	
+20	uri5{ki}-ma	Ur	NN	19	nmod:of
+	
+

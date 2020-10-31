@@ -1,0 +1,21 @@
+# dev/P430466.atf
+						
+
+# tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Szu-Erra royal cook son of Zak-il is your servant
+1	{d}szu-{d}suen	Sz-Suen	NNP	0	root	
+2	nita	_	,	1	_	
+3	kal-ga	strong man	NN	1	appos	
+4	lugal	king	NN	1	appos	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an	four	CD	9	nummod	
+8	ub-da	heaven	NN	6	nmod:of	
+9	limmu2-ba	with its corners	NNS	6	nmod:with	
+10	szu-er3-ra	Szu-Erra	NNP	11	compound	
+11	muhaldim	cook	NN	15	nsubj	
+12	lugal	royal	JJ	11	amod	
+13	dumu	son	NN	11	appos	
+14	za-ak-i3-li2	Zak-il	NN	13	nmod:of	
+15	ARAD2-zu	is your servant	NN	1	_
+	
+

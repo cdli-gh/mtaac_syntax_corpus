@@ -1,0 +1,30 @@
+# train/P459081.atf
+						
+
+# tr.en: shekels grains of silver for interest from Ur-Enlila Lugal-saga and Ur-Szuma received month KuSzIM the th day passed year Simanum was destroyed
+1	3(disz)	_	,	3	nummod	
+2	1/2(disz)	_	_	1	nummod	
+3	gin2	shekels	NNS	15	nsubj	
+4	1(u)	_	_	0	nummod	
+5	5(disz)	_	_	4	nummod	
+6	sze	grains	NNS	3	_	
+7	ku3-babbar	silver	NN	6	nmod:of	
+8	ur5-sze3	for	IN	9	nmod:for	
+9	<ki>	interest	NN	3	nmod:for	
+10	ur-{d}en-lil2!-la2-ta	from Ur-Enlila	NNP	3	nmod:from	
+11	lugal-sa6-ga!	Lugal-saga	NN	10	conj	
+12	u3	and	CC	10	cc	
+13	ur-{d}szu-mah!	Ur-Szuma	NNP	10	conj	
+14	szu	_	.	15	_	
+15	ba-ti	received	VBD	0	root	
+16	iti	month	NN	15	nmod:tmod	
+17	ku3-SZIM	KuSzIM	NNP	21	_	
+18	u4	the th	DT	21	det	
+19	2(u)	_	,	21	nummod	
+20	2(disz)	_	_	19	nummod	
+21	ba-zal	day passed	VBD	15	parataxis	
+22	mu	year	NN	21	nmod:tmod	
+23	si-ma-num2{ki}	Simanum	NNP	24	nsubjpass	
+24	ba-hul	was destroyed	VBN	21	parataxis
+	
+

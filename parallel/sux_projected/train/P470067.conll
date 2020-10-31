@@ -1,0 +1,26 @@
+# train/P470067.atf
+						
+
+# tr.en: ram ewe slaughtered rd day from Nalu month Gazelle feast year after Simurrum Lullubi for th time were destroyed
+1	1(disz)	_	NN	2	nummod	
+2	udu	ram	NN	0	root	
+3	1(disz)	_	,	2	nummod	
+4	u8	ewe	NN	2	appos	
+5	ba-usz2	slaughtered	VBN	2	acl	
+6	u4	rd day	NN	5	nmod:tmod	
+7	3(disz)-kam	_	:	5	nummod	
+8	ki	from	IN	9	nmod:from	
+9	na-lu5	Nalu	NNP	5	nmod:from	
+10	iti	month	NN	5	_	
+11	masz-da3-gu7	Gazelle feast	NN	10	_	
+12	mu	year	NN	11	_	
+13	us2-sa	after	IN	12	nmod:after	
+14	si-mu-ru-um{ki}	Simurrum	NNP	15	compound	
+15	lu-lu-bu{ki}	Lullubi	NNP	20	nsubjpass	
+16	a-ra2	for th time	NN	15	nmod:for	
+17	1(u)	_	.	2	nummod	
+18	la2	_	''	17	_	
+19	1(disz@t)-kam-asz	_	_	18	nummod	
+20	ba-hul	were destroyed	VBN	11	acl
+	
+

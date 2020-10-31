@@ -1,0 +1,63 @@
+# dev/P113323.atf
+						
+
+# tr.en: sila date syrup its silver shekel a -ducklings their silver shekel k its silver shekel less less bandicoot rats their silver grains a -crow its silver grains reservoir fish fine quality their silver shekels grains first fruits of Enlil under seal of alulu year Puzri-Dagan Lugal-ezem scribe son of Lugal-emae the chief household manager
+1	5/6(disz)	_	,	3	nummod	
+2	sila3	sila	NN	3	compound	
+3	lal3	date syrup	NN	0	root	
+4	ku3-bi	its silver	NN	3	appos	
+5	2/3(disz)	_	CD	9	nummod	
+6	gin2	shekel	NN	3	_	
+7	4(disz)	_	,	9	nummod	
+8	amar-sag	a	_	0	_	
+9	uz-tur	-ducklings	NNS	6	_	
+10	ku3-bi	their silver	NN	9	appos	
+11	1(disz)	_	CD	13	nummod	
+12	gin2	shekel	NN	9	_	
+13	1(disz)	_	NN	12	nummod	
+14	ku5-da	k	_	0	_	
+15	ku3-bi	its silver	NN	13	appos	
+16	1(disz)	_	CD	17	nummod	
+17	gin2	shekel	NN	13	_	
+18	la2	less	RBR	16	advmod	
+19	igi-6(disz)-gal2	_	:	17	_	
+20	1(u)	_	,	23	nummod	
+21	la2	less	JJR	20	advmod	
+22	1(disz)	_	_	21	nummod	
+23	pesz2-gesz-gi	bandicoot rats	NNS	17	_	
+24	ku3-bi	their silver	NN	23	appos	
+25	igi-6(disz)-gal2	_	:	27	_	
+26	6(disz)	_	CD	30	nummod	
+27	sze	grains	NNS	23	_	
+28	1(disz)	_	,	30	nummod	
+29	amar-sag	a	_	0	_	
+30	u2-ga{muszen}	-crow	NN	27	_	
+31	ku3-bi	its silver	NN	30	appos	
+32	1(u)	_	:	34	nummod	
+33	6(disz)	_	CD	37	nummod	
+34	sze	grains	NNS	30	_	
+35	3(gesz2)	_	,	37	nummod	
+36	2(u)	_	_	35	nummod	
+37	ku6	fish	NN	34	_	
+38	kun-zi	reservoir quality	NN	37	compound	
+39	saga	fine	JJ	37	amod	
+40	ku3-bi	their silver	NN	37	appos	
+41	2(disz)	_	:	42	nummod	
+42	gin2	shekels	NNS	37	_	
+43	igi-6(disz)-gal2	_	``	46	_	
+44	1(u)	_	_	0	nummod	
+45	sze	grains	NNS	42	appos	
+46	nesag	first fruits	NNS	42	_	
+47	{d}en-lil2-la2	Enlil	NNP	46	nmod:of	
+48	kiszib3	under seal	NN	46	nmod:under	
+49	ha-lu5-lu5	alulu	NNP	48	nmod:of	
+50	mu	year	NN	52	_	
+51	e2	_	.	3	_	
+52	puzur4-da-gan	Puzri-Dagan	NNP	42	_	
+53	lugal-ezem	Lugal-ezem	NN	3	_	
+54	dub-sar	scribe	NN	3	appos	
+55	dumu	son	NN	3	appos	
+56	lugal-e2-mah-e	Lugal-emae	NN	55	nmod:of	
+57	szabra	the chief household manager	NN	3	appos
+	
+

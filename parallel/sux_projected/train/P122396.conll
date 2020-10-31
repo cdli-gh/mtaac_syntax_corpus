@@ -1,0 +1,37 @@
+# train/P122396.atf
+						
+
+# tr.en: gur barley barley loan of Enlil from Amar-uba did Lugal-pae throne bearer receive the harvest obligation will discharge in month Brick it will be remitted My field by flooding was ruined or My field by storm was ruined you will not say month udru year unuri was destroyed
+1	3(asz)	_	NN	5	nummod	
+2	sze	barley	NN	12	_	
+3	gur	gur	NN	2	compound	
+4	sze	barley	_	0	_	
+5	ur5-ra	loan	NN	2	appos	
+6	{d}en-lil2-la2	Enlil	NNP	5	nmod:of	
+7	ki	from	IN	8	nmod:from	
+8	amar-szuba2-ta	Amar-uba	NN	2	nmod:from	
+9	lugal-pa-e3	did Lugal-pae throne	VBD	12	aux	
+10	gu-za-la2	bearer	NN	12	nsubj	
+11	szu	_	:	12	_	
+12	ba-ti	receive	VBP	26	acl	
+13	buru14	the harvest	NN	25	nsubjpass	
+14	ama-bi	obligation will	NN	15	nsubj	
+15	gi4-gi4	discharge	VB	13	acl:relcl	
+16	iti!	in month	NN	25	nmod:in	
+17	sig4-ka	_	``	16	_	
+18	i3-ib2-gi4-gi4	will be remitted	VBN	16	acl:relcl	
+19	a-sza3-mu	My	PRP$	20	nmod:poss	
+20	a-e3	field	NN	22	nsubjpass	
+21	ba-rex(HU)	by flooding was ruined or	NN	20	nmod:by	
+22	ba-rex(HU)	by flooding was ruined or	VBN	16	acl	
+23	a-sza3-mu	My	PRP$	24	nmod:poss	
+24	u3-de3	field storm	NN	16	conj	
+25	ba-rex(HU)	by was ruined	VBN	12	parataxis	
+26	ba-ra-ab-be2-en3	you will not say	VB	0	root	
+27	iti!	month	NN	31	_	
+28	udru{duru5}	_	``	31	_	
+29	mu	year	NN	31	_	
+30	hu-hu-nu-ri	unuri	NNP	31	nsubjpass	
+31	ba-hul	was destroyed	VBN	26	parataxis
+	
+

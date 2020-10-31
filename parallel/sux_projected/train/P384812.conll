@@ -1,0 +1,47 @@
+# train/P384812.atf
+						
+
+# tr.en: Szekalla shekels for Szakuge son of Szaraga shekels for Ur-Szara son of Szekalla shekel for En- son of booked out in Tummal
+1	...-da	_	_	0	_	
+2	...	_	_	0	dep	
+3	x	_	_	0	dep	
+4	am3-ma-nu-um	_	_	0	_	
+5	...	_	_	0	dep	
+6	szesz-kal-la	Szekalla	_	0	_	
+7	...	_	_	0	dep	
+8	x	_	_	0	dep	
+9	ur	_	_	0	_	
+10	x	_	_	0	dep	
+11	...	_	:	41	dep	
+12	x	_	_	0	dep	
+13	x	_	_	0	dep	
+14	...	_	_	0	dep	
+15	x	_	_	0	dep	
+16	x	_	_	0	dep	
+17	5(disz)	_	_	0	nummod	
+18	gin2	shekels	NNS	41	conj	
+19	sza3-ku3-ge	Szakuge	NNP	18	nmod:for	
+20	dumu	son	NN	19	appos	
+21	{d}szara2-ga2	for Szaraga	IN	19	nmod:for	
+22	2(disz)	_	:	41	nummod	
+23	gin2	shekels	NNS	41	conj	
+24	ur-{d}szara2	for Ur-Szara	NNP	23	nmod:for	
+25	dumu	son	NN	24	appos	
+26	szesz-kal-la	Szekalla	NN	25	nmod:of	
+27	1(disz)	_	NN	31	nummod	
+28	gin2	shekel	NN	41	_	
+29	en	_	:	41	_	
+30	x	_	_	0	dep	
+31	x	for En- son	NN	28	nmod:for	
+32	zi-ga	booked out	VBN	41	acl	
+33	sza3	in	IN	34	nmod:in	
+34	tum-malx(TUR3){ki}	Tummal	NNP	32	nmod:in	
+35	x	_	NN	0	root	
+36	x	_	.	35	dep	
+37	x	_	NN	35	dep	
+38	x	_	_	0	dep	
+39	x	_	_	0	dep	
+40	x	_	_	0	dep	
+41	 	_	_	0	_
+	
+

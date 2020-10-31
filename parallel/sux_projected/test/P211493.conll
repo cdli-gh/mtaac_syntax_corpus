@@ -1,0 +1,26 @@
+# test/P211493.atf
+						
+
+# tr.en: Basket-of-tablets long orchards barley long are here via Luduga Lu-Nanna Dada and Lu-saga month Dumuzi year Amar-Suen king Szarum destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	{gesz}kiri6	orchards	NNS	7	nsubj	
+3	gid2-da	long	JJ	2	amod	
+4	sze	barley	NN	2	compound	
+5	x	_	,	2	dep	
+6	gid2-da	long	RB	2	advmod	
+7	i3-gal2	are here	RB	1	_	
+8	giri3	via	IN	9	nmod:via	
+9	lu2-du10-ga	Luduga	NNP	7	nmod:via	
+10	lu2-{d}nanna	Lu-Nanna	NN	9	conj	
+11	da-da	Dada	NN	9	conj	
+12	u3	and	CC	9	cc	
+13	lu2-sa6-ga	Lu-saga	NN	9	conj	
+14	iti	month	NN	15	compound	
+15	{d}dumu-zi	Dumuzi	NNP	7	conj	
+16	mu	year	NN	15	_	
+17	{d}amar-{d}suen	Amar-Suen	NNP	15	_	
+18	lugal-e	king	NN	17	appos	
+19	sza-asz-ru-um{ki}	Szarum	NN	20	nsubj	
+20	mu-hul	destroyed	VBD	17	acl:relcl
+	
+

@@ -1,0 +1,16 @@
+# test/P204134.atf
+						
+
+# tr.en: Basket-of-tablets accounts men takers of oxen and sheep are here year Amar-Suen is king
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	nig2-ka9-ak	accounts	NNS	4	compound	
+3	lu2	_	,	4	_	
+4	nig2-dab5	men takers	NNS	7	nsubj	
+5	gu4	oxen	NN	4	nmod:of	
+6	udu-ke4-ne	and sheep	CC	5	cc	
+7	i3-gal2	are here	RB	1	_	
+8	mu	year	NN	10	_	
+9	{d}amar-{d}suen	Amar-Suen is	NNP	10	nsubj	
+10	lugal	king	NN	7	parataxis
+	
+

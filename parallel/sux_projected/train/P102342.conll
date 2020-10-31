@@ -1,0 +1,30 @@
+# train/P102342.atf
+						
+
+# tr.en: lambs th day from Abbasaga month year
+1	...	_	_	0	dep	
+2	1(u)	_	.	13	nummod	
+3	x	_	_	0	dep	
+4	x	_	_	0	dep	
+5	3(disz)	_	_	0	nummod	
+6	x	_	_	0	dep	
+7	sila4	lambs	NNS	15	_	
+8	u4	th day	NN	20	_	
+9	1(u)	_	,	20	nummod	
+10	3(disz)-kam	_	_	9	nummod	
+11	ki	from	IN	20	nmod:from	
+12	ab-ba-sa6-ga-ta	Abbasaga	NNP	20	compound	
+13	x	_	NN	0	root	
+14	x	_	.	13	dep	
+15	...	_	NN	13	appos	
+16	iti	month	NN	20	compound	
+17	x-x-x	_	,	20	dep	
+18	mu	year	NN	20	_	
+19	x	_	``	20	dep	
+20	x	_	NN	0	root	
+21	...	_	_	0	dep	
+22	1(u)	_	_	0	nummod	
+23	1(disz)	_	_	22	nummod	
+24	x	_	CD	20	dep
+	
+

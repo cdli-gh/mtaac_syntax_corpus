@@ -1,0 +1,21 @@
+# test/P108044.atf
+						
+
+# tr.en: Basket-of-tablets credits of atam alllocations distributed year Ibbi-Suen is king are here
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	zi-ga	credits	NNS	1	_	
+3	sza3-tam-e-ne	atam	NN	2	nmod:of	
+4	x	_	,	2	dep	
+5	szuku	_	_	0	_	
+6	zi3	_	_	0	_	
+7	x	_	_	0	dep	
+8	hal-ha	alllocations distributed	NNS	15	compound	
+9	mu	year	NN	2	appos	
+10	{d}i-bi2-{d}suen	Ibbi-Suen is	NNP	11	nsubj	
+11	lugal	king	NN	2	_	
+12	i3-gal2	are here	RB	11	advmod	
+13	 	_	NN	0	root	
+14	 	_	NN	13	appos	
+15	 	_	NN	14	appos
+	
+

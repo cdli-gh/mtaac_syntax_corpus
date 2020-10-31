@@ -1,0 +1,29 @@
+# train/P500941.atf
+						
+
+# tr.en: For Szara jewel of heaven beloved child of Inanna his lord for life of Szu-Suen strong king king of Ur king of four quarters did Ur- royal soldier son of Ur-abba this fashion
+1	{d}szara2	For Szara	NNP	5	nmod:for	
+2	nir-gal2	jewel	NN	5	_	
+3	an-na	heaven	NN	2	nmod:of	
+4	dumu	_	_	0	_	
+5	ki-ag2	beloved child	NN	0	root	
+6	{d}inanna	Inanna	NNP	5	nmod:of	
+7	lugal-a-ni-ir	his lord	NN	6	appos	
+8	nam-ti	for life	NN	5	nmod:for	
+9	{d}szu-{d}suen	Szu-Suen	NNP	8	nmod:of	
+10	lugal	king	NN	9	appos	
+11	kal-ga	strong	JJ	10	amod	
+12	lugal	king	NN	9	appos	
+13	uri5{ki}-ma	Ur	NN	12	nmod:of	
+14	lugal	king	NN	9	appos	
+15	an	four	CD	17	nummod	
+16	ub-da	_	,	9	_	
+17	limmu2-ba-ka-sze3	quarters	NNS	14	nmod:of	
+18	ur-{d}...	did	VBD	5	acl	
+19	aga3-us2	soldier	NN	18	dobj	
+20	lugal	royal	JJ	19	amod	
+21	dumu	son	NN	19	appos	
+22	ur-ab-ba-ke4	Ur-abba	NN	21	nmod:of	
+23	mu-na-dim2	this fashion	NN	19	appos
+	
+

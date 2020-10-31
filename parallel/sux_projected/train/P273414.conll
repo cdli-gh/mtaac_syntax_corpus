@@ -1,0 +1,27 @@
+# train/P273414.atf
+						
+
+# tr.en: One neck garment from Ikalla in place of Agu under seal of Ayakala month Six-month-house year high-priest of Inanna of Uruk was chosen by extispicy Ayakala scribe son of Ermu
+1	1(disz)	_	_	0	nummod	
+2	tug2	garment	NN	0	root	
+3	gu2-na	One	CD	2	nummod	
+4	ki	from	IN	5	nmod:from	
+5	i3-kal-la-ta	Ikalla	NNP	2	nmod:from	
+6	mu	_	,	2	_	
+7	a-gu-sze3	in place Agu	NN	2	nmod:in	
+8	kiszib3	under seal	NN	2	nmod:under	
+9	a-a-kal-la	Ayakala	NNP	8	nmod:of	
+10	iti	month	NN	11	compound	
+11	e2-iti-6(disz)	Six-month-house	NN	2	parataxis	
+12	mu	year	NN	11	_	
+13	en	high-priest	NN	17	nsubjpass	
+14	{d}inanna	Inanna	NNP	13	nmod:of	
+15	unu{ki}	Uruk	NNP	14	nmod:of	
+16	masz2-e	was by	VBD	17	auxpass	
+17	i3-pa3	extispicy chosen	VBN	12	acl	
+18	a-a-kal-la	Ayakala	NNP	2	_	
+19	dub-sar	scribe	NN	18	appos	
+20	dumu	son	NN	18	appos	
+21	er2-mu	of Ermu	NN	20	nmod:of
+	
+

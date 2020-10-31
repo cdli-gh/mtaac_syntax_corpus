@@ -1,0 +1,55 @@
+# test/P114408.atf
+						
+
+# tr.en: gur barig barley barig emmer seized grain field Baba-tursu via Lugal-Nigine Ur-Suana received in Girsu year after Stele gur barig barley royal barig emmer seized grain field Baba-tursu via Lugal-Nigine under seal of Ur-Suana in Girsu year after Sz-Suen king of Ur Great Stele for Enlil and Ninlil erected Ur-Suana the scribe son Lu-Gebare
+1	2(asz)	_	CD	6	nummod	
+2	1(barig)	barig	NN	1	nummod	
+3	sze	barley	NN	6	compound	
+4	gur	gur	NN	6	compound	
+5	2(barig)	barig	NN	6	nummod	
+6	ziz2	emmer	NN	0	root	
+7	sze	grain	NN	8	dobj	
+8	dab5-ba	seized	VBD	6	acl	
+9	a-sza3	field	NN	7	dobj	
+10	{d}ba-ba6-tur3-su3	Baba-tursu	NN	9	_	
+11	giri3	via	IN	12	nmod:via	
+12	lugal-nigin6{ki}-sze3	Lugal-Nigine	NNP	8	nmod:via	
+13	ur-{d}su4-an-na	Ur-Suana	NN	12	compound	
+14	szu	_	_	0	_	
+15	ba-ti	received	VBD	12	acl	
+16	sza3	in	IN	17	nmod:in	
+17	gir2-su{ki}	Girsu	NNP	15	nmod:in	
+18	mu-us2-sa	year after	NN	6	_	
+19	na-ru2-a	_	``	18	_	
+20	2(asz)	_	,	24	nummod	
+21	1(barig)	barig	NN	22	nummod	
+22	sze	barley	NN	23	_	
+23	gur	gur	NN	18	_	
+24	lugal	royal	NN	28	nsubj	
+25	2(barig)	barig	NN	26	nummod	
+26	ziz2	emmer	NN	24	appos	
+27	sze	grain	NN	28	dobj	
+28	dab5-ba	seized	VBD	18	acl:relcl	
+29	a-sza3	field	NN	27	dobj	
+30	{d}ba-ba6-tur3-su3	Baba-tursu	NN	29	_	
+31	giri3	via	IN	32	nmod:via	
+32	lugal-nigin6{ki}-sze3	Lugal-Nigine	NNP	28	nmod:via	
+33	kiszib3	under seal	NN	28	nmod:under	
+34	ur-{d}su4-an-na	Ur-Suana	NN	33	compound	
+35	sza3	in	IN	36	nmod:in	
+36	gir2-su{ki}	Girsu	NNP	18	nmod:in	
+37	mu	year	NN	45	_	
+38	us2-sa	after	IN	45	mark	
+39	{d}szu-{d}suen!	Sz-Suen	NNP	45	nsubj	
+40	lugal	king	NN	39	appos	
+41	uri5{ki}-ma-ke4	Ur	NN	40	nmod:of	
+42	na-ru2-a-mah	Great Stele	NNP	39	appos	
+43	{d}en-lil2	Enlil for	NNP	42	nmod:for	
+44	{d}nin-lil2-ra	and Ninlil	CC	43	cc	
+45	mu-ne-du3	erected	VBD	18	parataxis	
+46	ur-{d}su4-an-na	Ur-Suana	NN	18	compound	
+47	dub-sar	the scribe	NN	18	appos	
+48	dumu	son	NN	49	compound	
+49	lu2-{d}gesz-bar-e3	Lu-Gebare	NNP	18	appos
+	
+

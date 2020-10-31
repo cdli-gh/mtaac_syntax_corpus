@@ -1,0 +1,22 @@
+# test/P406235.atf
+						
+
+# tr.en: gur barley royal deficit repaid from Magure Lu-Baba received month Oxen-
+1	2(asz)	_	,	4	nummod	
+2	sze	barley	NN	0	root	
+3	gur	gur	NN	2	compound	
+4	lugal	royal	NN	2	appos	
+5	la2-ia3	deficit	NN	4	conj	
+6	su-ga	repaid	VBN	4	acl	
+7	ki	from	IN	9	nmod:from	
+8	ma2-gur8-re-	Magure	NNP	9	compound	
+9	lu2-{d}ba-ba6	Lu-Baba	NNP	2	nmod:from	
+10	szu	_	:	2	_	
+11	ba-ti	received	VBD	9	acl	
+12	iti	month	NN	16	_	
+13	gu4-ra2-bi2-mu2	_	``	16	_	
+14	 	_	NN	0	root	
+15	 	_	NN	14	appos	
+16	 	_	JJ	15	parataxis
+	
+

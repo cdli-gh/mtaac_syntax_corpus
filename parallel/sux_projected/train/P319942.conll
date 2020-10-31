@@ -1,0 +1,28 @@
+# train/P319942.atf
+						
+
+# tr.en: Basket-of-tablets accounts the house of Enlil are here month year Szarum was destroyed
+1	pisan-dub-ba	Basket-of-tablets	_	0	_	
+2	nig2-ka9-ak	accounts	_	0	_	
+3	x	_	_	0	dep	
+4	x	_	_	0	dep	
+5	x	_	_	0	dep	
+6	x	_	_	0	dep	
+7	x	_	_	0	dep	
+8	ki	_	_	0	_	
+9	e2	the house	NN	11	nsubj	
+10	{d}en-lil2-la2	Enlil	NNP	9	nmod:of	
+11	i3-gal2	are here	VBP	21	acl:relcl	
+12	iti	month	NN	22	compound	
+13	x	_	:	22	dep	
+14	x	_	``	22	dep	
+15	x	_	,	22	dep	
+16	masz	_	''	22	_	
+17	mu	year	NN	22	_	
+18	sza-asz-ru-um	_	``	19	_	
+19	ba-hul	was destroyed	VBN	17	acl	
+20	 	_	NNS	0	root	
+21	 	_	_	0	_	
+22	 	_	NN	20	_
+	
+

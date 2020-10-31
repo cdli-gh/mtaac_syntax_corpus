@@ -1,0 +1,22 @@
+# train/P432329.atf
+						
+
+# tr.en: his beside Great Oval and Gate of Utu let him say to him The he built
+1	'.	_	NN	12	nsubj	
+2	...	_	_	0	dep	
+3	x-ni	his	PRP$	1	nmod:poss	
+4	'.	_	_	0	_	
+5	za3	_	_	0	_	
+6	ka2	beside	IN	7	nmod:beside	
+7	eb-gal	Great Oval	NNP	1	nmod:beside	
+8	'.	and	CC	7	cc	
+9	ka2	Gate	NN	7	conj	
+10	{d}utu	Utu	NNP	9	nmod:of	
+11	'.	_	.	12	_	
+12	he2-na-be2	let him say to him	VBD	0	root	
+13	'.	_	NN	12	dobj	
+14	x-na-tu-ub-tum	The	DT	13	det	
+15	'.	_	.	12	_	
+16	mu-un-du3	he built	VBD	13	acl:relcl
+	
+

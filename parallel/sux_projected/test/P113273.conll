@@ -1,0 +1,220 @@
+# test/P113273.atf
+						
+
+# tr.en: mana silver exchange for red gold from governor via Ur-Szulpae silversmith gur dates its silver mana from Ur-Szulpae gur barley its silver mana Total mana shekels silver are debit Therefrom talent mana copper its silver mana shekels grains shekels of sue its silver shekel grains under seal of Lu-Enlila ban sila grains of plant oil its silver shekels grains ban of EA-bitumen its silver grains ban of horned alkali-plant under seal of Ur- barig horned alkali-plant their silver grains for chariot of Szulpae under seal of Lugal- ban of horned alkali-plant its silver grains under seal of Akalla leatherworker talents of dried bitumen its silver mana shekel sila EA-bitumen its silver shekels grains under seal of Adumu ban of raisins its silver shekel ban of mixed SZIM its silver in debit account of Lu-Ninubur set mana shekels grains silver credit of account mana of tin its silver shekels for big-nail of ensi under seal of Lukalla mana silver exchange silver for red gold in Nippur mana shekels silver the igikar of queen did Ur-Szulpae silversmith receive Total mana shekels grain silver booked out Deficit mana shekels account concerning Ur-Dumuzida month Dumuzi year high-priest of Eridu was installed
+1	3(disz)	_	,	4	nummod	
+2	1/2(disz)	_	_	1	nummod	
+3	ma-na	mana	NN	4	compound	
+4	ku3-babbar	silver	NN	0	root	
+5	sa10-am3	exchange	NN	4	appos	
+6	ku3-husz-a	for red gold	NN	5	nmod:for	
+7	ki	from	IN	8	nmod:from	
+8	ensi2-ka-ta	governor	NN	4	nmod:from	
+9	giri3	via	IN	10	nmod:via	
+10	ur-{d}szul-pa-e3	Ur-Szulpae	NNP	4	nmod:via	
+11	ku3-dim2	silversmith	NN	10	appos	
+12	1(gesz2)	_	,	15	nummod	
+13	1(u)	_	_	12	nummod	
+14	2(asz)	_	_	12	nummod	
+15	zu2-lum	dates	NNS	4	_	
+16	gur	gur	NN	15	compound	
+17	ku3-bi	its silver	NN	15	appos	
+18	1(disz)	_	_	0	nummod	
+19	ma-na	mana	NN	15	_	
+20	ki	from	IN	21	nmod:from	
+21	ur-{d}szul-pa-e3-ta	Ur-Szulpae	NNP	19	nmod:from	
+22	3(u)	_	,	23	nummod	
+23	sze	barley	NN	19	_	
+24	gur	gur	NN	23	compound	
+25	ku3-bi	its silver	NN	23	appos	
+26	2/3(disz)	_	:	19	nummod	
+27	ma-na	mana	NN	23	_	
+28	szunigin	Total	NNP	19	_	
+29	5(disz)	_	_	0	nummod	
+30	ma-na	mana	NN	34	nsubj	
+31	1(u)	_	_	0	nummod	
+32	gin2	shekels	NNS	33	compound	
+33	ku3-babbar	silver	NN	30	appos	
+34	sag-nig2-gur11-ra-kam	are debit	NN	28	_	
+35	sza3-bi-ta	Therefrom	NNP	34	_	
+36	1(asz)	_	,	34	nummod	
+37	gu2	talent	NN	35	_	
+38	5(disz)	_	_	0	nummod	
+39	ma-na	mana	NN	40	compound	
+40	uruda	copper	NN	37	_	
+41	ku3-bi	its silver	NN	34	appos	
+42	1/2(disz)	_	,	43	nummod	
+43	ma-na	mana	NN	41	_	
+44	5(disz)	_	NNS	43	nummod	
+45	2/3(disz)	_	:	44	nummod	
+46	gin2	shekels	NNS	43	conj	
+47	1(u)	_	CD	48	nummod	
+48	5(disz)	_	NNS	43	nummod	
+49	sze	grains	_	0	_	
+50	2(u)!	_	NN	48	nummod	
+51	2(disz)	_	,	48	nummod	
+52	gin2	shekels	_	0	_	
+53	su-he2	of sue	IN	50	nmod:of	
+54	ku3-bi	its silver	NN	48	appos	
+55	1/3(disz)	_	_	0	nummod	
+56	gin2	shekel	NN	48	_	
+57	6(disz)	_	_	0	nummod	
+58	sze	grains	NNS	56	appos	
+59	x	_	_	0	dep	
+60	kiszib3	under seal	NN	58	nmod:under	
+61	lu2-{d}en-lil2-la2	Lu-Enlila	NNP	60	nmod:of	
+62	3(ban2)	_	IN	61	nummod	
+63	6(disz)	ban	NN	56	nummod	
+64	2/3(disz)	_	,	63	nummod	
+65	sila3	sila	NN	63	_	
+66	5(disz)	_	_	0	nummod	
+67	1/2(disz)	_	_	66	nummod	
+68	sze	grains	NNS	65	_	
+69	i3-gesz	plant oil	NN	68	nmod:of	
+70	ku3-bi	its silver	NN	63	appos	
+71	3(disz)	_	-RRB-	76	nummod	
+72	2/3(disz)	_	:	73	nummod	
+73	gin2	shekels	NNS	63	_	
+74	1(disz)	_	CD	77	nummod	
+75	1/2(disz)	_	_	74	nummod	
+76	sze	grains	NNS	73	appos	
+77	2(ban2)	ban	NN	73	nummod	
+78	esir2	EA-bitumen	NN	77	nmod:of	
+79	E2-A	_	,	77	_	
+80	ku3-bi	its silver	NN	77	appos	
+81	2(u)	_	CD	84	nummod	
+82	4(disz)	_	_	81	nummod	
+83	sze	grains	NNS	77	_	
+84	2(ban2)	ban	NN	83	nummod	
+85	naga	alkali-plant	NN	84	nmod:of	
+86	si-e3	horned	VBN	85	amod	
+87	kiszib3	under seal	NN	85	nmod:under	
+88	ur-...	Ur-	NN	89	compound	
+89	1(barig)	barig	NN	87	nummod	
+90	naga	alkali-plant	JJ	85	_	
+91	si-e3	horned	VBN	90	amod	
+92	ku3-bi	their silver	NN	90	appos	
+93	1(u)	_	,	85	nummod	
+94	2(disz)	_	_	93	nummod	
+95	sze	grains	NNS	85	_	
+96	{gesz}gigir	for	IN	97	nmod:for	
+97	{d}szul-pa-e3-sze3	chariot Szulpae	NN	85	nmod:for	
+98	kiszib3	under seal	NN	85	nmod:under	
+99	lugal-...	Lugal-	NN	98	nmod:of	
+100	2(ban2)	ban	NN	83	nummod	
+101	naga	alkali-plant	JJ	102	_	
+102	si-e3	horned	VBN	100	acl	
+103	ku3-bi	its silver	NN	101	dobj	
+104	3(disz)	_	:	83	nummod	
+105	sze	grains	NNS	103	_	
+106	kiszib3	under seal	NN	83	_	
+107	a-kal-la	Akalla	NNP	106	nmod:of	
+108	aszgab	leatherworker	NN	106	appos	
+109	5(gesz2)	_	IN	107	nummod	
+110	4(u)	_	_	109	nummod	
+111	1(asz)	_	_	109	nummod	
+112	gu2	talents	NNS	106	_	
+113	esir2	bitumen	NN	112	nmod:of	
+114	had2	dried	VBN	113	amod	
+115	ku3-bi	its silver	NN	113	_	
+116	1/2(disz)	_	CD	119	nummod	
+117	ma-na	mana	NN	115	_	
+118	1(disz)	_	CD	119	nummod	
+119	gin2	shekel	NN	117	appos	
+120	4(asz)	_	,	117	nummod	
+121	2(barig)	_	_	120	nummod	
+122	3(disz)	_	_	120	nummod	
+123	sila3	sila	NN	124	compound	
+124	esir2	EA-bitumen	NNS	119	_	
+125	E2-A	_	_	0	_	
+126	ku3-bi	its silver	NN	117	appos	
+127	8(disz)	_	_	0	nummod	
+128	2/3(disz)	_	_	127	nummod	
+129	gin2	shekels	NNS	117	_	
+130	2(u)	_	_	0	nummod	
+131	4(disz)	_	_	130	nummod	
+132	sze	grains	NNS	129	appos	
+133	kiszib3	under seal	NN	132	nmod:under	
+134	a-du-mu	Adumu	NNP	133	nmod:of	
+135	2(ban2)	ban	NN	129	nummod	
+136	gesztin	raisins	NNS	135	nmod:of	
+137	had2	_	,	135	_	
+138	ku3-bi	its silver	NN	135	appos	
+139	1/3(disz)	_	:	140	nummod	
+140	gin2	shekel	NN	135	_	
+141	2(ban2)	ban	NN	140	nummod	
+142	SZIM	SZIM	NNP	141	nmod:of	
+143	hi-a	mixed	JJ	142	amod	
+144	ku3-bi	its silver	NN	142	appos	
+145	igi-4(disz)-gal2	_	:	141	_	
+146	ugu2	_	:	140	_	
+147	lu2-{d}nin-szubur	Lu-Ninubur	JJ	148	amod	
+148	ba-gar	in debit account set	NN	141	nmod:in	
+149	5/6(disz)	_	,	150	nummod	
+150	ma-na	mana	NN	140	_	
+151	3(disz)	_	_	0	nummod	
+152	1/2(disz)	_	_	151	nummod	
+153	gin2	shekels	NNS	150	conj	
+154	1(u)	_	_	0	nummod	
+155	1/2(disz)	_	_	154	nummod	
+156	sze	grains	NNS	157	compound	
+157	ku3-babbar	silver	NN	150	conj	
+158	diri	credit	NN	150	appos	
+159	nig2-ka9-ak	account	NN	158	nmod:of	
+160	4(disz)	_	,	161	nummod	
+161	ma-na	mana	NN	140	_	
+162	nagga	tin	NN	161	nmod:of	
+163	ku3-bi	its silver	NN	161	appos	
+164	1(u)	_	_	0	nummod	
+165	2(disz)	_	_	164	nummod	
+166	gin2	shekels	NNS	161	_	
+167	gag-gal	for big-nail	NN	166	nmod:for	
+168	ensi2-ka-sze3	ensi	NN	167	nmod:of	
+169	kiszib3	under seal	NN	166	nmod:under	
+170	lu2-kal-la	Lukalla	NNP	169	nmod:of	
+171	1/2(disz)	_	_	0	nummod	
+172	ma-na	mana	NN	174	compound	
+173	ku3-babbar	silver	NN	174	compound	
+174	ku3	silver	NN	166	conj	
+175	sa10-am3	exchange	NN	174	compound	
+176	ku3-husz-a	for red gold	NN	174	nmod:for	
+177	sza3	in	IN	178	nmod:in	
+178	nibru{ki}	Nippur	NNP	174	nmod:in	
+179	1/2(disz)!	_	:	180	nummod	
+180	ma-na	mana	NN	166	_	
+181	6(disz)	_	_	0	nummod	
+182	gin2	shekels	NNS	183	compound	
+183	ku3-babbar	silver	NN	180	appos	
+184	igi-kar2	the igikar	NN	189	_	
+185	nin	queen	NN	184	nmod:of	
+186	ur-{d}szul-pa-e3	Ur-Szulpae	NNP	189	nsubj	
+187	ku3-dim2	silversmith	NN	186	appos	
+188	szu	did	VBD	189	aux	
+189	ba-ti	receive	VBP	180	acl	
+190	szunigin	Total	NNP	189	_	
+191	3(disz)	_	_	0	nummod	
+192	1/2(disz)	_	_	191	nummod	
+193	ma-na	mana	NN	190	_	
+194	1(disz)	_	_	0	nummod	
+195	5/6(disz)	_	_	194	nummod	
+196	gin2	shekels	NNS	193	_	
+197	sze	grain	NN	198	compound	
+198	ku3-babbar	silver	NN	196	_	
+199	zi-ga-am3	booked out	VBN	198	acl	
+200	la2-ia3	Deficit	NN	115	_	
+201	1(disz)	_	:	115	nummod	
+202	1/2(disz)	_	_	201	nummod	
+203	ma-na	mana	NN	200	_	
+204	8(disz)	_	_	0	nummod	
+205	gin2	shekels	NNS	203	_	
+206	igi-6(disz)-gal2	_	_	0	_	
+207	nig2-ka9-ak	account	NN	115	_	
+208	ur-{d}dumu-zi-da	concerning Ur-Dumuzida	NNP	207	nmod:concern	
+209	iti	month	NN	210	compound	
+210	{d}dumu-zi	Dumuzi	NNP	115	_	
+211	mu	year	NN	210	_	
+212	en	high-priest	NN	214	nsubjpass	
+213	eridu{ki}	Eridu	NNP	212	nmod:of	
+214	ba-hun	was installed	VBN	211	acl
+	
+

@@ -1,0 +1,41 @@
+# train/P432309.atf
+						
+
+# tr.en: To Nanna impetuous calf of An the lord first-born son of Enlil his master Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters his speckled Melua dog from Marai brought by them as tribute a replica of it he fashioned and for his life he dedicated it to him Of that speckled dog Grab Him is its name
+1	{d}nanna	To Nanna	NNP	0	root	
+2	amar	calf	NN	1	appos	
+3	banda3{da}	impetuous	JJ	2	amod	
+4	an-na	An	DT	2	nmod:of	
+5	en	lord	NN	1	appos	
+6	dumu	son	NN	1	appos	
+7	sag	first-born	JJ	6	amod	
+8	{d}en-lil2-la2	Enlil	NNP	6	nmod:of	
+9	lugal-a-ni-ir	his master	NN	1	appos	
+10	{d}i-bi2-{d}suen	Ibbi-Sin	NNP	9	appos	
+11	dingir	the god	NN	9	appos	
+12	kalam-ma-na	his country	NN	11	nmod:of	
+13	lugal	king	NN	9	appos	
+14	kal-ga	the mighty	DT	13	det	
+15	lugal	king	NN	9	conj	
+16	uri5{ki}-ma	Ur	NN	15	nmod:of	
+17	lugal	king	NN	9	conj	
+18	an	four	CD	9	nummod	
+19	ub-da	world	NN	9	compound	
+20	limmu2-ba-ke4	and quarters	CC	9	cc	
+21	ur	his	PRP$	23	nmod:poss	
+22	gun3-a	speckled	JJ	23	amod	
+23	me-luh-ha{ki}	Melua dog	NN	1	appos	
+24	mar-ha!-szi{ki!}-ta	from Marai	NNP	1	nmod:from	
+25	gu2-un-sze3	brought	VBN	24	acl	
+26	mu-na-ab-tum2-ma-ni	by them as tribute	PRP	25	nmod:by	
+27	dam-szi-lum-bi	a replica it	NN	25	appos	
+28	mu-dim2	he fashioned	VBD	27	acl:relcl	
+29	nam-ti-la-ni-sze3	and for his life	CC	25	cc	
+30	a	he	PRP	31	nsubj	
+31	mu-na-ru	dedicated it to him	VBD	25	acl:relcl	
+32	ur	Of	IN	33	nmod:of	
+33	gun3-a-ba	that speckled dog	NN	1	nmod:of	
+34	he2-dab5	Grab Him	VB	35	csubj	
+35	mu-bi-im	is its name	NN	1	parataxis
+	
+

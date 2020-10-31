@@ -1,0 +1,38 @@
+# train/P432285.atf
+						
+
+# tr.en: Szu-Sin chosen by nsme by An beloved of Enlil the king by Enlil chosen by his sacred heart for shepherdship of country and of four quarters of world strong king king of Ur and king of four quarters of world his god Itura governor of Enunna his servant his temple he built for him
+1	{d}szu-{d}suen	Szu-Sin	NN	0	root	
+2	mu	_	_	0	_	
+3	pa3-da	chosen by nsme	VBN	1	acl	
+4	an-na	by An	DT	3	nmod:by	
+5	ki-ag2	beloved	JJ	4	amod	
+6	{d}en-lil2-la2	Enlil	NNP	5	nmod:of	
+7	lugal	king	NN	4	appos	
+8	{d}en-lil2-le	the by Enlil	DT	7	det	
+9	sza3	_	_	0	_	
+10	ku3-ge	chosen his sacred heart	VBN	7	acl	
+11	pa3-da	by	IN	10	nmod:by	
+12	nam-sipa	for shepherdship	NN	10	nmod:for	
+13	kalam-ma	country	NN	12	nmod:of	
+14	u3	and	CC	12	cc	
+15	an	four	CD	17	nummod	
+16	ub-da	_	,	17	_	
+17	limmu2-ba-sze3	quarters world	NNS	12	conj	
+18	lugal	king	NN	17	appos	
+19	kal-ga	strong	JJ	18	amod	
+20	lugal	king	NN	17	appos	
+21	uri5{ki}-ma	Ur	NN	20	nmod:of	
+22	lugal	king	NN	20	conj	
+23	an	four	CD	25	nummod	
+24	ub-da	and world	CC	20	cc	
+25	limmu2-ba	quarters	NNS	22	nmod:of	
+26	dingir-ra-ni-ir	his god	NN	17	appos	
+27	i-tu-ri-a	_	,	26	_	
+28	ensi2	governor	NN	26	appos	
+29	asz2-nun-na{ki}-ka	of Enunna	NNP	28	nmod:of	
+30	ARAD2-da-ni-e	his servant	NN	17	appos	
+31	e2-a-ni	his temple	NN	17	appos	
+32	mu-na-an-du3	he built for him	VBD	31	acl:relcl
+	
+

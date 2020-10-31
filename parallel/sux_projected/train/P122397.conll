@@ -1,0 +1,52 @@
+# train/P122397.atf
+						
+
+# tr.en: barig ban barley did Szekalla barig ban did Azida barig ban did Ur-Ninurta barley loan of Enlil from Lugal-namtare receive under seal of Ur-Ninurta the harvest will remit this debt That My field by flooding was ruined or by storm was ruined they will not say to king or chief administrator they will not say by royal name they have sworn the extra month Harvest the year En-amgal of Inanna by omens was chosen Ur-Ninurta son of Lu-Lamma
+1	1(barig)	_	CD	6	nummod	
+2	4(ban2)	barig ban	NN	3	nummod	
+3	sze	barley	NN	7	nsubj	
+4	szesz-kal-la	did Szekalla	VBD	7	aux	
+5	1(barig)	_	CD	9	nummod	
+6	4(ban2)	barig ban	NN	7	nummod	
+7	a2-zi-da	did Azida	VBD	0	root	
+8	1(barig)	_	_	0	nummod	
+9	4(ban2)	barig ban	NN	7	nummod	
+10	ur-{d}nin-urta	did Ur-Ninurta	VBD	9	acl:relcl	
+11	sze	barley	NN	12	compound	
+12	ur5-ra	loan	NN	10	dobj	
+13	{d}en-lil2-la2	Enlil	NN	12	nmod:of	
+14	ki	from	IN	17	nmod:from	
+15	lugal-nam-tar-re-ta	Lugal-namtare	JJ	17	amod	
+16	szu	_	:	7	_	
+17	ba-ti-esz2	receive	VBP	10	nmod:from	
+18	kiszib3	under seal	NN	7	nmod:under	
+19	ur-{d}nin-urta	Ur-Ninurta	NNP	18	nmod:of	
+20	buru14	the harvest	NN	21	nsubj	
+21	ama-bi	will remit	VB	18	parataxis	
+22	gi4-gi4	this debt	NN	21	dobj	
+23	a-sza3-mu	That My	DT	25	_	
+24	a-e	field by	NN	25	nsubjpass	
+25	ba-ab-rex(HU)	flooding was ruined or	VBN	27	csubjpass	
+26	u4-de3	_	``	25	_	
+27	ba-ab-rex(HU)	was ruined	VBN	28	acl	
+28	nu-ub-be2-ne-a	they will not say	VB	18	parataxis	
+29	lugal-ra	to king	NN	28	nmod:to	
+30	u3	_	,	29	_	
+31	sanga	_	_	0	_	
+32	nu-na-be2-ne-a	or chief administrator they will not say	CC	29	cc	
+33	mu	_	:	18	_	
+34	lugal-bi	by	IN	35	nmod:by	
+35	i3-pa3-de3-esz2	royal name they have sworn	NN	29	nmod:by	
+36	iti	month	NN	38	_	
+37	diri	the extra	DT	36	det	
+38	sze-sag11-ku5	Harvest	NNP	18	parataxis	
+39	mu	year	NN	38	_	
+40	en-am-gal	En-amgal	JJ	43	nsubjpass	
+41	{d}inanna	Inanna	NNP	40	nmod:of	
+42	masz2-e	by omens	NNS	40	nmod:by	
+43	i3-pa3	was chosen	VBN	38	acl	
+44	ur-{d}nin-urta	Ur-Ninurta	NNP	18	_	
+45	dumu	son	NN	44	appos	
+46	lu2-{d}lamma	Lu-Lamma	NN	45	nmod:of
+	
+

@@ -1,0 +1,30 @@
+# train/P337372.atf
+						
+
+# tr.en: Basket-of-tablets sealed documents of wool rations of New Years of Ur-Ikur Kugani Lu-saga Szara-amu ARAD Nig-ul-pae Lugal-mumag Ayakalla son of Duranie Lu-Sara son of ANbaAN are here year en in Eridu was installed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	kiszib3	sealed documents	NNS	19	nsubj	
+3	siki-ba	wool rations	NNS	2	nmod:of	
+4	za3-mu	New Years	NNP	3	nmod:of.'s	
+5	ur-{d}iszkur	Ur-Ikur	NNP	4	nmod:of	
+6	ku3-ga-ni	Kugani	NNP	5	appos	
+7	lu2-saga	Lu-saga	NN	4	appos	
+8	{d}szara2-a-mu	Szara-amu	NN	7	conj	
+9	ARAD2	ARAD	NN	7	conj	
+10	nig2-ul-pa-e3	Nig-ul-pae	NN	7	compound	
+11	lugal-mu-mu-ag2	Lugal-mumag	NN	7	conj	
+12	a-a-kal-la	Ayakalla	NN	7	conj	
+13	dumu	son	NN	7	appos	
+14	dur2-ra-ni-sze3	Duranie	NNP	13	nmod:of	
+15	lu2-{d}szara2	Lu-Sara	NNP	14	appos	
+16	dumu	son	NN	14	appos	
+17	AN-ba-AN	ANbaAN	NNP	16	nmod:of	
+18	'.	_	:	19	_	
+19	i3-gal2	are here	RB	1	_	
+20	'.	_	.	1	_	
+21	mu	year	NN	24	_	
+22	en	en	IN	24	nsubjpass	
+23	eridu{ki}	in Eridu	NNP	22	nmod:in	
+24	ba-hun	was installed	VBN	19	parataxis
+	
+

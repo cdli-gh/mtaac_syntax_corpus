@@ -1,0 +1,28 @@
+# train/P212347.atf
+						
+
+# tr.en: grain-fed sheep n grain-fed sheep attached to ox n grain-fed large billy goats nth day from Abbasaga Nalu took control of Month weaving of Ninazu year Huhnuri was destroyed
+1	1(u)	_	_	0	nummod	
+2	3(disz)	_	_	1	nummod	
+3	udu	sheep	NN	0	root	
+4	niga	grain-fed	JJ	3	amod	
+5	n	_	,	3	_	
+6	udu	sheep	NN	3	appos	
+7	niga	grain-fed	JJ	6	amod	
+8	gu4-e-us2-sa	attached to ox	VBN	6	acl	
+9	n	_	,	3	_	
+10	masz2-gal	large billy goats	NNS	3	_	
+11	niga	grain-fed	JJ	10	amod	
+12	u4	day	NN	13	appos	
+13	x-kam	nth	JJ	17	nsubj	
+14	ki	from	IN	16	nmod:from	
+15	ab-ba-sa6-ga-ta	Abbasaga	NNP	16	compound	
+16	na-lu5	Nalu	NNP	13	nmod:from	
+17	i3-dab5	took control	VBD	3	acl:relcl	
+18	iti	Month	NNP	17	nmod:of	
+19	ki-siki-{d}nin-a-zu	weaving Ninazu	VBG	17	acl	
+20	mu	year	NN	3	_	
+21	hu-uh2-nu-ri{ki}	Huhnuri	NNP	22	nsubjpass	
+22	ba-hul	was destroyed	VBN	3	acl
+	
+

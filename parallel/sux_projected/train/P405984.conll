@@ -1,0 +1,32 @@
+# train/P405984.atf
+						
+
+# tr.en: barges gur barges gur for straw to Gae via Bazi son of Dingira month Festival of Lisi th day completed year high-priest at Eridu was installed
+1	3(disz)	_	,	2	nummod	
+2	ma2	barges	NNS	0	root	
+3	1(gesz2)	_	CD	6	nummod	
+4	gur	gur	NN	2	appos	
+5	2(disz)	_	:	2	nummod	
+6	ma2	barges	NNS	2	appos	
+7	1(gesz2)	_	_	0	nummod	
+8	in-nu-da	gur for straw	NN	2	appos	
+9	ga-esz{ki}-sze3	to	TO	26	nmod:to	
+10	giri3	via	IN	11	nmod:via	
+11	ba-zi	Bazi	NNP	2	nmod:via	
+12	dumu	son	NN	11	appos	
+13	dingir-ra	Dingira	NNP	12	nmod:of	
+14	iti	month	NN	19	compound	
+15	ezem-{d}li9-si4	Festival Lisi	NNP	19	_	
+16	u4	_	''	19	_	
+17	2(u)	_	,	19	nummod	
+18	7(disz)	_	_	17	nummod	
+19	ba-zal	day completed	NN	2	_	
+20	mu	year	NN	19	appos	
+21	en	high-priest	JJ	23	nsubjpass	
+22	eridu{ki}	at Eridu	NNP	21	nmod:at	
+23	ba-hun	was installed	VBN	19	acl	
+24	 	_	NN	0	root	
+25	 	_	.	24	_	
+26	 	_	NNP	25	nmod:to
+	
+

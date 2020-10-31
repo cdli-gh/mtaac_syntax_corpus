@@ -1,0 +1,27 @@
+# train/P416406.atf
+						
+
+# tr.en: talents minas of yellowish wool from Naram-il delivery Szulgi-miar received month Harvest year Amar-Sin king Urbilum destroyed
+1	5(u)	_	_	0	nummod	
+2	8(asz)	_	_	1	nummod	
+3	gu2	talents	NNS	0	root	
+4	2(u)	_	_	0	nummod	
+5	3(disz)	_	_	4	nummod	
+6	1/3(disz)	_	_	4	nummod	
+7	ma-na	minas	NNS	3	_	
+8	siki-gi	yellowish wool	NN	7	nmod:of	
+9	ki	from	IN	10	nmod:from	
+10	na-ra-am-i3-li2-ta	Naram-il	NN	7	nmod:from	
+11	mu-kux(DU)	delivery	NN	10	conj	
+12	{d}szul-gi-mi-szar	Szulgi-miar	JJ	14	advmod	
+13	szu	_	:	10	_	
+14	ba-ti	received	VBN	10	conj	
+15	iti	month	NN	10	conj	
+16	sze-sag11-ku5	Harvest	NNP	10	_	
+17	mu	year	NN	16	_	
+18	{d}amar-{d}suen	Amar-Sin	NNP	16	_	
+19	lugal-e	king	NN	18	appos	
+20	ur-bi2-lum{ki}	Urbilum	NN	21	nsubj	
+21	mu-hul	destroyed	VBD	18	acl:relcl
+	
+

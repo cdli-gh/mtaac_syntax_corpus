@@ -1,0 +1,16 @@
+# test/P203374.atf
+						
+
+# tr.en: Basket-of-tablets debits of Mani in Girsu are here year following Urbilum was destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	sag-nig2-gur11-ra	debits	NNS	6	nsubj	
+3	ma-ni	Mani	NNP	2	nmod:of	
+4	sza3	in	IN	5	nmod:in	
+5	gir2-su{ki}	Girsu	NNP	2	nmod:in	
+6	i3-gal2	are here	RB	1	_	
+7	mu	year	NN	8	_	
+8	us2-sa	following	VBG	10	acl	
+9	ur-bi2-lum{ki}	Urbilum	NN	10	nsubjpass	
+10	ba-hul	was destroyed	VBN	6	parataxis
+	
+

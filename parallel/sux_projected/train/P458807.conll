@@ -1,0 +1,21 @@
+# train/P458807.atf
+						
+
+# tr.en: Sz-Suen strong man strong king king of Ur king of four corners to Sz-kabta general his servant he gifted
+1	{d}szu-{d}suen	Sz-Suen	NNP	0	root	
+2	nita	_	,	1	_	
+3	kal-ga	strong man	NN	1	appos	
+4	lugal	king	NN	1	appos	
+5	kal-ga	strong	JJ	4	amod	
+6	lugal	king	NN	1	appos	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	king	NN	1	appos	
+9	an	four	CD	11	nummod	
+10	ub-da	_	:	1	_	
+11	limmu2-ba	corners	NNS	8	nmod:of	
+12	szu-kab-ta2	to Sz-kabta	NN	1	nmod:to	
+13	szagina	general	JJ	12	amod	
+14	ARAD2-da-ni-ir	his servant	NN	12	appos	
+15	in-na-ba	he gifted	JJ	12	acl:relcl
+	
+

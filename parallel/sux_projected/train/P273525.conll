@@ -1,0 +1,26 @@
+# train/P273525.atf
+						
+
+# tr.en: sheep with fleece slaughtered from Kugani under seal of Lukalla month mine year Enunugal en-priest of Inanna was installed Lukalla scribe son of Ur-Ee cattle manager
+1	1(disz)	_	,	3	nummod	
+2	udu	sheep	NN	0	root	
+3	bar-gal2	with fleece	NN	2	nmod:with	
+4	ba-usz2	slaughtered	VBN	3	acl	
+5	ki	from	IN	6	nmod:from	
+6	ku3-ga-ni-ta	Kugani	NNP	3	nmod:from	
+7	kiszib3	under seal	NN	3	nmod:under	
+8	lu2-kal-la	Lukalla	NNP	7	nmod:of	
+9	iti	month	NN	10	compound	
+10	min-esz3	mine	NN	2	_	
+11	mu	year	NN	10	_	
+12	en-unu6-gal	Enunugal	NNP	15	nsubjpass	
+13	en	en-priest	NN	12	appos	
+14	{d}inanna	Inanna	NNP	13	nmod:of	
+15	ba-hun	was installed	VBN	10	acl	
+16	lu2-kal-la	Lukalla	NNP	10	nsubj	
+17	dub-sar	scribe	NN	16	appos	
+18	dumu	son	NN	16	appos	
+19	ur-e11-e	Ur-Ee	NN	18	nmod:of	
+20	szusz3	cattle manager	NN	10	dobj
+	
+

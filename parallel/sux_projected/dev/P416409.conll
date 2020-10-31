@@ -1,0 +1,31 @@
+# dev/P416409.atf
+						
+
+# tr.en: shekel of silver from Szu-Nisaba Lu-dingira received Since Lu-dingira did not have a seal the seal of Duganizi was rolled month Festival of An year house of Szara was erected Duganizi son of Ur-Szakkan cattle manager
+1	1(disz)	_	_	0	nummod	
+2	gin2	shekel	NN	8	nsubj	
+3	ku3-babbar	silver	NN	2	nmod:of	
+4	ki	from	IN	6	nmod:from	
+5	szu-{d}nisaba-ta	Szu-Nisaba	NNP	6	compound	
+6	lu2-dingir-ra	Lu-dingira	NNP	2	nmod:from	
+7	szu	_	:	8	_	
+8	ba-ti	received	VBD	0	root	
+9	mu	_	_	0	_	
+10	lu2-dingir-ra-ke4	Since Lu-dingira	IN	12	mark	
+11	kiszib3	_	,	15	_	
+12	nu-tuku-a-sze3	did not have a seal	VB	15	advcl	
+13	kiszib3	seal	NN	15	nsubjpass	
+14	du11-ga-ni-zi	the Duganizi	DT	13	det	
+15	ib2-ra	was rolled	VBN	8	parataxis	
+16	iti	month	NN	18	compound	
+17	ezem-an-na	Festival	NNP	16	_	
+18	mu	year	NN	8	parataxis	
+19	e2	house	NN	21	nsubjpass	
+20	{d}szara2	Szara	NN	19	nmod:of	
+21	ba-du3	was erected	VBN	18	acl	
+22	du11-ga-ni-zi	Duganizi	NNP	21	_	
+23	dumu	son	NN	22	appos	
+24	ur-{d}szakkan2	Ur-Szakkan	NNP	23	nmod:of	
+25	szusz3	cattle manager	NN	22	appos
+	
+

@@ -1,0 +1,37 @@
+# train/P128917.atf
+						
+
+# tr.en: rams grain-fed for Enlil rams grain-fed for Ninlil in royal g Ur-Nane cup-bearer was enforcer of month day passed from Nalu lifted in Nippur month ubi-feast year priest in Eridu was installed
+1	2(disz)	_	,	2	nummod	
+2	udu	rams	NNS	31	_	
+3	niga	grain-fed	JJ	2	amod	
+4	{d}en-lil2	for Enlil	NN	2	nmod:for	
+5	2(disz)	_	,	6	nummod	
+6	udu	rams	NNS	2	conj	
+7	niga	grain-fed	JJ	6	amod	
+8	{d}nin-lil2	for Ninlil	NN	6	nmod:for	
+9	sza3	in	IN	10	nmod:in	
+10	gi-guru7-a	royal g	NN	14	nmod:in	
+11	lugal	_	,	10	_	
+12	ur-{d}nansze	Ur-Nane	NNP	10	appos	
+13	sagi	cup-bearer	NN	10	appos	
+14	maszkim	was enforcer	NN	2	parataxis	
+15	iti	month	NN	16	compound	
+16	u4	day	NN	14	nmod:of	
+17	2(u)	_	,	14	nummod	
+18	ba-zal	passed	VBN	16	acl	
+19	ki	from	IN	20	nmod:from	
+20	na-lu5-ta	Nalu	NN	14	nmod:from	
+21	ba-zi	lifted	VBN	20	acl	
+22	sza3	in	IN	23	nmod:in	
+23	nibru{ki}	Nippur	NNP	14	nmod:in	
+24	iti	month	NN	25	_	
+25	u5-bi2-gu7	ubi-feast	JJ	14	xcomp	
+26	mu	year	NN	25	_	
+27	en	priest	NN	30	nsubjpass	
+28	eridu{ki}	in Eridu	NNP	27	nmod:in	
+29	ba-hun	was installed	VBD	30	auxpass	
+30	4(disz)	was installed	VBN	25	nummod	
+31	 	_	LS	0	root
+	
+

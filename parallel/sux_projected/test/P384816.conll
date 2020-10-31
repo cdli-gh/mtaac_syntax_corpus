@@ -1,0 +1,43 @@
+# test/P384816.atf
+						
+
+# tr.en: barig ban sila of barley regular offerings of month Extra year Simanum was destroyed gur ban sila of barley regular offerings of th month year Amorite wall was erected regular offerings for Szara and regular offerings for Szulgi from Gududu under individual seal of Abbagina Abbagina son of Inim-
+8	diri	_	``	44	_	
+9	mu	year	NN	44	_	
+10	si-ma-num2{ki}	Simanum	NNP	11	nsubjpass	
+11	ba-hul	was destroyed	VBN	44	acl	
+12	2(u)	_	,	16	nummod	
+13	4(asz)	_	_	12	nummod	
+14	1(ban2)	_	_	13	nummod	
+15	...	_	_	0	dep	
+16	4(disz)	gur ban	NN	11	nummod	
+17	1/2(disz)	gur ban	NN	16	nummod	
+18	sila3	sila	NN	16	conj	
+19	sze	barley	NN	18	nmod:of	
+20	sa2-du11	regular offerings th	NNS	16	appos	
+21	iti	month	NN	20	nmod:of	
+22	1(u)	_	,	21	nummod	
+23	3(disz)-kam	_	_	22	nummod	
+24	mu	year	NN	21	appos	
+25	bad3	_	:	44	_	
+26	mar-tu	Amorite wall	NN	27	nsubjpass	
+27	ba-du3	was erected	VBN	16	acl	
+28	sa2-du11	regular offerings for	NNS	44	_	
+29	{d}szara2	Szara	NN	28	nmod:for	
+30	u3	and	CC	29	cc	
+31	sa2-du11	regular offerings for	NNS	29	conj	
+32	{d}szul-gi	Szulgi	NNP	28	nmod:for	
+33	ki	from	IN	34	nmod:from	
+34	gu-du-du-ta	Gududu	NNP	44	nmod:from	
+35	kiszib3	under seal	NN	44	nmod:under	
+36	asz-a	individual	JJ	35	amod	
+37	ab-ba-gi-na	Abbagina	NNP	35	nmod:of	
+38	ab-ba-gi-na	Abbagina	NNP	39	compound	
+39	dumu	son	NN	44	_	
+40	inim-{d}x	Inim-	NN	39	appos	
+41	x-x-x	_	IN	39	dep	
+42	 	_	NN	0	root	
+43	 	_	.	42	_	
+44	 	_	NNP	43	_
+	
+

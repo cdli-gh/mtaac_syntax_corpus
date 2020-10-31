@@ -1,0 +1,34 @@
+# train/P416439.atf
+						
+
+# tr.en: sheep barley-fed regular rations of Geme-Enlila daughter of high-priest the st day from Nalu booked out in Nippur via Lu-Ninubur scribe month Festival of Szu-Sin year Szu-Suen king western wall muriq-tidnim erected
+1	3(disz)	_	,	2	nummod	
+2	udu	sheep	NN	28	_	
+3	niga	barley-fed	JJ	2	amod	
+4	sa2-du11	regular rations	NNS	12	nsubj	
+5	geme2-{d}en-lil2-la2	Geme-Enlila	NNP	4	nmod:of	
+6	dumu-munus	daughter	NN	5	appos	
+7	en-na	high-priest	JJ	6	nmod:of	
+8	u4	the st day	NN	5	appos	
+9	1(disz)-kam	_	,	5	nummod	
+10	ki	from	IN	11	nmod:from	
+11	na-lu5-ta	Nalu	NNP	4	nmod:from	
+12	ba-zi	booked out	VBD	2	acl:relcl	
+13	sza3	in	IN	14	nmod:in	
+14	nibru{ki}	Nippur	NNP	12	nmod:in	
+15	giri3	via	IN	16	nmod:via	
+16	lu2-{d}nin-szubur	Lu-Ninubur	NNP	12	nmod:via	
+17	dub-sar	scribe	NN	16	appos	
+18	iti	month	NN	20	_	
+19	ezem-{d}szu-{d}suen	Festival Szu-Sin	NNP	20	_	
+20	mu	year	NN	2	_	
+21	{d}szu-{d}suen	Szu-Suen	NNP	20	_	
+22	lugal-e	king	NN	21	appos	
+23	bad3	_	:	2	_	
+24	mar-tu	western wall	JJ	25	amod	
+25	mu-ri-iq-ti-id-ni-im	muriq-tidnim	NN	21	appos	
+26	mu-du3	erected	VBN	25	acl	
+27	3(disz)	_	NN	0	nummod	
+28	 	_	LS	0	root
+	
+

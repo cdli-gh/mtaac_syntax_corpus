@@ -1,0 +1,137 @@
+# test/P102286.atf
+						
+
+# tr.en: gur under seal of gur barig sila under seal of Ur-Enunna gur barig ban under seal of Gutar gur barig ban sila barley ban wheat under seal of Lugalrani gur barig under seal of Ur-Damu barig under seal of Tirgu barig Lugal-gigire gur barig under seal of Ur-Gudena son of Ur-Suen gur city of Bura under seal of Lu-Nanna son of Lugal-ane nubanda gur barig ban under seal of Kugani son of Gudea barig under seal of Dada barig under seal of Lu-KA-ni son of Lugal-gue gur regular offerings of Zabala of long-headed under seal of Ur-Nungal gur sila under seal of Lugal-kuzu messenger under seal of Nanna-isa son of Ur-Hendursag total gur barig ban sila barley total barig ban wheat barley with interest cut available
+1	'.	_	NN	4	nmod:of	
+2	8(asz)	_	:	10	nummod	
+3	gur	gur	NN	10	nsubj	
+4	kiszib3	under seal	NN	10	nmod:under	
+5	x-x-...	of	IN	1	dep	
+6	'.	_	,	10	_	
+7	3(u)	_	_	0	nummod	
+8	4(asz)	_	_	7	nummod	
+9	4(barig)	_	_	7	nummod	
+10	8(disz)	barig	NN	7	nummod	
+11	sila3	sila	NN	10	dobj	
+12	gur	gur	NN	10	compound	
+13	'.	_	:	10	_	
+14	kiszib3	under seal	NN	10	nmod:under	
+15	ur-e2-nun-na	Ur-Enunna	NNP	14	nmod:of	
+16	'.	_	CD	31	nummod	
+17	5(asz)	_	_	0	nummod	
+18	1(barig)	_	_	17	nummod	
+19	5(ban2)	barig ban	NN	20	nummod	
+20	gur	gur	NN	10	conj	
+21	kiszib3	under seal	NN	20	nmod:under	
+22	gu2-tar	Gutar	NN	31	compound	
+23	'.	_	,	31	_	
+24	2(gesz2)	_	CD	25	nummod	
+25	7(asz)	_	CD	35	nummod	
+26	2(barig)	_	_	25	nummod	
+27	2(ban2)	_	_	25	nummod	
+28	8(disz)	barig ban	NN	31	nummod	
+29	sila3	sila	NN	30	compound	
+30	sze	barley	NN	28	_	
+31	gur	gur	NN	21	nmod:of	
+32	'.	_	,	31	_	
+33	1(barig)	ban	NN	35	nummod	
+34	1(ban2)	_	_	33	nummod	
+35	gig	wheat	NN	31	appos	
+36	'.	_	NN	10	_	
+37	kiszib3	under seal	NN	20	nmod:under	
+38	lugal-ra-ni	Lugalrani	NNP	37	nmod:of	
+39	'.	_	:	36	_	
+40	n	_	CD	47	nummod	
+41	2(asz)	_	_	0	nummod	
+42	1(barig)	barig	NN	43	nummod	
+43	gur	gur	NN	36	_	
+44	kiszib3	under seal	NN	36	nmod:under	
+45	ur-{d}da-mu	Ur-Damu	NNP	44	nmod:of	
+46	'.	_	:	47	_	
+47	4(barig)	barig	NN	36	nummod	
+48	kiszib3	under seal	NN	47	nmod:under	
+49	tir-gu	Tirgu	NNP	48	nmod:of	
+50	'.	_	:	52	_	
+51	2(barig)	barig	NN	47	nummod	
+52	lugal-{gesz}gigir-re	Lugal-gigire	NN	51	_	
+53	'.	_	:	52	_	
+54	1(asz)	_	CD	62	nummod	
+55	4(barig)	gur barig	NN	52	nummod	
+56	kiszib3	under seal	NN	52	nmod:under	
+57	ur-gu2-de3-e-na	Ur-Gudena	NNP	56	nmod:of	
+58	dumu	son	NN	52	appos	
+59	ur-{d}suen	Ur-Suen	NNP	58	nmod:of	
+60	'.	_	,	52	_	
+61	1(gesz2)	_	_	0	nummod	
+62	gur	gur	NN	52	_	
+63	iri	city	NN	62	_	
+64	bu3-ra{ki}	Bura	NNP	63	nmod:of	
+65	'.	_	:	52	_	
+66	kiszib3	under seal	NN	52	nmod:under	
+67	lu2-{d}nanna	Lu-Nanna	NNP	66	nmod:of	
+68	dumu	son	NN	52	appos	
+69	lugal-an-ne2	Lugal-ane	NN	68	nmod:of	
+70	nu-banda3	nubanda	NN	69	appos	
+71	'.	_	,	75	_	
+72	4(asz)	_	_	0	nummod	
+73	2(barig)	_	_	72	nummod	
+74	2(ban2)	barig ban	NN	75	nummod	
+75	gur	gur	NN	52	conj	
+76	'.	_	:	52	_	
+77	kiszib3	under seal	NN	75	nmod:under	
+78	ku3-ga-ni	Kugani	NNP	77	nmod:of	
+79	dumu	son	NN	75	appos	
+80	gu3-de2-a	Gudea	NNP	79	nmod:of	
+81	2(barig)	barig	NN	52	nummod	
+82	kiszib3	under seal	NN	81	nmod:under	
+83	da-da	Dada	NN	82	nmod:of	
+84	2(barig)	barig	NN	52	nummod	
+85	kiszib3	under seal	NN	84	nmod:under	
+86	lu2-giri17-zal	Lu-KA-ni	NNP	85	nmod:of	
+87	dumu	son	NN	85	_	
+88	lugal-gu4-e	Lugal-gue	NN	87	nmod:of	
+89	2(u)	_	,	93	nummod	
+90	8(asz)	_	_	89	nummod	
+91	gur	gur	NN	52	conj	
+92	sa2-du11	regular offerings	NNS	91	appos	
+93	zabala3{ki}	Zabala	NNP	92	nmod:of	
+94	sag-bi	long-headed	JJ	93	nmod:of	
+95	gid2-da	_	_	0	_	
+96	kiszib3	under seal	NN	91	nmod:under	
+97	ur-{d}nun-gal	Ur-Nungal	NNP	96	nmod:of	
+98	4(gesz2)	_	IN	97	nummod	
+99	3(u)	_	,	52	nummod	
+100	5(asz)	_	_	99	nummod	
+101	9(disz)	_	_	99	nummod	
+102	sila3	sila	NN	52	conj	
+103	gur	gur	NN	102	compound	
+104	kiszib3	under seal	NN	52	nmod:under	
+105	lugal-ku3-zu	Lugal-kuzu	NN	104	nmod:of	
+106	sukkal	messenger	NN	104	_	
+107	5(asz)	_	:	106	nummod	
+108	gur	_	_	0	_	
+109	kiszib3	under seal	NN	106	nmod:under	
+110	{d}nanna-i3-sa6	Nanna-isa	NN	109	nmod:of	
+111	dumu	son	NN	109	_	
+112	ur-{d}hendur-sag-ka	Ur-Hendursag	NN	111	nmod:of	
+113	szunigin	total	NN	106	_	
+114	9(gesz2)	_	:	106	nummod	
+115	5(u)	_	_	114	nummod	
+116	6(asz)	_	_	114	nummod	
+117	2(barig)	_	_	114	nummod	
+118	5(ban2)	_	_	114	nummod	
+119	2(disz)	barig ban	NN	122	nummod	
+120	sila3	sila	NN	121	compound	
+121	sze	barley	NN	119	_	
+122	gur	gur	NN	113	_	
+123	szunigin	total	NN	106	_	
+124	1(barig)	_	:	106	nummod	
+125	1(ban2)	barig ban	NN	126	nummod	
+126	gig	wheat	NN	123	_	
+127	sze	barley	NN	106	_	
+128	ur5-ra	_	,	129	_	
+129	ku5-a	with interest cut available	NN	127	nmod:with	
+130	gal2-la	_	_	0	_	
+131	...	_	NN	129	dep
+	
+

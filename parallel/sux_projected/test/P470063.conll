@@ -1,0 +1,44 @@
+# test/P470063.atf
+						
+
+# tr.en: cows oxen ewes rams suckling lambs house of grain-fed sheep regular rations month kisiki of Ninazu year Kima and Hurti were destroyed oxen sheep
+1	2(u)	_	,	3	nummod	
+2	3(disz)	_	CD	5	nummod	
+3	ab2	cows	NNS	0	root	
+4	4(disz)	_	,	3	nummod	
+5	gu4	oxen	NN	3	appos	
+6	2(gesz'u)	_	CD	13	nummod	
+7	3(u)	_	_	6	nummod	
+8	2(disz)	_	_	6	nummod	
+9	u8	ewes	NNS	3	appos	
+10	1(gesz2)	_	,	3	nummod	
+11	4(u)	_	CD	18	nummod	
+12	5(disz)	_	_	11	nummod	
+13	udu	rams	NNS	9	_	
+14	4(disz)	_	NN	18	nummod	
+15	sila4	lambs	NNS	18	compound	
+16	ga	suckling	NN	18	compound	
+17	x	_	:	3	dep	
+18	e2-udu-niga	house of grain-fed sheep	NN	3	appos	
+19	'.	_	NN	3	_	
+20	sa2-du11	regular rations	JJ	19	amod	
+21	...	regular rations	NNS	19	dep	
+22	'.	_	,	19	_	
+23	iti	month	NN	19	_	
+24	ki-siki-{d}nin-a-zu	kisiki Ninazu	NN	19	_	
+25	'.	_	.	19	_	
+26	mu	year	NN	19	_	
+27	ki-masz{ki}	_	:	19	_	
+28	u3	and	CC	30	cc	
+29	hu-ur5-ti{ki}	Hurti	NNP	30	conj	
+30	ba-hul	were destroyed	VBN	19	acl	
+31	2(u)	_	.	3	nummod	
+32	7(disz)	_	_	31	nummod	
+33	gu4	oxen	NNS	19	_	
+34	2(gesz'u)	_	_	0	nummod	
+35	2(gesz2)	_	_	34	nummod	
+36	2(u)	_	_	34	nummod	
+37	1(disz)	_	_	34	nummod	
+38	udu	sheep	NN	19	appos
+	
+

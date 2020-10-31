@@ -1,0 +1,23 @@
+# test/P204151.atf
+						
+
+# tr.en: Basket-of-tablets long-tablets fresh barley via Ur-Ningal son of Erinda and Lu-dingira son of Lu-Baba are here year Amar-Suen is king
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub	long-tablets	NNS	14	nsubj	
+3	gid2-da	_	,	2	_	
+4	sze	barley	NN	2	appos	
+5	gibil	fresh	JJ	4	amod	
+6	giri3	via	IN	7	nmod:via	
+7	ur-{d}nun-gal	Ur-Ningal	NNP	2	nmod:via	
+8	dumu	son	NN	7	appos	
+9	erin-da	Erinda	NNP	8	nmod:of	
+10	u3	and	CC	7	cc	
+11	lu2-dingir-ra	Lu-dingira	NN	7	conj	
+12	dumu	son	NN	7	appos	
+13	lu2-{d}ba-ba6	Lu-Baba	NNP	12	nmod:of	
+14	i3-gal2	are here	RB	1	_	
+15	mu	year	NN	17	_	
+16	{d}amar-{d}suen	Amar-Suen is	NNP	17	nsubj	
+17	lugal	king	NN	14	parataxis
+	
+

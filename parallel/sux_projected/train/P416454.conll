@@ -1,0 +1,33 @@
+# train/P416454.atf
+						
+
+# tr.en: gur of barley barley allotment of Anati gur of barley of Nun- total gur of barley barley allotments from field month ki-siki of Ninazu year boat ibex of absu-Enki was caulked
+1	9(asz)	_	NN	6	nummod	
+2	sze	barley	NN	3	nmod:of	
+3	gur	gur	NN	0	root	
+4	sze	barley	_	0	_	
+5	szuku	_	:	3	_	
+6	a-na-ti	allotment Anati	NN	3	appos	
+7	2(asz)	_	,	9	nummod	
+8	sze	barley	NN	9	nmod:of	
+9	gur	gur	NN	3	_	
+10	{d}nun-...	Nun-	NN	9	nmod:of	
+11	szunigin	total	NN	9	_	
+12	1(u)	_	,	11	nummod	
+13	1(asz)	_	NN	19	nummod	
+14	sze	barley	NN	15	nmod:of	
+15	gur	gur	NN	11	_	
+16	sze	barley	_	0	_	
+17	szuku-ra	_	NN	11	appos	
+18	a-sza3	field	NN	19	nmod:from	
+19	...-GAG	allotments	NNS	17	nsubj	
+20	UD	from	IN	18	nmod:from	
+21	gur8	_	:	3	_	
+22	iti	month	NN	24	compound	
+23	ki-siki-{d}nin-a-zu	ki-siki Ninazu	NN	24	_	
+24	mu	year	NN	3	_	
+25	ma2	boat	NN	26	compound	
+26	dara3-abzu-{d}en-ki	ibex absu-Enki	NN	27	nsubjpass	
+27	ba-du8	was caulked	VBN	24	acl
+	
+

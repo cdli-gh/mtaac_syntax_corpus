@@ -1,0 +1,15 @@
+# test/P465368.atf
+						
+
+# tr.en: For Ninubur the minister of An for life of Meskigal ruler of Adab
+1	{d}nin-szubur	For Ninubur	NNP	0	root	
+2	sukkal	_	,	3	_	
+3	an-ra	the minister An	NN	9	root	
+4	nam-ti	for life	NN	3	nmod:for	
+5	mes-ki-gal	Meskigal	NNP	4	nmod:of	
+6	ensi2	ruler	NN	5	appos	
+7	adab{ki}	Adab	NNP	6	nmod:of	
+8	 	_	NN	0	root	
+9	 	_	NN	8	appos
+	
+

@@ -1,0 +1,28 @@
+# train/P127377.atf
+						
+
+# tr.en: fat-tailed ewe male suckling lambs suckling ewe lambs slaughtered rd day from Lu-dingira Ur-nigar received month Festival of An year Amar-Suen king
+1	1(disz)	_	,	2	nummod	
+2	|U8+HUL2|	fat-tailed ewe	NN	0	root	
+3	3(disz)	_	,	2	nummod	
+4	sila4	male	JJ	5	amod	
+5	ga	suckling lambs	NNS	2	conj	
+6	2(disz)	_	,	2	nummod	
+7	kir11	ewe lambs	NNS	2	conj	
+8	ga	suckling	NN	7	compound	
+9	ba-usz2	slaughtered	VBN	19	amod	
+10	u4	rd day	NN	9	nmod:tmod	
+11	3(disz)-kam	_	:	9	nummod	
+12	ki	from	IN	16	nmod:from	
+13	lu2-dingir-ra-ta	Lu-dingira	NN	16	_	
+14	ur-nigar{gar}	Ur-nigar	JJ	16	advmod	
+15	szu	_	:	9	_	
+16	ba-ti	received	VBN	9	conj	
+17	iti	month	NN	9	conj	
+18	ezem-an-na	Festival	NNP	17	_	
+19	mu	year	NN	2	appos	
+20	{d}amar-{d}suen	Amar-Suen	JJ	21	amod	
+21	lugal	king	NN	2	_	
+22	6(disz)	_	NN	0	nummod
+	
+

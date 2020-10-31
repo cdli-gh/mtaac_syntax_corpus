@@ -1,0 +1,50 @@
+# train/P134381.atf
+						
+
+# tr.en: gur barley barley for of Enlil to be stored in that place from Lugal-namtare did Ur-aya receive the extra month Harvest year En-magal-ana as en priestess of Innana was installed the harvest will remit this barley into household of Enlil which he is entering That My field by storm was ruined or by flood water was ruined to king or to chief administrator he will not say by royal name he swore Ur-aya scribe son of Engar-du cupbearer
+1	n	_	_	0	_	
+2	sze	barley	NN	4	compound	
+3	gur	gur	NN	4	compound	
+4	sze	barley	NN	12	nsubj	
+5	{d}en-lil2-la2	Enlil	NNP	4	nmod:for.of	
+6	ki-ba	to	TO	7	mark	
+7	se-ge-de3	be stored in that place	VBN	4	acl	
+8	ki	from	IN	9	nmod:from	
+9	lugal-nam-tar-re-ta	Lugal-namtare	NN	4	nmod:from	
+10	ur-{d}ha-ia3-ke4	did Ur-aya	VBD	12	aux	
+11	szu	_	:	12	_	
+12	ba-ti	receive	VB	0	root	
+13	iti	month	NN	15	_	
+14	diri	the extra	DT	13	det	
+15	sze-sag11-ku5	Harvest	NNP	12	parataxis	
+16	mu	year	NN	15	_	
+17	en-mah-gal-an-na	En-magal-ana as	NN	20	nsubjpass	
+18	en	en priestess	NN	17	nmod:as.en	
+19	{d}inanna	Innana	NNP	18	nmod:of	
+20	ba-hun	was installed	VBN	15	parataxis	
+21	sze-bi	the barley	DT	22	det	
+22	buru14	harvest	NN	23	nsubj	
+23	ama-bi	will remit	VB	12	ccomp	
+24	gi4-gi4	this	DT	23	det	
+25	e2	household	NN	23	nmod:into	
+26	{d}en-lil2-la2-ka	into Enlil	IN	25	nmod:into	
+27	i3-ni-kux(KWU636)-kux(KWU636)-a	which he is entering	VBG	25	acl:relcl	
+28	a-sza3-mu	That My	DT	29	det	
+29	u4-de3	field by storm	NN	30	nsubjpass	
+30	ba-ab-de3	was ruined or	VBN	12	parataxis	
+31	a-e	by	IN	32	nmod:by	
+32	ba-ab-de3	flood water was ruined	VBN	30	conj	
+33	lugal-ra	to king or	NN	30	nmod:to	
+34	u3	_	,	36	_	
+35	sanga	_	_	0	_	
+36	nu-un-na-be2-a	say to chief administrator he will not	NN	33	conj	
+37	mu	_	.	12	_	
+38	lugal-bi	by royal name he swore	NN	36	nmod:by	
+39	in-pa3	_	_	0	_	
+40	ur-{d}ha-ia3	Ur-aya	NNP	12	parataxis	
+41	dub-sar	scribe	NN	40	appos	
+42	dumu	son	NN	40	appos	
+43	engar-du10	Engar-du	NN	42	nmod:of	
+44	sagi	cupbearer	NN	43	appos
+	
+

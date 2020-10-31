@@ -1,0 +1,16 @@
+# dev/P432125.atf
+						
+
+# tr.en: For Inanna Ninkununa his mistress Ur-Namma the king of Ur her temple he built for her
+1	{d}inanna	For Inanna	IN	4	nmod:for	
+2	nin	_	,	4	_	
+3	ku3	_	_	0	_	
+4	nun-na	Ninkununa	NNP	0	root	
+5	nin-a-ni	his mistress	NN	2	root	
+6	ur-{d}namma	Ur-Namma	NN	5	appos	
+7	lugal	king	NN	5	appos	
+8	uri5{ki}-ma-ke4	the Ur	DT	7	det	
+9	e2-a-ni	her temple	NN	5	appos	
+10	mu-na-du3	he built for her	VBD	9	acl:relcl
+	
+

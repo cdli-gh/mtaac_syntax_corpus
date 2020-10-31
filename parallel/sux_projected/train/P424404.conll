@@ -1,0 +1,32 @@
+# train/P424404.atf
+						
+
+# tr.en: talents mina shekels of wool from shepherd of Akalla of governor from new-house Gudada received year Szu-Suen king of Ur had great-barge built for Enlil and Ninlil
+1	3(u)	_	_	0	nummod	
+2	6(asz)	_	_	1	nummod	
+3	gu2	talents	NNS	0	root	
+4	3(u)	_	_	0	nummod	
+5	6(disz)	_	_	4	nummod	
+6	5/6(disz)	_	_	4	nummod	
+7	ma-na	mina	NN	3	appos	
+8	7(disz)	_	_	0	nummod	
+9	gin2	shekels	NNS	3	appos	
+10	siki	wool	NN	9	nmod:of	
+11	ki	from	IN	12	nmod:from	
+12	sipa	shepherd	NN	9	nmod:from	
+13	a-a-kal-la	Akalla	NNP	12	nmod:of	
+14	ensi2-ka	of governor	NN	3	nmod:of	
+15	e2-gibil-ta	from new-house	NN	3	nmod:from	
+16	gu-da-da	Gudada	NNP	18	nsubj	
+17	szu	_	.	18	_	
+18	ba-ti	received	VBD	3	acl:relcl	
+19	mu	year	NN	18	nmod:tmod	
+20	{d}szu-{d}suen	Szu-Suen	NNP	23	nsubj	
+21	lugal	king	NN	20	appos	
+22	uri{ki}-ma	Ur	NN	21	nmod:of	
+23	ma2-gur8-mah	had	VBD	3	acl	
+24	{d}en-lil2	Enlil for	NNP	26	nmod:for	
+25	{d}nin-lil2-ra	and Ninlil	CC	24	cc	
+26	mu-ne2-dim2	great-barge built	NN	23	dobj
+	
+

@@ -1,0 +1,50 @@
+# train/P388399.atf
+						
+
+# tr.en: laborers foreman Lu-dingira laborers foreman Lugal-girizal laborers foreman Lu-saga laborers foreman Lu-Daya laborers foreman Ur-gigir laborers foreman Lugal-magure laborers laborers sick foreman Lugal-mumag are stationed within bala month Lisi year Szarum was destroyed
+1	1(u)	_	,	3	nummod	
+2	1(disz)	_	_	1	nummod	
+3	gurusz	laborers	NNS	0	root	
+4	ugula	foreman	NN	3	appos	
+5	lu2-dingir-ra	Lu-dingira	NN	3	_	
+6	3(disz)	_	:	9	nummod	
+7	gurusz	laborers	NNS	5	_	
+8	ugula	foreman	NN	5	appos	
+9	lugal-giri17-zal	Lugal-girizal	NN	5	_	
+10	2(disz)	_	:	13	nummod	
+11	gurusz	laborers	NNS	9	_	
+12	ugula	foreman	NN	9	appos	
+13	lu2-saga	Lu-saga	NN	9	_	
+14	1(u)	_	:	18	nummod	
+15	2(disz)	_	CD	21	nummod	
+16	gurusz	laborers	NNS	13	_	
+17	ugula	foreman	NN	13	appos	
+18	lu2-{d}da-ia3	Lu-Daya	NNP	17	_	
+19	1(u)	_	:	23	nummod	
+20	6(disz)	_	CD	26	nummod	
+21	gurusz	laborers	NNS	18	_	
+22	ugula	foreman	NN	18	appos	
+23	ur-{gesz}gigir	Ur-gigir	NN	22	_	
+24	1(u)	_	:	28	nummod	
+25	1(disz)	_	CD	31	nummod	
+26	gurusz	laborers	NNS	23	_	
+27	ugula	foreman	NN	23	appos	
+28	lugal-ma2-gur8-re	Lugal-magure	NN	37	nsubjpass	
+29	1(u)	_	,	31	nummod	
+30	7(disz)	_	_	29	nummod	
+31	gurusz	laborers	NNS	28	_	
+32	3(disz)	_	_	0	nummod	
+33	gurusz	laborers	NNS	31	conj	
+34	tu-ra	sick	JJ	31	amod	
+35	ugula	foreman	NN	31	appos	
+36	lugal-mu-ma-ag2	Lugal-mumag	NN	28	_	
+37	gub-ba-am3	are stationed	VBN	23	acl	
+38	sza3	within	IN	39	nmod:within	
+39	bala-a	bala	NN	37	nmod:within	
+40	iti	month	NN	37	_	
+41	{d}li9-si4	_	``	40	_	
+42	mu	year	NN	40	_	
+43	sza-asz-ru-um{ki}	_	``	40	_	
+44	ba-hul	was destroyed	VBN	40	acl
+	
+

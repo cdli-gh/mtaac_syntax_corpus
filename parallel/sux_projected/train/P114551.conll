@@ -1,0 +1,97 @@
+# train/P114551.atf
+						
+
+# tr.en: male laborers shekel each from month GANma to month Oxen- its labor shekels silver male laborers shekel each from month Festival of Lisi to month Festival of Baba of months its labor shekels total mana shekels silver are debits therefrom shekels Ur-Enki shekels Bazi shekels Lu-Baba shekels less grains silver via Ur-Tira shekels silver agul silver Eki temple household manager of Ninmar shekels released total shekels silver deliveries the deficit less shekels account of Abbamu year after wall of land was erected
+1	1(u)	_	,	3	nummod	
+2	1(disz)	_	_	1	nummod	
+3	gurusz	male laborers	NNS	0	root	
+4	1(disz)	_	_	0	nummod	
+5	gin2-ta	shekel each	NN	3	appos	
+6	iti	month	NN	3	nmod:from	
+7	GAN2-masz-ta	from	IN	6	nmod:from	
+8	iti	month	NN	91	nmod:to	
+9	gu4-ra2-bi2-mu2-mu2-sze3	to Oxen-	TO	8	nmod:to	
+10	a2-bi	its labor	NN	91	_	
+11	1/3(disz){sza}	_	:	14	nummod	
+12	2(disz)	_	CD	17	nummod	
+13	gin2	shekels	NNS	14	compound	
+14	ku3	silver	NN	91	_	
+15	1(u)	_	,	17	nummod	
+16	1(disz)	_	_	15	nummod	
+17	gurusz	male laborers shekel	NNS	14	_	
+18	2/3(disz)-ta	each	DT	17	nummod	
+19	iti	month	NN	17	nmod:from	
+20	ezem-{d}li9-si4-ta	from Festival Lisi	IN	19	nmod:from	
+21	iti	month	NN	19	nmod:to	
+22	ezem-{d}ba-ba6-sze3	to Festival Baba	TO	21	nmod:to	
+23	iti	months	NNS	17	nmod:of	
+24	6(disz)-kam	_	,	14	nummod	
+25	a2-bi	its labor	NN	14	appos	
+26	2/3(disz){sza}	_	:	28	nummod	
+27	4(disz)	_	_	26	nummod	
+28	gin2	shekels	NNS	14	_	
+29	szunigin	total	NN	28	_	
+30	1(disz)	_	_	0	nummod	
+31	ma-na	mana	NN	35	nsubj	
+32	6(disz)	_	_	0	nummod	
+33	gin2	shekels	NNS	34	compound	
+34	ku3-babbar	silver	NN	31	_	
+35	sag-nig2-gur11-ra-kam	are debits	NNS	29	_	
+36	sza3-bi-ta	therefrom	RB	39	_	
+37	1(u)	_	NNP	39	nummod	
+38	3(disz)	_	NNS	37	nummod	
+39	gin2	shekels	NNS	28	_	
+40	ur-{d}en-ki	_	,	39	_	
+41	1(u)	_	NNP	37	nummod	
+42	2(disz)	_	:	39	nummod	
+43	gin2	_	,	38	_	
+44	ba-zi	Bazi	_	0	_	
+45	7(disz)	_	NNS	39	nummod	
+46	gin2	shekels	CD	45	nummod	
+47	igi-5(disz)-gal2	_	NNP	45	appos	
+48	lu2-{d}ba-ba6	_	:	39	_	
+49	1(u)	_	,	50	nummod	
+50	gin2	shekels	NNS	39	conj	
+51	la2	less	RBR	55	advmod	
+52	1(u)	_	_	51	nummod	
+53	5(disz)	_	_	52	nummod	
+54	sze	grains	NNS	55	compound	
+55	ku3-babbar	silver	NN	50	_	
+56	giri3	via	IN	57	nmod:via	
+57	ur-ti-ra-asz2	Ur-Tira	NNP	50	nmod:via	
+58	2(disz)	_	,	60	nummod	
+59	gin2	shekels	NNS	60	compound	
+60	ku3	silver	NN	39	conj	
+61	a2-gul	agul	JJ	62	amod	
+62	ku3-babbar	silver	NN	60	conj	
+63	e2-ki	Eki	NNP	60	conj	
+64	sanga	temple household	NN	65	compound	
+65	{d}nin-mar<{ki}>	manager Ninmar	NN	60	appos	
+66	5(disz)	_	NN	39	nummod	
+67	gin2	shekels	NNS	39	conj	
+68	in-na-du8	released	VBN	67	acl	
+69	szunigin	_	:	66	_	
+70	2/3(disz){sza}	_	,	74	nummod	
+71	2(disz)	_	_	70	nummod	
+72	gin2	shekels	NNS	74	compound	
+73	igi-4(disz)-gal2	_	_	0	_	
+74	ku3-babbar	silver	NN	66	_	
+75	mu-kux(DU)	deliveries	NN	74	appos	
+76	la2-ia3	the deficit	NN	74	_	
+77	1/3(disz){sza}	_	,	79	nummod	
+78	2(disz)	_	_	77	nummod	
+79	gin2	shekels	NNS	76	_	
+80	la2	less	JJR	79	advmod	
+81	igi-4(disz)-gal2	_	_	0	_	
+82	nig2-ka9-ak	account	NN	79	appos	
+83	ab-ba-mu	Abbamu	NNP	82	nmod:of	
+84	mu	year	NN	79	appos	
+85	us2-sa	after	IN	84	nmod:after	
+86	bad3	wall	NN	88	nsubjpass	
+87	ma-da	land	NN	86	nmod:of	
+88	ba-du3	was erected	VBN	79	acl	
+89	 	_	NN	0	root	
+90	 	_	NN	89	appos	
+91	 	_	NN	90	_
+	
+

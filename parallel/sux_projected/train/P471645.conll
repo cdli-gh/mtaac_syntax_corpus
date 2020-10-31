@@ -1,0 +1,27 @@
+# train/P471645.atf
+						
+
+# tr.en: male laborers for workdays at builder-house stationed at -house stationed foreman Ukkene via Lu-girizal under seal of Biduga year Kima was destroyed
+1	1(u)	_	,	3	nummod	
+2	5(disz)	_	_	1	nummod	
+3	gurusz	male laborers	NNS	0	root	
+4	u4	for workdays	NNS	3	nmod:for	
+5	5(disz)-sze3	_	_	0	nummod	
+6	e2-szitim	at builder-house	NN	3	nmod:at	
+7	gub-ba	stationed	VBN	6	acl	
+8	e2-masz-ka	at -house	IN	21	nmod:at	
+9	gub-ba	stationed	VBN	21	acl	
+10	ugula	foreman	NN	3	appos	
+11	ukken-ne2	Ukkene	NNP	16	compound	
+12	giri3	via	IN	13	nmod:via	
+13	lu2-giri17-zal	Lu-girizal	JJ	16	nmod:via	
+14	kiszib3	under seal	NN	16	nmod:under	
+15	bi2-du11-ga	Biduga	NNP	14	nmod:of	
+16	mu	year	NN	10	_	
+17	ki-masz{ki}	_	:	16	_	
+18	mu-hul	was destroyed	VBN	16	acl	
+19	 	_	NN	0	root	
+20	 	_	NN	19	appos	
+21	 	_	NN	20	nmod:at
+	
+

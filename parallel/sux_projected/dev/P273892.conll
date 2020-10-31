@@ -1,0 +1,59 @@
+# dev/P273892.atf
+						
+
+# tr.en: enuru The snake from snake mountain indeed called The lizard of heaven and of earth licked The sons of lizard heaven and earth are The well like wind it made Water like wind he poured out Grass like wind its right encircled Its grass his left it tore out Then his held firm fang may he bind The incantations of Abzu of Eridu of Asalluhi son of Eridu may they not be undone Nisaba the righteous woman the beautiful woman Addakala the scribe wrote in your eyes he indeed pleased Good bala
+1	enerux(|AN.U|){+ex(DAG)-nu-ru}	enuru	NN	0	root	
+2	musz-e	The	DT	3	det	
+3	kur-musz-ta	snake from snake	NN	5	nsubj	
+4	KA	mountain	NN	3	nmod:from	
+5	nam-gi4	indeed called	VBN	1	acl	
+6	me-TAR	The lizard	NN	10	nsubj	
+7	an	_	_	0	_	
+8	ki-ka	heaven and earth	NN	6	nmod:of	
+9	eme!	_	.	10	_	
+10	ba-ni-ak	licked	VBN	5	parataxis	
+11	dumu	_	CD	10	parataxis	
+12	me-TAR	The sons lizard heaven earth are	NNS	11	nsubj	
+13	an	and	CC	12	cc	
+14	ki	_	.	1	_	
+15	7(disz)-a-ne-ne	_	_	0	nummod	
+16	pu2	The well	DT	1	_	
+17	lil2-am3	like wind	NN	16	nmod:like	
+18	i3-du3	it made	VBD	17	acl:relcl	
+19	a	_	.	20	_	
+20	lil2-am3	Water like wind	NNP	17	_	
+21	i3-in-de2	he poured out	VBD	20	acl:relcl	
+22	gugx(|A.ZI.ZI.A|)	Grass like	NN	25	nsubj	
+23	lil2-am3	wind	NN	22	nmod:like	
+24	za3-bi	its right	PRP$	25	nmod:poss	
+25	ib2-dab6	encircled	VBN	20	acl	
+26	gugx(|A.ZI.ZI.A|)-bi	Its	PRP$	27	nmod:poss	
+27	ga-bu-ni	grass his left	NN	25	dobj	
+28	mu-ub-ze2	it tore out	VBD	27	acl:relcl	
+29	...-ni	_	.	1	_	
+30	szu	_	NN	1	_	
+31	um-ma-gi	Then his held firm	RB	1	advmod	
+32	...	Then his held firm	PRP$	1	dep	
+33	x-a	_	_	0	_	
+34	zu2	fang	NN	35	nsubj	
+35	he2-la2-e	may he bind	VB	30	acl:relcl	
+36	tu6-tu6	The incantations	NNS	1	_	
+37	abzu	Abzu	NN	36	nmod:of	
+38	eridu{ki}-ga	Eridu	NN	37	nmod:of	
+39	{d}asar-lu2-hi	Asalluhi	NNP	38	nmod:of	
+40	dumu	son	NN	39	appos	
+41	eridu{ki}-ke4	of Eridu	NNP	40	nmod:of	
+42	nam-mu-da-bur2-re	may they not be undone	VBN	1	acl	
+43	{d}nisaba	Nisaba	NN	42	_	
+44	munus-zi	the righteous woman	NN	43	appos	
+45	munus	the	DT	46	det	
+46	sa6-ga	beautiful woman	NN	43	appos	
+47	ad-da-kal-la	Addakala	NN	49	nsubj	
+48	dub-sar-e	the scribe	NN	47	appos	
+49	mu-sar	wrote	VBD	43	acl	
+50	igi-za	in your eyes	NNS	51	nmod:in	
+51	he2-en-sa6	he indeed pleased	JJ	49	ccomp	
+52	bala	Good bala	NN	51	_	
+53	saga	_	.	1	_
+	
+

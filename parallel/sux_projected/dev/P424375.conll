@@ -1,0 +1,76 @@
+# dev/P424375.atf
+						
+
+# tr.en: barley-fed sheep Inanna of Uruk via Lugalimah cupbearer barley-fed sheep a milk-fed lamb Itaran from Nuhi-ilum deputy milk-fed lamb Nanna from Erranada deputy an offering in palace barley-fed large-goat from Ili-Dagan man of Ebla barley-fed large-goat barley-fed large-goat from man of Uru large barley-fed goat Nagizu messenger from Ar- via Lugalinimgina ARAD-mu overseer of messengers ff month days have passed booked out of Ahuni month Eating piglets year Amar-Suen became king
+1	2(disz)	_	,	4	nummod	
+2	udu	sheep	NN	4	compound	
+3	niga	barley-fed	JJ	4	amod	
+4	{d}inanna	Inanna	NNP	0	root	
+5	unu{ki}	Uruk	NNP	4	nmod:of	
+6	giri3	via	IN	7	nmod:via	
+7	lugal-i3-mah	Lugalimah	NNP	4	nmod:via	
+8	sagi	cupbearer	NN	7	appos	
+9	1(disz)	_	_	0	nummod	
+10	udu	sheep	NN	4	_	
+11	sze	barley-fed	JJ	10	amod	
+12	1(disz)	_	_	0	nummod	
+13	sila4	lamb	NN	15	compound	
+14	ga	a milk-fed	DT	15	det	
+15	{d}isztaran	Itaran	NNP	10	appos	
+16	nu-hi-dingir-um	from Nuhi-ilum	NN	10	nmod:from	
+17	maszkim	deputy	NN	10	appos	
+18	1(disz)	_	,	21	nummod	
+19	sila4	lamb	NN	21	compound	
+20	ga	milk-fed	JJ	21	amod	
+21	{d}nanna	Nanna	NNP	10	_	
+22	er3-ra-na-da	from Erranada deputy	NNP	21	nmod:from	
+23	maszkim	_	:	21	_	
+24	siskur2	an offering	NN	21	_	
+25	sza3	in	IN	26	nmod:in	
+26	e2-gal	palace	NN	24	nmod:in	
+27	1(disz)	_	,	30	nummod	
+28	masz2-gal	_	_	0	_	
+29	niga	barley-fed	JJ	30	amod	
+30	i3-li2-da-gan	large-goat from Ili-Dagan	NN	21	_	
+31	lu2	man	NN	30	appos	
+32	eb-la{ki}	Ebla	NNP	31	nmod:of	
+33	1(disz)	_	_	0	nummod	
+34	masz2-gal	large-goat	NN	21	_	
+35	niga	barley-fed	JJ	34	amod	
+36	x	_	_	0	dep	
+37	x	_	_	0	dep	
+38	x	_	_	0	dep	
+39	1(disz)	_	,	34	nummod	
+40	masz2-gal	large-goat	NN	34	appos	
+41	niga	barley-fed	JJ	40	amod	
+42	bu-du-ur2	from man	IN	34	nmod:from	
+43	lu2	_	CD	48	nummod	
+44	ur-szu	Uru	NNP	48	compound	
+45	1(disz)	_	_	0	nummod	
+46	masz2-gal	large	JJ	48	amod	
+47	niga	barley-fed	JJ	48	amod	
+48	na-gi4-zu	goat Nagizu	NN	34	nmod:of	
+49	lu2	_	_	0	_	
+50	kin-gi4-a	messenger	NN	48	appos	
+51	sza3	_	_	0	_	
+52	ar-...	from Ar-	JJ	50	nmod:from	
+53	giri3	via	IN	55	nmod:via	
+54	lugal-inim-gi-na	Lugalinimgina	NNP	55	compound	
+55	ARAD2-mu	ARAD-mu	NNP	50	nmod:via	
+56	ugula	overseer	NN	55	appos	
+57	kas4	messengers	NNS	56	nmod:of	
+58	iti	month	NN	62	nsubj	
+59	u4	days	NNS	58	appos	
+60	1(u)	_	,	62	nummod	
+61	4(disz)	_	_	60	nummod	
+62	ba-zal	ff have passed	NN	21	_	
+63	ki	_	,	62	_	
+64	a-hu-ni-ta	Ahuni	NNP	65	nmod:out.of	
+65	ba-zi	booked out	VBN	62	conj	
+66	iti	month	NN	62	nmod:tmod	
+67	ses-da-gu7	Eating piglets	NNS	21	_	
+68	mu	year	NN	21	_	
+69	{d}amar-{d}suen	Amar-Suen became	VBD	21	acl	
+70	lugal	king	NN	69	xcomp
+	
+

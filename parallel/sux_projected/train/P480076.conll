@@ -1,0 +1,29 @@
+# train/P480076.atf
+						
+
+# tr.en: male laborer days on duty at basin of Dubla-Utu stationed foreman Lugal-itida under seal of Szeani year Sz-Suen king Big Stele erected Szeani scribe son of Dada
+1	1(u)	_	_	0	nummod	
+2	5(disz)	_	_	1	nummod	
+3	gurusz	male laborer	JJ	4	amod	
+4	u4	days	NNS	0	root	
+5	1(disz)-sze3	_	_	0	nummod	
+6	ka-giri3-da	on duty	NN	4	nmod:on	
+7	bar-la2	at basin	NN	6	nmod:at	
+8	dub-la2-{d}utu	Dubla-Utu	NNP	7	nmod:of	
+9	gub-ba	stationed	VBN	8	acl	
+10	ugula	foreman	NN	4	_	
+11	lugal-iti-da	Lugal-itida	NN	10	_	
+12	kiszib3	under seal	NN	10	nmod:under	
+13	szesz-a-ni	Szeani	NNP	12	nmod:of	
+14	mu	year	NN	4	_	
+15	{d}szu-{d}suen	Sz-Suen	NNP	4	_	
+16	lugal-e	king	NN	15	appos	
+17	na-ru2-mah	Big	NNP	18	compound	
+18	<>	Stele	NNP	19	nsubj	
+19	mu-du3	erected	VBD	15	acl:relcl	
+20	szesz-a-ni	Szeani	NNP	4	_	
+21	dub-sar	scribe	NN	20	appos	
+22	dumu	son	NN	20	appos	
+23	da-da	Dada	NN	22	nmod:of
+	
+

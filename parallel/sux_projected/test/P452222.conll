@@ -1,0 +1,19 @@
+# test/P452222.atf
+						
+
+# tr.en: sheep th day from Abbasaga Taatal took month Akiti year Szaru was destroyed
+1	2(disz)	_	,	2	nummod	
+2	udu	sheep	NN	8	nsubj	
+3	u4	th day	NN	2	appos	
+4	8(disz)-kam	_	,	2	nummod	
+5	ki	from	IN	7	nmod:from	
+6	ab-ba-sa6-ga-ta	Abbasaga	NNP	7	compound	
+7	tah-sza-tal	Taatal	NNP	2	nmod:from	
+8	i3-dab5	took	VBD	0	root	
+9	iti	month	NN	11	compound	
+10	a2-ki-ti	_	``	9	_	
+11	mu	year	NN	8	_	
+12	sza-asz-ru{ki}	_	``	11	_	
+13	ba-hul	was destroyed	VBN	11	acl
+	
+

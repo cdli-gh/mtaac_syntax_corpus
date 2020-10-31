@@ -1,0 +1,127 @@
+# dev/P101263.atf
+						
+
+# tr.en: sila beer sila bread bundles onions shekels oil shekels alkali-plant for Lu-Nanna sila beer sila bread bundles onions shekels oil shekels alkali-plant for Ur-dingira ban beer ban bread bundles onions shekels oil shekels alkali-plant for Danniya sila beer sila bread bundles onions shekels oil shekels alkali-plant for Ur--du sila beer sila bread bundles onions shekels oil shekels alkali-plant for Anna-ili sila beer sila bread bundles onions shekels oil shekels alkali-plant for Dingir-sukkal total ban sila beer ban less sila bread bundles onions sila shekels oil shekels alkali-plant th day month Festival of Szulgi
+1	5(disz)	_	,	2	nummod	
+2	sila3	sila	NN	3	appos	
+3	kasz	beer	_	0	_	
+4	5(disz)	_	CD	12	nummod	
+5	sila3	sila	NN	2	compound	
+6	ninda	bread	NN	2	conj	
+7	2(disz)	_	_	0	nummod	
+8	sa	bundles	NNS	9	compound	
+9	szum2	onions	NNS	2	conj	
+10	3(disz)	_	,	2	nummod	
+11	gin2	shekels	NNS	12	compound	
+12	i3	oil	NN	2	conj	
+13	2(disz)	_	_	0	nummod	
+14	gin2	shekels	NNS	15	nmod:npmod	
+15	naga	alkali-plant	JJ	2	amod	
+16	lu2-{d}nanna	for Lu-Nanna	NNP	2	nmod:for	
+17	5(disz)	_	,	19	nummod	
+18	sila3	sila	NN	19	compound	
+19	kasz	beer	NN	2	_	
+20	5(disz)	_	CD	28	nummod	
+21	sila3	sila	NN	22	compound	
+22	ninda	bread	NN	19	conj	
+23	2(disz)	_	_	0	nummod	
+24	sa	bundles	NNS	25	compound	
+25	szum2	onions	NNS	19	conj	
+26	3(disz)	_	,	19	nummod	
+27	gin2	shekels	NNS	28	compound	
+28	i3	oil	NN	19	conj	
+29	2(disz)	_	_	0	nummod	
+30	gin2	shekels	NNS	31	nmod:npmod	
+31	naga	alkali-plant	JJ	19	amod	
+32	ur-dingir-ra	for Ur-dingira	NN	19	nmod:for	
+33	2(ban2)	ban	NN	34	nummod	
+34	kasz	beer	NN	19	_	
+35	2(ban2)	ban	NN	36	nummod	
+36	ninda	bread	NN	34	conj	
+37	2(disz)	_	,	39	nummod	
+38	sa	bundles	NNS	34	appos	
+39	szum2	onions	NNS	38	_	
+40	1(u)	_	,	39	nummod	
+41	gin2	shekels	NNS	42	compound	
+42	i3	oil	NN	39	conj	
+43	2(disz)	_	_	0	nummod	
+44	gin2	shekels	NNS	45	nmod:npmod	
+45	naga	alkali-plant	JJ	39	amod	
+46	da-ni-a	for Danniya	NNP	39	nmod:for	
+47	5(disz)	_	,	49	nummod	
+48	sila3	sila	NN	49	compound	
+49	kasz	beer	NN	39	conj	
+50	5(disz)	_	CD	56	nummod	
+51	sila3	sila	NN	52	compound	
+52	ninda	bread bundles onions	NN	49	conj	
+53	2(disz)	bread bundles onions	NNS	49	nummod	
+54	3(disz)	_	_	53	nummod	
+55	gin2	shekels	NNS	56	compound	
+56	i3	oil	NN	49	conj	
+57	2(disz)	_	_	0	nummod	
+58	gin2	shekels	NNS	59	nmod:npmod	
+59	naga	alkali-plant	JJ	49	amod	
+60	ur-x-du7	for Ur--du	IN	63	nmod:for	
+61	3(disz)	_	,	49	nummod	
+62	sila3	sila	NN	63	compound	
+63	kasz	beer	NN	49	nmod:for	
+64	2(disz)	_	CD	72	nummod	
+65	sila3	sila	NN	66	compound	
+66	ninda	bread	NN	49	conj	
+67	2(disz)	_	_	0	nummod	
+68	sa	bundles	NNS	69	compound	
+69	szum2	onions	NNS	49	conj	
+70	3(disz)	_	,	49	nummod	
+71	gin2	shekels	NNS	72	compound	
+72	i3	oil	NN	49	conj	
+73	2(disz)	_	_	0	nummod	
+74	gin2	shekels	NNS	75	nmod:npmod	
+75	naga	alkali-plant	JJ	49	amod	
+76	an-na-hi-li	for Anna-ili	JJ	49	nmod:for	
+77	3(disz)	_	,	79	nummod	
+78	sila3	sila	NN	79	compound	
+79	kasz	beer	NN	39	conj	
+80	2(disz)	_	CD	88	nummod	
+81	sila3	sila	NN	82	compound	
+82	ninda	bread	NN	79	conj	
+83	2(disz)	_	_	0	nummod	
+84	sa	bundles	NNS	85	compound	
+85	szum2	onions	NNS	79	conj	
+86	3(disz)	_	,	79	nummod	
+87	gin2	shekels	NNS	88	compound	
+88	i3	oil	NN	79	conj	
+89	2(disz)	_	_	0	nummod	
+90	gin2	shekels	NNS	91	nmod:npmod	
+91	naga	alkali-plant	JJ	79	amod	
+92	dingir-sukkal	for Dingir-sukkal	JJ	79	nmod:for	
+93	szunigin	total	NN	39	_	
+94	4(ban2)	_	:	39	nummod	
+95	1(disz)	ban	NN	97	nummod	
+96	sila3	sila	NN	97	compound	
+97	kasz	beer	NN	93	_	
+98	4(ban2)	ban	NN	39	nummod	
+99	la2	less	JJR	102	amod	
+100	1(disz@t)	_	CD	111	nummod	
+101	sila3	sila	NN	102	compound	
+102	ninda	bread	NN	98	_	
+103	1(u)	_	_	0	nummod	
+104	2(disz)	_	_	103	nummod	
+105	sa	bundles	NNS	106	compound	
+106	szum2	onions	NNS	39	_	
+107	1/3(disz)	_	:	39	nummod	
+108	sila3	sila	NN	111	compound	
+109	5(disz)	_	_	0	nummod	
+110	gin2	shekels	NNS	111	compound	
+111	i3	oil	NN	39	_	
+112	1(u)	_	_	0	nummod	
+113	2(disz)	_	_	112	nummod	
+114	gin2	shekels	NNS	115	nmod:npmod	
+115	naga	alkali-plant	JJ	39	_	
+116	u4	th day	NN	39	_	
+117	2(u)	_	,	116	nummod	
+118	6(disz)-kam	_	_	117	nummod	
+119	iti	month	NN	116	appos	
+120	ezem	Festival	NNP	39	_	
+121	{d}szul-gi4	Szulgi	NNP	120	nmod:of
+	
+

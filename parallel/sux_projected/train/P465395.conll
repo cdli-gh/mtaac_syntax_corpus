@@ -1,0 +1,184 @@
+# train/P465395.atf
+						
+
+# tr.en: For Ninlil exalted queen most resplendant of of Anuna gods in heaven and earth like their daises for kingship he one given crown and scepter for great mother of Anuna gods the mistress of Kiur the exalted shrine Ekurs divine attributes to select the Nippur shrine Durankis ritual lustrations to cleanse to make divine rites that had fallen away reappear magnificently and Nippur bellwether of nation to restore to its previous state it was Ur-Ninurta the one serving Ekur upon whom Enlil king of all lands out over broad population did lift his eye and did rightly choose An Enlil Ninlil I removed evil and shining Ekur temple in city I set them up for them copper figures whose bodily features were made to resemble me with an offering kid were made in miniature and set up for my prayers as main courtyard of Gagiuas ornament I fashioned for her and for my life I dedicated them to her A person who an order of wickedness shall issue against it and my creation shall efface by exalted command of Enlil may his revealed name be revoked from within Ekur May Ninurta mighty warrior of Enlil be inseparable bailiff for this for an eternity of days
+1	{d}nin-lil2	For Ninlil	NNP	125	nmod:for	
+2	erisz	exalted	JJ	3	amod	
+3	mah	queen	NN	125	nsubjpass	
+4	{d}a-nun-ke4-ne	most	RBS	5	advmod	
+5	pa	resplendant	JJ	3	amod	
+6	e3	Anuna gods	NNS	5	nmod:of.of	
+7	x	_	_	0	dep	
+8	x	_	_	0	dep	
+9	x	_	_	0	dep	
+10	an-ki-a	in heaven and earth	IN	11	nmod:in	
+11	...	in heaven and earth	NN	3	nmod:in	
+12	x-gin7	in heaven and earth	CC	11	cc	
+13	...	in heaven and earth	NN	11	dep	
+14	x	_	_	0	dep	
+15	'.	_	NN	178	_	
+16	x	_	_	0	dep	
+17	x	_	_	0	dep	
+18	...	_	_	0	dep	
+19	'.	_	_	0	_	
+20	x	_	_	0	dep	
+21	ki	_	_	0	_	
+22	x	_	_	0	dep	
+23	...	_	_	0	dep	
+24	'.	_	_	0	_	
+25	bara2	their	PRP$	26	nmod:poss	
+26	bara2-bi	daises	NNS	15	nsubj	
+27	...	_	_	0	dep	
+28	'.	_	NN	15	nmod:for	
+29	nam-lugal-sze3	for kingship	IN	28	nmod:for	
+30	(x)	_	_	0	_	
+31	x	_	_	0	dep	
+32	...	_	_	0	dep	
+33	'.	_	,	66	_	
+34	men	and	CC	66	cc	
+35	gidri	scepter	NN	66	conj	
+36	szum2-ma-am3	he one given crown	PRP	76	nsubj	
+37	'.	_	,	66	_	
+38	ama	mother	NN	66	nmod:for	
+39	gal	great	JJ	38	amod	
+40	{d}a-nun-na-ke4-ne	for Anuna gods	IN	38	nmod:for	
+41	'.	_	_	0	_	
+42	nin	the	DT	43	det	
+43	ki-ur3-ra	mistress	NN	66	appos	
+44	x	_	_	0	dep	
+45	(x)-x	Kiur	_	0	_	
+46	'.	_	POS	49	nmod:'s	
+47	e2-kur	the	DT	43	det	
+48	esz3	shrine	NN	49	compound	
+49	mah-a	exalted Ekurs	NNP	53	nmod:poss	
+50	'.	_	,	66	_	
+51	me-bi	divine	JJ	53	amod	
+52	bar	_	_	0	_	
+53	tam-e-de3	attributes to select	NNS	66	appos	
+54	'.	the	DT	57	det	
+55	esz3	shrine	NN	57	compound	
+56	nibru{ki}	Nippur	NNP	57	compound	
+57	dur-an-ki-ka	Durankis	NNP	59	nmod:poss	
+58	'.	_	,	66	_	
+59	szu-luh-bi	ritual lustrations	NNS	66	appos	
+60	sikil-e-de3	to cleanse	VB	59	acl	
+61	'.	_	_	0	_	
+62	garza	to make	VB	66	acl	
+63	szu-ta	divine rites	NNS	62	dobj	
+64	szub-ba-be2	that had fallen away	VBN	63	acl:relcl	
+65	'.	_	,	36	_	
+66	dalla	reappear	VBP	36	acl:relcl	
+67	mah	_	_	0	_	
+68	e3-de3	magnificently	RB	66	advmod	
+69	'.	_	,	70	_	
+70	nibru{ki}	Nippur	NNP	36	conj	
+71	masz2	and	CC	36	cc	
+72	sag	bellwether	NN	70	appos	
+73	kalam-ma	nation	NN	72	nmod:of	
+74	'.	_	,	3	_	
+75	ki-be2	to	TO	76	mark	
+76	gi4-gi4-de3	restore to its previous state	VB	28	acl:relcl	
+77	'.	_	,	78	_	
+78	ur-{d}nin-urta-ke4	it was Ur-Ninurta	NNP	3	acl:relcl	
+79	'.	_	,	78	_	
+80	e2-kur-sze3	the one serving	CD	78	appos	
+81	gub-ba-am3	Ekur	NNP	80	dobj	
+82	'.	_	,	83	_	
+83	{d}en-lil2	Enlil	NNP	92	nsubj	
+84	lugal	king	NN	83	appos	
+85	kur-kur-ra-ke4	upon whom all lands	WP	92	nmod:upon	
+86	'.	_	_	0	_	
+87	ug3	_	_	0	_	
+88	dagal	_	_	0	_	
+89	szar2-ra-da	out over broad population	NN	83	nmod:over	
+90	'.	_	_	0	_	
+91	igi	_	_	0	_	
+92	mi-ni-in-il2	did lift his eye	VB	78	acl:relcl	
+93	'.	_	.	3	_	
+94	zi-de3-esz	and did rightly	CC	92	cc	
+95	bi-in-pa3	choose	VB	92	conj	
+96	'.	_	_	0	_	
+97	an	An	DT	125	_	
+98	{d}en-lil2	Enlil	NNP	125	nmod:tmod	
+99	{d}nin-lil2	Ninlil	NNP	125	nsubjpass	
+100	x	_	_	0	dep	
+101	'.	_	,	99	_	
+102	nig2-hul	I removed	VBD	99	acl:relcl	
+103	im-ta-bu-ur2	evil	JJ	102	xcomp	
+104	'.	_	NN	110	nmod:in	
+105	e2-kur	and shining	CC	99	cc	
+106	za-gin3	Ekur	NN	110	compound	
+107	iri	city	NN	104	compound	
+108	x	_	_	0	dep	
+109	ki	_	_	0	_	
+110	bad	temple in	NN	99	conj	
+111	im	_	_	0	_	
+112	'.	_	.	99	_	
+113	x	_	_	0	dep	
+114	mu-ne-su8	I set them up for them	VBD	104	acl:relcl	
+115	'.	_	_	0	_	
+116	{uruda}alam	copper figures	NNS	99	_	
+117	me-dim2-bi	whose bodily features	NNS	120	nsubjpass	
+118	'.	_	,	99	_	
+119	musz3-me-ga2	were	VBD	120	auxpass	
+120	se3-ga	made to resemble me	VBN	116	acl:relcl	
+121	'.	_	,	99	_	
+122	masz	_	_	0	_	
+123	kadra-ka	with an offering kid	NN	99	nmod:with	
+124	'.	_	,	125	_	
+125	im-tur-tur-re	were made in miniature	VBN	0	root	
+126	'.	_	,	125	_	
+127	nam-szita-mu-sze3	and set up for my prayers	CC	125	cc	
+128	gub-ba	_	_	0	_	
+129	'.	_	POS	134	nmod:'s	
+130	kisal	as	IN	132	nmod:as	
+131	mah	_	_	0	_	
+132	ga2-gesz-szu2-a-ka	main courtyard Gagiuas	NN	125	nmod:as	
+133	'.	_	,	135	_	
+134	me-te-bi	ornament I	NN	132	nmod:of	
+135	mu-na-dim2	fashioned for her	VBD	125	acl	
+136	'.	_	_	0	_	
+137	nam-ti-la-mu-sze3	and for my life	CC	135	cc	
+138	'.	_	.	125	_	
+139	a	I	PRP	140	nsubj	
+140	mu-na-ru	dedicated them to her	VBD	135	acl:relcl	
+141	'.	_	_	0	_	
+142	lu2	_	_	0	_	
+143	a2	_	_	0	_	
+144	nig2-hul-dim2-ma	A person who an order wickedness	NN	125	nmod:npmod	
+145	'.	_	,	125	_	
+146	ib2-szi-ag2-ge26-a	shall issue against it	VB	144	acl:relcl	
+147	'.	_	_	0	_	
+148	nig2	_	_	0	_	
+149	dim2-ma-mu	and my creation	CC	125	cc	
+150	'.	_	,	151	_	
+151	ib2-zi-re-a	shall efface	VB	125	conj	
+152	'.	_	NN	155	nmod:of	
+153	x-du11	by exalted	IN	155	nmod:by	
+154	mah	_	_	0	_	
+155	{d}en-lil2-la2-ke4	command Enlil	NN	151	nmod:by	
+156	'.	_	_	0	_	
+157	x	_	_	0	dep	
+158	x	_	_	0	dep	
+159	x	_	_	0	dep	
+160	mu	_	_	0	_	
+161	pa3-da-ne2	may his revealed name	VBD	151	advcl	
+162	'.	_	.	161	_	
+163	e2-kur-ta	be revoked	VBN	161	ccomp	
+164	inim	_	_	0	_	
+165	he2-mi-ib2-gi4-gi4	from within Ekur	NNP	163	nmod:from.within	
+166	'.	_	,	167	_	
+167	{d}nin-urta	May Ninurta	NNP	173	nsubj	
+168	ur-sag	warrior	NN	167	appos	
+169	kal-ga	mighty	JJ	168	amod	
+170	{d}en-lil2-la2	Enlil	NNP	168	nmod:of	
+171	'.	_	_	0	_	
+172	maszkim	_	_	0	_	
+173	<nu>-ku5-ru-bi	be inseparable bailiff for	NN	161	parataxis	
+174	he2-a	this	DT	173	nmod:for	
+175	'.	_	.	125	_	
+176	u4	for	IN	177	nmod:for	
+177	da-ri2-sze3	an eternity days	NN	173	nmod:for	
+178	 	_	_	0	_
+	
+

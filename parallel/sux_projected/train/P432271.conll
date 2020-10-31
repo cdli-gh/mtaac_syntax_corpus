@@ -1,0 +1,55 @@
+# train/P432271.atf
+						
+
+# tr.en: For Nanna of Karzida his beloved master Amar-Suena whom Enlil in Nippur chose by name the constant supporter of temple of Enlil true god the Utu of his land the mighty king king of Ur and king of four world quarters in Karzida where since ancient times its Gipar residence had not been built and no en-priestess had lived therein Amar-Suena the beloved of Nanna his sacred Gipar he built for him and his beloved en-priestess he made enter it for him Amar-Suena shall therewith prolong his days For his life he dedicated it to him
+1	{d}nanna	For Nanna	NNP	0	root	
+2	kar-zi-da	Karzida	NNP	1	nmod:of	
+3	lugal	_	,	4	_	
+4	ki-ag2-ga2-ni-ir	his beloved master	NN	49	root	
+5	{d}amar-{d}suen	Amar-Suena	NNP	4	appos	
+6	{d}en-lil2-le	whom Enlil	WP	9	dobj	
+7	nibru{ki}-a	in Nippur	NNP	9	nmod:in	
+8	mu	_	,	4	_	
+9	pa3-da	chose by name	VBD	4	acl:relcl	
+10	sag-us2	the constant supporter	NN	4	appos	
+11	e2	_	,	12	_	
+12	{d}en-lil2-ka	of temple of Enlil	NN	10	nmod:of	
+13	dingir	god	NN	12	appos	
+14	zi	true	JJ	13	amod	
+15	{d}utu	the Utu	NNP	12	appos	
+16	kalam-ma-na	his land	NN	15	nmod:of	
+17	lugal	king	NN	10	_	
+18	kal-ga	the mighty	DT	17	det	
+19	lugal	king	NN	17	conj	
+20	uri5{ki}-ma	Ur	NN	19	nmod:of	
+21	lugal	king	NN	17	conj	
+22	an	four	CD	24	nummod	
+23	ub-da	world	NN	24	compound	
+24	limmu2-ba	quarters	NNS	17	nmod:of	
+25	kar-zi-da-a	in Karzida	NNP	4	nmod:in	
+26	u4	_	_	0	_	
+27	ul-li2-a-ta	where since ancient times	WRB	31	advmod	
+28	ge6-par4-bi	its Gipar	PRP$	29	nmod:poss	
+29	nu-du3-am3	residence had not been built	VBN	31	acl:relcl	
+30	en	_	,	43	_	
+31	nu-un-ti-la-am3	and no en-priestess had lived therein	VBN	43	advcl	
+32	{d}amar-{d}suen	Amar-Suena	NNP	43	_	
+33	ki-ag2	the beloved	JJ	32	appos	
+34	{d}nanna-ke4	Nanna	NNP	33	nmod:of	
+35	ge6-par4	his sacred	PRP$	36	nmod:poss	
+36	ku3-ga-ni	Gipar	NNP	32	appos	
+37	mu-na-du3	he built for him	VBD	36	acl:relcl	
+38	en	and	CC	32	cc	
+39	ki-ag2-ga2-ni	his beloved en-priestess	NN	32	conj	
+40	mu-na-ni-ku4	he made enter it for him	VBD	39	acl:relcl	
+41	{d}amar-{d}suen-ke4	Amar-Suena	NN	43	nsubj	
+42	u4	_	.	43	_	
+43	im-da-ab-su3-re6	shall therewith prolong his days	VB	25	acl	
+44	nam-ti-la-ni-sze3	For his life	NN	46	nmod:for	
+45	a	he	PRP	46	nsubj	
+46	mu-na-ru	dedicated it to him	VBD	43	parataxis	
+47	 	_	NN	0	root	
+48	 	_	.	47	_	
+49	 	_	,	48	_
+	
+

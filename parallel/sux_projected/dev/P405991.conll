@@ -1,0 +1,25 @@
+# dev/P405991.atf
+						
+
+# tr.en: gur barig barley royal deficit repaid from Luu cook Lukalla received month amar-ayasi year Enmagal of Nanna was installed
+1	1(gesz2)	_	,	5	nummod	
+2	2(barig)	barig	NN	3	nummod	
+3	sze	barley	NN	0	root	
+4	gur	gur	NN	3	compound	
+5	lugal	royal	NN	3	appos	
+6	la2-ia3	deficit	NN	5	conj	
+7	su-ga	repaid	VBN	5	acl	
+8	ki	from	IN	9	nmod:from	
+9	lu2-u18	Luu	NN	5	nmod:from	
+10	muhaldim-ta	cook	NN	3	appos	
+11	lu2-kal-la	Lukalla	NNP	13	nsubj	
+12	szu	_	:	3	_	
+13	ba-ti	received	VBD	3	acl:relcl	
+14	iti	month	NN	15	compound	
+15	amar-a-a-si	amar-ayasi	NNS	19	_	
+16	mu	year	NN	19	_	
+17	en-mah-gal	Enmagal	NNP	19	nsubjpass	
+18	{d}nanna	Nanna	NNP	17	nmod:of	
+19	ba-hun	was installed	VBN	3	parataxis
+	
+

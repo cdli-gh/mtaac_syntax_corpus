@@ -1,0 +1,47 @@
+# train/P432307.atf
+						
+
+# tr.en: Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters because of great love of Sin Ur to widen he decided Therefore to make country secure and to make lower and upper countries bow down a great wall through whose loop-holes not a hand can enter like a verdant mountain range he made encircle his city In foundations for its foundation deposits he sought out places Of that wall Ibbi-Sin Is Canal inspector of Princeliness is its name
+1	{d}i-bi2-{d}suen	Ibbi-Sin	NNP	0	root	
+2	dingir	the god	NN	1	appos	
+3	kalam-ma-na	his country	NN	2	nmod:of	
+4	lugal	king	NN	1	appos	
+5	kal-ga	the mighty	DT	4	det	
+6	lugal	king	NN	1	appos	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	king	NN	6	conj	
+9	an	four	CD	8	nummod	
+10	ub-da	world	NN	8	compound	
+11	limmu2-ba-ke4	and quarters	CC	6	cc	
+12	nam-gal	because great love	NN	1	nmod:because	
+13	ki-ag2	_	_	0	_	
+14	{d}suen-na-da	of Sin	NNP	12	nmod:of	
+15	uri5{ki}	Ur	NNP	12	appos	
+16	dagal-e-de3	to widen	VB	15	acl	
+17	sa	_	.	18	_	
+18	im-ma-szi-gar	he decided	VBD	16	ccomp	
+19	ur5-ta	Therefore	RB	21	advmod	
+20	kalam	to	TO	21	mark	
+21	gi-ne2	make country secure	VB	18	acl	
+22	sig-nim	and	CC	21	cc	
+23	GAM-e-de3	to make lower and upper countries bow down	VB	21	conj	
+24	bad3	wall	NN	21	dobj	
+25	gal	a great	DT	24	det	
+26	za-pa-ag2-ba	through	IN	28	nmod:through	
+27	szu	_	,	24	_	
+28	nu-ku4-ku4	whose loop-holes not a hand can enter	NNS	24	nmod:through	
+29	hur-sag	_	_	0	_	
+30	sig7-ga-gin7	like a verdant mountain range	NN	24	nmod:like	
+31	iri{ki}-ni	he made	VBD	30	acl:relcl	
+32	im-mi-dab6	encircle his city	VB	31	xcomp	
+33	urua	In	IN	34	nmod:in	
+34	temen-be2	foundations for its foundation deposits	NNS	21	nmod:in	
+35	ki	_	.	1	_	
+36	in-ma-ni-pa3	he sought out places	VBD	34	acl:relcl	
+37	bad3-ba	Of that wall	NN	1	nmod:of	
+38	{d}i-bi2-{d}suen	Ibbi-Sin	NNP	40	nsubj	
+39	gu2-gal	Is	VBZ	40	cop	
+40	nam-nun-na	Canal inspector Princeliness	NN	41	csubj	
+41	mu-bi-im	is its name	NN	1	parataxis
+	
+

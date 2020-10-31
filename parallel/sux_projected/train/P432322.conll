@@ -1,0 +1,46 @@
+# train/P432322.atf
+						
+
+# tr.en: For Nintinuga the great lady herbalist of Enlil in sacred house the big oil house of Enlil the Dumusag temple he built for her Great aromatic cedars lady Ur-Namma king whom Enlil for beloved which is of Seven tutelary deities
+1	{d}nin-ti2-ug5-ga	For Nintinuga	NNP	0	root	
+2	nin	the	DT	5	det	
+3	szim-mu2	lady	NN	5	compound	
+4	gal	great	JJ	5	amod	
+5	{d}en-lil2-la2-ra	herbalist Enlil	NN	30	root	
+6	e2	_	,	7	_	
+7	a-mer	in sacred house	NN	5	root	
+8	ku3	_	_	0	_	
+9	e2	the	DT	11	det	
+10	i3	oil	NN	11	compound	
+11	gu-la	big house	NN	6	root	
+12	{d}en-lil2-la2-ka	of Enlil	NNP	11	nmod:of	
+13	e2	_	_	0	_	
+14	dumu-sag!(KA)	the Dumusag temple	NN	11	appos	
+15	mu-na-ni-du3	he built for her	VBD	14	acl:relcl	
+16	szim	_	NN	11	_	
+17	erin-gal-gal	Great aromatic cedars	NNS	16	nsubj	
+18	...-e	_	NN	22	compound	
+19	nin	_	_	0	_	
+20	ki-ib	lady	NN	22	compound	
+21	'.	_	,	22	_	
+22	ur-{d}namma	Ur-Namma	NNP	16	dobj	
+23	'.	_	_	0	_	
+24	lugal	king	NN	22	appos	
+25	'.	_	_	0	_	
+26	{d}en-lil2-le	whom Enlil	WP	24	_	
+27	'.	_	_	0	_	
+28	ki-ag2-ra	for beloved	IN	27	nmod:for	
+29	 	_	NN	0	root	
+30	 	_	NN	29	appos	
+31	'.	_	_	0	_	
+32	...	_	_	0	dep	
+33	'.	_	_	0	_	
+34	...	_	_	0	dep	
+35	x-a-kam	which is	WDT	31	nsubj	
+36	'.	_	.	11	_	
+37	szu4-sag	_	_	0	_	
+38	'.	_	_	0	_	
+39	an-gub-ba	Seven tutelary deities	NNS	26	appos	
+40	7(disz)	_	_	0	nummod
+	
+

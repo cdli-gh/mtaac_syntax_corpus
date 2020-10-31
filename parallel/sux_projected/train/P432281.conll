@@ -1,0 +1,187 @@
+# train/P432281.atf
+						
+
+# tr.en: is not overturned Her husband lord Nunamnir the thing she requested does not block Ninlil princess greater than all lands beloved mistress of Szu-Sin when life the producing of long life a tiara and crown a long-lasting scepter a throne and kingship with firm foundation years of abundance a weapon flood which casts great fear the aankar weapon the arm of battle the arm of heroism whose fearsomeness and divine radiance reaches to sky whose roar covers rebellious land Ninlil for Szu-Sin from her spouse Ninlil did make a request for it For Ninlil beloved spouse of Enlil her husband lord Nunamnir who has wrought greatly to Szu-Sin beloved servant of Enlil king whom Enlil in his heart did choose and of four quarters mighty king king of Ur king of four world quarters her beloved servant having given to him at that time Szimaki the lands of Zabali from border of Anan a statue he fashioned and to Ninlil his mistress for his life he dedicated it
+1	'.	_	.	8	_	
+2	AN	_	_	0	_	
+3	x	_	_	0	dep	
+4	x	_	_	0	dep	
+5	(x)	_	_	0	_	
+6	'.	_	_	0	_	
+7	szu	_	_	0	_	
+8	nu-bal-x	is not overturned	VBN	0	root	
+9	'.	_	,	10	_	
+10	gidlam4-ni	Her husband	NN	19	nsubj	
+11	'.	_	,	10	_	
+12	en	_	_	0	_	
+13	{d}nu-nam-nir-re	lord Nunamnir	NNP	10	appos	
+14	'.	the	DT	17	det	
+15	nig2	_	_	0	_	
+16	al	_	_	0	_	
+17	du11-ga-ni	thing she requested	NN	10	appos	
+18	'.	_	.	19	_	
+19	nu-un-szi-ib2-kesz2-re	does not block	VB	8	parataxis	
+20	'.	_	,	21	_	
+21	{d}nin-lil2	Ninlil	NN	19	_	
+22	'.	_	,	21	_	
+23	nun	princess greater	NN	21	conj	
+24	kur-kur-ra	all lands	NNS	23	nmod:than	
+25	diri-ga	than	IN	24	nmod:than	
+26	'.	_	_	0	_	
+27	nin	mistress	NN	21	conj	
+28	ki-ag2	beloved	JJ	27	amod	
+29	'.	_	,	21	_	
+30	{d}szu-{d}suen-na-ke4	of Szu-Sin	NN	27	nmod:of	
+31	'.	_	,	33	_	
+32	u4	_	_	0	_	
+33	nam-ti	when life	WRB	21	_	
+34	'.	_	,	33	_	
+35	zi	the	DT	36	det	
+36	su3-(x)	producing long	NN	33	appos	
+37	gal2	life	NN	36	nmod:of	
+38	'.	_	,	33	_	
+39	aga	a	DT	40	det	
+40	men	tiara and crown	NN	33	appos	
+41	gidri	a	DT	43	det	
+42	u4	_	_	0	_	
+43	su3-ra2	long-lasting scepter	NN	33	appos	
+44	'.	_	_	0	_	
+45	{gesz}gu-za	throne	NN	33	appos	
+46	nam-lugal	a and kingship	DT	45	det	
+47	'.	_	,	33	_	
+48	suhusz	with firm	IN	49	nmod:with	
+49	gi-na	foundation	NN	45	nmod:with	
+50	'.	_	_	0	_	
+51	mu	_	_	0	_	
+52	he2-gal-la	years of abundance	NNS	33	appos	
+53	'.	_	_	0	_	
+54	{gesz}tukul	a weapon	NN	52	_	
+55	a-ma-ru	flood	NN	54	_	
+56	'.	_	,	54	_	
+57	ni2	which	WDT	59	nsubj	
+58	gal	great	JJ	59	amod	
+59	mu-szub	casts fear	VBZ	55	acl:relcl	
+60	'.	_	,	54	_	
+61	a2-an-kar2	the aankar weapon	NN	54	appos	
+62	'.	_	,	54	_	
+63	a2	the	DT	64	det	
+64	me3	arm battle	NN	54	appos	
+65	'.	_	_	0	_	
+66	a2	the	DT	67	det	
+67	nam-ur-sag-ga2	arm heroism	NN	54	appos	
+68	'.	_	_	0	_	
+69	ni2	whose fearsomeness	NN	72	nsubj	
+70	me-lam2-bi	and divine radiance	CC	69	cc	
+71	'.	_	,	100	_	
+72	an-ne2	reaches to sky	VBZ	67	acl:relcl	
+73	us2-sa	_	_	0	_	
+74	'.	_	_	0	_	
+75	za-pa-ag2-bi	whose roar	NN	77	nsubj	
+76	'.	_	_	0	_	
+77	ki-bala-a	covers rebellious	VBZ	100	acl:relcl	
+78	dul4-dul4-lu	land	NN	77	dobj	
+79	'.	_	NN	100	nsubj	
+80	giri3	_	_	0	_	
+81	...	_	_	0	dep	
+82	'.	_	_	0	_	
+83	{d}nin-lil2	Ninlil	NNP	79	compound	
+84	x	_	_	0	dep	
+85	x	_	_	0	dep	
+86	'.	for	IN	88	nmod:for	
+87	{d}szu-{d}suen	Szu-Sin	NN	88	compound	
+88	x	_	NN	79	nmod:for	
+89	x	_	_	0	dep	
+90	'.	_	_	0	_	
+91	ki	from	IN	93	nmod:from	
+92	gidlam4-na-ta	her spouse	PRP$	93	nmod:poss	
+93	'.	_	NN	88	nmod:from	
+94	{d}nin-lil2	Ninlil	NNP	93	compound	
+95	a	_	_	0	_	
+96	x	_	_	0	dep	
+97	x	_	_	0	dep	
+98	'.	_	.	54	_	
+99	al	_	_	0	_	
+100	im-ma-an-du11	did make a request for it	VB	72	ccomp	
+101	'.	_	_	0	_	
+102	{d}nin-lil2	For Ninlil	NNP	54	nmod:for	
+103	dam	spouse	NN	102	appos	
+104	ki-ag2	beloved	JJ	103	amod	
+105	'.	_	,	102	_	
+106	{d}en-lil2-la2	Enlil	NNP	103	nmod:of	
+107	'.	_	_	0	_	
+108	gidlam4-ni	her husband	NN	110	nsubj	
+109	en	_	_	0	_	
+110	{d}nu-nam-nir-re	lord Nunamnir	VBD	102	acl:relcl	
+111	'.	_	_	0	_	
+112	gal-bi	who	WP	113	nsubj	
+113	tum2-ma-e	has wrought greatly	VBN	110	acl:relcl	
+114	'.	to	TO	115	nmod:to	
+115	{d}szu-{d}suen	Szu-Sin	NN	102	nmod:to	
+116	'.	_	_	0	_	
+117	ARAD	servant	NN	115	appos	
+118	ki-ag2	beloved	JJ	117	amod	
+119	'.	_	,	120	_	
+120	{d}en-lil2-la2	Enlil	NNP	117	nmod:of	
+121	'.	_	_	0	_	
+122	lugal	king	NN	120	appos	
+123	{d}en-lil2-le	whom Enlil	WP	126	dobj	
+124	sza3-ga-na	in his heart	NN	126	nmod:in	
+125	'.	_	,	120	_	
+126	in-pa3	did choose	VB	122	acl:relcl	
+127	'.	_	,	131	_	
+128	u3	and	CC	120	cc	
+129	an	four	CD	131	nummod	
+130	ub-da	_	_	0	_	
+131	limmu2-ba	quarters	NNS	120	conj	
+132	'.	_	,	131	_	
+133	lugal	king	NN	131	appos	
+134	kal-ga	mighty	JJ	133	amod	
+135	lugal	king	NN	131	appos	
+136	uri5{ki}-ma	Ur	NN	135	nmod:of	
+137	'.	_	,	131	_	
+138	lugal	king	NN	131	appos	
+139	an	four	CD	141	nummod	
+140	ub-da	world	NN	141	compound	
+141	limmu2-ba	quarters	NNS	138	nmod:of	
+142	'.	_	,	131	_	
+143	ARAD	her servant	NN	131	appos	
+144	ki-ag2-ga2-ni-ir	beloved	JJ	143	amod	
+145	'.	_	_	0	_	
+146	mu-na-an-szum2-ma-a	having given to him	VBG	131	acl	
+147	'.	_	,	149	_	
+148	u4-ba	at that	IN	149	nmod:at	
+149	szimaszki{KI}	time Szimaki	NN	146	nmod:at	
+150	'.	the	DT	152	det	
+151	ma-da	_	_	0	_	
+152	ma-da	lands	NNS	149	appos	
+153	za-ab-sza-li{ki}	Zabali	NNP	152	nmod:of	
+154	'.	_	_	0	_	
+155	za3	border	NN	152	nmod:from	
+156	an-sza3-an{ki}-ta	from Anan	IN	155	nmod:from	
+157	'.	_	_	0	_	
+158	x	_	_	0	dep	
+159	...	_	_	0	dep	
+160	'.	_	_	0	_	
+161	IM	_	_	0	_	
+162	...	_	_	0	dep	
+163	'.	_	_	0	_	
+164	alan	a statue	DT	168	det	
+165	...	_	_	0	dep	
+166	'.	a statue	NN	168	compound	
+167	PI	_	_	0	_	
+168	x	_	_	0	dep	
+169	x	_	_	0	dep	
+170	...	_	_	0	dep	
+171	'.	_	,	149	_	
+172	mu-dim2	he fashioned	VBD	168	acl:relcl	
+173	'.	and	CC	149	cc	
+174	{d}nin-lil2	to Ninlil	NNP	181	nmod:to	
+175	'.	_	,	174	_	
+176	nin-a-ni-ir	his mistress	NN	174	appos	
+177	'.	_	_	0	_	
+178	nam-ti-la-ni-sze3	for his life	NN	181	nmod:for	
+179	'.	_	.	149	_	
+180	a	he	PRP	181	nsubj	
+181	mu-na-ru	dedicated it	VBD	149	conj
+	
+

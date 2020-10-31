@@ -1,0 +1,29 @@
+# train/P315969.atf
+						
+
+# tr.en: Basket-of-tablets inspections of of Ennungal- Lu-Ningirsu son of Bazi month Festival-of-Mekigal of month are here year Simurum Lulubu
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	gurum2-ak	inspections	NNS	1	_	
+3	en-nun-gal	Ennungal-	JJ	2	nmod:of.of	
+4	x	_	,	3	dep	
+5	x	_	_	0	dep	
+6	lu2-{d}nin-gir2-su	Lu-Ningirsu	NNP	3	conj	
+7	dumu	son	NN	3	conj	
+8	ba-zi	Bazi	NNP	7	nmod:of	
+9	iti	month	NN	3	conj	
+10	ezem-me-ki-gal2	Festival-of-Mekigal	NNP	2	_	
+11	iti	month	NN	10	nmod:of	
+12	1(disz)-kam	_	_	0	nummod	
+13	...-ga2	_	_	0	_	
+14	...	_	_	0	dep	
+15	 	_	NN	0	root	
+16	 	_	NN	15	appos	
+17	x	_	:	16	dep	
+18	sze	_	``	16	_	
+19	...{ki}	_	,	10	_	
+20	i3-gal2	are here	RB	10	_	
+21	mu	year	NN	23	_	
+22	si-mu-ru-um{ki}	Simurum	NNP	23	compound	
+23	lu-lu-bu{ki}	Lulubu	NNP	10	parataxis
+	
+

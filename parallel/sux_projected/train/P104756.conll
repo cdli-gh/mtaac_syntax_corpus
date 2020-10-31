@@ -1,0 +1,58 @@
+# train/P104756.atf
+						
+
+# tr.en: Basket-of-tablets barley delivered Ur-Lamma governor year Karar for rd time was destroyed year Anan year following Anan year Nanna of Karzida year Wall of lands year house of Puzri-Dagan barley delivered cities th set barley delivered year Szarum was destroyed barley year house of Puzri-Dagan barley delivered year following house of Puzri-Dagan labor of hirelings field of Duge of Ur
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	sze	barley	NN	1	_	
+3	de6-a	delivered	VBN	2	acl	
+4	ur-{d}lamma	Ur-Lamma	NNP	2	appos	
+5	ensi2	governor	NN	4	appos	
+6	mu	year	NN	4	appos	
+7	kar2-har	_	``	10	_	
+8	a-ra2	for rd time	NN	10	nmod:for	
+9	3(disz)-kam	_	,	10	nummod	
+10	ba-hul	was destroyed	VBN	2	acl	
+11	mu	year	NN	10	nmod:tmod	
+12	an-sza-an{ki}	Anan	NNP	10	xcomp	
+13	mu	year	NN	12	nmod:tmod	
+14	us2-sa	following	VBG	15	nmod:follow	
+15	an-sza-an{ki}	Anan	NNP	13	nmod:follow	
+16	mu	year	NN	15	_	
+17	{d}nanna	Nanna	NNP	15	_	
+18	kar-zi-da	Karzida	NNP	17	nmod:of	
+19	mu	year	NN	15	_	
+20	bad3	Wall	NNP	15	_	
+21	ma-da	lands	NNS	20	nmod:of	
+22	mu	year	NN	15	_	
+23	e2	house	NN	15	_	
+24	puzur4-isz-{d}da-gan	Puzri-Dagan	NNP	23	nmod:of	
+25	sze	barley	NN	15	_	
+26	de6-a	delivered	VBN	25	acl	
+27	iri	cities	NNS	30	compound	
+28	igi	th	JJ	30	amod	
+29	6(disz)	_	,	15	nummod	
+30	gar-ra	set	NN	15	conj	
+31	sze	barley	NN	15	conj	
+32	de6-a	delivered	VBN	31	acl	
+33	gur-gi	year	NN	15	appos	
+34	mu	_	''	36	_	
+35	sza-asz-ru-um	_	``	36	_	
+36	ba-hul	was destroyed	VBN	15	parataxis	
+37	nig2-du12-du12	barley	NN	36	_	
+38	sze	_	,	40	_	
+39	mu	year	NN	37	appos	
+40	e2	house	NN	37	_	
+41	puzur4-isz-{d}da-gan	Puzri-Dagan	NNP	40	nmod:of	
+42	sze	barley	NN	40	_	
+43	de6-a	delivered	VBN	42	acl	
+44	mu	year	NN	45	compound	
+45	us2-sa	following	VBG	40	acl	
+46	e2	house	NN	40	_	
+47	puzur4-isz-da-gan	Puzri-Dagan	NNP	46	nmod:of	
+48	a2	labor	NN	40	_	
+49	hun-ga2	hirelings	NNS	48	nmod:of	
+50	a-sza3	field	NN	40	appos	
+51	du6-ge6	of Duge	NN	50	nmod:of	
+52	uri5{ki}-ma	Ur	NN	51	nmod:of
+	
+

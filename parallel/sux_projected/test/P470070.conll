@@ -1,0 +1,26 @@
+# test/P470070.atf
+						
+
+# tr.en: sheep lamb slaughtered th day from Bel-il did Szulgi-irimu receive month Ubi feast year after Simanum was destroyed
+1	2(disz)	_	,	2	nummod	
+2	udu	sheep	NN	20	nsubj	
+3	1(disz)	_	:	2	nummod	
+4	sila4	lamb	NN	2	appos	
+5	ba-usz2	slaughtered	VBN	2	acl	
+6	u4	th day	NN	5	nmod:tmod	
+7	1(u)-kam	_	:	5	nummod	
+8	ki	from	IN	9	nmod:from	
+9	be-li2-i3-li2-ta	Bel-il	NN	12	nmod:from	
+10	{d}szul-gi-iri-mu	did Szulgi-irimu	VBD	12	aux	
+11	szu	_	:	5	_	
+12	ba-ti	receive	VBP	5	parataxis	
+13	iti	month	NN	5	_	
+14	u5-bi2-gu7	Ubi feast	NN	13	_	
+15	mu	year	NN	14	_	
+16	us2-sa	after	IN	15	nmod:after	
+17	si-ma-num2{ki}	Simanum	NNP	19	nsubjpass	
+18	ba-hul	was destroyed	VBD	19	auxpass	
+19	3(disz)	was destroyed	VBN	14	nummod	
+20	 	_	LS	0	root
+	
+

@@ -1,0 +1,30 @@
+# test/P482024.atf
+						
+
+# tr.en: male laborers labor for years they being fishermen from year following For rd time Simurrum was destroyed to year following wall was erected mana silver silver of fisheries-tithe under seal of Umani
+1	4(u)	_	,	2	nummod	
+2	gurusz	male laborers	NNS	0	root	
+3	a2	labor	NN	2	appos	
+4	1/2(disz)	_	_	0	nummod	
+5	mu	years	NNS	2	nmod:for	
+6	6(disz)-sze3	_	,	2	nummod	
+7	szu-ku6-me	they being fishermen	NNS	2	acl:relcl	
+8	mu	year	NN	2	nmod:from	
+9	us2-sa	following	VBG	8	acl	
+10	a-ra2	_	:	8	_	
+11	3(disz@t)-kam	_	,	8	nummod	
+12	si-mu-ru-um{ki}	Simurrum	NN	8	nsubjpass	
+13	ba-hul-ta	from was destroyed	IN	8	nmod:from	
+14	mu	year	NN	8	nmod:to	
+15	us2-sa	following	VBG	14	acl	
+16	bad3	wall	NN	2	nsubjpass	
+17	ba-du3-sze3	to was erected	TO	14	nmod:to	
+18	4(disz)	_	NN	20	nummod	
+19	ma-na	mana	NN	20	compound	
+20	ku3-babbar	silver	NN	2	dobj	
+21	ku3	silver	_	0	_	
+22	nam-enku	fisheries-tithe	NN	18	nmod:of	
+23	kiszib3	under seal	NN	2	nmod:under	
+24	u3-ma-ni	Umani	NNP	23	nmod:of
+	
+

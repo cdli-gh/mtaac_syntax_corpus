@@ -1,0 +1,39 @@
+# train/P470069.atf
+						
+
+# tr.en: talents mina tan wool talents mina wool of fat-tailed sheep mina wool slaughtered sheep lordship from Kas did Gududu receive year Szu-Suen king of Ur land of Zabali destroyed
+1	2(u)	_	,	7	nummod	
+2	2(asz)	_	CD	9	nummod	
+3	gu2	talents	NNS	0	root	
+4	4(disz)	_	_	0	nummod	
+5	5/6(disz)	_	_	4	nummod	
+6	ma-na	mina	NN	7	compound	
+7	siki-gi	tan wool	NN	3	_	
+8	3(asz)	_	,	7	nummod	
+9	gu2	talents	NNS	7	conj	
+10	2(u)	_	CD	18	nummod	
+11	8(disz)	_	_	10	nummod	
+12	1/3(disz)	_	_	10	nummod	
+13	ma-na	mina	NN	14	compound	
+14	siki	wool	NN	9	_	
+15	gukkal	fat-tailed sheep	NN	14	nmod:of	
+16	3(disz)	_	:	7	nummod	
+17	ma-na	mina	NN	18	compound	
+18	siki	wool	NN	7	conj	
+19	udu	sheep	NN	7	conj	
+20	ba-usz2	slaughtered	VBN	19	amod	
+21	nam-en-na	lordship	NN	7	_	
+22	ki	from	IN	23	nmod:from	
+23	kas4-ta	Kas	NNPS	26	nmod:from	
+24	gu-du-du	did Gududu	VBD	26	aux	
+25	szu	_	:	3	_	
+26	ba-ti	receive	VB	7	parataxis	
+27	mu	year	NN	3	_	
+28	{d}szu-{d}suen	Szu-Suen	NNP	27	root	
+29	lugal	king	NN	28	appos	
+30	uri5{ki}-ma-ke4	Ur	NN	29	nmod:of	
+31	ma-da	land	NN	33	nsubj	
+32	za-ab-sza-li{ki}	Zabali	NN	31	nmod:of	
+33	mu-hul	destroyed	VBD	28	acl:relcl
+	
+

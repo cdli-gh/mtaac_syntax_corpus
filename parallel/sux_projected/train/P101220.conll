@@ -1,0 +1,68 @@
+# train/P101220.atf
+						
+
+# tr.en: sila fine beer sila bread shekels oil shekels alkali-plant bundle onions for A- ban beer ban bread via total sila fine beer total ban beer total ban sila bread total shekels oil total shekels alkali-plant total bundle onions th day month Lisi year Sz-Suen king great stele for Enlil erected
+1	5(disz)	_	,	3	nummod	
+2	sila3	sila	NN	3	compound	
+3	kasz	beer	NN	0	root	
+4	saga	fine	JJ	3	amod	
+5	3(disz)	_	CD	10	nummod	
+6	sila3	sila	NN	7	compound	
+7	ninda	bread	NN	3	conj	
+8	2(disz)	_	,	3	nummod	
+9	gin2	shekels	NNS	10	compound	
+10	i3	oil	NN	3	conj	
+11	2(disz)	_	CD	16	nummod	
+12	gin2	shekels	NNS	13	nmod:npmod	
+13	naga	alkali-plant	JJ	3	amod	
+14	1(disz)	_	,	3	nummod	
+15	sa	bundle	NN	16	compound	
+16	szum2	onions	NNS	3	appos	
+17	a2-{d}...	for A-	IN	22	nmod:for	
+18	x	_	_	0	dep	
+19	1(ban2)	ban	NN	22	nummod	
+20	kasz	beer	NN	22	compound	
+21	2(ban2)	ban	NN	22	nummod	
+22	ninda	bread	NN	3	nmod:for	
+23	...	_	_	0	dep	
+24	x-...	_	_	0	dep	
+25	giri3	via	IN	27	nmod:via	
+26	...	_	NN	27	dep	
+27	szunigin	total	NN	22	nmod:via	
+28	5(disz)	_	:	3	nummod	
+29	sila3	sila	NN	30	compound	
+30	kasz	beer	NN	3	_	
+31	saga	fine	JJ	30	amod	
+32	szunigin	total	NN	3	_	
+33	1(ban2)	ban	NN	34	nummod	
+34	kasz	beer	NN	32	_	
+35	szunigin	total	NN	3	_	
+36	2(ban2)	_	:	3	nummod	
+37	3(disz)	ban	NN	35	nummod	
+38	sila3	sila	NN	39	compound	
+39	ninda	bread	NN	37	_	
+40	szunigin	total	NN	3	_	
+41	2(disz)	_	_	0	nummod	
+42	gin2	shekels	NNS	43	compound	
+43	i3	oil	NN	40	_	
+44	szunigin	total	NN	3	_	
+45	2(disz)	_	:	3	nummod	
+46	gin2	shekels	NNS	44	_	
+47	naga	alkali-plant	JJ	46	amod	
+48	szunigin	total	NN	3	_	
+49	1(disz)	_	_	0	nummod	
+50	sa	bundle	NN	51	compound	
+51	szum2	onions	NNS	48	_	
+52	u4	th day	NN	3	_	
+53	1(u)	_	,	52	nummod	
+54	6(disz)-kam	_	_	53	nummod	
+55	iti	month	NN	52	appos	
+56	{d}li9-si4	_	``	3	_	
+57	mu	year	NN	3	_	
+58	{d}szu-{d}suen	Sz-Suen	NNP	57	_	
+59	lugal-e	king	NN	58	appos	
+60	na-ru2-a-mah	great stele	NN	62	nsubj	
+61	{d}en-lil2	for Enlil	NNP	60	nmod:for	
+62	mu-na-du3	erected	VBD	58	acl:relcl
+	
+

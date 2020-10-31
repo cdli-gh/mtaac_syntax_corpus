@@ -1,0 +1,27 @@
+# train/P107905.atf
+						
+
+# tr.en: Basket-of-tablets chambers debit accounts and credits of Utamiarram from month Gazelle feast to month Harvest months year en in Eridu was installed are here of Babati are here
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	e2-tum	chambers	NNS	18	nsubj	
+3	sag-nig2-gur11-ra	debit accounts	NNS	2	_	
+4	u3	and	CC	3	cc	
+5	zi-ga	credits	NNS	3	conj	
+6	u2-ta2-mi-szar-<ra>-am	Utamiarram	NNP	2	nmod:of	
+7	iti	month	NN	2	nmod:from	
+8	masz-da3-gu7-ta	from Gazelle feast	IN	7	nmod:from	
+9	iti	month	NN	2	nmod:to	
+10	sze-sag11-ku5-sze3	to Harvest	TO	9	nmod:to	
+11	iti	months	NNS	2	_	
+12	1(u)	_	,	2	nummod	
+13	2(disz)-kam	_	_	12	nummod	
+14	mu	year	NN	2	appos	
+15	en	en	IN	17	nsubjpass	
+16	eridu{ki}	in Eridu	NNP	15	nmod:in	
+17	ba-hun	was installed	VBN	2	acl	
+18	i3-gal2	are here	RB	1	_	
+19	x	_	,	21	dep	
+20	ba-ba-ti	Babati	NNP	21	nmod:of	
+21	i3-gal2	are here	VBP	18	parataxis
+	
+

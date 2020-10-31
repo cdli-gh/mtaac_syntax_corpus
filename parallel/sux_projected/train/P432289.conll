@@ -1,0 +1,30 @@
+# train/P432289.atf
+						
+
+# tr.en: For Szara the trusted one of An beloved son of Inanna his father Sz-Sin the strong king king of Ur and king of four world quarters the House Chosen by Heart his beloved temple for his life he built for him
+1	{d}szara2	For Szara	NNP	0	root	
+2	nir-gal2	the trusted one	CD	24	root	
+3	an-na	An	DT	4	det	
+4	dumu	son	NN	2	nmod:of	
+5	ki-ag2	beloved	JJ	4	amod	
+6	{d}inanna	Inanna	NNP	4	nmod:of	
+7	ad-da-ni-ir	his father	NN	2	appos	
+8	{d}szu-{d}suen	_	,	7	_	
+9	lugal	king	NN	7	appos	
+10	kal-ga	the strong	DT	9	det	
+11	lugal	king	NN	7	conj	
+12	uri5{ki}-ma	Ur	NN	11	nmod:of	
+13	lugal	king	NN	7	conj	
+14	an	four	CD	7	nummod	
+15	ub-da	world	NN	7	compound	
+16	limmu2-ba-ke4	and quarters	CC	7	cc	
+17	e2	the	DT	18	det	
+18	sza3-gi4-pa3-da	House Chosen by Heart	NNP	2	appos	
+19	e2	_	,	2	_	
+20	ki-ag2-ga2-ni	his beloved temple	NN	2	appos	
+21	nam-ti-la-ni-sze3	for his life	NN	2	nmod:for	
+22	mu-na-du3	he built for him	VBD	21	acl:relcl	
+23	 	_	NN	0	root	
+24	 	_	NN	23	appos
+	
+

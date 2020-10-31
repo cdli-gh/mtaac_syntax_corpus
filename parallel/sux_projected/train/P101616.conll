@@ -1,0 +1,48 @@
+# train/P101616.atf
+						
+
+# tr.en: Szu-Erra son of Ur-Bilgames for shekels of silver Ama bought Pussunum his officer-of-sixty He did not buy him said Szu-Erra Szukubum Azuli as witnesses appeared Among them Szu-Erra to take oath was delivered After Szu-Erra had sworn Ama slave took over in presence of Lu-amana year king Amar-Suen Urbilum destroyed
+1	1(disz)	_	,	3	nummod	
+2	szu-{d}er3-ra	Szu-Erra	NNP	42	_	
+3	dumu	son	NN	9	nsubj	
+4	ur-{d}gilgamesx(|BIL3.GA.MES|)-ka	Ur-Bilgames	NNP	3	nmod:of	
+5	1(u)	_	NNP	6	nummod	
+6	gin2	shekels	NNS	3	nmod:for	
+7	ku3-babbar-sze3	for silver	IN	6	nmod:for	
+8	a-hi-ma	Ama	_	0	_	
+9	in-sa10	bought	VBD	2	acl	
+10	pu3-su-nu-um	Pussunum	NN	9	_	
+11	ugula-gesz2-da-ka-ni	his officer-of-sixty	NN	10	appos	
+12	nu-sa10	He did	PRP	13	nsubj	
+13	bi2-du11	not buy him said	VB	10	acl:relcl	
+14	1(disz)	_	CD	15	nummod	
+15	szu-{d}er3-ra	Szu-Erra	NNP	9	_	
+16	1(disz)	_	CD	17	nummod	
+17	szu-ku8-bu-um	Szukubum	NN	22	_	
+18	1(disz)	_	:	19	nummod	
+19	a-zu-li	Azuli	NNP	17	_	
+20	...	_	,	17	dep	
+21	nam-lu2-inim-ma-sze3	as	IN	22	mark	
+22	im-ta-e3-esz2	witnesses appeared	VBD	15	acl	
+23	sza3-ba	_	.	22	_	
+24	szu-{d}er3-ra	Szu-Erra	NNP	27	nsubjpass	
+25	nam-erim2	Among	IN	26	nmod:among	
+26	ku5-de3	them to	PRP	22	nmod:among	
+27	ba-szum2	take oath was delivered	VBN	22	parataxis	
+28	szu-{d}er3-ra	After	IN	30	mark	
+29	nam-erim2	Szu-Erra	NNP	30	nsubj	
+30	un-ku5	had sworn	VBN	34	advcl	
+31	a-hi-ma	Ama slave	NN	34	nsubj	
+32	sag	_	:	22	_	
+33	szu-na	_	_	0	_	
+34	ba-an-gi4-gi4	took over	VBD	22	parataxis	
+35	igi	_	:	22	_	
+36	lu2-ama-na-sze3	in presence Lu-amana	NN	22	nmod:in.of	
+37	mu	year	NN	41	_	
+38	{d}amar-{d}suen	Amar-Suen	NNP	40	compound	
+39	lugal-e	king	NN	40	compound	
+40	ur-bi2-lum{ki}	Urbilum	NNP	41	nsubj	
+41	mu-hul	destroyed	VBD	22	parataxis	
+42	 	_	NN	0	root
+	
+

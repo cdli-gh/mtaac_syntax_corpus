@@ -1,0 +1,663 @@
+# train/P432280.atf
+						
+
+# tr.en: For Enlil king of all lands his master Sz-Sin chosen by name by An beloved by Enlil the king whom Enlil in his heart did choose as shepherd of country and of four world quarters the mighty king king of Ur and king of four world quarters When Enlil life and longevity crown and tiara a scepter of long days the throne of kingship with a secure foundation years of abundance a flood of weapons which cast forth great fearsomeness the royal ankara-weapon the weapon of war the weapon of heroism whose fearsomeness and divine radiance reaches up to heaven whose roar covers rebel lands from across the Lower Sea to Upper Sea the river All great mountain ranges the distant mountain places the peoples all their lords and enthroned ones to Sz-Sin the king nominated by An bowing down at his feet when Enlil the lord through whose command all is created to Sz-Sin his king chosen by sacred heart had given to him At that time Szimaki territories of Zabali from borders of Anan to Lower Sea those having risen up like locusts Nibulmat Sigri Alumidatim Garta Azaar Bulma Nuumar Nuganelum Zizirtum Arair Szatilu Tirmium and against came forth Their kings with their war and battle confronted him Sz-Sin the mighty king king of Ur and king of four world quarters by power of Enlil his master and by command of Ninlil his beloved mistress in those wars and battles he was repeatedly victorious Their head warriors he mowed down Their runners he weakened Their strong and weak he killed like dogs The heads of their righteous and treacherous ones he strewed like seeds Their human corpses he piled up like sheaves All their lords and enthroned ones he took into capitivity All great governors of territories of Zabali and all governors of cites whom he had brought back from wars their governors and enthroned ones when he had taken them prisoner before Enlil and Ninlil he did The young men who from grasp of battle had fallen out and to their cities like birds had saved their lives did not escape his hand Towards their cities like an Anzu-eagle he himself screeched Their settled cities and towns he made into ruined mounds and their walls he demolished The young men of their cities which he had conquered he removed their eyes and in orchards of Enlil and Ninlil and in orchards of great gods he made them into domestic servants Further young women of those cities which he had conquered in weaving-houses of Enlil and Ninlil and the temples of great gods he offered as gifts Their cattle sheep goats and donkeys which he brought in and in temples of Enlil and Ninlil and the temples of great gods he sacrificed them Gold and silver and things fashioned into big sacks he filled Copper and tin bronze and things fashioned from them he tied onto backs of donkeys and for temples of Enlil Ninlil and the temples of great gods into treasures he made them Sz-Sin the king nominated by An given supreme power by Enlil that from this day foreward the praise of them should not fall from lips but should be handed down Bulma in land of Szimaki like he cast down The population females and males those living beings having names he with weapons He having revealed it to for that his might and power shall unto distant times not be erased he it to their farthest reaches Habra and Mardama Sz-Sin the king and shepherd of Black-Headed Folk he raised there and covered them with garment of it Gold and silver to mine he set them At that time Sz-Sin the mighty king king of Ur and king of four world quarters the gold of territories of Szimaki which he had made into booty into stone figure of himself he fashioned and to Enlil his master for his life he dedicated it A person who an order of wickedness shall issue against it and this inscription shall erase and his own name shall write upon it or that which I have fashioned he shall destroy that person may Enlil the king of all lands and Ninlil the queen of gods curse May Ninurta the mighty warrior of Enlil be bailiff of this Inscription on its socle Sz-Sin beloved of Enlil king whom Enlil by his heart did choose to be shepherd of country and of four world quarters the mighty king king of Ur and king of four world quarters Inscription on his foot Ziringu the governor of land of Zabali Inscription on shoulder of Ziringu the captive king A tablet of inscriptions of three tablets of statues of Sz-Sin and their two socles
+1	{d}en-lil2	For Enlil	NNP	7	nmod:for	
+2	lugal	king	NN	7	nsubjpass	
+3	kur-kur-ra	all lands	NNS	2	nmod:of	
+4	lugal-a-ni-ir	his master	NN	7	nsubj	
+5	{d}szu-{d}suen	_	,	4	_	
+6	mu	_	_	0	_	
+7	pa3-da	chosen by name	VBN	0	root	
+8	an-na	by An	DT	7	nmod:by	
+9	ki-ag2	beloved	JJ	8	amod	
+10	{d}en-lil2-la2	by Enlil	NNP	9	nmod:by	
+11	lugal	king	NN	8	appos	
+12	{d}en-lil2-le	the whom Enlil	DT	11	det	
+13	sza3-ga-na	in his heart	NN	14	nmod:in	
+14	in-pa3	did choose	VB	11	acl:relcl	
+15	sipa	_	_	0	_	
+16	kalam-ma	as shepherd country	NN	14	nmod:as	
+17	u3	and	CC	16	cc	
+18	an	four	CD	20	nummod	
+19	ub-da	world	NN	20	compound	
+20	limmu-ba-sze3	quarters	NNS	16	conj	
+21	lugal	king	NN	20	appos	
+22	kal-ga!	the mighty	DT	21	det	
+23	lugal	king	NN	20	appos	
+24	uri5{ki}-ma	Ur	NN	23	nmod:of	
+25	lugal	king	NN	23	conj	
+26	an	four	CD	25	nummod	
+27	ub-da	world	NN	25	compound	
+28	limmu-ba-ra	and quarters	CC	23	cc	
+29	u4	_	_	0	_	
+30	{d}en-lil2-le	When Enlil	WRB	556	advmod	
+31	nam-ti	life	NN	556	nsubj	
+32	zi-su3-gal2	and longevity	CC	31	cc	
+33	aga	crown	NN	31	conj	
+34	men	and tiara	CC	31	cc	
+35	gidri	a	DT	37	det	
+36	u4	days	NNS	37	nmod:of	
+37	su3-ra2	scepter long	NN	31	conj	
+38	{gesz}gu-za	throne	NN	31	conj	
+39	nam-lugal	the kingship	DT	38	det	
+40	suhusz	with a	IN	41	nmod:with	
+41	gi-na	secure foundation	NN	38	nmod:with	
+42	mu	_	,	31	_	
+43	he2-gal2-la	years abundance	NNS	31	conj	
+44	{gesz}tukul	a	DT	45	det	
+45	a-ma-ru	flood weapons	NN	31	conj	
+46	ni2	which fearsomeness	WDT	48	nsubj	
+47	gal	great	JJ	48	amod	
+48	mu-szub	cast forth	VBD	45	acl:relcl	
+49	a2-an-kar2	the royal ankara-weapon	NN	31	appos	
+50	a2	the	DT	51	det	
+51	me3	weapon war	NN	49	_	
+52	a2	the	DT	53	det	
+53	nam-ur-sag-ga2	weapon heroism	NN	31	appos	
+54	ni2	whose fearsomeness	NN	56	nsubj	
+55	me-lam2-bi	and divine radiance	CC	54	cc	
+56	an-ne2	reaches up to heaven	VBZ	53	acl:relcl	
+57	us2-sa	_	,	56	_	
+58	za-pa-ag2-bi	whose roar	NN	61	nsubj	
+59	ki	_	_	0	_	
+60	bala-a	_	_	0	_	
+61	dul9-dul9-la	covers rebel lands	VBZ	56	acl:relcl	
+62	bala-a-ri	from across	IN	63	nmod:from	
+63	a-ab-ba	Sea	NNP	61	nmod:from.across	
+64	sig-ga-ta	the Lower	DT	63	det	
+65	a-ab-ba	Sea	NNP	61	nmod:to	
+66	igi-nim-ma-sze3	to Upper	TO	65	nmod:to	
+67	i7	the river	DT	68	det	
+68	...	the river	NN	56	nsubj	
+69	'.	_	,	71	_	
+70	hur-sag	_	_	0	_	
+71	gal-gal	All great mountain ranges	NNS	56	dobj	
+72	'.	_	,	71	_	
+73	kur	the	DT	75	det	
+74	ki	_	_	0	_	
+75	su3-ra2	distant mountain places	NNS	71	appos	
+76	'.	the	DT	77	det	
+77	nam-lu2-u18	peoples	NNS	71	appos	
+78	'.	_	,	71	_	
+79	en-en	all their	DT	80	det:predet	
+80	bara2-bara2-bi	lords and enthroned ones	NNS	71	appos	
+81	'.	to	TO	71	nmod:to	
+82	{d}szu-{d}suen	_	,	71	_	
+83	'.	the	DT	84	det	
+84	lugal	king	NN	71	appos	
+85	mu	_	,	71	_	
+86	pa3-da	by	IN	87	nmod:by	
+87	an-na-ra	nominated An	VBN	84	acl	
+88	'.	_	,	89	_	
+89	giri3-ne2	bowing	VBG	71	acl	
+90	szu	_	_	0	_	
+91	gur2-gur2-e	down at his feet	RP	89	compound:prt	
+92	'.	_	,	108	_	
+93	{d}en-lil2	when Enlil	WRB	108	advmod	
+94	'.	the	DT	95	det	
+95	en	lord	NN	108	appos	
+96	du11-ga-na	through whose command	NN	99	nmod:through	
+97	'.	_	,	108	_	
+98	sag	_	_	0	_	
+99	du3-du3-e	all is created	VBN	95	acl:relcl	
+100	'.	to	TO	108	nmod:to	
+101	{d}szu-{d}suen	_	,	108	_	
+102	'.	_	,	108	_	
+103	lugal	king	NN	108	appos	
+104	sza3	_	_	0	_	
+105	ku3-ge	his heart	PRP$	103	nmod:poss	
+106	pa3-da-ni-ir	chosen by sacred	VBN	103	acl	
+107	'.	_	_	0	_	
+108	mu-na-an-szum2-ma-a	had given to him	VBN	89	acl:relcl	
+109	'.	_	_	0	_	
+110	u4-ba	At that time	NN	89	nmod:at	
+111	'.	_	,	112	_	
+112	szimaszgi{ki}	Szimaki	NNP	110	amod	
+113	'.	_	_	0	_	
+114	ma-da	_	_	0	_	
+115	ma-da	territories	NNS	112	appos	
+116	'.	_	,	112	_	
+117	za-ab-sza-li{ki}	of Zabali	NNP	115	nmod:of	
+118	'.	_	_	0	_	
+119	za3	from	IN	120	nmod:from	
+120	an-sza-an{ki}-ta	borders Anan	NNS	112	nmod:from	
+121	'.	_	_	0	_	
+122	a-ab-ba	Sea	NNP	120	nmod:to	
+123	igi-nim-ma-sze3	to Lower	TO	122	nmod:to	
+124	'.	_	,	125	_	
+125	buru5-gin7	those having risen	DT	112	_	
+126	zi-ga-bi	up like locusts	RP	125	compound:prt	
+127	'.	_	_	0	_	
+128	ni-bu-ul-ma-at{ki}	Nibulmat	NN	125	conj	
+129	'.	_	_	0	_	
+130	x	_	_	0	dep	
+131	x	_	_	0	dep	
+132	x-am{ki}	_	_	0	_	
+133	'.	_	_	0	_	
+134	si-ig-ri2-isz{ki}	Sigri	_	0	_	
+135	'.	_	,	125	_	
+136	a-lu-mi-da-tim{ki}	Alumidatim	NNP	125	conj	
+137	'.	_	,	125	_	
+138	ga-ar-ta2{ki}	Garta	NNP	125	conj	
+139	'.	_	,	125	_	
+140	a-za-ha-ar{ki}	Azaar	NNP	125	conj	
+141	'.	_	,	125	_	
+142	bu-ul-ma{ki}	Bulma	NNP	125	conj	
+143	'.	_	,	125	_	
+144	nu-szu-usz-ma-ar{ki}	Nuumar	NNP	125	conj	
+145	'.	_	,	125	_	
+146	nu-usz-ga-ne-lu-um{ki}	Nuganelum	NNP	125	conj	
+147	'.	_	,	125	_	
+148	zi-zi-ir-tum{ki}	Zizirtum	NNP	125	conj	
+149	'.	_	,	125	_	
+150	a-ra-hi-ir{ki}	Arair	NNP	125	conj	
+151	'.	_	,	125	_	
+152	sza-ti-lu{ki}	Szatilu	NNP	125	conj	
+153	'.	_	,	125	_	
+154	ti-ir-mi-um{ki}	Tirmium	NNP	125	conj	
+155	'.	_	_	0	_	
+156	u3	and	CC	125	cc	
+157	'.	_	NN	262	nmod:against	
+158	...	against	IN	157	dep	
+159	'.	_	.	89	_	
+160	...	_	_	0	dep	
+161	'.	_	_	0	_	
+162	...	_	_	0	dep	
+163	'.	_	_	0	_	
+164	...-da	_	_	0	_	
+165	'.	_	_	0	_	
+166	im-ma-da-e3-esz	came forth	VBD	125	conj	
+167	'.	_	_	0	_	
+168	lugal-bi	Their kings	NNS	174	nsubj	
+169	'.	_	_	0	_	
+170	me3	war	NN	168	nmod:with	
+171	szen-szen-ba	with their and battle	IN	170	nmod:with	
+172	'.	_	.	174	_	
+173	gaba	_	NN	174	_	
+174	mu-na-da-ri-esz	confronted him	VBD	89	parataxis	
+175	'.	_	,	173	_	
+176	{d}szu-{d}suen	Sz-Sin	_	0	_	
+177	'.	the	DT	178	det	
+178	lugal	king	NN	173	appos	
+179	kal-ga	mighty	JJ	178	amod	
+180	'.	_	_	0	_	
+181	lugal	king	NN	173	conj	
+182	uri5{ki}-ma	Ur	NN	181	nmod:of	
+183	'.	_	,	173	_	
+184	lugal	king	NN	173	conj	
+185	an	four	CD	173	nummod	
+186	ub-da	world	NN	173	compound	
+187	limmu2-ba-ke4	and quarters	CC	173	cc	
+188	'.	_	_	0	_	
+189	a2	by	IN	190	nmod:by	
+190	{d}en-lil2	power Enlil	NN	173	nmod:by	
+191	'.	_	,	173	_	
+192	lugal-na-ta	his master	NN	190	nmod:of	
+193	'.	_	,	173	_	
+194	inim	and by command	CC	173	cc	
+195	{d}nin-lil2	Ninlil	NNP	173	nmod:of	
+196	'.	_	,	173	_	
+197	nin	mistress	NN	173	appos	
+198	ki-ag2-ga2-na-ta	his beloved	PRP$	197	nmod:poss	
+199	'.	_	_	0	_	
+200	me3	in	IN	201	nmod:in	
+201	szen-szen-ba	those wars and battles	NNS	204	nmod:in	
+202	'.	_	.	204	_	
+203	aga3-kar2	he	PRP	204	nsubj	
+204	bi2-in-se3-se3	was repeatedly victorious	JJ	173	_	
+205	'.	_	_	0	_	
+206	sag-ur-sag-be2	Their head warriors	NNS	204	dobj	
+207	'.	_	.	31	_	
+208	gu2-gurx(|SZE.KIN|)	mowed down	VBD	206	acl:relcl	
+209	bi2-in-du11	he	PRP	208	nsubj	
+210	'.	_	_	0	_	
+211	du10-tuku-bi	Their runners	NNS	31	_	
+212	'.	_	.	211	_	
+213	szu-si-ga	weakened	VBD	211	acl:relcl	
+214	bi2-in-du11	he	PRP	213	nsubj	
+215	'.	_	_	0	_	
+216	kal-ga	strong	JJ	229	amod	
+217	si-ga-bi	Their and weak	PRP$	229	nmod:poss	
+218	'.	_	.	219	_	
+219	ur-re-esz2	he killed	VBD	216	acl	
+220	mu-ugx(|BAD.BAD|)	like dogs	NNS	219	nmod:like	
+221	'.	_	_	0	_	
+222	sag-zi	The heads	NNS	219	dobj	
+223	sag-lul-bi	their righteous and treacherous ones	NNS	222	nmod:of	
+224	'.	_	.	229	_	
+225	numun-e-esz2	he	PRP	226	nsubj	
+226	mu-gar-gar	strewed like seeds	VBD	223	acl:relcl	
+227	'.	_	_	0	_	
+228	ad6	Their	PRP$	229	nmod:poss	
+229	nam-lu2-u18-bi	human corpses	NNS	211	_	
+230	'.	_	.	229	_	
+231	zar-re-esz2	he piled	VBD	229	acl:relcl	
+232	mu-du8-du8	up like sheaves	RP	231	compound:prt	
+233	'.	_	_	0	_	
+234	en-en	All their	PDT	235	det:predet	
+235	bara2-bara2-bi	lords and enthroned ones	NNS	229	_	
+236	'.	_	.	31	_	
+237	szaga-a	_	_	0	_	
+238	mi-ni-in-dab5-dab5	he took into capitivity	VBD	235	acl:relcl	
+239	'.	_	_	0	_	
+240	ensi2	governors	NNS	31	_	
+241	gal-gal	All great	PDT	240	det:predet	
+242	'.	_	_	0	_	
+243	ma-da	_	_	0	_	
+244	ma-da	territories	NNS	240	nmod:of	
+245	'.	_	_	0	_	
+246	za-ab-sza-li{ki}	of Zabali	NNP	244	nmod:of	
+247	'.	_	_	0	_	
+248	u3	and	CC	240	cc	
+249	'.	_	_	0	_	
+250	ensi2-ensi2	all governors	NNS	240	conj	
+251	'.	_	_	0	_	
+252	iri{ki}-iri{ki}	of cites	VBZ	250	nmod:of	
+253	'.	_	,	240	_	
+254	me3-a	whom	WP	255	dobj	
+255	mu-da-an-gur-re-sza	he had brought back from wars	VBN	250	acl:relcl	
+256	'.	_	_	0	_	
+257	en-en	their	PRP$	258	nmod:poss	
+258	bara2-bara2-bi	governors and enthroned ones	NNS	240	conj	
+259	'.	_	_	0	_	
+260	szaga	_	_	0	_	
+261	mi-ni-in-dab5-dab5-ba-na	when he had taken them prisoner	VBN	240	acl:relcl	
+262	 	_	_	0	_	
+263	'.	_	_	0	_	
+264	...	_	_	0	dep	
+265	'.	_	_	0	_	
+266	...	_	_	0	dep	
+267	'.	_	_	0	_	
+268	igi	before	IN	269	nmod:before	
+269	{d}en-lil2	Enlil	NNP	260	nmod:before	
+270	'.	_	_	0	_	
+271	{d}nin-lil2-la2-sze3	and Ninlil	CC	269	cc	
+272	'.	_	NN	273	dobj	
+273	bi2-...	he did	VBD	260	acl:relcl	
+274	'.	_	_	0	_	
+275	nam-gurusz	The young men	NNS	289	nsubj	
+276	'.	_	_	0	_	
+277	szu	_	_	0	_	
+278	me3-ta	who from grasp battle	WP	280	nsubj	
+279	'.	_	,	280	_	
+280	im-ma-ta-szub-bu-sza-a	had fallen out	VBN	275	acl:relcl	
+281	'.	and	CC	280	cc	
+282	iri{ki}-iri{ki}-bi-sze3	to their cities	NNS	286	nmod:to	
+283	'.	_	,	275	_	
+284	muszen-gin7	like birds	NNS	282	nmod:like	
+285	zi-bi	had	VBD	286	aux	
+286	ba-ab-de6-a	saved their lives	VBN	280	conj	
+287	'.	_	.	289	_	
+288	szu-ni	did not	VBD	289	aux	
+289	la-ba-ta-e3	escape his hand	VB	272	acl:relcl	
+290	'.	_	_	0	_	
+291	iri{ki}-iri{ki}-bi-sze3	Towards their cities	NNS	289	nmod:towards	
+292	'.	_	_	0	_	
+293	anzu{muszen}-gin7	like an	IN	294	nmod:like	
+294	a-ne	Anzu-eagle he himself	JJ	291	nmod:like	
+295	'.	_	.	240	_	
+296	sze14	_	_	0	_	
+297	bi2-in-gi	screeched	VBD	294	acl:relcl	
+298	'.	_	_	0	_	
+299	iri{ki}	Their	PRP$	300	nmod:poss	
+300	a2-dam	cities and towns	NNS	240	conj	
+301	ki-gar-gar-ra-bi	settled	VBN	300	amod	
+302	'.	_	,	240	_	
+303	du6-du6-ra2	he made	VBD	300	acl:relcl	
+304	mi-ni-in-gar	into ruined mounds	NNS	303	nmod:into	
+305	'.	and	CC	240	cc	
+306	bad3-bi	their walls	NNS	240	conj	
+307	'.	_	.	31	_	
+308	mu-gul-gul	he demolished	VBD	306	acl:relcl	
+309	'.	_	_	0	_	
+310	nam-gurusz	The young men	NNS	31	_	
+311	iri{ki}-iri{ki}-ba	their cities	NNS	310	nmod:of	
+312	'.	_	_	0	_	
+313	sa2	which	WDT	314	dobj	
+314	ba-ni-in-du11-ga-a	he had conquered	VBN	310	acl:relcl	
+315	'.	_	,	310	_	
+316	igi-bi	he removed	VBD	314	ccomp	
+317	im-ma-an-du8-du8	their eyes	NNS	316	dobj	
+318	'.	and	CC	310	cc	
+319	{gesz}kiri6	in orchards	NNS	310	conj	
+320	{d}en-lil2	Enlil	NN	319	nmod:of	
+321	'.	_	_	0	_	
+322	{d}nin-lil2-la2	and Ninlil	CC	320	cc	
+323	'.	_	_	0	_	
+324	u3	and	CC	310	cc	
+325	'.	_	_	0	_	
+326	{gesz}kiri6	in orchards	NNS	310	conj	
+327	dingir	_	_	0	_	
+328	gal-gal-e-ne-ka	great gods	NNS	326	nmod:of	
+329	'.	_	.	31	_	
+330	giri3-sze3	he made them	VBD	328	acl:relcl	
+331	im-mi-in-se3	into domestic servants	NNS	330	nmod:into	
+332	'.	_	_	0	_	
+333	u3	_	_	0	_	
+334	nam-geme2	Further young women	RB	31	advmod	
+335	'.	_	_	0	_	
+336	iri{ki}-iri{ki}-ba	of those cities	NNS	31	nmod:of	
+337	'.	_	_	0	_	
+338	sa2	which	WDT	339	dobj	
+339	ba-ni-in-in-du11-ga	he had conquered	VBN	31	acl:relcl	
+340	'.	_	_	0	_	
+341	e2	in	IN	342	nmod:in	
+342	usz-bar	weaving-houses	NNS	339	nmod:in	
+343	'.	_	_	0	_	
+344	{d}en-lil2	Enlil	NN	342	nmod:of	
+345	'.	_	_	0	_	
+346	{d}nin-lil2-la2	and Ninlil	CC	344	cc	
+347	'.	_	_	0	_	
+348	u3	and	CC	342	cc	
+349	'.	_	_	0	_	
+350	e2	_	_	0	_	
+351	dingir	the	DT	352	det	
+352	gal-gal-e-ne-ka	temples great gods	NNS	342	conj	
+353	'.	_	.	31	_	
+354	sag-sze3	he	PRP	355	nsubj	
+355	im-mi-in-rig7	offered as gifts	VBD	352	acl:relcl	
+356	'.	_	_	0	_	
+357	gu4	_	_	0	_	
+358	udu	cattle sheep	NNS	31	_	
+359	masz2	goats	NNS	358	conj	
+360	ansze-bi	Their and donkeys	PRP$	358	nmod:poss	
+361	'.	_	_	0	_	
+362	mu-un-la-ha	which he brought in	VBD	358	acl:relcl	
+363	'.	and	CC	362	cc	
+364	e2	in	IN	365	nmod:in	
+365	{d}en-lil2	temples Enlil	NNS	362	conj	
+366	'.	_	_	0	_	
+367	{d}nin-lil2	and Ninlil	CC	365	cc	
+368	'.	_	_	0	_	
+369	u3	and	CC	362	cc	
+370	'.	_	_	0	_	
+371	e2	_	_	0	_	
+372	dingir	the	DT	373	det	
+373	gal-gal-e-ne-ka	temples great gods	NNS	362	conj	
+374	'.	_	.	358	_	
+375	gesz	_	_	0	_	
+376	im-ma-ni-in-tag	he sacrificed them	VBD	373	acl:relcl	
+377	'.	_	_	0	_	
+378	ku3-sig17	Gold and	NNP	358	conj	
+379	ku3-babbar	silver	NN	378	conj	
+380	'.	_	_	0	_	
+381	nig2	and	CC	378	cc	
+382	dim2-ma	things fashioned	NNS	378	conj	
+383	'.	_	_	0	_	
+384	|(KUSZ.LU.UB2.SZIR)&amp;(LU.UB2.SZIR)|	into big	IN	385	nmod:into	
+385	gal-gal-la	sacks	NNS	378	nmod:into	
+386	'.	_	.	378	_	
+387	mi-ni-in-si-si	he filled	VBD	385	acl:relcl	
+388	'.	_	,	378	_	
+389	uruda	Copper	NN	378	conj	
+390	'.	_	,	378	_	
+391	nagga-bi	and tin	CC	378	cc	
+392	'.	_	,	378	_	
+393	zabar	bronze	NN	378	conj	
+394	'.	_	_	0	_	
+395	nig2-dim2-ma-bi	and things fashioned from them	CC	378	cc	
+396	'.	_	,	358	_	
+397	ansze	donkeys	NNS	399	nmod:of	
+398	bar-e	he	PRP	399	nsubj	
+399	bi2-in-la2-la2	tied onto backs	VBD	378	acl:relcl	
+400	'.	and	CC	358	cc	
+401	e2	_	,	402	_	
+402	{d}en-lil2	for temples Enlil	NNS	358	conj	
+403	'.	_	,	402	_	
+404	{d}nin-lil2-la2	Ninlil	NNP	402	conj	
+405	'.	_	_	0	_	
+406	u3	and	CC	402	cc	
+407	'.	_	_	0	_	
+408	e2	_	_	0	_	
+409	dingir	the	DT	410	det	
+410	gal-gal-e-ne-ke4	temples great gods	NNS	402	conj	
+411	'.	_	_	0	_	
+412	gil-sa-asz	into treasures	NNS	410	nmod:into	
+413	'.	_	NN	358	conj	
+414	im-mi-in-ak	he made them	VBD	412	acl:relcl	
+415	'.	_	,	358	_	
+416	{d}szu-{d}suen	Sz-Sin	_	0	_	
+417	'.	the	DT	418	det	
+418	lugal	king	NN	358	appos	
+419	mu	_	,	358	_	
+420	pa3-da	by	IN	421	nmod:by	
+421	an-na!-ke4	nominated An	VBN	418	acl	
+422	'.	_	_	0	_	
+423	a2	_	_	0	_	
+424	mah	_	_	0	_	
+425	szum2-ma	given supreme power	NN	358	nmod:give	
+426	'.	_	,	358	_	
+427	{d}en-lil2-la2-ke4	by Enlil	NNP	425	nmod:by	
+428	'.	_	_	0	_	
+429	u4-da	_	_	0	_	
+430	egir-bi-sze3	that from this day foreward	VBD	358	acl	
+431	'.	the	DT	432	det	
+432	a-ar-bi	praise them	NN	430	dobj	
+433	'.	_	,	430	_	
+434	ka-ta	should	MD	435	aux	
+435	nu-szub!-bu-de3	not fall from lips	VB	430	acl	
+436	'.	_	_	0	_	
+437	szu-a	but	CC	430	cc	
+438	bala-e-de3	should be handed down	VBN	430	conj	
+439	'.	_	,	440	_	
+440	bu-ul-ma{ki}	Bulma	NN	438	_	
+441	'.	_	,	440	_	
+442	ma-da	land	NN	440	nmod:in	
+443	szimaszgi{ki}-ka	in Szimaki	IN	442	nmod:in	
+444	'.	_	NN	440	nmod:like	
+445	u4-da-be2-esz	like	IN	444	nmod:like	
+446	'.	_	.	440	_	
+447	x-ni-in-szub	he cast down	VBD	444	acl:relcl	
+448	'.	_	,	449	_	
+449	nam-lu2-u18	The population	NN	440	_	
+450	'.	_	,	449	_	
+451	munus	females	NNS	449	conj	
+452	nita2	and males	CC	449	cc	
+453	'.	_	_	0	_	
+454	zi-gal2	those	DT	456	det	
+455	mu	_	_	0	_	
+456	tuku-bi	living beings having names	NNS	449	appos	
+457	'.	_	.	430	_	
+458	x	_	_	0	dep	
+459	{gesz}tukul	_	_	0	_	
+460	mi-ni-in-x	he with weapons	PRP	456	nsubj	
+461	'.	_	NN	463	nmod:to	
+462	x-e	He	PRP	463	nsubj	
+463	im-mi-in-pa3-da	having revealed it to	VBN	430	parataxis	
+464	'.	_	DT	465	det	
+465	ki-gal	_	NN	461	nmod:for	
+466	a2-ra	for	IN	465	nmod:for	
+467	'.	_	_	0	_	
+468	nam-kal-ga	that his might	IN	473	mark	
+469	'.	_	_	0	_	
+470	nam-ir9-ra-ni	and power	CC	473	cc	
+471	'.	_	_	0	_	
+472	szu	_	_	0	_	
+473	ul-li2-a-asz	shall unto distant times	VB	465	ccomp	
+474	'.	_	,	463	_	
+475	nu-ur3-ur3-a	not be erased	VBN	473	xcomp	
+476	'.	_	NN	483	compound	
+477	za3-ba	he it	PRP	463	nsubj	
+478	im-mi-in-x	to their farthest reaches	NNS	463	nmod:to	
+479	'.	_	_	0	_	
+480	x	_	_	0	dep	
+481	x	_	_	0	dep	
+482	x	_	_	0	dep	
+483	ha-bu-ra{ki}	Habra	NNP	463	_	
+484	'.	_	_	0	_	
+485	u3	and	CC	483	cc	
+486	'.	_	NNP	483	conj	
+487	mar-da-ma-an{ki}	Mardama	NNP	486	compound	
+488	'.	_	,	483	_	
+489	{d}szu-{d}suen	Sz-Sin	_	0	_	
+490	'.	the	DT	491	det	
+491	lugal	king	NN	483	conj	
+492	sipa	_	_	0	_	
+493	sag-ge6-ga-ke4	and shepherd Black-Headed Folk	CC	483	cc	
+494	'.	_	_	0	_	
+495	nam-x-x	_	_	0	_	
+496	'.	_	_	0	_	
+497	ba-ni-zi	he raised there	VBD	492	acl:relcl	
+498	'.	_	.	483	_	
+499	tug2-ba	and covered	CC	483	cc	
+500	bi2-dul4	them with garment it	PRP	483	dobj	
+501	'.	_	_	0	_	
+502	ku3-sig17	Gold and	NNP	483	conj	
+503	ku3-babbar	silver	NN	483	conj	
+504	'.	_	_	0	_	
+505	ba-al-e-de3	to mine	NN	483	nmod:to	
+506	'.	_	.	31	_	
+507	im-ma-ta-an-gar	he set them	VBD	483	acl:relcl	
+508	'.	_	NN	556	nsubj	
+509	u4-ba	At that time	NN	556	nmod:at	
+510	'.	_	,	508	_	
+511	{d}szu-{d}suen	Sz-Sin	_	0	_	
+512	'.	the	DT	513	det	
+513	lugal	king	NN	508	appos	
+514	kal-ga	mighty	JJ	513	amod	
+515	'.	_	_	0	_	
+516	lugal	king	NN	508	conj	
+517	uri5{ki}-ma	Ur	NN	516	nmod:of	
+518	'.	and	CC	508	cc	
+519	lugal	king	NN	508	conj	
+520	an	four	CD	522	nummod	
+521	ub-da	world	NN	522	compound	
+522	limmu-ba-ke4	quarters	NNS	508	nmod:of	
+523	'.	the	DT	524	det	
+524	ku3-sig17	gold	NN	508	conj	
+525	'.	_	_	0	_	
+526	ma-da	_	_	0	_	
+527	ma-da	territories	NNS	524	nmod:of	
+528	'.	_	,	529	_	
+529	szimaszgi{ki}-ka!	of Szimaki	NNP	527	nmod:of	
+530	'.	_	,	529	_	
+531	nam-ra-asz	which	WDT	532	dobj	
+532	ak-ni	he had made into booty	VBN	529	acl:relcl	
+533	'.	_	_	0	_	
+534	alan-na-ni-sze3	into stone figure himself	NN	524	nmod:into	
+535	'.	_	,	508	_	
+536	mu-dim2	he fashioned	VBD	534	acl:relcl	
+537	'.	and	CC	508	cc	
+538	{d}en-lil2	to Enlil	NNP	508	conj	
+539	'.	_	,	538	_	
+540	lugal-a-ni-ir	his master	NN	538	appos	
+541	'.	_	_	0	_	
+542	nam-ti-la-ni-sze3	for his life	NN	545	nmod:for	
+543	'.	_	.	508	_	
+544	a	he	PRP	545	nsubj	
+545	mu-na-ru	dedicated it	VBD	538	acl:relcl	
+546	'.	_	_	0	_	
+547	lu2	_	_	0	_	
+548	a2	_	_	0	_	
+549	nig2-hul-dim2-ma	A person who an order wickedness	NN	508	conj	
+550	'.	_	,	508	_	
+551	ib2-szi-ag2-ge26-a-a	shall issue against it	VB	549	acl:relcl	
+552	'.	and	CC	508	cc	
+553	mu-sar-ra-ba	this inscription	NN	508	conj	
+554	'.	_	_	0	_	
+555	szu	_	_	0	_	
+556	bi2-ib2-ur3-ur3-a	shall erase	VB	20	acl:relcl	
+557	'.	_	_	0	_	
+558	mu-ni	and his own name	CC	556	cc	
+559	'.	_	,	556	_	
+560	bi2-ib2-sar-re-a	shall write upon it	VB	556	conj	
+561	'.	_	_	0	_	
+562	nig2-dim2-ma-mu	or that which I have fashioned	CC	556	cc	
+563	'.	_	,	568	_	
+564	ib2-zi-re-a	he shall destroy	VB	568	ccomp	
+565	'.	_	_	0	_	
+566	lu2-ba	that person	NN	568	nsubj	
+567	'.	_	,	568	_	
+568	{d}en-lil2	may Enlil	NNP	556	conj	
+569	'.	the	DT	570	det	
+570	lugal	king	NN	568	conj	
+571	kur-kur-ra-ke4	all lands	NNS	570	nmod:of	
+572	'.	_	,	568	_	
+573	{d}nin-lil2	and Ninlil	CC	568	cc	
+574	'.	_	,	576	_	
+575	nin	the	DT	576	det	
+576	dingir-re2-e-ne-ke4	queen gods	NN	568	appos	
+577	'.	_	.	7	_	
+578	nam	_	_	0	_	
+579	ha-ba-an-da-ku5-re6-ne	curse	NN	576	appos	
+580	'.	_	,	581	_	
+581	{d}nin-urta	May Ninurta	NNP	588	nsubj	
+582	'.	the	DT	583	det	
+583	ur-sag	warrior	NN	581	appos	
+584	kal-ga	mighty	JJ	583	amod	
+585	'.	_	,	581	_	
+586	{d}en-lil2-la2	Enlil	NNP	583	nmod:of	
+587	'.	_	.	588	_	
+588	maszkim-bi	be bailiff	NN	7	parataxis	
+589	he2-a	this	DT	588	nmod:of	
+590	'.	_	_	0	_	
+591	mu-sar-ra	Inscription	NN	588	_	
+592	'.	_	NN	593	appos	
+593	ki-gal-ba	on its socle	NN	591	nmod:on	
+594	'.	_	,	593	_	
+595	{d}szu-{d}suen	Sz-Sin	_	0	_	
+596	'.	_	_	0	_	
+597	ki-ag2	beloved	JJ	593	appos	
+598	'.	_	,	599	_	
+599	{d}en-lil2-la2	Enlil	NNP	597	nmod:of	
+600	'.	_	_	0	_	
+601	lugal	king	NN	599	appos	
+602	{d}en-lil2-le	whom Enlil	WP	606	dobj	
+603	'.	_	_	0	_	
+604	sza3-ga-ne2	by his heart	NN	606	nmod:by	
+605	'.	_	_	0	_	
+606	in-pa3	did choose	VB	601	acl:relcl	
+607	'.	to	TO	609	mark	
+608	sipa	_	_	0	_	
+609	kalam-ma	be shepherd country	NN	606	xcomp	
+610	'.	_	,	614	_	
+611	u3	and	CC	609	cc	
+612	an	four	CD	614	nummod	
+613	ub-da	world	NN	614	compound	
+614	limmu2-ba-sze3	quarters	NNS	609	conj	
+615	'.	the	DT	616	det	
+616	lugal	king	NN	614	appos	
+617	kal-ga	mighty	JJ	616	amod	
+618	'.	_	_	0	_	
+619	lugal	king	NN	614	appos	
+620	uri5{ki}-ma	Ur	NN	619	nmod:of	
+621	'.	and	CC	619	cc	
+622	lugal	king	NN	619	conj	
+623	an	four	CD	625	nummod	
+624	ub-da	world	NN	625	compound	
+625	limmu2-ba	quarters	NNS	622	nmod:of	
+626	'.	_	.	627	_	
+627	mu-sar-ra	Inscription	NN	638	_	
+628	giri3-na	on his foot	NN	627	nmod:on	
+629	'.	_	,	630	_	
+630	zi-ri2-in-gu	Ziringu	NN	627	_	
+631	'.	the	DT	632	det	
+632	ensi2	governor	NN	630	appos	
+633	'.	_	_	0	_	
+634	ma-da	land	NN	632	nmod:of	
+635	'.	_	.	627	_	
+636	za-ab-sza-li{ki}	of Zabali	NNP	634	nmod:of	
+637	'.	_	_	0	_	
+638	mu-sar-ra	Inscription	NN	7	parataxis	
+639	'.	_	_	0	_	
+640	za3	on	IN	641	nmod:on	
+641	zi-ri2-in-gu	shoulder Ziringu	NN	638	nmod:on	
+642	'.	the	DT	643	det	
+643	lugal	king	NN	641	_	
+644	szaga	captive	JJ	643	amod	
+645	'.	_	_	0	_	
+646	dub	_	_	0	_	
+647	mu-sar-ra	A tablet inscriptions	NN	643	conj	
+648	'.	_	_	0	_	
+649	3(asz@c)	_	_	0	nummod	
+650	dub	_	_	0	_	
+651	alan	of three tablets statues	NNS	647	nmod:of	
+652	'.	_	_	0	_	
+653	{d}szu-{d}suen	Sz-Sin	NN	651	nmod:of	
+654	'.	_	.	7	_	
+655	u3	and	CC	643	cc	
+656	ki-gal	their two socles	NNS	643	conj	
+657	2(disz)-bi	_	_	0	nummod
+	
+

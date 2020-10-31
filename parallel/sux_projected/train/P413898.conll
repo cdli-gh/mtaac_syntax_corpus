@@ -1,0 +1,31 @@
+# train/P413898.atf
+						
+
+# tr.en: jenny lamb sucking lamb slaughtered on th day from Zubaga Szulgi-irimu received Month gazelle-eating year priest of Nanna of Karzida was installed sheep
+1	1(disz)	_	,	2	nummod	
+2	ud5	jenny	NN	0	root	
+3	1(disz)	_	,	2	nummod	
+4	sila4	lamb	NN	2	appos	
+5	1(disz)	_	,	2	nummod	
+6	sila4	lamb	NN	2	appos	
+7	ga	sucking	NN	6	compound	
+8	ba-usz2	slaughtered on	VBN	2	acl	
+9	u4	th day	NN	8	nmod:on	
+10	1(u)	_	,	2	nummod	
+11	6(disz)-kam	_	_	10	nummod	
+12	ki	from	IN	14	nmod:from	
+13	zu-ba-ga-ta	Zubaga	FW	14	compound	
+14	{d}szul-gi-iri-mu	Szulgi-irimu	FW	2	nmod:from	
+15	szu	_	.	2	_	
+16	ba-ti	received	VBN	14	acl	
+17	iti	Month	NNP	18	_	
+18	masz-da3-gu7	gazelle-eating	JJ	19	amod	
+19	mu	year	NN	2	_	
+20	en	priest	NN	23	nsubjpass	
+21	{d}nanna	Nanna	NNP	20	nmod:of	
+22	kar-zi-da	Karzida	NNP	21	nmod:of	
+23	ba-hun	was installed	VBN	19	acl	
+24	3(disz)	_	.	2	nummod	
+25	udu	sheep	NN	2	_
+	
+

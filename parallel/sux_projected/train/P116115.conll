@@ -1,0 +1,201 @@
+# train/P116115.atf
+						
+
+# tr.en: gur ban barley royal silver in shekel gur royal its silver mana shekels grains from ARAD-mu son of Lugal-pirigbanda are debits therefrom gur EA-bitumen silver in shekel barig EA-bitumen royal gur barig ban sila EA-bitumen at barig ban each its silver shekels less grains barig leeks at sila each its silver shekels barig ban garlic at barig ban each its silver shekels barig ban sila onion ground at barig ban each its silver shekels less grains gur barig ban sila alkali-plant at gur barig ban each its silver shekels grains gur barig ban sila salt at gur each its silver shekels less grains pines lumber from slaughterhouse its silver shekel barig figs fresh at gur barig each its silver shekel grains ban sila dates at gur each its silver grains of silver talent mana bitumen dried at talents each its silver shekel total mana shekels grains of silver booked out deficit grains of silver account of Ur-Szulpae merchant in Ur month Festival-grain-lifted and month GANma of two months its bala Ur-Lamma governor year Simurrum Lullubum for th time were destroyed
+1	3(u)	_	,	4	nummod	
+2	9(asz)	_	_	1	nummod	
+3	3(ban2)	ban	NN	4	nummod	
+4	sze	barley	NN	0	root	
+5	gur	gur	NN	4	compound	
+6	lugal	royal	NN	4	conj	
+7	ku3	silver	NN	4	appos	
+8	1(disz)	_	,	4	nummod	
+9	gin2-a	in shekel	IN	13	nmod:in	
+10	1(asz)	_	_	0	nummod	
+11	sze	_	_	0	_	
+12	gur	gur	NN	13	compound	
+13	lugal	royal	NN	4	nmod:in	
+14	ku3-bi	its silver	NN	4	appos	
+15	1/2(disz)	_	,	18	nummod	
+16	ma-na	mana	NN	18	compound	
+17	9(disz)	_	_	0	nummod	
+18	gin2	shekels	NNS	26	nsubj	
+19	1(u)	_	_	0	nummod	
+20	8(disz)	_	_	19	nummod	
+21	sze	grains	NNS	18	_	
+22	ki	from	IN	23	nmod:from	
+23	ARAD2-mu	ARAD-mu	NN	18	nmod:from	
+24	dumu	son	NN	18	appos	
+25	lugal-pirig-banda3-ta	Lugal-pirigbanda	NN	24	nmod:of	
+26	sag-nig2-gur11-ra-kam	are debits	NNS	4	_	
+27	sza3-bi-ta	therefrom	RB	26	advmod	
+28	3(asz)	_	,	29	nummod	
+29	esir2	EA-bitumen	NN	26	_	
+30	E2-A	_	_	0	_	
+31	gur	gur	NN	29	compound	
+32	ku3	silver	NN	29	appos	
+33	1(disz)	_	,	36	nummod	
+34	gin2-a	in shekel	IN	36	nmod:in	
+35	1(barig)	barig	NN	36	nummod	
+36	esir2	EA-bitumen	NN	29	nmod:in	
+37	E2-A	_	CD	46	nummod	
+38	lugal-ta	royal	NN	36	conj	
+39	1(asz)	_	,	36	nummod	
+40	4(barig)	_	_	39	nummod	
+41	2(ban2)	barig ban	NN	46	nummod	
+42	8(disz)	_	_	0	nummod	
+43	sila3	sila	NN	44	compound	
+44	esir2	EA-bitumen	NN	41	_	
+45	E2-A	_	_	0	_	
+46	gur	gur	NN	36	conj	
+47	1(barig)	at barig	NN	44	nummod	
+48	3(ban2)-ta	ban each	NN	47	nummod	
+49	ku3-bi	its silver	PRP$	50	nmod:poss	
+50	1/3(disz){sza}	its silver	NN	36	nummod	
+51	1(disz)	_	:	53	nummod	
+52	1/3(disz)	_	CD	58	nummod	
+53	gin2	shekels	NNS	29	_	
+54	la2	less	RBR	56	advmod	
+55	4(disz)	_	_	54	nummod	
+56	sze	grains	NNS	53	_	
+57	1(barig)	_	,	58	nummod	
+58	za-ha-din	barig leeks	NNS	53	_	
+59	1(ban2)	each	DT	61	nummod	
+60	5(disz)	_	_	59	nummod	
+61	sila3-ta	at sila	NN	58	nmod:at	
+62	ku3-bi	its silver	NN	58	appos	
+63	4(disz)	_	:	64	nummod	
+64	gin2	shekels	NNS	58	_	
+65	2(barig)	_	,	67	nummod	
+66	3(ban2)	barig ban	NN	65	nummod	
+67	szum2-sikil	garlic at	NN	64	_	
+68	1(barig)	barig	NN	67	nummod	
+69	4(ban2)-ta	ban each	NN	68	nummod	
+70	ku3-bi	its silver	NN	67	appos	
+71	1(disz)	_	:	73	nummod	
+72	1/2(disz)	_	CD	75	nummod	
+73	gin2	shekels	NNS	67	_	
+74	3(barig)	_	,	75	nummod	
+75	4(ban2)	barig ban	NN	73	nummod	
+76	4(disz)	_	_	0	nummod	
+77	sila3	sila	NN	79	compound	
+78	szum2	_	_	0	_	
+79	gaz	onion ground at	NN	75	_	
+80	1(barig)	barig	NN	75	nummod	
+81	4(ban2)-ta	ban each	NN	75	nummod	
+82	ku3-bi	its silver	NN	75	appos	
+83	2(disz)	_	,	84	nummod	
+84	gin2	shekels	NNS	75	_	
+85	igi-4(disz)-gal2	_	CD	96	nummod	
+86	la2	less	RBR	88	advmod	
+87	2(disz)	_	_	86	nummod	
+88	sze	grains	NNS	84	_	
+89	1(u)	_	,	84	nummod	
+90	4(asz)	_	_	89	nummod	
+91	1(barig)	_	_	89	nummod	
+92	1(ban2)	barig ban	NN	96	nummod	
+93	2(disz)	_	_	0	nummod	
+94	sila3	sila	NN	95	compound	
+95	naga	alkali-plant	NN	92	_	
+96	gur	gur gur	NN	84	appos	
+97	1(asz)	ban	NN	99	nummod	
+98	3(barig)	_	_	97	nummod	
+99	3(ban2)	barig	NN	95	nummod	
+100	gur-ta	each at	IN	95	nmod:at	
+101	ku3-bi	its silver	NN	84	appos	
+102	8(disz)	_	,	103	nummod	
+103	gin2	shekels	NNS	84	_	
+104	igi-3(disz)-gal2	_	CD	114	nummod	
+105	2(disz)	_	_	0	nummod	
+106	1/2(disz)	_	_	105	nummod	
+107	sze	grains	NNS	103	_	
+108	1(asz)	_	,	103	nummod	
+109	4(barig)	_	_	108	nummod	
+110	4(ban2)	_	_	108	nummod	
+111	6(disz)	barig ban	NN	114	nummod	
+112	sila3	sila	NN	113	compound	
+113	mun	salt	NN	111	_	
+114	gur	gur	NN	103	appos	
+115	3(asz)	_	_	0	nummod	
+116	gur-ta	at gur each	NN	113	nmod:at	
+117	ku3-bi	its silver	NN	103	appos	
+118	2/3(|NINDA2x(SZE.2(ASZ))|)	_	:	119	nummod	
+119	la2	shekels less	NNS	103	_	
+120	3(disz)	_	CD	123	nummod	
+121	sze	grains	NNS	119	_	
+122	2(u)	_	,	123	nummod	
+123	{gesz}u3-suh5	pines	NNS	119	_	
+124	gesz	_	_	0	_	
+125	e2-szum-ta!	lumber from slaughterhouse	NN	123	appos	
+126	ku3-bi	its silver	NN	123	appos	
+127	igi-3(disz)-gal2	shekel	NN	123	_	
+128	3(barig)	barig	NN	129	nummod	
+129	{gesz}pesz3	figs	NNS	127	_	
+130	duru5	fresh	JJ	129	amod	
+131	1(asz)	_	,	129	nummod	
+132	3(barig)	_	_	131	nummod	
+133	gur-ta	at gur barig each	NN	129	nmod:at	
+134	ku3-bi	its silver	NN	129	appos	
+135	igi-3(disz)-gal2	shekel	NN	138	compound	
+136	7(disz)	_	,	138	nummod	
+137	1/2(disz)	_	CD	140	nummod	
+138	sze	grains	NNS	129	_	
+139	2(ban2)	_	,	138	nummod	
+140	7(disz)	ban	NN	139	nummod	
+141	sila3	sila	NN	142	compound	
+142	zu2-lum	dates	NNS	140	_	
+143	1(asz)	_	_	0	nummod	
+144	gur-ta	at gur each	NN	142	nmod:at	
+145	ku3-bi	its silver	NN	138	appos	
+146	1(u)	_	:	148	nummod	
+147	6(disz)	_	CD	155	nummod	
+148	sze	grains	NNS	138	_	
+149	ku3	silver	NN	148	nmod:of	
+150	1(asz)	_	,	155	nummod	
+151	gu2	talent	NN	155	compound	
+152	4(u)	_	_	0	nummod	
+153	4(disz)	_	_	152	nummod	
+154	ma-na	mana	NN	155	compound	
+155	esir2	bitumen	NN	148	_	
+156	had2	dried	VBD	155	appos	
+157	1(u)	_	_	0	nummod	
+158	gu2-ta	at talents each	NNS	155	nmod:at	
+159	ku3-bi	its silver	NN	155	appos	
+160	igi-6(disz)-gal2	shekel	NN	155	_	
+161	szunigin	total	NN	148	_	
+162	1/2(disz)	_	,	163	nummod	
+163	ma-na	mana	NN	161	_	
+164	9(disz)	_	_	0	nummod	
+165	gin2	shekels	NNS	163	_	
+166	2(u)	_	_	0	nummod	
+167	sze	grains	NNS	165	_	
+168	ku3-babbar	silver	NN	167	nmod:of	
+169	zi-ga	booked out	VBN	163	acl	
+170	la2-ia3	deficit	NN	148	_	
+171	1(u)	_	:	148	nummod	
+172	7(disz)	_	_	171	nummod	
+173	sze	grains	NNS	170	_	
+174	ku3-babbar	silver	NN	173	nmod:of	
+175	nig2-ka9-ak	account	NN	180	nsubj	
+176	ur-{d}szul-pa-e3	Ur-Szulpae	NN	175	nmod:of	
+177	dam-gar3	merchant	NN	180	nsubj	
+178	sza3	in	IN	179	nmod:in	
+179	uri5{ki}-ma	Ur	NN	177	nmod:in	
+180	iti	month	NN	148	_	
+181	ezem-sze-il2-la	Festival-grain-lifted and	JJ	180	_	
+182	iti	month	NN	183	compound	
+183	GAN2-masz	GANma	NN	181	conj	
+184	iti	months	NNS	148	nmod:of	
+185	2(disz)-kam	two	CD	184	nummod	
+186	bala-bi	its bala	NN	148	_	
+187	1(disz)-am3	_	:	186	nummod	
+188	ur-{d}lamma	Ur-Lamma	NNP	186	_	
+189	ensi2	governor	NN	188	appos	
+190	mu	year	NN	195	_	
+191	si-mu-ru-um{ki}	Simurrum	NNP	195	nsubjpass	
+192	lu-lu-bu-um{ki}	Lullubum	NNP	191	appos	
+193	a-ra2	for th time	NN	191	nmod:for	
+194	9(disz)-kam-asz	_	.	4	nummod	
+195	ba-hul	were destroyed	VBN	148	parataxis
+	
+

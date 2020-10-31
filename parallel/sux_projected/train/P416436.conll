@@ -1,0 +1,50 @@
+# train/P416436.atf
+						
+
+# tr.en: oxen barley-fed breeding bull barley-fed cows barley-fed sheep barley-fed of good quality sheep barley-fed long-fleeced sheep sheep lambs beer-pouring of Nunida n lambs Ziqur-il delivery Nasa accepted month Mekigal Festival year after Kima was destroyed th day
+1	5(u)	_	,	3	nummod	
+2	6(disz)	_	CD	7	nummod	
+3	gu4	oxen	NN	0	root	
+4	niga	barley-fed	JJ	3	amod	
+5	1(disz)	_	,	7	nummod	
+6	gu4	_	CD	10	nummod	
+7	gesz-du3	breeding bull	NN	3	appos	
+8	niga	barley-fed	JJ	7	amod	
+9	3(disz)	_	,	7	nummod	
+10	ab2	cows	NNS	7	conj	
+11	niga	barley-fed	JJ	7	conj	
+12	1(u)	_	,	7	nummod	
+13	5(disz)	_	CD	19	nummod	
+14	udu	sheep	NN	7	conj	
+15	niga	barley-fed	JJ	7	amod	
+16	saga	good quality	NN	7	nmod:of	
+17	4(u)	_	,	7	nummod	
+18	5(disz)	_	CD	22	nummod	
+19	udu	sheep	NN	7	conj	
+20	niga	barley-fed	JJ	7	conj	
+21	2(gesz2)	_	,	7	nummod	
+22	udu	sheep	NN	7	conj	
+23	a-lum	long-fleeced	JJ	22	amod	
+24	7(gesz2)	_	,	7	nummod	
+25	udu	sheep	NN	7	conj	
+26	1(gesz2)	_	``	28	nummod	
+27	sila4	lambs	NNS	7	conj	
+28	kasz-de2-a	beer-pouring	NN	7	appos	
+29	nu-ni-da	Nunida	NNP	28	nmod:of	
+30	n	_	:	3	_	
+31	sila4	lambs	NNS	3	_	
+32	zi-qur2-i3-li2	Ziqur-il	NN	31	appos	
+33	mu-kux(DU)	delivery	NN	31	_	
+34	na-sa6	Nasa	NNP	35	nsubj	
+35	i3-dab5	accepted	VBD	33	acl:relcl	
+36	iti	month	NN	35	nmod:tmod	
+37	ezem-me-ki-gal2	Mekigal Festival	NNP	36	_	
+38	mu	year	NN	36	_	
+39	us2-sa	after	IN	38	advmod	
+40	ki-masz{ki}	_	:	33	_	
+41	ba-hul	was destroyed	VBN	33	parataxis	
+42	u4	_	''	41	_	
+43	2(u)	_	.	3	nummod	
+44	5(disz)-kam	_	_	43	nummod
+	
+

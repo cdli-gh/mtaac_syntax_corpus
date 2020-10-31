@@ -1,0 +1,26 @@
+# train/P102338.atf
+						
+
+# tr.en: fat-tailed sheep billy goat full grown nd day from Abbasaga Tahi-atal accepted month kisiki of Ninazu year priest of Nanna of Karzida was installed sheep
+1	1(disz)	_	,	2	nummod	
+2	gukkal	fat-tailed sheep	NN	0	root	
+3	1(disz)	_	,	5	nummod	
+4	masz2-gal	billy goat full grown	NN	2	appos	
+5	u4	nd day	NN	2	appos	
+6	2(u)	_	,	2	nummod	
+7	2(disz)-kam	_	_	6	nummod	
+8	ki	from	IN	11	mark	
+9	ab-ba-sa6-ga-ta	Abbasaga	NNP	11	nsubj	
+10	tah-sza-tal	Tahi-atal	JJ	11	advmod	
+11	i3-dab5	accepted	VBN	2	acl	
+12	iti	month	NN	11	_	
+13	ki-siki-{d}nin-a-zu	kisiki Ninazu	NN	12	_	
+14	mu	year	NN	13	_	
+15	en	priest	NN	18	nsubjpass	
+16	{d}nanna	Nanna	NNP	15	nmod:of	
+17	kar-zi-da	Karzida	NNP	16	nmod:of	
+18	ba-hun	was installed	VBN	13	acl	
+19	2(disz)	_	.	2	nummod	
+20	udu	sheep	NN	11	dobj
+	
+

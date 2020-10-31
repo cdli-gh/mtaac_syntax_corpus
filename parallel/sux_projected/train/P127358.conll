@@ -1,0 +1,61 @@
+# train/P127358.atf
+# tr.en: 
+						
+
+# tr.en: male lamb Ninlil delivery of governor of Szuruppak the zabardab was responsible official oxen cows rams ewes he-goats she-goats u-gid for kitchen th day from Nasa booked out month Festival of An year ari and Kima were destroyed
+1	...	_	,	54	dep	
+2	x	_	_	0	dep	
+3	...	_	_	0	dep	
+4	...	_	_	0	dep	
+5	...-la	_	_	0	_	
+6	...	_	_	0	dep	
+7	...	_	_	0	dep	
+8	x	_	_	0	dep	
+9	...	_	_	0	dep	
+10	x	_	_	0	dep	
+11	...	_	_	0	dep	
+12	x	_	_	0	dep	
+13	x	_	_	0	dep	
+14	x	_	_	0	dep	
+15	...	_	_	0	dep	
+16	x	_	_	0	dep	
+17	1(disz)	_	_	0	nummod	
+18	sila4	male lamb	NN	19	compound	
+19	{d}nin-lil2	Ninlil	NN	54	_	
+20	mu-kux(DU)	delivery	NN	54	appos	
+21	ensi2	governor	NN	20	nmod:of	
+22	szuruppak{ki}	Szuruppak	NNP	21	nmod:of	
+23	zabar-dab5	the zabardab	NN	24	nsubj	
+24	maszkim	was responsible official	NN	54	acl:relcl	
+25	2(disz)	_	,	26	nummod	
+26	gu4	oxen	NNS	53	_	
+27	5(disz)	_	CD	34	nummod	
+28	ab2	cows	NNS	26	conj	
+29	5(u)	_	_	0	nummod	
+30	udu	rams	NNS	26	conj	
+31	1(u)	_	,	26	nummod	
+32	la2	_	_	31	_	
+33	1(disz@t)	_	_	32	nummod	
+34	u8	ewes	NNS	26	conj	
+35	7(disz)	_	_	0	nummod	
+36	masz2	he-goats	NNS	26	conj	
+37	6(disz)	_	_	0	nummod	
+38	ud5	she-goats	NNS	26	conj	
+39	szu-gid2	u-gid	JJ	26	amod	
+40	e2-muhaldim-sze3	for kitchen	NN	39	nmod:for	
+41	u4	th day	NN	53	_	
+42	2(u)	_	:	53	nummod	
+43	6(disz)-kam	_	_	42	nummod	
+44	ki	from	IN	45	nmod:from	
+45	na-sa6-ta	Nasa	NNP	53	nmod:from	
+46	ba-zi	booked out	VBD	45	acl	
+47	iti	month	NN	49	_	
+48	ezem-an-na	Festival	NNP	49	nsubj	
+49	mu	year	NN	53	parataxis	
+50	ha-ar-szi{ki}	_	``	49	_	
+51	ki-masz{ki}	Kima	NNP	52	conj	
+52	ba-hul	were destroyed	VBN	49	parataxis	
+53	 	_	_	0	_	
+54	 	_	_	0	_
+	
+

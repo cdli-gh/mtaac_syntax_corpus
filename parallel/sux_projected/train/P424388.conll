@@ -1,0 +1,28 @@
+# train/P424388.atf
+						
+
+# tr.en: barley-fed sheep at sila each bala sheep their barley gur barig ban via Lugalazida month Flight year Enunugal of Inanna was installed
+1	3(gesz2)	_	,	3	nummod	
+2	5(disz)	_	_	1	nummod	
+3	udu	sheep	NN	0	root	
+4	niga	barley-fed	JJ	3	amod	
+5	1(disz)	_	_	0	nummod	
+6	sila3-ta	at sila each	NN	3	nmod:at	
+7	udu	sheep	NN	3	appos	
+8	bala-a	bala	NN	7	compound	
+9	sze-bi	their barley	NN	3	appos	
+10	1(u)	_	,	14	nummod	
+11	8(asz)	_	_	10	nummod	
+12	2(barig)	_	_	10	nummod	
+13	3(ban2)	barig ban	NN	14	nummod	
+14	gur	gur	NN	3	_	
+15	giri3	via	IN	16	nmod:via	
+16	lugal-a2-zi-da	Lugalazida	NNP	14	nmod:via	
+17	iti	month	NN	18	compound	
+18	dal	Flight	NNP	14	_	
+19	mu	year	NN	18	_	
+20	en-unu6-gal	Enunugal	NNP	22	nsubjpass	
+21	{d}inanna	Inanna	NNP	20	nmod:of	
+22	ba-hun	was installed	VBN	18	acl
+	
+

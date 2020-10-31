@@ -1,0 +1,32 @@
+# train/P407055.atf
+						
+
+# tr.en: sheep instead of sheep grain-fed in Ur via Puzri-Enlil son of Lugal-itida place of copy of sealed document of Abbakala month Akitu year high-priest of Inanna was named
+1	2(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	mu	instead	RB	2	cc	
+4	udu	sheep	NN	2	conj	
+5	niga-sze3	grain-fed	JJ	2	amod	
+6	sza3	in	IN	7	nmod:in	
+7	uri5{ki}-ma	Ur	NNP	2	nmod:in	
+8	giri3	via	IN	9	nmod:via	
+9	puzur4-{d}en-lil2	Puzri-Enlil	NNP	2	nmod:via	
+10	dumu	son	NN	9	appos	
+11	lugal-iti-da	Lugal-itida	NN	10	nmod:of	
+12	ki	_	_	0	_	
+13	in-ta-e3-a-ta	place	NN	14	compound	
+14	gaba-ri	copy	NN	2	_	
+15	kiszib3	sealed document	NN	14	nmod:of	
+16	ab-ba-kal-la	Abbakala	NNP	15	nmod:of	
+17	iti	month	NN	26	compound	
+18	a2-ki-ti	_	``	26	_	
+19	mu	year	NN	26	_	
+20	en	high-priest	NN	22	nsubjpass	
+21	{d}inanna	Inanna	NNP	20	nmod:of	
+22	masz2-e	was named	VBN	19	acl	
+23	i3-pa3	_	.	2	_	
+24	 	_	NN	0	root	
+25	 	_	.	24	_	
+26	 	_	NNP	25	_
+	
+

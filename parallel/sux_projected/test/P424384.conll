@@ -1,0 +1,33 @@
+# test/P424384.atf
+						
+
+# tr.en: ban esza-grain ban flour of house of Enlil from Lugaltur has been booked out Month NENEgar days passed year Szu-Suen king of Ur erected house of Szara of Umma
+1	1(ban2)	ban	NN	27	nummod	
+2	esza	esza-grain	NN	27	compound	
+3	1(ban2)	ban	NN	27	nummod	
+4	dabin	flour	NN	27	compound	
+5	ab-ba	_	NN	0	root	
+6	sze	_	NN	5	appos	
+7	se-ge4	_	_	0	_	
+8	e2	house	NN	27	nmod:of	
+9	{d}en-lil2-ka	of Enlil	NNP	8	nmod:of	
+10	ki	from	IN	11	nmod:from	
+11	lugal-tur-ta	Lugaltur	NNP	27	nmod:from	
+12	ba-zi	has been booked out	VBN	0	root	
+13	iti	Month	NNP	14	compound	
+14	NE-NE-gar	NENEgar	NN	12	dobj	
+15	u4	days	NNS	14	_	
+16	1(u)	_	:	12	nummod	
+17	4(disz)	_	_	16	nummod	
+18	ba-zal	passed	VBN	15	acl	
+19	mu	year	NN	12	parataxis	
+20	{d}szu-{d}suen	Szu-Suen	NNP	26	nsubj	
+21	lugal	king	NN	20	appos	
+22	uri5{ki}-ma-ke4	Ur	NN	21	nmod:of	
+23	e2	house	NN	26	dobj	
+24	{d}szara2	Szara	NN	23	nmod:of	
+25	umma{ki}-ka	Umma	NNP	24	nmod:of	
+26	mu-du3	erected	VBD	19	acl	
+27	 	_	_	0	_
+	
+

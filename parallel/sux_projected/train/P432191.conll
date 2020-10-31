@@ -1,0 +1,21 @@
+# train/P432191.atf
+						
+
+# tr.en: Szulgi the mighty king of Ur and king of world quarters the four builder of Esikil the temple of Tipak in Enunna
+1	szul-gi	Szulgi	NNP	0	root	
+2	da-num2	the mighty	DT	1	_	
+3	_lugal_	king	NN	2	root	
+4	uri5{ki}	Ur	NN	3	nmod:of	
+5	u3	and	CC	4	cc	
+6	_lugal_	king	NN	4	conj	
+7	ki-ib-ra-tim	world quarters	NNS	4	nmod:of	
+8	ar-ba-im	the four	CD	3	_	
+9	_ba-dim2_	builder	NN	8	appos	
+10	_e2	of	IN	11	nmod:of	
+11	sikil_	Esikil	NNP	9	nmod:of	
+12	_e2_	the	DT	13	det	
+13	{d}tiszpak	temple Tipak	NN	8	appos	
+14	in	in	IN	15	nmod:in	
+15	isz-nun{ki}	Enunna	NNP	13	nmod:in
+	
+

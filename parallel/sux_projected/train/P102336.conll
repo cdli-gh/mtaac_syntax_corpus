@@ -1,0 +1,31 @@
+# train/P102336.atf
+						
+
+# tr.en: oxen sheep billy goats full grown th day from Abbasaga Zubaga accepted month Ubi-feast year priest of Nanna of Karzida was installed
+1	2(u)	_	,	3	nummod	
+2	2(disz)	_	CD	7	nummod	
+3	gu4	oxen	NN	0	root	
+4	2(gesz2)	_	,	3	nummod	
+5	4(u)	_	CD	10	nummod	
+6	4(disz)	_	_	5	nummod	
+7	udu	sheep	NN	3	appos	
+8	5(u)	_	,	11	nummod	
+9	5(disz)	_	_	8	nummod	
+10	masz2-gal	billy goats full grown	NNS	3	appos	
+11	u4	th day	NN	3	appos	
+12	2(u)-kam	_	,	3	nummod	
+13	ki	from	IN	15	nmod:from	
+14	ab-ba-sa6-ga-ta	Abbasaga	NNP	15	compound	
+15	zu-ba-ga	Zubaga	NNP	3	nmod:from	
+16	i3-dab5	accepted	VBD	15	acl	
+17	iti	month	NN	18	_	
+18	u5-bi2-gu7	Ubi-feast	JJ	3	_	
+19	mu	year	NN	18	_	
+20	en	priest	NN	24	nsubjpass	
+21	{d}nanna	Nanna	NNP	20	nmod:of	
+22	kar-zi-da	Karzida	NNP	21	nmod:of	
+23	ba-<hun>	was installed	VBD	24	auxpass	
+24	4(gesz2)	was installed	VBN	18	nummod	
+25	1(disz)	_	``	18	nummod
+	
+

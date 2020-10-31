@@ -1,0 +1,42 @@
+# train/P432129.atf
+						
+
+# tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad a swamp planted with seedlings it was indeed a swamp a field of it which was in area from water he brought out for him Levees for it danna and nindan he made for him Next to Ur as a treasure he made it Of that canal Who Is Like Nanna is its name
+1	{d}nanna	For Nanna	NNP	17	nmod:for	
+2	dumu-sag	the first-born son	NN	17	nsubj	
+3	{d}en-lil2-la2	Enlil	NNP	2	nmod:of	
+4	lugal-a-ni	his master	NN	2	appos	
+5	ur-{d}namma	Ur-Namma	NN	4	appos	
+6	nita	the	DT	7	det	
+7	kal-ga	mighty man	NN	4	appos	
+8	lugal	king	NN	4	appos	
+9	uri5{ki}-ma	Ur	NN	8	nmod:of	
+10	lugal	king	NN	8	conj	
+11	ki-en-gi	Sumer	NNP	10	nmod:of	
+12	ki-uri-ke4	and and Akkad	CC	8	cc	
+13	sug	a	DT	14	det	
+14	pesz	swamp planted with seedlings	VB	11	appos	
+15	du3-a	_	_	0	_	
+16	sug	it	PRP	17	nsubj	
+17	he2-me-am3	was indeed a swamp	VB	0	root	
+18	a-sza3-bi	a field it	NN	17	dobj	
+19	szar2-gal	which	WDT	18	nsubj	
+20	GAN2-am3	was in area	VBD	18	cop	
+21	a-ta	from water	NN	18	nmod:from	
+22	ha-mu-na-ta-DU	he brought out for him	VBD	21	acl:relcl	
+23	e-bi	Levees	NNPS	29	ccomp	
+24	4(disz)	_	,	29	nummod	
+25	da-na	for it	PRP	23	nmod:for	
+26	4(gesz2)	_	_	0	nummod	
+27	2(u)	_	_	26	nummod	
+28	nig2-ra2	danna and nindan	NN	23	conj	
+29	he2-na-ak	he made for him	VBD	17	parataxis	
+30	uri5{ki}-e	Next to	JJ	29	advmod	
+31	gil-sa-asz	Ur as a treasure	NN	30	nmod:to	
+32	he2-mi-na	he made it	VBD	29	acl:relcl	
+33	e-ba	Of	IN	35	nmod:of	
+34	a-ba	that	DT	35	det	
+35	{d}nanna-gin7	canal Who Is Like Nanna	NN	17	nmod:of	
+36	mu-bi	is its name	NN	35	_
+	
+

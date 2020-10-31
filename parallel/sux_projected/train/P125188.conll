@@ -1,0 +1,29 @@
+# train/P125188.atf
+						
+
+# tr.en: Deficit shekels workdays female laborers from Dadaga to Ur-Urbartab will be repaid year ari and Kima were destroyed Ur-Urbartab scribe son of Dingira
+1	la2-ia3	Deficit	NN	0	root	
+2	3(gesz2)	_	,	23	nummod	
+3	1(disz)	_	_	2	nummod	
+4	2/3(disz)	_	_	2	nummod	
+5	8(disz)	_	_	2	nummod	
+6	gin2	shekels	NNS	8	compound	
+7	geme2	female laborers	NNS	23	appos	
+8	u4	workdays	NNS	23	appos	
+9	1(disz)-sze3	_	_	0	nummod	
+10	ki	from	IN	11	nmod:from	
+11	da-da-ga-ta	Dadaga	NNP	23	nmod:from	
+12	ur-{d}ur3-bar-tab	to Ur-Urbartab	NNP	11	nmod:to	
+13	su-su-dam	will be repaid	VBN	1	acl	
+14	mu	year	NN	13	_	
+15	ha-ar-szi{ki}	_	``	14	_	
+16	ki-masz{ki}	Kima	NNP	17	conj	
+17	ba-hul	were destroyed	VBN	14	acl	
+18	ur-{d}ur3-bar-tab	Ur-Urbartab	NNP	1	_	
+19	dub-sar	scribe	NN	18	appos	
+20	dumu	son	NN	18	appos	
+21	dingir-ra	Dingira	NNP	20	nmod:of	
+22	 	_	NN	0	root	
+23	 	_	NN	22	appos
+	
+

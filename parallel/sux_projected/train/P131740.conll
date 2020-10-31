@@ -1,0 +1,316 @@
+# train/P131740.atf
+						
+
+# tr.en: female laborers from month Harvest to month Dumuzi their labor days are debit therefrom labor freed days gur barig ban sila barley flour its labor days gur barig ban sila rough flour its labor days gur barig ban sila spelt its labor days gur barig ban fine string flour its labor days female laborer days leveled sheaves piled up at thes field GANma under seal of Abbagina female laborer days leveled sheaves piled up at field Muru under seal of Akalla son of Lugal-emae female laborer days at weir of waterway Dudu stationed female laborer days at field Abu-dudu female laborer days at field Nin-nudu female laborer days at field Szulpae female laborer days at field Mound-of-Ninursag female laborer days at field Booted-oxen female laborer days at field Nagabtum under seal of Ukkene female laborer days at field GANma under seal of Daaga sheaves piled up leveled female laborer days to GANma walked female laborer days from GANma to Guedina walked female laborer days from Guednina to Nagabtum walked female laborer days from threshing floor Nin-nudu to Village-Abu barley and pea-flour carried female laborer days at threshing floor of Nin-ura m-grain moved female laborers for days at threshing floor of Nin-nudu m-grain moved female laborers for days barley of Booted-oxen and barley of new field to silo of Apisal moved female laborer days stationed at weir of New Canal sheaves piled up leveled and at water stationed under seal of Ur-ee female laborers for days their labor from Apilsal to Nippur walked and returned female laborer days surplus of account of year after Kima was destroyed total female laborer days booked out deficit female laborer days account of labor of female laborers millers of Lugal-inim-gina year ari urti Kima were destroyed
+1	3(u)	_	,	3	nummod	
+2	6(disz)	_	_	1	nummod	
+3	geme2	female laborers	NNS	0	root	
+4	iti	month	NN	5	compound	
+5	sze-sag11-ku5-ta	from Harvest	NNP	3	nmod:from	
+6	iti	month	NN	3	nmod:to	
+7	{d}dumu-zi-sze3	to Dumuzi	TO	6	nmod:to	
+8	a2-bi	their labor	NN	13	_	
+9	u4	days	NNS	13	_	
+10	3(szar2)	_	,	13	nummod	
+11	3(gesz'u)	_	_	10	nummod	
+12	6(gesz2)	_	_	10	nummod	
+13	sag-nig2-gur11-ra-kam	are debit	NN	3	_	
+14	sza3-bi-ta	therefrom	RB	18	advmod	
+15	3(gesz'u)	_	:	13	nummod	
+16	6(gesz2)	_	CD	27	nummod	
+17	a2!(DA)	labor freed	NN	18	conj	
+18	u4-du8-a	days	NNS	13	conj	
+19	4(gesz2)	_	,	27	nummod	
+20	2(asz)	_	_	19	nummod	
+21	2(barig)	_	_	19	nummod	
+22	5(ban2)	_	_	19	nummod	
+23	7(disz)	_	_	19	nummod	
+24	1/2(disz)	barig ban	NN	27	nummod	
+25	sila3	sila	NN	26	compound	
+26	dabin	barley flour	NN	24	_	
+27	gur	gur	NN	13	_	
+28	a2-bi	its labor	NN	27	appos	
+29	u4	days	NNS	27	_	
+30	2(szar2)	_	:	29	nummod	
+31	1(gesz2)	_	CD	43	nummod	
+32	1(u)	_	_	31	nummod	
+33	7(disz)	_	_	31	nummod	
+34	5/6(disz)	_	_	31	nummod	
+35	1(u)	_	,	43	nummod	
+36	1(asz)	_	_	35	nummod	
+37	3(barig)	_	_	35	nummod	
+38	2(ban2)	_	_	35	nummod	
+39	8(disz)	barig ban	NN	43	nummod	
+40	sila3	sila	NN	41	compound	
+41	zi3	flour	NN	39	_	
+42	sig15	rough	JJ	41	amod	
+43	gur	gur	NN	29	_	
+44	a2-bi	its labor	NN	43	appos	
+45	u4	days	NNS	43	_	
+46	5(gesz2)	_	:	45	nummod	
+47	5(u)	_	CD	56	nummod	
+48	5/6(disz)	_	_	47	nummod	
+49	9(asz)	_	,	56	nummod	
+50	3(barig)	_	_	49	nummod	
+51	2(ban2)	_	_	49	nummod	
+52	5(disz)	_	_	49	nummod	
+53	1/2(disz)	barig ban	NN	56	nummod	
+54	sila3	sila	NN	55	compound	
+55	esza	spelt	NN	53	_	
+56	gur	gur	NN	45	_	
+57	a2-bi	its labor	NN	56	appos	
+58	u4	days	NNS	82	nsubj	
+59	2(gesz2)	_	CD	68	nummod	
+60	2(u)	_	_	59	nummod	
+61	5(disz)	_	_	59	nummod	
+62	1/2(disz)	_	_	59	nummod	
+63	1(asz)	_	,	58	nummod	
+64	4(barig)	_	_	63	nummod	
+65	1(ban2)	barig ban	NN	66	nummod	
+66	zi3-gu	string flour	NN	68	_	
+67	saga	fine	NN	66	compound	
+68	gur	gur	NN	58	_	
+69	a2-bi	its labor	NN	58	appos	
+70	u4	days	NNS	58	_	
+71	1(gesz2)	_	CD	77	nummod	
+72	8(disz)	_	_	71	nummod	
+73	5/6(disz)	_	_	71	nummod	
+74	2(gesz2)	_	,	58	nummod	
+75	4(disz)	_	_	74	nummod	
+76	geme2	female laborer	JJ	77	amod	
+77	u4	days	NNS	70	nmod:npmod	
+78	1(disz)-sze3	_	_	0	nummod	
+79	szu	_	:	45	_	
+80	ur3-ra	leveled	VBD	58	appos	
+81	zar3	sheaves	VBZ	82	aux	
+82	tab-ba	piled up	VBN	56	acl	
+83	a-sza3	field	NN	84	compound	
+84	GAN2-mah	at thes GANma	NN	82	nmod:at	
+85	kiszib3	under seal	NN	45	nmod:under	
+86	ab-ba-gi-na	Abbagina	NNP	85	nmod:of	
+87	3(gesz2)	_	IN	86	nummod	
+88	1(u)	_	,	96	nummod	
+89	3(disz)	_	_	88	nummod	
+90	geme2	female laborer	JJ	91	amod	
+91	u4	days	NNS	96	nmod:tmod	
+92	1(disz)-sze3	_	_	0	nummod	
+93	szu	_	_	0	_	
+94	ur3-ra	leveled	VBD	96	advcl	
+95	zar3	sheaves	VBZ	96	auxpass	
+96	tab-ba	piled up	VBN	45	acl	
+97	a-sza3	field	NN	96	nmod:at	
+98	muru13	at Muru	IN	97	nmod:at	
+99	kiszib3	under seal	NN	96	nmod:under	
+100	a-kal-la	Akalla	NNP	101	compound	
+101	dumu	son	NN	99	nmod:of	
+102	lugal-e2-mah-e	Lugal-emae	NN	101	nmod:of	
+103	1(gesz2)	_	IN	101	nummod	
+104	4(u)	_	,	108	nummod	
+105	la2	_	_	0	_	
+106	1(disz)	_	_	105	nummod	
+107	geme2	female laborer	JJ	108	amod	
+108	u4	days	NNS	96	conj	
+109	1(disz)-sze3	_	_	0	nummod	
+110	kun-zi-da	at weir	NN	108	nmod:at	
+111	i7	waterway	NN	112	compound	
+112	du-du	Dudu	NNP	110	nmod:of	
+113	gub-ba	stationed	VBN	112	acl	
+114	3(u)	_	,	117	nummod	
+115	1(disz)	_	_	114	nummod	
+116	geme2	female laborer	JJ	117	amod	
+117	u4	days	NNS	96	conj	
+118	1(disz)-sze3	_	_	0	nummod	
+119	a-sza3	field	NN	120	compound	
+120	a-bu3-du-du	at Abu-dudu	NN	117	nmod:at	
+121	3(u)	_	,	124	nummod	
+122	1(disz)	_	_	121	nummod	
+123	geme2	female laborer	JJ	124	amod	
+124	u4	days	NNS	96	conj	
+125	1(disz)-sze3	_	_	0	nummod	
+126	a-sza3	field	NN	128	compound	
+127	nin10-nu-du3	at Nin-nudu	IN	128	nmod:at	
+128	2(gesz2)	at Nin-nudu	NN	124	nummod	
+129	1(u)	_	,	132	nummod	
+130	2(disz)	_	_	129	nummod	
+131	geme2	female laborer	JJ	132	amod	
+132	u4	days	NNS	96	conj	
+133	1(disz)-sze3	_	_	0	nummod	
+134	a-sza3	field	NN	135	compound	
+135	{d}szul-pa-e3	at Szulpae	NN	132	nmod:at	
+136	2(gesz2)	_	,	139	nummod	
+137	8(disz)	_	_	136	nummod	
+138	geme2	female laborer	JJ	139	amod	
+139	u4	days	NNS	96	conj	
+140	1(disz)-sze3	_	_	0	nummod	
+141	a-sza3	field	NN	139	nmod:at	
+142	du6-{d}nin-hur-sag	at Mound-of-Ninursag	IN	141	nmod:at	
+143	1(gesz2)	_	,	145	nummod	
+144	4(u)	_	_	143	nummod	
+145	u4	female laborer days	NNS	96	conj	
+146	1(disz)-sze3	_	_	0	nummod	
+147	a-sza3	field	NN	148	compound	
+148	gu4-suhub2	at Booted-oxen	NN	145	nmod:at	
+149	1(gesz2)	_	,	154	nummod	
+150	5(u)	_	_	149	nummod	
+151	la2	_	_	149	_	
+152	1(disz)	_	_	151	nummod	
+153	geme2	female laborer	JJ	154	amod	
+154	u4	days	NNS	96	_	
+155	1(disz)-sze3	_	_	0	nummod	
+156	a-sza3	field	NN	157	compound	
+157	na-ga-ab-tum	at Nagabtum	NN	154	nmod:at	
+158	giri3	_	:	154	_	
+159	ukken-ne2	under seal Ukkene	IN	160	nmod:under	
+160	4(gesz2)	under seal Ukkene	NN	154	nummod	
+161	5(u)	_	,	164	nummod	
+162	4(disz)	_	_	161	nummod	
+163	geme2	female laborer	JJ	164	amod	
+164	u4	days	NNS	154	_	
+165	1(disz)-sze3	_	_	0	nummod	
+166	a-sza3	field	NN	167	compound	
+167	GAN2-mah	at GANma	NN	164	nmod:at	
+168	giri3	_	:	154	_	
+169	da-a-ga	under seal Daaga	NN	154	nmod:under	
+170	zar3	sheaves	NNS	171	nsubj	
+171	tab-ba	piled up	VBD	154	acl	
+172	szu	_	:	171	_	
+173	ur3-ra	leveled	VBN	171	conj	
+174	3(u)	_	,	177	nummod	
+175	3(disz)	_	_	174	nummod	
+176	geme2	female laborer	JJ	177	amod	
+177	u4	days	NNS	180	nsubj	
+178	1(disz)-sze3	_	_	0	nummod	
+179	GAN2-mah-sze3	GANma	NN	177	nmod:to	
+180	gen-na	to walked	VBD	171	parataxis	
+181	3(u)	_	,	184	nummod	
+182	3(disz)	_	_	181	nummod	
+183	geme2	female laborer	JJ	184	amod	
+184	u4	days	NNS	189	nsubj	
+185	1(disz)-sze3	_	_	0	nummod	
+186	GAN2	_	_	0	_	
+187	mah-ta	from GANma	NN	184	nmod:from	
+188	gu2-edin-na-sze3	to Guedina	NNP	187	nmod:to	
+189	gen-na	walked	VBD	171	parataxis	
+190	3(u)	_	,	189	nummod	
+191	la2	_	_	190	_	
+192	2(disz)	_	_	191	nummod	
+193	geme2	female laborer	JJ	194	amod	
+194	u4	days	NNS	189	nmod:tmod	
+195	1(disz)-sze3	_	_	0	nummod	
+196	gu2-edin-na-ta	from Guednina	NNP	189	nmod:from	
+197	na-ga-ab-tum-sze3	to Nagabtum	NNP	196	nmod:to	
+198	gen-na	walked	VBD	196	acl	
+199	1(u)	_	,	201	nummod	
+200	geme2	female laborer	JJ	201	amod	
+201	u4	days	NNS	171	conj	
+202	1(disz)-sze3	_	_	0	nummod	
+203	ki-su7	from threshing	IN	204	nmod:from	
+204	nin10-nu-du3-ta	floor Nin-nudu	NN	201	nmod:from	
+205	e2-duru5-a-bu3-sze3	to Village-Abu	TO	206	nmod:to	
+206	sze	barley	NN	204	nmod:to	
+207	zi3-gu	pea-flour	NN	204	conj	
+208	im-ga6	and carried	CC	204	cc	
+209	2(u)	_	,	211	nummod	
+210	geme2	female laborer	JJ	211	amod	
+211	u4	days	NNS	217	nsubj	
+212	1(disz)-sze3	_	_	0	nummod	
+213	ki-su7	at threshing	IN	215	nmod:at	
+214	a-sza3	_	:	171	_	
+215	{d}nin-ur4-ra-ta	floor Nin-ura	NN	211	nmod:at	
+216	mu-sza	m-grain	NN	215	nmod:of	
+217	im-zi	moved	VBD	171	parataxis	
+218	2(u)	_	,	219	nummod	
+219	geme2	female laborers	NNS	225	nsubj	
+220	u4	for days	NNS	219	nmod:for	
+221	3(disz)-sze3	_	_	0	nummod	
+222	ki-su7	at threshing floor	NN	219	nmod:at	
+223	nin10-nu-du3	Nin-nudu	NN	224	compound	
+224	mu-sza	m-grain	NN	222	nmod:of	
+225	im-zi	moved	VBD	171	parataxis	
+226	3(u)	_	,	227	nummod	
+227	geme2	female laborers	NNS	171	_	
+228	u4	for days	NNS	227	nmod:for	
+229	8(disz)-sze3	_	_	0	nummod	
+230	sze	barley	NN	227	appos	
+231	gu4-suhub2	Booted-oxen	NN	230	nmod:of	
+232	u3	and	CC	230	cc	
+233	sze	barley	NN	230	conj	
+234	a-sza3	field	NN	233	nmod:of	
+235	gibil	new	JJ	234	amod	
+236	guru7	silo	NN	233	nmod:to	
+237	a-pi4-sal4{ki}-sze3	to Apisal	TO	236	nmod:to	
+238	im-zi	moved	VBN	236	nmod:of	
+239	2(u)	_	,	242	nummod	
+240	4(disz)	_	_	239	nummod	
+241	geme2	female laborer	JJ	242	amod	
+242	u4	days	NNS	227	conj	
+243	1(disz)-sze3	_	_	0	nummod	
+244	kun-zi-da	at weir	NN	247	nmod:at	
+245	i7	_	:	227	_	
+246	gibil	New Canal	NNP	244	nmod:of	
+247	gub-ba	stationed	VBN	242	acl	
+248	zar3	sheaves	NNS	249	nsubj	
+249	tab-ba	piled up	VBD	227	parataxis	
+250	szu	_	,	249	_	
+251	ur3-ra	leveled	VBD	249	conj	
+252	u3	and	CC	249	cc	
+253	a-da	at water	NN	249	conj	
+254	gub-ba	stationed	VBN	253	acl	
+255	kiszib3	under seal	NN	249	conj	
+256	ur-e11-e	Ur-ee	NN	255	nmod:of	
+257	3(u)	_	,	259	nummod	
+258	2(disz)	_	_	257	nummod	
+259	geme2	female laborers	NNS	249	_	
+260	u4	for days	NNS	259	nmod:for	
+261	1(u)-sze3	_	_	0	nummod	
+262	a2-bi	their labor	NN	259	appos	
+263	u4	_	:	259	_	
+264	5(gesz2)	_	CD	268	nummod	
+265	2(u)	_	_	264	nummod	
+266	a-pi4-sal4{ki}-ta	from Apilsal	JJ	264	nmod:from	
+267	nibru{ki}-sze3	to Nippur	NNP	266	nmod:to	
+268	gen-na	walked	VBD	259	acl	
+269	gur-ra	and returned	CC	268	cc	
+270	5(gesz2)	and returned	VBD	268	nummod	
+271	5(u)	_	,	275	nummod	
+272	3(disz)	_	_	271	nummod	
+273	1/2(disz)	_	_	271	nummod	
+274	geme2	female laborer	JJ	275	amod	
+275	u4	days	NNS	268	conj	
+276	1(disz)-sze3	_	_	0	nummod	
+277	diri	surplus	NN	275	appos	
+278	nig2-ka9-ak	account	NN	277	nmod:of	
+279	mu	year	NN	278	nmod:of	
+280	us2-sa	after	IN	279	advmod	
+281	ki-masz{ki}	_	:	275	_	
+282	ba-hul	was destroyed	VBN	275	acl	
+283	szunigin	total	NN	268	_	
+284	3(szar2)	_	_	0	nummod	
+285	2(gesz'u)	_	_	284	nummod	
+286	6(gesz2)	_	_	284	nummod	
+287	5(disz)	_	_	284	nummod	
+288	1/3(disz)	_	_	284	nummod	
+289	geme2	female laborer	JJ	290	amod	
+290	u4	days	NNS	283	_	
+291	1(disz)-sze3	_	_	0	nummod	
+292	zi-ga-am3	booked out	VBN	290	acl	
+293	la2-ia3	deficit	NN	268	_	
+294	9(gesz2)	_	:	268	nummod	
+295	5(u)	_	_	294	nummod	
+296	4(disz)	_	_	294	nummod	
+297	2/3(disz)	_	_	294	nummod	
+298	geme2	female laborer	JJ	299	amod	
+299	u4	days	NNS	293	_	
+300	1(disz)-sze3	_	_	0	nummod	
+301	nig2-ka9-ak	account	NN	268	_	
+302	a2	labor	NN	301	nmod:of	
+303	geme2	female laborers	NNS	302	nmod:of	
+304	kikken2-na	millers	NNS	303	appos	
+305	lugal-inim-gi-na	Lugal-inim-gina	NN	303	nmod:of	
+306	mu	year	NN	268	_	
+307	ha-ar-szi{ki}	_	``	306	_	
+308	hu-ur5-ti{ki}	urti	NNP	309	compound	
+309	ki-masz{ki}	Kima	NNP	310	nsubjpass	
+310	ba-hul	were destroyed	VBN	306	acl
+	
+

@@ -1,0 +1,24 @@
+# train/P106228.atf
+						
+
+# tr.en: Basket-of-tablets credits sealed documents of Naram-il with Abbasaga from month Gazelle-Feast to month Harvest months year Amar-Suen king Urbilum destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	zi-ga	credits	NNS	1	_	
+3	kiszib3	sealed documents	NNS	2	appos	
+4	na-ra-am-i3-li2	Naram-il	NN	3	nmod:of	
+5	ki	with	IN	6	nmod:with	
+6	ab-ba-sa6-ga	Abbasaga	NNP	2	nmod:with	
+7	iti	month	NN	2	nmod:from	
+8	masz-da3-gu7-ta	from Gazelle-Feast	IN	7	nmod:from	
+9	iti	month	NN	2	nmod:to	
+10	sze-sag11-ku5-sze3	to Harvest	TO	9	nmod:to	
+11	iti	months	NNS	2	_	
+12	1(u)	_	,	2	nummod	
+13	2(disz)-kam	_	_	12	nummod	
+14	mu	year	NN	2	appos	
+15	{d}amar-{d}suen	Amar-Suen	NNP	2	_	
+16	lugal-e	king	NN	15	appos	
+17	ur-bi2-lum{ki}	Urbilum	NN	18	nsubj	
+18	ba-hul	destroyed	VBD	15	acl:relcl
+	
+

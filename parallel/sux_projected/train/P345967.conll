@@ -1,0 +1,30 @@
+# train/P345967.atf
+						
+
+# tr.en: suckling lamb suckling female lamb suckling kid new-borns it is on th day Szulgi-ayamu took Month uea Year King Amar-Suen destroyed Urbilum
+1	1(disz)	_	,	2	nummod	
+2	sila4	lamb	NN	21	nsubj	
+3	ga	suckling	NN	2	compound	
+4	1(disz)	_	,	2	nummod	
+5	kir11	female lamb	NN	2	conj	
+6	ga	suckling	NN	5	compound	
+7	1(disz)	_	,	2	nummod	
+8	masz2	kid	NN	2	conj	
+9	ga	suckling	NN	8	compound	
+10	u3-tu-da	new-borns	NNS	2	appos	
+11	u4	it is on th day	NN	16	ccomp	
+12	3(u)	_	,	16	nummod	
+13	la2	_	_	12	_	
+14	1(disz@t)-kam	_	_	13	nummod	
+15	{d}szul-gi-a-a-mu	Szulgi-ayamu	NN	16	nsubj	
+16	i3-dab5	took	VBD	2	parataxis	
+17	iti	Month	NNP	16	_	
+18	szu-esz-sza	_	``	17	_	
+19	mu	Year	NN	2	_	
+20	{d}amar-{d}suen	King Amar-Suen	NNP	23	nsubj	
+21	lugal-e	_	LS	0	root	
+22	ur-bi-lum{ki}	Urbilum	NNP	23	dobj	
+23	mu-hul	destroyed	VBD	2	acl	
+24	3(disz)	_	NN	0	nummod
+	
+

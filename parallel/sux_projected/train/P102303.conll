@@ -1,0 +1,44 @@
+# train/P102303.atf
+						
+
+# tr.en: bur field area fields of Ugurtur-sagdu bur field area field of Long-side bur field area field of property work done bur field area field of Agar-sagdu bur field area one field of Du-Szara bur field area field of Weir-field of Lu-Szara property flood irrigation with oxen at bur field area seized
+1	6(bur3)	bur	NN	2	nummod	
+2	GAN2	area	NN	0	root	
+3	a-sza3	field	NN	2	compound	
+4	ugur2-tur-sag-du3	fields Ugurtur-sagdu	NNS	2	_	
+5	4(bur3)	_	:	4	nummod	
+6	GAN2	bur	NN	8	compound	
+7	a-sza3	field	NN	8	compound	
+8	usz-gid2-da	area field Long-side	NN	4	_	
+9	5(bur3)	_	NN	11	nummod	
+10	GAN2	area	NN	4	_	
+11	a-sza3	field	NN	4	_	
+12	GAN2-x	bur field	NN	10	compound	
+13	nig2-gal2-la	property	NN	16	_	
+14	kin	work	NN	16	nsubj	
+15	x	_	:	16	dep	
+16	ak	done	VBN	11	parataxis	
+17	8(bur3)	_	:	18	nummod	
+18	GAN2	bur field area	NN	16	_	
+19	a-sza3	field	NN	18	_	
+20	a-gar-sag-du3	Agar-sagdu	NN	19	nmod:of	
+21	...	_	_	0	dep	
+22	2(bur3)	_	_	0	nummod	
+23	GAN2	_	_	0	_	
+24	DISZ	bur field area one	NN	18	_	
+25	a-sza3	field	NN	24	_	
+26	du6-{d}szara2	Du-Szara	NNP	25	nmod:of	
+27	5(bur3)	_	:	30	nummod	
+28	GAN2	bur	NN	30	compound	
+29	a-sza3	field	NN	30	compound	
+30	a-egir-GAN2	area field Weir-field	NN	18	_	
+31	lu2-{d}szara2	Lu-Szara	NNP	30	nmod:of	
+32	nig2-gal2-la	property	NN	38	_	
+33	a-de2	flood irrigation with	NN	38	nsubj	
+34	gu4-e	oxen	NN	33	nmod:with	
+35	6(bur3)	_	.	2	nummod	
+36	GAN2-ta	at	IN	37	nmod:at	
+37	ib2-dab5	seized bur field area	NN	33	nmod:at	
+38	ib2-dab5	seized bur field area	VBD	30	parataxis
+	
+

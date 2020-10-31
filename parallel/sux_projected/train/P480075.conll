@@ -1,0 +1,43 @@
+# train/P480075.atf
+						
+
+# tr.en: ban sila porridge of malt mana fine quality beer bread barig ban sila barley sweet-wort for consumption from Szarakam under seal of governor month Dumuzi year Simanum was destroyed Sz-Suen strong king king of Ur king of four regions Ayakalla the governor of Umma is your servant
+1	5(ban2)	_	,	4	nummod	
+2	4(disz)	ban	NN	1	nummod	
+3	sila3	sila	NN	4	compound	
+4	ba-ba	porridge	NN	0	root	
+5	munu4	malt	NN	4	nmod:of	
+6	2(u)	_	,	4	nummod	
+7	6(disz)	_	CD	13	nummod	
+8	ma-na	mana	NN	9	compound	
+9	bappir2	beer bread	NN	4	conj	
+10	saga	fine quality	JJ	9	amod	
+11	1(barig)	fine quality	NN	9	nummod	
+12	3(ban2)	barig ban	NN	13	nummod	
+13	sze	barley	NN	4	conj	
+14	dida	_	,	4	_	
+15	gu7-sze3	sweet-wort for consumption	NN	4	appos	
+16	ki	from	IN	17	nmod:from	
+17	{d}szara2-kam-ta	Szarakam	NNP	4	nmod:from	
+18	kiszib3	under seal	NN	4	nmod:under	
+19	ensi2-ka	governor	NN	18	nmod:of	
+20	iti	month	NN	21	compound	
+21	{d}dumu-zi	Dumuzi	NNP	4	_	
+22	mu	year	NN	21	_	
+23	si-ma-num2{ki}	Simanum	NNP	24	nsubjpass	
+24	ba-hul	was destroyed	VBN	21	acl	
+25	{d}szu-{d}suen	Sz-Suen	NNP	26	compound	
+26	lugal	king	NN	21	_	
+27	kal-ga	strong	JJ	26	amod	
+28	lugal	king	NN	26	appos	
+29	uri5{ki}-ma	Ur	NN	28	nmod:of	
+30	lugal	king	NN	26	appos	
+31	an	four	CD	33	nummod	
+32	ub-da	_	:	21	_	
+33	limmu2-ba	regions	NNS	30	nmod:of	
+34	a-a-kal-la	Ayakalla	NNP	37	nsubj	
+35	ensi2	the governor	NN	34	appos	
+36	umma{ki}	of Umma	NNP	35	nmod:of	
+37	ARAD2-zu	is your servant	NN	21	parataxis
+	
+

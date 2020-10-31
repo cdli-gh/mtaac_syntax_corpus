@@ -1,0 +1,59 @@
+# test/P102523.atf
+						
+
+# tr.en: Lu-duga Lugal-kugani Lu-girizal Bibia Szepada Ikalla Lugal-gigire X-dar sons of Ur-Itaran Lugal-itida house of Szara Lugal-unirre Lu-Suen Manzizi hosue of Ninura Szekalla Lugal-hegal Great-house Dingiram sons of Ur-gigir hosue of Szulgi Lu-Szara Gigiga hosue of Amar-Suen x-x-nun Ur- house of Szu-Suen Nabasa waystation of tower Adudu waystation of Umma Together fisheries workers fisheries workers for regular offerings of gods
+1	lu2-du10-ga	Lu-duga	NN	50	_	
+2	lugal-ku3-ga-ni	Lugal-kugani	JJ	1	_	
+3	lu2-giri17-zal	Lu-girizal	JJ	2	conj	
+4	2(disz)	_	,	2	nummod	
+5	bi2-bi2-a	Bibia	NNP	2	conj	
+6	szesz-pa3-da	Szepada	NNP	2	conj	
+7	i3-kal-la	Ikalla	NNP	2	conj	
+8	2(disz)	_	,	2	nummod	
+9	lugal-{gesz}gigir-re	Lugal-gigire	NN	2	conj	
+10	x-dar	X-dar	NN	2	conj	
+11	2(disz)	_	,	13	nummod	
+12	dumu	_	_	0	_	
+13	ur-{d}isztaran	sons Ur-Itaran	NNS	2	conj	
+14	lugal-iti-da	Lugal-itida	NN	13	conj	
+15	1(u)	_	_	0	nummod	
+16	3(disz)	_	_	15	nummod	
+17	e2	house	NN	13	conj	
+18	{d}szara2	Szara	NN	17	nmod:of	
+19	lugal-szu-nir-re	Lugal-unirre	NN	1	_	
+20	lu2-{d}suen	Lu-Suen	NNP	19	conj	
+21	ma-an-zi-zi	Manzizi	NNP	19	conj	
+22	e2	_	.	23	_	
+23	{d}nin-ur4-ra	hosue Ninura	NN	19	appos	
+24	szesz-kal-la	Szekalla	NNP	23	_	
+25	lugal-he2-gal2	Lugal-hegal	JJ	24	_	
+26	e2-mah	Great-house	NN	27	compound	
+27	dingir-ra-am3	Dingiram	NNP	24	appos	
+28	2(disz)	_	,	27	nummod	
+29	dumu	_	_	0	_	
+30	ur-{gesz}gigir	sons Ur-gigir	NNS	27	appos	
+31	e2	_	.	32	_	
+32	{d}szul-gi-ra	hosue Szulgi	NN	27	appos	
+33	lu2-{d}szara2	Lu-Szara	NNP	32	_	
+34	gi-gi-ga	Gigiga	NNP	33	appos	
+35	e2	hosue	NN	33	appos	
+36	{d}amar-{d}suen	Amar-Suen	NNP	35	nmod:of	
+37	x-x-x-nun	x-x-nun	NN	36	_	
+38	ur-...	_	,	37	_	
+39	e2	house	NN	37	appos	
+40	{d}szu-{d}suen	Szu-Suen	NNP	39	nmod:of	
+41	na-ba-sa6	Nabasa	NNP	40	_	
+42	e2-kas4	waystation	NN	41	appos	
+43	an-za-gar3	tower	NN	42	nmod:of	
+44	a-du-du	Adudu	NN	43	appos	
+45	e2-kas4	waystation	NN	43	appos	
+46	umma{ki}	Umma	NNP	45	nmod:of	
+47	szunigin	Together	RB	50	_	
+48	2(u)	_	,	50	nummod	
+49	7(disz)	_	_	48	nummod	
+50	szu-ku6	fisheries workers	NNS	0	root	
+51	szu-ku6	fisheries workers	NNS	50	appos	
+52	sa2-du11	regular offerings	NNS	51	nmod:for	
+53	dingir-re-ne-sze3	for gods	IN	52	nmod:for
+	
+

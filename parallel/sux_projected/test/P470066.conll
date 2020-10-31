@@ -1,0 +1,22 @@
+# test/P470066.atf
+						
+
+# tr.en: niglam garment fine quality k-vessel of Szulgi-ayamu month Lisi year after Szu-Suen is king
+1	1(disz)	_	,	3	nummod	
+2	tug2	_	_	0	_	
+3	nig2-lam2	niglam garment	NN	0	root	
+4	saga	fine quality	NN	3	appos	
+5	dug	_	_	0	_	
+6	kur-ku-du3	k-vessel	NN	3	appos	
+7	{d}szul-gi-a-a-mu	of Szulgi-ayamu	NN	6	nmod:of	
+8	iti	month	NN	16	compound	
+9	{d}li9-si4	_	``	16	_	
+10	mu	year	NN	16	advmod	
+11	us2-sa	after	IN	10	nmod:after	
+12	{d}szu-{d}suen	Szu-Suen is	NNP	13	nsubj	
+13	lugal	king	NN	16	_	
+14	 	_	NN	0	root	
+15	 	_	NN	14	appos	
+16	 	_	NNP	15	_
+	
+

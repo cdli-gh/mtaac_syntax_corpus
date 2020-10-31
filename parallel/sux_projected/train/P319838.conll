@@ -1,0 +1,18 @@
+# train/P319838.atf
+						
+
+# tr.en: Basket-of-tablets inspections of dumu-daba in Girsu are here year was destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	gurum2-ak	inspections	NNS	7	nsubj	
+3	dumu	_	_	0	_	
+4	dab5-ba	dumu-daba	NN	2	nmod:of	
+5	sza3	in	IN	6	nmod:in	
+6	gir2-su{ki}	Girsu	NNP	4	nmod:in	
+7	i3-gal2	are here	RB	1	_	
+8	mu	year	NN	12	_	
+9	x	_	.	1	dep	
+10	x	_	''	1	dep	
+11	x{ki}	was	VBD	12	auxpass	
+12	ba-hul	destroyed	VBN	7	parataxis
+	
+

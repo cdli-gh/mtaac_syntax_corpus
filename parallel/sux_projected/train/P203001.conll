@@ -1,0 +1,32 @@
+# train/P203001.atf
+						
+
+# tr.en: Basket-of-tablets long-tablets barley Lugal- are here year Simurum Lulubu for th time were destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub	long-tablets	NNS	5	compound	
+3	gid2-da	_	_	0	_	
+4	sze	barley	NN	5	compound	
+5	sza3	_	NN	18	nsubj	
+6	sila	_	_	0	_	
+7	x	_	_	0	dep	
+8	1(u)	_	_	0	nummod	
+9	DUB	_	_	0	_	
+10	lugal-siki-su13	Lugal-	JJ	5	amod	
+11	x	_	NN	0	root	
+12	x	_	.	11	dep	
+13	GAR	_	_	0	_	
+14	u2	_	NN	11	appos	
+15	x	_	:	11	dep	
+16	x	_	_	0	dep	
+17	ki	_	_	0	_	
+18	i3-gal2	are here	RB	11	_	
+19	mu	year	NN	26	_	
+20	si-mu-ru-um{ki}	Simurum	NNP	21	compound	
+21	lu-lu-bu{ki}	Lulubu	NNP	26	nsubjpass	
+22	a-ra2	for th time	NN	21	nmod:for	
+23	1(u)	_	.	11	nummod	
+24	la2	_	''	23	_	
+25	1(disz@t)-kam-asz	_	_	24	nummod	
+26	ba-hul	were destroyed	VBN	11	parataxis
+	
+

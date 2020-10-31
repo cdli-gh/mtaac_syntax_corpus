@@ -1,0 +1,24 @@
+# train/P432180.atf
+						
+
+# tr.en: For Ningirsu the mighty warrior of Enlil his master Szulgi the mighty man king of Ur and king of Sumer and Akkad his Bagara temple he built for him
+1	{d}nin-gir2-su	For Ningirsu	NNP	0	root	
+2	ur-sag	warrior	NN	18	root	
+3	kal-ga	the mighty	DT	2	det	
+4	{d}en-lil2-la2	Enlil	NNP	2	nmod:of	
+5	lugal-a-ni	his master	NN	2	appos	
+6	{d}szul-gi	Szulgi	NN	5	appos	
+7	nita	the	DT	8	det	
+8	kal-ga	mighty man	NN	5	appos	
+9	lugal	king	NN	5	appos	
+10	uri5{ki}-ma	Ur	NN	9	nmod:of	
+11	lugal	king	NN	9	conj	
+12	ki-en-gi	Sumer	NNP	11	nmod:of	
+13	ki-uri-ke4	and and Akkad	CC	9	cc	
+14	e2	_	_	0	_	
+15	ba-gara2-ka-ni	his Bagara temple	NN	5	appos	
+16	mu-na-du3	he built for him	VBD	15	acl:relcl	
+17	 	_	NN	0	root	
+18	 	_	NN	17	appos
+	
+

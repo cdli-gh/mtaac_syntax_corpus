@@ -1,0 +1,32 @@
+# train/P432257.atf
+						
+
+# tr.en: in Nippur one whom Enlil nominated the constant supporter of temple of Enlil the mighty man king of Ur and king of four world quarters
+1	'.	_	_	0	_	
+2	...-x	_	_	0	dep	
+3	'.	_	_	0	_	
+4	nibru{ki}-a	in Nippur	NNP	26	nmod:in	
+5	'.	_	_	0	_	
+6	{d}en-lil2-le	one whom Enlil	CD	4	nummod	
+7	'.	_	,	4	_	
+8	mu	_	_	0	_	
+9	pa3-da	nominated	VBD	4	acl:relcl	
+10	'.	_	_	0	_	
+11	sag-us2	the constant supporter	NN	26	_	
+12	'.	_	,	14	_	
+13	e2	_	_	0	_	
+14	{d}en-lil2-ka	of temple of Enlil	NN	11	nmod:of	
+15	'.	_	,	14	_	
+16	nita	the	DT	17	det	
+17	kal-ga	mighty man	NN	14	appos	
+18	'.	_	_	0	_	
+19	lugal	king	NN	14	appos	
+20	uri5{ki}-ma	Ur	NN	19	nmod:of	
+21	'.	and	CC	19	cc	
+22	lugal	king	NN	19	conj	
+23	an	four	CD	25	nummod	
+24	ub-da	world	NN	25	compound	
+25	limmu2-ba	quarters	NNS	22	nmod:of	
+26	 	_	NN	0	root
+	
+

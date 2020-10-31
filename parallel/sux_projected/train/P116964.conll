@@ -1,0 +1,26 @@
+# train/P116964.atf
+						
+
+# tr.en: gur barig barley royal for barley ration of new year from millhouse the assistant herder did Nin-Nagsuka receive month Flight year following lord of Eridu was installed
+1	1(asz)	_	,	5	nummod	
+2	3(barig)	barig	NN	1	nummod	
+3	sze	barley	NN	5	compound	
+4	gur	gur	NN	5	compound	
+5	lugal	royal	NN	0	root	
+6	sze-ba	_	,	5	_	
+7	za3-mu-ka-sze3	for barley ration new year	NN	5	nmod:for	
+8	e2-kikken-ta	from millhouse	NN	5	nmod:from	
+9	gab2-us2	the	DT	5	det	
+10	a-ri-a	assistant herder	NN	5	compound	
+11	{d}nin-nag-su-ka-ke4	did Nin-Nagsuka	VBD	13	aux	
+12	szu	_	:	5	_	
+13	ba-ti	receive	VB	5	acl:relcl	
+14	iti	month	NN	15	compound	
+15	dal	Flight	NNP	5	_	
+16	mu	year	NN	15	_	
+17	us2-sa	following	VBG	20	nmod:follow	
+18	en	lord	NN	20	nsubjpass	
+19	eridu{ki}	Eridu	NNP	18	nmod:of	
+20	ba-hun	was installed	VBN	16	acl
+	
+

@@ -1,0 +1,91 @@
+# dev/P130219.atf
+						
+
+# tr.en: male laborer for workdays from Umma-harbor to Irisagrig barge punted for workday barley transferred and barley in barge loaded from Irisagrig two workdays to reservoir of Vineyard barge punted for workday at Uriru-village barley transferred for workdays from Uriru-village to reservoir of Amar-Suentum canal barley carried from reservoir of Amar-Suentum canal for workdays to Irisagrig barge punted and transfer done for workdays from Irisagrig to mouth of Damimama barge punted for workdays to Umma barge floated for workday barge unloaded for workday barley transferred foreman Lugal-Emae under seal of Adumu year boat of Enki was caulked Ur-Suen scribe son of Ur-gigir official
+1	1(disz)	_	_	0	nummod	
+2	gurusz	male laborer	NN	9	nsubj	
+3	u4	for workdays	NNS	2	nmod:for	
+4	4(disz)-sze3	_	_	0	nummod	
+5	kar	from	IN	6	nmod:from	
+6	umma{ki}-ta	Umma-harbor	NN	2	nmod:from	
+7	iri-sa12-rig7{ki}-sze3	to Irisagrig	TO	8	nmod:to	
+8	ma2	barge	NN	6	nmod:to	
+9	gid2-da	punted	VBD	0	root	
+10	u4	for	IN	12	nmod:for	
+11	1(disz)-sze3	_	,	9	nummod	
+12	sze	barley	NN	9	nmod:for	
+13	bala-a	workday transferred	NN	12	compound	
+14	u3	and	CC	12	cc	
+15	sze	barley	NN	12	conj	
+16	ma2-a	in barge	NN	12	nmod:in	
+17	si-ga	loaded	VBN	16	acl	
+18	iri-sa12-rig7{ki}-ta	from Irisagrig	NNP	9	nmod:from	
+19	u4	_	,	25	_	
+20	2(disz)-sze3	_	_	0	nummod	
+21	kun-zi-da	two workdays to reservoir	NNS	25	nsubj	
+22	{gesz}kiri6	_	_	0	_	
+23	gesztin-sze3	Vineyard	NNP	24	compound	
+24	ma2	barge	NN	21	nmod:of	
+25	gid2-da	punted	VBD	18	acl:relcl	
+26	u4	_	,	25	_	
+27	1(disz)-sze3	_	_	0	nummod	
+28	e2-duru5	for	IN	29	nmod:for	
+29	uri3-ru2-a-ka	workday at Uriru-village	NN	25	nmod:for	
+30	sze	barley	NN	29	nmod:at	
+31	bala-a	transferred	VBN	30	acl	
+32	u4	for workdays	NNS	52	nmod:for	
+33	7(disz)-sze3	_	_	0	nummod	
+34	e2-duru5	from	IN	36	nmod:from	
+35	szesz	_	_	0	_	
+36	du3-a-ta	Uriru-village	NN	32	nmod:from	
+37	kun-zi-da	to reservoir	NN	32	nmod:to	
+38	i7	_	_	0	_	
+39	{d}amar-{d}suen-ni-tum-sze3	Amar-Suentum canal	NNP	40	compound	
+40	sze	barley	NN	37	nmod:of	
+41	ga6-ga2	carried	VBD	52	csubjpass	
+42	kun-zi-da	_	_	0	_	
+43	i7	_	_	0	_	
+44	{d}amar-{d}suen-ni-tum-ta	from reservoir Amar-Suentum canal	NN	41	nmod:from	
+45	u4	for workdays	NNS	44	nmod:for	
+46	2(disz)-sze3	_	_	0	nummod	
+47	iri-sa12-rig7-sze3	to Irisagrig	TO	48	nmod:to	
+48	ma2	barge	NN	45	nmod:to	
+49	gid2-da	punted	VBD	52	auxpass	
+50	u3	and	CC	49	cc	
+51	bala	transfer	NN	49	conj	
+52	ak	done	VBN	25	parataxis	
+53	u4	for workdays	NNS	64	nmod:for	
+54	2(disz)-sze3	_	_	0	nummod	
+55	iri-sa12-rig7{ki}-ta	from Irisagrig	NNP	53	nmod:from	
+56	ka	to	TO	57	nmod:to	
+57	da-mi-ma-ma-sze3	mouth Damimama	NN	53	nmod:to	
+58	ma2	barge	NN	57	nmod:of	
+59	gid2-da	punted	VBD	64	nsubj	
+60	u4	for workdays	NNS	59	nmod:for	
+61	2(disz)-sze3	_	,	64	nummod	
+62	umma{ki}-sze3	to Umma	TO	63	nmod:to	
+63	ma2	barge	NN	60	nmod:to	
+64	diri-ga!(DA)	floated	VBD	52	conj	
+65	u4	for	IN	67	nmod:for	
+66	1(disz)-sze3	_	:	52	nummod	
+67	ma2	barge	NN	64	nmod:for	
+68	ba-al-la	workday unloaded	NN	67	compound	
+69	u4	for	IN	71	nmod:for	
+70	1(disz)-sze3	_	:	52	nummod	
+71	sze	barley	NN	52	conj	
+72	bala-a	workday transferred	NN	71	compound	
+73	ugula	foreman	NN	52	_	
+74	lugal-e2-mah-e	Lugal-Emae	NNP	77	compound	
+75	kiszib3	under seal	NN	77	nmod:under	
+76	a-du-mu	Adumu	NNP	75	nmod:of	
+77	mu	year	NN	73	_	
+78	ma2	boat	NN	80	nsubjpass	
+79	{d}en-ki	Enki	NNP	78	nmod:of	
+80	ba-ab-du8	was caulked	VBN	77	acl	
+81	ur-{d}suen	Ur-Suen	NNP	77	_	
+82	dub-sar	scribe	NN	81	appos	
+83	dumu	son	NN	81	appos	
+84	ur-{gesz}gigir	Ur-gigir	NN	83	nmod:of	
+85	sza3-tam	official	NN	84	appos
+	
+

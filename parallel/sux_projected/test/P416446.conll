@@ -1,0 +1,21 @@
+# test/P416446.atf
+						
+
+# tr.en: Basket-of-tablets tablets credits of atam and tablets to baskets apportioned are here year Enunugal of Inanna in Uruk was installed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub-me	tablets	NNS	10	nsubj	
+3	zi-ga	credits	NNS	2	conj	
+4	sza3-tam-ne	atam	NN	3	nmod:of	
+5	u3	and	CC	2	cc	
+6	dub	_	NN	2	conj	
+7	me-dur-x	tablets	NNS	6	compound	
+8	pisan-bi-sze3	to baskets	NNS	6	nmod:to	
+9	hal-ha	apportioned	VBN	8	acl	
+10	i3-gal2	are here	RB	1	_	
+11	mu	year	NN	15	_	
+12	en-unu6-gal	Enunugal	NNP	15	nsubjpass	
+13	{d}inanna	Inanna	NNP	12	nmod:of	
+14	unu{ki}	in Uruk	NNP	12	nmod:in	
+15	ba-hun	was installed	VBN	10	parataxis
+	
+

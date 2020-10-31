@@ -1,0 +1,36 @@
+# train/P423545.atf
+						
+
+# tr.en: sila of plant oil from Szara-kam sealed tablet of governor Month nesag offering year after Amorite wall was built year after Szu-Suen strong king king of Ur king of four corners Ayakalla governor of Umma is your servant
+1	1(disz)	_	,	3	nummod	
+2	1/2(disz)	_	_	1	nummod	
+3	sila3	sila	NN	0	root	
+4	i3-gesz	plant oil	NN	3	nmod:of	
+5	ki	from	IN	6	nmod:from	
+6	{d}szara2-kam-ta	Szara-kam	NN	3	nmod:from	
+7	kiszib3	sealed tablet	NN	3	appos	
+8	ensi2	governor	NN	7	nmod:of	
+9	iti	Month	NNP	3	appos	
+10	nesag	nesag offering	NN	9	_	
+11	mu	year	NN	9	_	
+12	us2-sa	after	IN	11	nmod:after	
+13	bad3	_	.	15	_	
+14	mar-tu	Amorite wall	NN	15	nsubjpass	
+15	ba-du3	was built	VBN	3	ccomp	
+16	mu	year	NN	15	advmod	
+17	us2-sa-a-bi	after	IN	16	nmod:after	
+18	{d}szu-{d}suen	Szu-Suen	NN	19	compound	
+19	lugal	king	NN	15	_	
+20	kal-ga	strong	JJ	19	amod	
+21	lugal	king	NN	19	appos	
+22	uri5{ki}-ma	Ur	NN	21	nmod:of	
+23	lugal	king	NN	19	appos	
+24	an	four	CD	26	nummod	
+25	ub-da	_	:	19	_	
+26	limmu2-ba	corners	NNS	23	nmod:of	
+27	a-a-kal-la	Ayakalla	NNP	30	nsubj	
+28	ensi2	governor	NN	27	appos	
+29	umma{ki}	of Umma	NNP	28	nmod:of	
+30	ARAD2-zu	is your servant	NN	19	_
+	
+

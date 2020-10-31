@@ -1,0 +1,21 @@
+# train/P204045.atf
+						
+
+# tr.en: Basket-of-tablets long-tablets sealed documents house of are here year Amar-Suen is king
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub	long-tablets	NNS	5	compound	
+3	gid2-da	_	_	0	_	
+4	kiszib3	sealed	VBN	5	amod	
+5	sze	_	NN	12	nsubj	
+6	x	_	,	5	dep	
+7	da	documents	NNS	5	compound	
+8	e2	house	NN	5	appos	
+9	x	_	NN	8	nmod:of	
+10	x	_	,	5	dep	
+11	NE	of	IN	9	nmod:of	
+12	i3-gal2	are here	RB	1	_	
+13	mu	year	NN	15	_	
+14	{d}amar-suen	Amar-Suen is	NNP	15	nsubj	
+15	lugal	king	NN	1	parataxis
+	
+

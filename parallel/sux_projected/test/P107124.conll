@@ -1,0 +1,18 @@
+# test/P107124.atf
+						
+
+# tr.en: Basket-of-tablets remainder of oxen and sheep from year house of Szara was erected to year Simururm was destroyed are here
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	tak4-ba	remainder and	NN	1	_	
+3	gu4	oxen	NN	2	nmod:of	
+4	udu	sheep	NN	3	conj	
+5	mu	year	NN	2	nmod:from	
+6	e2	house	NN	2	nsubjpass	
+7	{d}szara2	Szara	NN	6	nmod:of	
+8	ba-du3-ta	from was erected	IN	5	nmod:from	
+9	mu	year	NN	2	nmod:to	
+10	si-mu-ru-um{ki}	_	,	2	_	
+11	ba-hul-<sze3>	to Simururm was destroyed	TO	9	nmod:to	
+12	i3-gal2	are here	RB	2	advmod
+	
+

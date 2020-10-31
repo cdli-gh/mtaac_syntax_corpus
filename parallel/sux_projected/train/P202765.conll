@@ -1,0 +1,33 @@
+# train/P202765.atf
+						
+
+# tr.en: Basket-of-tablets inspections shipyard laborers in Girsu year en of Nanna shipyard laborers in Nigin year following house of Puzris-daga was erected shipyard laborers of Madga shipyard laborers in Guabba year
+1	pisan-dub-ba	Basket-of-tablets	NNS	20	_	
+2	gurum2-ak	inspections	NNS	11	compound	
+3	lu2	_	_	0	_	
+4	mar-sa	shipyard laborers	NNS	2	_	
+5	sza3	in	IN	6	nmod:in	
+6	gir2-su{ki}	Girsu	NNP	4	nmod:in	
+7	mu	year	NN	6	appos	
+8	en	en	IN	2	_	
+9	{d}nanna	Nanna	NNP	8	nmod:of	
+10	lu2	_	,	11	_	
+11	mar-sa	shipyard laborers	NNS	1	_	
+12	sza3	in	IN	13	nmod:in	
+13	nigin6{ki}	Nigin	NNP	11	nmod:in	
+14	mu	year	NN	11	appos	
+15	us2-sa	following	VBG	14	acl	
+16	e2	house	NN	18	nsubjpass	
+17	puzur4-isz-{d}da-gan{ki}	Puzris-daga	NN	16	nmod:of	
+18	ba-du3-a	was erected	VBN	11	acl	
+19	lu2	_	,	20	_	
+20	mar-sa	shipyard laborers	NNS	0	root	
+21	ma2-ad-ga	of Madga	NNP	20	nmod:of	
+22	lu2	_	,	21	_	
+23	mar-sa	shipyard laborers	NNS	21	appos	
+24	sza3	in	IN	26	nmod:in	
+25	gu2-ab-ba{ki}	Guabba	NNP	26	compound	
+26	mu	year	NN	20	nmod:in	
+27	...	_	:	20	dep
+	
+

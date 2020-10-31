@@ -1,0 +1,31 @@
+# dev/P142051.atf
+						
+
+# tr.en: sheep with fleece lambs with fleece sheep without fleece mixed nanny and billy goats from Kas Lu-Suen took year after Kima was destroyed
+1	2(gesz2)	_	,	4	nummod	
+2	2(u)	_	CD	7	nummod	
+3	4(disz)	_	_	2	nummod	
+4	udu	sheep	NN	21	nsubj	
+5	bar-gal2	with fleece	NN	4	nmod:with	
+6	4(disz)	_	,	4	nummod	
+7	sila4	lambs	NNS	4	conj	
+8	bar-gal2	with fleece	NN	7	nmod:with	
+9	7(disz)	_	,	4	nummod	
+10	udu	sheep	NN	4	conj	
+11	bar-su-ga	without fleece	IN	12	nmod:without	
+12	3(gesz2)	without fleece	NN	10	nummod	
+13	1(u)	_	,	4	nummod	
+14	2(disz)	_	_	13	nummod	
+15	ud5	nanny	NN	4	conj	
+16	masz2	and billy goats	CC	4	cc	
+17	hi-a	mixed	JJ	15	amod	
+18	ki	from	IN	20	nmod:from	
+19	kas4-ta	Kas	NNP	20	compound	
+20	lu2-{d}suen	Lu-Suen	NNP	4	nmod:from	
+21	i3-dab5	took	VBD	0	root	
+22	mu	year	NN	25	_	
+23	us2-sa	after	IN	22	advmod	
+24	ki-masz{ki}	_	:	22	_	
+25	ba-hul	was destroyed	VBN	21	parataxis
+	
+

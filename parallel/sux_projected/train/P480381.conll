@@ -1,0 +1,27 @@
+# train/P480381.atf
+						
+
+# tr.en: male laborers for day grass carried sadura ditch of auda foreman ARADgu under seal of Ur-mes canal inspector year Szarum was destroyed Ur-mes son of Nabalu
+1	2(disz)	_	_	0	nummod	
+2	gurusz	male laborers	NNS	6	nsubj	
+3	u4	for day	IN	5	nmod:for	
+4	1(disz)-sze3	_	_	0	nummod	
+5	u2	grass	NN	2	nmod:for	
+6	il2-la	carried	VBD	0	root	
+7	x	_	,	6	dep	
+8	e	_	,	10	_	
+9	sa-dur2-ra	sadura ditch	NN	6	dobj	
+10	a-u2-da	auda	NN	9	nmod:of	
+11	ugula	foreman	NN	10	appos	
+12	ARAD2-mu	ARADgu	NN	9	_	
+13	kiszib3	under seal	NN	6	nmod:under	
+14	ur-mes	Ur-mes	NNS	13	nmod:of	
+15	a-igi-du8	canal inspector	NN	13	appos	
+16	mu	year	NN	18	_	
+17	sza-asz-szu2-ru-um{ki}	_	``	18	_	
+18	ba-hul	was destroyed	VBN	13	parataxis	
+19	ur-mes	Ur-mes	NNS	13	_	
+20	dumu	son	NN	13	appos	
+21	na-ba-lu5	Nabalu	NNP	20	nmod:of
+	
+

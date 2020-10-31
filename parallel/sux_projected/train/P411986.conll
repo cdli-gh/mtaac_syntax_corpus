@@ -1,0 +1,59 @@
+# train/P411986.atf
+						
+
+# tr.en: Basket-of-tablets copies of goods of Szelebtum supervisor and Sz-Mlik his son tablets of receipt receipts of Idlid Ikn-sir chief household administrator Dada-bani plowman Szunana herdsman deficits repayments of Szt-Suen daughter of Ullu-ri and credits of elder sons herein are Nr-il and Szukubum son of Sz-Mlik received via Il-miti judge and Luduga judge in Nippur month Wool center of Ninazu year following barge Dara-abzu of Enki was caulked
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	gaba-ri	copies	NNS	1	_	
+3	nig2-gur11	of	IN	4	nmod:of	
+4	sze-le-bu-tum	goods Szelebtum	NNS	2	nmod:of	
+5	nu-banda3	supervisor	NN	4	appos	
+6	u3	and	CC	4	cc	
+7	szu-{d}ma-lik	Sz-Mlik	NNP	4	conj	
+8	dumu-ni	his son	NN	7	appos	
+9	im	tablets	NNS	7	appos	
+10	szu	_	,	7	_	
+11	szum2-ma	receipt	NN	9	nmod:of	
+12	szu-ti-a	_	,	13	_	
+13	id-li2-id	receipts Idlid	NNS	7	appos	
+14	i-kun-si-ir	Ikn-sir chief	NN	13	conj	
+15	szabra	household administrator	NN	13	conj	
+16	da-da-ba-ni	Dada-bani	NN	13	conj	
+17	engar	plowman	NN	13	conj	
+18	szu-na-na	Szunana	NNP	13	conj	
+19	na-gada	herdsman	NN	13	conj	
+20	la2-ia3	deficits	NNS	13	conj	
+21	su-ga	repayments	NNS	13	conj	
+22	sza-at-{d}suen	of Szt-Suen	NNP	13	nmod:of	
+23	dumu-munus	daughter	NN	22	conj	
+24	ul-luh-uri5{ki}	Ullu-ri	NN	23	nmod:of	
+25	u3	and	CC	22	cc	
+26	zi-ga	credits	NNS	22	conj	
+27	ibila	elder sons	NNS	26	nmod:of	
+28	3(disz)-a-ba	_	,	13	nummod	
+29	sza3-ba	herein	RB	30	advmod	
+30	i3-gal2	are	VBP	13	acl	
+31	nu-ur2-i3-li2	Nr-il	NN	37	nsubj	
+32	u3	and	CC	31	cc	
+33	szu-ku-bu-um	Szukubum	NN	31	conj	
+34	dumu	son	NN	31	appos	
+35	szu-{d}ma-lik	Sz-Mlik	NNP	34	nmod:of	
+36	szu	_	:	37	_	
+37	ba-an-ti-esz2	received	VBD	30	parataxis	
+38	giri3	via	IN	39	nmod:via	
+39	i3-li2-mi-ti	Il-miti	NN	37	nmod:via	
+40	di-ku5	judge	NN	39	appos	
+41	u3	and	CC	39	cc	
+42	lu2-du10-ga	Luduga	NNP	39	conj	
+43	di-ku5	judge	NN	39	appos	
+44	sza3	in	IN	45	nmod:in	
+45	nibru{ki}	Nippur	NNP	39	nmod:in	
+46	iti	month	NN	47	compound	
+47	ki-siki-{d}nin-a-zu	Wool center Ninazu	NN	39	conj	
+48	mu	year	NN	49	compound	
+49	us2-sa	following	VBG	39	acl	
+50	ma2	barge	NN	51	compound	
+51	dara4-abzu	Dara-abzu	NN	53	nsubjpass	
+52	{d}en-ki-ka	Enki	NNP	51	nmod:of	
+53	ba-ab-du8	was caulked	VBN	39	acl
+	
+

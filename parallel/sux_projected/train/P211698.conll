@@ -1,0 +1,54 @@
+# train/P211698.atf
+						
+
+# tr.en: Basket-of-tablets sealed documents of dab Daga kuge son of Ayabbani and Lugal-kuzu manager sealed documents to be canceled and to carried Ur-Szulpae to be carried trade agents sealed documents garments of Szara harbor of governor sealed documents garments leather Inanna sealed documents of Ur- chief accountant and of Ur-Nungal Apisal Mubiana year Sz-Suen is king
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	kiszib3	sealed	VBN	3	amod	
+3	dab-ba	documents	NNS	16	nsubj	
+4	da-ga-x	dab	NN	3	nmod:of	
+5	x-ku3-ge	_	,	4	_	
+6	dumu	son	NN	4	conj	
+7	a-ab-ba-ni	Ayabbani	NNP	6	nmod:of	
+8	u3	and	CC	4	cc	
+9	lugal-ku3-zu	Lugal-kuzu	NN	4	conj	
+10	nu-banda3	manager	NN	9	conj	
+11	kiszib3	sealed	VBN	12	amod	
+12	zi-re	documents	NNS	9	conj	
+13	u3	and	CC	9	cc	
+14	kiszib3-kiszib3-sze3	to to	TO	15	mark	
+15	tum3	be canceled carried	VBN	12	acl	
+16	tum3	be canceled carried	VBD	1	appos	
+17	ur-{d}szul-pa-e3	Ur-Szulpae	NN	16	nsubj	
+18	kiszib3-kiszib3-sze3	to	TO	19	mark	
+19	tum3	be carried trade	VBN	16	acl	
+20	dam-gar3-ne	agents	NNS	16	dobj	
+21	kiszib3	sealed documents	NNS	20	conj	
+22	tug2	garments	NNS	20	appos	
+23	{d}szara2	Szara	NNP	22	nmod:of	
+24	kar-ra	harbor	NN	23	appos	
+25	ensi2-ka	governor	NN	24	nmod:of	
+26	kiszib3	sealed documents	NNS	22	_	
+27	tug2	garments	NNS	26	conj	
+28	kusz	_	NN	26	conj	
+29	x	_	,	26	dep	
+30	{d}inanna	Inanna	NNP	28	compound	
+31	bi2-za-ka	leather	NN	26	conj	
+32	a	_	_	0	_	
+33	x	_	_	0	dep	
+34	x	_	_	0	dep	
+35	kiszib3	sealed documents	NNS	26	conj	
+36	ur-{d}x	Ur-	DT	37	det	
+37	sza13-dub-ba	chief accountant	NN	26	conj	
+38	u3	and	CC	26	cc	
+39	ur-{d}nun-gal	Ur-Nungal	NNP	26	conj	
+40	x	_	:	20	dep	
+41	x	_	_	0	dep	
+42	x	_	_	0	dep	
+43	a-pi4-sal4{ki}	Apisal	NNP	39	conj	
+44	musz-bi-an-na	Mubiana	NNP	39	appos	
+45	mu	year	NN	47	_	
+46	{d}szu-{d}suen	Sz-Suen is	NNP	47	nsubj	
+47	lugal	king	NN	20	_	
+48	x	_	.	1	dep
+	
+

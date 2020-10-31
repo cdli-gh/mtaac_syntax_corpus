@@ -1,0 +1,45 @@
+# train/P139757.atf
+						
+
+# tr.en: sar hoed at sar each its labor days sar kul-grass cut at sar each its labor days labor of oxen men field of Prince foreman Lugal-kugani seal of Lugal-inimgina year boat of Enki was caulked Lugal-inimgina son of Lugal-nesage
+1	6(gesz2)	_	,	4	nummod	
+2	2(u)	_	_	1	nummod	
+3	sar	sar	JJ	4	amod	
+4	al	hoed	NN	0	root	
+5	ak	_	_	0	_	
+6	3(disz)	each	DT	7	nummod	
+7	sar-ta	at sar	NN	4	nmod:at	
+8	a2-bi	its labor	NN	4	appos	
+9	u4	days	NNS	4	_	
+10	2(gesz2)	_	:	9	nummod	
+11	6(disz)	_	CD	17	nummod	
+12	2/3(disz)	_	_	11	nummod	
+13	6(gesz2)	_	,	17	nummod	
+14	2(u)	_	_	13	nummod	
+15	sar	sar	NN	17	compound	
+16	{u2}kul	kul-grass	JJ	17	amod	
+17	ku5-ra2	cut	NN	9	_	
+18	1(u)	each	DT	19	nummod	
+19	sar-ta	at sar	NN	17	nmod:at	
+20	a2-bi	its labor	NN	17	appos	
+21	u4	days	_	0	_	
+22	3(u)	_	:	20	nummod	
+23	8(disz)-kam	_	NNS	22	nummod	
+24	a2	labor	NN	17	_	
+25	sza3-gu4	oxen men	NNS	24	nmod:of	
+26	a-sza3	field	NN	24	appos	
+27	nun-na	Prince	NNP	26	nmod:of	
+28	ugula	foreman	NN	27	appos	
+29	lugal-ku3-ga-ni	Lugal-kugani	NNS	24	_	
+30	kiszib3	seal	NN	29	appos	
+31	lugal-inim-gi-na	Lugal-inimgina	NN	32	compound	
+32	mu	year	NN	30	nmod:of	
+33	ma2	boat	NN	35	nsubjpass	
+34	{d}en-ki	Enki	NNP	33	nmod:of	
+35	ba-ab-du8	was caulked	VBN	29	acl	
+36	lugal-inim-gi-na	Lugal-inimgina	JJ	38	amod	
+37	dub-sar	_	_	0	_	
+38	dumu	son	NN	35	dobj	
+39	lugal-nesag-e	Lugal-nesage	NN	38	nmod:of
+	
+

@@ -1,0 +1,71 @@
+# train/P384803.atf
+						
+
+# tr.en: u garment ili son of from Ur- black u garment Adudu son of from Ursag u garment Szara- son of Igi-nidaa basket weaver from ARAD foreman fine black u garment Nubanda son of Szakuge son of Zuzani ration fine u garment Girini-idab son of Auni under armed guard clothing ration in prison and year after Szu-Suen king Amorite wall erected
+1	1(disz)	_	,	64	nummod	
+2	tug2	garment	NN	64	compound	
+3	u2	u	NN	64	compound	
+4	...	_	NN	64	dep	
+5	hi-li2	_	,	64	_	
+6	dumu	son	NN	64	appos	
+7	...	_	NN	6	nmod:of	
+8	ki	from	IN	65	nmod:from	
+9	ur-...	_	:	64	_	
+10	1(disz)	_	NN	64	nummod	
+11	tug2	garment	NN	10	compound	
+12	u2	u	NN	10	compound	
+13	ge6	black	JJ	10	amod	
+14	...	_	,	10	dep	
+15	a-du-du	Adudu	NN	10	appos	
+16	dumu	son	NN	10	appos	
+17	...	_	NN	16	nmod:of	
+18	ki	from	IN	19	nmod:from	
+19	ur-saga-ta	Ursag	NNP	10	nmod:from	
+20	1(disz)	_	NN	10	nummod	
+21	tug2	garment	NN	20	compound	
+22	u2	u	NN	20	compound	
+23	...	_	_	0	dep	
+24	{d}szara2-x-...	_	,	20	_	
+25	dumu	son	NN	20	appos	
+26	igi-ni-da-a	Igi-nidaa	NN	25	nmod:of	
+27	ad-kup4	basket weaver	NN	26	root	
+28	ki	from	IN	29	nmod:from	
+29	ARAD2	ARAD	NNP	27	nmod:from	
+30	ugula-ta	foreman	NN	29	_	
+31	1(disz)	_	.	46	nummod	
+32	tug2	garment	NN	27	_	
+33	u2	u	NN	32	compound	
+34	ge6	black	JJ	32	amod	
+35	kal	fine	JJ	32	amod	
+36	nu-banda3{da}	Nubanda	NN	32	appos	
+37	dumu	son	NN	32	appos	
+38	sza3-ku3-ge	Szakuge	NNP	37	nmod:of	
+39	dumu	son	NN	32	appos	
+40	zu-u2-za-ni	Zuzani ration	NNP	39	nmod:of	
+41	nig2-ba	_	CD	46	nummod	
+42	1(disz)	_	,	46	nummod	
+43	tug2	_	_	0	_	
+44	u2	u	NN	46	compound	
+45	kal	fine	JJ	46	amod	
+46	giri3-ni-i3-dab5	garment Girini-idab	NN	32	_	
+47	dumu	son	NN	46	conj	
+48	a-hu-ni	Auni	NNP	47	nmod:of	
+49	tukul-e	under armed	IN	50	nmod:under	
+50	dab5-ba-a	guard	NN	46	conj	
+51	tug2-ba	clothing ration	NN	46	conj	
+52	sza3	in	IN	53	nmod:in	
+53	en-nu-ga2	prison	NN	51	nmod:in	
+54	u3	and	CC	53	cc	
+55	NI	_	NN	53	conj	
+56	...	_	:	46	dep	
+57	mu	year	NN	46	_	
+58	us2-sa	after	IN	57	nmod:after	
+59	{d}szu-{d}suen	Szu-Suen	NNP	57	_	
+60	lugal	king	NN	59	appos	
+61	bad3	_	.	27	_	
+62	mar-tu	Amorite wall	NN	63	nsubj	
+63	mu-du3	erected	VBD	59	acl:relcl	
+64	 	_	NN	0	root	
+65	 	_	NN	64	nmod:from
+	
+

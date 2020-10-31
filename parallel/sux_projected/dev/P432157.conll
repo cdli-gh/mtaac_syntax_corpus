@@ -1,0 +1,35 @@
+# dev/P432157.atf
+						
+
+# tr.en: To Gilgame of Endimgig his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad when temple of Nanna he had built for his life he dedicated it to him A person who this inscription shall erase May Gilgame curse him
+1	{d}gilgamesx(|BIL3.GA.MES|)	To Gilgame	NNP	0	root	
+2	en-dim2-gig{ki}	of Endimgig	NNP	1	nmod:of	
+3	lugal-a-ni	his master	NN	29	root	
+4	ur-{d}namma	Ur-Namma	NN	3	appos	
+5	nita	the	DT	6	det	
+6	kal-ga	mighty man	NN	3	appos	
+7	lugal	king	NN	3	appos	
+8	uri5{ki}-ma	Ur	NN	7	nmod:of	
+9	lugal	king	NN	7	conj	
+10	ki-en-gi	Sumer	NNP	9	nmod:of	
+11	ki-uri-ke4	and and Akkad	CC	7	cc	
+12	u4	_	_	0	_	
+13	e2	when temple	WRB	18	advmod	
+14	{d}nanna	Nanna	NNP	18	nmod:of	
+15	mu-du3-a	he had built	VBN	18	acl:relcl	
+16	nam-ti-la-ni-sze3	for his life	NN	18	nmod:for	
+17	a	he	PRP	18	nsubj	
+18	mu-na-ru	dedicated it to him	VBD	3	acl:relcl	
+19	lu2	_	_	0	_	
+20	mu	_	_	0	_	
+21	sar-ra-ba	A person who this inscription	NN	3	_	
+22	szu	_	,	21	_	
+23	bi2-ib2-ur3-a	shall erase	VB	21	acl:relcl	
+24	{d}gilgamesx(|BIL3.GA.MES|)-e	May Gilgame	NNP	25	compound	
+25	nam	curse	NN	21	appos	
+26	ha-ba-da-ku5-e	him	PRP	25	nmod:npmod	
+27	 	_	NN	0	root	
+28	 	_	.	27	_	
+29	 	_	,	28	_
+	
+

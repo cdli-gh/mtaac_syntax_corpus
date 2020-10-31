@@ -1,0 +1,26 @@
+# train/P111318.atf
+						
+
+# tr.en: labor of Ur-kalam of year each year shekels silver its silver shekels shall be weighed out Andaga to Nin-ana was confirmed responsible official
+1	'.	_	,	2	_	
+2	a2	labor	NN	0	root	
+3	ur-kalam-ka	Ur-kalam	NN	2	nmod:of	
+4	'.	_	,	2	_	
+5	mu	year	NN	2	nmod:of	
+6	4(disz)-kam	_	_	0	nummod	
+7	mu-a	year shekels silver	NN	2	appos	
+8	3(disz)	_	_	0	nummod	
+9	gin2-ta	each	DT	7	det	
+10	'.	_	:	15	_	
+11	ku3-bi	its silver	NN	2	appos	
+12	1(u)	_	_	0	nummod	
+13	2(disz)	_	_	12	nummod	
+14	gin2	shekels	NNS	15	nsubjpass	
+15	la2-e-de3	shall be weighed out	VBN	2	acl	
+16	an-da-ga	Andaga	NNP	19	nsubjpass	
+17	nin-a-na-ra	to Nin-ana	NN	16	nmod:to	
+18	ba-na-gi-in	was confirmed	VBD	19	auxpass	
+19	...	was confirmed	VBN	15	parataxis	
+20	maszkim	responsible official	NN	19	appos
+	
+

@@ -1,0 +1,26 @@
+# train/P102362.atf
+						
+
+# tr.en: talent mana wool from storage facility in Nippur Dudu received month Festival of Ninazu year after For rd time Simurrum was destroyed
+1	1(asz)	_	,	2	nummod	
+2	gu2	talent	NN	0	root	
+3	3(u)	_	_	0	nummod	
+4	6(disz)	_	_	3	nummod	
+5	ma-na	mana	NN	6	compound	
+6	siki	wool	NN	2	_	
+7	e2-kiszib3-ba	storage	NN	9	compound	
+8	sza3	in	IN	9	nmod:in	
+9	nibru{ki}-ta	from facility Nippur	NN	2	nmod:from	
+10	du-du	Dudu	NNP	12	nsubj	
+11	szu	_	:	2	_	
+12	ba-ti	received	VBD	2	acl:relcl	
+13	iti	month	NN	15	_	
+14	ezem-{d}nin-a-zu	Festival Ninazu	NNP	15	nsubj	
+15	mu	year	NN	2	_	
+16	us2-sa	after	IN	15	advmod	
+17	a-ra2	_	:	15	_	
+18	3(disz@t)-kam-asz	_	.	2	nummod	
+19	si-mu-ru-um{ki}	Simurrum	NN	20	nsubjpass	
+20	ba-hul	was destroyed	VBN	15	acl
+	
+

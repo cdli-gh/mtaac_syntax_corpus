@@ -1,0 +1,19 @@
+# test/P324403.atf
+						
+
+# tr.en: Basket-of-tablets copies of inspections when stationed via Puzur-Ninkarke scribe year Zabali was destroyed are here
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	gaba-ri	copies	NNS	1	_	
+3	gurum2-ak	inspections	NNS	2	nmod:of	
+4	u4	_	,	6	_	
+5	al-tar-ra	when	WRB	6	advmod	
+6	gub-ba	stationed	VBN	12	advcl	
+7	giri3	via	IN	8	nmod:via	
+8	puzur4-{d}nin-kar-ke3	Puzur-Ninkarke	NNP	6	nmod:via	
+9	dub-sar	scribe	NN	8	appos	
+10	mu	year	NN	8	appos	
+11	za-ab-sza-li{ki}	Zabali	NNP	12	nsubjpass	
+12	<ba>-hul	was destroyed	VBN	2	parataxis	
+13	i3-gal2	are here	RB	12	advmod
+	
+

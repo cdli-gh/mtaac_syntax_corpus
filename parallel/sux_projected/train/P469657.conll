@@ -1,0 +1,88 @@
+# train/P469657.atf
+						
+
+# tr.en: sila beer sila bread shekels oil shekels alkali-plant bundel onions Szu-Mama kausa sila beer sila bread shekels oil shekels alkali-plant bundel onions Habad gaba-ta sila beer sila bread shekels oil shekels alkali-plant bundel onions Kurbilak kausa total ban less sila beer total sila bread total ban less sila beer total shekels alkali-plant total bundles onions th day month Harvest year after Martu-Wall was erected
+1	3(disz)	_	,	2	nummod	
+2	sila3	sila	NN	3	appos	
+3	kasz	beer	_	0	_	
+4	2(disz)	_	CD	9	nummod	
+5	sila3	sila	NN	2	compound	
+6	ninda	bread	NN	2	conj	
+7	2(disz)	_	,	2	nummod	
+8	gin2	shekels	NNS	9	compound	
+9	i3	oil	NN	2	conj	
+10	2(disz)	_	CD	15	nummod	
+11	gin2	shekels	NNS	12	nmod:npmod	
+12	naga	alkali-plant	JJ	2	amod	
+13	1(disz)	_	:	2	nummod	
+14	sa	bundel	NN	15	compound	
+15	szum2	onions	NNS	2	appos	
+16	szu-ma-ma	Szu-Mama	NNP	2	_	
+17	ka-us2-sa2	kausa	NN	16	appos	
+18	3(disz)	_	,	20	nummod	
+19	sila3	sila	NN	20	compound	
+20	kasz	beer	NN	16	_	
+21	2(disz)	_	CD	26	nummod	
+22	sila3	sila	NN	23	compound	
+23	ninda	bread	NN	20	appos	
+24	2(disz)	_	,	20	nummod	
+25	gin2	shekels	NNS	26	compound	
+26	i3	oil	NN	20	appos	
+27	2(disz)	_	CD	32	nummod	
+28	gin2	shekels	NNS	29	nmod:npmod	
+29	naga	alkali-plant	JJ	20	amod	
+30	1(disz)	_	:	16	nummod	
+31	sa	bundel	NN	32	compound	
+32	szum2	onions	NNS	20	appos	
+33	ha-ba-ad	Habad	NNP	16	_	
+34	gaba-ta	gaba-ta	NN	33	appos	
+35	3(disz)	_	,	37	nummod	
+36	sila3	sila	NN	37	compound	
+37	kasz	beer	NN	16	_	
+38	2(disz)	_	CD	43	nummod	
+39	sila3	sila	NN	40	compound	
+40	ninda	bread	NN	37	appos	
+41	2(disz)	_	,	37	nummod	
+42	gin2	shekels	NNS	43	compound	
+43	i3	oil	NN	37	appos	
+44	2(disz)	_	CD	49	nummod	
+45	gin2	shekels	NNS	46	nmod:npmod	
+46	naga	alkali-plant	JJ	37	amod	
+47	1(disz)	_	:	16	nummod	
+48	sa	bundel	NN	49	compound	
+49	szum2	onions	NNS	37	appos	
+50	kur-bi-la-ak	Kurbilak	NNP	16	_	
+51	ka-us2-sa2	kausa	NN	50	appos	
+52	szunigin	total	NN	2	_	
+53	1(ban2)	ban	NN	52	nummod	
+54	la2	less	JJR	57	advmod	
+55	1(disz)	_	,	61	nummod	
+56	sila3	sila	NN	57	compound	
+57	kasz	beer	NN	53	_	
+58	szunigin	total	NN	57	appos	
+59	6(disz)	_	_	0	nummod	
+60	sila3	sila	NN	61	compound	
+61	ninda	bread	NN	57	_	
+62	szunigin	total	NN	61	appos	
+63	6(disz)	ban	NN	61	nummod	
+64	gin2	_	,	69	_	
+65	i3	less	JJR	63	advmod	
+66	szunigin	total	NN	63	appos	
+67	6(disz)	_	_	0	nummod	
+68	gin2	shekels	NNS	69	nmod:npmod	
+69	naga	alkali-plant	JJ	63	_	
+70	szunigin	total	JJ	69	_	
+71	3(disz)	_	:	69	nummod	
+72	sa	bundles	NNS	73	compound	
+73	szum2	onions	NNS	69	_	
+74	u4	th day	NN	69	_	
+75	2(u)-kam	_	,	74	nummod	
+76	iti	month	NN	74	appos	
+77	sze-sag11-ku5	Harvest	NNP	63	_	
+78	mu	year	NN	77	_	
+79	us2-sa	after	IN	78	nmod:after	
+80	bad3	_	.	2	_	
+81	mar-tu	Martu-Wall	NNP	82	nsubjpass	
+82	ba-du3	was erected	VBN	77	acl
+	
+

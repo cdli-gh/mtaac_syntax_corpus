@@ -1,0 +1,19 @@
+# dev/P430134.atf
+						
+
+# tr.en: Szu-Suen strong king king of Ur king of heaven with its four corners Ayakalla governor of Umma your servant
+1	{d}szu-{d}suen	Szu-Suen	NNP	0	root	
+2	lugal	king	NN	1	appos	
+3	kal-ga	strong	JJ	2	amod	
+4	lugal	king	NN	1	appos	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an	four	CD	9	nummod	
+8	ub-da	heaven	NN	6	nmod:of	
+9	limmu2-ba	with its corners	NNS	6	nmod:with	
+10	a-a-kal-la	Ayakalla	NNP	1	_	
+11	ensi2	governor	NN	10	appos	
+12	umma{ki}	of Umma	NNP	11	nmod:of	
+13	ARAD2-zu	your servant	NN	10	appos
+	
+

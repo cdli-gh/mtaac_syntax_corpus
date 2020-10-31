@@ -1,0 +1,52 @@
+# dev/P134336.atf
+						
+
+# tr.en: shekel silver labor of Ur-Ikur from Lugal-azida did Geme-Nungal and Szu-durul her son receive before Ur-Ikur before son of Ur-Suen before Lu-Ikur before Tulta son of Lugal-egal if there is a work loss barley sila per will be measured out did he royal name invoke month Harvest year Big-Barge of Enlil was caulked Szutul son of Geme-Nungal Geme-Ningal son of Bagina
+1	1(disz)	_	,	3	nummod	
+2	gin2	shekel	NN	3	compound	
+3	ku3-babbar	silver	NN	13	nsubj	
+4	a2	labor	NN	3	appos	
+5	ur-{d}iszkur	Ur-Ikur	NNP	4	nmod:of	
+6	ki	_	_	0	_	
+7	lugal-a2-zi-da-ta	from Lugal-azida	NN	3	nmod:from	
+8	geme2-{d}nun-gal-ke4	did Geme-Nungal	VBD	13	aux	
+9	u3	and	CC	13	cc	
+10	szu-dur-ul3	Szu-durul	NN	13	conj	
+11	dumu-ni	her son	NN	13	appos	
+12	szu	_	:	13	_	
+13	ba-ti-esz2	receive	VBP	0	root	
+14	igi	before	IN	15	nmod:before	
+15	ur-{d}iszkur	Ur-Ikur	NNP	34	nmod:before	
+16	igi	before	IN	17	nmod:before	
+17	dumu	son	NN	15	nmod:before	
+18	ur-{d}suen	Ur-Suen	NNP	17	nmod:of	
+19	igi	before	IN	20	nmod:before	
+20	lu2-{d}iszkur	Lu-Ikur	NNP	15	nmod:before	
+21	igi	before	IN	22	nmod:before	
+22	tul2-ta	Tulta	NNP	15	nmod:before	
+23	dumu	son	NN	15	appos	
+24	lugal-he2-gal2	Lugal-egal	JJ	23	nmod:of	
+25	tukum-bi	if	IN	27	mark	
+26	ga2-la	there	EX	27	expl	
+27	ba-dag	is a work loss	VBZ	23	advcl	
+28	sze	barley	NN	27	appos	
+29	6(disz)	_	,	15	nummod	
+30	sila3-ta	sila	NN	27	appos	
+31	a-ag2-dam	per will be measured out	VBN	30	acl:relcl	
+32	mu	_	:	13	_	
+33	lugal-bi	he royal name	PRP	34	dobj	
+34	in-pa3	did invoke	VB	13	parataxis	
+35	iti	month	NN	13	parataxis	
+36	sze-sag11-ku5	Harvest	NNP	35	_	
+37	mu	year	NN	36	_	
+38	ma2-gur8-mah	Big-Barge	NNP	40	nsubjpass	
+39	{d}en-lil2-la2	Enlil	NNP	38	nmod:of	
+40	ba-ab-du8	was caulked	VBN	36	acl	
+41	szu-tu-ul	Szutul	NNP	36	_	
+42	dumu	son	NN	41	appos	
+43	geme2-{d}nun-gal	Geme-Nungal	NNP	42	nmod:of	
+44	geme2-{d}nin-gal	Geme-Ningal	NNP	43	appos	
+45	dumu	son	NN	43	appos	
+46	ba-gi-na	Bagina	NNP	45	nmod:of
+	
+

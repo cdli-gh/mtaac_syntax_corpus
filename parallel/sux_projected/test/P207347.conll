@@ -1,0 +1,20 @@
+# test/P207347.atf
+						
+
+# tr.en: Basket-of-tablets long-tablets shepherds of fat-tailed sheep from en- of Eridu to house of Szara in Umma was erected year xxx are here
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub-gid2-da	long-tablets	NNS	14	nsubj	
+3	sipa	shepherds	NNS	2	appos	
+4	gukkal	fat-tailed sheep	NN	3	nmod:of	
+5	en	_	''	10	_	
+6	eridu{ki}-ta	from en- Eridu	IN	11	nmod:from	
+7	e2	house	NN	10	nmod:to	
+8	{d}szara2	Szara	NNP	7	nmod:of	
+9	umma{ki}-ka	in Umma	NNP	7	nmod:in	
+10	ba-du3-sze3	to was erected	VBN	11	acl	
+11	mu	year	NN	2	nmod:from	
+12	1(u)	_	``	11	nummod	
+13	1(disz)-kam	_	.	12	nummod	
+14	i3-gal2	are here	RB	1	_
+	
+

@@ -1,0 +1,24 @@
+# train/P273505.atf
+						
+
+# tr.en: sheep in place of ewes billy goats in place of female kids from Abbasaga Ur-Ninsaza received Month uea year en-priest of Eridu was installed
+1	2(u)	_	,	6	nummod	
+2	udu	sheep	NN	6	nsubj	
+3	mu	_	CD	6	nummod	
+4	u8-sze3	in place ewes	NN	6	nmod:in	
+5	1(u)	_	,	6	nummod	
+6	masz2	billy goats	NNS	0	root	
+7	mu	_	_	0	_	
+8	{munus}asz2-gar3-sze3	in place female kids	NN	6	nmod:in	
+9	ki	from	IN	10	nmod:from	
+10	ab-ba-sa6-ga-ta	Abbasaga	NNP	6	nmod:from	
+11	ur-{d}nin-sa-za	Ur-Ninsaza	NNP	12	nsubj	
+12	i3-dab5	received	VBD	10	acl:relcl	
+13	iti	Month	NNP	15	compound	
+14	szu-esz-sza	_	``	13	_	
+15	mu	year	NN	12	nmod:tmod	
+16	en	en-priest	NN	18	nsubjpass	
+17	eridu{ki}	Eridu	NNP	16	nmod:of	
+18	ba-hun	was installed	VBN	6	ccomp
+	
+

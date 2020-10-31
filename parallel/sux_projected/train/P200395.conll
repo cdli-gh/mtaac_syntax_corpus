@@ -1,0 +1,42 @@
+# train/P200395.atf
+						
+
+# tr.en: gur barig of barley its workmen five days for harvesting barley its sag will be brought in from S shepherd Zumakum ploughman has received Instead of Zumakum sealed tablet of Beli-rei ploughman Antalu Ur-Szulpae leatherworker Adalal are its witnesses Year Szu-Suen king of Ur destroyed lands of Zabali
+1	1(asz)	_	_	0	nummod	
+2	3(barig)	barig	NN	4	nummod	
+3	sze	barley	NN	2	nmod:of	
+4	gur	gur	NN	0	root	
+5	gurusz-bi	its workmen five	NNS	2	_	
+6	5(disz)	_	:	4	nummod	
+7	u4	days	NNS	4	_	
+8	1(disz)-sze3	_	_	0	nummod	
+9	sze	barley	NN	10	dobj	
+10	gur10-de3	for harvesting	VBG	4	acl	
+11	sag-bi	its	PRP$	12	nmod:poss	
+12	gi4-gi4-dam	sag will be brought in	VBN	9	acl:relcl	
+13	ki	from	IN	14	nmod:from	
+14	SI-A-a	S	NNP	12	nmod:from	
+15	na-gada-ta	shepherd	NN	19	nsubj	
+16	zu-ma-ku-um	Zumakum	NN	15	conj	
+17	engar	ploughman	NN	15	appos	
+18	szu	has	VBZ	19	aux	
+19	ba-ti	received	VBN	14	acl:relcl	
+20	mu	_	,	19	_	
+21	zu-ma-ku-um-sze3	Instead Zumakum	RB	19	advmod	
+22	kiszib3	sealed tablet	NN	19	dobj	
+23	be-li2-sipa	Beli-rei	NN	22	nmod:of	
+24	engar	ploughman	NN	29	nsubj	
+25	an-ta-lu2	Antalu	NNP	24	_	
+26	ur-{d}szul-pa-e3	Ur-Szulpae	NNP	24	appos	
+27	aszgab	leatherworker	NN	24	appos	
+28	a-da-lal3	Adalal	NNP	24	appos	
+29	lu2-inim-ma-bi-me	are its witnesses	NNS	23	acl:relcl	
+30	mu	Year	NN	29	_	
+31	{d}szu-{d}suen	Szu-Suen	NNP	36	nsubj	
+32	lugal	king	NN	31	appos	
+33	uri5{ki}-ma	Ur	NN	32	nmod:of	
+34	ma-da	lands	NNS	36	dobj	
+35	za-ab-sza-li-im	Zabali	NNP	34	nmod:of	
+36	mu-hul-a	destroyed	VBD	4	acl
+	
+

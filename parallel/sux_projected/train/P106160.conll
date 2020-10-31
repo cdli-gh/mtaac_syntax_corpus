@@ -1,0 +1,26 @@
+# train/P106160.atf
+						
+
+# tr.en: Basket-of-tablets debits and credits goods from Intaea from month Gazelle-feast to extra month Festival-of-Mekigal following one months year Simanum was destroyed are here
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	sag-nig2-gur11-ra	debits	NNS	1	_	
+3	u3	and	CC	2	cc	
+4	zi-ga	credits	NNS	2	conj	
+5	gur11-gur11-ra-a	goods	NNS	2	conj	
+6	ki	from	IN	7	nmod:from	
+7	in-ta-e3-a-<ta>	Intaea	NNP	2	nmod:from	
+8	iti	month	NN	2	nmod:from	
+9	masz-da3-gu7-ta	from Gazelle-feast	IN	8	nmod:from	
+10	iti	month	NN	2	nmod:to	
+11	diri	extra	JJ	10	amod	
+12	ezem-me-ki-gal2-e	to following	TO	10	nmod:to	
+13	us2-sa-sze3	Festival-of-Mekigal one	NNP	2	_	
+14	iti	months	NNS	2	appos	
+15	1(u)	_	,	2	nummod	
+16	2(disz)-kam	_	_	15	nummod	
+17	mu	year	NN	2	appos	
+18	si-ma-num2{ki}	Simanum	NNP	19	nsubjpass	
+19	ba-hul	was destroyed	VBN	2	acl	
+20	i3-gal2	are here	RB	19	advmod
+	
+

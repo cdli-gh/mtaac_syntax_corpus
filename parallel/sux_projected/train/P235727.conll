@@ -1,0 +1,27 @@
+# train/P235727.atf
+						
+
+# tr.en: barig of ration barley royal for Nin-urani from Nabasa sealed tablet of Adaga Month Sowing year Nanna priest was found via extispicy Ur-Lisi governor of Umma Adaga the scribe is your servant
+1	2(barig)	barig	NN	0	nummod	
+2	sze-ba	ration barley	NN	3	compound	
+3	lugal	royal	NN	1	nmod:of	
+4	nin-ur2-ra-ni	for Nin-urani	NNS	1	nmod:for	
+5	ki	from	IN	6	nmod:from	
+6	na-ba-sa2-ta	Nabasa	NNP	4	nmod:from	
+7	kiszib3	sealed tablet	NN	1	appos	
+8	a-da-ga	Adaga	NNP	7	nmod:of	
+9	iti	Month	NNP	1	_	
+10	szu-numun	Sowing	NN	9	_	
+11	mu	year	NN	10	appos	
+12	en	priest	NN	15	nsubjpass	
+13	{d}nanna	Nanna	NNP	12	compound	
+14	masz-e	via extispicy	NN	15	nmod:via	
+15	i3-pa3	was found	VBN	10	acl	
+16	ur-{d}li9-si4	Ur-Lisi	NNP	1	_	
+17	ensi2	governor	NN	16	appos	
+18	umma{ki}	of Umma	NNP	16	nmod:of	
+19	a-da-ga	Adaga	NNP	21	nsubj	
+20	dub-sar	the scribe	NN	19	appos	
+21	ARAD2-zu	is your servant	NN	16	parataxis
+	
+

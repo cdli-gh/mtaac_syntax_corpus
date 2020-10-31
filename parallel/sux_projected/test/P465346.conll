@@ -1,0 +1,22 @@
+# test/P465346.atf
+						
+
+# tr.en: Szu-Suen strong king king of Ur king of four quarters Gudea sukkal son of Gududu royal sukkal your servant
+1	{d}szu-{d}suen	Szu-Suen	NNP	0	root	
+2	lugal	king	NN	1	appos	
+3	kal-ga	strong	JJ	2	amod	
+4	lugal	king	NN	1	appos	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an	four	CD	9	nummod	
+8	ub-da	_	:	1	_	
+9	limmu2-ba	quarters	NNS	6	nmod:of	
+10	gu3-de2-a	Gudea	NNP	1	_	
+11	sukkal	sukkal	NN	10	appos	
+12	dumu	son	NN	10	appos	
+13	gu-du-du	Gududu	NNP	12	nmod:of	
+14	sukkal	sukkal	NN	13	appos	
+15	lugal-ka	royal	JJ	14	amod	
+16	ARAD2-zu	your servant	NN	13	appos
+	
+

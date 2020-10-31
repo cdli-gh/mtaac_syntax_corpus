@@ -1,0 +1,28 @@
+# test/P105395.atf
+						
+
+# tr.en: Basket-of-tablets accounts of barley silver copper of exchange agents and foremen of weavers Dadaga Ur-lu gudu officiant Naua Ur-Nintu Dingira Szesaga Kas cattle administrator Gurzan -dar Lugal-ebansa
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	nig2-ka9	accounts	NNS	1	_	
+3	sze	barley	NN	2	nmod:of	
+4	ku3	silver	NN	3	conj	
+5	uruda	copper	NN	3	conj	
+6	x	_	:	3	dep	
+7	dam-gar3	exchange agents and	NNS	3	nmod:of	
+8	ugula	foremen	NNS	7	conj	
+9	usz-bar	weavers	NNS	7	nmod:of	
+10	x	_	_	0	dep	
+11	da-da-ga	Dadaga	NNP	3	_	
+12	ur-{d}lu	Ur-lu officiant	NN	11	conj	
+13	gudu4	gudu	NN	11	compound	
+14	na-u2-a	_	,	11	_	
+15	ur-{d}nin-tu	Ur-Nintu	NNP	11	conj	
+16	dingir-ra	Dingira	NNP	11	conj	
+17	szesz-saga	Szesaga	NNP	18	compound	
+18	kas4	Kas	NNP	11	conj	
+19	szusz3	cattle administrator	NN	11	conj	
+20	gur8-za-an	Gurzan	NN	11	conj	
+21	x-dar	_	,	11	_	
+22	lugal-e-ba-an-sa6	Lugal-ebansa	NN	11	appos
+	
+

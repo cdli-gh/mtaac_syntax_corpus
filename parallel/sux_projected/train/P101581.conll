@@ -1,0 +1,50 @@
+# train/P101581.atf
+						
+
+# tr.en: Szekala Ur-Gigir son of Guzzani Lu-Szara son of Lugal-itida son of NI-x-ari Guzzani son of Nin-Urda SIG-a Lu-Alamu x x Seized runaways in prison residing month House-month- st day of has passed year Szu-Suen king erected big-stela Atu scribe Son of Nigar-kidu The police chief
+1	1(disz)	_	NN	2	nummod	
+2	szesz-kal-la	Szekala	NN	0	root	
+3	1(disz)	_	,	2	nummod	
+4	ur-{gesz}gigir	Ur-Gigir	NNP	2	appos	
+5	dumu	son	NN	2	appos	
+6	{gesz}guzza-ni-me	of Guzzani	NNP	5	nmod:of	
+7	1(disz)	_	,	6	nummod	
+8	lu2-{d}szara2	Lu-Szara	NN	6	appos	
+9	dumu	son	NN	6	appos	
+10	lugal-iti-da	Lugal-itida	NN	9	nmod:of	
+11	dumu	son	NN	6	appos	
+12	i3-x-sza-ri2	NI-x-ari	NN	11	nmod:of	
+13	1(disz)	_	,	16	nummod	
+14	{gesz}guzza-ni	Guzzani	NNP	6	appos	
+15	dumu	son	NN	6	appos	
+16	{d}nin-ur4-da	Nin-Urda	NNP	15	nmod:of	
+17	SIG7-a	SIG-a	NN	16	conj	
+18	1(disz)	_	_	0	nummod	
+19	lu2-{d}alamusz	Lu-Alamu	NN	16	conj	
+20	bar-ra	x x	CC	16	cc	
+21	gub-ba	_	_	0	_	
+22	lu2	_	NN	16	conj	
+23	zah3	_	,	6	_	
+24	dab5-ba	_	_	0	_	
+25	x-x	Seized runaways	VBN	22	dep	
+26	en-nu-ga2	in prison	IN	27	nmod:in	
+27	ti-la	residing	NN	2	nmod:in	
+28	iti	month	NN	29	_	
+29	e2-iti-6(disz)	House-month-	NN	2	_	
+30	...	_	:	34	dep	
+31	u4	_	''	29	_	
+32	2(u)	_	_	0	nummod	
+33	1(disz)-am3	_	_	32	nummod	
+34	ba-ra-zal	has passed	VBN	29	acl:relcl	
+35	mu	year	NN	34	_	
+36	{d}szu-{d}suen	Szu-Suen	NNP	35	_	
+37	lugal-e	king	NN	36	appos	
+38	na-ru2-a-mah	erected	VBN	39	amod	
+39	in-du3	big-stela	NN	36	appos	
+40	a-tu	Atu	NNP	2	_	
+41	dub-sar	scribe	NN	40	appos	
+42	dumu	_	,	40	_	
+43	nigar{gar}-ki-du10	Son Nigar-kidu	NNP	40	appos	
+44	gal5-la2-gal	The police chief	NN	40	appos
+	
+

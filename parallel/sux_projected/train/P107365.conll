@@ -1,0 +1,25 @@
+# train/P107365.atf
+						
+
+# tr.en: Basket-of-tablets pouches credits sealed documents of Lugal-itida with Abbasaga from month Gazelle-feast to month Harvest months year Amar-Suen king Szaru destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	{kusz}du10-gan	pouches	NNS	1	_	
+3	zi-ga	credits	NNS	2	conj	
+4	kiszib3	sealed documents	NNS	2	conj	
+5	lugal-iti-da	Lugal-itida	NN	4	nmod:of	
+6	ki	with	IN	7	nmod:with	
+7	ab-ba-sa6-ga	Abbasaga	NNP	2	nmod:with	
+8	iti	month	NN	2	nmod:from	
+9	masz-da3-gu7-ta	from Gazelle-feast	IN	8	nmod:from	
+10	iti	month	NN	2	nmod:to	
+11	sze-sag11-ku5-sze3	to Harvest	TO	10	nmod:to	
+12	iti	months	NNS	2	_	
+13	1(u)	_	,	2	nummod	
+14	2(disz)-kam	_	_	13	nummod	
+15	mu	year	NN	2	_	
+16	{d}amar-{d}suen	Amar-Suen	NNP	2	_	
+17	lugal-e	king	NN	16	appos	
+18	sza-asz-ru{ki}	Szaru	NN	19	nsubj	
+19	mu-hul	destroyed	VBD	16	acl:relcl
+	
+

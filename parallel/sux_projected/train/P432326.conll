@@ -1,0 +1,15 @@
+# train/P432326.atf
+						
+
+# tr.en: one quart beer ten
+1	'.	_	,	4	_	
+2	1(disz)	_	_	0	nummod	
+3	sila3	one	CD	4	nummod	
+4	kasz	beer	NN	0	root	
+5	...	quart	NN	4	dep	
+6	'.	_	NN	4	appos	
+7	1(u)	_	_	0	nummod	
+8	x	_	_	0	dep	
+9	...	ten	CD	6	dep
+	
+

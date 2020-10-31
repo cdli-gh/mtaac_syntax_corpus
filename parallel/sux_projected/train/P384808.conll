@@ -1,0 +1,32 @@
+# train/P384808.atf
+						
+
+# tr.en: suckling male lambs suckling female lambs suckling male kids suckling female kid newborns th day Szulgi-ayamu received month Harvest year Amar Suen king
+1	1(u)	_	,	3	nummod	
+2	5(disz)	_	CD	6	nummod	
+3	sila4	male lambs	NNS	0	root	
+4	ga	suckling	VBG	3	amod	
+5	2(disz)	_	,	3	nummod	
+6	kir11	female lambs	NNS	3	conj	
+7	ga	suckling	NN	6	compound	
+8	4(disz)	_	,	3	nummod	
+9	masz2	male kids	NNS	3	conj	
+10	ga	suckling	NN	9	compound	
+11	1(disz)	_	,	3	nummod	
+12	{munus}asz2-gar3	female kid	NN	3	conj	
+13	ga	suckling	NN	12	compound	
+14	u3-tu-da	newborns	NNS	3	conj	
+15	u4	th day	NN	19	nmod:tmod	
+16	2(u)	_	,	19	nummod	
+17	4(disz)-kam	_	_	16	nummod	
+18	{d}szul-gi-a-a-mu	Szulgi-ayamu	NN	19	nsubj	
+19	i3-dab5	received	VBD	3	parataxis	
+20	iti	month	NN	22	compound	
+21	sze-sag11-ku5	Harvest	NNP	20	_	
+22	mu	year	NN	19	_	
+23	{d}amar-{d}suen	Amar Suen	NNP	24	compound	
+24	lugal	king	NN	22	_	
+25	2(u)	_	NN	0	nummod	
+26	2(disz)	_	.	25	nummod
+	
+

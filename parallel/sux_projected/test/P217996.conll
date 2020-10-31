@@ -1,0 +1,24 @@
+# test/P217996.atf
+						
+
+# tr.en: kid-mats the extent from Ur-Szulpae under seal of Lugal-nig-lagare month Sowing year priest of Eridu was installed Lugal-siNEe scribe son of Ur-Enunna
+1	2(disz)	_	,	2	nummod	
+2	{gi}kid	kid-mats	NNS	0	root	
+3	ki-la2-bi	the extent	NN	2	appos	
+4	2/3(disz)	_	:	2	nummod	
+5	ki	from	IN	6	nmod:from	
+6	ur-{d}szul-pa-e3-ta	Ur-Szulpae	NN	2	nmod:from	
+7	kiszib3	under seal	NN	10	nmod:under	
+8	lugal-nig2-lagar-e	Lugal-nig-lagare	NN	7	nmod:of	
+9	iti	month	NN	10	compound	
+10	szu-numun	Sowing	NN	11	_	
+11	mu	year	NN	6	_	
+12	en	priest	NN	14	nsubjpass	
+13	eridu{ki}	Eridu	NNP	12	nmod:of	
+14	ba-hun	was installed	VBN	2	acl	
+15	lugal-si-NE-e	Lugal-siNEe	NN	14	_	
+16	dub-sar	scribe	NN	15	conj	
+17	dumu	son	NN	15	appos	
+18	ur-e2-nun-na	Ur-Enunna	NNP	17	nmod:of
+	
+

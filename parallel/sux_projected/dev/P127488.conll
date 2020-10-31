@@ -1,0 +1,30 @@
+# dev/P127488.atf
+						
+
+# tr.en: grain-fed ram throne of high-priestess via Nur-Suen cup-bearer Babanen responsible official of month days elapsed from Szulgi-ayamu booked out month Gazelle feast year Szaru was destroyed
+1	1(disz)	_	DT	4	nummod	
+2	udu	ram	NN	0	root	
+3	niga	grain-fed	JJ	2	amod	
+4	{gesz}gu-za	throne	NN	2	_	
+5	en-na	high-priestess	NN	4	nmod:of	
+6	giri3	via	IN	7	nmod:via	
+7	nu-ur2-{d}suen	Nur-Suen	NNP	2	nmod:via	
+8	sagi	cup-bearer	NN	2	appos	
+9	ba-ba-an-sze-en	Babanen	NNP	10	compound	
+10	maszkim	responsible official	NN	8	_	
+11	iti	month	NN	8	nmod:of	
+12	u4	days	NNS	15	nmod:npmod	
+13	1(u)	_	:	8	nummod	
+14	5(disz)	_	_	13	nummod	
+15	ba-zal	elapsed	VBN	11	acl	
+16	ki	from	IN	17	nmod:from	
+17	{d}szul-gi-a-a-mu-ta	Szulgi-ayamu	NN	8	nmod:from	
+18	ba-zi	booked out	VBN	17	acl	
+19	iti	month	NN	8	_	
+20	masz-da3-gu7	Gazelle feast	NN	8	_	
+21	mu	year	NN	8	_	
+22	sza-asz-ru{ki}	_	``	8	_	
+23	ba-hul	was destroyed	VBD	24	auxpass	
+24	1(disz)	was destroyed	VBN	8	nummod
+	
+

@@ -1,0 +1,32 @@
+# train/P315604.atf
+						
+
+# tr.en: iku field area ee iku field area ee field area iku field area field area
+1	...	_	_	0	dep	
+2	ki	_	_	0	_	
+3	...	_	_	0	dep	
+4	5(iku)	_	_	0	nummod	
+5	GAN2	_	_	0	_	
+6	...	_	_	0	dep	
+7	x	_	_	0	dep	
+8	...	_	_	0	dep	
+9	...	_	_	0	dep	
+10	4(iku)	_	_	0	nummod	
+11	GAN2	iku field area	NN	0	root	
+12	...	_	NN	19	dep	
+13	1(esze3)	_	_	0	nummod	
+14	4(iku)	_	CD	19	nummod	
+15	GAN2	ee iku field area	NN	8	_	
+16	x	_	_	0	dep	
+17	...	_	NN	22	dep	
+18	1(esze3)	_	_	0	nummod	
+19	GAN2	ee field area	NN	15	_	
+20	...	_	NN	26	dep	
+21	5(iku)	_	_	0	nummod	
+22	GAN2	iku field area	NN	19	_	
+23	x	_	NN	26	dep	
+24	...	_	_	0	dep	
+25	...	_	NN	8	dep	
+26	GAN2	field area	NN	22	_
+	
+

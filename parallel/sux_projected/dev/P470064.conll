@@ -1,0 +1,32 @@
+# dev/P470064.atf
+						
+
+# tr.en: gur barley regular offering for Szara from Gu-edina from Egalesi did ala receive from month Harvest to month First-fruit offering year after Szaru was destroyed ala son of Lugal-ema brewer of Szara
+1	9(asz)	_	_	0	nummod	
+2	sze	barley	NN	6	compound	
+3	gur	gur	NN	6	compound	
+4	sa2-du11	regular	JJ	6	amod	
+5	{d}szara2	Szara	NNP	6	compound	
+6	szu-palil2	offering for	NN	12	nsubj	
+7	gu2-edin-na-ta	from Gu-edina	NN	6	nmod:from	
+8	ki	from	IN	9	nmod:from	
+9	e2-gal-e-si-<ta>	Egalesi	NN	7	nmod:from	
+10	ha-la	did ala	VBD	12	aux	
+11	szu	_	:	12	_	
+12	ba-ti	receive	VB	0	root	
+13	iti	month	NN	12	nmod:from	
+14	sze-sag11-ku5-ta	from Harvest	IN	13	nmod:from	
+15	iti	month	NN	13	nmod:to	
+16	nesag-sze3	to First-fruit offering	TO	15	nmod:to	
+17	mu	year	NN	13	_	
+18	us2-sa	after	IN	17	nmod:after	
+19	sza-asz-ru{ki}	_	``	13	_	
+20	ba-hul	was destroyed	VBN	13	acl	
+21	ha-la	_	,	12	_	
+22	dumu	son	NN	12	appos	
+23	lugal-e2-mah	Lugal-ema	NN	22	nmod:of	
+24	lu2	_	.	12	_	
+25	lunga	brewer	NN	12	appos	
+26	{d}szara2	Szara	NN	25	nmod:of
+	
+

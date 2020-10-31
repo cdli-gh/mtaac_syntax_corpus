@@ -1,0 +1,89 @@
+# train/P416437.atf
+						
+
+# tr.en: sheep barley-fed of th grade sheep barley-fed for Inanna in n bucks in Ur sheep barley-fed sheep barley-fed for Enki sheep barley-fed at Dublama in Eridu Atu rider responsible official sheep barley-fed for Inanna of Uruk Auni cupbearer responsible official of month day elapsed from Nalu booked out in Ur month Festival of An year high-priestess of Nanna in Karzida was hired Amar-Suen strong king king of Ur king of four quarters Ur-Szulpae scribe son of Ur-aya your servant
+1	2(disz)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	barley-fed	JJ	2	amod	
+4	4(disz)-kam	_	CD	7	nummod	
+5	us2	th grade	NN	2	nmod:of	
+6	2(disz)	_	,	7	nummod	
+7	udu	sheep	NN	2	appos	
+8	niga	barley-fed	JJ	7	amod	
+9	{d}inanna	for Inanna	NNP	7	nmod:for	
+10	sza3	_	NN	7	nmod:in	
+11	x	_	_	0	dep	
+12	x	_	_	0	dep	
+13	x	_	_	0	dep	
+14	lugal-ki-x	in	IN	10	nmod:in	
+15	n	_	:	7	_	
+16	masz2	bucks	NNS	7	_	
+17	x	_	_	0	dep	
+18	...	_	_	0	dep	
+19	x	_	_	0	dep	
+20	UD	_	NN	0	root	
+21	x	_	_	0	dep	
+22	lugal	_	,	20	_	
+23	x	_	CD	16	dep	
+24	sza3	in	IN	25	nmod:in	
+25	uri5{ki}-ma	Ur	NN	19	nmod:in	
+26	2(disz)	_	,	27	nummod	
+27	udu	sheep	NN	16	_	
+28	niga	barley-fed	JJ	27	amod	
+29	3(disz)	_	_	0	nummod	
+30	...	_	NN	27	appos	
+31	2(disz)	_	,	34	nummod	
+32	udu	sheep	NN	27	appos	
+33	niga	barley-fed	JJ	27	appos	
+34	{d}en-ki	for Enki	NNP	27	nmod:for	
+35	1(disz)	_	,	34	nummod	
+36	udu	sheep	NN	34	appos	
+37	niga	barley-fed	JJ	34	appos	
+38	dub-la-mah	at Dublama	NNP	34	nmod:at	
+39	sza3	in	IN	40	nmod:in	
+40	eridu{ki}-ga	Eridu	NNP	34	nmod:in	
+41	a-tu	Atu	NNP	40	appos	
+42	ra2-gaba	rider	NN	34	_	
+43	maszkim	responsible official	NN	27	appos	
+44	2(disz)	_	NNP	48	nummod	
+45	udu	sheep	NN	27	conj	
+46	niga	barley-fed	JJ	45	amod	
+47	{d}inanna	for Inanna	NNP	45	nmod:for	
+48	unu{ki}	Uruk	NNP	47	nmod:of	
+49	a-hu!-ni	_	,	48	_	
+50	sagi	cupbearer	NN	48	conj	
+51	maszkim	responsible official	NN	48	appos	
+52	iti	month	NN	27	nmod:of	
+53	u4	day	NN	52	appos	
+54	1(u)	_	,	52	nummod	
+55	la2	_	_	54	_	
+56	1(disz@t)	_	_	55	nummod	
+57	ba-zal	elapsed	VBN	52	acl	
+58	ki	from	IN	59	nmod:from	
+59	na-lu5-ta	Nalu	NNP	52	nmod:from	
+60	ba-zi	booked out	VBD	59	acl	
+61	sza3	in	IN	62	nmod:in	
+62	uri5{ki}-ma	Ur	NN	60	nmod:in	
+63	iti	month	NN	65	compound	
+64	ezem-an-na	Festival	NNP	65	nsubj	
+65	mu	year	NN	7	_	
+66	en	high-priestess	NN	69	nsubjpass	
+67	{d}nanna	Nanna	NNP	66	nmod:of	
+68	kar-zi-da	in Karzida	NNP	66	nmod:in	
+69	ba-hun	was hired	VBN	65	acl	
+70	{d}amar-{d}suen	Amar-Suen	NNP	20	_	
+71	lugal	king	NN	70	appos	
+72	kal-ga	strong	JJ	71	amod	
+73	lugal	king	NN	70	appos	
+74	uri5{ki}-ma	Ur	NN	73	nmod:of	
+75	lugal	king	NN	70	appos	
+76	an	four	CD	78	nummod	
+77	ub-da	_	:	70	_	
+78	limmu2-ba	quarters	NNS	75	nmod:of	
+79	ur-{d}szul-pa-e3	Ur-Szulpae	NN	70	compound	
+80	dub-sar	scribe	NN	70	appos	
+81	dumu	son	NN	80	appos	
+82	ur-{d}ha-ia3	Ur-aya	NNP	81	nmod:of	
+83	ARAD2-zu	your servant	NN	80	appos
+	
+

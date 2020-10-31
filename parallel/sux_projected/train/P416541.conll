@@ -1,0 +1,34 @@
+# train/P416541.atf
+						
+
+# tr.en: workdays male laborers leveled sheaves piled grain harvested in New Field and Priests Field foreman Basa under seal of Inim-Inanna year after Amar-Suen is king Inim-Inanna son of Lugal-itida
+1	6(gesz2)	_	:	4	nummod	
+2	5(u)	_	_	1	nummod	
+3	7(disz)	_	_	1	nummod	
+4	gurusz	workdays male laborers	NNS	0	root	
+5	u4	_	_	0	_	
+6	1(disz)-sze3	_	_	0	nummod	
+7	szu-ur3-ra	leveled	VBD	9	acl	
+8	zar3	sheaves	VBZ	9	auxpass	
+9	tab-ba	piled	VBN	4	acl	
+10	u3	_	_	0	_	
+11	sze	grain	NN	9	conj	
+12	gur10-a	harvested	VBN	11	acl	
+13	a-sza3	in	IN	17	nmod:in	
+14	gibil	New	NNP	17	compound	
+15	u3	and	CC	17	cc	
+16	a-sza3	_	:	9	_	
+17	iszib-e-ne	Field Priests Field	NNP	12	nmod:in	
+18	ugula	foreman	NN	9	_	
+19	ba-sa6	Basa	NNP	18	_	
+20	kiszib3	under seal	NN	19	root	
+21	inim-{d}inanna	Inim-Inanna	NNP	20	nmod:of	
+22	mu	year	NN	25	_	
+23	us2-sa	after	IN	22	advmod	
+24	{d}amar-{d}suen	Amar-Suen is	NNP	25	nsubj	
+25	lugal	king	NN	20	parataxis	
+26	inim-{d}inanna	Inim-Inanna	NNP	20	_	
+27	dumu	son	NN	26	appos	
+28	lugal-iti-da	Lugal-itida	NN	27	nmod:of
+	
+

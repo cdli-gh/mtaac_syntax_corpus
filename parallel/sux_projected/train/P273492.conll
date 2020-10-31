@@ -1,0 +1,42 @@
+# train/P273492.atf
+						
+
+# tr.en: skin sheep From Szesaga via Szarrum-il messenger under seal of Ur-Ee Year silver-throne of Enlil was fashioned Ur-Ee the scribe son of Ur-Nigar
+1	1(disz)	_	,	2	nummod	
+2	kusz	skin	NN	35	_	
+3	1(disz)	_	_	0	nummod	
+4	udu	sheep	NN	2	_	
+5	ki	_	_	0	_	
+6	szesz-saga-ta	From Szesaga	IN	21	nmod:from	
+7	{gi}gur-dub	_	_	0	_	
+8	KWU543	_	_	0	_	
+9	BULUG3	_	_	0	_	
+10	sza3	From Szesaga	NNP	21	compound	
+11	kukku2	_	_	0	_	
+12	ba-a-gar	_	_	0	_	
+13	ba-a-gar	_	_	0	_	
+14	giri3	via	IN	15	nmod:via	
+15	szar-ru-um-i3(GAG)-li2(GAG)	Szarrum-il	NN	21	nmod:via	
+16	lu2	_	_	0	_	
+17	kin-gi4-<a>	messenger	NN	2	appos	
+18	bur	_	NN	0	root	
+19	ku3	_	.	18	_	
+20	mu-kux(DU)	_	NN	18	appos	
+21	 	_	_	0	_	
+22	A	_	,	19	_	
+23	x	_	_	0	dep	
+24	kiszib3	under seal	NN	16	nmod:under	
+25	ur-e11-e	Ur-Ee	NN	24	nmod:of	
+26	mu	Year	NN	24	_	
+27	ku3	_	.	19	_	
+28	gu-za	silver-throne	NN	30	nsubjpass	
+29	{d}en-lil2-la2	Enlil	NNP	28	nmod:of	
+30	ba-dim2	was fashioned	VBN	19	acl	
+31	ur-e11-e	Ur-Ee	NN	35	nsubj	
+32	dub-sar	the scribe	NN	36	root	
+33	dumu	son	NN	32	appos	
+34	ur-nigar{gar}	Ur-Nigar	NNP	33	nmod:of	
+35	 	_	LS	0	root	
+36	 	_	,	35	_
+	
+

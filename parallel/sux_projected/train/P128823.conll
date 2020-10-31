@@ -1,0 +1,33 @@
+# train/P128823.atf
+						
+
+# tr.en: heifer calf suckling male lambs suckling female lambs suckling male kids suckling female kids suckling newborns the th day with Auni month ubi-feast year Amar-Suen is king
+1	1(disz)	_	,	2	nummod	
+2	amar	calf	NN	0	root	
+3	gir	heifer	NN	2	compound	
+4	ga	suckling	NN	2	appos	
+5	5(disz)	_	,	2	nummod	
+6	sila4	male lambs	NNS	2	conj	
+7	ga	suckling	NN	2	conj	
+8	4(disz)	_	,	2	nummod	
+9	kir11	female lambs	NNS	2	conj	
+10	ga	suckling	NN	2	conj	
+11	5(disz)	_	,	2	nummod	
+12	masz2	male kids	NNS	2	conj	
+13	ga	suckling	NN	2	conj	
+14	6(disz)	_	,	2	nummod	
+15	{munus}asz2-gar3	female kids	NNS	2	conj	
+16	ga	suckling	NN	2	conj	
+17	u3-tu-da	newborns	NNS	2	conj	
+18	u4	the th day	NN	2	appos	
+19	1(u)	_	,	2	nummod	
+20	8(disz)-kam	_	_	19	nummod	
+21	ki	with	IN	22	nmod:with	
+22	a-hu-ni	Auni	NNP	2	nmod:with	
+23	iti	month	NN	24	_	
+24	u5-bi2-gu7	ubi-feast	JJ	2	_	
+25	mu	year	NN	24	_	
+26	{d}amar-{d}suen	Amar-Suen is	NNP	27	nsubj	
+27	lugal	king	NN	2	_
+	
+

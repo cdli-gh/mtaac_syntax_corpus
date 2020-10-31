@@ -1,0 +1,25 @@
+# train/P475380.atf
+						
+
+# tr.en: barig barley rations Ur-Mami from silo of Apisal from Gududu seal of Lugal-inimgina month Paue year Simanum was destroyed Lugal-inimgina son of Lugal-nesage
+1	2(barig)	barig	NN	3	nummod	
+2	sze	barley	NN	3	compound	
+3	szuku-ra	rations	NNS	0	root	
+4	ur-{d}ma-mi	Ur-Mami	NNP	3	appos	
+5	guru7	silo	NN	3	nmod:from	
+6	a-pi4-sal4{ki}-ta	from Apisal	IN	5	nmod:from	
+7	ki	from	IN	9	nmod:from	
+8	gu-du-du-ta	Gududu	FW	9	compound	
+9	kiszib3	seal	NN	3	nmod:from	
+10	lugal-inim-gi-na	Lugal-inimgina	NN	9	nmod:of	
+11	iti	month	NN	12	compound	
+12	pa4-u2-e	Paue	NN	3	_	
+13	mu	year	NN	12	_	
+14	si-ma-num{ki}	Simanum	NNP	15	nsubjpass	
+15	ba-hul	was destroyed	VBN	12	acl	
+16	lugal-inim-gi-na	Lugal-inimgina	JJ	18	amod	
+17	dub-sar	_	_	0	_	
+18	dumu	son	NN	12	_	
+19	lugal-nesag-e	Lugal-nesage	NN	18	nmod:of
+	
+

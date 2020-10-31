@@ -1,0 +1,25 @@
+# test/P406305.atf
+						
+
+# tr.en: gur barley royal fodder of sheep from Lukalla under seal of Lu-melam via Amar-uba year Szarum was destroyed Lu-melam scribe son of
+1	5(asz)	_	,	2	nummod	
+2	sze	barley	NN	0	root	
+3	gur	gur	NN	2	compound	
+4	lugal	royal	NN	2	appos	
+5	sza3-gal	fodder	NN	2	appos	
+6	udu	sheep	NN	5	nmod:of	
+7	ki	from	IN	8	nmod:from	
+8	lu2-kal-la-ta	Lukalla	NNP	2	nmod:from	
+9	kiszib3	under seal	NN	2	nmod:under	
+10	lu2-me-lam2	Lu-melam	NN	9	nmod:of	
+11	giri3	via	IN	12	nmod:via	
+12	amar-szuba3	Amar-uba	NN	2	_	
+13	mu	year	NN	15	_	
+14	sza-asz-ru-um{ki}	_	``	15	_	
+15	ba-hul	was destroyed	VBN	12	parataxis	
+16	lu2-me-lam2	Lu-melam	NN	2	_	
+17	dub-sar	scribe	NN	16	conj	
+18	dumu	son	NN	16	appos	
+19	x-x-x	of	IN	18	dep
+	
+

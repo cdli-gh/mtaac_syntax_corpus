@@ -1,0 +1,44 @@
+# test/P432171.atf
+						
+
+# tr.en: For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her
+1	{d}inanna	For Inanna	NNP	0	root	
+2	nin	the queen	NN	38	root	
+3	e2-an-na	Eanna temple	NN	2	nmod:of	
+4	nin-a-ni	his mistress	NN	2	conj	
+5	szul-gi	Szulgi	NN	2	conj	
+6	nita	the	DT	7	det	
+7	kal-ga	mighty man	NN	2	appos	
+8	lugal	king	NN	2	appos	
+9	uri5{ki}-ma	Ur	NN	8	nmod:of	
+10	lugal	king	NN	8	conj	
+11	ki-en-gi	Sumer	NNP	10	nmod:of	
+12	ki-uri-ke4	and and Akkad	CC	8	cc	
+13	e2-an-na	the Eanna	NNP	2	appos	
+14	ki-be2	he restored	VBD	13	acl:relcl	
+15	mu-na-gi4	for her	PRP	14	nmod:for	
+16	bad3	_	_	0	_	
+17	gal-bi	and its great wall	CC	2	cc	
+18	mu-na-du3	he built for her	VBD	2	acl:relcl	
+19	{d}inanna	For Inanna	NNP	2	nmod:for	
+20	nin	the queen	NN	19	appos	
+21	e2-an-na	Eanna temple	NN	20	nmod:of	
+22	nin-a-ni	his mistress	NN	19	appos	
+23	szul-gi	Szulgi	NN	19	appos	
+24	nita	the	DT	25	det	
+25	kal-ga	mighty man	NN	19	appos	
+26	lugal	king	NN	19	conj	
+27	uri5{ki}-ma	Ur	NN	26	nmod:of	
+28	lugal	king	NN	19	conj	
+29	ki-en-gi	Sumer	NNP	19	nmod:of	
+30	ki-uri-ke4	and and Akkad	CC	19	cc	
+31	e2-an-na	the Eanna	NNP	19	root	
+32	ki-be2	he restored	VBD	31	acl:relcl	
+33	mu-na-gi4	for her	PRP	32	nmod:for	
+34	bad3	_	_	0	_	
+35	gal-bi	and its great wall	CC	31	cc	
+36	mu-na-du3	he built for her	VBD	31	acl:relcl	
+37	 	_	NN	0	root	
+38	 	_	NN	37	appos
+	
+

@@ -1,0 +1,23 @@
+# test/P109045.atf
+						
+
+# tr.en: Basket-of-tablets long-tablets Nabasa smith and Ur-ugalama are here year following Sz-Suen king of Ur Amorite wall mriq-tidnim erected
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	dub	long-tablets	NNS	8	nsubj	
+3	gid2-da	_	,	2	_	
+4	na-ba-sa6	Nabasa	NN	2	conj	
+5	simug	smith	NN	2	conj	
+6	u3	and	CC	2	cc	
+7	ur-szu-ga-lam-ma	Ur-ugalama	NN	2	conj	
+8	i3-gal2	are here	RB	1	parataxis	
+9	mu	year	NN	10	_	
+10	us2-sa	following	VBG	8	acl	
+11	{d}szu-{d}suen	Sz-Suen	NNP	10	root	
+12	lugal	king	NN	11	appos	
+13	uri5{ki}-ma-ke4	Ur	NN	12	nmod:of	
+14	bad3	_	.	11	_	
+15	mar-tu	Amorite wall	NNP	16	compound	
+16	mu-ri-iq-ti-id-ni-im	mriq-tidnim	NN	17	nsubj	
+17	mu-du3	erected	VBD	11	acl:relcl
+	
+

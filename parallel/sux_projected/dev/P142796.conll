@@ -1,0 +1,26 @@
+# dev/P142796.atf
+						
+
+# tr.en: Basket-of-tablets inspections of shepherds and cowherds of Kinunir Nigin Guabba and head-plowmen of house of Ninursag are here year ari Kima were destroyed
+1	pisan-dub-ba	Basket-of-tablets	NNS	0	root	
+2	gurum2-ak	inspections	NNS	16	nsubj	
+3	sipa	shepherds	NNS	2	nmod:of	
+4	unu3	and cowherds	CC	3	cc	
+5	ki-nu-nir{ki}	Kinunir	NNP	3	nmod:of	
+6	nigin6{ki}	Nigin	NNP	5	conj	
+7	gu2-ab-ba{ki}	Guabba	NNP	5	conj	
+8	...	_	_	0	dep	
+9	x	_	_	0	dep	
+10	x	_	_	0	dep	
+11	...	_	_	0	dep	
+12	u3	and	CC	5	cc	
+13	sag-apin	head-plowmen	NN	5	conj	
+14	e2	house	NN	13	nmod:of	
+15	{d}nin-hur-sag	Ninursag	NNP	14	nmod:of	
+16	i3-gal2	are here	RB	1	_	
+17	mu	year	NN	20	_	
+18	ha-ar-szi{ki}	_	``	20	_	
+19	ki-masz	Kima	NNP	20	nsubjpass	
+20	ba-hul	were destroyed	VBN	16	parataxis
+	
+
