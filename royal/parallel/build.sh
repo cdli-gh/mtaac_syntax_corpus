@@ -101,3 +101,12 @@ for sux in sux/*; do
 		fi;
 	fi;
 done;
+
+#####################
+# normalize english #
+#####################
+
+for eng in eng/*; do
+	# fix extraction artifacts from CDLI-ATF
+	sed -i s/'^: '//g $eng
+done;
