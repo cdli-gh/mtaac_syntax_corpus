@@ -1,0 +1,35 @@
+# tr.en: txt
+# P432230_Q001720.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: To Ninlil his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life and life of Ninturturmu his beloved daughter he dedicated A person who this inscription shall erase may my mistress Ninlil curse him
+1	{d}nin-lil2	To Ninlil	VB	0	root	
+2	nin-a-ni	his mistress	NN	1	dobj	
+3	szul-gi	Szulgi	NN	2	appos	
+4	nita	man	NN	1	_	
+5	kal-ga	the mighty	DT	4	det	
+6	lugal	king	NN	4	conj	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	_	,	4	_	
+9	ki-en-gi	_	_	0	_	
+10	ki-uri-ke4	and king Sumer and Akkad	CC	4	cc	
+11	nam-ti-la-ni-sze3	for his life	NN	4	nmod:for	
+12	u3	and	CC	11	cc	
+13	nam-ti	life	NN	11	conj	
+14	nin-tur-tur-mu	of Ninturturmu	NNP	13	nmod:of	
+15	dumu	_	,	4	_	
+16	ki-ag2-ga2-na-sze3	his beloved daughter	NN	13	_	
+17	a	he dedicated	VBD	4	acl:relcl	
+18	mu-na-ru	_	.	4	_	
+19	lu2	_	_	0	_	
+20	mu-sar-ra-ba	A person who this inscription	NN	26	nsubj	
+21	szu	_	,	20	_	
+22	bi2-ib2-ur3-a	shall erase	VB	20	acl:relcl	
+23	nin-mu	may my mistress	MD	26	aux	
+24	{d}nin-lil2-ke4	Ninlil	NN	26	compound	
+25	nam	_	.	1	_	
+26	ha-ba-da-ku5-re6	curse him	PRP	4	_
+	
+

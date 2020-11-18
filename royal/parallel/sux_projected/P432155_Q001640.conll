@@ -1,0 +1,22 @@
+# tr.en: txt
+# P432155_Q001640.txt
+						
+
+# tr.en: To Nanna his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad for his life he dedicated it to him
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}nanna	To Nanna	NNP	0	root	
+2	lugal-a-ni	his master	NN	1	root	
+3	ur-{d}namma	Ur-Namma	NN	2	appos	
+4	nita	man	NN	2	appos	
+5	kal-ga	the mighty	DT	4	det	
+6	lugal	king	NN	2	appos	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	_	,	2	_	
+9	ki-en-gi	_	_	0	_	
+10	ki-uri-ke4	and king Sumer and Akkad	CC	6	cc	
+11	nam-ti-la-ni-sze3	for his life	NN	2	nmod:for	
+12	a	he dedicated	VBD	11	acl:relcl	
+13	mu-na-ru	it to him	PRP	12	dobj
+	
+

@@ -1,0 +1,21 @@
+# tr.en: txt
+# P430134_Q001841.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: Szu-Suen strong king king of Ur king of heaven with its four corners Ayakalla governor of Umma your servant
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}szu-{d}suen	Szu-Suen	NNP	0	root	
+2	lugal	_	NN	1	appos	
+3	kal-ga	strong king	NN	1	appos	
+4	lugal	king	_	0	_	
+5	uri5{ki}-ma	Ur	NN	2	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an-ub-da	_	:	1	_	
+8	limmu2-ba	heaven with its four corners	NN	6	nmod:of	
+9	a-a-kal-la	Ayakalla	NNP	1	_	
+10	ensi2	governor	NN	9	appos	
+11	umma{ki}	of Umma	NNP	10	nmod:of	
+12	ARAD2-zu	your servant	NN	9	appos
+	
+

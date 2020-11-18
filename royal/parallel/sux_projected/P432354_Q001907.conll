@@ -1,0 +1,19 @@
+# P432354_Q001907.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: for king of Ur and king of Sumer and Akkad Urmes the son of Ilamlammuma dedicated to him
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	lugal	for king	NN	0	root	
+2	uri5{ki}-ma	Ur	NN	1	nmod:of	
+3	lugal	and king	CC	2	cc	
+4	ki-en-gi	Sumer	NNP	2	nmod:of	
+5	ki-uri-ka-sze3	and Akkad	CC	4	cc	
+6	ur-mes	Urmes	NNP	4	conj	
+7	dumu	_	_	0	_	
+8	i-lam-<lam-mu>-ma	the son Ilamlammuma	NN	4	appos	
+9	a	_	.	1	_	
+10	mu-na-ru	dedicated to him	VBN	8	acl
+	
+

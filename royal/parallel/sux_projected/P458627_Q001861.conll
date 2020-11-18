@@ -1,0 +1,27 @@
+# tr.en: txt
+# P458627_Q001861.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: Ibbi-Suen god of land strong king king of Ur king of four quarters Dada governor of Nippur son of Ur-Nisaba governor of Nippur your servant
+1	{d}i-bi2-{d}suen	Ibbi-Suen	NNP	0	root	
+2	dingir	god of	NN	1	appos	
+3	kalam-ma	land	NN	2	nmod:of	
+4	lugal	_	NN	1	appos	
+5	kal-ga	strong king	NN	1	appos	
+6	lugal	king	_	0	_	
+7	uri5{ki}-ma	Ur	NN	4	nmod:of	
+8	lugal	king	NN	1	appos	
+9	an-ub-da	_	:	1	_	
+10	limmu2-ba	four quarters	NNS	8	nmod:of	
+11	da-da	Dada	NN	1	_	
+12	ensi2	governor	NN	11	root	
+13	nibru{ki}	of Nippur	NNP	12	nmod:of	
+14	dumu	son	NN	12	appos	
+15	ur-{nab}nisaba2	of Ur-Nisaba	NNP	14	nmod:of	
+16	ensi2	governor	NN	12	appos	
+17	nibru{ki}-ka	of Nippur	NNP	16	nmod:of	
+18	ARAD2-zu	your servant	NN	12	appos
+	
+

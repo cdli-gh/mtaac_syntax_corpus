@@ -1,0 +1,22 @@
+# P458769_Q004914.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: Sz-Suen strong king king of Ur king of four corners Ure-babdu scribe son of Lugal-uumgal is your servant
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}szu-{d}suen	Sz-Suen	NNP	0	root	
+2	lugal	_	NN	1	appos	
+3	kal-ga	strong king	NN	1	appos	
+4	lugal	king	_	0	_	
+5	uri5{ki}-ma	Ur	NN	2	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an-ub-da	_	:	1	_	
+8	limmu2-ba	four corners	NNS	6	nmod:of	
+9	ur3-re-ba-ab-du7	Ure-babdu	NN	13	nsubj	
+10	dub-sar	scribe	NN	9	conj	
+11	dumu	son	NN	9	appos	
+12	lugal-uszumgal	Lugal-uumgal	JJ	11	nmod:of	
+13	ARAD2-zu	is your servant	NN	1	_
+	
+

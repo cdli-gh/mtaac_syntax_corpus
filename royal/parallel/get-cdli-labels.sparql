@@ -1,0 +1,100 @@
+# input: Sumerian annotations, directly projected from English (= output of get-cdli-conll.sparql)
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+########
+# prep #
+########
+# copied from get-cdli-conll.sparql (TODO: remove there)
+
+# delete labels that indicate an error
+# punct indicates an alignment error (actually, the attachment is likely wrong, then, as well)
+# dep indicates a parsing error (we use dep differently, for attaching fragments)
+DELETE {
+	?w conll:EDGE ?label
+} WHERE {
+	?w conll:EDGE ?label
+	FILTER(?label in ("punct", "dep"))
+};
+
+# every numeral must be a nummod (according to CDLI guidelines)
+DELETE {
+	?w conll:EDGE ?edge
+} INSERT {
+	?w conll:EDGE "nummod"
+} WHERE {
+	{ ?w conll:ENG "CARD". }UNION { ?w conll:WORD ?word. FILTER(regex(?word,"^[0-9].*")) }
+	OPTIONAL { ?w conll:EDGE ?edge }
+};
+
+# every fragment without a dependent or without a label is a dep
+# if a fragment does have another relation, this is very likely an alignment error
+DELETE {
+	?w conll:EDGE ?edge
+} INSERT {
+	?w conll:EDGE "dep"
+} WHERE {
+	?w conll:WORD ?word.
+	FILTER(regex(?word, "^[\\.\\-x]+$"))
+	{ 	?w conll:WORD ?word. MINUS { [] conll:HEAD ?w }
+		# if it does have a dependent, the structure may be correct (except that a dispreferred head was chosen due to alignment error)
+	} UNION {
+		?w conll:WORD ?word. MINUS { ?w conll:EDGE [] }
+		# assign dep if it doesn't have a dependency label
+	}
+	OPTIONAL { ?w conll:EDGE ?edge }
+};
+
+# in projected phrases
+# a numeral or la2 following another numeral or la2 and 
+# either modifying the same head, 
+# or having no head must modify the preceding numeral
+DELETE {
+	?num2 conll:HEAD ?head2
+} INSERT {
+	?num2 conll:HEAD ?num1
+} WHERE {
+	?num1 conll:WORD ?w1 FILTER(regex(?w1,"^[0-9].*|la2$")). # treat la2 like a numeral
+	?num1 nif:nextWord ?num2; conll:HEAD ?h.
+	?num2 conll:WORD ?w2 FILTER(regex(?w2, "^[0-9].*|la2$")). # treat la2 like a numeral
+	{ ?num2 conll:HEAD ?h } UNION { ?num2 conll:HEAD ?h2. MINUS { ?h2 a nif:Word }}
+	?num2 conll:HEAD ?head2.
+};
+
+# in a complex nummod, all nummod dependents and la2 modify the first nummod
+DELETE {
+	?num3 conll:HEAD ?num2
+} INSERT {
+	?num3 conll:HEAD ?num1
+} WHERE {
+	?num1 conll:EDGE "nummod".
+	MINUS { ?num1 conll:HEAD/conll:EDGE "nummod" }
+	?num1 nif:nextWord+ ?num3.
+	?num3 conll:HEAD ?num2.
+	?num2 conll:HEAD+ ?num1.
+	{ ?num3 conll:EDGE "nummod" } UNION { ?num3 conll:WORD "la2" }
+	MINUS { 
+		?num3 conll:HEAD+ ?tmp. ?tmp conll:HEAD+ ?num1. ?num1 conll:EDGE "nummod". ?num1 nif:nextWord+ ?num3.
+		MINUS { ?tmp conll:EDGE "nummod" }
+	}
+};
+
+# verbal elements that have a HEAD but no dependency label are very likely acl
+INSERT {
+	?verb conll:EDGE "acl"
+} WHERE {
+	?verb conll:POS ?pos; conll:HEAD/a nif:Word.
+	FILTER(strstarts(?pos,"V"))
+	MINUS { ?verb conll:EDGE [] }
+};
+
+#####################
+# orig. dep mapping #
+#####################

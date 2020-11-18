@@ -1,0 +1,13 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	a-ma-at-{d}suen	a-ma-at-{d}suen[1]	PN	PN	0	_	_
+2	dam	dam[spouse]	N	N	1	appos	_
+3	{d}szul-gi	{d}szul-gi[1]	RN	RN	1	appos	_
+4	nita	nita[male]	N	N	1	appos	_
+5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	6	GEN	_
+8	it-ra-ak-i3-li2	it-ra-ak-i3-li2[1]	PN	PN	0	_	_
+9	ra2-gaba	ra2-gaba[rider]	N	N.ABS	8	appos	_
+10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_
+
+

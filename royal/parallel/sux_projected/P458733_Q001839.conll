@@ -1,0 +1,21 @@
+# P458733_Q001839.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: Sz-Suen strong king king of Ur king of four corners Lu-Nanna general of Zimudar is your servant
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}szu-{d}suen	Sz-Suen	NNP	0	root	
+2	lugal	_	NN	1	appos	
+3	kal-ga	strong king	NN	1	appos	
+4	lugal	king	_	0	_	
+5	uri5{ki}-ma	Ur	NN	2	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an-ub-da	_	:	1	_	
+8	limmu2-ba	four corners	NNS	6	nmod:of	
+9	lu2-{d}nanna	Lu-Nanna	NNP	12	nsubj	
+10	szagina	general	JJ	9	appos	
+11	zi-mu-dar{ki}	of Zimudar	NNP	10	nmod:of	
+12	ARAD2-zu	is your servant	NN	1	_
+	
+

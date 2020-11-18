@@ -1,0 +1,27 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	szul-gi	szul-gi[1]	RN	RN	0	_	_
+2	nita	nita[male]	N	N	1	appos	_
+3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_
+4	lugal	lugal[king]	N	N	1	appos	_
+5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	1	appos	_
+7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_
+8	ki-uri-x	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_
+9	szu-qur-tum	szu-qur-tum[1]	PN	PN	0	_	_
+10	lukur	lukur[priestess]	N	N	12	ABS	_
+11	ki	ki[place]	N	N.ABS	10	appos	_
+12	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	9	amod	_
+13	lu2	lu2[person]	N	N	16	LOC	_
+14	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	13	appos	_
+15	szu	szu[hand]	N	N.ABS	16	ABS	_
+16	bi2-ib2-uru12-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	18	ABS	_
+17	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	16	appos	_
+18	bi2-ib2-sar-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_
+19	{d}nin-sumun2	{d}nin-sumun2[1]	DN	DN	24	ERG	_
+20	digir-gu10	digir[deity]	N	N.1-SG-POSS	19	appos	_
+21	{d}lugal-ban3-da	{d}lugal-ban3-da[1]	DN	DN	19	appos	_
+22	lugal-gu10	lugal[king]	N	N.1-SG-POSS.ERG	19	appos	_
+23	nam	nam[fate]	N	N.ABS	24	ABS	_
+24	ha-ba-da-kuru5-ne	kuru5[cut]	V	MOD1.MID.3-SG-H.COM.V.3-PL-A	0	_	_
+
+

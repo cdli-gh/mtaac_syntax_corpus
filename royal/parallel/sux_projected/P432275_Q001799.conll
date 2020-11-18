@@ -1,0 +1,29 @@
+# P432275_Q001799.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: Amar-Suena king of Ur and king of four world quarters of Suen To Taddin-Itar his beloved daughter he presented it
+1	...	_	_	0	dep	
+2	x	_	_	0	dep	
+3	{d}amar-{d}suen	Amar-Suena	NNP	0	root	
+4	lugal	king	NN	3	conj	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	_	_	0	_	
+7	an-ub-da	and king	CC	3	cc	
+8	limmu2-ba-ke4	four world quarters	CD	3	nummod	
+9	...	four world quarters	NN	3	dep	
+10	{d}suen-na	of Suen	IN	11	nmod:of	
+11	x	of Suen	NNP	6	nmod:of	
+12	x	_	_	0	dep	
+13	x	_	_	0	dep	
+14	x	_	_	0	dep	
+15	x	_	_	0	dep	
+16	ta2-di3-in-{d}inanna	To Taddin-Itar	NNP	20	nmod:to	
+17	dumu	_	,	16	_	
+18	ki-ag2-ga2-ni-ir	his beloved daughter	NN	16	appos	
+19	in-na-ba	he presented it	VBD	11	acl:relcl	
+20	 	_	_	0	_
+	
+

@@ -1,0 +1,34 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nanna	{d}nanna[1]	DN	DN	9	DAT	_
+2	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_
+3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_
+4	lugal	lugal[king]	N	N	6	ABS	_
+5	ki	ki[place]	N	N.ABS	4	appos	_
+6	ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	2	amod	_
+7	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	9	ABS	_
+8	ki	ki[place]	N	N.ABS	7	appos	_
+9	ag2	ag2[measure]	V	NF.V	14	ERG	_
+10	{d}nanna	{d}nanna[1]	DN	DN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	9	appos	_
+12	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	11	appos	_
+13	szag4-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	14	LOC	_
+14	in-pad3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_
+15	sipad	sipad[shepherd]	N	N	31	GEN.TERM	_
+16	kalam-ma	kalam[land]	N	N.GEN	15	GEN	_
+17	u3	u3[and]	CNJ	CNJ	15	cc	_
+18	an-ub-da	an-ub-da[quarter]	N	N	15	conj	_
+19	limmu2-ba-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.TERM	18	amod	_
+20	lugal	lugal[king]	N	N	31	ERG	_
+21	kalag-ga	kalag[strong]	V	NF.V.SUB	20	amod	_
+22	lugal	lugal[king]	N	N	20	appos	_
+23	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	22	GEN	_
+24	lugal	lugal[king]	N	N	20	appos	_
+25	an-ub-da	an-ub-da[quarter]	N	N	24	GEN	_
+26	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	25	amod	_
+27	e2-mu-ri-a-na-ba-ak	e2-mu-ri-a-na-ba-ak[1]	TN	TN	31	ABS	_
+28	e2	e2[house]	N	N	30	ABS	_
+29	ki	ki[place]	N	N.ABS	28	appos	_
+30	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	27	amod	_
+31	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+
+

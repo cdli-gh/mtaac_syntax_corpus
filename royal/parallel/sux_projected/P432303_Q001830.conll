@@ -1,0 +1,53 @@
+# tr.en: txt
+# P432303_Q001830.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: Sz-Sin beloved by Enlil the king whom Enlil chose as beloved by his heart king of Ur king of Sumer and Akkad and king of four world quarters Babati scribe auditor archivist steward master and governor of Awal and Apiak canal inspector who has irrigated land estate administrator of two ladies temple administrator of Belat-Terraban and Belat-unir brother of Ab-Simt his beloved wife your servant
+1	{d}szu-{d}suen	_	,	44	_	
+2	ki-ag2	beloved	JJ	44	amod	
+3	{d}en-lil2-le	by Enlil	NNP	2	nmod:by	
+4	lugal	_	_	0	_	
+5	{d}en-lil2-le	the king whom Enlil	NN	44	appos	
+6	ki-ag2	as beloved	JJ	8	advcl	
+7	sza3-ga-ne2	by his heart	NN	8	nmod:by	
+8	i3-pa3	chose	VBD	5	acl:relcl	
+9	lugal	king	NN	7	appos	
+10	uri2{ki}-ma	Ur	NN	9	nmod:of	
+11	lugal	king	NN	44	appos	
+12	ki-en-gi	Sumer	NNP	11	nmod:of	
+13	ki-uri{ki}	and Akkad	CC	12	cc	
+14	lugal	_	_	0	_	
+15	an-ub-da	and king	CC	44	cc	
+16	 	_	NN	44	conj	
+17	limmu2-ba-ke4	four world quarters	NNS	16	nmod:of	
+18	ba4-ba4-ti	Babati	NNP	44	_	
+19	dub-sar	scribe	NN	18	appos	
+20	sza3-tam	auditor	NN	18	appos	
+21	sza13-dub-ba	archivist	NN	18	appos	
+22	agrig	steward master	NN	18	appos	
+23	lugal	_	_	0	_	
+24	ensi2	governor	NN	22	conj	
+25	a-wa-al{ki}	and Awal	CC	22	cc	
+26	u3	and	CC	22	cc	
+27	a-pi-ak{ki}	Apiak	NNP	22	conj	
+28	ku3-gal	canal inspector who has irrigated	NN	44	_	
+29	ma-da	_	:	44	_	
+30	a	_	_	0	_	
+31	du11-ga	land	NN	28	dobj	
+32	szabra	estate administrator	NN	44	_	
+33	nin	_	,	32	_	
+34	min-a-bi	two ladies	NNS	32	nmod:of	
+35	sanga	temple	NN	36	compound	
+36	{d}be-la-at-szer7-ba-an	administrator Belat-Terraban	NN	32	appos	
+37	u3	and	CC	36	cc	
+38	be-la-at-suh(PAD)-ner	Belat-unir	NNP	36	conj	
+39	szesz	brother	NN	32	appos	
+40	a-bi2-si2-im-ti	Ab-Simt	NNP	39	nmod:of	
+41	dam	wife	NN	40	appos	
+42	ki-ag2-ga2-ni	his beloved	PRP$	41	nmod:poss	
+43	ARAD2-zu	your servant	NN	40	appos	
+44	 	_	NN	0	root
+	
+

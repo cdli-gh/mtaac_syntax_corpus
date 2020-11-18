@@ -1,0 +1,29 @@
+# P465384_Q001671.txt
+# tr.en: txt
+						
+
+# tr.en: of Dawa- governor of Zaul governor of Hunuri -mat governor of -laka -a military governor of -al Sabum
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	x	_	_	0	dep	
+2	...	_	_	0	dep	
+3	KI	of	IN	19	nmod:of	
+4	da-wa-a-x	Dawa-	NN	19	compound	
+5	|PA.<TE.SI>|	governor	NN	20	root	
+6	za-ul{ki}	of Zaul	IN	7	nmod:of	
+7	x	of Zaul	NN	5	nmod:of	
+8	x	_	_	0	dep	
+9	|PA.<TE.SI>|	governor	NN	5	appos	
+10	hu-uh2-nu-ri!{ki}	of Hunuri	NNP	9	nmod:of	
+11	(x)	_	,	10	_	
+12	x-ma-at	-mat	NN	10	_	
+13	|PA.<TE.SI>|	governor	NN	10	appos	
+14	x-x-la2-ka	of -laka	NN	13	nmod:of	
+15	...-x-a	_	,	5	_	
+16	szagina	military governor	NN	5	appos	
+17	...-al{ki}	of -al	IN	18	nmod:of	
+18	sa-bu-um{<ki>}	Sabum	NNP	16	nmod:of	
+19	 	_	NN	0	root	
+20	 	_	,	19	_
+	
+

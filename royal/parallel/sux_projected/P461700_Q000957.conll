@@ -1,0 +1,26 @@
+# P461700_Q000957.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: For Enlil king of all lands his master Ur-Namma powerful man king of Urim king of Sumer and Akkad dug canal of Urim his canal of food offerings
+1	{d}en-lil2	For Enlil	NNP	17	nmod:for	
+2	lugal	king	NN	17	advcl	
+3	kur-kur-ra	all lands	NNS	2	nmod:of	
+4	lugal-a-ni	his master	NN	17	nsubj	
+5	ur-{d}namma	Ur-Namma	NN	4	appos	
+6	nita	powerful man	NN	4	appos	
+7	kal-ga	_	.	17	_	
+8	lugal	_	_	0	_	
+9	uri5{ki}-ma	king	NN	4	appos	
+10	lugal	Urim king	NNP	9	nmod:of	
+11	ki-en-gi	Sumer	NNP	4	nmod:of	
+12	ki-uri-ke4	and Akkad	CC	11	cc	
+13	i7	canal	NN	17	dobj	
+14	uri5{ki}-ma	_	_	0	_	
+15	i7	Urim	NNP	13	nmod:of	
+16	nidba-ka-ni	his canal food offerings	NN	15	appos	
+17	mu-na-ba-al	dug	VBD	0	root
+	
+

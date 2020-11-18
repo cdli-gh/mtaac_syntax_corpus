@@ -1,0 +1,20 @@
+# tr.en: txt
+# P432333_Q001887.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: To Nanna the first-born son of Enlil the king of Ur for Ekinugal temple he dedicated to him
+1	{d}nanna	To Nanna	NNP	0	root	
+2	dumu	_	_	0	_	
+3	sag	the first-born son	NN	1	root	
+4	{d}en-lil2-la2	of Enlil	IN	6	nmod:of	
+5	...	_	_	0	dep	
+6	x	of Enlil	NNP	3	nmod:of	
+7	lugal	the	DT	8	det	
+8	uri5{ki}-ma-ke4	king Ur	NN	3	_	
+9	e2-kisz-nu-gal2-sze3	for Ekinugal temple	NN	8	nmod:for	
+10	a	he dedicated	VBD	9	acl:relcl	
+11	mu-na-ru	to him	PRP	10	nmod:to
+	
+

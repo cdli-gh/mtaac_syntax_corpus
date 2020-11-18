@@ -1,0 +1,31 @@
+# tr.en: txt
+# P226975_Q001751.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: To Nusku the chief minister of Enlil his master for life of Szulgi the mighty man king of Ur and King of Sumer and Akkad Ur-Nanibgal the governor of Nippur son of Lugal-engardug governor of Nippur dedicated to him
+1	{d}nusku	To Nusku	NNP	0	root	
+2	sukkal-mah	the chief minister	NN	1	root	
+3	{d}en-lil2-la2	of Enlil	NNP	2	nmod:of	
+4	lugal-a-ni	his master	NN	2	appos	
+5	nam-ti	for life	NN	2	nmod:for	
+6	{d}szul-gi	of Szulgi	NNP	5	nmod:of	
+7	nita	man	NN	6	appos	
+8	kal-ga	the mighty	DT	7	det	
+9	lugal	king	NN	6	appos	
+10	uri5{ki}-ma	Ur	NN	9	nmod:of	
+11	lugal	_	,	9	_	
+12	ki-en-gi	_	_	0	_	
+13	ki-uri-ka-sze3	and King Sumer and Akkad	CC	9	cc	
+14	ur-{d}nanibgal2	Ur-Nanibgal	NNP	9	conj	
+15	ensi2	the governor	NN	9	appos	
+16	nibru{ki}	of Nippur	NNP	15	nmod:of	
+17	dumu	son	NN	9	appos	
+18	lugal-engar-du10	Lugal-engardug	NN	17	nmod:of	
+19	ensi2	governor	NN	9	appos	
+20	nibru{ki}-ka-ke4	of Nippur	NNP	19	nmod:of	
+21	a	_	.	2	_	
+22	mu-na-ru	dedicated to him	VBN	9	acl
+	
+

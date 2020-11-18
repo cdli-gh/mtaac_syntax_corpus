@@ -1,0 +1,21 @@
+# P432124_Q000942.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: For Ninegal his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad her temple he built for her
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}nin-e2-gal	For Ninegal	IN	0	root	
+2	nin-a-ni	his mistress	NN	1	_	
+3	ur-{d}namma	Ur-Namma	NN	2	appos	
+4	nita	man	NN	2	appos	
+5	kal-ga	the mighty	DT	4	det	
+6	lugal	king	NN	2	appos	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	and king	CC	6	cc	
+9	ki-en-gi	Sumer	NNP	6	nmod:of	
+10	ki-uri	and Akkad	CC	9	cc	
+11	e2-a-ni	her temple	NN	2	appos	
+12	mu-na-du3	he built for her	VBD	11	acl:relcl
+	
+

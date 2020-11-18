@@ -1,0 +1,34 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_
+2	mu	mu[name]	N	N.ABS	1	appos	_
+3	pad3-da	pad3[find]	V	NF.V.SUB	6	ABS	_
+4	an-na	an[1]	DN	DN.GEN	3	GEN	_
+5	ki	ki[place]	N	N.ABS	3	appos	_
+6	ag2	ag2[measure]	V	NF.V	12	ERG	_
+7	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_
+8	lugal	lugal[king]	N	N	6	appos	_
+9	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	8	appos	_
+10	szag4	szag4[heart]	N	N	12	LOC	_
+11	kug-ge	kug[pure]	V	NF.V.L3-NH	10	amod	_
+12	pad3-da	pad3[find]	V	NF.V.SUB	31	GEN.TERM	_
+13	nam-sipad	nam-sipad[shepherdship]	N	N	12	appos	_
+14	kalam-ma	kalam[land]	N	N.GEN	13	GEN	_
+15	u3	u3[and]	CNJ	CNJ	13	cc	_
+16	an-ub-da	an-ub-da[quarter]	N	N	13	conj	_
+17	limmu2-ba-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.TERM	16	amod	_
+18	lugal	lugal[king]	N	N	31	DAT	_
+19	kalag-ga	kalag[strong]	V	NF.V.SUB	18	amod	_
+20	lugal	lugal[king]	N	N	18	appos	_
+21	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	20	GEN	_
+22	lugal	lugal[king]	N	N	18	appos	_
+23	an-ub-da	an-ub-da[quarter]	N	N	22	GEN	_
+24	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	23	amod	_
+25	digir-ra-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	22	appos	_
+26	i-tu-ri-a	i-tu-ri-a[1]	PN	PN	31	ERG	_
+27	ensi2	ensi2[ruler]	N	N	26	appos	_
+28	asz2-nun-na{ki}-ka	asz2-nun-na{ki}[1]	SN	Ešnunak.GEN	27	GEN	_
+29	arad2-da-ni-e	arad2[slave]	N	N.3-SG-H-POSS.ERG	26	appos	_
+30	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	31	ABS	_
+31	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+
+

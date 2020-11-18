@@ -3,6 +3,7 @@
 # PRE: ../cdli/atf/ directory with CDLI atfs
 
 # POST: for every eng file, create a Sumerian txt file from the atf
+#       and run ./align.sh over it
 
 #########################
 # create sux/ directory #
@@ -110,3 +111,9 @@ for eng in eng/*; do
 	# fix extraction artifacts from CDLI-ATF
 	sed -i s/'^: '//g $eng
 done;
+
+#####################
+# align and project #
+#####################
+
+./align.sh -clean sux/ eng/

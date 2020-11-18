@@ -1,0 +1,31 @@
+# tr.en: txt
+# P432251_Q001772.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: To Szara trusted one of An beloved son of Inanna his master for life of Szulgi the mighty man king of Ur and king of four world quarters Lu-Nanna the son of Sz-Erra the merchant
+1	{d}szara2	To Szara	NNP	2	nmod:to	
+2	nir-gal2	trusted one	VBD	0	root	
+3	an-na	An	DT	5	det	
+4	dumu	_	,	2	_	
+5	ki-ag2	beloved son	NN	2	nmod:of	
+6	{d}inanna	of Inanna	NNP	5	nmod:of	
+7	lugal-a-ni	his master	NN	2	appos	
+8	nam-ti	for life	NN	2	nmod:for	
+9	{d}szul-gi	Szulgi	NNP	8	nmod:of	
+10	nita	man	NN	9	appos	
+11	kal-ga	the mighty	DT	10	det	
+12	lugal	king	NN	9	appos	
+13	uri5{ki}-ma	Ur	NN	12	nmod:of	
+14	lugal	_	,	16	_	
+15	an-ub-da	and king	CC	12	cc	
+16	limmu2-ba-ka-sze3	four world quarters	NNS	12	nmod:of	
+17	lu2-{d}nanna	Lu-Nanna	NNP	16	appos	
+18	dumu	son	NN	16	appos	
+19	szu-er3-ra	the Sz-Erra	DT	18	det	
+20	dam-gar3-ke4	the merchant	DT	21	det	
+21	x	the merchant	NN	18	dep	
+22	...	_	_	0	dep
+	
+

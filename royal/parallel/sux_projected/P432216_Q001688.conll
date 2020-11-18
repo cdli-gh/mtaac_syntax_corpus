@@ -1,0 +1,26 @@
+# P432216_Q001688.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: To Nanna his master Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life he dedicated to him Of this statue Nanna is My Wall is its name
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}nanna	To Nanna	VB	0	root	
+2	lugal-a-ni	his master	NN	1	dobj	
+3	szul-gi	Szulgi	NN	2	appos	
+4	nita	man	NN	1	_	
+5	kal-ga	the mighty	DT	4	det	
+6	lugal	king	NN	4	conj	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	_	,	4	_	
+9	ki-en-gi	_	_	0	_	
+10	ki-uri-ke4	and king Sumer and Akkad	CC	4	cc	
+11	nam-ti-la-ni-sze3	for his life	NN	4	nmod:for	
+12	a	he dedicated	VBD	11	acl:relcl	
+13	mu-na-ru	to him	PRP	12	nmod:to	
+14	alan-ba	Of this statue	NN	1	nmod:of	
+15	{d}nanna	Nanna	NNP	16	nsubj	
+16	bad3-x-mu	is My Wall	NN	1	parataxis	
+17	mu-bi-im	is its name	NN	16	_
+	
+

@@ -1,0 +1,25 @@
+# P432135_Q000950.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: For Enlil the king of all lands his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad the Ekur his beloved temple he built for him
+1	{d}en-lil2	For Enlil	NNP	0	root	
+2	lugal	_	,	3	_	
+3	kur-kur-ra	the king all lands	NN	1	root	
+4	lugal-a-ni	his master	NN	3	appos	
+5	ur-{d}namma	Ur-Namma	NN	4	appos	
+6	nita	man	NN	4	appos	
+7	kal-ga	the mighty	DT	6	det	
+8	lugal	king	NN	4	appos	
+9	uri5{ki}-ma	Ur	NN	8	nmod:of	
+10	lugal	_	,	4	_	
+11	ki-en-gi	_	_	0	_	
+12	ki-uri-ke4	and king Sumer and Akkad	CC	8	cc	
+13	e2-kur	the Ekur	NNP	4	appos	
+14	e2	_	,	4	_	
+15	ki-ag2-ga2-ni	his beloved temple	NN	4	appos	
+16	mu-na-du3	he built for him	VBD	3	acl:relcl
+	
+

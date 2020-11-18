@@ -1,0 +1,25 @@
+# tr.en: txt
+# P458867_Q001750.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: Szulgi mighty man king of Ur king of lands of Sumer and Akkad Ur-Nanibgal governor of Nippur son of Lugal-engardu governor of Nippur your servant
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}szul-gi	Szulgi	NNP	0	root	
+2	nita	man	NN	1	appos	
+3	kal-ga	mighty	JJ	2	amod	
+4	lugal	king	NN	1	appos	
+5	uri5{ki}-ma	Ur	NN	4	nmod:of	
+6	lugal	king	NN	1	appos	
+7	ki-en-gi	_	.	1	_	
+8	ki-uri	lands Sumer and Akkad	NNS	6	nmod:of	
+9	ur-{d}nanibgal	Ur-Nanibgal	NNP	1	_	
+10	ensi2	governor	NN	9	appos	
+11	nibru{ki}	of Nippur	NNP	10	nmod:of	
+12	dumu	son	NN	9	appos	
+13	lugal-engar-du10	Lugal-engardu	NN	12	nmod:of	
+14	ensi2	governor	NN	9	appos	
+15	nibru{ki}-ka	of Nippur	NNP	14	nmod:of	
+16	ARAD2-zu	your servant	NN	9	appos
+	
+

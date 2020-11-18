@@ -1,0 +1,89 @@
+# P432264_Q000984.txt
+# tr.en: txt
+						
+
+# tr.en: For Nanna his beloved master the Dublamah since ancient days though not an offering place where daily rations had been withdrawn having become since its temple had not been rebuilt Amar-Suena beloved by Nanna whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the mighty man king of Ur and king of four world quarters the Dublamah the temple which is wonder of country his place of judgment where from his net the enemies of Amar-Suena do not escape that temple he rebuilt and made resplendent for him With gold silver and lapis lazuli he decorated it for him Amar-Suen shall therewith prolong his life A person who when temple has become old having rebuilt it but this inscription and its utensils from its standing-place does not change in eyes of Nanna may he find favor But a person who this inscription shall erase and its utensils to its standing-place shall not return may serpent of Nanna be set upon him and to his descendants may Nanna make an end
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}nanna	For Nanna	NNP	63	nmod:for	
+2	lugal	_	_	0	_	
+3	ki-ag2-ga2-ni-ir	his beloved master	NN	63	nsubj	
+4	dub-la2	the	DT	5	det	
+5	mah	Dublamah	NNP	3	_	
+6	u4	_	_	0	_	
+7	ul-li2-a-ta	since ancient days	NNS	3	nmod:since	
+8	ki-szu-tag	though not an offering place	IN	54	mark	
+9	szuku	_	_	0	_	
+10	u4	_	_	0	_	
+11	szub-ba	where daily rations had been withdrawn	VBN	54	acl:relcl	
+12	i3-me-a-na-an-na	having become	VBN	11	xcomp	
+13	e2-bi	since its temple	IN	14	mark	
+14	nu-du3-am3	had not been rebuilt	VBN	20	advcl	
+15	{d}amar-{d}suen	Amar-Suena	NNP	14	dobj	
+16	ki-ag2	beloved by	JJ	15	amod	
+17	{d}nanna	Nanna	NNP	16	nmod:by	
+18	nibru{ki}-a	whom in Nippur	WP	17	appos	
+19	{d}en-lil2-le	Enlil	NNP	20	nsubj	
+20	mu	chose	VBD	54	acl:relcl	
+21	pa3-da	by name	NN	20	nmod:by	
+22	sag-us2	the constant supporter	NN	21	appos	
+23	e2	_	,	24	_	
+24	{d}en-lil2-ka	of temple of Enlil	NN	22	nmod:of	
+25	nita	man	NN	24	appos	
+26	kal-ga	the mighty	DT	25	det	
+27	lugal	king	NN	24	appos	
+28	uri5{ki}-ma	Ur	NN	27	nmod:of	
+29	lugal	_	,	21	_	
+30	an-ub-da	and king	CC	27	cc	
+31	limmu2-ba-ke4	four world quarters	NNS	27	nmod:of	
+32	dub-la2	the	DT	33	det	
+33	mah	Dublamah	NNP	21	appos	
+34	e2	the temple	NN	21	appos	
+35	u6-di-kalam-ma	which is wonder country	NN	34	acl:relcl	
+36	ki	_	,	37	_	
+37	di-ku5-da-ni	his place judgment	NN	21	appos	
+38	sa-bar-a-ni	where from his net	WRB	41	advmod	
+39	lu2-erim2	the enemies	NNS	41	nsubj	
+40	{d}amar-{d}suen-ka	of Amar-Suena	NNP	39	nmod:of	
+41	nu-e3	do not escape	VB	37	acl:relcl	
+42	e2-bi	that temple rebuilt	IN	51	mark	
+43	mu-na-du3	he	PRP	51	nsubj	
+44	pa	and made	CC	51	cc	
+45	mu-na-an-e3	resplendent for him	NN	51	dobj	
+46	ku3-sig17	With gold	NN	51	nmod:with	
+47	ku3-babbar	silver and	NN	46	conj	
+48	na4	_	_	0	_	
+49	za-gin3-na	lapis lazuli	NNS	46	conj	
+50	mu10	he	PRP	51	nsubj	
+51	mu-na-ni-du11	decorated it for him	VBD	20	ccomp	
+52	{d}amar-{d}suen-ke4	Amar-Suen	NN	54	nsubj	
+53	u4	_	.	3	_	
+54	im-da-ab-su3-re6	shall therewith prolong his life	VB	7	acl	
+55	lu2	_	,	58	_	
+56	e2	_	_	0	_	
+57	a-ba-sumun	A person who when temple has become old	NN	3	appos	
+58	u3-un-du3	having rebuilt it	VBN	57	acl:relcl	
+59	mu-sar-ra-bi	but this inscription	CC	3	cc	
+60	u3	and	CC	3	cc	
+61	{gesz}szu-kar2-bi	its utensils	NNS	3	conj	
+62	ki-gub-ba-bi	from its standing-place	NN	61	nmod:from	
+63	nu-ub-da-ab-kur2-re-a	does not change	VB	0	root	
+64	igi	_	_	0	_	
+65	{d}nanna-ka	in eyes of Nanna	NNS	63	nmod:in	
+66	he2-en-sa6	may he find favor	VB	63	advcl	
+67	lu2	But a	CC	66	cc	
+68	mu-sar-ra-ba	person who this inscription	NN	77	nsubjpass	
+69	szu	_	_	0	_	
+70	bi2-ib2-ur3-re-a	shall erase	VB	68	acl:relcl	
+71	u3	and	CC	70	cc	
+72	{gesz}szu-kar2-bi	its utensils	NNS	74	nsubj	
+73	ki-gub-bi-sze3	to its standing-place	JJ	72	nmod:to	
+74	nu-ub-szi-ib2-gi4-gi4-a	shall not return	VB	70	conj	
+75	musz	may serpent	MD	77	aux	
+76	{d}nanna	Nanna	NNP	77	nmod:of	
+77	he2-en-gar	be set upon him	VBN	66	conj	
+78	numun-na-ni	and to his descendants	CC	77	cc	
+79	{d}nanna	may Nanna	MD	80	aux	
+80	he2-eb-til-le	make an end	VB	77	conj
+	
+

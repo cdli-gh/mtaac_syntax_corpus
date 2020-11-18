@@ -1,0 +1,31 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_
+2	ki	ki[place]	N	N.ABS	1	appos	_
+3	ag2	ag2[measure]	V	NF.V	8	ERG	_
+4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	3	GEN	_
+5	lugal	lugal[king]	N	N	3	appos	_
+6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_
+7	ki	ki[place]	N	N.ABS	8	ABS	_
+8	ag2	ag2[measure]	V	NF.V	10	LOC	_
+9	szag4-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	8	appos	_
+10	in-pad3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_
+11	lugal	lugal[king]	N	N	27	DAT	_
+12	kalag-ga	kalag[strong]	V	NF.V.SUB	11	amod	_
+13	lugal	lugal[king]	N	N	11	appos	_
+14	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_
+15	lugal	lugal[king]	N	N	11	appos	_
+16	an-ub-da	an-ub-da[quarter]	N	N	15	GEN	_
+17	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	16	amod	_
+18	digir-ra-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	15	appos	_
+19	lugal-ma2-gur8-re	lugal-ma2-gur8-re[2]	PN	PN	27	ERG	_
+20	nu-banda3	nu-banda3[overseer]	N	N	19	appos	_
+21	en-nu-ga2	en-nu[imprisonment]	N	N.GEN	20	GEN	_
+22	ensi2	ensi2[ruler]	N	N	19	appos	_
+23	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	22	GEN	_
+24	arad2-da-ne2	arad2[slave]	N	N.3-SG-H-POSS.ERG	19	appos	_
+25	e2	e2[house]	N	N	27	ABS	_
+26	ki	ki[place]	N	N.ABS	25	appos	_
+27	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	28	ABS	_
+28	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+
+

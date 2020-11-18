@@ -1,0 +1,26 @@
+# P432136_Q000951.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: For Enlil the king of all lands his master Ur-Namma king of Ur and king of Sumer and Akkad his temple he built for him and Enerinnun canal his canal of offerings he dug for him
+1	{d}en-lil2	For Enlil	NNP	17	nmod:for	
+2	lugal	_	,	3	_	
+3	kur-kur-ra	the king all lands	NN	17	ccomp	
+4	lugal-a-ni	his master	NN	3	appos	
+5	ur-{d}namma	Ur-Namma	NN	4	appos	
+6	lugal	king	NN	4	conj	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	_	,	3	_	
+9	ki-en-gi	_	_	0	_	
+10	ki-uri-ke4	and king Sumer and Akkad	CC	4	cc	
+11	e2-a-ni	his temple	NN	3	appos	
+12	mu-na-du3	he built for him	VBD	11	acl:relcl	
+13	i7	_	,	3	_	
+14	en-erin2-nun	and Enerinnun canal	CC	3	cc	
+15	i7	_	,	17	_	
+16	nidba-ka-ni	his canal offerings	NN	3	appos	
+17	mu-na-ba-al	he dug for him	VBD	0	root
+	
+

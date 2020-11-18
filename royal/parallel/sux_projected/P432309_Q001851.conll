@@ -1,0 +1,43 @@
+# tr.en: txt
+# P432309_Q001851.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: To Nanna impetuous calf of An the lord first-born son of Enlil his master Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters his speckled Melua dog from Marai brought by them as tribute a replica of it he fashioned and for his life he dedicated it to him Of that speckled dog Grab Him is its name
+1	{d}nanna	To Nanna	NNP	0	root	
+2	amar	impetuous	JJ	3	amod	
+3	banda3{da}	calf	NN	1	appos	
+4	an-na	An	DT	3	nmod:of	
+5	en	the lord	NN	1	appos	
+6	dumu	_	,	1	_	
+7	sag	first-born son	NN	1	appos	
+8	{d}en-lil2-la2	of Enlil	NNP	7	nmod:of	
+9	lugal-a-ni-ir	his master	NN	1	appos	
+10	{d}i-bi2-{d}suen	Ibbi-Sin	NNP	9	appos	
+11	dingir	the god	NN	9	appos	
+12	kalam-ma-na	his country	NN	11	nmod:of	
+13	lugal	the	DT	14	det	
+14	kal-ga	mighty king	NN	9	appos	
+15	lugal	king	NN	9	conj	
+16	uri5{ki}-ma	Ur	NN	15	nmod:of	
+17	lugal	_	,	1	_	
+18	an-ub-da	and king	CC	9	cc	
+19	limmu2-ba-ke4	four world quarters	NNS	9	nmod:of	
+20	ur	_	''	22	_	
+21	gun3-a	his speckled	PRP$	22	nmod:poss	
+22	me-luh-ha{ki}	Melua dog	NN	1	appos	
+23	mar-ha!-szi{ki!}-ta	from Marai	NNP	1	nmod:from	
+24	gu2-un-sze3	brought by them	VBN	23	acl	
+25	mu-na-ab-tum2-ma-ni	as tribute	NN	24	nmod:as	
+26	dam-szi-lum-bi	a replica it	NN	25	appos	
+27	mu-dim2	he fashioned	VBD	26	acl:relcl	
+28	nam-ti-la-ni-sze3	and for his life	CC	25	cc	
+29	a	he dedicated	VBD	25	acl:relcl	
+30	mu-na-ru	it to him	PRP	29	dobj	
+31	ur	Of	IN	32	nmod:of	
+32	gun3-a-ba	that speckled dog	NN	1	nmod:of	
+33	he2-dab5	Grab Him	VB	34	csubj	
+34	mu-bi-im	is its name	NN	1	parataxis
+	
+

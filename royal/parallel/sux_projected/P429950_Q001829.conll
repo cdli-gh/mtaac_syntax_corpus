@@ -1,0 +1,42 @@
+# P429950_Q001829.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: Sz-Suen strong king king of Ur king of four corners to Babati chief accountant royal official general of Magan-arruma governor of Awal governor household manager of two queens in land irrigation manager chief temple manager of Belat-suner and Belat-teraban brother of Ab-simt his beloved mother his servant he gifted
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	{d}szu-{d}suen	Sz-Suen	NNP	0	root	
+2	lugal	_	NN	1	appos	
+3	kal-ga	strong king	NN	1	appos	
+4	lugal	king	_	0	_	
+5	uri5{ki}-ma	Ur	NN	2	nmod:of	
+6	lugal	king	NN	1	appos	
+7	an-ub-da	_	:	1	_	
+8	limmu2-ba-ke4	four corners	NNS	6	nmod:of	
+9	ba-ba-ti	to Babati	NNP	1	nmod:to	
+10	sza13-dub-ba	chief accountant	NN	9	appos	
+11	sza3-tam	royal official	NN	9	appos	
+12	lugal	_	,	9	_	
+13	szagina	general	NN	9	appos	
+14	masz-kan2-szar-ru-um{ki}-ma	of Magan-arruma	NN	13	nmod:of	
+15	ensi2	governor	NN	9	appos	
+16	a-wa-al{ki}	of Awal	NNP	15	nmod:of	
+17	ensi2	governor	NN	16	conj	
+18	szabra	household manager	NN	16	appos	
+19	nin	_	_	0	_	
+20	min-a-bi	two queens	CD	21	nummod	
+21	ku3-gal2	two queens	NNS	18	nmod:of	
+22	ma-da	_	,	23	_	
+23	a-du11-ga	in land irrigation manager	NN	21	nmod:in	
+24	sanga	chief temple manager	NN	23	conj	
+25	{d}be-la-at-suh6-ner	Belat-suner	NN	24	nmod:of	
+26	u3	_	,	23	_	
+27	{d}be-la-at-te-ra-ba-an	and Belat-teraban	CC	23	cc	
+28	szesz	brother	NN	23	appos	
+29	a-bi2-si2-im-ti	Ab-simt	NN	28	nmod:of	
+30	ama	_	,	21	_	
+31	ki-ag2-na	his beloved mother	NN	21	appos	
+32	ARAD2-da-ni-ir	his servant	NN	21	appos	
+33	in-na-ba	he gifted	JJ	21	acl:relcl
+	
+

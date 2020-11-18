@@ -1,0 +1,63 @@
+# P432138_Q000952.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad when temple of Enlil he had built the canal whose name is Nanna Canal Inspector which is boundary canal he dug Its mouth he extended into sea By a rightful decision of Utu he chose it and confirmed it A person who to Nanna has become hostile whether he be a king or whether he be a governor as a person cursed by Nanna may he become Within residence of Nanna may he be defiled May his city out among reed huts roam around May life a bitter thing to him indeed be
+1	{d}nanna	For Nanna	NNP	30	nmod:for	
+2	dumu-sag	the first-born son	NN	30	nsubj	
+3	{d}en-lil2-la2	of Enlil	NNP	2	nmod:of	
+4	lugal-a-ni	his master	NN	2	appos	
+5	ur-{d}namma	Ur-Namma	NN	4	appos	
+6	nita	man	NN	4	appos	
+7	kal-ga	the mighty	DT	6	det	
+8	lugal	king	NN	4	appos	
+9	uri5{ki}-ma	Ur	NN	8	nmod:of	
+10	lugal	_	,	4	_	
+11	ki-en-gi	_	_	0	_	
+12	ki-uri-ke4	and king Sumer and Akkad	CC	8	cc	
+13	u4	when	WRB	22	advmod	
+14	<e2>	temple	NN	22	nsubj	
+15	{d}en-lil2-la2	of Enlil	NNP	14	nmod:of	
+16	in-du3-a	he had built	VBN	14	acl:relcl	
+17	i7-da	the canal	NN	14	appos	
+18	{d}nanna-gu2-gal	whose name is Nanna Canal Inspector	NNP	17	acl:relcl	
+19	mu-bi	_	,	18	_	
+20	i7	_	,	14	_	
+21	ki-sur-ra-kam	which is boundary canal	NN	18	acl:relcl	
+22	mu-ba-al	he dug	VBD	4	acl:relcl	
+23	kun-bi	Its mouth	NN	22	dobj	
+24	a-ab-ba-ka	he extended	VBD	23	acl:relcl	
+25	i3-la2	into sea	NN	24	nmod:into	
+26	di	_	_	0	_	
+27	nig2	_	_	0	_	
+28	gi-na	By a rightful decision	NN	30	nmod:by	
+29	{d}utu-ta	of Utu	NNP	28	nmod:of	
+30	bar	he chose	VBD	0	root	
+31	bi2-tam	it	PRP	30	dobj	
+32	inim	and	CC	30	cc	
+33	bi2-gi-in	confirmed it	VBD	30	conj	
+34	lu2	A person who	NN	45	nsubj	
+35	{d}nanna-a	to Nanna	NNP	36	nmod:to	
+36	in-da5-kur2-a	has become hostile	VBN	34	acl:relcl	
+37	lugal	_	_	0	_	
+38	he2-a	whether he be a king	NN	34	_	
+39	ensi2	governor	NN	38	conj	
+40	he2-a	or whether he be a	CC	38	cc	
+41	lu2	a person	NN	34	nmod:as	
+42	asz2	cursed	VBN	41	acl	
+43	du11-ga	as	IN	41	nmod:as	
+44	{d}nanna-gin7	by Nanna	NNP	42	nmod:by	
+45	he2-na	may he become	VB	30	parataxis	
+46	ki-tusz	Within residence	NN	45	nmod:within	
+47	{d}nanna-ka	of Nanna	NNP	46	nmod:of	
+48	he2-eb2-pel2	may he be defiled	VBN	45	ccomp	
+49	iri-ni	May his city	MD	51	aux	
+50	{gi}suhurx(KA)-ta	out among reed huts	NNS	51	nmod:out.among	
+51	he2-ta-dag-dag-ge	roam around	VB	48	parataxis	
+52	nam-ti-il	May life	MD	48	_	
+53	nig2-gig-ga-ni	a bitter thing to him	NN	54	nsubj	
+54	he2-na	indeed be	VB	52	acl:relcl
+	
+

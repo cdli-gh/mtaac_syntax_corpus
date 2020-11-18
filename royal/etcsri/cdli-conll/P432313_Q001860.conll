@@ -1,0 +1,24 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nin-dar-a	{d}nin-dar-a[1]	DN	DN	21	DAT	_
+2	lugal	lugal[king]	N	N	1	appos	_
+3	uru16	uru16[exalted]	V	NF.V	2	amod	_
+4	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+5	nam-til3	nam-til3[life]	N	N	21	TERM	_
+6	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	5	appos	_
+7	lugal	lugal[king]	N	N	5	appos	_
+8	kalag-ga	kalag[strong]	V	NF.V.SUB	7	amod	_
+9	lugal	lugal[king]	N	N	5	appos	_
+10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_
+11	lugal	lugal[king]	N	N	9	GEN	_
+12	an-ub-da	an-ub-da[quarter]	N	N	11	GEN	_
+13	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	12	amod	_
+14	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	21	ERG	_
+15	en-me-zid-an-na	en-me-zid-an-na[1]	PN	PN	14	appos	_
+16	šennuₓ(|ME.AD.KU₃|)	šennuₓ(|ME.AD.KU₃|)[priest]	N	N	14	appos	_
+17	en	en[priest]	N	N	19	ABS	_
+18	ki	ki[place]	N	N.ABS	17	appos	_
+19	ag2	ag2[measure]	V	NF.V	16	amod	_
+20	{d}nansze-ke4	{d}nansze[1]	DN	DN.GEN.ERG	19	GEN	_
+21	mu-na-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+
+

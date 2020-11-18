@@ -1,0 +1,21 @@
+# P456975_Q004303.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+# tr.en: Szulgi powerful man king of Urim king of Sumer and Akkad Luduga child of Lu-Nanna is your servant
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	szul-gi	Szulgi powerful	NNP	0	root	
+2	nita	man	NN	1	appos	
+3	kal-ga	_	.	1	_	
+4	lugal	_	_	0	_	
+5	uri5{ki}-ma	king	NN	1	appos	
+6	lugal	Urim king	NNP	5	nmod:of	
+7	ki-en-gi	Sumer	NNP	1	nmod:of	
+8	ki-uri	and Akkad	CC	7	cc	
+9	lu2-du10-ga	Luduga	NNP	12	nsubj	
+10	dumu	child	NN	9	appos	
+11	lu2-{d}nanna	Lu-Nanna	NNP	10	nmod:of	
+12	x-x	is your servant	NN	1	dep
+	
+

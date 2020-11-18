@@ -1,0 +1,49 @@
+# tr.en: txt
+# P432307_Q001005.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters because of great love of Sin Ur to widen he decided Therefore to make country secure and to make lower and upper countries bow down a great wall through whose loop-holes not a hand can enter like a verdant mountain range he made encircle his city In foundations for its foundation deposits he sought out places Of that wall Ibbi-Sin Is Canal inspector of Princeliness is its name
+1	{d}i-bi2-{d}suen	Ibbi-Sin	NNP	0	root	
+2	dingir	the god	NN	1	appos	
+3	kalam-ma-na	his country	NN	2	nmod:of	
+4	lugal	the	DT	5	det	
+5	kal-ga	mighty king	NN	1	appos	
+6	lugal	king	NN	1	appos	
+7	uri5{ki}-ma	Ur	NN	6	nmod:of	
+8	lugal	_	,	1	_	
+9	an-ub-da	and king	CC	6	cc	
+10	limmu2-ba-ke4	four world quarters	NNS	6	nmod:of	
+11	nam-gal	because great love	NN	1	nmod:because	
+12	ki-ag2	_	_	0	_	
+13	{d}suen-na-da	of Sin	NNP	11	nmod:of	
+14	uri5{ki}	Ur	NNP	11	appos	
+15	dagal-e-de3	to widen	VB	14	acl	
+16	sa	he	PRP	17	nsubj	
+17	im-ma-szi-gar	decided	VBD	15	ccomp	
+18	ur5-ta	Therefore	RB	19	advmod	
+19	kalam	to make	VB	17	acl	
+20	gi-ne2	country secure	JJ	19	xcomp	
+21	sig-nim	and to make lower and	CC	20	cc	
+22	GAM-e-de3	upper countries bow down	VB	20	ccomp	
+23	bad3	wall	NN	19	dobj	
+24	gal	a great	DT	23	det	
+25	za-pa-ag2-ba	through whose loop-holes not	NNS	23	nmod:through	
+26	szu	_	,	23	_	
+27	nu-ku4-ku4	a hand can enter	VB	23	acl:relcl	
+28	hur-sag	like	IN	29	nmod:like	
+29	sig7-ga-gin7	a verdant mountain range	NN	23	nmod:like	
+30	iri{ki}-ni	he made	VBD	29	acl:relcl	
+31	im-mi-dab6	encircle his city	VB	30	xcomp	
+32	urua	In foundations	NNS	19	nmod:in	
+33	temen-be2	for its foundation deposits	NNS	32	nmod:for	
+34	ki	_	.	1	_	
+35	in-ma-ni-pa3	he sought out places	VBD	33	acl:relcl	
+36	bad3-ba	Of that wall	NN	1	nmod:of	
+37	{d}i-bi2-{d}suen	Ibbi-Sin	NNP	39	nsubj	
+38	gu2-gal	Is Canal	VBZ	39	cop	
+39	nam-nun-na	inspector Princeliness	NN	40	csubj	
+40	mu-bi-im	is its name	NN	1	parataxis
+	
+

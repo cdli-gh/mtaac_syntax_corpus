@@ -1,0 +1,19 @@
+# tr.en: txt
+# P458498_Q001864.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: Dada governor of Nibru Adda-kala scribe child of is your servant
+1	da-da	Dada	NNP	0	root	
+2	ensi2	governor	NN	1	appos	
+3	nibru{ki}	of Nibru	NNP	2	nmod:of	
+4	ad-da-kal-la	Adda-kala	NN	10	nsubj	
+5	dub-sar	scribe	NN	4	appos	
+6	dumu	child	NN	4	appos	
+7	ur-x-x	of is	IN	6	nmod:of	
+8	...	of is	VBZ	10	dep	
+9	ARAD2	your servant	PRP$	10	nmod:poss	
+10	...	your servant	NN	1	dep
+	
+

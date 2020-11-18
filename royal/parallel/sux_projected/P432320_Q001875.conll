@@ -1,0 +1,24 @@
+# tr.en: txt
+# P432320_Q001875.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: the strong man king of Sumer and Akkad and king of four world quarters the storehouse hisher house of flour he built for himher
+1	nita	man	NN	0	root	
+2	kal-ga	the strong	DT	1	det	
+3	lugal	king	NN	1	appos	
+4	ki-en-gi	Sumer	NNP	3	nmod:of	
+5	ki-uri	and Akkad	CC	4	cc	
+6	lugal	_	,	1	_	
+7	an-ub-da	and king world	CC	3	cc	
+8	limmu2-ba	four quarters	NNS	3	nmod:of	
+9	ga2-nun	the storehouse	DT	10	det	
+10	...	the storehouse	NN	1	appos	
+11	e2	_	_	0	_	
+12	zi3	hisher house	NN	10	appos	
+13	x	_	_	0	dep	
+14	x-ni	flour	NN	12	_	
+15	mu-na-du3	he built for himher	VBD	14	acl:relcl
+	
+

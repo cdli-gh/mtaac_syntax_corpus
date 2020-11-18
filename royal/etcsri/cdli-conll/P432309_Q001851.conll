@@ -1,0 +1,36 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}nanna	{d}nanna[1]	DN	DN	24	DAT	_
+2	amar	amar[young]	N	N	1	appos	_
+3	ban3-da	ban3-da[junior]	V	NF.V	2	amod	_
+4	an-na	an[1]	DN	DN.GEN	2	GEN	_
+5	en	en[lord]	N	N	1	appos	_
+6	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_
+7	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_
+8	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_
+9	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	24	ERG	_
+10	digir	digir[deity]	N	N	9	appos	_
+11	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	10	GEN	_
+12	lugal	lugal[king]	N	N	9	appos	_
+13	kalag-ga	kalag[strong]	V	NF.V.SUB	12	amod	_
+14	lugal	lugal[king]	N	N	9	appos	_
+15	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	14	GEN	_
+16	lugal	lugal[king]	N	N	9	appos	_
+17	an-ub-da	an-ub-da[quarter]	N	N	16	GEN	_
+18	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	17	amod	_
+19	ur	ur[dog]	N	N	24	ABL	_
+20	gun3-a	gun3[speckled]	V	NF.V.SUB	19	amod	_
+21	me-luh-ha{ki}	me-luh-ha{ki}[1]	GN	GN.GEN	19	GEN	_
+22	mar-ha-szi{ki}-ta	mar-ha-szi{ki}[1]	GN	GN.ABL	19	appos	_
+23	gu2-un-sze3	gu2-un[load]	N	N.TERM	24	TERM	_
+24	mu-na-ab-tum2-ma-ni	tum2[lead]	V	VEN.3-SG-NH-A.V.3-SG-P.SUB.3-SG-H-POSS.X	26	X	_
+25	tam-szi-lum-bi	tam-szi-lum[image]	N	N.3-SG-NH-POSS.ABS	26	ABS	_
+26	mu-dim2	dim2[create]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+27	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	29	TERM	_
+28	a	a[water]	N	N.ABS	29	ABS	_
+29	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+30	ur	ur[dog]	N	N	32	GEN	_
+31	gun3-a-ba	gun3[speckled]	V	NF.V.SUB.DEM2.GEN	30	amod	_
+32	he2-dab5	dab5[seize]	V	MOD1.FIN.V.3-SG-S	0	_	_
+33	mu-bi-im	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	0	_	_
+
+

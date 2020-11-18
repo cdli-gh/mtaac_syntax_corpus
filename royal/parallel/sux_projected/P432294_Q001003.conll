@@ -1,0 +1,39 @@
+# tr.en: txt
+# P432294_Q001003.txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: For Nanna the first-born son of Enlil his beloved master Sz-Sin the beloved of Nanna the king whom Enlil in his heart did choose as shepherd of country and of four world quarters the strong king king of Ur and king of four world quarters the Murianabak Temple his beloved temple he built for him
+1	{d}nanna	For Nanna	NNP	0	root	
+2	dumu	_	_	0	_	
+3	sag	the first-born son	NN	1	root	
+4	{d}en-lil2-la2	of Enlil	NNP	3	nmod:of	
+5	lugal	_	NN	6	appos	
+6	ki-ag2-ga2-ni-ir	his beloved master	NN	3	appos	
+7	{d}szu-{d}suen	_	,	6	_	
+8	ki-ag2	the beloved	JJ	6	appos	
+9	{d}nanna	Nanna	NNP	8	nmod:of	
+10	lugal	_	_	0	_	
+11	{d}en-lil2-le	the king whom Enlil	NN	6	appos	
+12	sza3-ga-na	in his heart	NN	13	nmod:in	
+13	in-pa3	did choose	VB	11	acl:relcl	
+14	sipa	as shepherd	NN	13	nmod:as	
+15	kalam-ma	country	NN	14	nmod:of	
+16	u3	and	CC	14	cc	
+17	an-ub-da	four	CD	18	nummod	
+18	limmu2-ba-sze3	world quarters	NNS	14	conj	
+19	lugal	the	DT	20	det	
+20	kal-ga	strong king	NN	6	appos	
+21	lugal	king	NN	6	appos	
+22	uri5{ki}-ma	Ur	NN	21	nmod:of	
+23	lugal	_	,	6	_	
+24	an-ub-da	and king	CC	21	cc	
+25	limmu2-ba-ke4	four world quarters	NNS	21	nmod:of	
+26	e2	the	DT	27	det	
+27	mu-ri-a-na-ba-ak	Murianabak Temple	NNP	6	appos	
+28	e2	_	,	6	_	
+29	ki-ag2-ga2-ni	his beloved temple	NN	6	appos	
+30	mu-na-du3	he built for him	VBD	6	acl:relcl
+	
+

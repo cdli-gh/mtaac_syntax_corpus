@@ -1,0 +1,59 @@
+# P432290_Q001000.txt
+# tr.en: txt
+						
+
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+# tr.en: For Szara the trusted one of An beloved son of Inanna his father Sz-Sin the incantation-priest of An the priest with pure hands of Enlil and Ninlil and all great gods the king whom Enlil as one beloved in his heart did choose the shepherd of country the strong king king of Ur and king of four quarters of world when Mardu wall That Which Keeps Distant the Tidnum he had built and forces of Mardu to his own land he had sent back the Temple Chosen by Heart his beloved temple for his life he built for him
+1	{d}szara2	For Szara	NNP	0	root	
+2	nir-gal2	the trusted one	CD	1	root	
+3	an-na	An	DT	4	det	
+4	dumu	son	NN	2	nmod:of	
+5	ki-ag2	beloved	JJ	4	amod	
+6	{d}inanna	of Inanna	NNP	4	nmod:of	
+7	ad-da-ni-ir	his father	NN	2	appos	
+8	{d}szu-{d}suen	_	,	7	_	
+9	iszib	the incantation-priest	NN	7	appos	
+10	an-na	An	DT	9	nmod:of	
+11	gudu4	_	_	0	_	
+12	szu	_	_	0	_	
+13	dadag	the priest with pure hands	NN	7	appos	
+14	{d}en-lil2	of Enlil	NN	13	nmod:of	
+15	{d}nin-lil2-ka	and Ninlil	CC	14	cc	
+16	u3	and	CC	7	cc	
+17	dingir	_	,	2	_	
+18	gal-gal-e-ne	all great gods	NNS	7	conj	
+19	lugal	_	_	0	_	
+20	{d}en-lil2-le	the king whom Enlil	NN	2	appos	
+21	ki-ag2	as one beloved	CD	23	nmod:as	
+22	sza3-ga-na	in his heart	NN	21	nmod:in	
+23	in-pa3	did choose	VB	20	acl:relcl	
+24	sipa	_	NN	25	nmod:of	
+25	kalam-ma-sze3	the shepherd country	NN	2	appos	
+26	lugal	the	DT	27	det	
+27	kal-ga	strong king	NN	2	appos	
+28	lugal	king	NN	2	appos	
+29	uri5{ki}-ma	Ur	NN	28	nmod:of	
+30	lugal	_	,	2	_	
+31	an-ub-da	and king	CC	28	cc	
+32	limmu2-ba-ke4	four quarters world	NNS	28	nmod:of	
+33	u4	when	WRB	2	_	
+34	bad3	_	_	0	_	
+35	mar-tu	Mardu wall	NN	33	root	
+36	mu-ri-iq	That Which Keeps Distant	WDT	35	_	
+37	ti-id-ni-im	the Tidnum	NNP	36	dobj	
+38	mu-du3!-a	he had built	VBN	36	acl	
+39	u3	and	CC	36	cc	
+40	ne3	forces Mardu	NNS	36	conj	
+41	mar-tu	_	_	0	_	
+42	ma-da-ne2-e	to his own land	NN	40	nmod:to	
+43	bi2-in-gi4-a	he had sent back	VBN	42	acl:relcl	
+44	e2	_	,	45	_	
+45	sza3-ge	the Temple Chosen by Heart	NNP	36	root	
+46	pa3-da	_	_	0	_	
+47	e2	_	,	45	_	
+48	ki-ag2-ga2-ni	his beloved temple	NN	45	appos	
+49	nam-ti-la-ni-sze3	for his life	NN	45	nmod:for	
+50	mu-na-du3	he built for him	VBD	49	acl:relcl
+	
+

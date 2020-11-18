@@ -1,0 +1,27 @@
+# P432249_Q001769.txt
+# tr.en: txt
+						
+
+# tr.en: queen of his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad PN
+# ? ? ? ? ? ? ? ? ? ? ? ? ?
+#	?	?	?	?	?	?	?	?	?	?	?	?	?
+1	nin	queen	NN	0	root	
+2	x	_	NN	1	nmod:of	
+3	x	_	,	1	dep	
+4	x	_	_	0	dep	
+5	nin-a-ni	his mistress	NN	1	appos	
+6	nam-ti	for life	NN	1	nmod:for	
+7	{d}szul-gi	of Szulgi	NNP	6	nmod:of	
+8	nita	man	NN	7	appos	
+9	kal-ga	the mighty	DT	8	det	
+10	lugal	king	NN	7	appos	
+11	uri5{ki}-ma	Ur	NN	10	nmod:of	
+12	lugal	and king	CC	10	cc	
+13	ki-en-gi	Sumer	NNP	10	nmod:of	
+14	ki-uri-ka-sze3	and Akkad	CC	13	cc	
+15	AN	PN	NNP	1	appos	
+16	zi	_	_	0	_	
+17	gi4	_	_	0	_	
+18	...	_	_	0	dep
+	
+

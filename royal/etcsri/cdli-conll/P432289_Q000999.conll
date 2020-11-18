@@ -1,0 +1,25 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	{d}szara2	{d}szara2[1]	DN	DN	22	DAT	_
+2	nir-gal2	nir-gal2[authoritative]	V	NF.V	1	amod	_
+3	an-na	an[1]	DN	DN.GEN	1	GEN	_
+4	dumu	dumu[child]	N	N	6	ABS	_
+5	ki	ki[place]	N	N.ABS	4	appos	_
+6	ag2	ag2[measure]	V	NF.V	1	amod	_
+7	{d}inana	{d}inana[1]	DN	DN.GEN	6	GEN	_
+8	ad-da-ni-ir	ad-da[father]	N	N.3-SG-H-POSS.DAT-H	6	appos	_
+9	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	22	ERG	_
+10	lugal	lugal[king]	N	N	9	appos	_
+11	kalag-ga	kalag[strong]	V	NF.V.SUB	10	amod	_
+12	lugal	lugal[king]	N	N	9	appos	_
+13	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	12	GEN	_
+14	lugal	lugal[king]	N	N	9	appos	_
+15	an-ub-da	an-ub-da[quarter]	N	N	14	GEN	_
+16	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	15	amod	_
+17	e2-szag4-ge4-pad3-da	e2-szag4-ge4-pad3-da[1]	TN	TN	22	ABS	_
+18	e2	e2[house]	N	N	20	ABS	_
+19	ki	ki[place]	N	N.ABS	18	appos	_
+20	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	17	amod	_
+21	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	22	TERM	_
+22	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+
+

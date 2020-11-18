@@ -1,0 +1,27 @@
+# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW
+1	x	_[_]	u	_	0	_	_
+2	lugal	lugal[king]	N	N	0	_	_
+3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_
+4	lugal	lugal[king]	N	N	2	appos	_
+5	urim2{ki}-ma	urim2{ki}[1]	SN	SN.GEN	4	GEN	_
+6	lugal	lugal[king]	N	N	2	appos	_
+7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_
+8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_
+9	ud	ud[sun]	N	N	0	_	_
+10	ma-da	ma-da[land]	N	N	0	_	_
+11	za-ab-sza-li{ki}	za-ab-sza-li{ki}[1]	GN	GN	0	_	_
+12	u3	u3[and]	CNJ	CNJ	0	_	_
+13	ma-da-ma-da	ma-da-ma-da[land]	N	N-RDP	15	GEN.ABS	_
+14	szimaszki{ki}-ka	szimaszki{ki}[1]	EN	EN.GEN.GEN.ABS	13	GEN	_
+15	mu-hul-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	19	LOC	_
+16	masz2-gal	masz2-gal[goat]	N	N	19	ABS	_
+17	gu2-un	gu2-un[load]	N	N	16	appos	_
+18	an-sza-an{ki}-na	an-sza-an{ki}[1]	SN	SN.GEN.ABS	17	GEN	_
+19	mu-un-tum2-ma-na	tum2[lead]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	21	GEN	_
+20	tam2-szi-lum-bi	tam2-szi-lum[image]	N	N.3-SG-NH-POSS.ABS	21	ABS	_
+21	mu-na-an-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+22	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	24	TERM	_
+23	a	a[water]	N	N.ABS	24	ABS	_
+24	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_
+
+
