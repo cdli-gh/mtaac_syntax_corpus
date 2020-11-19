@@ -1,0 +1,15 @@
+# tr.en: For An king of gods his master Ur-Namma king of Ur a large garden he set up for him and a dais on a pure place he built for him	
+a.1.1	an	1	an	an[1]	DN	DN	10	DAT	_	1	an	an[1]	DN	DN	10	DAT	_	1	_	,	3	_
+a.1.2	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	_	0	_
+a.1.3	dingir-re-ne	3	digir-re-ne	digir[deity]	N	N.PL.GEN	2	GEN	_	3	digir-re-ne	digir[deity]	N	N.PL.GEN	2	GEN	_	3	For An king of gods	DT	0	root
+a.2.1	lugal-a-ni	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his master	NN	3	appos
+a.3.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	10	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	10	ERG	_	5	Ur-Namma	NN	4	appos
+a.4.1	lugal	6	lugal	lugal[king]	N	N	5	appos	_	6	lugal	lugal[king]	N	N	5	appos	_	6	king	NN	4	appos
+a.4.2	uri5{ki}-ma-ke4	?	?	?	?	?	?	?	?	7	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	6	GEN	_	7	of Ur	NN	6	nmod:of
+a.5.1	{gesz}kiri6-mah	7+8+9	urim5{ki}-ma-ke4+kiri6+mah	urim5{ki}[1]+kiri6[orchard]+mah[great]	SN+N+V	SN.GEN.ERG+N+mah.ABS	6+10+8	GEN+ABS+amod	_+_+_	8	kiri6	kiri6[orchard]	N	N	10	ABS	_	8	a large garden	NN	7	appos
+?	*RETOK*-mah	?	?	?	?	?	?	?	?	9	mah	mah[great]	V	mah.ABS	8	amod	_	?	?	?	?	?
+a.6.1	mu-na-gub	10	mu-na-gub	gub[stand]	V	VEN.3-SG-H.DAT.3-SG-H-A.gub.3-SG-P	0	_	_	10	mu-na-gub	gub[stand]	V	VEN.3-SG-H.DAT.3-SG-H-A.gub.3-SG-P	0	_	_	9	he set up for him	VBD	8	acl:relcl
+a.7.1	bara2	11	barag	barag[dais]	N	N.ABS	14	ABS	_	11	barag	barag[dais]	N	N.ABS	14	ABS	_	10	and	CC	4	cc
+a.7.2	ki	12	ki	ki[place]	N	N	14	LOC	_	12	ki	ki[place]	N	N	14	LOC	_	11	_	_	0	_
+a.7.3	sikil-la	13	sikil-la	sikil[pure]	V	NF.V.L2-NH	12	amod	_	13	sikil-la	sikil[pure]	V	NF.V.L2-NH	12	amod	_	12	a dais on a pure place	NN	4	conj
+a.8.1	mu-na-du3	14	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	13	he built for him	VBD	12	acl:relcl

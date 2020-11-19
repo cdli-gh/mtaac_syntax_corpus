@@ -1,0 +1,16 @@
+# tr.en: txt	
+# tr.en: To Nin-iria-mutum his mistress for life of Szulgi the mighty man king of Ur Nin-kisale and Ur-niginmu the sea-faring merchants dedicated to her	
+a.1.1	{d}nin-iri-a-mu-tum2	1	{d}nin-iri-a-mu-gen	{d}nin-iri-a-mu-gen[1]	DN	DN	14	DAT	_	1	{d}nin-iri-a-mu-gen	{d}nin-iri-a-mu-gen[1]	DN	DN	14	DAT	_	1	To Nin-iria-mutum	NN	0	root
+a.2.1	nin-a-ni	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his mistress	NN	1	root
+a.3.1	nam-ti	3	nam-til3	nam-til3[life]	N	N	14	TERM	_	3	nam-til3	nam-til3[life]	N	N	14	TERM	_	3	for life	NN	2	root
+a.4.1	szul-gi	4	szul-gi	szul-gi[1]	RN	RN	3	appos	_	4	szul-gi	szul-gi[1]	RN	RN	3	appos	_	4	Szulgi	NNP	3	nmod:of
+a.5.1	nita	5	nita	nita[male]	N	N	3	appos	_	5	nita	nita[male]	N	N	3	appos	_	5	man	NN	3	root
+a.5.2	kal-ga	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	the mighty	DT	5	det
+a.6.1	lugal	7	lugal	lugal[king]	N	N	5	GEN	_	7	lugal	lugal[king]	N	N	5	GEN	_	7	_	,	8	_
+a.6.2	uri5{ki}-ma-ka-sze3	8	urim5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	7	GEN	_	8	urim5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	7	GEN	_	8	king Ur	NN	5	appos
+a.7.1	nin-kisal-sze3	9	nin-kisal-sze3	nin-kisal-sze3[1]	PN	PN	14	ERG	_	9	nin-kisal-sze3	nin-kisal-sze3[1]	PN	PN	14	ERG	_	9	Nin-kisale	NN	8	conj
+a.8.1	ur-nigar-mu	10	ur-nigin3-gu10	ur-nigin3-gu10[1]	PN	PN	9	appos	_	10	ur-nigin3-gu10	ur-nigin3-gu10[1]	PN	PN	9	appos	_	10	and Ur-niginmu	CC	8	cc
+a.9.1	ga-esz8	11	ga-esz8	ga-esz8[trader]	N	N	9	appos	_	11	ga-esz8	ga-esz8[trader]	N	N	9	appos	_	11	the	DT	12	det
+a.9.2	a-ab-ba-ka-ke4	12	a-ab-ba-ka-ke4	a-ab-ba[sea]	N	N.GEN.ERG	11	GEN	_	12	a-ab-ba-ka-ke4	a-ab-ba[sea]	N	N.GEN.ERG	11	GEN	_	12	sea-faring merchants	NNS	5	appos
+a.10.1	a	13	a	a[water]	N	N.ABS	14	ABS	_	13	a	a[water]	N	N.ABS	14	ABS	_	13	_	.	5	_
+a.10.2	mu-na-ru	14	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	dedicated to her	VBN	5	acl

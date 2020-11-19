@@ -1,0 +1,19 @@
+# tr.en: For Lamma his mistress for life of Szulgi the mighty man the king of Ur Baba-ninam the cup-bearer of Ur-Ningirsu the beloved en-priest of Nane her wig of womanhood he fashioned for her	
+a.1.1	{d}lamma	1	{d}lamma	{d}lamma[deity]	N	N	18	DAT	_	1	{d}lamma	{d}lamma[deity]	N	N	18	DAT	_	1	For Lamma	IN	2	nmod:for
+a.2.1	nin-a-ni	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his mistress	NN	0	root
+a.3.1	nam-ti	3	nam-til3	nam-til3[life]	N	N	18	TERM	_	3	nam-til3	nam-til3[life]	N	N	18	TERM	_	3	for life	NN	2	root
+a.4.1	{d}szul-gi	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	of Szulgi	NNP	3	nmod:of
+a.5.1	nita	5	nita	nita[male]	N	N	3	appos	_	5	nita	nita[male]	N	N	3	appos	_	5	man	NN	3	root
+a.5.2	kal-ga	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	the mighty	DT	5	det
+a.6.1	lugal	7	lugal	lugal[king]	N	N	5	GEN	_	7	lugal	lugal[king]	N	N	5	GEN	_	7	the	DT	8	det
+a.6.2	uri5{ki}-ma-ka-sze3	?	?	?	?	?	?	?	?	8	urim5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	7	GEN	_	8	king Ur	NN	5	appos
+a.7.1	{d}ba-ba6-nin-am3	8+9	urim5{ki}-ma-ka-sze3+{d}ba-u2-nin-am3	urim5{ki}[1]+{d}ba-u2-nin-am3[1]	SN+PN	SN.GEN.GEN.TERM+PN	7+18	GEN+GEN.ERG	_+_	9	{d}ba-u2-nin-am3	{d}ba-u2-nin-am3[1]	PN	PN	18	GEN.ERG	_	9	Baba-ninam	NN	5	appos
+a.8.1	zabar-dab5	10	zabar-dab5	zabar-dab5[official]	N	N	9	appos	_	10	zabar-dab5	zabar-dab5[official]	N	N	9	appos	_	10	the cup-bearer	NN	9	dobj
+a.9.1	ur-{d}nin-gir2-su	11	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	9	appos	_	11	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	9	appos	_	11	of Ur-Ningirsu	NNP	10	nmod:of
+a.10.1	en	12	en	en[priest]	N	N	14	ABS	_	12	en	en[priest]	N	N	14	ABS	_	12	_	,	11	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	13	ki	ki[place]	N	N.ABS	12	appos	_	?	?	?	?	?
+a.10.2	ki-ag2	13+14	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	12+11	appos+amod	_+_	14	ag2	ag2[measure]	V	NF.V	11	amod	_	13	the beloved	DT	14	det
+a.10.3	{d}nansze-ka-ke4	15	{d}nansze-ka-ke4	{d}nansze[1]	DN	DN.GEN.GEN.ERG	14	GEN	_	15	{d}nansze-ka-ke4	{d}nansze[1]	DN	DN.GEN.GEN.ERG	14	GEN	_	14	en-priest Nane	NN	11	appos
+a.11.1	hi-li	16	hi-li	hi-li[wig]	N	N	18	ABS	_	16	hi-li	hi-li[wig]	N	N	18	ABS	_	15	her	PRP$	16	nmod:poss
+a.11.2	nam-munus-ka-ni	17	nam-munus-ka-ni	nam-munus[femininity]	N	N.GEN.3-SG-H-POSS.ABS	16	appos	_	17	nam-munus-ka-ni	nam-munus[femininity]	N	N.GEN.3-SG-H-POSS.ABS	16	appos	_	16	wig womanhood	NN	10	_
+a.12.1	mu-na-dim2	18	mu-na-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	18	mu-na-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	17	he fashioned for her	VBD	16	acl:relcl

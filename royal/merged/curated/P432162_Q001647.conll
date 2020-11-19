@@ -1,0 +1,14 @@
+# tr.en: txt	
+# tr.en: For goddess DN her mistress Tarm-Uram daughter of Apil-kn the king of Mari bride of Ur-Namma king of Ur	
+o.col7.1'.1	x	1	x	_[_]	u	_	0	_	_	1	x	_[_]	u	_	0	_	_	1	_	,	2	dep
+o.col7.1'.2	x	2	x	_[_]	u	_	0	_	_	2	x	_[_]	u	_	0	_	_	2	For goddess DN	NN	0	root
+o.col7.2'.1	nin-a-ni-ir	3	nin-a-ni-ir	nin[lady]	N	N.3-SG-H-POSS.DAT-H	0	_	_	3	nin-a-ni-ir	nin[lady]	N	N.3-SG-H-POSS.DAT-H	0	_	_	3	her mistress	NN	1	root
+o.col7.3'.1	da-ra-am-uri5{ki}-am	4	ta2-ra-am-urim2{ki}	ta2-ra-am-urim2{ki}[1]	PN	PN	0	_	_	4	ta2-ra-am-urim2{ki}	ta2-ra-am-urim2{ki}[1]	PN	PN	0	_	_	4	Tarm-Uram	NNP	3	appos
+o.col7.4'.1	dumu-munus	5	dumu-munus	dumu-munus[daughter]	N	N	0	_	_	5	dumu-munus	dumu-munus[daughter]	N	N	0	_	_	5	daughter	NN	3	appos
+o.col7.4'.2	a-pil-ki-in	6	a-pil-ki-in	a-pil-ki-in[1]	RN	RN	0	_	_	6	a-pil-ki-in	a-pil-ki-in[1]	RN	RN	0	_	_	6	of Apil-kn	NN	5	nmod:of
+o.col7.5'.1	lugal	7	lugal	lugal[king]	N	N	6	GEN	_	7	lugal	lugal[king]	N	N	6	GEN	_	7	_	,	8	_
+o.col7.5'.2	ma-ri2{ki}-ka	8	ma-ri2{ki}-ka	ma-ri2{ki}[1]	SN	SN.GEN.GEN	7	GEN	_	8	ma-ri2{ki}-ka	ma-ri2{ki}[1]	SN	SN.GEN.GEN	7	GEN	_	8	the king Mari	NN	5	_
+o.col7.6'.1	e2-gi4-a	9	e2-gi4-a	e2-gi4-a[bride]	N	N	0	_	_	9	e2-gi4-a	e2-gi4-a[bride]	N	N	0	_	_	9	bride	NN	8	appos
+o.col7.7'.1	ur-{d}namma	10	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	10	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	10	Ur-Namma	NNP	9	nmod:of
+o.col7.8'.1	lugal	11	lugal	lugal[king]	N	N	0	_	_	11	lugal	lugal[king]	N	N	0	_	_	11	king	NN	8	appos
+o.col7.8'.2	uri5{ki}-ma	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	12	Ur	NN	11	nmod:of

@@ -1,0 +1,18 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi mighty man king of Ur king of lands of Sumer and Akkad Ur-Nanibgal governor of Nippur son of Lugal-engardu governor of Nippur your servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi	NNP	0	root
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	mighty	JJ	2	amod
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	ki-en-gi	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	_	.	1	_
+a.col1.4.3	ki-uri	8	ki-uri	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_	8	ki-uri	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_	8	lands Sumer and Akkad	NNS	6	nmod:of
+a.col2.1.1	ur-{d}nanibgal	9	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	0	_	_	9	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	0	_	_	9	Ur-Nanibgal	NNP	1	_
+a.col2.2.1	ensi2	10	ensi2	ensi2[ruler]	N	N	9	appos	_	10	ensi2	ensi2[ruler]	N	N	9	appos	_	10	governor	NN	9	appos
+a.col2.3.1	nibru{ki}	11	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	10	GEN	_	11	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	10	GEN	_	11	of Nippur	NNP	10	nmod:of
+a.col2.4.1	dumu	12	dumu	dumu[child]	N	N	9	appos	_	12	dumu	dumu[child]	N	N	9	appos	_	12	son	NN	9	appos
+a.col2.4.2	lugal-engar-du10	13	lugal-engar-dug3	lugal-engar-dug3[1]	PN	PN	9	appos	_	13	lugal-engar-dug3	lugal-engar-dug3[1]	PN	PN	9	appos	_	13	Lugal-engardu	NN	12	nmod:of
+a.col2.5.1	ensi2	14	ensi2	ensi2[ruler]	N	N	13	GEN	_	14	ensi2	ensi2[ruler]	N	N	13	GEN	_	14	governor	NN	9	appos
+a.col2.6.1	nibru{ki}-ka	15	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	14	GEN	_	15	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	14	GEN	_	15	of Nippur	NNP	14	nmod:of
+a.col2.7.1	ARAD2-zu	16	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	16	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	16	your servant	NN	9	appos

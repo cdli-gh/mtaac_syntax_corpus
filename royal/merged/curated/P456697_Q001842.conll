@@ -1,0 +1,7 @@
+# tr.en: txt	
+# tr.en: Ninheliya spouse of Ayakala governor of Umma	
+a.1.1	nin9-hi-li2-a	1	nin9-he-li2-a	nin9-he-li2-a[1]	PN	PN	0	_	_	1	nin9-he-li2-a	nin9-he-li2-a[1]	PN	PN	0	_	_	1	Ninheliya spouse	NNP	0	root
+a.2.1	dam	2	dam	dam[spouse]	N	N	1	appos	_	2	dam	dam[spouse]	N	N	1	appos	_	2	_	.	1	_
+a.2.2	a-a-kal-la	3	a-a-kal-la	a-a-kal-la[1]	PN	PN	1	appos	_	3	a-a-kal-la	a-a-kal-la[1]	PN	PN	1	appos	_	3	of Ayakala	NNP	1	nmod:of
+a.3.1	ensi2	4	ensi2	ensi2[ruler]	N	N	3	GEN	_	4	ensi2	ensi2[ruler]	N	N	3	GEN	_	4	governor	NN	1	appos
+a.4.1	umma{ki}-ka	5	umma{ki}-ka	umma{ki}[1]	SN	SN.GEN.GEN.ABS	4	GEN	_	5	umma{ki}-ka	umma{ki}[1]	SN	SN.GEN.GEN.ABS	4	GEN	_	5	Umma	NNP	4	nmod:of

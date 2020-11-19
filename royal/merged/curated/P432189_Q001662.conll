@@ -1,0 +1,26 @@
+# tr.en: Szulgi the mighty man king of Ur and king of Sumer and Akkad who Emeslam the temple of Meslamtaea in Kutha built That which was on an old stela in Emeslam in Kutha Long tablet of Bel-uballi scribe	
+a.1.1	szul-gi	1	szul-gi	szul-gi[1]	RN	RN	13	ERG	_	1	szul-gi	szul-gi[1]	RN	RN	13	ERG	_	1	Szulgi	NNP	0	root
+a.2.1	_nita	?	?	?	?	?	?	?	?	2	nita	nita[male]	N	N	1	appos	_	2	the	DT	3	det
+a.2.2	kal-ga_	?	?	?	?	?	?	?	?	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	mighty man	NN	1	appos
+a.3.1	_lugal_	?	?	?	?	?	?	?	?	4	lugal	lugal[king]	N	N	1	appos	_	4	king of	NN	1	appos
+a.3.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.4.1	_lugal	2+3+4+5+6	nita+kalag-ga+lugal+urim5{ki}-ma+lugal	nita[male]+kalag[strong]+lugal[king]+urim5{ki}[1]+lugal[king]	N+V+N+SN+N	N+NF.V.SUB+N+SN.GEN+N	1+2+1+4+1	appos+amod+appos+GEN+appos	_+_+_+_+_	6	lugal	lugal[king]	N	N	1	appos	_	6	and king	CC	4	cc
+a.4.2	ki-en-gi	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	Sumer	NNP	4	nmod:of
+a.4.3	ki-uri_	?	?	?	?	?	?	?	?	8	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	7	appos	_	8	and Akkad	CC	7	cc
+a.5.1	e2-mes-lam	?	?	?	?	?	?	?	?	9	e2-mesz3-lam	e2-mesz3-lam[1]	TN	TN	13	ABS	_	9	who Emeslam	WP	13	dobj
+a.6.1	_e2_	?	?	?	?	?	?	?	?	10	e2	e2[house]	N	N	9	appos	_	10	the temple	NN	13	appos
+a.6.2	{d}mes-lam-ta-e3-a	8+9+10+11	ki-uri-ke4+e2-mesz3-lam+e2+{d}mesz3-lam-ta-e3-a	ki-uri[1]+e2-mesz3-lam[1]+e2[house]+{d}mesz3-lam-ta-e3-a[1]	GN+TN+N+DN	GN.GEN.ERG+TN+N+DN.GEN	7+13+9+10	appos+ABS+appos+GEN	_+_+_+_	11	{d}mesz3-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN.GEN	10	GEN	_	11	Meslamtaea	NNP	10	nmod:of
+a.7.1	gu2-du8-a{ki}	12	gu2-du8-a{ki}	gu2-du8-a{ki}[Kutha]	SN	SN.GEN.ABS	10	GEN	_	12	gu2-du8-a{ki}	gu2-du8-a{ki}[Kutha]	SN	SN.GEN.ABS	10	GEN	_	12	in Kutha	NNP	10	nmod:in
+a.8.1	_mu-du3-a_	13	mu-du3-a	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.ABS	0	_	_	13	mu-du3-a	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.ABS	0	_	_	13	built	VBN	1	acl:relcl
+a.9.1	sza	14	sza	_[_]	L	_	0	_	_	14	sza	_[_]	L	_	0	_	_	14	That which	DT	13	_
+a.9.2	_ugu2	?	?	?	?	?	?	?	?	15	UGU₂	_[_]	L	_	0	_	_	15	was	VBD	17	cop
+a.9.3	{na4}na-ru2-a	?	?	?	?	?	?	?	?	16	{NA₄}NA.RU₂.A	_[_]	L	_	0	_	_	16	on an	IN	17	nmod:on
+a.9.4	libir-ra_	15+16+17	UGU₂+{NA₄}NA.RU₂.A+LIBIR.RA	_[_]+_[_]+_[_]	L+L+L	_+_+_	0+0+0	_+_+_	_+_+_	17	LIBIR.RA	_[_]	L	_	0	_	_	17	old stela	NN	14	acl:relcl
+a.10.1	sza	18	sza	_[_]	L	_	0	_	_	18	sza	_[_]	L	_	0	_	_	18	_	.	14	_
+a.10.2	e2-mes-lam	?	?	?	?	?	?	?	?	19	e2-mesz3-lam	_[1]	TN	_	0	_	_	19	in Emeslam	NNP	17	nmod:in
+a.10.3	qe2-reb	?	?	?	?	?	?	?	?	20	qe3-reb	_[_]	L	_	0	_	_	20	in	IN	21	nmod:in
+a.10.4	gu2-du8-a{ki}	?	?	?	?	?	?	?	?	21	GU₂-DU₈-A{KI}	_[Kutha]	SN	_	0	_	_	21	Kutha	NNP	19	nmod:in
+?	*RETOK*-IM	?	?	?	?	?	?	?	?	22	IM	_[_]	L	_	0	_	_	?	?	?	?	?
+a.11.1	_im-gid2-da_	?	?	?	?	?	?	?	?	23	GID₂.DA	_[_]	L	_	0	_	_	22	Long	NNP	23	compound
+a.11.2	{disz}{d}en-din-it,	?	?	?	?	?	?	?	?	24	{m}{d}EN-TIN-iṭ	_[1]	PN	_	0	_	_	23	tablet Bel-uballi	NN	14	_
+a.11.3	_dub-sar_	19+20+21+22+23+24+25	e2-mesz3-lam+qe3-reb+GU₂-DU₈-A{KI}+IM+GID₂.DA+{m}{d}EN-TIN-iṭ+DUB.SAR	_[1]+_[_]+_[Kutha]+_[_]+_[_]+_[1]+_[_]	TN+L+SN+L+L+PN+L	_+_+_+_+_+_+_	0+0+0+0+0+0+0	_+_+_+_+_+_+_	_+_+_+_+_+_+_	25	DUB.SAR	_[_]	L	_	0	_	_	24	scribe	NN	23	_

@@ -1,0 +1,47 @@
+# tr.en: For Nanna of Karzida his master Amar-Suena whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the true god of his country king of Ur and king of four world quarters since from ancient times in Karzida the Gipar had not been built nor had an en-priestess been made to live therein Amar-Suena beloved son of Nanna for Nanna whom he loves in Karzida the Gipar he built and En-aga-zi-ana his beloved en-priestess he made enter therein Amar-Suena shall prolong life	
+a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	8	DAT	_	1	{d}nanna	{d}nanna[1]	DN	DN	8	DAT	_	1	For Nanna	NNP	0	root
+a.2.1	kar-zi-da	2	kar-zid-da	kar-zid-da[1]	SN	SN.GEN	1	GEN	_	2	kar-zid-da	kar-zid-da[1]	SN	SN.GEN	1	GEN	_	2	of Karzida	NNP	1	nmod:of
+a.3.1	lugal-a-ni-ir	3	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	3	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	3	his master	NN	1	root
+a.4.1	{d}amar-{d}suen	4	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	8	LOC	_	4	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	8	LOC	_	4	Amar-Suena	NNP	3	appos
+a.5.1	nibru{ki}-a	5	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	4	appos	_	5	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	4	appos	_	5	whom in Nippur	WP	24	_
+a.6.1	{d}en-lil2-le	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	8	ERG	_	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	8	ERG	_	6	Enlil	NNP	5	nmod:in
+a.7.1	mu	7	mu	mu[name]	N	N.ABS	8	ABS	_	7	mu	mu[name]	N	N.ABS	8	ABS	_	7	chose	VBD	6	acl
+a.7.2	pa3-da	8	pad3-da	pad3[find]	V	NF.V.SUB	24	ERG	_	8	pad3-da	pad3[find]	V	NF.V.SUB	24	ERG	_	8	by name	NN	7	nmod:by
+a.8.1	sag-us2	9	sag-us2	sag-us2[constant]	V	NF.V	8	appos	_	9	sag-us2	sag-us2[constant]	V	NF.V	8	appos	_	9	the constant supporter	NN	6	appos
+a.9.1	e2	10	e2	e2[house]	N	N	9	GEN	_	10	e2	e2[house]	N	N	9	GEN	_	10	_	,	6	_
+a.9.2	{d}en-lil2-ka	11	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	10	GEN	_	11	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	10	GEN	_	11	of temple of Enlil	NN	9	nmod:of
+a.10.1	dingir	?	?	?	?	?	?	?	?	12	digir	digir[deity]	N	N	8	appos	_	12	the	DT	13	det
+a.10.2	zi	12+13	digir+zid	digir[deity]+zid[right]	N+V	N+NF.V	8+12	appos+amod	_+_	13	zid	zid[right]	V	NF.V	12	amod	_	13	true god	NN	6	appos
+a.10.3	kalam-ma-na	14	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	12	GEN	_	14	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	12	GEN	_	14	his country	NN	13	nmod:of
+a.11.1	lugal	15	lugal	lugal[king]	N	N	8	appos	_	15	lugal	lugal[king]	N	N	8	appos	_	15	king	NN	6	appos
+a.11.2	uri5{ki}-ma	16	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	15	GEN	_	16	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	15	GEN	_	16	Ur	NN	15	nmod:of
+a.12.1	lugal	17	lugal	lugal[king]	N	N	8	appos	_	17	lugal	lugal[king]	N	N	8	appos	_	17	_	,	6	_
+a.12.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.12.3	ub-da	18	an-ub-da	an-ub-da[quarter]	N	N	17	GEN	_	18	an-ub-da	an-ub-da[quarter]	N	N	17	GEN	_	18	and king	CC	15	cc
+a.12.4	limmu2-ba-ke4	19	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	18	amod	_	19	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	18	amod	_	19	four world quarters	NNS	15	nmod:of
+a.13.1	u4	20	ud	ud[sun]	N	N	24	ABL	_	20	ud	ud[sun]	N	N	24	ABL	_	20	_	_	0	_
+a.13.2	ul-li2-a-ta	21	ul-li2-a-ta	ul-li2[distant]	V	NF.V.SUB.ABL	20	amod	_	21	ul-li2-a-ta	ul-li2[distant]	V	NF.V.SUB.ABL	20	amod	_	21	since from ancient times	IN	24	mark
+a.14.1	kar-zi-da-a	?	?	?	?	?	?	?	?	22	kar-zid-da-a	kar-zid-da[1]	SN	SN.L1	24	LOC	_	22	in Karzida	NNP	24	nmod:in
+a.15.1	ge6-par4	22+23	kar-zid-da-a+gi6-par4	kar-zid-da[1]+gi6-par4[cloister]	SN+N	SN.L1+N.ABS	24+24	LOC+ABS	_+_	23	gi6-par4	gi6-par4[cloister]	N	N.ABS	24	ABS	_	23	the Gipar	NNP	24	nsubjpass
+a.15.2	nu-du3-am3	24	nu-du3-am3	du3[build]	V	NEG.V.3-SG-S.SUB.COP-3-SG	26	ABS	_	24	nu-du3-am3	du3[build]	V	NEG.V.3-SG-S.SUB.COP-3-SG	26	ABS	_	24	had not been built	VBN	3	acl:relcl
+a.16.1	en	25	en	en[priest]	N	N.ABS	24	appos	_	25	en	en[priest]	N	N.ABS	24	appos	_	25	_	,	24	_
+a.16.2	nu-un-ti-am3	26	nu-un-til3-am3	til3[live]	V	NEG.L1-SYN.V.3-SG-S.SUB.COP-3-SG	34	ERG	_	26	nu-un-til3-am3	til3[live]	V	NEG.L1-SYN.V.3-SG-S.SUB.COP-3-SG	34	ERG	_	26	nor had an en-priestess been made to live therein	CC	24	cc
+a.17.1	{d}amar-{d}suen	27	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	26	appos	_	27	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	26	appos	_	27	Amar-Suena	NNP	24	dobj
+a.18.1	dumu	28	dumu	dumu[child]	N	N	30	ABS	_	28	dumu	dumu[child]	N	N	30	ABS	_	28	_	,	27	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	29	ki	ki[place]	N	N.ABS	28	appos	_	?	?	?	?	?
+a.18.2	ki-ag2	29+30	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	28+27	appos+amod	_+_	30	ag2	ag2[measure]	V	NF.V	27	amod	_	29	beloved	JJ	30	amod
+a.18.3	{d}nanna-ke4	31	{d}nanna-ke4	{d}nanna[1]	DN	DN.GEN.ERG	30	GEN	_	31	{d}nanna-ke4	{d}nanna[1]	DN	DN.GEN.ERG	30	GEN	_	30	son Nanna	NN	27	appos
+a.19.1	{d}nanna	32	{d}nanna	{d}nanna[1]	DN	DN	34	ABS	_	32	{d}nanna	{d}nanna[1]	DN	DN	34	ABS	_	31	for Nanna	NNP	27	nmod:for
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	33	ki	ki[place]	N	N.ABS	32	appos	_	?	?	?	?	?
+a.20.1	ki-ag2-ga2-ni-ir	?	?	?	?	?	?	?	?	34	ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	37	DAT	_	32	whom he loves	VBZ	31	acl:relcl
+a.21.1	kar-zi-da-a	?	?	?	?	?	?	?	?	35	kar-zid-da-a	kar-zid-da[1]	SN	SN.L1	37	LOC	_	33	in Karzida	NNP	32	nmod:in
+a.22.1	ge6-par4	33+34+35+36	ki+ag2-ga2-ni-ir+kar-zid-da-a+gi6-par4	ki[place]+ag2[measure]+kar-zid-da[1]+gi6-par4[cloister]	N+V+SN+N	N.ABS+NF.V.3-SG-H-POSS.DAT-H+SN.L1+N.ABS	32+37+37+37	appos+DAT+LOC+ABS	_+_+_+_	36	gi6-par4	gi6-par4[cloister]	N	N.ABS	37	ABS	_	34	the Gipar	NNP	33	_
+a.22.2	mu-na-du3	37	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	37	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	35	he built	VBD	34	acl:relcl
+a.23.1	en-aga-zi-an-na	38	en-aga-zid-an-na	en-aga-zid-an-na[1]	PN	PN	42	ABS	_	38	en-aga-zid-an-na	en-aga-zid-an-na[1]	PN	PN	42	ABS	_	36	and En-aga-zi-ana	CC	34	cc
+a.24.1	en	39	en	en[priest]	N	N	41	ABS	_	39	en	en[priest]	N	N	41	ABS	_	37	_	,	34	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	40	ki	ki[place]	N	N.ABS	39	appos	_	?	?	?	?	?
+a.24.2	ki-ag2-ga2-ni	?	?	?	?	?	?	?	?	41	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	38	amod	_	38	his beloved en-priestess	NN	34	appos
+a.25.1	mu-un-na-ni-in-ku4	40+41+42	ki+ag2-ga2-ni+mu-un-na-ni-in-kur9	ki[place]+ag2[measure]+kur9[enter]	N+V+V	N.ABS+NF.V.3-SG-H-POSS.ABS+VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	39+38+0	appos+amod+_	_+_+_	42	mu-un-na-ni-in-kur9	kur9[enter]	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	0	_	_	39	he made enter therein	VBD	34	acl:relcl
+a.26.1	{d}amar-{d}suen-ke4	43	{d}amar-{d}suen-ke4	{d}amar-{d}suen[1]	RN	RN.GEN.ERG	45	GEN.ERG	_	43	{d}amar-{d}suen-ke4	{d}amar-{d}suen[1]	RN	RN.GEN.ERG	45	GEN.ERG	_	40	Amar-Suena	NN	42	nsubj
+a.27.1	nam-ti	44	nam-til3	nam-til3[life]	N	N.ABS	45	ABS	_	44	nam-til3	nam-til3[life]	N	N.ABS	45	ABS	_	41	_	.	3	_
+a.27.2	ib2-su3-re6	45	ib2-su3-re6	su3[distant]	V	FIN.3-SG-NH-P.V.3-SG-A	0	_	_	45	ib2-su3-re6	su3[distant]	V	FIN.3-SG-NH-P.V.3-SG-A	0	_	_	42	shall prolong life	VB	34	acl

@@ -1,0 +1,10 @@
+# tr.en: txt	
+# tr.en: Kalamu governor of Enunna Lu-Suena scribe son of E-kigala your servant	
+a.1.1	kal-la-mu	1	kal-la-gu10	kal-la-gu10[1]	PN	PN	0	_	_	1	kal-la-gu10	kal-la-gu10[1]	PN	PN	0	_	_	1	Kalamu	NNP	2	compound
+a.2.1	ensi2	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	governor	NN	0	root
+a.3.1	asz2-nun-na{ki}-ka	3	asz2-nun-na{ki}-ka	asz2-nun-na{ki}[1]	SN	Ešnunak.GEN.ABS	2	GEN	_	3	asz2-nun-na{ki}-ka	asz2-nun-na{ki}[1]	SN	Ešnunak.GEN.ABS	2	GEN	_	3	of Enunna	NNP	2	nmod:of
+a.4.1	lu2-{d}suen	4	lu2-{d}suen	lu2-{d}suen[1]	PN	PN	0	_	_	4	lu2-{d}suen	lu2-{d}suen[1]	PN	PN	0	_	_	4	Lu-Suena	NNP	2	_
+a.4.2	dub-sar	5	dub-sar	dub-sar[scribe]	N	N	4	appos	_	5	dub-sar	dub-sar[scribe]	N	N	4	appos	_	5	scribe	NN	4	appos
+a.5.1	dumu	6	dumu	dumu[child]	N	N	4	appos	_	6	dumu	dumu[child]	N	N	4	appos	_	6	son	NN	4	appos
+a.5.2	e2-ki-gal-la	7	e2-ki-gal-la	e2-ki-gal-la[1]	PN	PN.GEN.ABS	6	GEN	_	7	e2-ki-gal-la	e2-ki-gal-la[1]	PN	PN.GEN.ABS	6	GEN	_	7	of E-kigala	NN	6	nmod:of
+a.6.1	ARAD2-zu	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	your servant	NN	4	appos

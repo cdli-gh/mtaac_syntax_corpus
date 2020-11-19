@@ -1,0 +1,18 @@
+# tr.en: To Igalima the beloved son of Ningirsu his master Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life	
+a.1.1	{d}ig-alim	1	{d}ig-alim	{d}ig-alim[1]	DN	DN	17	DAT	_	1	{d}ig-alim	{d}ig-alim[1]	DN	DN	17	DAT	_	1	To Igalima	NNP	0	root
+a.2.1	dumu	2	dumu	dumu[child]	N	N	4	ABS	_	2	dumu	dumu[child]	N	N	4	ABS	_	2	son	NN	1	root
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	3	ki	ki[place]	N	N.ABS	2	appos	_	?	?	?	?	?
+a.2.2	ki-ag2	3+4	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	2+1	appos+amod	_+_	4	ag2	ag2[measure]	V	NF.V	1	amod	_	3	the beloved	DT	2	det
+a.3.1	{d}nin-gir2-su-ka	5	{d}nin-gir2-su-ka	{d}nin-gir2-su[1]	DN	DN.GEN	4	GEN	_	5	{d}nin-gir2-su-ka	{d}nin-gir2-su[1]	DN	DN.GEN	4	GEN	_	4	of Ningirsu	NNP	2	nmod:of
+a.4.1	lugal-a-ni	6	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	4	appos	_	6	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	4	appos	_	5	his master	NN	2	appos
+a.5.1	{d}szul-gi	7	{d}szul-gi	{d}szul-gi[1]	RN	RN	17	ERG	_	7	{d}szul-gi	{d}szul-gi[1]	RN	RN	17	ERG	_	6	Szulgi	NN	5	appos
+a.6.1	nita	8	nita	nita[male]	N	N	7	appos	_	8	nita	nita[male]	N	N	7	appos	_	7	man	NN	5	appos
+a.6.2	kal-ga	9	kalag-ga	kalag[strong]	V	NF.V.SUB	8	amod	_	9	kalag-ga	kalag[strong]	V	NF.V.SUB	8	amod	_	8	the mighty	DT	7	det
+a.7.1	lugal	10	lugal	lugal[king]	N	N	7	appos	_	10	lugal	lugal[king]	N	N	7	appos	_	9	king	NN	5	appos
+a.7.2	uri5{ki}-ma	11	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_	11	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_	10	Ur	NN	9	nmod:of
+a.8.1	lugal	12	lugal	lugal[king]	N	N	7	appos	_	12	lugal	lugal[king]	N	N	7	appos	_	11	_	,	5	_
+a.8.2	ki-en-gi	13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_	13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_	12	_	_	0	_
+a.8.3	ki-uri-ke4	14	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	13	appos	_	14	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	13	appos	_	13	and king Sumer and Akkad	CC	9	cc
+a.9.1	nam-ti-la-ni-sze3	15+16+17	nam-til3-la-ni-sze3+a+mu-na-ru	nam-til3[life]+a[water]+ru[cvve]	N+N+V	N.3-SG-H-POSS.TERM+N.ABS+VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	17+17+0	TERM+ABS+_	_+_+_	15	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	17	TERM	_	14	for his life	NN	5	nmod:for
+?	*RETOK*-a	?	?	?	?	?	?	?	?	16	a	a[water]	N	N.ABS	17	ABS	_		?	?	?	?
+?	*RETOK*-mu-na-ru	?	?	?	?	?	?	?	?	17	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_		?	?	?	?

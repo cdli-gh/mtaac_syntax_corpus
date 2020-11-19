@@ -1,0 +1,9 @@
+# tr.en: txt	
+# tr.en: Szt-Suen daughter of king Aya-zigu fuller is your servant	
+a.1.1	sza-at-{d}suen	1	sza-at-{d}suen	sza-at-{d}suen[1]	PN	PN	0	_	_	1	sza-at-{d}suen	sza-at-{d}suen[1]	PN	PN	0	_	_	1	Szt-Suen	NNP	0	root
+a.2.1	dumu-munus	2	dumu-munus	dumu-munus[daughter]	N	N	1	appos	_	2	dumu-munus	dumu-munus[daughter]	N	N	1	appos	_	2	daughter	NN	1	appos
+a.2.2	lugal	3	lugal	lugal[king]	N	N.GEN.ABS	2	GEN	_	3	lugal	lugal[king]	N	N.GEN.ABS	2	GEN	_	3	king	NN	2	nmod:of
+a.3.1	a-a-zi-mu	?	?	?	?	?	?	?	?	4	a-a-zi-gu10	a-a-zi-gu10[1]	PN	PN.ABS	0	_	_	4	Aya-zigu fuller	NN	7	nsubj
+a.4.1	lu2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	_	.	1	_
+a.4.2	azlag2	?	?	?	?	?	?	?	?	5	{lu2}azlag2	{lu2}azlag2[fuller]	N	N.ABS	0	_	_	6	_	_	0	_
+a.4.3	ARAD2-zu	4+5+6	a-a-zi-gu10+{lu2}azlag2+arad2-zu	a-a-zi-gu10[1]+{lu2}azlag2[fuller]+arad2[slave]	PN+N+N	PN.ABS+N.ABS+N.2-SG-POSS.ABS	0+0+0	_+_+_	_+_+_	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	7	is your servant	NN	1	_

@@ -1,0 +1,19 @@
+# tr.en: For Inanna Ninkununa his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad the Ebur her beloved temple he built for her	
+a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN	17	DAT	_	1	{d}inana	{d}inana[1]	DN	DN	17	DAT	_	1	For Inanna	IN	4	nmod:for
+a.2.1	nin	2	nin	nin[lady]	N	N	1	appos	_	2	nin	nin[lady]	N	N	1	appos	_	2	_	_	0	_
+a.2.2	ku3	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	3	_	_	0	_
+a.2.3	nun-na	3	kug-nun-na	kug-nun[1]	GN	GN.GEN	2	GEN	_	3	kug-nun-na	kug-nun[1]	GN	GN.GEN	2	GEN	_	4	Ninkununa	NNP	0	root
+a.3.1	nin-a-ni	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	5	his mistress	NN	4	_
+a.4.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	17	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	17	ERG	_	6	Ur-Namma	NN	5	appos
+a.5.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	7	man	NN	5	appos
+a.5.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	8	the mighty	DT	7	det
+a.6.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	9	king	NN	5	appos
+a.6.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	10	Ur	NN	9	nmod:of
+a.7.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	11	_	,	5	_
+a.7.2	ki-en-gi	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	12	_	_	0	_
+a.7.3	ki-uri-ke4	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	13	and king Sumer and Akkad	CC	9	cc
+a.8.1	esz3-bur	13	esz3-bur	esz3-bur[1]	TN	TN	17	ABS	_	13	esz3-bur	esz3-bur[1]	TN	TN	17	ABS	_	14	the Ebur	NNP	5	appos
+a.9.1	e2	14	e2	e2[house]	N	N	16	ABS	_	14	e2	e2[house]	N	N	16	ABS	_	15	_	,	5	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	15	ki	ki[place]	N	N.ABS	14	appos	_	?	?	?	?	?
+a.9.2	ki-ag2-ga2-ni	15+16	ki+ag2-a-ni	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ABS	14+13	appos+amod	_+_	16	ag2-a-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	13	amod	_	16	her beloved temple	NN	5	appos
+a.10.1	mu-na-du3	17	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	17	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	17	he built for her	VBD	5	acl:relcl

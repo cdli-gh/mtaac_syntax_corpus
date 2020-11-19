@@ -1,0 +1,26 @@
+# tr.en: To Gilgame of Enegir his master Ur-Namma powerful man king of Urim king of Sumer and Akkad when he built temple of Nanna dedicated this for his well-being Whoever erases its inscription may Gilgame curse him																						
+?	?	1	{d}bil3-ga-mesz3	{d}bil3-ga-mesz3[1]	DN	DN	15	DAT	_	1	{d}bil3-ga-mesz3	{d}bil3-ga-mesz3[1]	DN	DN	15	DAT	_	?	?	?	?	?
+?	?	2	enegir3{ki}	enegir3{ki}[1]	SN	SN.GEN	1	GEN	_	2	enegir3{ki}	enegir3{ki}[1]	SN	SN.GEN	1	GEN	_	?	?	?	?	?
+?	?	3	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	3	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	?	?	?	?	?
+?	?	4	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	4	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	?	?	?	?	?
+?	?	5	nita	nita[male]	N	N	4	appos	_	5	nita	nita[male]	N	N	4	appos	_	?	?	?	?	?
+?	?	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	?	?	?	?	?
+a.1'.1	lugal	7	lugal	lugal[king]	N	N	4	appos	_	7	lugal	lugal[king]	N	N	4	appos	_	1	king	NN	12	nmod:to
+a.1'.2	uri5{ki}-ma	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	2	Urim	NNP	1	nmod:of
+a.2'.1	lugal	9	lugal	lugal[king]	N	N	4	appos	_	9	lugal	lugal[king]	N	N	4	appos	_	3	king	NN	1	appos
+a.2'.2	ki-en-gi	10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_	10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_	4	Sumer	NNP	12	nmod:of
+a.2'.3	ki-uri-ke4	11	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	10	appos	_	11	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	10	appos	_	5	and Akkad	CC	4	cc
+a.3'.1	u4	12	ud	ud[sun]	N	N	15	ABS	_	12	ud	ud[sun]	N	N	15	ABS	_	6	when its	WRB	12	advmod
+a.3'.2	e2	13	e2	e2[house]	N	N	12	appos	_	13	e2	e2[house]	N	N	12	appos	_	7	temple	NN	12	dobj
+a.3'.3	{d}nanna	14	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	13	GEN	_	14	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	13	GEN	_	8	Nanna may	NNP	7	nmod:of
+a.4'.1	mu-du3-a	15	mu-du3-a	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	18	LOC	_	15	mu-du3-a	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	18	LOC	_	9	he built this well-being Enegir master Ur-Namma powerful man	NNP	12	nmod:of
+a.5'.1	nam-ti-la-ni-sze3	16	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	18	TERM	_	16	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	18	TERM	_	10	for his his	PRP$	12	nmod:poss
+a.6'.1	a	17	a	a[water]	N	N.ABS	18	ABS	_	17	a	a[water]	N	N.ABS	18	ABS	_	11	_	NN	12	dobj
+a.6'.2	mu-na-ru	18	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	18	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	12	dedicated curse him	VBN	0	root
+?	?	19	lu2	lu2[person]	N	N	22	LOC	_	19	lu2	lu2[person]	N	N	22	LOC	_	?	?	?	?	?
+?	?	20	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	19	appos	_	20	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	19	appos	_	?	?	?	?	?
+?	?	21	szu	szu[hand]	N	N.ABS	22	ABS	_	21	szu	szu[hand]	N	N.ABS	22	ABS	_	?	?	?	?	?
+?	?	22	bi2-ib2-uru12-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_	22	bi2-ib2-uru12-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_	?	?	?	?	?
+?	?	23	{d}bil3-ga-mesz3-e	{d}bil3-ga-mesz3[1]	DN	DN.ERG	25	ERG	_	23	{d}bil3-ga-mesz3-e	{d}bil3-ga-mesz3[1]	DN	DN.ERG	25	ERG	_	?	?	?	?	?
+?	?	24	nam	nam[fate]	N	N.ABS	25	ABS	_	24	nam	nam[fate]	N	N.ABS	25	ABS	_	?	?	?	?	?
+?	?	25	ha-ba-da-kud-e	kud[cut]	V	MOD1.MID.3-SG-H.COM.V.3-SG-A	0	_	_	25	ha-ba-da-kud-e	kud[cut]	V	MOD1.MID.3-SG-H.COM.V.3-SG-A	0	_	_	?	?	?	?	?

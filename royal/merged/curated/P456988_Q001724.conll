@@ -1,0 +1,8 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Tulid-Szami eredigir priestess of Nanna is your servant	
+a.1.1	tu-li2-id-{d}utu-szi	?	?	?	?	?	?	?	?	1	tu-li₂-id-UTU{ši}	tu-li₂-id-UTU{ši}[1]	PN	PN	0	_	_	1	Tulid-Szami	NNP	6	nsubj
+a.2.1	nin-dingir	1+2	tu-li₂-id-UTU{ši}+eresz-digir	tu-li₂-id-UTU{ši}[1]+eresz-digir[priestess]	PN+N	PN+N	0+1	_+appos	_+_	2	eresz-digir	eresz-digir[priestess]	N	N	1	appos	_	2	eredigir priestess	NN	1	appos
+a.2.2	{d}nanna	3	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	2	GEN	_	3	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	2	GEN	_	3	_	.	6	_
+a.3.1	ARAD2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	4	_	_	0	_
+a.3.2	e2-gal-lim	?	?	?	?	?	?	?	?	4	arad₂-e₂-x-x-x	arad₂-e₂-x-x-x[1]	PN	PN.ABS	0	_	_	5	Nanna	NNP	2	nmod:of
+a.4.1	ARAD2-zu	4+5	arad₂-e₂-x-x-x+arad2-zu	arad₂-e₂-x-x-x[1]+arad2[slave]	PN+N	PN.ABS+N.2-SG-POSS.ABS	0+0	_+_	_+_	5	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	is your servant	NN	0	root

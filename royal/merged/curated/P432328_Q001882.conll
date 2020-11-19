@@ -1,0 +1,31 @@
+# tr.en: Hunuri x-rini Szipara Szimaki and also Sabum Kima Duduli land of Anan																						
+a.1'.1	...{ki}	1	x{ki}	_[_]	u	_	0	_	_	1	x{ki}	_[_]	u	_	0	_	_	2	_	NN	0	root
+a.1'.2	x	2	x	_[_]	u	_	0	_	_	2	x	_[_]	u	_	0	_	_	3	_	,	2	dep
+a.1'.3	x	3	x	_[_]	u	_	0	_	_	3	x	_[_]	u	_	0	_	_	4	_	_	0	dep
+a.1'.4	...	4	x	_[_]	u	_	0	_	_	4	x	_[_]	u	_	0	_	_	5	_	_	0	dep
+a.2'.1	...{ki}	5	x{ki}	_[_]	u	_	0	_	_	5	x{ki}	_[_]	u	_	0	_	_	6	_	_	0	_
+a.2'.2	hu-uh2-nu-ri{ki}	6	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}[1]	SN	SN.ABS	0	_	_	6	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}[1]	SN	SN.ABS	0	_	_	7	_	_	0	_
+a.2'.3	x	7	mu-x-x	_[_]	u	_	0	_	_	7	mu-x-x	_[_]	u	_	0	_	_	8	_	,	2	dep
+a.2'.4	...																	9	_	_	0	dep
+a.3'.1	...																	10	_	_	0	dep
+a.3'.2	x-ri-ni{ki}	8	x-x-ri-ni{ki}	x-x-ri-ni{ki}[1]	GN	GN	0	_	_	8	x-x-ri-ni{ki}	x-x-ri-ni{ki}[1]	GN	GN	0	_	_	11	x-rini	NNS	2	conj
+a.3'.3	szi-pa-ra{ki}	9	szi-pa-ra{ki}	szi-pa-ra{ki}[1]	GN	GN.ABS	8	appos	_	9	szi-pa-ra{ki}	szi-pa-ra{ki}[1]	GN	GN.ABS	8	appos	_	12	Szipara	NNP	2	conj
+a.3'.4	mu-x	10	mu-x-x	_[_]	u	_	0	_	_	10	mu-x-x	_[_]	u	_	0	_	_	13	_	_	0	_
+a.3'.5	...	11	x-ki{ki}	x-ki{ki}[1]	GN	GN	0	_	_	11	x-ki{ki}	x-ki{ki}[1]	GN	GN	0	_	_	14	_	_	0	dep
+a.4'.1	szi-masz-gi5{ki}																	15	Szimaki and	NNP	2	conj
+a.4'.2	sa-bu-um{ki}	12	sa-bu-um{ki}-bi-da	sa-bu-um{ki}[1]	SN	SN.DEM2.COM	11	appos	_	12	sa-bu-um{ki}-bi-da	sa-bu-um{ki}[1]	SN	SN.DEM2.COM	11	appos	_	16	Sabum	NNP	2	conj
+a.4'.3	bi-da-...																	17	also	RB	16	advmod
+a.5'.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	18	_	,	16	dep
+a.5'.2	x{ki}	13	x-x{ki}	x-x{ki}[2]	GN	GN	0	_	_	13	x-x{ki}	x-x{ki}[2]	GN	GN	0	_	_	19	_	NN	16	conj
+a.5'.3	ki-masz{ki}	14	ki-masz{ki}	ki-masz{ki}[1]	GN	GN	0	_	_	14	ki-masz{ki}	ki-masz{ki}[1]	GN	GN	0	_	_	20	Kima	NNP	16	conj
+a.5'.4	du8-du8-li2{ki}	15	du8-du8-li2{ki}	du8-du8-li2{ki}[1]	GN	GN	0	_	_	15	du8-du8-li2{ki}	du8-du8-li2{ki}[1]	GN	GN	0	_	_	21	Duduli	NNP	16	conj
+a.5'.5	...	16	x	_[_]	u	_	0	_	_	16	x	_[_]	u	_	0	_	_	22	_	,	16	dep
+a.6'.1	...	17	x	_[_]	u	_	0	_	_	17	x	_[_]	u	_	0	_	_	23	_	NN	28	dep
+a.6'.2	ma-da	18	ma-da	ma-da[land]	N	N	0	_	_	18	ma-da	ma-da[land]	N	N	0	_	_	24	land of	NN	16	appos
+a.6'.3	an-sza4-an{ki}	19	an-sza4-an{ki}	an-sza4-an{ki}[1]	SN	SN	0	_	_	19	an-sza4-an{ki}	an-sza4-an{ki}[1]	SN	SN	0	_	_	25	Anan	NNP	24	nmod:of
+a.6'.4	...	20	x	_[_]	u	_	0	_	_	20	x	_[_]	u	_	0	_	_	26	_	_	0	dep
+a.7'.1	...{ki}	21	x{ki}	x{ki}[3]	GN	GN	0	_	_	21	x{ki}	x{ki}[3]	GN	GN	0	_	_	27	_	_	0	_
+a.7'.2	x	22	x	_[_]	u	_	0	_	_	22	x	_[_]	u	_	0	_	_	28	_	NN	2	conj
+a.7'.3	x	23	x	_[_]	u	_	0	_	_	23	x	_[_]	u	_	0	_	_	29	_	_	0	dep
+a.7'.4	x	24	x	_[_]	u	_	0	_	_	24	x	_[_]	u	_	0	_	_	30	_	_	0	dep
+a.7'.5	...	25	x	_[_]	u	_	0	_	_	25	x	_[_]	u	_	0	_	_	31	_	_	0	dep

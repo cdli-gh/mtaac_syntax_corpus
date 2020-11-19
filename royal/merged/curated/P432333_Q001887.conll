@@ -1,0 +1,13 @@
+# tr.en: To Nanna the first-born son of Enlil the king of Ur for Ekinugal temple he dedicated to him	
+a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	1	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	1	To Nanna	NNP	0	root
+a.2.1	dumu	?	?	?	?	?	?	?	?	2	dumu-sag	dumu-sag[first-born]	N	N	0	_	_	2	_	_	0	_
+a.2.2	sag	2	dumu-sag	dumu-sag[first-born]	N	N	0	_	_	?	?	?	?	?	?	?	?	3	the first-born son	NN	1	root
+a.3.1	{d}en-lil2-la2	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	4	of Enlil	IN	6	nmod:of
+a.4.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	_	_	0	dep
+a.4.2	x	4+5	x+x	_[_]+_[_]	u+u	_+_	0+0	_+_	_+_	4	x	_[_]	u	_	0	_	_	6	of Enlil	NNP	3	nmod:of
+?	*RETOK*-x	?	?	?	?	?	?	?	?	5	x	_[_]	u	_	0	_	_	?	?	?	?	?
+a.5'.1	lugal	6	lugal	lugal[king]	N	N	10	ERG	_	6	lugal	lugal[king]	N	N	10	ERG	_	7	the	DT	8	det
+a.5'.2	uri5{ki}-ma-ke4	7	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	6	GEN	_	7	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	6	GEN	_	8	king Ur	NN	3	_
+a.6'.1	e2-kisz-nu-gal2-sze3	8	e2-kisz-nu-gal2-sze3	e2-kisz-nu-gal2[1]	TN	TN.TERM	10	TERM	_	8	e2-kisz-nu-gal2-sze3	e2-kisz-nu-gal2[1]	TN	TN.TERM	10	TERM	_	9	for Ekinugal temple	NN	8	nmod:for
+a.7'.1	a	9	a	a[water]	N	N.ABS	10	ABS	_	9	a	a[water]	N	N.ABS	10	ABS	_	10	he dedicated	VBD	9	acl:relcl
+a.7'.2	mu-na-ru	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	to him	PRP	10	nmod:to

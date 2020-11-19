@@ -1,0 +1,9 @@
+# tr.en: txt	
+# tr.en: To Meslamtaea his god x-kubum son of for life of Ibbi-Sin	
+a.1.1	{d}mes-lam-ta-e3-a	?	?	?	?	?	?	?	?	1	{d}mesz3-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	0	_	_	1	To Meslamtaea	FW	0	root
+a.2.1	dingir-ra-a-ni-ir	1+2	{d}mesz3-lam-ta-e3-a+digir-ra-a-ni-ir	{d}mesz3-lam-ta-e3-a[1]+digir[deity]	DN+N	DN+N.3-SG-H-POSS.DAT-H	0+1	_+appos	_+_	2	digir-ra-a-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his god	NN	1	root
+a.3.1	x-ku-bu-um	3	x-ku-bu-um	x-ku-bu-um[1]	PN	PN	0	_	_	3	x-ku-bu-um	x-ku-bu-um[1]	PN	PN	0	_	_	3	x-kubum	NN	2	appos
+a.4.1	dumu	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	4	son	NN	2	appos
+a.4.2	x-ti-a-ke4	?	?	?	?	?	?	?	?	4	x-x-TI-a-ke₄	_[_]	u	_	0	_	_	5	of	IN	4	nmod:of
+a.5.1	nam-ti	4+5	x-x-TI-a-ke₄+nam-til3	_[_]+nam-til3[life]	u+N	_+N	0+0	_+_	_+_	5	nam-til3	nam-til3[life]	N	N	0	_	_	6	for life	NN	2	nmod:for
+a.6.1	{d}i-bi2-{d}suen	6	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	6	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	7	of Ibbi-Sin	NNP	6	nmod:of

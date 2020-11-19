@@ -1,0 +1,10 @@
+# tr.en: txt	
+# tr.en: Inanna Paplal son of Amarsumun temple administrator of Enlil	
+a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN.DAT-H	0	_	_	1	{d}inana	{d}inana[1]	DN	DN.DAT-H	0	_	_	1	Inanna	NNP	0	root
+a.2.1	pap-lal3	2	pap-lal3	pap-lal3[1]	PN	PN	0	_	_	2	pap-lal3	pap-lal3[1]	PN	PN	0	_	_	2	Paplal	NNP	1	appos
+a.3.1	dumu	3	dumu	dumu[child]	N	N	0	_	_	3	dumu	dumu[child]	N	N	0	_	_	3	son	NN	1	appos
+a.3.2	amar-sumun	4	amar-sumun	amar-sumun[1]	PN	PN	0	_	_	4	amar-sumun	amar-sumun[1]	PN	PN	0	_	_	4	of Amarsumun	NNP	3	nmod:of
+a.4.1	x	5	x	_[_]	u	_	0	_	_	5	x	_[_]	u	_	0	_	_	5	_	_	0	dep
+a.4.2	sanga	6	sagga	sagga[official]	N	N	0	_	_	6	sagga	sagga[official]	N	N	0	_	_	6	temple administrator	NN	1	appos
+a.5.1	{d}en-lil2	7	{d}en-lil2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_	7	{d}en-lil2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_	7	of Enlil	IN	8	nmod:of
+a.6.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	8	of Enlil	NNP	6	nmod:of

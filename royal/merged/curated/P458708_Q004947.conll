@@ -1,0 +1,18 @@
+# tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Bel-arik cupbearer governor Ur-of Susa Szu-Suen his little man																						
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Sz-Suen	NNP	0	root
+a.col1.2.1	nita	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	2	man	NN	1	appos
+a.col1.2.2	kal-ga	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	3	strong	JJ	2	amod
+a.col1.3.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	3	kisz	kisz[totality]	N	N.GEN	2	GEN	_	3	kisz	kisz[totality]	N	N.GEN	2	GEN	_	5	Ur	NN	4	nmod:of
+a.col1.4.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+?	*RETOK*-urim5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	?	?	?	?	?
+?	*RETOK*-lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	?	?	?	?	?
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	:	1	_
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	heaven with its four corners	NN	6	nmod:of
+a.col2.1.1	be-li2-a-ri-ik	9	be-li2-a-ri-ik	be-li2-a-ri-ik[1]	PN	PN	0	_	_	9	be-li2-a-ri-ik	be-li2-a-ri-ik[1]	PN	PN	0	_	_	9	Bel-arik	NN	1	_
+a.col2.2.1	sagi	10	sagi	sagi[cup-bearer]	N	N	9	appos	_	10	sagi	sagi[cup-bearer]	N	N	9	appos	_	10	cupbearer	NN	9	conj
+a.col2.3.1	ensi2	11	ensi2	ensi2[ruler]	N	N	9	appos	_	11	ensi2	ensi2[ruler]	N	N	9	appos	_	11	governor	NN	12	compound
+a.col2.4.1	szuszin{ki}	12	szuszin{ki}	szuszin{ki}[Susa]	SN	SN.GEN.ABS	11	GEN	_	12	szuszin{ki}	szuszin{ki}[Susa]	SN	SN.GEN.ABS	11	GEN	_	12	Ur-of Susa	NN	9	conj
+a.col2.5.1	{d}szu-{d}suen	13	{d}šu-{d}suen-KAL	{d}šu-{d}suen-KAL[1]	PN	PN	0	_	_	13	{d}šu-{d}suen-KAL	{d}šu-{d}suen-KAL[1]	PN	PN	0	_	_	13	Szu-Suen	NNP	9	conj
+a.col2.5.2	gurusz-tur-ni	14	dumu-ni	dumu[child]	N	N.3-SG-H-POSS.ABS	13	appos	_	14	dumu-ni	dumu[child]	N	N.3-SG-H-POSS.ABS	13	appos	_	14	his little man	NN	9	appos

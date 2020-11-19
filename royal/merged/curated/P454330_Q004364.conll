@@ -1,0 +1,35 @@
+									# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																	# tr.en: txt	
+?	2	lugal	lugal[king]	N	N	1	appos	_	?	?	?	?	?	?	?	?		?	?	?	?
+?	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	?	?	?	?	?	?	?	?		?	?	?	?
+?	6	a-hu-ni	a-hu-ni[1]	PN	PN	0	_	_	?	?	?	?	?	?	?	?	# tr.en: Szu-Suen strong king king of Ur Auni cup-bearer is your servant	?	?	?	?
+?	7	sagi	sagi[cup-bearer]	N	N.ABS	6	appos	_	?	?	?	?	?	?	?	?	?	?	?	?	?
+?	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.1.1	PA-nin	?	?	?	?	?	?	?	2	lugal	lugal[king]	N	N	1	appos	_	?	?	?	?	?
+?	*RETOK*-kalag-ga	?	?	?	?	?	?	?	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	1	Szu-Suen	NNP	0	root
+?	*RETOK*-lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	2	_	NN	1	appos
+a.2.1	dub-sar	?	?	?	?	?	?	?	4	lugal	lugal[king]	N	N	1	appos	_	3	strong king	NN	1	appos
+a.3.1	dumu	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	4	king	_	0	_
+a.3.2	szesz-kal-la	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	Ur	NNP	2	nmod:of
+?	*RETOK*-a-hu-ni	?	?	?	?	?	?	?	6	a-hu-ni	a-hu-ni[1]	PN	PN	0	_	_	6	Auni	NNP	8	nsubj
+?	*RETOK*-sagi	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	cup-bearer	NN	6	appos
+?	*RETOK*-sagi	?	?	?	?	?	?	?	7	sagi	sagi[cup-bearer]	N	N.ABS	6	appos	_	8	is your servant	NN	1	_
+?	*RETOK*-arad2-zu	?	?	?	?	?	?	?	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_		?	?	?	?
+
+
+#new_text=P454330	# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	# tr.en: txt
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	# P454330_Q004364.txt
+a.1.1	PA-nin	2	lugal	lugal[king]	N	N	1	appos	_							
+a.2.1	dub-sar	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	
+a.3.1	dumu	4	lugal	lugal[king]	N	N	1	appos	_	# ? ? ? ? ? ? ? ? ? ? ? ? ?
+a.3.2	szesz-kal-la	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	#	?	?	?	?	?	?	?	?	?	?	?	?	?
+	6	a-hu-ni	a-hu-ni[1]	PN	PN	0	_	_	# tr.en: Szu-Suen strong king king of Ur Auni cup-bearer is your servant
+	7	sagi	sagi[cup-bearer]	N	N.ABS	6	appos	_	1	{d}szu-{d}suen	Szu-Suen	NNP	0	root	
+	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	2	lugal	_	NN	1	appos	
+		3	kal-ga	strong king	NN	1	appos	
+		4	lugal	king	_	0	_	
+		5	uri5{ki}-ma	Ur	NNP	2	nmod:of	
+		6	a-hu-ni	Auni	NNP	8	nsubj	
+		7	sagi	cup-bearer	NN	6	appos	
+		8	ARAD2-zu	is your servant	NN	1	_
+			
+		

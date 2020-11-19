@@ -1,0 +1,10 @@
+# tr.en: Ninkala a citizen of Nippur his beloved a statue of him she fashioned shoulder of Szulgi	
+a.col2.1'.1	nin9-kal-la	1	nin9-kal-la	nin9-kal-la[1]	PN	PN	7	ERG	_	1	nin9-kal-la	nin9-kal-la[1]	PN	PN	7	ERG	_	1	Ninkala	NNP	0	root
+a.col2.2'.1	dumu	2	dumu	dumu[child]	N	N	5	ABS	_	2	dumu	dumu[child]	N	N	5	ABS	_	2	_	,	1	_
+a.col2.2'.2	nibru{ki}	3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	2	GEN	_	3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	2	GEN	_	3	a citizen of Nippur	NN	1	appos
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	4	ki	ki[place]	N	N.ABS	2	appos	_	?	?	?	?	?
+a.col2.3'.1	ki-ag2-ga2-ni	4+5	ki+ag2-ga2-ne2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ERG	2+1	appos+amod	_+_	5	ag2-ga2-ne2	ag2[measure]	V	NF.V.3-SG-H-POSS.ERG	1	amod	_	4	his beloved	JJ	1	appos
+a.col2.4'.1	alan-na-ni	6	alan-na-ni	alan[statue]	N	N.3-SG-H-POSS.ABS	7	ABS	_	6	alan-na-ni	alan[statue]	N	N.3-SG-H-POSS.ABS	7	ABS	_	5	a statue him	NN	4	appos
+a.col2.5'.1	mu-dim2	7	mu-dim2	dim2[create]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_	7	mu-dim2	dim2[create]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_	6	she fashioned	VBD	5	acl:relcl
+a.col2.6'.1	murgu	8	murgu	murgu[shoulder]	N	N	0	_	_	8	murgu	murgu[shoulder]	N	N	0	_	_	7	shoulder	NN	1	_
+a.col2.6'.2	szul-gi	9	szul-gi	szul-gi[1]	RN	RN.GEN.ABS	8	GEN	_	9	szul-gi	szul-gi[1]	RN	RN.GEN.ABS	8	GEN	_	8	Szulgi	NNP	7	nmod:of

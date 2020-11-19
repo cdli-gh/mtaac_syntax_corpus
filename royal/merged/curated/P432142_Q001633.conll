@@ -1,0 +1,17 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: For Enki tempest of heaven and earth his master did Ur-Namma the mighty man king of Ur king of Sumer and Akkad his temple build	
+a.1.1	{d}en-ki	1	{d}en-ki	{d}en-ki[1]	DN	DN	0	_	_	1	{d}en-ki	{d}en-ki[1]	DN	DN	0	_	_	1	For Enki	NNP	6	nmod:for
+a.1.2	mar-uru5	?	?	?	?	?	?	?	?	2	mar-ru10	mar-ru10[stormwind]	N	N	1	appos	_	2	tempest heaven and	NN	6	nsubj
+a.1.3	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	3	_	,	2	_
+a.1.4	ki-ra	2+3	mar-ru10+an-na-ra	mar-ru10[stormwind]+an[sky]	N+N	N+N.GEN.DAT-H	1+2	appos+GEN	_+_	3	an-na-ra	an[sky]	N	N.GEN.DAT-H	2	GEN	_	4	earth	NN	2	conj
+a.2.1	lugal-a-ni	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	14	DAT	_	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	14	DAT	_	5	his master	NN	2	appos
+a.3.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	14	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	14	ERG	_	6	did Ur-Namma	VBD	0	root
+a.4.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	7	man	NN	6	appos
+a.4.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	8	the mighty	DT	7	det
+a.5.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	9	king	NN	6	appos
+a.5.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	10	Ur	NN	9	nmod:of
+a.6.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	11	king	NN	6	appos
+a.6.2	ki-en-gi	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	12	Sumer	NNP	11	nmod:of
+a.6.3	ki-uri-ke4	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	13	and Akkad	CC	12	cc
+a.7.1	e2-a-ni	13	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	14	ABS	_	13	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	14	ABS	_	14	his temple	NN	15	nsubj
+a.8.1	mu-na-du3	14	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	build	VB	6	acl:relcl

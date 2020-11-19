@@ -1,0 +1,8 @@
+# tr.en: txt	
+# tr.en: Ur-Agi governor of Adab Ur-pagura scribe your servant	
+a.1.1	ur-{d}{asz}aszgi{gi4}	1	ur-{d}{asz}asz7-gi4	ur-{d}{asz}asz7-gi4[2]	PN	PN	0	_	_	1	ur-{d}{asz}asz7-gi4	ur-{d}{asz}asz7-gi4[2]	PN	PN	0	_	_	1	Ur-Agi	NNP	0	root
+a.2.1	ensi2	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	governor	NN	1	appos
+a.2.2	adab{ki}	3	adab{ki}	adab{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	adab{ki}	adab{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	of Adab	NNP	2	nmod:of
+a.3.1	ur-pa4-mu-ra	4	ur-pa4-gu10-ra	ur-pa4-gu10-ra[1]	PN	PN	0	_	_	4	ur-pa4-gu10-ra	ur-pa4-gu10-ra[1]	PN	PN	0	_	_	4	Ur-pagura	NN	1	_
+a.4.1	dub-sar	5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_	5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_	5	scribe	NN	4	appos
+a.5.1	ARAD2-zu	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	your servant	NN	4	appos

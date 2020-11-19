@@ -1,0 +1,17 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: To Bau his lady Geme-girnuna spouse of Amarsu child of Alla dedicated this for well-being of Ur-Ninmarki governor of Laga and for her own well-being	
+o.1.1	{d}ba-ba6	1	{d}ba-u2	{d}ba-u2[1]	DN	DN	0	_	_	1	{d}ba-u2	{d}ba-u2[1]	DN	DN	0	_	_	1	To Bau	NNP	7	nmod:to
+o.2.1	nin-a-ni	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	Laga his	PRP$	6	nmod:poss
+o.3.1	nam-ti	?	?	?	?	?	?	?	?	3	nam-til3	nam-til3[life]	N	N	0	_	_	3	for	IN	4	nmod:for
+o.4.1	ur-{d}nin-mar{ki}	3+4	nam-til3+ur-{d}nin-mar-ki	nam-til3[life]+ur-{d}nin-mar-ki[2]	N+PN	N+PN	0+3	_+appos	_+_	4	ur-{d}nin-mar-ki	ur-{d}nin-mar-ki[2]	PN	PN	3	appos	_	4	well-being Ur-Ninmarki	NN	7	nmod:for
+o.5.1	ensi2	5	ensi2	ensi2[ruler]	N	N	4	GEN	_	5	ensi2	ensi2[ruler]	N	N	4	GEN	_	5	governor	NN	4	appos
+o.6.1	lagasz{ki}-ka-sze3	6	lagasz{ki}-ka-sze3	lagasz{ki}[1]	SN	SN.GEN.GEN.TERM	5	GEN	_	6	lagasz{ki}-ka-sze3	lagasz{ki}[1]	SN	SN.GEN.GEN.TERM	5	GEN	_	6	lady Geme-girnuna	NN	7	nsubj
+o.7.1	geme2-gir2-nun	7	geme2-gir2-nun	geme2-gir2-nun[1]	PN	PN	0	_	_	7	geme2-gir2-nun	geme2-gir2-nun[1]	PN	PN	0	_	_	7	dedicated this spouse Amarsu child	VBN	0	root
+o.8.1	dam	8	dam	dam[spouse]	N	N	7	appos	_	8	dam	dam[spouse]	N	N	7	appos	_	8	_	.	7	_
+o.8.2	amar-su4	9	amar-su4	amar-su4[1]	PN	PN.GEN	8	GEN	_	9	amar-su4	amar-su4[1]	PN	PN.GEN	8	GEN	_	9	Alla	NNP	6	nmod:of
+o.9.1	dumu	10	dumu	dumu[child]	N	N	7	appos	_	10	dumu	dumu[child]	N	N	7	appos	_	10	_	_	0	_
+o.9.2	al-ke4	11	al-ke4	al[3]	PN	PN.GEN.ERG	10	GEN	_	11	al-ke4	al[3]	PN	PN.GEN.ERG	10	GEN	_	11	own well-being	NN	4	conj
+o.10.1	u3	12	u3	u3[and]	CNJ	CNJ	0	_	_	12	u3	u3[and]	CNJ	CNJ	0	_	_	12	and	CC	4	cc
+o.10.2	nam-ti-la-ni-sze3	13	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	15	TERM	_	13	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	15	TERM	_	13	for	IN	11	nmod:for
+o.11.1	a	14	a	a[water]	N	N.ABS	15	ABS	_	14	a	a[water]	N	N.ABS	15	ABS	_	14	_	_	0	_
+o.11.2	mu-na-ru	15	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	her	PRP$	11	nmod:poss

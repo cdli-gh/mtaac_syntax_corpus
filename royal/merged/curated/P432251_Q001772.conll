@@ -1,0 +1,25 @@
+# tr.en: To Szara trusted one of An beloved son of Inanna his master for life of Szulgi the mighty man king of Ur and king of four world quarters Lu-Nanna the son of Sz-Erra the merchant	
+a.1.1	{d}szara2	1	{d}szara2	{d}szara2[1]	DN	DN	0	_	_	1	{d}szara2	{d}szara2[1]	DN	DN	0	_	_	1	To Szara	NNP	2	nmod:to
+a.2.1	nir-gal2	2	nir-gal2	nir-gal2[authoritative]	V	NF.V	1	amod	_	2	nir-gal2	nir-gal2[authoritative]	V	NF.V	1	amod	_	2	trusted one	VBD	0	root
+a.2.2	an-na	3	an-na	an[1]	DN	DN.GEN	1	GEN	_	3	an-na	an[1]	DN	DN.GEN	1	GEN	_	3	An	DT	5	det
+a.3.1	dumu	4	dumu	dumu[child]	N	N	6	ABS	_	4	dumu	dumu[child]	N	N	6	ABS	_	4	_	,	2	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	5	ki	ki[place]	N	N.ABS	4	appos	_	?	?	?	?	?
+a.3.2	ki-ag2	?	?	?	?	?	?	?	?	6	ag2	ag2[measure]	V	NF.V	1	amod	_	5	beloved son	NN	2	nmod:of
+a.3.3	{d}inanna	5+6+7	ki+ag2+{d}inana	ki[place]+ag2[measure]+{d}inana[1]	N+V+DN	N.ABS+NF.V+DN.GEN	4+1+6	appos+amod+GEN	_+_+_	7	{d}inana	{d}inana[1]	DN	DN.GEN	6	GEN	_	6	of Inanna	NNP	5	nmod:of
+a.4.1	lugal-a-ni	8	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	6	appos	_	8	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	6	appos	_	7	his master	NN	2	appos
+a.5.1	nam-ti	9	nam-til3	nam-til3[life]	N	N	0	_	_	9	nam-til3	nam-til3[life]	N	N	0	_	_	8	for life	NN	2	nmod:for
+a.6.1	{d}szul-gi	10	{d}szul-gi	{d}szul-gi[1]	RN	RN	9	appos	_	10	{d}szul-gi	{d}szul-gi[1]	RN	RN	9	appos	_	9	Szulgi	NNP	8	nmod:of
+a.7.1	nita	11	nita	nita[male]	N	N	9	appos	_	11	nita	nita[male]	N	N	9	appos	_	10	man	NN	9	appos
+a.7.2	kal-ga	12	kalag-ga	kalag[strong]	V	NF.V.SUB	11	amod	_	12	kalag-ga	kalag[strong]	V	NF.V.SUB	11	amod	_	11	the mighty	DT	10	det
+a.8.1	lugal	13	lugal	lugal[king]	N	N	9	appos	_	13	lugal	lugal[king]	N	N	9	appos	_	12	king	NN	9	appos
+a.8.2	uri5{ki}-ma	14	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_	14	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_	13	Ur	NN	12	nmod:of
+a.9.1	lugal	15	lugal	lugal[king]	N	N	13	GEN	_	15	lugal	lugal[king]	N	N	13	GEN	_	14	_	,	16	_
+a.9.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.9.3	ub-da	16	an-ub-da	an-ub-da[quarter]	N	N	15	GEN	_	16	an-ub-da	an-ub-da[quarter]	N	N	15	GEN	_	15	and king	CC	12	cc
+a.9.4	limmu2-ba-ka-sze3	17	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	16	amod	_	17	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	16	amod	_	16	four world quarters	NNS	12	nmod:of
+a.10.1	lu2-{d}nanna	18	lu2-{d}nanna	lu2-{d}nanna[2]	PN	PN	0	_	_	18	lu2-{d}nanna	lu2-{d}nanna[2]	PN	PN	0	_	_	17	Lu-Nanna	NNP	16	appos
+a.12.1	dumu	19	dumu	dumu[child]	N	N	18	appos	_	19	dumu	dumu[child]	N	N	18	appos	_	18	son	NN	16	appos
+a.12.2	szu-er3-ra	20	szu-er3-ra	szu-er3-ra[1]	PN	PN	18	appos	_	20	szu-er3-ra	szu-er3-ra[1]	PN	PN	18	appos	_	19	the Sz-Erra	DT	18	det
+a.12.1	dam-gar3-ke4	21	dam-gar3-ke4	dam-gar3[merchant]	N	N.GEN.ERG	20	GEN	_	21	dam-gar3-ke4	dam-gar3[merchant]	N	N.GEN.ERG	20	GEN	_	20	the merchant	DT	21	det
+a.13.1	x	22	x	_[_]	u	_	0	_	_	22	x	_[_]	u	_	0	_	_	21	the merchant	NN	18	dep
+a.13.2	...	23	x	_[_]	u	_	0	_	_	23	x	_[_]	u	_	0	_	_	22	_	_	0	dep

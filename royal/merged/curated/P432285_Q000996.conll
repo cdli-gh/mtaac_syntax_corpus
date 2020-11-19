@@ -1,0 +1,34 @@
+# tr.en: Szu-Sin chosen by nsme by An beloved of Enlil the king by Enlil chosen by his sacred heart for shepherdship of country and of four quarters of world strong king king of Ur and king of four quarters of world his god Itura governor of Enunna his servant his temple he built for him	
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	Szu-Sin	NN	0	root
+a.2.1	mu	2	mu	mu[name]	N	N.ABS	1	appos	_	2	mu	mu[name]	N	N.ABS	1	appos	_	2	chosen	VBN	1	acl
+a.2.2	pa3-da	3	pad3-da	pad3[find]	V	NF.V.SUB	6	ABS	_	3	pad3-da	pad3[find]	V	NF.V.SUB	6	ABS	_	3	by nsme	NN	2	nmod:by
+a.3.1	an-na	4	an-na	an[1]	DN	DN.GEN	3	GEN	_	4	an-na	an[1]	DN	DN.GEN	3	GEN	_	4	by An	DT	2	nmod:by
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	5	ki	ki[place]	N	N.ABS	3	appos	_	?	?	?	?	?
+a.4.1	ki-ag2	5+6	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	3+12	appos+ERG	_+_	6	ag2	ag2[measure]	V	NF.V	12	ERG	_	5	beloved	JJ	4	amod
+a.4.2	{d}en-lil2-la2	7	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_	7	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_	6	of Enlil	NNP	5	nmod:of
+a.5.1	lugal	8	lugal	lugal[king]	N	N	6	appos	_	8	lugal	lugal[king]	N	N	6	appos	_	7	_	_	0	_
+a.5.2	{d}en-lil2-le	9	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	8	appos	_	9	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	8	appos	_	8	the king by Enlil	NN	4	appos
+a.6.1	sza3	?	?	?	?	?	?	?	?	10	szag4	szag4[heart]	N	N	12	LOC	_	9	chosen	VBN	8	acl
+a.6.2	ku3-ge	?	?	?	?	?	?	?	?	11	kug-ge	kug[pure]	V	NF.V.L3-NH	10	amod	_	10	by his sacred heart	NN	9	nmod:by
+a.6.3	pa3-da	?	?	?	?	?	?	?	?	12	pad3-da	pad3[find]	V	NF.V.SUB	31	GEN.TERM	_	11	_	_	0	_
+a.7.1	nam-sipa	10+11+12+13	szag4+kug-ge+pad3-da+nam-sipad	szag4[heart]+kug[pure]+pad3[find]+nam-sipad[shepherdship]	N+V+V+N	N+NF.V.L3-NH+NF.V.SUB+N	12+10+31+12	LOC+amod+GEN.TERM+appos	_+_+_+_	13	nam-sipad	nam-sipad[shepherdship]	N	N	12	appos	_	12	for shepherdship	NN	9	nmod:for
+a.7.2	kalam-ma	14	kalam-ma	kalam[land]	N	N.GEN	13	GEN	_	14	kalam-ma	kalam[land]	N	N.GEN	13	GEN	_	13	country	NN	12	nmod:of
+a.8.1	u3	15	u3	u3[and]	CNJ	CNJ	13	cc	_	15	u3	u3[and]	CNJ	CNJ	13	cc	_	14	and	CC	12	cc
+a.8.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.8.3	ub-da	16	an-ub-da	an-ub-da[quarter]	N	N	13	conj	_	16	an-ub-da	an-ub-da[quarter]	N	N	13	conj	_	15	four	CD	16	nummod
+a.8.4	limmu2-ba-sze3	17	limmu2-ba-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.TERM	16	amod	_	17	limmu2-ba-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.TERM	16	amod	_	16	quarters world	NNS	12	conj
+a.9.1	lugal	18	lugal	lugal[king]	N	N	31	DAT	_	18	lugal	lugal[king]	N	N	31	DAT	_	17	_	NN	16	appos
+a.9.2	kal-ga	19	kalag-ga	kalag[strong]	V	NF.V.SUB	18	amod	_	19	kalag-ga	kalag[strong]	V	NF.V.SUB	18	amod	_	18	strong king	NN	16	appos
+a.10.1	lugal	20	lugal	lugal[king]	N	N	18	appos	_	20	lugal	lugal[king]	N	N	18	appos	_	19	king	_	0	_
+a.10.2	uri5{ki}-ma	21	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	20	GEN	_	21	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	20	GEN	_	20	Ur	NN	17	nmod:of
+a.11.1	lugal	22	lugal	lugal[king]	N	N	18	appos	_	22	lugal	lugal[king]	N	N	18	appos	_	21	_	,	16	_
+a.11.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.11.3	ub-da	23	an-ub-da	an-ub-da[quarter]	N	N	22	GEN	_	23	an-ub-da	an-ub-da[quarter]	N	N	22	GEN	_	22	and king world	CC	17	cc
+a.11.4	limmu2-ba	24	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	23	amod	_	24	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	23	amod	_	23	four quarters	NNS	17	nmod:of
+a.12.1	dingir-ra-ni-ir	25	digir-ra-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	22	appos	_	25	digir-ra-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	22	appos	_	24	his god	NN	16	appos
+a.13.1	i-tu-ri-a	26	i-tu-ri-a	i-tu-ri-a[1]	PN	PN	31	ERG	_	26	i-tu-ri-a	i-tu-ri-a[1]	PN	PN	31	ERG	_	25	_	,	24	_
+a.14.1	ensi2	27	ensi2	ensi2[ruler]	N	N	26	appos	_	27	ensi2	ensi2[ruler]	N	N	26	appos	_	26	governor	NN	24	appos
+a.15.1	asz2-nun-na{ki}-ka	28	asz2-nun-na{ki}-ka	asz2-nun-na{ki}[1]	SN	Ešnunak.GEN	27	GEN	_	28	asz2-nun-na{ki}-ka	asz2-nun-na{ki}[1]	SN	Ešnunak.GEN	27	GEN	_	27	of Enunna	NNP	26	nmod:of
+a.16.1	ARAD2-da-ni-e	29	arad2-da-ni-e	arad2[slave]	N	N.3-SG-H-POSS.ERG	26	appos	_	29	arad2-da-ni-e	arad2[slave]	N	N.3-SG-H-POSS.ERG	26	appos	_	28	his servant	NN	16	appos
+a.17.1	e2-a-ni	30	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	31	ABS	_	30	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	31	ABS	_	29	his temple	NN	16	appos
+a.18.1	mu-na-an-du3	31	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	31	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	30	he built for him	VBD	29	acl:relcl

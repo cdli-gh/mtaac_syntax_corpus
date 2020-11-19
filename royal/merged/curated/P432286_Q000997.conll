@@ -1,0 +1,57 @@
+# tr.en: For Szu-Sin beloved of Enlil king whom Enlil as beloved in his heart did choose the strong king king of Ur and king of four world quarters his master did ARAD-Nanna the chief minister governor of Laga temple administrator of Enki governor-general of Uar-Garana governor-general of Baime governor of Sabum and lands of Gutebum governor-general of Dimat-Enlil governor of l-Sz-Sin governor-general of Urbilum governor of Hamazi and Karhar governor-general of NI-HI governor-general of Szimaki and lands of Karda his servant his house of Girsu build for him	
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	For Szu-Sin	NN	17	nmod:for
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	2	ki	ki[place]	N	N.ABS	1	appos	_	?	?	?	?	?
+a.2.1	ki-ag2	?	?	?	?	?	?	?	?	3	ag2	ag2[measure]	V	NF.V	8	ERG	_	2	_	,	3	_
+a.2.2	{d}en-lil2-la2(ME)	2+3+4	ki+ag2+{d}en-lil2-la2	ki[place]+ag2[measure]+{d}en-lil2[1]	N+V+DN	N.ABS+NF.V+DN.GEN	1+8+3	appos+ERG+GEN	_+_+_	4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	3	GEN	_	3	beloved Enlil	JJ	17	advcl
+a.3.1	lugal	5	lugal	lugal[king]	N	N	3	appos	_	5	lugal	lugal[king]	N	N	3	appos	_	4	king	NN	3	appos
+a.3.2	{d}en-lil2-le	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_	5	whom Enlil	WP	8	dobj
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	7	ki	ki[place]	N	N.ABS	8	ABS	_	?	?	?	?	?
+a.4.1	ki-ag2	?	?	?	?	?	?	?	?	8	ag2	ag2[measure]	V	NF.V	10	LOC	_	6	as beloved	JJ	8	acl
+a.4.2	sza3-ga-na	?	?	?	?	?	?	?	?	9	szag4-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	8	appos	_	7	in his heart	NN	6	nmod:in
+a.5.1	in-pa3	7+8+9+10	ki+ag2+szag4-ga-na+in-pad3	ki[place]+ag2[measure]+szag4[heart]+pad3[find]	N+V+N+V	N.ABS+NF.V+N.3-SG-H-POSS.L1+FIN.3-SG-H-A.V.3-SG-P	8+10+8+0	ABS+LOC+appos+_	_+_+_+_	10	in-pad3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_	8	did choose	VB	4	acl:relcl
+a.6.1	lugal	11	lugal	lugal[king]	N	N	0	_	_	11	lugal	lugal[king]	N	N	0	_	_	9	the	DT	10	det
+a.6.2	kal-ga	12	kalag-ga	kalag[strong]	V	NF.V.SUB	11	amod	_	12	kalag-ga	kalag[strong]	V	NF.V.SUB	11	amod	_	10	strong king	NN	17	nsubj
+a.7.1	lugal	13	lugal	lugal[king]	N	N	11	appos	_	13	lugal	lugal[king]	N	N	11	appos	_	11	king	NN	10	conj
+a.7.2	uri5{ki}-ma	14	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_	14	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_	12	Ur	NN	11	nmod:of
+a.8.1	lugal	15	lugal	lugal[king]	N	N	11	appos	_	15	lugal	lugal[king]	N	N	11	appos	_	13	_	,	10	_
+a.8.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.8.3	ub-da	16	an-ub-da	an-ub-da[quarter]	N	N	15	GEN	_	16	an-ub-da	an-ub-da[quarter]	N	N	15	GEN	_	14	and king world	CC	10	cc
+a.8.4	limmu2-ba	17	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	16	amod	_	17	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	16	amod	_	15	four quarters	NNS	10	nmod:of
+a.9.1	lugal-a-ni-ir	18	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	11	appos	_	18	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	11	appos	_	16	his master	NN	10	appos
+a.10.1	ARAD2-{d}nanna	19	arad2-{d}nanna	arad2-{d}nanna[1]	PN	PN	0	_	_	19	arad2-{d}nanna	arad2-{d}nanna[1]	PN	PN	0	_	_	17	did ARAD-Nanna	VBD	0	root
+a.11.1	sukkal-mah	20	sukkal-mah	sukkal-mah[official]	N	N	19	appos	_	20	sukkal-mah	sukkal-mah[official]	N	N	19	appos	_	18	the chief minister	NN	17	appos
+a.12.1	ensi2	21	ensi2	ensi2[ruler]	N	N	19	appos	_	21	ensi2	ensi2[ruler]	N	N	19	appos	_	19	governor	NN	17	appos
+a.13.1	lagasz{ki}	?	?	?	?	?	?	?	?	22	lagasz{ki}-ke4	lagasz{ki}[1]	SN	SN.GEN.ERG	21	GEN	_	20	of Laga	NNP	19	nmod:of
+a.14.1	sanga	?	?	?	?	?	?	?	?	23	sagga	sagga[official]	N	N	0	_	_	21	temple administrator	NN	17	appos
+a.14.2	{d}en-ki	22+23+24	lagasz{ki}-ke4+sagga+{d}en-ki-ka	lagasz{ki}[1]+sagga[official]+{d}en-ki[1]	SN+N+DN	SN.GEN.ERG+N+DN.GEN	21+0+23	GEN+_+GEN	_+_+_	24	{d}en-ki-ka	{d}en-ki[1]	DN	DN.GEN	23	GEN	_	22	of Enki	NNP	21	nmod:of
+a.15.1	szagina	25	szagina	szagina[general]	N	N	0	_	_	25	szagina	szagina[general]	N	N	0	_	_	23	_	,	22	_
+a.15.2	u2-za-ar	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.15.3	gar-sza-na{ki}	26	u₂-ṣa-ar-ŋar-ša-na{ki}	u₂-ṣa-ar-ŋar-ša-na{ki}[1]	SN	SN.GEN	25	GEN	_	26	u₂-ṣa-ar-ŋar-ša-na{ki}	u₂-ṣa-ar-ŋar-ša-na{ki}[1]	SN	SN.GEN	25	GEN	_	24	governor-general of Uar-Garana	NN	22	appos
+a.16.1	szagina	27	szagina	szagina[general]	N	N	0	_	_	27	szagina	szagina[general]	N	N	0	_	_	25	_	,	22	_
+a.16.2	ba-szim-e{ki}	28	ba-szim-e{ki}	ba-szim-e{ki}[1]	SN	SN.GEN	27	GEN	_	28	ba-szim-e{ki}	ba-szim-e{ki}[1]	SN	SN.GEN	27	GEN	_	26	governor-general of Baime	NN	22	appos
+a.17.1	ensi2	29	ensi2	ensi2[ruler]	N	N	0	_	_	29	ensi2	ensi2[ruler]	N	N	0	_	_	27	governor	NN	22	conj
+a.17.2	sa-bu-um{ki}	30	sa-bu-um{ki}	sa-bu-um{ki}[1]	SN	SN	0	_	_	30	sa-bu-um{ki}	sa-bu-um{ki}[1]	SN	SN	0	_	_	28	of Sabum	NNP	27	nmod:of
+a.18.1	u3	31	u3	u3[and]	CNJ	CNJ	0	_	_	31	u3	u3[and]	CNJ	CNJ	0	_	_	29	and	CC	22	cc
+a.18.2	ma-da	32	ma-da	ma-da[land]	N	N	0	_	_	32	ma-da	ma-da[land]	N	N	0	_	_	30	_	,	31	_
+a.18.3	gu-te-bu-um{ki}-ma	33	gu-te-bu-um{ki}-ma	gu-te-bu-um{ki}[1]	GN	GN.GEN	32	GEN	_	33	gu-te-bu-um{ki}-ma	gu-te-bu-um{ki}[1]	GN	GN.GEN	32	GEN	_	31	lands Gutebum	NNS	22	conj
+a.19.1	szagina	34	szagina	szagina[general]	N	N	32	appos	_	34	szagina	szagina[general]	N	N	32	appos	_	32	_	,	31	_
+a.19.2	di3-ma-at-{d}en-lil2-la2	35	di3-ma-at-{d}en-lil2-la2	di3-ma-at-{d}en-lil2-la2[1]	SN	SN.GEN	34	GEN	_	35	di3-ma-at-{d}en-lil2-la2	di3-ma-at-{d}en-lil2-la2[1]	SN	SN.GEN	34	GEN	_	33	governor-general of Dimat-Enlil	NN	31	appos
+a.20.1	ensi2	36	ensi2	ensi2[ruler]	N	N	32	appos	_	36	ensi2	ensi2[ruler]	N	N	32	appos	_	34	_	,	31	_
+a.20.2	a-al-{d}szu-{d}suen	37	a-al-{d}szu-{d}suen	a-al-{d}szu-{d}suen[1]	SN	SN.GEN	36	GEN	_	37	a-al-{d}szu-{d}suen	a-al-{d}szu-{d}suen[1]	SN	SN.GEN	36	GEN	_	35	governor l-Sz-Sin	NN	31	appos
+a.21.1	szagina	38	szagina	szagina[general]	N	N	32	appos	_	38	szagina	szagina[general]	N	N	32	appos	_	36	_	,	31	_
+a.21.2	ur-bi2-lum{ki}	39	ur-bi2-lum{ki}	ur-bi2-lum{ki}[1]	SN	SN.GEN	38	GEN	_	39	ur-bi2-lum{ki}	ur-bi2-lum{ki}[1]	SN	SN.GEN	38	GEN	_	37	governor-general Urbilum	NN	31	appos
+a.22.1	ensi2	40	ensi2	ensi2[ruler]	N	N	32	appos	_	40	ensi2	ensi2[ruler]	N	N	32	appos	_	38	governor	NN	31	appos
+a.22.2	ha-am3-zi2{ki}	41	ha-am3-zi2{ki}	ha-am3-zi2{ki}[1]	SN	SN	32	appos	_	41	ha-am3-zi2{ki}	ha-am3-zi2{ki}[1]	SN	SN	32	appos	_	39	of Hamazi	NNP	38	nmod:of
+a.23.1	u3	42	u3	u3[and]	CNJ	CNJ	41	cc	_	42	u3	u3[and]	CNJ	CNJ	41	cc	_	40	and	CC	39	cc
+a.23.2	kar2-har{ki}	43	kara2-har{ki}	kara2-har{ki}[1]	SN	SN.GEN	41	conj	_	43	kara2-har{ki}	kara2-har{ki}[1]	SN	SN.GEN	41	conj	_	41	Karhar	NNP	39	conj
+a.24.1	szagina	44	szagina	szagina[general]	N	N	32	GEN	_	44	szagina	szagina[general]	N	N	32	GEN	_	42	_	,	31	_
+a.24.2	NI-HI{ki}	45	|NI.HI|{ki}	|NI.HI|{ki}[1]	SN	SN.GEN	44	GEN	_	45	|NI.HI|{ki}	|NI.HI|{ki}[1]	SN	SN.GEN	44	GEN	_	43	governor-general NI-HI	NN	31	appos
+a.25.1	szagina	46	szagina	szagina[general]	N	N	0	_	_	46	szagina	szagina[general]	N	N	0	_	_	44	_	_	0	_
+a.25.2	szimaszgi	47	szimaszki{ki}	szimaszki{ki}[1]	EN	EN	0	_	_	47	szimaszki{ki}	szimaszki{ki}[1]	EN	EN	0	_	_	45	governor-general Szimaki	NN	31	appos
+a.26.1	u3	48	u3	u3[and]	CNJ	CNJ	0	_	_	48	u3	u3[and]	CNJ	CNJ	0	_	_	46	and	CC	45	cc
+a.26.2	ma-da	49	ma-da	ma-da[land]	N	N	54	ERG	_	49	ma-da	ma-da[land]	N	N	54	ERG	_	47	_	,	48	_
+a.26.3	kar-da{ki}-ka	50	kar-da{ki}-ka	kar-da{ki}[1]	GN	GN.GEN	49	GEN	_	50	kar-da{ki}-ka	kar-da{ki}[1]	GN	GN.GEN	49	GEN	_	48	lands of Karda	NNS	45	conj
+a.27.1	ARAD2-da-ne2	51	arad2-da-a-ne2	arad2[slave]	N	N.3-SG-H-POSS.ERG	49	appos	_	51	arad2-da-a-ne2	arad2[slave]	N	N.3-SG-H-POSS.ERG	49	appos	_	49	his servant	NN	48	appos
+a.28.1	e2	52	e2	e2[house]	N	N	54	ABS	_	52	e2	e2[house]	N	N	54	ABS	_	50	_	_	0	_
+a.28.2	gir2-su{ki}-ka-ni	53	gir2-su{ki}-ka-ni	gir2-su{ki}[1]	SN	SN.GEN.3-SG-H-POSS.ABS	52	appos	_	53	gir2-su{ki}-ka-ni	gir2-su{ki}[1]	SN	SN.GEN.3-SG-H-POSS.ABS	52	appos	_	51	his house Girsu	NN	52	nsubj
+a.29.1	mu-na-du3	54	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	54	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	52	build for him	VB	48	acl:relcl

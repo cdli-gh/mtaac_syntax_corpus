@@ -1,0 +1,12 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: the mighty king king of Ur Lugal-inim-gina son of Ur-Utu his servant dedicated to him	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	10	TERM	_	1	lugal	lugal[king]	N	N	10	TERM	_	1	the	DT	2	det
+a.1'.2	kal-ga	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	mighty king	NN	0	root
+a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	GEN	_	3	lugal	lugal[king]	N	N	1	GEN	_	3	king	NN	2	appos
+a.2'.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	4	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	3	GEN	_	4	of Ur	NN	3	nmod:of
+a.3'.1	lugal-inim-gi-na	4+5	urim5{ki}-ma+lugal-ka-gen6-na	urim5{ki}[1]+lugal-ka-gen6-na[2]	SN+PN	SN.GEN.GEN.TERM+PN	3+10	GEN+ERG	_+_	5	lugal-ka-gen6-na	lugal-ka-gen6-na[2]	PN	PN	10	ERG	_	5	Lugal-inim-gina	NN	4	conj
+a.4'.1	dumu	6	dumu	dumu[child]	N	N	5	appos	_	6	dumu	dumu[child]	N	N	5	appos	_	6	son	NN	4	conj
+a.4'.2	ur-{d}utu	7	ur-{d}utu	ur-{d}utu[2]	PN	PN.GEN	6	GEN	_	7	ur-{d}utu	ur-{d}utu[2]	PN	PN.GEN	6	GEN	_	7	of Ur-Utu	NN	6	nmod:of
+a.5'.1	ARAD2-da-ne2	8	arad2-da-ne2	arad2[slave]	N	N.3-SG-H-POSS.ERG	5	appos	_	8	arad2-da-ne2	arad2[slave]	N	N.3-SG-H-POSS.ERG	5	appos	_	8	his servant	NN	4	conj
+a.6'.1	a	9	a	a[water]	N	N.ABS	10	ABS	_	9	a	a[water]	N	N.ABS	10	ABS	_	9	_	.	2	_
+a.6'.2	mu-na-ru	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	dedicated to him	VBN	4	acl

@@ -1,0 +1,19 @@
+# tr.en: For Inanna the queen of Eanna temple his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad the Iturungal canal his beloved canal he dug for him	
+a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN	17	DAT	_	1	{d}inana	{d}inana[1]	DN	DN	17	DAT	_	1	For Inanna	NNP	0	root
+a.2.1	nin	2	nin	nin[lady]	N	N	1	appos	_	2	nin	nin[lady]	N	N	1	appos	_	2	the queen	NN	1	root
+a.2.2	e2-an-na	3	e2-an-na	e2-an-na[1]	TN	TN.GEN	2	GEN	_	3	e2-an-na	e2-an-na[1]	TN	TN.GEN	2	GEN	_	3	Eanna temple	NN	2	nmod:of
+a.3.1	nin-a-ni	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his mistress	NN	2	conj
+a.4.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	17	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	17	ERG	_	5	Ur-Namma	NN	2	conj
+a.5.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	6	man	NN	2	appos
+a.5.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	the mighty	DT	6	det
+a.6.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	8	king	NN	2	appos
+a.6.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	Ur	NN	8	nmod:of
+a.7.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	10	_	,	2	_
+a.7.2	ki-en-gi	11	ki-en-gi4	ki-en-gi4[1]	GN	GN	10	GEN	_	11	ki-en-gi4	ki-en-gi4[1]	GN	GN	10	GEN	_	11	_	_	0	_
+a.7.3	ki-uri-ke4	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	and king Sumer and Akkad	CC	8	cc
+a.8.1	i7	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	13	the	DT	14	det
+a.8.2	en-uri3-gal	?	?	?	?	?	?	?	?	13	id2-en-urin-gal	id2-en-urin-gal[1]	WN	WN	17	ABS	_	14	Iturungal canal	NN	2	appos
+a.9.1	i7	?	?	?	?	?	?	?	?	14	id2	id2[river]	N	N	16	ABS	_	15	_	,	2	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	15	ki	ki[place]	N	N.ABS	14	appos	_	?	?	?	?	?
+a.9.2	ki-ag2-a-ni	13+14+15+16	id2-en-urin-gal+id2+ki+ag2-ni	id2-en-urin-gal[1]+id2[river]+ki[place]+ag2[measure]	WN+N+N+V	WN+N+N.ABS+NF.V.3-SG-H-POSS.ABS	17+16+14+13	ABS+ABS+appos+amod	_+_+_+_	16	ag2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	13	amod	_	16	his beloved canal	NN	2	appos
+a.10.1	mu-na-ba-al	17	mu-na-ba-al	ba-al[dig]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	17	mu-na-ba-al	ba-al[dig]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	17	he dug for him	VBD	2	acl:relcl

@@ -1,0 +1,15 @@
+# tr.en: Szu-Suen powerful man king of Urim king of four quarters Dayya child of Agu animal fattener is your servant																						
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Szu-Suen powerful	NNP	0	root
+a.2.1	lugal	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	_	.	1	_
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	man king	NN	1	appos
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	Urim	NNP	1	nmod:of
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	_	0	_
+a.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	_	0	_
+a.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	quarters four	NNS	5	nmod:of
+a.5.1	da-a-a-...	9	da-a-a	da-a-a[1]	PN	PN	0	_	_	9	da-a-a	da-a-a[1]	PN	PN	0	_	_	9	Dayya	NNP	13	nsubj
+a.6.1	dumu	10	dumu	dumu[child]	N	N	9	appos	_	10	dumu	dumu[child]	N	N	9	appos	_	10	child	NN	9	appos
+a.6.2	a-gu	11	a-gu	a-gu[1]	PN	PN	9	appos	_	11	a-gu	a-gu[1]	PN	PN	9	appos	_	11	Agu animal	NNP	10	nmod:of
+a.6.3	kuruszda	?	?	?	?	?	?	?	?	12	guruszta	guruszta[fattener]	N	N.GEN.ABS	11	GEN	_	12	fattener	NN	11	appos
+a.6.4	ARAD2-zu	12+13	guruszta+arad2-zu	guruszta[fattener]+arad2[slave]	N+N	N.GEN.ABS+N.2-SG-POSS.ABS	11+0	GEN+_	_+_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	is your servant	NN	1	acl

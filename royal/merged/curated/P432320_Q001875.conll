@@ -1,0 +1,18 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: the strong man king of Sumer and Akkad and king of four world quarters the storehouse hisher house of flour he built for himher	
+a.1'.1	nita	1	nita	nita[male]	N	N	0	_	_	1	nita	nita[male]	N	N	0	_	_	1	man	NN	0	root
+a.1'.2	kal-ga	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	the strong	DT	1	det
+a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	3	king	NN	1	appos
+a.2'.2	ki-en-gi	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	Sumer	NNP	3	nmod:of
+a.2'.3	ki-uri	5	ki-uri	ki-uri[1]	GN	GN.GEN	4	appos	_	5	ki-uri	ki-uri[1]	GN	GN.GEN	4	appos	_	5	and Akkad	CC	4	cc
+a.3'.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	,	1	_
+a.3'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.3'.3	ub-da	?	?	?	?	?	?	?	?	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	and king world	CC	3	cc
+a.3'.4	limmu2-ba	7+8	an-ub-da+limmu2-ba-ke4	an-ub-da[quarter]+limmu2[four]	N+NU	N+NF.V.3-SG-NH-POSS.GEN.ERG	6+7	GEN+amod	_+_	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	four quarters	NNS	3	nmod:of
+a.4'.1	ga2-nun	9	ga2-nun	ga2-nun[storehouse]	N	N	0	_	_	9	ga2-nun	ga2-nun[storehouse]	N	N	0	_	_	9	the storehouse	DT	10	det
+a.4'.2	...	10	x	_[_]	u	_	0	_	_	10	x	_[_]	u	_	0	_	_	10	the storehouse	NN	1	appos
+a.5'.1	e2	11	e2	e2[house]	N	N	0	_	_	11	e2	e2[house]	N	N	0	_	_	11	_	_	0	_
+a.5'.2	zi3	12	zid2	zid2[flour]	N	N	0	_	_	12	zid2	zid2[flour]	N	N	0	_	_	12	hisher house	NN	10	appos
+a.5'.3	x	13	x	_[_]	u	_	0	_	_	13	x	_[_]	u	_	0	_	_	13	_	_	0	dep
+a.5'.4	x-ni	14	x-ni	_[_]	u	_	0	_	_	14	x-ni	_[_]	u	_	0	_	_	14	flour	NN	12	_
+a.6'.1	mu-na-du3	15	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	he built for himher	VBD	14	acl:relcl

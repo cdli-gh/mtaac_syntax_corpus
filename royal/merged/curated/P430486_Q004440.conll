@@ -1,0 +1,14 @@
+# tr.en: txt	
+# tr.en: Sz-Suen strong king king of Ur king of four corners to Szu-Sin-ana-Sin-takil his servant he gifted	
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	11	ERG	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	11	ERG	_	1	Sz-Suen	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong king	NN	1	appos
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	_	0	_
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	2	nmod:of
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	:	1	_
+a.col1.4.4	limmu2-ba-ke4	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	four corners	NNS	6	nmod:of
+a.col2.1.1	{d}szu-{d}suen-a-na-{d}suen-ta2-ki-il2	?	?	?	?	?	?	?	?	9	{d}szu-{d}suen-a-na-{d}suen-ta2-ki-il	{d}szu-{d}suen-a-na-{d}suen-ta2-ki-il[1]	PN	PN	11	DAT.H	_	9	to Szu-Sin-ana-Sin-takil	NNP	1	nmod:to
+a.col2.2.1	ARAD2-da-ni-ir	9+10	{d}szu-{d}suen-a-na-{d}suen-ta2-ki-il+arad2-da-ni-ir	{d}szu-{d}suen-a-na-{d}suen-ta2-ki-il[1]+arad2[slave]	PN+N	PN+N.3-SG-H-POSS.DAT.H	11+9	DAT.H+appos	_+_	10	arad2-da-ni-ir	arad2[slave]	N	N.3-SG-H-POSS.DAT.H	9	appos	_	10	his servant	NN	9	appos
+a.col2.3.1	in-na-ba	11	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	he gifted	JJ	9	acl:relcl

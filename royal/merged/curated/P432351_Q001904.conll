@@ -1,0 +1,12 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: the king of Ur and king of Sumer and Akkad Nanna-kuzu the overseer of guard dedicated to himher	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	10	TERM	_	1	lugal	lugal[king]	N	N	10	TERM	_	1	the king	NN	10	nsubj
+a.1'.2	uri5{ki}-ma	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	Ur	NN	1	nmod:of
+a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	3	and king	CC	2	cc
+a.2'.2	ki-en-gi	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	Sumer	NNP	2	nmod:of
+a.2'.3	ki-uri-ka-sze3	5	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	4	GEN	_	5	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	4	GEN	_	5	and Akkad	CC	4	cc
+a.3'.1	{d}nanna-ku3-zu	6	{d}nanna-kug-zu	{d}nanna-kug-zu[1]	PN	PN	10	ERG	_	6	{d}nanna-kug-zu	{d}nanna-kug-zu[1]	PN	PN	10	ERG	_	6	Nanna-kuzu	NN	4	conj
+a.4'.1	nu-banda3	7	nu-banda3	nu-banda3[overseer]	N	N	6	appos	_	7	nu-banda3	nu-banda3[overseer]	N	N	6	appos	_	7	the overseer	NN	4	appos
+a.4'.2	en-nu-ke4	8	en-nu-ke4	en-nu[imprisonment]	N	N.GEN.ERG	7	GEN	_	8	en-nu-ke4	en-nu[imprisonment]	N	N.GEN.ERG	7	GEN	_	8	of guard	NN	7	nmod:of
+a.5'.1	a	9	a	a[water]	N	N.ABS	10	ABS	_	9	a	a[water]	N	N.ABS	10	ABS	_	9	_	.	10	_
+a.5'.2	mu-na-ru	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	dedicated to himher	VBN	0	root

@@ -1,0 +1,25 @@
+# tr.en: For Szara the trusted one of An beloved son of Inanna his father Sz-Sin the strong king king of Ur and king of four world quarters the House Chosen by Heart his beloved temple for his life he built for him	
+a.1.1	{d}szara2	1	{d}szara2	{d}szara2[1]	DN	DN	22	DAT	_	1	{d}szara2	{d}szara2[1]	DN	DN	22	DAT	_	1	For Szara	NNP	0	root
+a.2.1	nir-gal2	2	nir-gal2	nir-gal2[authoritative]	V	NF.V	1	amod	_	2	nir-gal2	nir-gal2[authoritative]	V	NF.V	1	amod	_	2	the trusted one	CD	1	root
+a.2.2	an-na	3	an-na	an[1]	DN	DN.GEN	1	GEN	_	3	an-na	an[1]	DN	DN.GEN	1	GEN	_	3	An	DT	4	det
+a.3.1	dumu	4	dumu	dumu[child]	N	N	6	ABS	_	4	dumu	dumu[child]	N	N	6	ABS	_	4	son	NN	2	nmod:of
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	5	ki	ki[place]	N	N.ABS	4	appos	_	?	?	?	?	?
+a.3.2	ki-ag2	?	?	?	?	?	?	?	?	6	ag2	ag2[measure]	V	NF.V	1	amod	_	5	beloved	JJ	4	amod
+a.4.1	{d}inanna	5+6+7	ki+ag2+{d}inana	ki[place]+ag2[measure]+{d}inana[1]	N+V+DN	N.ABS+NF.V+DN.GEN	4+1+6	appos+amod+GEN	_+_+_	7	{d}inana	{d}inana[1]	DN	DN.GEN	6	GEN	_	6	of Inanna	NNP	4	nmod:of
+a.5.1	ad-da-ni-ir	8	ad-da-ni-ir	ad-da[father]	N	N.3-SG-H-POSS.DAT-H	6	appos	_	8	ad-da-ni-ir	ad-da[father]	N	N.3-SG-H-POSS.DAT-H	6	appos	_	7	his father	NN	2	appos
+a.6.1	{d}szu-{d}suen	9	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	22	ERG	_	9	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	22	ERG	_	8	_	,	7	_
+a.7.1	lugal	10	lugal	lugal[king]	N	N	9	appos	_	10	lugal	lugal[king]	N	N	9	appos	_	9	the	DT	10	det
+a.7.2	kal-ga	11	kalag-ga	kalag[strong]	V	NF.V.SUB	10	amod	_	11	kalag-ga	kalag[strong]	V	NF.V.SUB	10	amod	_	10	strong king	NN	7	appos
+a.8.1	lugal	12	lugal	lugal[king]	N	N	9	appos	_	12	lugal	lugal[king]	N	N	9	appos	_	11	king	NN	7	conj
+a.8.2	uri5{ki}-ma	13	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	12	GEN	_	13	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	12	GEN	_	12	Ur	NN	11	nmod:of
+a.9.1	lugal	14	lugal	lugal[king]	N	N	9	appos	_	14	lugal	lugal[king]	N	N	9	appos	_	13	_	,	2	_
+a.9.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.9.3	ub-da	15	an-ub-da	an-ub-da[quarter]	N	N	14	GEN	_	15	an-ub-da	an-ub-da[quarter]	N	N	14	GEN	_	14	and king	CC	7	cc
+a.9.4	limmu2-ba-ke4	16+17	limmu2-ba-ke4+e2-szag4-ge4-pad3-da	limmu2[four]+e2-szag4-ge4-pad3-da[1]	NU+TN	NF.V.3-SG-NH-POSS.GEN.ERG+TN	15+22	amod+ABS	_+_	16	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	15	amod	_	15	four world quarters	NNS	7	nmod:of
+?	*RETOK*-e2-szag4-ge4-pad3-da	?	?	?	?	?	?	?	?	17	e2-szag4-ge4-pad3-da	e2-szag4-ge4-pad3-da[1]	TN	TN	22	ABS	_	?	?	?	?	?
+a.10.1	e2	18	e2	e2[house]	N	N	20	ABS	_	18	e2	e2[house]	N	N	20	ABS	_	16	_	,	2	_
+a.10.2	sza3-gi4-pa3-da	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	17	the House Chosen by Heart	NNP	2	appos
+a.11.1	e2	?	?	?	?	?	?	?	?	19	ki	ki[place]	N	N.ABS	18	appos	_	18	_	,	2	_
+a.11.2	ki-ag2-ga2-ni	?	?	?	?	?	?	?	?	20	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	17	amod	_	19	his beloved temple	NN	2	appos
+a.12.1	nam-ti-la-ni-sze3	19+20+21	ki+ag2-ga2-ni+nam-til3-la-ni-sze3	ki[place]+ag2[measure]+nam-til3[life]	N+V+N	N.ABS+NF.V.3-SG-H-POSS.ABS+N.3-SG-H-POSS.TERM	18+17+22	appos+amod+TERM	_+_+_	21	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	22	TERM	_	20	for his life	NN	2	nmod:for
+a.13.1	mu-na-du3	22	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	22	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	21	he built for him	VBD	20	acl:relcl

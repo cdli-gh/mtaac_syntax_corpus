@@ -1,0 +1,18 @@
+# tr.en: txt	
+# tr.en: To Ninhursag his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad Ur-Agi the governor of Adab dedicated it to her	
+a.1.1	{d}nin-hur-sag	1	{d}nin-hur-sag	{d}nin-hur-sag[1]	DN	DN	0	_	_	1	{d}nin-hur-sag	{d}nin-hur-sag[1]	DN	DN	0	_	_	1	To Ninhursag	VB	0	root
+a.2.1	nin-a-ni	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his mistress	NN	1	dobj
+a.3.1	nam-ti	3	nam-til3	nam-til3[life]	N	N	0	_	_	3	nam-til3	nam-til3[life]	N	N	0	_	_	3	for life	NN	1	nmod:for
+a.4.1	{d}szul-gi	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	of Szulgi	NNP	3	nmod:of
+a.5.1	nita	5	nita	nita[male]	N	N	3	appos	_	5	nita	nita[male]	N	N	3	appos	_	5	man	NN	4	appos
+a.5.2	kal-ga	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	the mighty	DT	5	det
+a.6.1	lugal	7	lugal	lugal[king]	N	N	3	appos	_	7	lugal	lugal[king]	N	N	3	appos	_	7	king	NN	4	appos
+a.6.2	uri5{ki}-ma	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	8	Ur	NN	7	nmod:of
+a.7.1	lugal	9	lugal	lugal[king]	N	N	3	appos	_	9	lugal	lugal[king]	N	N	3	appos	_	9	and king	CC	7	cc
+a.7.2	ki-en-gi	10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_	10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_	10	Sumer	NNP	7	nmod:of
+a.7.3	ki-uri-ka-sze3	11	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	10	GEN	_	11	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	10	GEN	_	11	and Akkad	CC	10	cc
+a.8.1	ur-{d}{asz}aszgi{gi4}	?	?	?	?	?	?	?	?	12	ur-{d}{asz}asz7-gi	ur-{d}{asz}asz7-gi[1]	PN	PN	0	_	_	12	Ur-Agi	NNP	10	conj
+a.9.1	ensi2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	13	the governor	NN	10	appos
+a.10.1	adab{ki}	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	14	of Adab	NNP	13	nmod:of
+a.11.1	a	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	15	dedicated	VBD	1	acl
+a.11.2	mu-na-ru	12	ur-{d}{asz}asz7-gi	ur-{d}{asz}asz7-gi[1]	PN	PN	0	_	_	?	?	?	?	?	?	?	?	16	it to her	PRP	15	dobj

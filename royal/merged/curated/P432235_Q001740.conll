@@ -1,0 +1,21 @@
+# tr.en: txt	
+# tr.en: To Guardian Angel of Tarsirsira mother Baba his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad Hala-Lamma daughter of Lu-girizal the governor of Laga	
+a.1.1	{d}lamma	1	{d}lamma	{d}lamma[deity]	N	N	0	_	_	1	{d}lamma	{d}lamma[deity]	N	N	0	_	_	1	To	TO	2	nmod:to
+a.1.2	tar-sir2-sir2-ra	2	tar-sir2-sir2-ra	tar-sir2-sir2[1]	SN	SN.GEN	1	GEN	_	2	tar-sir2-sir2-ra	tar-sir2-sir2[1]	SN	SN.GEN	1	GEN	_	2	Guardian Angel Tarsirsira	NNP	0	root
+a.2.1	ama	3	ama	ama[mother]	N	N	1	appos	_	3	ama	ama[mother]	N	N	1	appos	_	3	_	,	2	_
+a.2.2	{d}ba-ba6	4	{d}ba-u2	{d}ba-u2[1]	DN	DN	1	appos	_	4	{d}ba-u2	{d}ba-u2[1]	DN	DN	1	appos	_	4	mother Baba	NNP	2	appos
+a.3.1	nin-a-ni	5	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	5	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	5	his mistress	NN	2	appos
+a.4.1	nam-ti	6	nam-til3	nam-til3[life]	N	N	0	_	_	6	nam-til3	nam-til3[life]	N	N	0	_	_	6	for life	NN	2	nmod:for
+a.5.1	{d}szul-gi	7	{d}szul-gi	{d}szul-gi[1]	RN	RN	6	appos	_	7	{d}szul-gi	{d}szul-gi[1]	RN	RN	6	appos	_	7	of Szulgi	NNP	6	nmod:of
+a.6.1	nita	8	nita	nita[male]	N	N	6	appos	_	8	nita	nita[male]	N	N	6	appos	_	8	man	NN	2	appos
+a.6.2	kal-ga	9	kalag-ga	kalag[strong]	V	NF.V.SUB	8	amod	_	9	kalag-ga	kalag[strong]	V	NF.V.SUB	8	amod	_	9	the mighty	DT	8	det
+a.7.1	lugal	10	lugal	lugal[king]	N	N	6	appos	_	10	lugal	lugal[king]	N	N	6	appos	_	10	king	NN	8	conj
+a.7.2	uri5{ki}-ma	11	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_	11	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_	11	Ur	NN	10	nmod:of
+a.8.1	lugal	12	lugal	lugal[king]	N	N	6	appos	_	12	lugal	lugal[king]	N	N	6	appos	_	12	and king	CC	8	cc
+a.8.2	ki-en-gi	13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_	13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_	13	Sumer	NNP	8	nmod:of
+a.8.3	ki-uri-ka-sze3	14	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	13	GEN	_	14	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	13	GEN	_	14	and Akkad	CC	13	cc
+a.9.1	ha-la-{d}lamma	15	ha-la-{d}lamma	ha-la-{d}lamma[1]	PN	PN	0	_	_	15	ha-la-{d}lamma	ha-la-{d}lamma[1]	PN	PN	0	_	_	15	Hala-Lamma	NNP	13	conj
+a.10.1	dumu	16	dumu	dumu[child]	N	N	15	appos	_	16	dumu	dumu[child]	N	N	15	appos	_	16	_	,	2	_
+a.10.2	lu2-giri17-zal	17	lu2-giri17-zal	lu2-giri17-zal[1]	PN	PN	15	appos	_	17	lu2-giri17-zal	lu2-giri17-zal[1]	PN	PN	15	appos	_	17	daughter Lu-girizal	NN	13	appos
+a.11.1	ensi2	18	ensi2	ensi2[ruler]	N	N	17	GEN	_	18	ensi2	ensi2[ruler]	N	N	17	GEN	_	18	the governor	NN	2	appos
+a.12.1	lagasz{ki}-ka-ke4	19	lagasz{ki}-ka-ke4	lagasz{ki}[1]	SN	SN.GEN.GEN.ERG	18	GEN	_	19	lagasz{ki}-ka-ke4	lagasz{ki}[1]	SN	SN.GEN.GEN.ERG	18	GEN	_	19	of Laga	NNP	18	nmod:of

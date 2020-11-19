@@ -1,0 +1,17 @@
+# tr.en: txt	
+# tr.en: for life of Szulgi the god of his country king of Ur and king of four world quarters	
+a.1'.1	nam-ti	1	nam-til3	nam-til3[life]	N	N	0	_	_	1	nam-til3	nam-til3[life]	N	N	0	_	_	1	for life	NN	0	root
+a.2'.1	{d}szul-gi	2	{d}szul-gi	{d}szul-gi[1]	RN	RN	1	appos	_	2	{d}szul-gi	{d}szul-gi[1]	RN	RN	1	appos	_	2	of Szulgi	NNP	1	nmod:of
+a.3'.1	dingir	3	digir	digir[deity]	N	N	2	GEN	_	3	digir	digir[deity]	N	N	2	GEN	_	3	the god	NN	1	root
+a.3'.2	kalam-ma-na-ka-sze3	4	kalam-ma-na-ka-sze3	kalam[land]	N	N.3-SG-H-POSS.GEN.GEN.TERM	3	GEN	_	4	kalam-ma-na-ka-sze3	kalam[land]	N	N.3-SG-H-POSS.GEN.GEN.TERM	3	GEN	_	4	his country	NN	3	nmod:of
+a.4'.1	lugal	5	lugal	lugal[king]	N	N	0	_	_	5	lugal	lugal[king]	N	N	0	_	_	5	king	NN	3	conj
+a.4'.2	uri5{ki}-ma	6	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	5	GEN	_	6	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	5	GEN	_	6	Ur	NN	5	nmod:of
+a.5'.1	lugal	7	lugal	lugal[king]	N	N	5	GEN	_	7	lugal	lugal[king]	N	N	5	GEN	_	7	_	NN	3	appos
+a.5'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.5'.3	ub-da	8	an-ub-da	an-ub-da[quarter]	N	N	7	GEN	_	8	an-ub-da	an-ub-da[quarter]	N	N	7	GEN	_	8	and king	CC	3	cc
+a.5'.4	limmu2-ba-ka-sze3	9	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	8	amod	_	9	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	8	amod	_	9	four world quarters	CD	11	nummod
+a.6'.1	x	10	x	_[_]	u	_	0	_	_	10	x	_[_]	u	_	0	_	_	10	four world quarters	NN	11	dep
+a.6'.2	x	11	x	_[_]	u	_	0	_	_	11	x	_[_]	u	_	0	_	_	11	four world quarters	NNS	3	nmod:of
+a.6'.3	x	12	x	_[_]	u	_	0	_	_	12	x	_[_]	u	_	0	_	_	12	_	IN	11	dep
+a.6'.4	x	13	x	_[_]	u	_	0	_	_	13	x	_[_]	u	_	0	_	_	13	_	_	0	dep
+a.6'.5	...	14	x	_[_]	u	_	0	_	_	14	x	_[_]	u	_	0	_	_	14	_	_	0	dep

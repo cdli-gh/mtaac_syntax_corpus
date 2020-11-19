@@ -1,0 +1,25 @@
+# tr.en: For Szulgi the mighty man king of Ur and king of Sumer and Akkad Szqurtum his beloved lukur priestess A person who this inscription shall erase and write his own name on it may Ninsun my goddess and Lugalbanda my master curse him	
+a.1.1	szul-gi	1	szul-gi	szul-gi[1]	RN	RN	0	_	_	1	szul-gi	szul-gi[1]	RN	RN	0	_	_	1	For Szulgi	NNP	0	root
+a.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	root
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	the mighty	DT	2	det
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	2	conj
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	and king	CC	2	cc
+a.4.2	ki-en-gi	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	Sumer	NNP	2	nmod:of
+a.4.3	ki-uri-x	8	ki-uri-x	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_	8	ki-uri-x	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_	8	and Akkad	CC	7	cc
+a.5.1	szu-gur-tum	9	szu-qur-tum	szu-qur-tum[1]	PN	PN	0	_	_	9	szu-qur-tum	szu-qur-tum[1]	PN	PN	0	_	_	9	Szqurtum	NNP	2	appos
+a.6.1	lukur	10	lukur	lukur[priestess]	N	N	12	ABS	_	10	lukur	lukur[priestess]	N	N	12	ABS	_	10	beloved lukur priestess	NN	18	nsubj
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	11	ki	ki[place]	N	N.ABS	10	appos	_	?	?	?	?	?
+a.6.2	ki-ag2-ga2-ni	11+12	ki+ag2-ga2-ni	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ABS	10+9	appos+amod	_+_	12	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	9	amod	_	11	his	PRP$	10	nmod:poss
+a.7.1	lu2	13	lu2	lu2[person]	N	N	16	LOC	_	13	lu2	lu2[person]	N	N	16	LOC	_	12	_	_	0	_
+a.7.2	mu-sar-ra-ba	14	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	13	appos	_	14	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	13	appos	_	13	A person who this inscription	NN	10	appos
+a.8.1	szu	15	szu	szu[hand]	N	N.ABS	16	ABS	_	15	szu	szu[hand]	N	N.ABS	16	ABS	_	14	_	_	0	_
+a.8.2	bi2-ib2-ur3-a	16	bi2-ib2-uru12-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	18	ABS	_	16	bi2-ib2-uru12-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	18	ABS	_	15	shall erase	VB	13	acl:relcl
+a.9.1	mu-ni	17	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	16	appos	_	17	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	16	appos	_	16	and write his own	CC	15	cc
+a.9.2	bi2-ib2-sar-a	18	bi2-ib2-sar-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_	18	bi2-ib2-sar-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_	17	name on it	NN	15	dobj
+a.10.1	{d}nin-sun2	?	?	?	?	?	?	?	?	19	{d}nin-sumun2	{d}nin-sumun2[1]	DN	DN	24	ERG	_	18	may Ninsun	VB	9	acl:relcl
+a.11.1	dingir-mu	?	?	?	?	?	?	?	?	20	digir-gu10	digir[deity]	N	N.1-SG-POSS	19	appos	_	19	my goddess	NN	18	dobj
+a.12.1	{d}lugal-banda3{da}	?	?	?	?	?	?	?	?	21	{d}lugal-ban3-da	{d}lugal-ban3-da[1]	DN	DN	19	appos	_	20	and Lugalbanda	CC	19	cc
+a.13.1	lugal-mu	19+20+21+22	{d}nin-sumun2+digir-gu10+{d}lugal-ban3-da+lugal-gu10	{d}nin-sumun2[1]+digir[deity]+{d}lugal-ban3-da[1]+lugal[king]	DN+N+DN+N	DN+N.1-SG-POSS+DN+N.1-SG-POSS.ERG	24+19+19+19	ERG+appos+appos+appos	_+_+_+_	22	lugal-gu10	lugal[king]	N	N.1-SG-POSS.ERG	19	appos	_	21	my master	PRP$	23	nmod:poss
+a.14.1	nam	23	nam	nam[fate]	N	N.ABS	24	ABS	_	23	nam	nam[fate]	N	N.ABS	24	ABS	_	22	_	.	2	_
+a.14.2	ha-ba-da-ku5-ne	24	ha-ba-da-kuru5-ne	kuru5[cut]	V	MOD1.MID.3-SG-H.COM.V.3-PL-A	0	_	_	24	ha-ba-da-kuru5-ne	kuru5[cut]	V	MOD1.MID.3-SG-H.COM.V.3-PL-A	0	_	_	23	curse him	NN	19	dobj

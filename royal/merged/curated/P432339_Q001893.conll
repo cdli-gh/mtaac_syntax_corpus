@@ -1,0 +1,11 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: the king of Ur and king of four world quarters ten minas he standardized for him	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	0	_	_	1	lugal	lugal[king]	N	N	0	_	_	1	the king	NN	0	root
+a.1'.2	uri5{ki}-ma	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	Ur	NN	1	nmod:of
+a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	3	_	,	1	_
+a.2'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.2'.3	ub-da	4	an-ub-da	an-ub-da[quarter]	N	N	3	GEN	_	4	an-ub-da	an-ub-da[quarter]	N	N	3	GEN	_	4	and king	CC	2	cc
+a.2'.4	limmu2-ba-ke4	5	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	4	amod	_	5	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	4	amod	_	5	four world quarters	NNS	2	nmod:of
+a.3'.1	1(u)	6	1(u)	_[_]	n	_	0	_	_	6	1(u)	_[_]	n	_	0	_	_	6	_	_	0	nummod
+a.3'.2	ma-na	7	ma-na	ma-na[unit]	N	N.ABS	8	ABS	_	7	ma-na	ma-na[unit]	N	N.ABS	8	ABS	_	7	ten minas	NNS	1	appos
+a.4'.1	mu-na-gi-in	8	mu-na-ge-en6	ge-en6[establish]	V	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	0	_	_	8	mu-na-ge-en6	ge-en6[establish]	V	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	0	_	_	8	he standardized for him	JJ	7	acl:relcl

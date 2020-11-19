@@ -1,0 +1,14 @@
+# tr.en: txt	
+# tr.en: For god Ningizida his lord for life of Szulgi the mighty man Nikala the shepherd of fattened sheep dedicated	
+a.col1.1.1	{d}nin-gesz-zi-da	1	{d}nin-gesz-zid-da	{d}nin-gesz-zid-da[1]	DN	DN	12	DAT	_	1	{d}nin-gesz-zid-da	{d}nin-gesz-zid-da[1]	DN	DN	12	DAT	_	1	For god Ningizida	NN	0	root
+a.col1.2.1	lugal-a-ni	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his lord	NN	1	root
+a.col1.3.1	nam-ti	3	nam-til3	nam-til3[life]	N	N	12	TERM	_	3	nam-til3	nam-til3[life]	N	N	12	TERM	_	3	for life	NN	2	root
+a.col1.4.1	{d}szul-gi	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	of Szulgi	NNP	3	nmod:of
+a.col1.5.1	nita	5	nita	nita[male]	N	N	4	GEN	_	5	nita	nita[male]	N	N	4	GEN	_	5	man	NN	3	root
+a.col1.5.2	kal-ga-sze3	6	kalag-ga-sze3	kalag[strong]	V	NF.V.SUB.GEN.TERM	5	amod	_	6	kalag-ga-sze3	kalag[strong]	V	NF.V.SUB.GEN.TERM	5	amod	_	6	the mighty	DT	5	det
+a.col2.1.1	nig2-kal-la	7	nig2-kal-la	nig2-kal-la[1]	PN	PN	12	ERG	_	7	nig2-kal-la	nig2-kal-la[1]	PN	PN	12	ERG	_	7	Nikala	NNP	5	_
+a.col2.2.1	sipa	8	sipad	sipad[shepherd]	N	N	7	appos	_	8	sipad	sipad[shepherd]	N	N	7	appos	_	8	shepherd	NN	7	appos
+a.col2.2.2	udu	9	udu	udu[sheep]	N	N	8	GEN	_	9	udu	udu[sheep]	N	N	8	GEN	_	9	_	,	8	_
+a.col2.2.3	niga-ke4	10	niga-ke4	niga[fattened]	V	NF.V.GEN.ERG	9	amod	_	10	niga-ke4	niga[fattened]	V	NF.V.GEN.ERG	9	amod	_	10	the fattened sheep	DT	8	det
+a.col2.3.1	a	11	a	a[water]	N	N.ABS	12	ABS	_	11	a	a[water]	N	N.ABS	12	ABS	_	11	_	.	5	_
+a.col2.3.2	mu-na-ru	12	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	12	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	12	dedicated	VBN	8	acl

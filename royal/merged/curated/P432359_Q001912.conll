@@ -1,0 +1,11 @@
+# tr.en: txt	
+# tr.en: the son of the governor of Nippur for his life dedicated to himher	
+a.1'.1	dumu	1	dumu	dumu[child]	N	N	7	ERG	_	1	dumu	dumu[child]	N	N	7	ERG	_	1	_	NN	3	nmod:of
+a.1'.2	x	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	2	_	,	3	dep
+a.1'.3	x-da-x	?	?	?	?	?	?	?	?	2	x-x-da-x-x	x-x-da-x-x[1]	PN	PN	1	appos	_	3	the son	NN	0	root
+a.1'.4	x	2	x-x-da-x-x	x-x-da-x-x[1]	PN	PN	1	appos	_	?	?	?	?	?	?	?	?	4	_	_	0	dep
+a.2'.1	ensi2	3	ensi2	ensi2[ruler]	N	N	2	GEN	_	3	ensi2	ensi2[ruler]	N	N	2	GEN	_	5	the governor	NN	3	appos
+a.3'.1	nibru{ki}-ka-ke4	4	nibru{ki}-ka-ke4	nibru{ki}[1]	SN	SN.GEN.GEN.ERG	3	GEN	_	4	nibru{ki}-ka-ke4	nibru{ki}[1]	SN	SN.GEN.GEN.ERG	3	GEN	_	6	of Nippur	NNP	5	nmod:of
+a.4'.1	nam-ti-la-ni-sze3	5	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	7	TERM	_	5	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	7	TERM	_	7	for his life	NN	3	nmod:for
+a.5'.1	a	6	a	a[water]	N	N.ABS	7	ABS	_	6	a	a[water]	N	N.ABS	7	ABS	_	8	_	.	3	_
+a.5'.2	mu-na-ru	7	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	7	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	9	dedicated to himher	VBN	7	acl

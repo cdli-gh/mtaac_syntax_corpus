@@ -1,0 +1,27 @@
+# tr.en: To Ninlil his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life and life of Ninturturmu his beloved daughter he dedicated A person who this inscription shall erase may my mistress Ninlil curse him	
+a.1.1	{d}nin-lil2	1	{d}nin-lil2	{d}nin-lil2[1]	DN	DN	19	DAT	_	1	{d}nin-lil2	{d}nin-lil2[1]	DN	DN	19	DAT	_	1	To Ninlil	VB	0	root
+a.2.1	nin-a-ni	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his mistress	NN	1	dobj
+a.3.1	szul-gi	3	szul-gi	szul-gi[1]	RN	RN	19	ERG	_	3	szul-gi	szul-gi[1]	RN	RN	19	ERG	_	3	Szulgi	NN	2	appos
+a.4.1	nita	4	nita	nita[male]	N	N	3	appos	_	4	nita	nita[male]	N	N	3	appos	_	4	man	NN	1	_
+a.4.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	the mighty	DT	4	det
+a.5.1	lugal	6	lugal	lugal[king]	N	N	3	appos	_	6	lugal	lugal[king]	N	N	3	appos	_	6	king	NN	4	conj
+a.5.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	Ur	NN	6	nmod:of
+a.6.1	lugal	8	lugal	lugal[king]	N	N	3	appos	_	8	lugal	lugal[king]	N	N	3	appos	_	8	_	,	4	_
+a.6.2	ki-en-gi	9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_	9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_	9	_	_	0	_
+a.6.3	ki-uri-ke4	10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_	10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_	10	and king Sumer and Akkad	CC	4	cc
+a.7.1	nam-ti-la-ni-sze3	11	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	19	TERM	_	11	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	19	TERM	_	11	for his life	NN	4	nmod:for
+a.8.1	u3	12	u3	u3[and]	CNJ	CNJ	11	cc	_	12	u3	u3[and]	CNJ	CNJ	11	cc	_	12	and	CC	11	cc
+a.8.2	nam-ti	?	?	?	?	?	?	?	?	13	nam-til3	nam-til3[life]	N	N	11	conj	_	13	life	NN	11	conj
+a.10.1	dumu	15	dumu	dumu[child]	N	N	17	ABS	_	15	dumu	dumu[child]	N	N	17	ABS	_	15	_	,	4	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	16	ki	ki[place]	N	N.ABS	15	appos	_	?	?	?	?	?
+a.10.2	ki-ag2-ga2-na-sze3	16+17	ki+ag2-ga2-na-sze3	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.GEN.TERM	15+14	appos+amod	_+_	17	ag2-ga2-na-sze3	ag2[measure]	V	NF.V.3-SG-H-POSS.GEN.TERM	14	amod	_	16	his beloved daughter	NN	13	_
+a.11.1	a	18	a	a[water]	N	N.ABS	19	ABS	_	18	a	a[water]	N	N.ABS	19	ABS	_	17	he dedicated	VBD	4	acl:relcl
+a.11.2	mu-na-ru	19	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	19	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	18	_	.	4	_
+a.12.1	lu2	20	lu2	lu2[person]	N	N	23	LOC	_	20	lu2	lu2[person]	N	N	23	LOC	_	19	_	_	0	_
+a.12.2	mu-sar-ra-ba	21	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	20	appos	_	21	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	20	appos	_	20	A person who this inscription	NN	26	nsubj
+a.13.1	szu	22	szu	szu[hand]	N	N.ABS	23	ABS	_	22	szu	szu[hand]	N	N.ABS	23	ABS	_	21	_	,	20	_
+a.13.2	bi2-ib2-ur3-a	?	?	?	?	?	?	?	?	23	bi2-ib-uru12-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS	0	_	_	22	shall erase	VB	20	acl:relcl
+a.14.1	nin-mu	23+24	bi2-ib-uru12-a+nin-gu10	uru12[drag]+nin[lady]	V+N	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.ABS+N.1-SG-POSS	0+27	_+ERG	_+_	24	nin-gu10	nin[lady]	N	N.1-SG-POSS	27	ERG	_	23	may my mistress	MD	26	aux
+a.15.1	{d}nin-lil2-ke4	25	{d}nin-lil2-ke4	{d}nin-lil2[1]	DN	DN.ERG	24	appos	_	25	{d}nin-lil2-ke4	{d}nin-lil2[1]	DN	DN.ERG	24	appos	_	24	Ninlil	NN	26	compound
+a.16.1	nam	26	nam	nam[fate]	N	N.ABS	27	ABS	_	26	nam	nam[fate]	N	N.ABS	27	ABS	_	25	_	.	1	_
+a.16.2	ha-ba-da-ku5-re6	27	ha-ba-da-ku5-re6	ku5[cut]	V	MOD1.MID.3-SG-H.COM.V.3-SG-A	0	_	_	27	ha-ba-da-ku5-re6	ku5[cut]	V	MOD1.MID.3-SG-H.COM.V.3-SG-A	0	_	_	26	curse him	PRP	4	_

@@ -1,0 +1,18 @@
+# tr.en: txt	
+# tr.en: Ibbi-Suen god of his land powerful king king of Urim king of Sumer and Akkad presented this to Suen-abuu cup-bearer his friend as crown prince	
+a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	15	ERG	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	15	ERG	_	1	Ibbi-Suen	NNP	15	nsubj
+a.col1.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	2	god of	NN	1	appos
+a.col1.2.2	kalam-ma-na	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	his land	NN	2	nmod:of
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	Urim king powerful king king	NN	1	appos
+a.col1.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	_	.	15	_
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	_	0	_
+a.col1.4.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	_	_	0	_
+a.col2.1.1	lugal	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	lugal[king]	N	N	1	appos	_	8	_	_	0	_
+a.col2.1.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col2.1.3	ub-da	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	_	_	0	_
+a.col2.1.4	limmu2-ba-ke4	10	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	9	amod	_	10	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	9	amod	_	10	_	_	0	_
+a.col2.2.1	{d}suen-a-bi2	11	{d}suen-a-bu-szu	{d}suen-a-bu-szu[1]	PN	PN	15	DAT	_	11	{d}suen-a-bu-szu	{d}suen-a-bu-szu[1]	PN	PN	15	DAT	_	11	to Suen-abuu	NN	15	nmod:to
+a.col2.3.1	sagi	12	sagi	sagi[cup-bearer]	N	N	11	appos	_	12	sagi	sagi[cup-bearer]	N	N	11	appos	_	12	cup-bearer	NN	15	dobj
+a.col2.4.1	du10-us2-sa2	13	du10-us2-sa	du10-us2-sa[friend]	N	N	11	appos	_	13	du10-us2-sa	du10-us2-sa[friend]	N	N	11	appos	_	13	his friend as crown prince	NN	12	appos
+a.col2.5.1	nam-dumu-ka-ni-ir	14	nam-dumu-ka-ni-ir	nam-dumu[status]	N	N.GEN.3-SG-H-POSS.DAT-H	11	appos	_	14	nam-dumu-ka-ni-ir	nam-dumu[status]	N	N.GEN.3-SG-H-POSS.DAT-H	11	appos	_	14	Sumer and Akkad	NNP	1	nmod:of
+a.col2.6.1	in-na-ba	15	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	presented this	VBD	0	root

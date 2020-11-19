@@ -1,0 +1,6 @@
+# tr.en: txt	
+# tr.en: Ninurta the great farmer of Enlil	
+a.1.1	{d}nin-urta	1	{d}nin-urta	{d}nin-urta[1]	DN	DN	0	_	_	1	{d}nin-urta	{d}nin-urta[1]	DN	DN	0	_	_	1	Ninurta	NNP	0	root
+a.2.1	ensi2	?	?	?	?	?	?	?	?	2	ensi2-gal	ensi2-gal[governor]	N	N	1	appos	_	2	the	DT	3	det
+a.2.2	gal	2	ensi2-gal	ensi2-gal[governor]	N	N	1	appos	_	?	?	?	?	?	?	?	?	3	great farmer	NN	1	appos
+a.3.1	{d}en-lil2-la2	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN.ABS	2	GEN	_	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN.ABS	2	GEN	_	4	of Enlil	NN	3	nmod:of

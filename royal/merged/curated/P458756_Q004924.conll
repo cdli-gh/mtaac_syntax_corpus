@@ -1,0 +1,16 @@
+# tr.en: txt	
+# tr.en: Sz-Suen strong king king of Ur king of four corners Ur-gagia scribe son of Namhani is your servant	
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Sz-Suen	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong king	NN	1	appos
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	_	0	_
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	2	nmod:of
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	:	1	_
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	four corners	NNS	6	nmod:of
+a.col2.1.1	ur-ga2-gi4-a	9	ur-ga2-gi4-ra	ur-ga2-gi4-ra[1]	PN	PN	0	_	_	9	ur-ga2-gi4-ra	ur-ga2-gi4-ra[1]	PN	PN	0	_	_	9	Ur-gagia	NN	13	nsubj
+a.col2.2.1	dub-sar	10	dub-sar	dub-sar[scribe]	N	N	9	appos	_	10	dub-sar	dub-sar[scribe]	N	N	9	appos	_	10	scribe	NN	9	conj
+a.col2.3.1	dumu	11	dumu	dumu[child]	N	N	9	appos	_	11	dumu	dumu[child]	N	N	9	appos	_	11	son	NN	9	appos
+a.col2.3.2	nam-ha-ni	12	nam-ha-ni	nam-ha-ni[2]	PN	PN.GEN.ABS	11	GEN	_	12	nam-ha-ni	nam-ha-ni[2]	PN	PN.GEN.ABS	11	GEN	_	12	of Namhani	NNP	11	nmod:of
+a.col2.4.1	ARAD2-zu	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	is your servant	NN	1	_

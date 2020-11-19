@@ -1,0 +1,14 @@
+# tr.en: txt	
+# tr.en: Szulgi powerful man king of Urim Szarakam scribe child of Inim-Szara land recorder of king is your servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi powerful	NNP	0	root
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	1	_
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	0	_
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.col1.4.1	{d}szara2-kam	6	{d}szara2-kam	{d}szara2-kam[1]	PN	PN	4	appos	_	6	{d}szara2-kam	{d}szara2-kam[1]	PN	PN	4	appos	_	6	Urim Szarakam	NNP	5	nmod:of
+a.col2.1.1	dub-sar	7	dub-sar	dub-sar[scribe]	N	N	4	appos	_	7	dub-sar	dub-sar[scribe]	N	N	4	appos	_	7	scribe	NN	8	appos
+a.col2.2.1	dumu	8	dumu	dumu[child]	N	N	4	appos	_	8	dumu	dumu[child]	N	N	4	appos	_	8	child	NN	12	nsubj
+a.col2.2.2	inim-{d}szara2	9	inim-{d}szara2	inim-{d}szara2[1]	PN	PN	4	GEN	_	9	inim-{d}szara2	inim-{d}szara2[1]	PN	PN	4	GEN	_	9	Inim-Szara	NNP	8	nmod:of
+a.col2.3.1	sa12-du5	10	sa12-du5	sa12-du5[recorder]	N	N	9	appos	_	10	sa12-du5	sa12-du5[recorder]	N	N	9	appos	_	10	land recorder	NN	9	appos
+a.col2.3.2	lugal-ka	11	lugal-ka	lugal[king]	N	N.GEN.GEN.ABS	10	GEN	_	11	lugal-ka	lugal[king]	N	N.GEN.GEN.ABS	10	GEN	_	11	king	NN	10	nmod:of
+a.col2.4.1	ARAD2-zu	12	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	12	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	12	is your servant	NN	1	_

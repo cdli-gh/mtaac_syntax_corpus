@@ -1,0 +1,10 @@
+# tr.en: txt	
+# tr.en: illu-Dagn governor of Simurrum Ilak-qir son of Alu chief administrator your servant	
+a.1.1	s,e-lu-usz-{d}da-gan	1	ṣi-lu-uš-{d}da-gan	ṣi-lu-uš-{d}da-gan[1]	PN	PN	0	_	_	1	ṣi-lu-uš-{d}da-gan	ṣi-lu-uš-{d}da-gan[1]	PN	PN	0	_	_	1	illu-Dagn	NNP	0	root
+a.2.1	ensi2	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	governor	NN	1	appos
+a.2.2	si-mu-ru-um{ki}	3	si-mu-ru-um{ki}	si-mu-ru-um{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	si-mu-ru-um{ki}	si-mu-ru-um{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	of Simurrum	NNP	2	nmod:of
+a.3.1	i-la-ak-szu-qir	4	i-la-ak-szu-qir	i-la-ak-szu-qir[1]	PN	PN	0	_	_	4	i-la-ak-szu-qir	i-la-ak-szu-qir[1]	PN	PN	0	_	_	4	Ilak-qir	NN	1	_
+a.4.1	dumu	5	dumu	dumu[child]	N	N	4	appos	_	5	dumu	dumu[child]	N	N	4	appos	_	5	son	NN	4	appos
+a.4.2	a-lu-a	6	a-lu	a-lu[1]	PN	PN	4	appos	_	6	a-lu	a-lu[1]	PN	PN	4	appos	_	6	Alu chief	NN	5	nmod:of
+a.4.3	szabra	7	szabra	szabra[administrator]	N	NN5=GEN.ABS	4	appos	_	7	szabra	szabra[administrator]	N	NN5=GEN.ABS	4	appos	_	7	administrator	NN	4	appos
+a.5.1	ARAD2-zu	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	your servant	NN	4	appos

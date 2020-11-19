@@ -1,0 +1,14 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Sz-Suen strong king king of Ur king of four corners Danniya scribe is your servant	
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Sz-Suen	NNP	0	root
+a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong king	NN	1	appos
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	_	0	_
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	2	nmod:of
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	:	1	_
+a.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	four corners	NNS	6	nmod:of
+a.5.1	dan-ni-a	9	dan-ni-a	dan-ni-a[1]	PN	PN	0	_	_	9	dan-ni-a	dan-ni-a[1]	PN	PN	0	_	_	9	Danniya	NNP	11	nsubj
+a.6.1	dub-sar	10	dub-sar	dub-sar[scribe]	N	N.ABS	9	appos	_	10	dub-sar	dub-sar[scribe]	N	N.ABS	9	appos	_	10	scribe	NN	9	appos
+a.7.1	ARAD2-zu	11	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	11	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	11	is your servant	NN	1	_

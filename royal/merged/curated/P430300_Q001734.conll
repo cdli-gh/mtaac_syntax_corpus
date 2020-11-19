@@ -1,0 +1,8 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Itr-ilum governor of Babylon Lugal-dalla scribe your servant	
+a.1.1	i-tur2-dingir	1	i-tur₂-DIŊIR	i-tur₂-DIŊIR[1]	PN	PN	0	_	_	1	i-tur₂-DIŊIR	i-tur₂-DIŊIR[1]	PN	PN	0	_	_	1	Itr-ilum	NN	0	root
+a.2.1	ensi2	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	governor	NN	1	appos
+a.3.1	babila2{ki}-ka	3	|KAN₄.DIŊIR|{ki}-ka	|KAN₄.DIŊIR|{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	|KAN₄.DIŊIR|{ki}-ka	|KAN₄.DIŊIR|{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	of Babylon	NNP	2	nmod:of
+a.4.1	lugal-dalla	4	lugal-dalla	lugal-dalla[1]	PN	PN	0	_	_	4	lugal-dalla	lugal-dalla[1]	PN	PN	0	_	_	4	Lugal-dalla	NN	1	_
+a.5.1	dub-sar	5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_	5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_	5	scribe	NN	4	conj
+a.5.2	ARAD2-zu	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	your servant	NN	4	appos

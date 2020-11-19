@@ -1,0 +1,11 @@
+# tr.en: txt	
+# tr.en: to his seed may he put an end If from cupboard he has removed it and into a storehouse he shall bring it	
+a.1'.1	numun-na-ni	1	numun-na-ni	numun[seed]	N	N.3-SG-H-POSS.ABS	2	ABS	_	1	numun-na-ni	numun[seed]	N	N.3-SG-H-POSS.ABS	2	ABS	_	1	to his seed	NN	2	nmod:to
+a.2'.1	he2-eb2-til-le	2	he2-eb2-til-le	til[complete]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	0	_	_	2	he2-eb2-til-le	til[complete]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	0	_	_	2	may he put an end	VB	0	root
+a.3'.1	tukum-bi	3	tukum-bi	tukum-bi[if]	CNJ	CNJ	0	_	_	3	tukum-bi	tukum-bi[if]	CNJ	CNJ	0	_	_	3	If	IN	6	mark
+a.4'.1	gu2-ne-sag-ga2	?	?	?	?	?	?	?	?	4	gu2-ne-sag-ga2-ta	gu2-ne-sag-ga2[cupboard]	N	N.ABL	5	ABL	_	4	from cupboard	NN	6	nmod:from
+a.5'.1	u4	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	_	,	6	_
+a.5'.2	ub-ta-e3	4+5	gu2-ne-sag-ga2-ta+u4-ub-ta-e3	gu2-ne-sag-ga2[cupboard]+e3[leave]	N+V	N.ABL+ANT.3-NH.ABL.3-SG-H-A.V.3-SG-P	5+0	ABL+_	_+_	5	u4-ub-ta-e3	e3[leave]	V	ANT.3-NH.ABL.3-SG-H-A.V.3-SG-P	0	_	_	6	he has removed it	VBN	2	advcl
+a.6'.1	e2	6	e2	e2[house]	N	N	8	LOC	_	6	e2	e2[house]	N	N	8	LOC	_	7	_	_	0	_
+a.6'.2	nig2-gur11-ra	?	?	?	?	?	?	?	?	7	nig2-gur11-ra-ka	nig2-gur11[property]	N	N.GEN.L1	6	GEN	_	8	and into a storehouse	CC	6	cc
+a.7'.1	ib2-ku4-...	7+8	nig2-gur11-ra-ka+x-ni-ku₄-ku₄-x	nig2-gur11[property]+ku4-ku4[enter]	N+V	N.GEN.L1+X	6+0	GEN+_	_+_	8	x-ni-ku₄-ku₄-x	ku4-ku4[enter]	V	X	0	_	_	9	he shall bring it	VB	6	acl:relcl

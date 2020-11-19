@@ -1,0 +1,9 @@
+# tr.en: Ea-nia beloved consort of king Enunil sailor is your servant	
+a.1.1	e2-a-ni-sza	1	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	0	_	_	1	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	0	_	_	1	Ea-nia	NN	0	root
+a.2.1	lukur	2	lukur	lukur[priestess]	N	N	4	ABS	_	2	lukur	lukur[priestess]	N	N	4	ABS	_	2	_	.	1	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	3	ki	ki[place]	N	N.ABS	2	appos	_	?	?	?	?	?
+a.2.2	ki-ag2	3+4	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	2+1	appos+amod	_+_	4	ag2	ag2[measure]	V	NF.V	1	amod	_	3	beloved	JJ	5	amod
+a.2.3	lugal	5	lugal	lugal[king]	N	N.GEN.ABS	4	GEN	_	5	lugal	lugal[king]	N	N.GEN.ABS	4	GEN	_	4	_	_	0	_
+a.3.1	ug3-IL2	6	e₂-nun-IL₂	e₂-nun-IL₂[1]	PN	PN	0	_	_	6	e₂-nun-IL₂	e₂-nun-IL₂[1]	PN	PN	0	_	_	5	consort	NN	1	appos
+a.4.1	ma2-lah5	7	ma2-lah5	ma2-lah5[sailor]	N	N.ABS	6	appos	_	7	ma2-lah5	ma2-lah5[sailor]	N	N.ABS	6	appos	_	6	king Enunil sailor	NN	5	nmod:of
+a.4.2	ARAD2-zu	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	7	servant is your	NN	1	_

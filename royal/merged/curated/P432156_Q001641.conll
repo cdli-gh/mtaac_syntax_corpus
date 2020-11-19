@@ -1,0 +1,17 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: To Ningublaga his master Ur-Namma the mighty man the lord of Uruk king of Ur and king of Sumer and Akkad for his life he dedicated it to him	
+a.1.1	{d}nin-gubalag	1	{d}nin-gublaga	{d}nin-gublaga[1]	DN	DN	15	DAT	_	1	{d}nin-gublaga	{d}nin-gublaga[1]	DN	DN	15	DAT	_	1	To Ningublaga	NNP	0	root
+a.2.1	lugal-a-ni	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his master	NN	1	root
+a.3.1	ur-{d}namma	3	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	3	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	3	Ur-Namma	NN	2	appos
+a.4.1	nita	4	nita	nita[male]	N	N	3	appos	_	4	nita	nita[male]	N	N	3	appos	_	4	man	NN	2	appos
+a.4.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	the mighty	DT	4	det
+a.5.1	en	6	en	en[lord]	N	N	3	appos	_	6	en	en[lord]	N	N	3	appos	_	6	the lord	NN	2	appos
+a.5.2	unu{ki}-ga	7	unug{ki}-ga	unug{ki}[1]	SN	SN.GEN	6	GEN	_	7	unug{ki}-ga	unug{ki}[1]	SN	SN.GEN	6	GEN	_	7	of Uruk	NNP	6	nmod:of
+a.6.1	lugal	8	lugal	lugal[king]	N	N	3	appos	_	8	lugal	lugal[king]	N	N	3	appos	_	8	king	NN	7	conj
+a.6.2	uri{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	of Ur	NN	8	nmod:of
+a.7.1	lugal	10	lugal	lugal[king]	N	N	3	appos	_	10	lugal	lugal[king]	N	N	3	appos	_	10	_	,	2	_
+a.7.2	ki-en-gi	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	_	_	0	_
+a.7.3	ki-uri-ke4	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	and king Sumer and Akkad	CC	7	cc
+a.8.1	nam-ti-la-ni-sze3	13	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	15	TERM	_	13	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	15	TERM	_	13	for his life	NN	2	nmod:for
+a.9.1	a	14	a	a[water]	N	N.ABS	15	ABS	_	14	a	a[water]	N	N.ABS	15	ABS	_	14	he dedicated	VBD	13	acl:relcl
+a.9.2	mu-na-ru	15	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	it to him	PRP	14	dobj

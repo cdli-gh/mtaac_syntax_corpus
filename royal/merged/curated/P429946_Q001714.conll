@@ -1,0 +1,14 @@
+# tr.en: Szulgi powerful man king of Urim king of four quarters presented this to his beloved Geme-Ninlila	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	11	ERG	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	11	ERG	_	1	Szulgi powerful	NNP	9	nsubj
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	9	_
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	0	_
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	Urim king	NNP	5	nmod:of
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	_	0	_
+a.col1.4.4	limmu2-ba-ke4	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	quarters four	NNS	1	nmod:of
+a.col2.1.1	geme2-{d}nin-lil2-la2	9	geme2-{d}nin-lil2-la2	geme2-{d}nin-lil2-la2[1]	PN	PN	11	ABS	_	9	geme2-{d}nin-lil2-la2	geme2-{d}nin-lil2-la2[1]	PN	PN	11	ABS	_	9	presented this to Geme-Ninlila	VBN	0	root
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	10	ki	ki[place]	N	N.ABS	9	appos	_	?	?	?	?	?
+a.col2.2.1	ki-ag2-ga2-ni-ir	10+11	ki+ag2-ga2-ni-ir	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.DAT-H	9+12	appos+DAT	_+_	11	ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	12	DAT	_	10	his beloved	PRP$	9	nmod:poss
+a.col2.3.1	in-na-ba	12	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	12	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	_	_	0	_

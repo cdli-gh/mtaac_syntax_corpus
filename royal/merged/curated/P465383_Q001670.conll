@@ -1,0 +1,19 @@
+# tr.en: Assorted into booty I made king of into captivity I took and I did not let him escape my hand A person who order of a wicked thing shall issue against it																						
+r.col3.1'.1	x	1	x	_[_]	u	_	0	_	_	1	x	_[_]	u	_	0	_	_	1	_	NN	0	root
+r.col3.1'.2	x	2	x	_[_]	u	_	0	_	_	2	x	_[_]	u	_	0	_	_	2	_	_	0	dep
+r.col3.1'.3	x	3	x	_[_]	u	_	0	_	_	3	x	_[_]	u	_	0	_	_	3	_	_	0	dep
+r.col3.1'.4	hi-a	4	hi-a	hi[mix]	V	NF.V.SUB.ABS	6	ABS	_	4	hi-a	hi[mix]	V	NF.V.SUB.ABS	6	ABS	_	4	Assorted	JJ	1	amod
+r.col3.2'.1	nam-ra-asz	5	nam-ra-asz	nam-ra[booty]	N	N.ADV	6	ADV	_	5	nam-ra-asz	nam-ra[booty]	N	N.ADV	6	ADV	_	5	into booty	NN	1	nmod:into
+r.col3.3'.1	ha-da-ak	6	ha-ba-ak	ak[do]	V	MOD1.MID.3-SG-H-A.stem.3-SG-P	0	_	_	6	ha-ba-ak	ak[do]	V	MOD1.MID.3-SG-H-A.stem.3-SG-P	0	_	_	6	I made	VBD	5	acl:relcl
+r.col3.4'.1	NE-ESZ2	7	|NE.EŠ₂|	|NE.EŠ₂|[1]	RN	RN	10	ABS	_	7	|NE.EŠ₂|	|NE.EŠ₂|[1]	RN	RN	10	ABS	_	7	king	NN	1	_
+r.col3.4'.2	lugal	8	lugal	lugal[king]	N	N	7	appos	_	8	lugal	lugal[king]	N	N	7	appos	_	8	_	_	0	_
+r.col3.5'.1	x-x{ki}	9	x-x{ki}	x-x{ki}[1]	GN	GN.GEN.ABS	8	GEN	_	9	x-x{ki}	x-x{ki}[1]	GN	GN.GEN.ABS	8	GEN	_	9	of	IN	7	nmod:of
+r.col3.6'.1	szaga-a	10	szaga-a	szaga[oppressed]	V	V.L1	0	_	_	10	szaga-a	szaga[oppressed]	V	V.L1	0	_	_	10	into captivity	NN	7	nmod:into
+r.col3.7'.1	he2-ni-dab5	?	?	?	?	?	?	?	?	11	ha-ni-dab5	dab5[seize]	V	MOD1.L1.1-SG-A.V.3-SG-P	0	_	_	11	I took	VBD	10	acl:relcl
+r.col3.8'.1	szu-mu	11+12	ha-ni-dab5+szu-gu10	dab5[seize]+szu[hand]	V+N	MOD1.L1.1-SG-A.V.3-SG-P+N.1-SG-POSS.ABL	0+13	_+ABL	_+_	12	szu-gu10	szu[hand]	N	N.1-SG-POSS.ABL	13	ABL	_	12	and I did not	CC	7	cc
+r.col3.8'.2	ba-ra-ba-ta-e3	13	ba-ra-ba-ta-e3	e3[leave]	V	MOD4.MID.ABL.V.3-SG-S	0	_	_	13	ba-ra-ba-ta-e3	e3[leave]	V	MOD4.MID.ABL.V.3-SG-S	0	_	_	13	let him escape my hand	VB	7	conj
+r.col3.9'.1	lu2	14+15+16	lu2+hul+ib₂-x	lu2[person]+hul[bad]+_[_]	N+V+u	N+NF.V.ABS+_	0+14+0	_+amod+_	_+_+_	14	lu2	lu2[person]	N	N	0	_	_	14	_	_	0	_
+r.col3.9'.2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	15	A person	NN	1	appos
+r.col3.9'.3	hul-	?	?	?	?	?	?	?	?	15	hul	hul[bad]	V	NF.V.ABS	14	amod	_	16	who order	WP	18	dobj
+?	*RETOK*-hul-<dim2-ma>	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	17	a wicked thing	NN	18	nmod:of
+r.col3.10'.1	ib2-szi-ag2-ge26-a	?	?	?	?	?	?	?	?	16	ib₂-x	_[_]	u	_	0	_	_	18	shall issue against it	VB	15	acl:relcl

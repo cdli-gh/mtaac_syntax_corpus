@@ -1,0 +1,11 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi powerful man king of Urim king of Sumer and Akkad	
+a.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi powerful	NNP	0	root
+a.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	1	_
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	0	_
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	Urim king	NNP	5	nmod:of
+a.4.2	ki-en-gi	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	Sumer	NNP	1	nmod:of
+a.4.3	ki	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	8	_	_	0	_
+a.4.4	uri	8	ki-uri	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_	8	ki-uri	ki-uri[1]	GN	GN.GEN.ABS	7	appos	_	9	and Akkad	CC	7	cc

@@ -1,0 +1,11 @@
+# tr.en: To god Meslamta-ea his lord for life of Szulgi Ur-Suena son of U-u dedicated																						
+a.1.1	{d}mes-lam-ta-e3-a	1	{d}mesz3-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	9	DAT	_	1	{d}mesz3-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	9	DAT	_	1	To god Meslamta-ea	NN	8	nmod:to
+a.2.1	lugal-a-ni	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his lord	NN	8	nsubj
+a.3.1	nam-ti-{d}szul-gi	?	?	?	?	?	?	?	?	3	nam-til3	nam-til3[life]	N	N	9	TERM	_	3	for life Szulgi	NN	8	nmod:for
+?	?	?	?	?	?	?	?	?	?	4	{d}szul-gi-ka-sze3	szul-gi[1]	RN	RN.GEN.TERM	3	GEN	_	?	?	?	?	?
+a.4.1	ka-sze3	3+4	nam-til3+{d}szul-gi-ka-sze3	nam-til3[life]+szul-gi[1]	N+RN	N+RN.GEN.TERM	9+3	TERM+GEN	_+_	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.5.1	ur-{d}suen	5	ur-{d}suen	ur-{d}suen[3]	PN	PN	9	ERG	_	5	ur-{d}suen	ur-{d}suen[3]	PN	PN	9	ERG	_	4	Ur-Suena	NNP	3	appos
+a.6.1	dumu	6	dumu	dumu[child]	N	N	5	appos	_	6	dumu	dumu[child]	N	N	5	appos	_	5	son	NN	3	appos
+a.6.2	u2-u2	7	u2-u2	u2-u2[1]	PN	PN.GEN.ERG	6	GEN	_	7	u2-u2	u2-u2[1]	PN	PN.GEN.ERG	6	GEN	_	6	U-u	NN	3	nmod:of
+a.7.1	a	8	a	a[water]	N	N.ABS	9	ABS	_	8	a	a[water]	N	N.ABS	9	ABS	_	7	_	.	8	_
+a.7.2	mu-na-ru	9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	8	dedicated	VBN	0	root

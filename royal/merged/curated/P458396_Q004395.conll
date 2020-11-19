@@ -1,0 +1,16 @@
+# tr.en: txt	
+# tr.en: Sz-Suen strong king king of Ur king of four corners Ku-Nanna son of Lu-Nanna fattener is your servant	
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Sz-Suen	NNP	0	root
+a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong king	NN	1	appos
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	_	0	_
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	2	nmod:of
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	:	1	_
+a.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	four corners	NNS	6	nmod:of
+a.5.1	ku3-{d}nanna	9	kug-{d}nanna	kug-{d}nanna[1]	PN	PN	0	_	_	9	kug-{d}nanna	kug-{d}nanna[1]	PN	PN	0	_	_	9	Ku-Nanna	NNP	13	nsubj
+a.6.1	dumu	10	dumu	dumu[child]	N	N	9	appos	_	10	dumu	dumu[child]	N	N	9	appos	_	10	son	NN	9	appos
+a.6.2	lu2-{d}nanna	11	lu2-{d}nanna	lu2-{d}nanna[4]	PN	PN	9	appos	_	11	lu2-{d}nanna	lu2-{d}nanna[4]	PN	PN	9	appos	_	11	Lu-Nanna	NNP	10	nmod:of
+a.7.1	kuruszda	?	?	?	?	?	?	?	?	12	guruszta	guruszta[fattener]	N	N.GEN.ABS	11	GEN	_	12	fattener	NN	11	appos
+a.8.1	ARAD2-zu	12+13	guruszta+arad2-zu	guruszta[fattener]+arad2[slave]	N+N	N.GEN.ABS+N.2-SG-POSS.ABS	11+0	GEN+_	_+_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	is your servant	NN	1	_

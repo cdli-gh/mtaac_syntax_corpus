@@ -1,0 +1,13 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi the mighty man king of Ur and king of four world quarters Simat-Enlil his daughter	
+a.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi	NNP	0	root
+a.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	the mighty	DT	2	det
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	,	1	_
+a.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	and king world	CC	4	cc
+a.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	four quarters	NNS	4	nmod:of
+a.5.1	me-{d}en-lil2	9	ME-{d}en-lil₂	ME-{d}en-lil₂[1]	PN	PN.ABS	0	_	_	9	ME-{d}en-lil₂	ME-{d}en-lil₂[1]	PN	PN.ABS	0	_	_	9	Simat-Enlil	NNP	10	compound
+a.6.1	dumu-munus-a-ni	10	dumu-munus-a-ni	dumu-munus[daughter]	N	N.3-SG-H-POSS.ABS	0	_	_	10	dumu-munus-a-ni	dumu-munus[daughter]	N	N.3-SG-H-POSS.ABS	0	_	_	10	his daughter	NN	1	appos
