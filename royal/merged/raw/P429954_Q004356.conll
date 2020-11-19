@@ -1,0 +1,15 @@
+# tr.en: txt	
+# tr.en: Sz-Suen strong king king of Ur Aba-Enlil-gin son of Lu-Inanna fattener is your servant	
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Sz-Suen	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong king	NN	1	appos
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	_	0	_
+a.col1.3.2	uri5{ki}-ma	5+6+7+8	urim5{ki}-ma+lugal+an-ub-da+limmu2-ba	urim5{ki}[1]+lugal[king]+an-ub-da[quarter]+limmu2[four]	SN+N+N+NU	SN.GEN+N+N+NF.V.3-SG-NH-POSS.GEN.ABS	4+1+6+7	GEN+appos+GEN+amod	_+_+_+_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NNP	2	nmod:of
+?	*RETOK*-lugal	?	?	?	?	?	?	?	?	6	lugal	lugal[king]	N	N	1	appos	_	?	?	?	?	?
+?	*RETOK*-an-ub-da	?	?	?	?	?	?	?	?	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	?	?	?	?	?
+?	*RETOK*-limmu2-ba	?	?	?	?	?	?	?	?	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	?	?	?	?	?
+a.col2.1.1	a-ba-{d}en-lil2-gin7	9	a-ba-{d}en-lil2-gin7	a-ba-{d}en-lil2-gin7[2]	PN	PN	0	_	_	9	a-ba-{d}en-lil2-gin7	a-ba-{d}en-lil2-gin7[2]	PN	PN	0	_	_	6	Aba-Enlil-gin	NNP	10	nsubj
+a.col2.2.1	dumu	10	dumu	dumu[child]	N	N	9	appos	_	10	dumu	dumu[child]	N	N	9	appos	_	7	son	NN	6	appos
+a.col2.2.2	lu2-{d}inanna	?	?	?	?	?	?	?	?	11	lu2-{d}inana	lu2-{d}inana[2]	PN	PN	9	appos	_	8	of Lu-Inanna	NNP	7	nmod:of
+a.col2.2.3	kuruszda	?	?	?	?	?	?	?	?	12	guruszta	guruszta[fattener]	N	N.GEN.ABS	11	GEN	_	9	fattener	NN	8	appos
+a.col2.3.1	ARAD2-zu	11+12+13	lu2-{d}inana+guruszta+arad2-zu	lu2-{d}inana[2]+guruszta[fattener]+arad2[slave]	PN+N+N	PN+N.GEN.ABS+N.2-SG-POSS.ABS	9+11+0	appos+GEN+_	_+_+_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	10	is your servant	NN	1	_

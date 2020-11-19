@@ -1,0 +1,17 @@
+?	*RETOK*-nita	?	?	?	?	?	?	?	?	1	nita	nita[male]	N	N	0	_	_	# tr.en: txt	?	?	?	?
+?	*RETOK*-kalag-ga	?	?	?	?	?	?	?	?	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_		?	?	?	?
+# tr.en: the strong manking king of Ur and king of four world quarters n minas Nannas Established Sealed-items Storeroom he standardized for him	
+a.1'.1	lugal	1+2+3	nita+kalag-ga+lugal	nita[male]+kalag[strong]+lugal[king]	N+V+N	N+NF.V.SUB+N	0+1+1	_+amod+appos	_+_+_	3	lugal	lugal[king]	N	N	1	appos	_	1	the	DT	2	det
+a.1'.2	kal-ga	4	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	3	GEN	_	4	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	3	GEN	_	2	strong manking	NN	0	root
+a.2'.1	lugal	5	lugal	lugal[king]	N	N	1	appos	_	5	lugal	lugal[king]	N	N	1	appos	_	3	king	NN	2	conj
+a.2'.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	4	Ur	NN	3	nmod:of
+a.3'.1	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	_	_	0	_
+a.3'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.3'.3	ub-da	6	an-ub-da	an-ub-da[quarter]	N	N	5	GEN	_	6	an-ub-da	an-ub-da[quarter]	N	N	5	GEN	_	6	and king	CC	2	cc
+a.3'.4	limmu2-ba-ke4	7	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	6	amod	_	7	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	6	amod	_	7	four world quarters	NNS	2	nmod:of
+a.4'.1	n(disz)	8	x	_[_]	X	_	0	_	_	8	x	_[_]	X	_	0	_	_	8	_	,	2	_
+a.4'.2	ma-na	9	ma-na	ma-na[unit]	N	N.ABS	11	ABS	_	9	ma-na	ma-na[unit]	N	N.ABS	11	ABS	_	9	minas	NNS	2	appos
+a.5'.1	e2-kiszib3-ba	?	?	?	?	?	?	?	?	10	e2-kiszib-ba-{d}nanna-a-gar-ra	e2-kiszib-ba-{d}nanna-a-gar-ra[1]	TN	TN.L1	11	LOC	_	10	Nannas	NNP	12	nmod:poss
+a.5'.2	{d}nanna-a	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	11	Established	VBN	12	amod
+a.5'.3	gar-ra	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	12	Sealed-items Storeroom	NNP	2	appos
+a.6'.1	mu-na-gi-in	10+11	e2-kiszib-ba-{d}nanna-a-gar-ra+mu-na-ge-en6	e2-kiszib-ba-{d}nanna-a-gar-ra[1]+ge-en6[establish]	TN+V	TN.L1+VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	11+0	LOC+_	_+_	11	mu-na-ge-en6	ge-en6[establish]	V	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	0	_	_	13	he standardized for him	JJ	2	acl:relcl

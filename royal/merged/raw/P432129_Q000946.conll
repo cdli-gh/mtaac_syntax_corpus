@@ -1,0 +1,38 @@
+# tr.en: txt	
+# tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad a swamp planted with seedlings it was indeed a swamp a field of it which was in area from water he brought out for him Levees for it danna and nindan he made for him Next to Ur as a treasure he made it Of that canal Who Is Like Nanna is its name	
+a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	15	DAT	_	1	{d}nanna	{d}nanna[1]	DN	DN	15	DAT	_	1	For Nanna	NNP	17	nmod:for
+a.2.1	dumu-sag	2	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_	2	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_	2	the first-born son	NN	17	nsubj
+a.3.1	{d}en-lil2-la2	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	of Enlil	NNP	2	nmod:of
+a.4.1	lugal-a-ni	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his master	NN	2	appos
+a.5.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	5	Ur-Namma	NN	4	appos
+a.6.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	6	man	NN	4	appos
+a.6.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	the mighty	DT	6	det
+a.7.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	8	king	NN	4	appos
+a.7.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	Ur	NN	8	nmod:of
+a.8.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	10	_	,	8	_
+a.8.2	ki-en-gi	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	_	_	0	_
+a.8.3	ki-uri-ke4	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	and king Sumer and Akkad	CC	8	cc
+a.9.1	sug	13	sug	sug[marsh]	N	N	15	ABS	_	13	sug	sug[marsh]	N	N	15	ABS	_	13	a swamp	VB	8	appos
+a.9.2	pesz	14	pesz	pesz[seedling]	N	N.ABS	13	appos	_	14	pesz	pesz[seedling]	N	N.ABS	13	appos	_	14	planted	VBN	13	acl
+a.9.3	du3-a	15	du3-a	du3[build]	V	NF.V.SUB	17	ABS	_	15	du3-a	du3[build]	V	NF.V.SUB	17	ABS	_	15	with seedlings	NNS	14	nmod:with
+a.10.1	sug	16	sug	sug[marsh]	N	N.ABS	15	appos	_	16	sug	sug[marsh]	N	N.ABS	15	appos	_	16	_	_	0	_
+a.10.2	he2-me-am3	17	he2-me-am3	me[be]	V	MOD1.FIN.COP.3-SG-S.COP-3-SG	0	_	_	17	he2-me-am3	me[be]	V	MOD1.FIN.COP.3-SG-S.COP-3-SG	0	_	_	17	it was indeed a swamp	VB	0	root
+a.11.1	a-sza3-bi	?	?	?	?	?	?	?	?	18	a-szag4-bi	a-szag4[field]	N	N.3-SG-NH-POSS.ABS	0	_	_	18	a field of it	NN	17	dobj
+a.12.1	szar2-gal	?	?	?	?	?	?	?	?	19	1(szargal){gal}	_[_]	n	_	0	_	_	19	which was	WDT	18	nsubj
+a.12.2	GAN2-am3	18+19+20	a-szag4-bi+1(szargal){gal}+gana2-am3	a-szag4[field]+_[_]+gana2[field]	N+n+N	N.3-SG-NH-POSS.ABS+_+N.ABS.COP-3-SG	0+0+22	_+_+ABS.	_+_+_	20	gana2-am3	gana2[field]	N	N.ABS.COP-3-SG	22	ABS.	_	20	in area	NN	18	nmod:in
+a.13.1	a-ta	21	a-ta	a[water]	N	N.ABL	22	ABL	_	21	a-ta	a[water]	N	N.ABL	22	ABL	_	21	from water	NN	20	nmod:from
+a.14.1	ha-mu-na-ta-DU	?	?	?	?	?	?	?	?	22	ha-mu-na-ta-ed3	ed3[ascend]	V	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	22	he brought out for him	VBD	21	acl:relcl
+a.15.1	e-bi	22+23	ha-mu-na-ta-ed3+eg2-bi	ed3[ascend]+eg2[levee]	V+N	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P+N.3-SG-NH-POSS	0+0	_+_	_+_	23	eg2-bi	eg2[levee]	N	N.3-SG-NH-POSS	0	_	_	23	Levees for it	NNPS	29	ccomp
+a.15.2	4(disz)	24	4(disz)	_[_]	n	_	0	_	_	24	4(disz)	_[_]	n	_	0	_	_	24	_	,	29	nummod
+a.15.3	da-na	25	da-na	da-na[unit]	N	N	0	_	_	25	da-na	da-na[unit]	N	N	0	_	_	25	danna	NN	23	conj
+a.15.4	4(gesz2)	26	4(gesz2)	_[_]	n	_	0	_	_	26	4(gesz2)	_[_]	n	_	0	_	_	26	_	_	0	nummod
+a.15.5	2(u)	27	2(u)	_[_]	n	_	0	_	_	27	2(u)	_[_]	n	_	0	_	_	27	_	_	26	nummod
+a.15.6	nig2-ra2	28	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)[pole]	N	N	0	_	_	28	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)[pole]	N	N	0	_	_	28	and nindan	CC	23	cc
+a.16.1	he2-na-ak	29	he2-na-ak	ak[do]	V	MOD1.FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	29	he2-na-ak	ak[do]	V	MOD1.FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	29	he made for him	VBD	17	parataxis
+a.17.1	uri5{ki}-e	30	urim5{ki}-e	urim5{ki}[1]	SN	SN.L3-NH	32	LOC	_	30	urim5{ki}-e	urim5{ki}[1]	SN	SN.L3-NH	32	LOC	_	30	Next to Ur as	JJ	29	advmod
+a.17.2	gil-sa-asz	31	gil-sa-asz	gil-sa[treasure]	N	N.ADV	32	ADV	_	31	gil-sa-asz	gil-sa[treasure]	N	N.ADV	32	ADV	_	31	a treasure	NN	29	nmod:as
+a.18.1	he2-mi-na	?	?	?	?	?	?	?	?	32	he2-mi-ak	ak[do]	V	MOD1.FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	0	_	_	32	he made it	VBD	31	acl:relcl
+a.19.1	e-ba	32+33	he2-mi-ak+eg2-ba	ak[do]+eg2[levee]	V+N	MOD1.FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P+N.DEM2.GEN	0+0	_+_	_+_	33	eg2-ba	eg2[levee]	N	N.DEM2.GEN	0	_	_	33	Of that canal	NN	17	nmod:of
+a.19.2	a-ba	34	a-ba	a-ba[who?]	N	N.ABS	33	GEN	_	34	a-ba	a-ba[who?]	N	N.ABS	33	GEN	_	34	Who Is	WP	35	nsubj
+a.19.3	{d}nanna-gin7	35	{d}nanna-gin7	{d}nanna[1]	DN	DN.EQU	0	_	_	35	{d}nanna-gin7	{d}nanna[1]	DN	DN.EQU	0	_	_	35	Like Nanna	NNP	36	csubj
+a.20.1	mu-bi	36	mu-bi	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	0	_	_	36	mu-bi	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	0	_	_	36	is its name	NN	33	_

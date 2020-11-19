@@ -1,0 +1,13 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Dada governor of Nibru Adda-kala scribe child of is your servant	
+a.col1.1.1	da-da	1	da-da	da-da[1]	PN	PN	0	_	_	1	da-da	da-da[1]	PN	PN	0	_	_	1	Dada	NNP	0	root
+a.col1.2.1	ensi2	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	governor	NN	1	appos
+a.col1.3.1	nibru{ki}	3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	of Nibru	NNP	2	nmod:of
+a.col1.4.1	ad-da-kal-la	4	ad-da-kal-la	ad-da-kal-la[1]	PN	PN	0	_	_	4	ad-da-kal-la	ad-da-kal-la[1]	PN	PN	0	_	_	4	Adda-kala	NN	10	nsubj
+a.col2.1.1	dub-sar	5	dub-sar	dub-sar[scribe]	N	N	0	_	_	5	dub-sar	dub-sar[scribe]	N	N	0	_	_	5	scribe	NN	4	appos
+a.col2.2.1	dumu	6	dumu	dumu[child]	N	N	0	_	_	6	dumu	dumu[child]	N	N	0	_	_	6	child	NN	4	appos
+?	*RETOK*-x	?	?	?	?	?	?	?	?	7	x	_[_]	u	_	0	_	_	?	?	?	?	?
+a.col2.2.2	ur-x-x	?	?	?	?	?	?	?	?	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	7	of is	IN	6	nmod:of
+a.col2.2.3	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	8	of is	VBZ	10	dep
+a.col2.3.1	ARAD2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	your servant	PRP$	10	nmod:poss
+a.col2.3.2	...	7+8	x+arad2-zu	_[_]+arad2[slave]	u+N	_+N.2-SG-POSS.ABS	0+0	_+_	_+_	?	?	?	?	?	?	?	?	10	your servant	NN	1	dep

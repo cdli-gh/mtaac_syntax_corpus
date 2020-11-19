@@ -1,0 +1,11 @@
+# tr.en: txt	
+# tr.en: Ibbi-Suen powerful king king of Urim Szu-Suen-itibinat chief cup-bearer is your servant	
+a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	Ibbi-Suen powerful	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	1	_
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	0	_
+a.col1.3.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	king	NN	1	appos
+a.col2.1.1	{d}szu-{d}suen-i-ti2-ib-szi-na-at	?	?	?	?	?	?	?	?	6	{d}šu-{d}suen-i-TI-ib-ši-na-at	{d}šu-{d}suen-i-TI-ib-ši-na-at[1]	PN	PN	0	_	_	6	Urim Szu-Suen-itibinat	NNP	5	nmod:of
+a.col2.2.1	sagi-gal	?	?	?	?	?	?	?	?	7	sagi	sagi[cup-bearer]	N	N	6	appos	_	7	chief cup-bearer	NN	8	appos
+?	*RETOK*-gal	?	?	?	?	?	?	?	?	8	gal	gal[big]	V	NF.V.ABS	7	amod	_	?	?	?	?	?
+a.col2.3.1	ARAD2-zu	5+6+7+8+9	urim5{ki}-ma+{d}šu-{d}suen-i-TI-ib-ši-na-at+sagi+gal+arad2-zu	urim5{ki}[1]+{d}šu-{d}suen-i-TI-ib-ši-na-at[1]+sagi[cup-bearer]+gal[big]+arad2[slave]	SN+PN+N+V+N	SN.GEN.ABS+PN+N+NF.V.ABS+N.2-SG-POSS.ABS	4+0+6+7+0	GEN+_+appos+amod+_	_+_+_+_+_	9	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	is your servant	NN	1	_

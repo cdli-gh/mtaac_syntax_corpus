@@ -1,0 +1,18 @@
+# tr.en: txt	
+# tr.en: Szu-Suen powerful king king of Urim king of four quarters Lugal-amarkug scribe child of Lugal-magure iib priest of Ninurta is your servant	
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Szu-Suen powerful	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	.	1	_
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	king king	NN	1	appos
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	Urim	NNP	1	nmod:of
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	_	0	_
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	_	0	_
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	quarters four	NNS	5	nmod:of
+a.col1.5.1	lugal-amar-ku3	9	lugal-amar-kug	lugal-amar-kug[2]	PN	PN	0	_	_	9	lugal-amar-kug	lugal-amar-kug[2]	PN	PN	0	_	_	9	Lugal-amarkug	NN	13	nsubj
+a.col2.1.1	dub-sar	10	dub-sar	dub-sar[scribe]	N	N	9	appos	_	10	dub-sar	dub-sar[scribe]	N	N	9	appos	_	10	scribe	NN	9	appos
+?	*RETOK*-dumu	?	?	?	?	?	?	?	?	11	dumu	dumu[child]	N	N	9	appos	_	11	_	_	0	_
+a.col2.2.1	sza3-tam-gesz-kin-ti	?	?	?	?	?	?	?	?	12	lugal-ma2-gur8-re	lugal-ma2-gur8-re[4]	PN	PN	9	appos	_	12	child Lugal-magure iib priest Ninurta	NN	9	appos
+?	*RETOK*-iszib	?	?	?	?	?	?	?	?	13	iszib	iszib[priest]	N	N	12	GEN	_	?	?	?	?	?
+?	*RETOK*-{d}nin-urta	?	?	?	?	?	?	?	?	14	{d}nin-urta	{d}nin-urta[1]	DN	DN.GEN.GEN.ABS	13	GEN	_	?	?	?	?	?
+a.col2.3.1	ARAD2-zu	11+12+13+14+15	dumu+lugal-ma2-gur8-re+iszib+{d}nin-urta+arad2-zu	dumu[child]+lugal-ma2-gur8-re[4]+iszib[priest]+{d}nin-urta[1]+arad2[slave]	N+PN+N+DN+N	N+PN+N+DN.GEN.GEN.ABS+N.2-SG-POSS.ABS	9+9+12+13+0	appos+appos+GEN+GEN+_	_+_+_+_+_	15	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	is your servant	NN	1	_

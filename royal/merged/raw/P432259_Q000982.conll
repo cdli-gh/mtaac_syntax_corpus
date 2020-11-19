@@ -1,0 +1,5 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Amar-Suena the mighty man	
+a.1.1	{d}amar-{d}suen	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	1	Amar-Suena	NNP	0	root
+a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	the	DT	3	det
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB.ABS	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB.ABS	2	amod	_	3	mighty man	NN	1	appos

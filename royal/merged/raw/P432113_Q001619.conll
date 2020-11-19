@@ -1,0 +1,9 @@
+# tr.en: txt	
+# tr.en: Ur-Namma king of Ur the person who temple of Nanna built	
+a.1.1	ur-{d}namma	1	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	1	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	1	Ur-Namma	NNP	0	root
+a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.2.2	uri5{ki}-ma	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	Ur	NN	2	nmod:of
+a.3.1	lu2	4	lu2	lu2[person]	N	N	7	ABS	_	4	lu2	lu2[person]	N	N	7	ABS	_	4	the person	NN	1	appos
+a.3.2	e2	5	e2	e2[house]	N	N	4	appos	_	5	e2	e2[house]	N	N	4	appos	_	5	who temple	WP	7	dobj
+a.4.1	{d}nanna	6	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	5	GEN	_	6	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	5	GEN	_	6	of Nanna	NNP	7	nmod:of
+a.5.1	in-du3-a	7	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	2	amod	_	7	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	2	amod	_	7	built	VBN	4	acl:relcl

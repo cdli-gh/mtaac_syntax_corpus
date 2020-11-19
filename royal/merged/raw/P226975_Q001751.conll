@@ -1,0 +1,24 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: To Nusku the chief minister of Enlil his master for life of Szulgi the mighty man king of Ur and King of Sumer and Akkad Ur-Nanibgal the governor of Nippur son of Lugal-engardug governor of Nippur dedicated to him	
+a.col1.1.1	{d}nusku	1	{d}nuska	{d}nuska[1]	DN	DN	22	DAT	_	1	{d}nuska	{d}nuska[1]	DN	DN	22	DAT	_	1	To Nusku	NNP	0	root
+a.col1.2.1	sukkal-mah	2	sukkal-mah	sukkal-mah[official]	N	N	1	appos	_	2	sukkal-mah	sukkal-mah[official]	N	N	1	appos	_	2	the chief minister	NN	1	root
+a.col1.3.1	{d}en-lil2-la2	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	of Enlil	NNP	2	nmod:of
+a.col1.4.1	lugal-a-ni	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his master	NN	2	appos
+a.col1.5.1	nam-ti	5	nam-til3	nam-til3[life]	N	N	22	TERM	_	5	nam-til3	nam-til3[life]	N	N	22	TERM	_	5	for life	NN	2	nmod:for
+a.col1.6.1	{d}szul-gi	6	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	appos	_	6	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	appos	_	6	of Szulgi	NNP	5	nmod:of
+a.col1.7.1	nita	7	nita	nita[male]	N	N	5	appos	_	7	nita	nita[male]	N	N	5	appos	_	7	man	NN	6	appos
+a.col1.7.2	kal-ga	8	kalag-ga	kalag[strong]	V	NF.V.SUB	7	amod	_	8	kalag-ga	kalag[strong]	V	NF.V.SUB	7	amod	_	8	the mighty	DT	7	det
+a.col1.8.1	lugal	9	lugal	lugal[king]	N	N	5	appos	_	9	lugal	lugal[king]	N	N	5	appos	_	9	king	NN	6	appos
+a.col1.8.2	uri5{ki}-ma	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_	10	Ur	NN	9	nmod:of
+a.col1.9.1	lugal	11	lugal	lugal[king]	N	N	5	appos	_	11	lugal	lugal[king]	N	N	5	appos	_	11	_	,	9	_
+a.col1.9.2	ki-en-gi	12	ki-en-gi	ki-en-gi[1]	GN	GN	11	GEN	_	12	ki-en-gi	ki-en-gi[1]	GN	GN	11	GEN	_	12	_	_	0	_
+a.col1.9.3	ki-uri-ka-sze3	13	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	12	GEN	_	13	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	12	GEN	_	13	and King Sumer and Akkad	CC	9	cc
+a.col2.1.1	ur-{d}nanibgal2	14	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	22	ERG	_	14	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	22	ERG	_	14	Ur-Nanibgal	NNP	9	conj
+a.col2.2.1	ensi2	15	ensi2	ensi2[ruler]	N	N	14	appos	_	15	ensi2	ensi2[ruler]	N	N	14	appos	_	15	the governor	NN	9	appos
+a.col2.3.1	nibru{ki}	16	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	15	GEN	_	16	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	15	GEN	_	16	of Nippur	NNP	15	nmod:of
+a.col2.4.1	dumu	17	dumu	dumu[child]	N	N	14	appos	_	17	dumu	dumu[child]	N	N	14	appos	_	17	son	NN	9	appos
+a.col2.4.2	lugal-engar-du10	18	lugal-engar-dug3	lugal-engar-dug3[1]	PN	PN	14	appos	_	18	lugal-engar-dug3	lugal-engar-dug3[1]	PN	PN	14	appos	_	18	Lugal-engardug	NN	17	nmod:of
+a.col2.5.1	ensi2	19	ensi2	ensi2[ruler]	N	N	18	GEN	_	19	ensi2	ensi2[ruler]	N	N	18	GEN	_	19	governor	NN	9	appos
+a.col2.6.1	nibru{ki}-ka-ke4	20	nibru{ki}-ka-ke4	nibru{ki}[1]	SN	SN.GEN.GEN.ERG	19	GEN	_	20	nibru{ki}-ka-ke4	nibru{ki}[1]	SN	SN.GEN.GEN.ERG	19	GEN	_	20	of Nippur	NNP	19	nmod:of
+a.col2.7.1	a	21	a	a[water]	N	N.ABS	22	ABS	_	21	a	a[water]	N	N.ABS	22	ABS	_	21	_	.	2	_
+a.col2.7.2	mu-na-ru	22	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	22	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	22	dedicated to him	VBN	9	acl

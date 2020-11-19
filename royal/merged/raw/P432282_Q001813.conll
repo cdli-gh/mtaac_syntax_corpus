@@ -1,0 +1,29 @@
+# tr.en: txt	
+# tr.en: the mighty king king of Ur and king of four world quarters when land of Zabali and lands of Simaki he destroyed a big goat tribute of Anan which they had brought to him a representation of it he fashioned for her and for his life he dedicated it to her	
+a.1'.1	...	1	x	_[_]	u	_	0	_	_	1	x	_[_]	u	_	0	_	_	1	_	_	0	dep
+a.2'.1	lugal	2	lugal	lugal[king]	N	N	0	_	_	2	lugal	lugal[king]	N	N	0	_	_	2	the	DT	3	det
+a.2'.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	mighty king	NN	0	root
+a.3'.1	lugal	4	lugal	lugal[king]	N	N	2	appos	_	4	lugal	lugal[king]	N	N	2	appos	_	4	king	NN	3	conj
+a.3'.2	uri5{ki}-ma	5	urim2{ki}-ma	urim2{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim2{ki}-ma	urim2{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.4'.1	lugal	6	lugal	lugal[king]	N	N	2	appos	_	6	lugal	lugal[king]	N	N	2	appos	_	6	_	,	3	_
+a.4'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.4'.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	and king	CC	3	cc
+a.4'.4	limmu2-ba-ke4	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	four world quarters	NNS	3	nmod:of
+a.5'.1	u4	9	ud	ud[sun]	N	N	0	_	_	9	ud	ud[sun]	N	N	0	_	_	9	when	WRB	3	_
+a.5'.2	ma-da	10	ma-da	ma-da[land]	N	N	0	_	_	10	ma-da	ma-da[land]	N	N	0	_	_	10	land	NN	9	_
+a.5'.3	za-ab-sza-li{ki}	11	za-ab-sza-li{ki}	za-ab-sza-li{ki}[1]	GN	GN	0	_	_	11	za-ab-sza-li{ki}	za-ab-sza-li{ki}[1]	GN	GN	0	_	_	11	of Zabali	NNP	10	nmod:of
+a.6'.1	u3	12	u3	u3[and]	CNJ	CNJ	0	_	_	12	u3	u3[and]	CNJ	CNJ	0	_	_	12	and	CC	10	cc
+a.6'.2	ma-da	?	?	?	?	?	?	?	?	13	ma-da-ma-da	ma-da-ma-da[land]	N	N-RDP	15	GEN.ABS	_	13	_	_	0	_
+a.6'.3	ma-da	13	ma-da-ma-da	ma-da-ma-da[land]	N	N-RDP	15	GEN.ABS	_	?	?	?	?	?	?	?	?	14	lands	NNS	10	conj
+a.7'.1	szimaszki{ki}-ka	14	szimaszki{ki}-ka	szimaszki{ki}[1]	EN	EN.GEN.GEN.ABS	13	GEN	_	14	szimaszki{ki}-ka	szimaszki{ki}[1]	EN	EN.GEN.GEN.ABS	13	GEN	_	15	of Simaki	NNP	14	nmod:of
+a.8'.1	mu-hul-a	15	mu-hul-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	19	LOC	_	15	mu-hul-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	19	LOC	_	16	he destroyed	VBD	14	acl:relcl
+a.9'.1	masz2	?	?	?	?	?	?	?	?	16	masz2-gal	masz2-gal[goat]	N	N	19	ABS	_	17	a big goat	NN	10	appos
+a.9'.2	gal	16	masz2-gal	masz2-gal[goat]	N	N	19	ABS	_	?	?	?	?	?	?	?	?	18	_	_	0	_
+a.10'.1	gu2-un	17	gu2-un	gu2-un[load]	N	N	16	appos	_	17	gu2-un	gu2-un[load]	N	N	16	appos	_	19	tribute of	NN	10	_
+a.10'.2	an-sza-an{ki}-na	18	an-sza-an{ki}-na	an-sza-an{ki}[1]	SN	SN.GEN.ABS	17	GEN	_	18	an-sza-an{ki}-na	an-sza-an{ki}[1]	SN	SN.GEN.ABS	17	GEN	_	20	Anan	NN	19	nmod:of
+a.11'.1	mu-un-tum2-ma-na	19	mu-un-tum2-ma-na	tum2[lead]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	21	GEN	_	19	mu-un-tum2-ma-na	tum2[lead]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	21	GEN	_	21	which they had brought to him	VBN	19	acl:relcl
+a.12'.1	dam-szi-lum-bi	20	tam2-szi-lum-bi	tam2-szi-lum[image]	N	N.3-SG-NH-POSS.ABS	21	ABS	_	20	tam2-szi-lum-bi	tam2-szi-lum[image]	N	N.3-SG-NH-POSS.ABS	21	ABS	_	22	a representation it	NN	10	_
+a.13'.1	mu-na-an-dim2	21	mu-na-an-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	21	mu-na-an-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	23	he fashioned for her	VBD	22	acl:relcl
+a.14'.1	nam-ti-la-ni-sze3	22	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	24	TERM	_	22	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	24	TERM	_	24	and for his life	CC	10	cc
+a.15'.1	a	23	a	a[water]	N	N.ABS	24	ABS	_	23	a	a[water]	N	N.ABS	24	ABS	_	25	he dedicated	VBD	10	acl:relcl
+a.15'.2	mu-na-ru	24	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	24	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	26	it to her	PRP	25	dobj

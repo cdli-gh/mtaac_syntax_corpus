@@ -1,0 +1,14 @@
+# tr.en: txt	
+# tr.en: To Szul-agana beloved child of Ningirsu his master Ur-Ninmarki governor of Laga dedicated this for her well-being	
+o.1.1	{d}szul-sza3-ga	1	{d}szul-szag4-ga	{d}szul-szag4-ga[1]	DN	DN	12	DAT	_	1	{d}szul-szag4-ga	{d}szul-szag4-ga[1]	DN	DN	12	DAT	_	1	To well-being Szul-agana	NN	0	root
+o.2.1	dumu	2	dumu	dumu[child]	N	N	4	ABS	_	2	dumu	dumu[child]	N	N	4	ABS	_	2	child	NN	1	root
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	3	ki	ki[place]	N	N.ABS	2	appos	_	?	?	?	?	?
+o.2.2	ki-ag2	3+4	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	2+1	appos+amod	_+_	4	ag2	ag2[measure]	V	NF.V	1	amod	_	3	beloved	JJ	2	amod
+o.3.1	{d}nin-gir2-su-ka	5	{d}nin-gir2-su-ka	{d}nin-gir2-su[1]	DN	DN.GEN	4	GEN	_	5	{d}nin-gir2-su-ka	{d}nin-gir2-su[1]	DN	DN.GEN	4	GEN	_	4	of Ningirsu	NNP	2	nmod:of
+o.4.1	lugal-a-ni	6	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	4	appos	_	6	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	4	appos	_	5	his master	NN	8	nsubj
+o.5.1	ur-{d}nin-mar{ki}	7	ur-{d}nin-mar-ki	ur-{d}nin-mar-ki[2]	PN	PN	12	ERG	_	7	ur-{d}nin-mar-ki	ur-{d}nin-mar-ki[2]	PN	PN	12	ERG	_	6	Ur-Ninmarki	NNP	5	appos
+o.6.1	ensi2	8	ensi2	ensi2[ruler]	N	N	7	appos	_	8	ensi2	ensi2[ruler]	N	N	7	appos	_	7	governor	NN	5	appos
+o.7.1	lagasz{ki}-ke4	9	lagasz{ki}-ke4	lagasz{ki}[1]	SN	SN.GEN.ERG	8	GEN	_	9	lagasz{ki}-ke4	lagasz{ki}[1]	SN	SN.GEN.ERG	8	GEN	_	8	Laga dedicated	VBN	2	acl:relcl
+o.8.1	nam-ti-la-ni-sze3	10	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	12	TERM	_	10	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	12	TERM	_	9	this for	DT	8	dobj
+o.9.1	a	11	a	a[water]	N	N.ABS	12	ABS	_	11	a	a[water]	N	N.ABS	12	ABS	_	10	_	.	2	_
+o.9.2	mu-na-ru	12	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	12	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	her	PRP$	8	nmod:poss

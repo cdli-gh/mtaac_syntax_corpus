@@ -1,0 +1,41 @@
+			# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW				# tr.en: txt	
+# tr.en: Amar-Suena whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters of this statue Amar-Suena is Beloved of Ur is its name Of this statue a person who its standing-place shall change and its socle shall rip out may Nanna the king of Ur and Ningal the mother of Ur curse him and his seed may they bring to an end	
+a.1.1	{d}amar-{d}suen	?	?	1	Amar-Suena	NNP	29	nsubj
+a.2.1	nibru{ki}-a	?	?	2	whom in Nippur	WP	20	dobj
+a.3.1	{d}en-lil2-le	?	?	3	Enlil	NNP	20	nmod:in
+a.4.1	mu	?	?	4	chose	VBD	3	acl
+a.4.2	pa3-da	?	?	5	by name	NN	4	nmod:by
+a.5.1	sag-us2	?	?	6	the constant supporter	NN	3	appos
+a.6.1	e2	?	?	7	_	,	8	_
+a.6.2	{d}en-lil2-ka	?	?	8	of temple of Enlil	NN	6	nmod:of
+a.7.1	lugal	?	?	9	the	DT	10	det
+a.7.2	kal-ga	?	?	10	mighty king	NN	8	appos
+a.8.1	lugal	?	?	11	king	NN	8	conj
+a.8.2	uri5{ki}-ma	?	?	12	Ur	NN	11	nmod:of
+a.9.1	lugal	?	?	13	_	_	0	_
+a.9.2	an	?	?	?	?	?	?	?
+a.9.3	ub-da	?	?	14	and king	CC	8	cc
+a.9.4	limmu2-ba-me	?	?	15	four world quarters	NNS	8	nmod:of
+a.10.1	alan-ba	?	?	16	this statue	NN	3	nmod:of
+a.11.1	{d}amar-{d}suen	?	?	17	Amar-Suena is	NNP	18	nsubj
+a.11.2	ki-ag2	?	?	18	Beloved	NNP	20	csubj
+a.11.3	uri5{ki}-ma	?	?	19	Ur	NNP	18	nmod:of
+a.12.1	mu-bi-im	?	?	20	is its name	NN	1	acl:relcl
+a.13.1	alan-ba	?	?	21	Of this statue	NN	1	nmod:of
+a.14.1	lu2	?	?	22	a	DT	24	det
+a.14.2	ki	?	?	23	_	_	0	_
+a.14.3	gub-ba-bi	?	?	24	person who its standing-place	NN	21	appos
+a.15.1	ib2-da-ab-kur2-re-a	?	?	25	shall change	VB	24	acl:relcl
+a.16.1	bara2	?	?	26	and	CC	21	cc
+a.16.2	si-ga-bi	?	?	27	its socle	NN	21	conj
+a.17.1	i3-bu3-re-a	?	?	28	shall rip out	VB	21	acl
+a.18.1	{d}nanna	?	?	29	may Nanna	VB	0	root
+a.19.1	lugal	?	?	30	the king	NN	29	dobj
+a.19.2	uri5{ki}-ma	?	?	31	Ur	NN	30	nmod:of
+a.20.1	{d}nin-gal	?	?	32	and Ningal	CC	29	cc
+a.21.1	ama	?	?	33	the mother	NN	29	conj
+a.21.2	uri5{ki}-ma-ke4	?	?	34	Ur	NN	35	compound
+a.22.1	nam	?	?	35	curse	NN	33	nmod:of
+a.22.2	ha-ba-an-da-ku5-ne	?	?	36	him	PRP	35	nmod:npmod
+a.23.1	numun-na-ni	?	?	37	and his seed	CC	33	cc
+a.24.1	he2-eb-til-le-ne	?	?	38	may they bring to an end	VB	33	acl:relcl

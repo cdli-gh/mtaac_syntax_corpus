@@ -1,0 +1,18 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: the mighty king king of Ur and king of four world quarters the son of Aa the governor of Pus your servant	
+a.col1.1.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	_	_	0	dep
+a.col1.2.1	lugal	1	lugal	lugal[king]	N	N	0	_	_	1	lugal	lugal[king]	N	N	0	_	_	2	the	DT	3	det
+a.col1.2.2	kal-ga	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	3	mighty king	NN	11	appos
+a.col1.3.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	11	appos
+a.col1.3.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	Ur	NN	4	nmod:of
+a.col1.4.1	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	6	_	_	0	_
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	and king world	CC	4	cc
+a.col1.4.3	ub-da	4	an-ub-da	an-ub-da[quarter]	N	N	3	GEN	_	4	an-ub-da	an-ub-da[quarter]	N	N	3	GEN	_	8	_	_	0	_
+a.col1.4.4	limmu2-ba	5	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	4	amod	_	5	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	4	amod	_	9	four quarters	CD	10	nummod
+a.col2.1.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	10	four quarters	NNS	4	nmod:of
+?	*RETOK*-	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	11	_	NN	0	root
+a.col2.2.1	dumu	6	dumu	dumu[child]	N	N	0	_	_	6	dumu	dumu[child]	N	N	0	_	_	12	son	NN	11	appos
+a.col2.2.2	a-hu-a	7	a-hu-a	a-hu-a[1]	PN	PN	6	appos	_	7	a-hu-a	a-hu-a[1]	PN	PN	6	appos	_	13	the Aa	DT	12	det
+a.col2.3.1	ensi2	8	ensi2	ensi2[ruler]	N	N	7	GEN	_	8	ensi2	ensi2[ruler]	N	N	7	GEN	_	14	the governor	NN	12	appos
+a.col2.4.1	pu-us2{ki}-ka	?	?	?	?	?	?	?	?	9	pu-usz{ki}-ka	pu-usz{ki}[1]	SN	SN.GEN.GEN.ABS	8	GEN	_	15	of Pus	NNP	14	nmod:of
+a.col2.5.1	ARAD2-zu	9+10	pu-usz{ki}-ka+arad2-zu	pu-usz{ki}[1]+arad2[slave]	SN+N	SN.GEN.GEN.ABS+N.2-SG-POSS.ABS	8+0	GEN+_	_+_	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	16	your servant	NN	12	appos

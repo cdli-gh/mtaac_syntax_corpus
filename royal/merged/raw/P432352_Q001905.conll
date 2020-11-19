@@ -1,0 +1,6 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: To Nanna his master for life of	
+a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	1	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	1	To Nanna	VB	0	root
+a.2.1	lugal-a-ni	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his master	NN	1	dobj
+a.3.1	nam-ti	?	?	?	?	?	?	?	?	3	nam-til3	nam-til3[life]	N	N	0	_	_	3	for life	IN	4	nmod:for
+a.4.1	...	3	nam-til3	nam-til3[life]	N	N	0	_	_	?	?	?	?	?	?	?	?	4	for life	NN	1	nmod:for

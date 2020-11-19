@@ -1,0 +1,23 @@
+# tr.en: txt	
+# tr.en: Szu-Suen beloved of Enlil king whom Enlil chose in his heart powerful king king of Urim Adalal child of is your servant	
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	Szu-Suen	NNP	0	root
+a.col1.2.1	sag-us2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	2	_	.	1	_
+a.col1.2.2	e2	?	?	?	?	?	?	?	?	2	ki	ki[place]	N	N.ABS	1	appos	_	3	_	_	0	_
+a.col1.2.3	{d}en-lil2-la2-ka	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	4	beloved Enlil king chose	JJ	1	appos
+a.col1.3.1	nibru{ki}-a	2+3	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	1+8	appos+ERG	_+_	3	ag2	ag2[measure]	V	NF.V	8	ERG	_	5	whom	WP	1	dobj
+a.col1.3.2	{d}en-lil2-la2	4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	3	GEN	_	4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	3	GEN	_	6	Enlil	NNP	1	nsubj
+a.col1.4.1	sza3-ga-na	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	his heart in	NN	1	nmod:in
+a.col1.5.1	mu	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	8	_	_	0	_
+a.col1.5.2	pa3-da	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	_	_	0	_
+a.col2.1.1	lugal	5	lugal	lugal[king]	N	N	3	appos	_	5	lugal	lugal[king]	N	N	3	appos	_	10	powerful	JJ	12	amod
+?	*RETOK*-{d}en-lil2-le	?	?	?	?	?	?	?	?	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_	?	?	?	?	?
+?	*RETOK*-szag4-ga-na	?	?	?	?	?	?	?	?	7	szag4-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	8	LOC	_	?	?	?	?	?
+a.col2.1.2	kal-ga	6+7+8	{d}en-lil2-le+szag4-ga-na+in-pad3	{d}en-lil2[1]+szag4[heart]+pad3[find]	DN+N+V	DN.ERG+N.3-SG-H-POSS.L1+FIN.3-SG-H-A.V.3-SG-P	5+8+0	appos+LOC+_	_+_+_	8	in-pad3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_	11	_	_	0	_
+a.col2.2.1	lugal	9	lugal	lugal[king]	N	N	0	_	_	9	lugal	lugal[king]	N	N	0	_	_	12	king	NN	1	appos
+?	*RETOK*-kalag-ga	?	?	?	?	?	?	?	?	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	?	?	?	?	?
+?	*RETOK*-lugal	?	?	?	?	?	?	?	?	11	lugal	lugal[king]	N	N	9	appos	_	?	?	?	?	?
+a.col2.2.2	uri5{ki}-ma	10+11+12	kalag-ga+lugal+urim5{ki}-ma	kalag[strong]+lugal[king]+urim5{ki}[1]	V+N+SN	NF.V.SUB+N+SN.GEN.ABS	9+9+11	amod+appos+GEN	_+_+_	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	11	GEN	_	13	king	NN	1	appos
+a.col2.3.1	a-da-lal3	13	a-da-lal3	a-da-lal3[3]	PN	PN	0	_	_	13	a-da-lal3	a-da-lal3[3]	PN	PN	0	_	_	14	Urim Adalal	NNP	13	nmod:of
+a.col2.4.1	dumu	14	dumu	dumu[child]	N	N	0	_	_	14	dumu	dumu[child]	N	N	0	_	_	15	child	NN	17	appos
+a.col2.4.2	nu-banda3	?	?	?	?	?	?	?	?	15	nu-x	_[_]	u	_	0	_	_	16	_	_	0	_
+a.col2.5.1	ARAD2-zu	15+16	nu-x+arad2-zu	_[_]+arad2[slave]	u+N	_+N.2-SG-POSS.ABS	0+0	_+_	_+_	16	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	17	is your servant	NN	1	_

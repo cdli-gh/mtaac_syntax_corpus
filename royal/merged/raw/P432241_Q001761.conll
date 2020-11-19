@@ -1,0 +1,9 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: To Meslamtaea his god Lunimgira for life of Szulgi dedicated	
+a.1.1	{d}mes-lam-ta-e3-a	?	?	?	?	?	?	?	?	1	{d}mesz3-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	7	DAT	_	1	To Meslamtaea	FW	0	root
+a.2.1	dingir-a-ni	?	?	?	?	?	?	?	?	2	digir-a-ni	digir[deity]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his god	NN	1	root
+a.3.1	lu2-nimgir-ke4	?	?	?	?	?	?	?	?	3	lu2-nigir-ke4	lu2-nigir[1]	PN	PN.ERG	7	ERG	_	3	Lunimgira	NNP	2	appos
+a.4.1	nam-ti	1+2+3+4	{d}mesz3-lam-ta-e3-a+digir-a-ni+lu2-nigir-ke4+nam-til3	{d}mesz3-lam-ta-e3-a[1]+digir[deity]+lu2-nigir[1]+nam-til3[life]	DN+N+PN+N	DN+N.3-SG-H-POSS.DAT-H+PN.ERG+N	7+1+7+7	DAT+appos+ERG+TERM	_+_+_+_	4	nam-til3	nam-til3[life]	N	N	7	TERM	_	4	for life	NN	2	nmod:for
+a.5.1	szul-gi-sze3	5	szul-gi-sze3	szul-gi[1]	RN	RN.GEN.TERM	4	GEN	_	5	szul-gi-sze3	szul-gi[1]	RN	RN.GEN.TERM	4	GEN	_	5	of Szulgi	NNP	4	nmod:of
+a.6.1	a	6	a	a[water]	N	N.ABS	7	ABS	_	6	a	a[water]	N	N.ABS	7	ABS	_	6	_	.	2	_
+a.6.2	mu-na-ru	7	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	7	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	7	dedicated	VBN	5	acl

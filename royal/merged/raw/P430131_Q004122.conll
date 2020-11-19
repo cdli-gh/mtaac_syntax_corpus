@@ -1,0 +1,14 @@
+# tr.en: txt	
+# tr.en: Amar-Suena whose name was proclaimed by Enlil in Nibru steadfast supporter of Enlils temple Aya-kala	
+a.col1.1.1	{d}amar-{d}suen	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	5	LOC	_	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	5	LOC	_	1	Amar-Suena	NNP	0	root
+a.col1.2.1	nibru{ki}-a	2	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	1	appos	_	2	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	1	appos	_	2	_	NN	3	appos
+a.col1.3.1	{d}en-lil2-le	3	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	ERG	_	3	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	ERG	_	3	by Enlil	NNP	6	nmod:by
+a.col1.4.1	mu	4	mu	mu[name]	N	N.ABS	5	ABS	_	4	mu	mu[name]	N	N.ABS	5	ABS	_	4	_	.	1	_
+a.col1.4.2	pa3-da	?	?	?	?	?	?	?	?	5	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	5	_	_	0	_
+a.col1.5.1	sag-...	5+6	pad3-da+sag-us2	pad3[find]+sag-us2[constant]	V+V	NF.V.SUB+NF.V	0+5	_+appos	_+_	6	sag-us2	sag-us2[constant]	V	NF.V	5	appos	_	6	steadfast supporter Enlils whose name was proclaimed in Nibru	VBN	1	acl:relcl
+a.col1.6.1	e2	7	e2	e2[house]	N	N	6	GEN	_	7	e2	e2[house]	N	N	6	GEN	_	7	temple	NN	3	nmod:of
+a.col1.6.2	{d}en-lil2	8	{d}en-lil2	{d}en-lil2[1]	DN	DN.GEN.GEN.ABS	7	GEN	_	8	{d}en-lil2	{d}en-lil2[1]	DN	DN.GEN.GEN.ABS	7	GEN	_	8	_	_	0	_
+a.col2.1.1	a-a-kal-la	9	a-a-kal-la	a-a-kal-la[3]	PN	PN	0	_	_	9	a-a-kal-la	a-a-kal-la[3]	PN	PN	0	_	_	9	Aya-kala	JJ	2	amod
+a.col2.2.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	10	_	_	0	dep
+a.col2.3.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	11	_	_	0	dep
+a.col2.4.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	12	_	IN	7	dep

@@ -1,0 +1,32 @@
+# tr.en: txt	
+# tr.en: For Inanna the queen of battle his beloved spouse Amar-Suena whom Enlil in Nippur chose by name the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters her bronze argibil-structure of Gipar temple he fashioned for her and for his life he dedicated it to her	
+a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN	11	DAT	_	1	{d}inana	{d}inana[1]	DN	DN	11	DAT	_	1	For Inanna	NNP	0	root
+a.2.1	nin	2	nin	nin[lady]	N	N	1	appos	_	2	nin	nin[lady]	N	N	1	appos	_	2	the queen	NN	1	root
+a.2.2	me3	3	me3	me3[battle]	N	N.GEN	2	GEN	_	3	me3	me3[battle]	N	N.GEN	2	GEN	_	3	battle	NN	2	nmod:of
+a.3.1	dam	4	dam	dam[spouse]	N	N	6	ABS	_	4	dam	dam[spouse]	N	N	6	ABS	_	4	_	,	5	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	5	ki	ki[place]	N	N.ABS	4	appos	_	?	?	?	?	?
+a.3.2	ki-ag2-ga2-ni-ir	5+6	ki+ag2-ga2-ni-ir	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.DAT-H	4+2	appos+amod	_+_	6	ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	2	amod	_	5	his beloved spouse	NN	2	conj
+a.4.1	{d}amar-{d}suen	7	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	11	ERG	_	7	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	11	ERG	_	6	Amar-Suena	NNP	5	appos
+a.5.1	{d}en-lil2-le	8	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	7	appos	_	8	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	7	appos	_	7	whom Enlil	WP	9	dobj
+a.6.1	nibru{ki}-a	9	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	11	LOC	_	9	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	11	LOC	_	8	in Nippur	NNP	9	nmod:in
+a.7.1	mu	10	mu	mu[name]	N	N.ABS	11	ABS	_	10	mu	mu[name]	N	N.ABS	11	ABS	_	9	chose	VBD	5	acl:relcl
+a.7.2	pa3-da	11	pad3-da	pad3[find]	V	NF.V.SUB	24	ERG	_	11	pad3-da	pad3[find]	V	NF.V.SUB	24	ERG	_	10	by name	NN	9	nmod:by
+a.8.1	sag-us2	12	sag-us2	sag-us2[constant]	V	NF.V	11	appos	_	12	sag-us2	sag-us2[constant]	V	NF.V	11	appos	_	11	the constant supporter	NN	5	appos
+a.9.1	e2	13	e2	e2[house]	N	N	12	GEN	_	13	e2	e2[house]	N	N	12	GEN	_	12	_	,	13	_
+a.9.2	{d}en-lil2-ka	14	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	13	GEN	_	14	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	13	GEN	_	13	of temple of Enlil	NN	11	nmod:of
+a.10.1	lugal	15	lugal	lugal[king]	N	N	11	appos	_	15	lugal	lugal[king]	N	N	11	appos	_	14	the	DT	15	det
+a.10.2	kal-ga	16	kalag-ga	kalag[strong]	V	NF.V.SUB	15	amod	_	16	kalag-ga	kalag[strong]	V	NF.V.SUB	15	amod	_	15	mighty king	NN	13	appos
+a.11.1	lugal	17	lugal	lugal[king]	N	N	11	appos	_	17	lugal	lugal[king]	N	N	11	appos	_	16	king	NN	13	conj
+a.11.2	uri5{ki}-ma	18	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	17	GEN	_	18	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	17	GEN	_	17	Ur	NN	16	nmod:of
+a.12.1	lugal	19	lugal	lugal[king]	N	N	11	appos	_	19	lugal	lugal[king]	N	N	11	appos	_	18	_	,	5	_
+a.12.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.12.3	ub-da	20	an-ub-da	an-ub-da[quarter]	N	N	19	GEN	_	20	an-ub-da	an-ub-da[quarter]	N	N	19	GEN	_	19	and king	CC	13	cc
+a.12.4	limmu2-ba-ke4	21	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	20	amod	_	21	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	20	amod	_	20	four world quarters	NNS	13	nmod:of
+a.13.1	ar-gi-bil-lu	?	?	?	?	?	?	?	?	22	ar-gi-bil-lu{zabar}	ar-gi-bil-lu{zabar}[structure]	N	N	24	ABS	_	21	her bronze argibil-structure	NN	5	appos
+a.13.2	zabar	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	22	_	_	0	_
+a.14.1	e2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	23	_	_	0	_
+a.14.2	ge6-par4-ra-ka-ni	22+23	ar-gi-bil-lu{zabar}+e2-gi6-par3-ra-ka-ni	ar-gi-bil-lu{zabar}[structure]+e2-gi6-par3[1]	N+TN	N+TN.GEN.3-SG-H-POSS.ABS	24+22	ABS+appos	_+_	23	e2-gi6-par3-ra-ka-ni	e2-gi6-par3[1]	TN	TN.GEN.3-SG-H-POSS.ABS	22	appos	_	24	of Gipar temple	NN	21	nmod:of
+a.15.1	mu-na-an-dim2	24	mu-na-an-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	24	mu-na-an-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	25	he fashioned for her	VBD	24	acl:relcl
+a.16.1	nam-ti-la-ni-sze3	25	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	27	TERM	_	25	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	27	TERM	_	26	and for his life	CC	2	cc
+a.17.1	a	26	a	a[water]	N	N.ABS	27	ABS	_	26	a	a[water]	N	N.ABS	27	ABS	_	27	he dedicated	VBD	2	acl:relcl
+a.17.2	mu-na-ru	27	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	27	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	28	it to her	PRP	27	dobj

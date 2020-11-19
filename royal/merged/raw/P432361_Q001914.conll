@@ -1,0 +1,9 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: son governor of Adab dedicated to himher	
+a.1'.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	_	NN	8	appos
+a.1'.2	dumu	1	dumu	dumu[child]	N	N	0	_	_	1	dumu	dumu[child]	N	N	0	_	_	2	son	NN	1	compound
+a.1'.3	...	2	x	_[_]	u	_	0	_	_	2	x	_[_]	u	_	0	_	_	3	_	,	8	dep
+a.2'.1	ensi2	3	ensi2	ensi2[ruler]	N	N	6	ERG	_	3	ensi2	ensi2[ruler]	N	N	6	ERG	_	4	governor	NN	8	appos
+a.3'.1	adab{ki}	4	adab{ki}	adab{ki}[1]	SN	SN.GEN.ERG	3	GEN	_	4	adab{ki}	adab{ki}[1]	SN	SN.GEN.ERG	3	GEN	_	5	of Adab	NNP	4	nmod:of
+a.4'.1	a	5	a	a[water]	N	N.ABS	6	ABS	_	5	a	a[water]	N	N.ABS	6	ABS	_	6	_	.	8	_
+a.4'.2	mu-na-ru	6	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	6	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	7	dedicated to himher	VBN	8	acl

@@ -1,0 +1,8 @@
+# tr.en: txt	
+# tr.en: Mammetum daughter of king tanah chief administrator your servant	
+a.1.1	ma-me-tum	1	ma-me-tum	ma-me-tum[1]	PN	PN	0	_	_	1	ma-me-tum	ma-me-tum[1]	PN	PN	0	_	_	1	Mammetum	NNP	0	root
+a.2.1	dumu-munus	2	dumu-munus	dumu-munus[daughter]	N	N	1	appos	_	2	dumu-munus	dumu-munus[daughter]	N	N	1	appos	_	2	daughter of	NN	1	appos
+a.2.2	lugal	3	lugal	lugal[king]	N	N.GEN.ABS	2	GEN	_	3	lugal	lugal[king]	N	N.GEN.ABS	2	GEN	_	3	king	NN	2	nmod:of
+a.3.1	a-da-na-ah	4	a-ta2-na-ah	a-ta2-na-ah[1]	PN	PN	0	_	_	4	a-ta2-na-ah	a-ta2-na-ah[1]	PN	PN	0	_	_	4	tanah	NNP	1	_
+a.4.1	szabra	5	szabra	szabra[administrator]	N	N.ABS	4	appos	_	5	szabra	szabra[administrator]	N	N.ABS	4	appos	_	5	chief administrator	NN	4	appos
+a.4.2	ARAD2-zu	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	your servant	NN	4	appos

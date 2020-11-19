@@ -1,0 +1,5 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: For Nanna his master Ur-Namma	
+a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	1	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	1	For Nanna	NNP	0	root
+a.2.1	lugal-a-ni	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his master	NN	1	root
+a.3.1	ur-{d}namma	3	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	3	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	3	Ur-Namma	NN	2	appos

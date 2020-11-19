@@ -1,0 +1,6 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Fruit jar of Szulgi king	
+a.1.1	gurun	1	gurun	gurun[fruit]	N	N	0	_	_	1	gurun	gurun[fruit]	N	N	0	_	_	1	Fruit jar	NN	0	root
+a.1.2	dug	2	dug	dug[pot]	N	N	1	appos	_	2	dug	dug[pot]	N	N	1	appos	_	2	_	_	0	_
+a.2.1	{d}szul-gi	3	{d}szul-gi	{d}szul-gi[1]	RN	RN	1	appos	_	3	{d}szul-gi	{d}szul-gi[1]	RN	RN	1	appos	_	3	of Szulgi	NNP	1	nmod:of
+a.2.2	lugal	4	lugal	lugal[king]	N	N.GEN.ABS	3	GEN	_	4	lugal	lugal[king]	N	N.GEN.ABS	3	GEN	_	4	king	NN	1	_

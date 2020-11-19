@@ -1,0 +1,14 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi mighty man king of Ur Abba scribe son of Itr-ilum governor of Babylon your servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi	NNP	0	root
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	mighty	JJ	2	amod
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NNP	4	nmod:of
+a.col2.1.1	ab-ba	6	ab-ba	ab-ba[1]	PN	PN	4	appos	_	6	ab-ba	ab-ba[1]	PN	PN	4	appos	_	6	Abba	NNP	1	_
+a.col2.1.2	dub-sar	7	dub-sar	dub-sar[scribe]	N	N	4	appos	_	7	dub-sar	dub-sar[scribe]	N	N	4	appos	_	7	scribe	NN	6	appos
+a.col2.2.1	dumu	8	dumu	dumu[child]	N	N	4	appos	_	8	dumu	dumu[child]	N	N	4	appos	_	8	son	NN	6	appos
+a.col2.2.2	i-tur2-dingir	9	i-tur₂-DIŊIR	i-tur₂-DIŊIR[1]	PN	PN	4	GEN	_	9	i-tur₂-DIŊIR	i-tur₂-DIŊIR[1]	PN	PN	4	GEN	_	9	Itr-ilum	NN	8	nmod:of
+a.col2.3.1	ensi2	10	ensi2	ensi2[ruler]	N	N	9	appos	_	10	ensi2	ensi2[ruler]	N	N	9	appos	_	10	governor	NN	6	appos
+a.col2.3.2	babila{ki}-ma	?	?	?	?	?	?	?	?	11	|KAN₄.DIŊIR|{ki}-ma	|KAN₄.DIŊIR|{ki}[1]	SN	SN.GEN.GEN.ABS	10	GEN	_	11	of Babylon	NNP	10	nmod:of
+a.col2.4.1	ARAD2-zu	11+12	|KAN₄.DIŊIR|{ki}-ma+arad2-zu	|KAN₄.DIŊIR|{ki}[1]+arad2[slave]	SN+N	SN.GEN.GEN.ABS+N.2-SG-POSS.ABS	10+0	GEN+_	_+_	12	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	12	your servant	NN	6	appos

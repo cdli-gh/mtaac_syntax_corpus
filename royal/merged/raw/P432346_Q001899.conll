@@ -1,0 +1,22 @@
+# tr.en: txt	
+# tr.en: the king of Ur and king of four world quarters for his life he dedicated to himher A person who his inscription shall erase and write his name on it may Utu the king of Sippar to his seed put an end	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	8	ERG	_	1	lugal	lugal[king]	N	N	8	ERG	_	1	the king	NN	7	nsubj
+a.1'.2	uri5{ki}-ma	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	Ur	NN	1	nmod:of
+a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	3	_	,	7	_
+a.2'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.2'.3	ub-da	4	an-ub-da	an-ub-da[quarter]	N	N	3	GEN	_	4	an-ub-da	an-ub-da[quarter]	N	N	3	GEN	_	4	_	_	0	_
+a.2'.4	limmu2-ba-ke4	5	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	4	amod	_	5	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	4	amod	_	5	and king four world quarters	CC	2	cc
+a.3'.1	nam-ti-la-ni-sze3	6	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	8	TERM	_	6	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	8	TERM	_	6	for his life	NN	7	nmod:for
+a.4'.1	a	7	a	a[water]	N	N.ABS	8	ABS	_	7	a	a[water]	N	N.ABS	8	ABS	_	7	he dedicated	VBD	0	root
+a.4'.2	mu-na-ru	8	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	8	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	8	to himher	VB	7	xcomp
+a.5'.1	lu2	9	lu2	lu2[person]	N	N	12	LOC	_	9	lu2	lu2[person]	N	N	12	LOC	_	9	_	_	0	_
+a.5'.2	mu-sar-ra-na	10	mu-sar-ra-na	mu-sar-ra[inscription]	N	N.3-SG-H-POSS.L2-NH	9	appos	_	10	mu-sar-ra-na	mu-sar-ra[inscription]	N	N.3-SG-H-POSS.L2-NH	9	appos	_	10	A person who his inscription	NN	15	nsubj
+a.6'.1	szu	11	szu	szu[hand]	N	N.ABS	12	ABS	_	11	szu	szu[hand]	N	N.ABS	12	ABS	_	11	_	_	0	_
+a.6'.2	bi2-in-ur3	12	bi2-in-uru12	uru12[drag]	V	3-NH.L2.3-SG-H-P.V.3-SG-A.SUB.ABS	0	_	_	12	bi2-in-uru12	uru12[drag]	V	3-NH.L2.3-SG-H-P.V.3-SG-A.SUB.ABS	0	_	_	12	shall erase	VB	10	acl:relcl
+a.7'.1	mu-ni	13	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	14	ABS	_	13	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	14	ABS	_	13	and	CC	12	cc
+a.7'.2	bi2-ib2-sar-e-a	14	bi2-ib2-sar-e-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.GEN	19	GEN	_	14	bi2-ib2-sar-e-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.GEN	19	GEN	_	14	write his name on it	VB	12	conj
+a.8'.1	{d}utu	15	{d}utu	{d}utu[1]	DN	DN	19	ERG	_	15	{d}utu	{d}utu[1]	DN	DN	19	ERG	_	15	may Utu	NNP	7	parataxis
+a.9'.1	lugal	16	lugal	lugal[king]	N	N	15	appos	_	16	lugal	lugal[king]	N	N	15	appos	_	16	_	,	15	_
+a.9'.2	zimbir{ki}-ra-ke4	17	zimbir{ki}-ra-ke4	zimbir{ki}[1]	SN	SN.GEN.ERG	16	GEN	_	17	zimbir{ki}-ra-ke4	zimbir{ki}[1]	SN	SN.GEN.ERG	16	GEN	_	17	the king Sippar	NN	15	appos
+a.10'.1	numun-a-ni	18	numun-a-ni	numun[seed]	N	N.3-SG-H-POSS.ABS	19	ABS	_	18	numun-a-ni	numun[seed]	N	N.3-SG-H-POSS.ABS	19	ABS	_	18	to his seed	NN	15	nmod:to
+a.11'.1	he2-eb2-til-e	19	he2-eb2-til-e	til[complete]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	0	_	_	19	he2-eb2-til-e	til[complete]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	0	_	_	19	put an end	VBD	15	acl

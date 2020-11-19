@@ -1,0 +1,8 @@
+# tr.en: txt	
+# tr.en: Duga-zida scribe child of Nigurum cup-bearer of Szulgi	
+a.1.1	du11-ga-zi-da	1	dug4-ga-zid-da	dug4-ga-zid-da[3]	PN	PN	0	_	_	1	dug4-ga-zid-da	dug4-ga-zid-da[3]	PN	PN	0	_	_	1	Duga-zida	NN	0	root
+a.2.1	dub-sar	2	dub-sar	dub-sar[scribe]	N	N	1	appos	_	2	dub-sar	dub-sar[scribe]	N	N	1	appos	_	2	scribe	NN	1	appos
+a.3.1	dumu	3	dumu	dumu[child]	N	N	1	appos	_	3	dumu	dumu[child]	N	N	1	appos	_	3	child	NN	1	appos
+a.3.2	nig2-u2-rum	4	nig2-u2-rum	nig2-u2-rum[1]	PN	PN.GEN	3	GEN	_	4	nig2-u2-rum	nig2-u2-rum[1]	PN	PN.GEN	3	GEN	_	4	Nigurum	NNP	3	nmod:of
+a.4.1	sagi	5	sagi	sagi[cup-bearer]	N	N	1	appos	_	5	sagi	sagi[cup-bearer]	N	N	1	appos	_	5	cup-bearer	NN	1	appos
+a.4.2	{d}szul-gi	6	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	5	GEN	_	6	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	5	GEN	_	6	of Szulgi	NNP	5	nmod:of

@@ -1,0 +1,7 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szat-Erra daughter of king Ummi-tabat is her female servant	
+a.1.1	sza-at-{d}suen	1	sza-at-er3-ra	sza-at-er3-ra[1]	PN	PN	0	_	_	1	sza-at-er3-ra	sza-at-er3-ra[1]	PN	PN	0	_	_	1	Szat-Erra	NNP	0	root
+a.2.1	dumu-munus	2	dumu-munus	dumu-munus[daughter]	N	N	1	appos	_	2	dumu-munus	dumu-munus[daughter]	N	N	1	appos	_	2	daughter	NN	1	appos
+a.2.2	lugal	3	lugal	lugal[king]	N	N.GEN.ABS	2	GEN	_	3	lugal	lugal[king]	N	N.GEN.ABS	2	GEN	_	3	king	NN	2	nmod:of
+a.3.1	um-mi-du10	4	um-mi-DUG₃	um-mi-DUG₃[1]	PN	PN.ABS	0	_	_	4	um-mi-DUG₃	um-mi-DUG₃[1]	PN	PN.ABS	0	_	_	4	Ummi-tabat is	NN	5	nsubj
+a.4.1	geme2-ni	5	geme2-ni	geme2[worker]	N	N.3-SG-H-POSS.ABS	0	_	_	5	geme2-ni	geme2[worker]	N	N.3-SG-H-POSS.ABS	0	_	_	5	her female servant	NN	1	_

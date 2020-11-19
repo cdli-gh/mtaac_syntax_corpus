@@ -1,0 +1,7 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Ninheliya spouse of Ayakala child of Ur-Damu	
+a.1.1	nin9-he2-li2-a	1	nin9-he2-li2-a	nin9-he2-li2-a[1]	PN	PN	0	_	_	1	nin9-he2-li2-a	nin9-he2-li2-a[1]	PN	PN	0	_	_	1	Ninheliya spouse	NNP	0	root
+a.2.1	dam	2	dam	dam[spouse]	N	N	1	appos	_	2	dam	dam[spouse]	N	N	1	appos	_	2	_	_	0	_
+a.2.2	a-a-kal-la	3	a-a-kal-la	a-a-kal-la[1]	PN	PN.GEN	2	GEN	_	3	a-a-kal-la	a-a-kal-la[1]	PN	PN.GEN	2	GEN	_	3	of Ayakala	NNP	1	nmod:of
+a.3.1	dumu	4	dumu	dumu[child]	N	N	1	appos	_	4	dumu	dumu[child]	N	N	1	appos	_	4	child	NN	1	appos
+a.3.2	ur-{d}da-mu	5	ur-{d}da-mu	ur-{d}da-mu[1]	PN	PN.GEN.ABS	4	GEN	_	5	ur-{d}da-mu	ur-{d}da-mu[1]	PN	PN.GEN.ABS	4	GEN	_	5	Ur-Damu	NNP	4	nmod:of

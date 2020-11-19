@@ -1,0 +1,7 @@
+# tr.en: txt	
+# tr.en: Lu-digira child of Lu-Nindara gudug priest of Szulgi	
+a.1.1	lu2-dingir-ra	1	lu2-digir-ra	lu2-digir-ra[4]	PN	PN	0	_	_	1	lu2-digir-ra	lu2-digir-ra[4]	PN	PN	0	_	_	1	Lu-digira	NN	0	root
+a.2.1	dumu	2	dumu	dumu[child]	N	N	1	appos	_	2	dumu	dumu[child]	N	N	1	appos	_	2	child	NN	1	appos
+a.2.2	lu2-{d}nin-dar-a	3	lu2-{d}nin-dar-a	lu2-{d}nin-dar-a[1]	PN	PN.GEN	2	GEN	_	3	lu2-{d}nin-dar-a	lu2-{d}nin-dar-a[1]	PN	PN.GEN	2	GEN	_	3	Lu-Nindara gudug	NNP	2	nmod:of
+a.3.1	gudu4	4	gudu4	gudu4[priest]	N	N	1	appos	_	4	gudu4	gudu4[priest]	N	N	1	appos	_	4	priest	NN	1	appos
+a.3.2	{d}szul-gi	5	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	4	GEN	_	5	{d}szul-gi	{d}szul-gi[1]	RN	RN.GEN.ABS	4	GEN	_	5	of Szulgi	NNP	4	nmod:of

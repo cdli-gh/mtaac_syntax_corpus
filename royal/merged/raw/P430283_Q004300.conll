@@ -1,0 +1,13 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi powerful man king of Urim Lu-digira soldier child of Arad-hula overseer is your servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi powerful	NNP	0	root
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	1	_
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	0	_
+a.col1.3.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	king	NN	1	appos
+a.col2.1.1	lu2-dingir-ra	5+6	urim5{ki}-ma+lu2-digir-ra	urim5{ki}[1]+lu2-digir-ra[3]	SN+PN	SN.GEN.ABS+PN	4+0	GEN+_	_+_	6	lu2-digir-ra	lu2-digir-ra[3]	PN	PN	0	_	_	6	Urim Lu-digira	NNP	5	nmod:of
+a.col2.2.1	aga3-us2	7	aga3-us2	aga3-us2[soldier]	N	N	6	appos	_	7	aga3-us2	aga3-us2[soldier]	N	N	6	appos	_	7	soldier	NN	11	appos
+a.col2.3.1	dumu	8	dumu	dumu[child]	N	N	6	appos	_	8	dumu	dumu[child]	N	N	6	appos	_	8	child	NN	11	appos
+a.col2.3.2	ARAD2-hul3-la	9	arad2-hul3-la	arad2-hul3-la[1]	PN	PN	6	appos	_	9	arad2-hul3-la	arad2-hul3-la[1]	PN	PN	6	appos	_	9	Arad-hula	NN	8	nmod:of
+a.col2.4.1	nu-banda3	10	nu-banda3	nu-banda3[overseer]	N	N.GEN.ABS	9	GEN	_	10	nu-banda3	nu-banda3[overseer]	N	N.GEN.ABS	9	GEN	_	10	overseer	NN	11	appos
+a.col2.4.2	ARAD2-zu	11	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	11	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	11	is your servant	NN	1	_

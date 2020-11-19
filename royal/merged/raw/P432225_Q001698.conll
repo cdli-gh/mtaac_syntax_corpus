@@ -1,0 +1,14 @@
+# tr.en: txt	
+# tr.en: To Inanna her mistress for life of Szulgi the mighty man king of Ur Diritum his	
+a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN	0	_	_	1	{d}inana	{d}inana[1]	DN	DN	0	_	_	1	To Inanna	VB	0	root
+a.2.1	nin-a-ni	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	her mistress	NN	1	dobj
+a.3.1	nam-ti	3	nam-til3	nam-til3[life]	N	N	0	_	_	3	nam-til3	nam-til3[life]	N	N	0	_	_	3	for life	NN	1	nmod:for
+a.4.1	szul-gi	4	szul-gi	szul-gi[1]	RN	RN	3	appos	_	4	szul-gi	szul-gi[1]	RN	RN	3	appos	_	4	Szulgi	NNP	3	nmod:of
+a.5.1	nita	5	nita	nita[male]	N	N	3	appos	_	5	nita	nita[male]	N	N	3	appos	_	5	man	NN	4	appos
+a.5.2	kal-ga	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	the mighty	DT	5	det
+a.6.1	lugal	7	lugal	lugal[king]	N	N	5	GEN	_	7	lugal	lugal[king]	N	N	5	GEN	_	7	_	,	8	_
+a.6.2	uri5{ki}-ma-ka-sze3	?	?	?	?	?	?	?	?	8	urim5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	7	GEN	_	8	king Ur	NN	4	appos
+a.7.1	diri-tum	8+9	urim5{ki}-ma-ka-sze3+|SI.A|-tum	urim5{ki}[1]+|SI.A|-tum[1]	SN+PN	SN.GEN.GEN.TERM+PN	7+0	GEN+_	_+_	9	|SI.A|-tum	|SI.A|-tum[1]	PN	PN	0	_	_	9	Diritum	NNP	8	appos
+a.8.1	x	10	x	_[_]	u	_	0	_	_	10	x	_[_]	u	_	0	_	_	10	_	NN	8	appos
+a.8.2	x	11	x	_[_]	u	_	0	_	_	11	x	_[_]	u	_	0	_	_	11	_	,	1	dep
+a.8.3	ni	12	ni	_[_]	u	_	0	_	_	12	ni	_[_]	u	_	0	_	_	12	his	PRP$	10	nmod:poss

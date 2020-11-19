@@ -1,0 +1,16 @@
+# tr.en: txt	
+# tr.en: Szulgi powerful man king of Urim king of four quarters presented this to Sillu-Dagan governor of Simurrum his servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	13	ERG	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	13	ERG	_	1	Szulgi powerful	NNP	9	nsubj
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	king	NN	1	appos
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	Urim	NNP	3	nmod:of
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	.	9	_
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	_	0	_
+a.col1.4.4	limmu2-ba-ke4	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	quarters four	NNS	5	nmod:of
+a.col2.1.1	s,e-lu-usz-{d}da-gan	9	ṣi-lu-uš-{d}da-gan	ṣi-lu-uš-{d}da-gan[1]	PN	PN	13	DAT.H	_	9	ṣi-lu-uš-{d}da-gan	ṣi-lu-uš-{d}da-gan[1]	PN	PN	13	DAT.H	_	9	presented this to Sillu-Dagan	VBN	0	root
+a.col2.2.1	ensi2	10	ensi2	ensi2[ruler]	N	N	9	appos	_	10	ensi2	ensi2[ruler]	N	N	9	appos	_	10	governor	NN	9	appos
+a.col2.3.1	si-mu-ru-um{ki}-ma	11	si-mu-ru-um{ki}-ma	si-mu-ru-um{ki}[1]	SN	SN.GEN	10	GEN	_	11	si-mu-ru-um{ki}-ma	si-mu-ru-um{ki}[1]	SN	SN.GEN	10	GEN	_	11	Simurrum	NNP	10	nmod:of
+a.col2.4.1	ARAD2-da-ni-ir	12	arad2-da-ni-ir	arad2[slave]	N	N.3-SG-H-POSS.DAT.H	9	appos	_	12	arad2-da-ni-ir	arad2[slave]	N	N.3-SG-H-POSS.DAT.H	9	appos	_	12	his servant	NN	9	appos
+a.col2.5.1	in-na-ba	13	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	13	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	13	_	_	0	_

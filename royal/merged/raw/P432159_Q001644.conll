@@ -1,0 +1,12 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: his mistress Ur-Namma the mighty man king of Ur	
+a.1'.1	nin-a-ni	1	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	0	_	_	1	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	0	_	_	1	his mistress	NN	0	root
+a.2'.1	ur-{d}namma	2	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	2	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	2	Ur-Namma	NN	1	appos
+a.3'.1	nita	3	nita	nita[male]	N	N	0	_	_	3	nita	nita[male]	N	N	0	_	_	3	man	NN	1	appos
+a.3'.2	kal-ga	4	kalag-ga	kalag[strong]	V	NF.V.SUB	3	amod	_	4	kalag-ga	kalag[strong]	V	NF.V.SUB	3	amod	_	4	the mighty	DT	3	det
+a.4'.1	lugal	5	lugal	lugal[king]	N	N	0	_	_	5	lugal	lugal[king]	N	N	0	_	_	5	king	NN	1	appos
+a.4'.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	6	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	5	GEN	_	6	Ur	NN	5	nmod:of
+a.5'.1	...	6	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	5	GEN	_	?	?	?	?	?	?	?	?	7	_	IN	6	dep
+a.5'.2	x	7	x	_[_]	u	_	0	_	_	7	x	_[_]	u	_	0	_	_	8	_	_	0	dep
+a.5'.3	...	8+9	x+x	_[_]+_[_]	u+u	_+_	0+0	_+_	_+_	8	x	_[_]	u	_	0	_	_	9	_	_	0	dep
+?	*RETOK*-x	?	?	?	?	?	?	?	?	9	x	_[_]	u	_	0	_	_		?	?	?	?

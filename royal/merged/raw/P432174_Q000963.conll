@@ -1,0 +1,22 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: For Nane the powerful lady the lady of boundary marker his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Temple Established by Brothers her beloved temple he built for her	
+a.1.1	{d}nansze	1	{d}nansze	{d}nansze[1]	DN	DN	19	DAT	_	1	{d}nansze	{d}nansze[1]	DN	DN	19	DAT	_	1	For Nane	NNP	0	root
+a.2.1	nin	2	nin	nin[lady]	N	N	1	appos	_	2	nin	nin[lady]	N	N	1	appos	_	2	_	,	3	_
+a.2.2	uru16	3	uru16	uru16[exalted]	V	NF.V	2	amod	_	3	uru16	uru16[exalted]	V	NF.V	2	amod	_	3	the powerful lady	NN	1	root
+a.3.1	nin	4	nin	nin[lady]	N	N	1	appos	_	4	nin	nin[lady]	N	N	1	appos	_	4	_	,	3	_
+a.3.2	in-dub-ba	5	in-dub-ba	in-dub-ba[boundary]	N	N.GEN	4	GEN	_	5	in-dub-ba	in-dub-ba[boundary]	N	N.GEN	4	GEN	_	5	the lady boundary marker	NN	3	appos
+a.4.1	nin-a-ni	6	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	6	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	6	his mistress	NN	3	appos
+a.5.1	szul-gi	7	szul-gi	szul-gi[1]	RN	RN	19	ERG	_	7	szul-gi	szul-gi[1]	RN	RN	19	ERG	_	7	Szulgi	NN	3	appos
+a.6.1	nita	8	nita	nita[male]	N	N	7	appos	_	8	nita	nita[male]	N	N	7	appos	_	8	man	NN	3	appos
+a.6.2	kal-ga	9	kalag-ga	kalag[strong]	V	NF.V.SUB	8	amod	_	9	kalag-ga	kalag[strong]	V	NF.V.SUB	8	amod	_	9	the mighty	DT	8	det
+a.7.1	lugal	10	lugal	lugal[king]	N	N	7	appos	_	10	lugal	lugal[king]	N	N	7	appos	_	10	king	NN	3	appos
+a.7.2	uri5{ki}-ma	11	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_	11	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	10	GEN	_	11	Ur	NN	10	nmod:of
+a.8.1	lugal	12	lugal	lugal[king]	N	N	7	appos	_	12	lugal	lugal[king]	N	N	7	appos	_	12	_	,	3	_
+a.8.2	ki-en-gi	13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_	13	ki-en-gi	ki-en-gi[1]	GN	GN	12	GEN	_	13	_	_	0	_
+a.8.3	ki-uri-ke4	14+15	ki-uri-ke4+e2-szesz-szesz-e-ga2-ra	ki-uri[1]+e2-szesz-szesz-e-ga2-ra[1]	GN+TN	GN.GEN.ERG+TN	13+19	appos+ABS	_+_	14	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	13	appos	_	14	and king Sumer and Akkad	CC	10	cc
+?	*RETOK*-e2-szesz-szesz-e-ga2-ra	?	?	?	?	?	?	?	?	15	e2-szesz-szesz-e-ga2-ra	e2-szesz-szesz-e-ga2-ra[1]	TN	TN	19	ABS	_	?	?	?	?	?
+a.9.1	e2	16	e2	e2[house]	N	N	18	ABS	_	16	e2	e2[house]	N	N	18	ABS	_	15	the	DT	16	det
+a.9.2	szesz-szesz-a-ga2-ra	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	16	Temple Established by Brothers	NNP	3	appos
+a.10.1	e2	?	?	?	?	?	?	?	?	17	ki	ki[place]	N	N.ABS	16	appos	_	17	_	,	3	_
+a.10.2	ki-ag2-ga2-ni	17+18	ki+ag2-ga2-ni	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ABS	16+15	appos+amod	_+_	18	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	15	amod	_	18	her beloved temple	NN	3	appos
+a.11.1	mu-na-du3	19	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	19	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	19	he built for her	VBD	3	acl:relcl

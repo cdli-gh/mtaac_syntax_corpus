@@ -1,0 +1,8 @@
+# tr.en: txt	
+# tr.en: the king of Ur	
+a.1'.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	_	_	0	dep
+a.1'.2	x	1	x	_[_]	u	_	0	_	_	1	x	_[_]	u	_	0	_	_	2	_	_	0	dep
+a.1'.3	x	2+3	x+x	_[_]+_[_]	u+u	_+_	0+0	_+_	_+_	2	x	_[_]	u	_	0	_	_	3	_	_	0	dep
+?	*RETOK*-x	?	?	?	?	?	?	?	?	3	x	_[_]	u	_	0	_	_	?	?	?	?	?
+a.2'.1	lugal	4	lugal	lugal[king]	N	N	0	_	_	4	lugal	lugal[king]	N	N	0	_	_	4	the king	NN	6	appos
+a.2'.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of

@@ -1,0 +1,13 @@
+# tr.en: txt	
+# tr.en: Ur-Namma king of Ur when Susa he conquered and into his booty had made for him for his life he dedicated to him	
+a.1'.1	...	?	?	?	?	?	?	?	?	1	ur-{d}namma	ur-{d}namma[1]	RN	RN	6	ERG	_	1	Ur-Namma	NNP	0	root
+a.1'.2	x-a	1+2+3+4+5+6	ur-{d}namma+lugal+urim5{ki}-ma-ke4+ud+szuszin{ki}+mu-hul-a	ur-{d}namma[1]+lugal[king]+urim5{ki}[1]+ud[sun]+szuszin{ki}[Susa]+hul[bad]	RN+N+SN+N+SN+V	RN+N+SN.GEN.ERG+N+SN.ABS+VEN.3-SG-H-A.V.3-SG-P.SUB.L1	6+1+2+6+4+8	ERG+appos+GEN+ABS+appos+LOC	_+_+_+_+_+_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+?	*RETOK*-urim5{ki}-ma-ke4	?	?	?	?	?	?	?	?	3	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	2	GEN	_	3	of Ur	NN	2	nmod:of
+?	*RETOK*-ud	?	?	?	?	?	?	?	?	4	ud	ud[sun]	N	N	6	ABS	_	4	when	WRB	8	advmod
+?	*RETOK*-szuszin{ki}	?	?	?	?	?	?	?	?	5	szuszin{ki}	szuszin{ki}[Susa]	SN	SN.ABS	4	appos	_	5	Susa	NNP	8	nsubj
+?	*RETOK*-mu-hul-a	?	?	?	?	?	?	?	?	6	mu-hul-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	8	LOC	_	6	he conquered	VBD	5	acl:relcl
+a.2'.1	nam-ra-asz	7	nam-ra-asz	nam-ra[booty]	N	N.ADV	8	ADV	_	7	nam-ra-asz	nam-ra[booty]	N	N.ADV	8	ADV	_	7	and into his booty	CC	5	cc
+a.3'.1	mu-na-ak-a	8	mu-na-ak-a	ak[do]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	11	LOC	_	8	mu-na-ak-a	ak[do]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	11	LOC	_	8	had made for him	VBN	1	acl
+a.4'.1	nam-ti-la-ni-sze3	9	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	11	TERM	_	9	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	11	TERM	_	9	for his life	NN	8	nmod:for
+a.5'.1	a	10	a	a[water]	N	N.ABS	11	ABS	_	10	a	a[water]	N	N.ABS	11	ABS	_	10	he dedicated	VBD	9	acl:relcl
+a.5'.2	mu-na-ru	11	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	to him	PRP	10	nmod:to

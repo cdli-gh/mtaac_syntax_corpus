@@ -1,0 +1,11 @@
+# tr.en: txt	
+# tr.en: To Gatumdug his mistress for life of Ibbi-Sin Ehegal the son of Anza dedicated to her	
+a.1.1	{d}ga2-tum3-du10	1	{d}ga2-tum3-dug3	{d}ga2-tum3-dug3[1]	DN	DN	9	DAT	_	1	{d}ga2-tum3-dug3	{d}ga2-tum3-dug3[1]	DN	DN	9	DAT	_	1	To Gatumdug	NNP	0	root
+a.2.1	nin-na-ni	2	nin-na-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-na-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his mistress	NN	1	root
+a.3.1	nam-ti-NI	3	nam-til3	nam-til3[life]	N	N	9	TERM	_	3	nam-til3	nam-til3[life]	N	N	9	TERM	_	3	for life	NN	2	root
+a.4.1	{d}i-bi2-{d}suen	4	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN.GEN.TERM	3	GEN	_	4	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN.GEN.TERM	3	GEN	_	4	of Ibbi-Sin	NNP	3	nmod:of
+a.5.1	e2-he2-gal2	5	e2-he2-gal2	e2-he2-gal2[1]	PN	PN	9	ERG	_	5	e2-he2-gal2	e2-he2-gal2[1]	PN	PN	9	ERG	_	5	Ehegal	NNP	4	appos
+a.6.1	dumu	6	dumu	dumu[child]	N	N	5	appos	_	6	dumu	dumu[child]	N	N	5	appos	_	6	_	,	7	_
+a.6.2	an-za	7	|AN.ZA|	|AN.ZA|[1]	PN	PN.GEN.ERG	6	GEN	_	7	|AN.ZA|	|AN.ZA|[1]	PN	PN.GEN.ERG	6	GEN	_	7	the son Anza	NN	3	_
+a.7.1	a	8	a	a[water]	N	N.ABS	9	ABS	_	8	a	a[water]	N	N.ABS	9	ABS	_	8	_	.	3	_
+a.7.2	mu-na-ru	9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	9	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	9	dedicated to her	VBN	7	acl

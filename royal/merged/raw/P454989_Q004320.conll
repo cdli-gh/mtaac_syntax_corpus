@@ -1,0 +1,19 @@
+# tr.en: txt	
+# tr.en: Szulgi powerful man king of Urim king of four quarters Nanna-ziaggal chief butler chief brewer chief cup-bearer overseer of extispicy priests is your servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi powerful	NNP	0	root
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	king	NN	1	appos
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	Urim	NNP	3	nmod:of
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	.	1	_
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	_	0	_
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	quarters four	NNS	5	nmod:of
+a.col2.1.1	{d}nanna-zi-sza3-gal2	9	{d}nanna-zi-szag4-gal2	{d}nanna-zi-szag4-gal2[1]	PN	PN	0	_	_	9	{d}nanna-zi-szag4-gal2	{d}nanna-zi-szag4-gal2[1]	PN	PN	0	_	_	9	Nanna-ziaggal	JJ	10	amod
+a.col2.2.1	zabar-dab5	10	zabar-dab5	zabar-dab5[official]	N	N	9	appos	_	10	zabar-dab5	zabar-dab5[official]	N	N	9	appos	_	10	chief butler	NN	15	nsubj
+a.col2.3.1	kurunx(|DIN.KASZ|)-a-gal	?	?	?	?	?	?	?	?	11	kurunₓ(|DIN.KAŠ|)-a-gal	kurunₓ(|DIN.KAŠ|)-a-gal[chief.brewer]	N	N	9	appos	_	11	chief brewer chief	NN	10	conj
+a.col2.4.1	sagi-mah	11+12+13	kurunₓ(|DIN.KAŠ|)-a-gal+sagi+mah	kurunₓ(|DIN.KAŠ|)-a-gal[chief.brewer]+sagi[cup-bearer]+mah[great]	N+N+V	N+N+NF.V	9+9+12	appos+appos+amod	_+_+_	12	sagi	sagi[cup-bearer]	N	N	9	appos	_	12	cup-bearer overseer	NN	10	conj
+?	*RETOK*-mah	?	?	?	?	?	?	?	?	13	mah	mah[great]	V	NF.V	12	amod	_	?	?	?	?	?
+a.col2.5.1	ugula	14	ugula	ugula[overseer]	N	N	9	appos	_	14	ugula	ugula[overseer]	N	N	9	appos	_	13	_	_	0	_
+a.col2.5.2	masz2-szu-gid2-de3-ne	?	?	?	?	?	?	?	?	15	masz-szu-gid2-gid2-de3-ne	masz-szu-gid2-gid2[diviner]	N	N.PL.GEN.ABS	14	GEN	_	14	extispicy priests	NNS	10	nmod:of
+a.col2.6.1	ARAD2-zu	15+16	masz-szu-gid2-gid2-de3-ne+arad2-zu	masz-szu-gid2-gid2[diviner]+arad2[slave]	N+N	N.PL.GEN.ABS+N.2-SG-POSS.ABS	14+0	GEN+_	_+_	16	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	15	is your servant	NN	1	_

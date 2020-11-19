@@ -1,0 +1,21 @@
+# tr.en: txt	
+# tr.en: and having put in order subsistance ration expenditures Szulgi the mighty man king of Ur and king of four world quarters to Ninsun of Ur he presented	
+a.1'.1	u3	1	u3	u3[and]	CNJ	CNJ	0	_	_	1	u3	u3[and]	CNJ	CNJ	0	_	_	1	and	CC	3	cc
+a.1'.2	a2	?	?	?	?	?	?	?	?	2	x	_[_]	u	_	0	_	_	2	_	,	5	_
+a.1'.3	szuku-ra-ke4	2+3+4+5	x+szag4+x+x	_[_]+szag4[heart]+_[_]+_[_]	u+N+u+u	_+N+_+_	0+0+0+0	_+_+_+_	_+_+_+_	3	szag4	szag4[heart]	N	N	0	_	_	3	having put in	VBN	0	root
+?	*RETOK*-x	?	?	?	?	?	?	?	?	4	x	_[_]	u	_	0	_	_	?	?	?	?	?
+?	*RETOK*-x	?	?	?	?	?	?	?	?	5	x	_[_]	u	_	0	_	_	?	?	?	?	?
+a.1'.4	si	6	si	si[horn]	N	N.ABS	0	_	_	6	si	si[horn]	N	N.ABS	0	_	_	4	order subsistance	NN	5	mwe
+a.1'.5	mu-sa2	7	mu-x-x	_[_]	u	_	0	_	_	7	mu-x-x	_[_]	u	_	0	_	_	5	ration expenditures	NNS	3	nmod:in
+a.2'.1	{d}szul-gi	8	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	8	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	6	Szulgi	NNP	5	appos
+a.3'.1	nita	9	nita	nita[male]	N	N	8	appos	_	9	nita	nita[male]	N	N	8	appos	_	7	man	NN	5	appos
+a.3'.2	kal-ga	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	8	the mighty	DT	7	det
+a.4'.1	lugal	11	lugal	lugal[king]	N	N	8	appos	_	11	lugal	lugal[king]	N	N	8	appos	_	9	king	NN	7	conj
+a.4'.2	uri5{ki}-ma	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	10	Ur	NN	9	nmod:of
+a.5'.1	lugal	13	lugal	lugal[king]	N	N	8	appos	_	13	lugal	lugal[king]	N	N	8	appos	_	11	_	,	5	_
+a.5'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.5'.3	ub-da	14	an-ub-da	an-ub-da[quarter]	N	N	13	GEN	_	14	an-ub-da	an-ub-da[quarter]	N	N	13	GEN	_	12	and king	CC	7	cc
+a.5'.4	limmu2-ba-ke4	15	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	14	amod	_	15	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	14	amod	_	13	four world quarters	NNS	7	nmod:of
+a.6'.1	{d}nin-sun2	?	?	?	?	?	?	?	?	16	{d}nin-sumun2	{d}nin-sumun2[1]	DN	DN	0	_	_	14	to Ninsun	NNP	3	nmod:to
+a.6'.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	17	urim5{ki}-ma-ra	urim5{ki}[1]	SN	SN.GEN.DAT-H	16	GEN	_	15	Ur	NNP	14	nmod:of
+a.7'.1	in-na-ba	16+17+18	{d}nin-sumun2+urim5{ki}-ma-ra+in-na-x	{d}nin-sumun2[1]+urim5{ki}[1]+_[_]	DN+SN+u	DN+SN.GEN.DAT-H+_	0+16+0	_+GEN+_	_+_+_	18	in-na-x	_[_]	u	_	0	_	_	16	he presented	VBD	14	acl:relcl

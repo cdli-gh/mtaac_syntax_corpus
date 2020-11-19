@@ -1,0 +1,17 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: For Ninsun his goddess Ur-Namma the mighty man king of Ur and king of Sumer and Akkad the Emah her beloved temple he built for her	
+a.1.1	{d}nin-sun2	?	?	?	?	?	?	?	?	1	{d}nin-sumun2	{d}nin-sumun2[1]	DN	DN	15	DAT	_	1	For Ninsun	NNP	0	root
+a.2.1	dingir-ra-ni	1+2	{d}nin-sumun2+digir-ra-ni	{d}nin-sumun2[1]+digir[deity]	DN+N	DN+N.3-SG-H-POSS.DAT-H	15+1	DAT+appos	_+_	2	digir-ra-ni	digir[deity]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his goddess	NN	1	root
+a.3.1	ur-{d}namma	3	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	3	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	3	Ur-Namma	NN	2	appos
+a.4.1	nita	4	nita	nita[male]	N	N	3	appos	_	4	nita	nita[male]	N	N	3	appos	_	4	man	NN	2	appos
+a.4.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	the mighty	DT	4	det
+a.5.1	lugal	6	lugal	lugal[king]	N	N	3	appos	_	6	lugal	lugal[king]	N	N	3	appos	_	6	king	NN	2	appos
+a.5.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	Ur	NN	6	nmod:of
+a.6.1	lugal	8	lugal	lugal[king]	N	N	3	appos	_	8	lugal	lugal[king]	N	N	3	appos	_	8	_	,	2	_
+a.6.2	ki-en-gi	9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_	9	ki-en-gi	ki-en-gi[1]	GN	GN	8	GEN	_	9	_	_	0	_
+a.6.3	ki-uri-ke4	10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_	10	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	9	appos	_	10	and king Sumer and Akkad	CC	6	cc
+a.7.1	e2-mah	11	e2-mah	e2-mah[1]	TN	TN	15	ABS	_	11	e2-mah	e2-mah[1]	TN	TN	15	ABS	_	11	the Emah	NNP	2	appos
+a.8.1	e2	12	e2	e2[house]	N	N	14	ABS	_	12	e2	e2[house]	N	N	14	ABS	_	12	_	,	2	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	13	ki	ki[place]	N	N.ABS	12	appos	_	?	?	?	?	?
+a.8.2	ki-ag2-ga2-ni	13+14	ki+ag2-ga2-ni	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ABS	12+11	appos+amod	_+_	14	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	11	amod	_	13	her beloved temple	NN	2	appos
+a.9.1	mu-na-du3	15	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	he built for her	VBD	2	acl:relcl

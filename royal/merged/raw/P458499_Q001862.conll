@@ -1,0 +1,10 @@
+# tr.en: txt	
+# tr.en: Dada governor of Nibru irini-isag scribe child of Lu-kala is your servant	
+a.col1.1.1	da-da	1	da-da	da-da[1]	PN	PN	0	_	_	1	da-da	da-da[1]	PN	PN	0	_	_	1	Dada	NNP	0	root
+a.col1.2.1	ensi2	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	governor	NN	1	appos
+a.col1.3.1	nibru{ki}	3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	nibru{ki}	nibru{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	of Nibru	NNP	2	nmod:of
+a.col1.4.1	giri3-ni-i3-sa6	4	giri3-ni-i3-sag9	giri3-ni-i3-sag9[3]	PN	PN	0	_	_	4	giri3-ni-i3-sag9	giri3-ni-i3-sag9[3]	PN	PN	0	_	_	4	irini-isag	NNP	8	compound
+a.col2.1.1	dub-sar	5	dub-sar	dub-sar[scribe]	N	N	4	appos	_	5	dub-sar	dub-sar[scribe]	N	N	4	appos	_	5	scribe	NN	8	appos
+a.col2.2.1	dumu	6	dumu	dumu[child]	N	N	4	appos	_	6	dumu	dumu[child]	N	N	4	appos	_	6	child	NN	8	appos
+a.col2.2.2	lu2-kal-la	7	lu2-kal-la	lu2-kal-la[1]	PN	PN.GEN.ABS	6	GEN	_	7	lu2-kal-la	lu2-kal-la[1]	PN	PN.GEN.ABS	6	GEN	_	7	of Lu-kala	NN	6	nmod:of
+a.col2.3.1	ARAD2-zu	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	is your servant	NN	1	_

@@ -1,0 +1,12 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi-simt beloved consort of king Halili scribe child of Szu-il is your servant	
+a.1.1	{d}szul-gi-si2-im-ti	1	{d}szul-gi-si2-im-ti	{d}szul-gi-si2-im-ti[1]	PN	PN	0	_	_	1	{d}szul-gi-si2-im-ti	{d}szul-gi-si2-im-ti[1]	PN	PN	0	_	_	1	Szulgi-simt	NN	0	root
+a.2.1	lukur	2	lukur	lukur[priestess]	N	N	4	ABS	_	2	lukur	lukur[priestess]	N	N	4	ABS	_	2	_	.	1	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	3	ki	ki[place]	N	N.ABS	2	appos	_	?	?	?	?	?
+a.2.2	ki-ag2	3+4	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	2+1	appos+amod	_+_	4	ag2	ag2[measure]	V	NF.V	1	amod	_	3	beloved	JJ	5	amod
+a.2.3	lugal	5	lugal	lugal[king]	N	N.GEN.ABS	4	GEN	_	5	lugal	lugal[king]	N	N.GEN.ABS	4	GEN	_	4	_	_	0	_
+a.3.1	ha-li2-li2	6	ha-li2-li2	ha-li2-li2[1]	PN	PN	0	_	_	6	ha-li2-li2	ha-li2-li2[1]	PN	PN	0	_	_	5	consort king Halili	NN	1	appos
+a.3.2	dub-sar	7	dub-sar	dub-sar[scribe]	N	N	6	appos	_	7	dub-sar	dub-sar[scribe]	N	N	6	appos	_	6	scribe	NN	9	appos
+a.4.1	dumu	8	dumu	dumu[child]	N	N	6	appos	_	8	dumu	dumu[child]	N	N	6	appos	_	7	child	NN	9	appos
+a.4.2	szu-i3-li2	9	szu-i3-li2	szu-i3-li2[2]	PN	PN.GEN.ABS	8	GEN	_	9	szu-i3-li2	szu-i3-li2[2]	PN	PN.GEN.ABS	8	GEN	_	8	Szu-il	NN	7	nmod:of
+a.4.3	ARAD2-zu	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	9	is your servant	NN	1	_

@@ -1,0 +1,12 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: For Inanna Ninkununa his mistress Ur-Namma the king of Ur her temple he built for her	
+a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN	9	DAT	_	1	{d}inana	{d}inana[1]	DN	DN	9	DAT	_	1	For Inanna	IN	4	nmod:for
+a.2.1	nin	2	nin	nin[lady]	N	N	1	appos	_	2	nin	nin[lady]	N	N	1	appos	_	2	_	,	4	_
+a.2.2	ku3	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	3	_	_	0	_
+a.2.3	nun-na	3	kug-nun-na	kug-nun[1]	GN	GN.GEN	2	GEN	_	3	kug-nun-na	kug-nun[1]	GN	GN.GEN	2	GEN	_	4	Ninkununa	NNP	0	root
+a.3.1	nin-a-ni	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	5	his mistress	NN	2	root
+a.4.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	9	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	9	ERG	_	6	Ur-Namma	NN	5	appos
+a.5.1	lugal	6	lugal	lugal[king]	N	N	5	appos	_	6	lugal	lugal[king]	N	N	5	appos	_	7	the	DT	8	det
+a.5.2	uri5{ki}-ma-ke4	7	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	6	GEN	_	7	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	6	GEN	_	8	king Ur	NN	5	appos
+a.6.1	e2-a-ni	8	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	9	ABS	_	8	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	9	ABS	_	9	her temple	NN	5	appos
+a.7.1	mu-na-du3	9	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	9	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	he built for her	VBD	9	acl:relcl

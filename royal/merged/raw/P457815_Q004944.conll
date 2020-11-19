@@ -1,0 +1,16 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szu-Suen powerful man king of Urim king of four quarters Szu-Ikur child of captain is your servant	
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Szu-Suen powerful	NNP	0	root
+a.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	1	_
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.3.2	uri5{ki}-ma-ke4	5	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	4	GEN	_	5	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	4	GEN	_	5	Urim	NNP	4	nmod:of
+a.4.1	lugal	6	lugal	lugal[king]	N	N	0	_	_	6	lugal	lugal[king]	N	N	0	_	_	6	king	NN	1	appos
+a.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	_	0	_
+a.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	quarters four	NNS	6	nmod:of
+a.5.1	szu-{d}adad	9	szu-{d}iszkur	szu-{d}iszkur[1]	PN	PN	0	_	_	9	szu-{d}iszkur	szu-{d}iszkur[1]	PN	PN	0	_	_	9	Szu-Ikur	NNP	13	nsubj
+a.6.1	dumu	10	dumu	dumu[child]	N	N	0	_	_	10	dumu	dumu[child]	N	N	0	_	_	10	child	NN	9	appos
+a.6.2	...	?	?	?	?	?	?	?	?	11	x	_[_]	u	_	0	_	_	11	_	_	0	dep
+a.7.1	nu-banda	?	?	?	?	?	?	?	?	12	nu-banda3	nu-banda3[overseer]	N	N.ABS	0	_	_	12	captain	NN	9	appos
+a.8.1	ARAD2-zu	11+12+13	x+nu-banda3+arad2-zu	_[_]+nu-banda3[overseer]+arad2[slave]	u+N+N	_+N.ABS+N.2-SG-POSS.ABS	0+0+0	_+_+_	_+_+_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	is your servant	NN	1	_

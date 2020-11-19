@@ -1,0 +1,8 @@
+# tr.en: txt	
+# tr.en: Tulid-Szami eredigir priestess of Nanna Aya-usue courier is your servant	
+a.1.1	tu-li-id-{d}utu-szi	?	?	?	?	?	?	?	?	1	tu-li-id-UTU{ši}	tu-li-id-UTU{ši}[1]	PN	PN	0	_	_	1	Tulid-Szami eredigir	NNP	0	root
+a.2.1	nin-dingir	1+2	tu-li-id-UTU{ši}+eresz-digir	tu-li-id-UTU{ši}[1]+eresz-digir[priestess]	PN+N	PN+N	0+1	_+appos	_+_	2	eresz-digir	eresz-digir[priestess]	N	N	1	appos	_	2	priestess	NN	1	appos
+a.2.2	{d}nanna	3	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	2	GEN	_	3	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	2	GEN	_	3	Nanna	NNP	2	nmod:of
+a.3.1	a-a-u4-su3-sze3	4	a-a-u4-su3-sze3	a-a-u4-su3-sze3[1]	PN	PN	0	_	_	4	a-a-u4-su3-sze3	a-a-u4-su3-sze3[1]	PN	PN	0	_	_	4	Aya-usue	NN	6	nsubj
+a.4.1	ra2-gaba	5	ra2-gaba	ra2-gaba[rider]	N	N.ABS	4	appos	_	5	ra2-gaba	ra2-gaba[rider]	N	N.ABS	4	appos	_	5	courier	NN	4	appos
+a.4.2	ARAD2-zu	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	servant is your	NN	1	_

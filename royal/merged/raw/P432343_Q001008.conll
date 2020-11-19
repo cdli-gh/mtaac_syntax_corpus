@@ -1,0 +1,19 @@
+# tr.en: txt	
+# tr.en: the king of Sumer and Akkad for his life he dedicated it to himher A person who this inscription shall erase	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	6	ERG	_	1	lugal	lugal[king]	N	N	6	ERG	_	1	the king	NN	5	nsubj
+a.1'.2	ki-en-gi	2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_	2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_	2	Sumer	NNP	1	nmod:of
+a.1'.3	ki-uri-ke4	3	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_	3	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_	3	and Akkad	CC	2	cc
+a.2'.1	nam-ti-la-ni-sze3	4	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	6	TERM	_	4	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	6	TERM	_	4	for his life	NN	5	nmod:for
+a.3'.1	a	5	a	a[water]	N	N.ABS	6	ABS	_	5	a	a[water]	N	N.ABS	6	ABS	_	5	he dedicated	VBD	0	root
+a.3'.2	mu-na-ru	6	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	6	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	6	it to himher	PRP	5	dobj
+a.4'.1	lu2	7	lu2	lu2[person]	N	N	10	LOC	_	7	lu2	lu2[person]	N	N	10	LOC	_	7	_	_	0	_
+a.4'.2	mu-sar-ra-ba	8	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	7	appos	_	8	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	7	appos	_	8	A person who this inscription	NN	5	dobj
+a.5'.1	szu	9	szu	szu[hand]	N	N.ABS	10	ABS	_	9	szu	szu[hand]	N	N.ABS	10	ABS	_	9	_	,	8	_
+a.5'.2	bi2-ib2-ur3-a	10+11+12+13+14+15+16+17	bi2-ib2-uru12-a+mu-ni+bi2-ib2-sar-a+lu2-ba+{d}nanna+lugal-gu10+x-gu10+{d}nin-gal-e	uru12[drag]+mu[name]+sar[write]+lu2[person]+{d}nanna[1]+lugal[king]+_[_]+{d}nin-gal[1]	V+N+V+N+DN+N+u+DN	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB+N.3-SG-H-POSS.ABS+3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB+N.DEM2.X+DN+N.1-SG-POSS+_+DN.ERG	12+10+0+12+0+0+0+0	ABS+appos+_+appos+_+_+_+_	_+_+_+_+_+_+_+_	10	bi2-ib2-uru12-a	uru12[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	12	ABS	_	10	shall erase	VB	8	acl:relcl
+?	*RETOK*-mu-ni	?	?	?	?	?	?	?	?	11	mu-ni	mu[name]	N	N.3-SG-H-POSS.ABS	10	appos	_		?	?	?	?
+?	*RETOK*-bi2-ib2-sar-a	?	?	?	?	?	?	?	?	12	bi2-ib2-sar-a	sar[write]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	0	_	_		?	?	?	?
+?	*RETOK*-lu2-ba	?	?	?	?	?	?	?	?	13	lu2-ba	lu2[person]	N	N.DEM2.X	12	appos	_	?	?	?	?	?
+?	*RETOK*-{d}nanna	?	?	?	?	?	?	?	?	14	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	?	?	?	?	?
+?	*RETOK*-lugal-gu10	?	?	?	?	?	?	?	?	15	lugal-gu10	lugal[king]	N	N.1-SG-POSS	0	_	_	?	?	?	?	?
+?	*RETOK*-x-gu10	?	?	?	?	?	?	?	?	16	x-gu10	_[_]	u	_	0	_	_	?	?	?	?	?
+?	*RETOK*-{d}nin-gal-e	?	?	?	?	?	?	?	?	17	{d}nin-gal-e	{d}nin-gal[1]	DN	DN.ERG	0	_	_	?	?	?	?	?

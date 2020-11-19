@@ -1,0 +1,20 @@
+# tr.en: txt	
+# tr.en: queen of his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad PN	
+a.1'.1	nin	1	nin	nin[lady]	N	N	0	_	_	1	nin	nin[lady]	N	N	0	_	_	1	queen	NN	0	root
+a.1'.2	x	?	?	?	?	?	?	?	?	2	e2-kur-ra	e2-kur[prison]	N	N.GEN	1	GEN	_	2	_	NN	1	nmod:of
+a.1'.3	x	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	3	_	,	1	dep
+a.1'.4	x	2	e2-kur-ra	e2-kur[prison]	N	N.GEN	1	GEN	_	?	?	?	?	?	?	?	?	4	_	_	0	dep
+a.2'.1	nin-a-ni	3	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	3	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	5	his mistress	NN	1	appos
+a.3'.1	nam-ti	4	nam-til3	nam-til3[life]	N	N	0	_	_	4	nam-til3	nam-til3[life]	N	N	0	_	_	6	for life	NN	1	nmod:for
+a.4'.1	{d}szul-gi	5	{d}szul-gi	{d}szul-gi[1]	RN	RN	4	appos	_	5	{d}szul-gi	{d}szul-gi[1]	RN	RN	4	appos	_	7	of Szulgi	NNP	6	nmod:of
+a.5'.1	nita	6	nita	nita[male]	N	N	4	appos	_	6	nita	nita[male]	N	N	4	appos	_	8	man	NN	7	appos
+a.5'.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	9	the mighty	DT	8	det
+a.6'.1	lugal	8	lugal	lugal[king]	N	N	4	appos	_	8	lugal	lugal[king]	N	N	4	appos	_	10	king	NN	7	appos
+a.6'.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	11	Ur	NN	10	nmod:of
+a.7'.1	lugal	10	lugal	lugal[king]	N	N	4	appos	_	10	lugal	lugal[king]	N	N	4	appos	_	12	and king	CC	10	cc
+a.7'.2	ki-en-gi	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	13	Sumer	NNP	10	nmod:of
+a.7'.3	ki-uri-ka-sze3	12	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	11	GEN	_	12	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	11	GEN	_	14	and Akkad	CC	13	cc
+a.8'.1	AN	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	15	PN	NNP	1	appos
+a.8'.2	zi	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	16	_	_	0	_
+a.8'.3	gi4	?	?	?	?	?	?	?	?	13	ba-zig3-ge4	ba-zig3-ge4[1]	PN	PN	0	_	_	17	_	_	0	_
+a.8'.4	...	13	ba-zig3-ge4	ba-zig3-ge4[1]	PN	PN	0	_	_	?	?	?	?	?	?	?	?	18	_	_	0	dep

@@ -1,0 +1,19 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: To Meslamtaea his master for life of Szulgi the mighty man king of Ur and king of four world quarters Ilum-bni the son of Hass-E MUNUS dedicated to him	
+a.1.1	{d}mes-lam-ta-e3-a	1	{d}mesz3-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	16	DAT	_	1	{d}mesz3-lam-ta-e3-a	{d}mesz3-lam-ta-e3-a[1]	DN	DN	16	DAT	_	1	To Meslamtaea	FW	0	root
+a.2.1	lugal-a-ni	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his master	NN	1	root
+a.3.1	nam-ti	3	nam-til3	nam-til3[life]	N	N	16	TERM	_	3	nam-til3	nam-til3[life]	N	N	16	TERM	_	3	for life	NN	2	root
+a.4.1	{d}szul-gi	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	3	appos	_	4	of Szulgi	NNP	3	nmod:of
+a.5.1	nita	5	nita	nita[male]	N	N	3	appos	_	5	nita	nita[male]	N	N	3	appos	_	5	man	NN	3	root
+a.5.2	kal-ga	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	the mighty	DT	5	det
+a.6.1	lugal	7	lugal	lugal[king]	N	N	3	appos	_	7	lugal	lugal[king]	N	N	3	appos	_	7	king	NN	5	conj
+a.6.2	uri5{ki}-ma	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	8	Ur	NN	7	nmod:of
+a.7.1	lugal	9	lugal	lugal[king]	N	N	7	GEN	_	9	lugal	lugal[king]	N	N	7	GEN	_	9	_	,	11	_
+a.7.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.7.3	ub-da	10	an-ub-da	an-ub-da[quarter]	N	N	9	GEN	_	10	an-ub-da	an-ub-da[quarter]	N	N	9	GEN	_	10	and king	CC	5	cc
+a.7.4	limmu2-ba-ka-sze3	11	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	10	amod	_	11	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	10	amod	_	11	four world quarters	NNS	5	nmod:of
+a.8.1	dingir-ba-ni	12	DIŊIR-ba-ni	DIŊIR-ba-ni[1]	PN	PN	16	ERG	_	12	DIŊIR-ba-ni	DIŊIR-ba-ni[1]	PN	PN	16	ERG	_	12	Ilum-bni	NN	11	appos
+a.9.1	dumu	13	dumu	dumu[child]	N	N	12	appos	_	13	dumu	dumu[child]	N	N	12	appos	_	13	son	NN	5	appos
+a.9.2	ha-si2-is-E2-MUNUS-ke4	14	ha-si2-is-e2-mi2-ke4	ha-si2-is-e2-mi2[1]	PN	PN.ERG	12	appos	_	14	ha-si2-is-e2-mi2-ke4	ha-si2-is-e2-mi2[1]	PN	PN.ERG	12	appos	_	14	the Hass-E MUNUS	DT	13	det
+a.10.1	a	15	a	a[water]	N	N.ABS	16	ABS	_	15	a	a[water]	N	N.ABS	16	ABS	_	15	_	.	5	_
+a.10.2	mu-na-ru	16	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	16	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	16	dedicated to him	VBN	5	acl

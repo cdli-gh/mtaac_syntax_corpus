@@ -1,0 +1,11 @@
+# tr.en: txt	
+# tr.en: Ea-nia beloved lukur of king Na-silim Ur-aba-dingira your servant	
+a.col1.1.1	e2-a-ni-sza	1	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	0	_	_	1	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	0	_	_	1	Ea-nia	NN	0	root
+a.col1.2.1	lukur	2	lukur	lukur[priestess]	N	N	4	ABS	_	2	lukur	lukur[priestess]	N	N	4	ABS	_	2	beloved lukur	NN	1	appos
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	3	ki	ki[place]	N	N.ABS	2	appos	_	?	?	?	?	?
+a.col1.2.2	ki-ag2	3+4	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	2+1	appos+amod	_+_	4	ag2	ag2[measure]	V	NF.V	1	amod	_	3	_	:	1	_
+a.col1.2.3	lugal	5	lugal	lugal[king]	N	N.GEN.ABS	4	GEN	_	5	lugal	lugal[king]	N	N.GEN.ABS	4	GEN	_	4	king	NN	2	nmod:of
+a.col2.1.1	na-silim	6	na-silim	na-silim[1]	PN	PN	0	_	_	6	na-silim	na-silim[1]	PN	PN	0	_	_	5	Na-silim	NN	1	_
+a.col2.2.1	dumu	7	dumu	dumu[child]	N	N	6	appos	_	7	dumu	dumu[child]	N	N	6	appos	_	6	_	,	5	_
+a.col2.2.2	ur-ab-ba-dingir-ra	?	?	?	?	?	?	?	?	8	ur-esz3-ba-an-ra	ur-esz3-ba-an-ra[1]	PN	PN.GEN.ABS	7	GEN	_	7	Ur-aba-dingira	NN	5	conj
+a.col2.3.1	ARAD2-zu	8+9	ur-esz3-ba-an-ra+arad2-zu	ur-esz3-ba-an-ra[1]+arad2[slave]	PN+N	PN.GEN.ABS+N.2-SG-POSS.ABS	7+0	GEN+_	_+_	9	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	your servant	NN	5	appos

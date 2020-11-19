@@ -1,0 +1,8 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi king of Urim who built Karkara	
+o.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi	NNP	0	root
+o.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	.	1	_
+o.2.2	uri5{ki}-ma	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	king	NN	1	appos
+o.3.1	lu2	4	lu2	lu2[person]	N	N	6	ABS	_	4	lu2	lu2[person]	N	N	6	ABS	_	4	_	_	0	_
+o.3.2	karkar{ki}	5	karkara{ki}	karkara{ki}[1]	SN	SN.ABS	4	appos	_	5	karkara{ki}	karkara{ki}[1]	SN	SN.ABS	4	appos	_	5	Urim who built Karkara	NNP	3	nmod:of
+o.4.1	in-du3-a	6	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	2	amod	_	6	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	2	amod	_	6	_	_	0	_

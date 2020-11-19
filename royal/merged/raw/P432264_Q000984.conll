@@ -1,0 +1,90 @@
+# tr.en: txt	
+# tr.en: For Nanna his beloved master the Dublamah since ancient days though not an offering place where daily rations had been withdrawn having become since its temple had not been rebuilt Amar-Suena beloved by Nanna whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the mighty man king of Ur and king of four world quarters the Dublamah the temple which is wonder of country his place of judgment where from his net the enemies of Amar-Suena do not escape that temple he rebuilt and made resplendent for him With gold silver and lapis lazuli he decorated it for him Amar-Suen shall therewith prolong his life A person who when temple has become old having rebuilt it but this inscription and its utensils from its standing-place does not change in eyes of Nanna may he find favor But a person who this inscription shall erase and its utensils to its standing-place shall not return may serpent of Nanna be set upon him and to his descendants may Nanna make an end	
+a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	11	DAT	_	1	{d}nanna	{d}nanna[1]	DN	DN	11	DAT	_	1	For Nanna	NNP	63	nmod:for
+a.2.1	lugal	2	lugal	lugal[king]	N	N	4	ABS	_	2	lugal	lugal[king]	N	N	4	ABS	_	2	_	_	0	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	3	ki	ki[place]	N	N.ABS	2	appos	_	?	?	?	?	?
+a.2.2	ki-ag2-ga2-ni-ir	?	?	?	?	?	?	?	?	4	ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	1	amod	_	3	his beloved master	NN	63	nsubj
+a.3.1	dub-la2	?	?	?	?	?	?	?	?	5	dub-la2-mah	dub-la2-mah[1]	TN	TN	11	ABL	_	4	the	DT	5	det
+a.3.2	mah	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	Dublamah	NNP	3	_
+a.4.1	u4	3+4+5+6	ki+ag2-ga2-ni-ir+dub-la2-mah+ud	ki[place]+ag2[measure]+dub-la2-mah[1]+ud[sun]	N+V+TN+N	N.ABS+NF.V.3-SG-H-POSS.DAT-H+TN+N	2+1+11+5	appos+amod+ABL+appos	_+_+_+_	6	ud	ud[sun]	N	N	5	appos	_	6	_	_	0	_
+a.4.2	ul-li2-a-ta	7	ul-li2-a-ta	ul-li2[distant]	V	NF.V.SUB.ABL	6	amod	_	7	ul-li2-a-ta	ul-li2[distant]	V	NF.V.SUB.ABL	6	amod	_	7	since ancient days	NNS	3	nmod:since
+a.5.1	ki-szu-tag	8	ki-szu-tag	ki-szu-tag[locus]	N	N	11	ABS	_	8	ki-szu-tag	ki-szu-tag[locus]	N	N	11	ABS	_	8	though not an offering place	IN	54	mark
+a.6.1	szuku	?	?	?	?	?	?	?	?	9	šutugₓ(|PAD.UD|)	šutugₓ(|PAD.UD|)[reed-hut]	N	N	8	appos	_	9	_	_	0	_
+a.6.2	u4	9	šutugₓ(|PAD.UD|)	šutugₓ(|PAD.UD|)[reed-hut]	N	N	8	appos	_	?	?	?	?	?	?	?	?	10	_	_	0	_
+a.6.3	szub-ba	10	szub-ba	szub[fall]	V	NF.V.SUB.ABS	9	amod	_	10	szub-ba	szub[fall]	V	NF.V.SUB.ABS	9	amod	_	11	where daily rations had been withdrawn	VBN	54	acl:relcl
+a.7.1	i3-me-a-na-an-na	11	i3-me-a-na-an-na	me[be]	V	FIN.COP.3-SG-S.SUB.EXCEPT	13	ABS	_	11	i3-me-a-na-an-na	me[be]	V	FIN.COP.3-SG-S.SUB.EXCEPT	13	ABS	_	12	having become	VBN	11	xcomp
+a.8.1	e2-bi	12	e2-bi	e2[house]	N	N.3-SG-NH-POSS.ABS	11	appos	_	12	e2-bi	e2[house]	N	N.3-SG-NH-POSS.ABS	11	appos	_	13	since its temple	IN	14	mark
+a.8.2	nu-du3-am3	13	nu-du3-am3	du3[build]	V	NEG.V.3-SG-S.SUB.COP-3-SG	21	LOC	_	13	nu-du3-am3	du3[build]	V	NEG.V.3-SG-S.SUB.COP-3-SG	21	LOC	_	14	had not been rebuilt	VBN	20	advcl
+a.9.1	{d}amar-{d}suen	14	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	16	ABS	_	14	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	16	ABS	_	15	Amar-Suena	NNP	14	dobj
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	15	ki	ki[place]	N	N.ABS	14	appos	_	?	?	?	?	?
+a.10.1	ki-ag2	15+16	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	14+13	appos+appos	_+_	16	ag2	ag2[measure]	V	NF.V	13	appos	_	16	beloved by	JJ	15	amod
+a.10.2	{d}nanna	17	{d}nanna	{d}nanna[1]	DN	DN.GEN	16	GEN	_	17	{d}nanna	{d}nanna[1]	DN	DN.GEN	16	GEN	_	17	Nanna	NNP	16	nmod:by
+a.11.1	nibru{ki}-a	18	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	13	appos	_	18	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	13	appos	_	18	whom in Nippur	WP	17	appos
+a.12.1	{d}en-lil2-le	19	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	21	ERG	_	19	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	21	ERG	_	19	Enlil	NNP	20	nsubj
+a.13.1	mu	20	mu	mu[name]	N	N.ABS	21	ABS	_	20	mu	mu[name]	N	N.ABS	21	ABS	_	20	chose	VBD	54	acl:relcl
+a.13.2	pa3-da	21	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	21	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	21	by name	NN	20	nmod:by
+a.14.1	sag-us2	22	sag-us2	sag-us2[constant]	V	NF.V	21	appos	_	22	sag-us2	sag-us2[constant]	V	NF.V	21	appos	_	22	the constant supporter	NN	21	appos
+a.15.1	e2	23	e2	e2[house]	N	N	22	GEN	_	23	e2	e2[house]	N	N	22	GEN	_	23	_	,	24	_
+a.15.2	{d}en-lil2-ka	24	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	23	GEN	_	24	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	23	GEN	_	24	of temple of Enlil	NN	22	nmod:of
+a.16.1	nita	25	nita	nita[male]	N	N	21	appos	_	25	nita	nita[male]	N	N	21	appos	_	25	man	NN	24	appos
+a.16.2	kal-ga	26	kalag-ga	kalag[strong]	V	NF.V.SUB	25	amod	_	26	kalag-ga	kalag[strong]	V	NF.V.SUB	25	amod	_	26	the mighty	DT	25	det
+a.17.1	lugal	27	lugal	lugal[king]	N	N	21	appos	_	27	lugal	lugal[king]	N	N	21	appos	_	27	king	NN	24	appos
+a.17.2	uri5{ki}-ma	28	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	27	GEN	_	28	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	27	GEN	_	28	Ur	NN	27	nmod:of
+a.18.1	lugal	29	lugal	lugal[king]	N	N	21	appos	_	29	lugal	lugal[king]	N	N	21	appos	_	29	_	,	21	_
+a.18.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.18.3	ub-da	30	an-ub-da	an-ub-da[quarter]	N	N	29	GEN	_	30	an-ub-da	an-ub-da[quarter]	N	N	29	GEN	_	30	and king	CC	27	cc
+a.18.4	limmu2-ba-ke4	31	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	30	amod	_	31	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	30	amod	_	31	four world quarters	NNS	27	nmod:of
+a.19.1	dub-la2	?	?	?	?	?	?	?	?	32	dub-la2-mah	dub-la2-mah[1]	TN	TN	0	_	_	32	the	DT	33	det
+a.19.2	mah	32	dub-la2-mah	dub-la2-mah[1]	TN	TN	0	_	_	?	?	?	?	?	?	?	?	33	Dublamah	NNP	21	appos
+a.20.1	e2	33	e2	e2[house]	N	N	32	appos	_	33	e2	e2[house]	N	N	32	appos	_	34	the temple	NN	21	appos
+?	*RETOK*-u6	?	?	?	?	?	?	?	?	34	u6	u6[admiration]	N	N.ABS	32	appos	_	?	?	?	?	?
+?	*RETOK*-di	?	?	?	?	?	?	?	?	35	di	di[lawsuit]	N	N	45	GEN	_	?	?	?	?	?
+a.20.2	u6-di-kalam-ma	34+35+36	u6+di+kalam-ma	u6[admiration]+di[lawsuit]+kalam[land]	N+N+N	N.ABS+N+N.GEN	32+45+35	appos+GEN+GEN	_+_+_	36	kalam-ma	kalam[land]	N	N.GEN	35	GEN	_	35	which is wonder country	NN	34	acl:relcl
+a.21.1	ki	37	ki	ki[place]	N	N	35	appos	_	37	ki	ki[place]	N	N	35	appos	_	36	_	,	37	_
+?	*RETOK*-di	?	?	?	?	?	?	?	?	38	di	di[lawsuit]	N	N	35	appos	_	?	?	?	?	?
+a.21.2	di-ku5-da-ni	38+39	di+kud-da-ni	di[lawsuit]+kud[cut]	N+V	N+NF.V.3-SG-H-POSS	35+38	appos+amod	_+_	39	kud-da-ni	kud[cut]	V	NF.V.3-SG-H-POSS	38	amod	_	37	his place judgment	NN	21	appos
+a.22.1	sa-bar-a-ni	40	sa-bar-a-ni	sa-bar[net]	N	sabar.ani	43	ABS	_	40	sa-bar-a-ni	sa-bar[net]	N	sabar.ani	43	ABS	_	38	where from his net	WRB	41	advmod
+a.23.1	lu2-erim2	41	lu2-erim2	lu2-erim2[evildoer]	N	N	40	appos	_	41	lu2-erim2	lu2-erim2[evildoer]	N	N	40	appos	_	39	the enemies	NNS	41	nsubj
+a.24.1	{d}amar-{d}suen-ka	42	{d}amar-{d}suen-ka	{d}amar-{d}suen[1]	RN	RN.GEN.ABS	41	GEN	_	42	{d}amar-{d}suen-ka	{d}amar-{d}suen[1]	RN	RN.GEN.ABS	41	GEN	_	40	of Amar-Suena	NNP	39	nmod:of
+a.25.1	nu-e3	43	nu-e3	e3[leave]	V	NEG.NF.V.GEN	38	amod	_	43	nu-e3	e3[leave]	V	NEG.NF.V.GEN	38	amod	_	41	do not escape	VB	37	acl:relcl
+a.26.1	e2-bi	44	e2-bi	e2[house]	N	N.3-SG-NH-POSS.ABS	45	ABS	_	44	e2-bi	e2[house]	N	N.3-SG-NH-POSS.ABS	45	ABS	_	42	that temple rebuilt	IN	51	mark
+a.26.2	mu-na-du3	45	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	45	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	43	he	PRP	51	nsubj
+a.27.1	pa	46	pa	pa[branch]	N	N.ABS	47	ABS	_	46	pa	pa[branch]	N	N.ABS	47	ABS	_	44	and made	CC	51	cc
+a.27.2	mu-na-an-e3	47	mu-na-an-e3	e3[leave]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	47	mu-na-an-e3	e3[leave]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	45	resplendent for him	NN	51	dobj
+a.28.1	ku3-sig17	?	?	?	?	?	?	?	?	48	kug-sig17	kug-sig17[gold]	N	N	52	LOC	_	46	With gold	NN	51	nmod:with
+a.28.2	ku3-babbar	?	?	?	?	?	?	?	?	49	kug-babbar	kug-babbar[silver]	N	N	48	appos	_	47	silver and	NN	46	conj
+a.28.3	na4	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	48	_	_	0	_
+a.28.4	za-gin3-na	?	?	?	?	?	?	?	?	50	{na4}za-gin3-na	{na4}za-gin3[lapis]	N	N.L1	48	appos	_	49	lapis lazuli	NNS	46	conj
+a.29.1	mu10	?	?	?	?	?	?	?	?	51	mi2	mi2[cvne]	N	N.ABS	52	ABS	_	50	he	PRP	51	nsubj
+a.29.2	mu-na-ni-du11	48+49+50+51+52	kug-sig17+kug-babbar+{na4}za-gin3-na+mi2+mu-na-ni-dug4	kug-sig17[gold]+kug-babbar[silver]+{na4}za-gin3[lapis]+mi2[cvne]+dug4[speak]	N+N+N+N+V	N+N+N.L1+N.ABS+VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	52+48+48+52+0	LOC+appos+appos+ABS+_	_+_+_+_+_	52	mu-na-ni-dug4	dug4[speak]	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	0	_	_	51	decorated it for him	VBD	20	ccomp
+a.30.1	{d}amar-{d}suen-ke4	53	{d}amar-{d}suen-ke4	{d}amar-{d}suen[1]	RN	RN.GEN.ERG	55	GEN.ERG	_	53	{d}amar-{d}suen-ke4	{d}amar-{d}suen[1]	RN	RN.GEN.ERG	55	GEN.ERG	_	52	Amar-Suen	NN	54	nsubj
+a.31.1	u4	54	ud	ud[sun]	N	N.ABS	55	ABS	_	54	ud	ud[sun]	N	N.ABS	55	ABS	_	53	_	.	3	_
+a.31.2	im-da-ab-su3-re6	55	im-da-ab-su3-re6	su3[distant]	V	FIN.VEN.3-NH.COM.3-SG-NH-P.V.3-SG-A	0	_	_	55	im-da-ab-su3-re6	su3[distant]	V	FIN.VEN.3-NH.COM.3-SG-NH-P.V.3-SG-A	0	_	_	54	shall therewith prolong his life	VB	7	acl
+a.32.1	lu2	56	lu2	lu2[person]	N	N	0	_	_	56	lu2	lu2[person]	N	N	0	_	_	55	_	,	58	_
+a.32.2	e2	57	e2	e2[house]	N	N	0	_	_	57	e2	e2[house]	N	N	0	_	_	56	_	_	0	_
+a.32.3	a-ba-sumun	58	a-ba-sumun	sumun[old]	V	ANT.MID.V.3-SG-S	0	_	_	58	a-ba-sumun	sumun[old]	V	ANT.MID.V.3-SG-S	0	_	_	57	A person who when temple has become old	NN	3	appos
+a.33.1	u3-un-du3	59	u3-un-du3	du3[build]	V	ANT.3-SG-H-A.V.3-SG-P	0	_	_	59	u3-un-du3	du3[build]	V	ANT.3-SG-H-A.V.3-SG-P	0	_	_	58	having rebuilt it	VBN	57	acl:relcl
+a.34.1	mu-sar-ra-bi	60	mu-sar-ra-bi	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS	65	ABS	_	60	mu-sar-ra-bi	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS	65	ABS	_	59	but this inscription	CC	3	cc
+a.35.1	u3	61	u3	u3[and]	CNJ	CNJ	60	cc	_	61	u3	u3[and]	CNJ	CNJ	60	cc	_	60	and	CC	3	cc
+a.35.2	{gesz}szu-kar2-bi	?	?	?	?	?	?	?	?	62	{gesz}szu-kara2-bi	{gesz}szu-kara2[tool]	N	N.ABS	60	conj	_	61	its utensils	NNS	3	conj
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	63	ki	ki[place]	N	N	65	COM	_	?	?	?	?	?
+a.36.1	ki-gub-ba-bi	62+63+64	{gesz}szu-kara2-bi+ki+gub-ba-bi	{gesz}szu-kara2[tool]+ki[place]+gub[stand]	N+N+V	N.ABS+N+NF.V.SUB.3-SG-NH-POSS.COM	60+65+63	conj+COM+amod	_+_+_	64	gub-ba-bi	gub[stand]	V	NF.V.SUB.3-SG-NH-POSS.COM	63	amod	_	62	from its standing-place	NN	61	nmod:from
+a.37.1	nu-ub-da-ab-kur2-re-a	65	nu-ub-da-ab-kur2-re-a	kur2[different]	V	NEG.3-NH.COM.3-SG-NH-P.V.3-SG-A.SUB.ABS	68	ABS	_	65	nu-ub-da-ab-kur2-re-a	kur2[different]	V	NEG.3-NH.COM.3-SG-NH-P.V.3-SG-A.SUB.ABS	68	ABS	_	63	does not change	VB	0	root
+a.38.1	igi	66	igi	igi[eye]	N	N	68	LOC	_	66	igi	igi[eye]	N	N	68	LOC	_	64	_	_	0	_
+a.38.2	{d}nanna-ka	67	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	66	GEN	_	67	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	66	GEN	_	65	in eyes of Nanna	NNS	63	nmod:in
+a.39.1	he2-en-sa6	68	he2-en-sag9	sag9[good]	V	MOD1.FIN.L1-SYN.V.3-SG-S	0	_	_	68	he2-en-sag9	sag9[good]	V	MOD1.FIN.L1-SYN.V.3-SG-S	0	_	_	66	may he find favor	VB	63	advcl
+a.40.1	lu2	69	lu2	lu2[person]	N	N	72	LOC	_	69	lu2	lu2[person]	N	N	72	LOC	_	67	But a	CC	66	cc
+a.40.2	mu-sar-ra-ba	70	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	69	appos	_	70	mu-sar-ra-ba	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.L2-NH	69	appos	_	68	person who this inscription	NN	77	nsubjpass
+a.41.1	szu	71	szu	szu[hand]	N	N.ABS	72	ABS	_	71	szu	szu[hand]	N	N.ABS	72	ABS	_	69	_	_	0	_
+a.41.2	bi2-ib2-ur3-re-a	72	bi2-ib2-ur3-re-a	ur3[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	0	_	_	72	bi2-ib2-ur3-re-a	ur3[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB	0	_	_	70	shall erase	VB	68	acl:relcl
+a.42.1	u3	73	u3	u3[and]	CNJ	CNJ	0	_	_	73	u3	u3[and]	CNJ	CNJ	0	_	_	71	and	CC	70	cc
+a.42.2	{gesz}szu-kar2-bi	?	?	?	?	?	?	?	?	74	{gesz}szu-kara2-bi	{gesz}szu-kara2[tool]	N	N.ABS	77	ABS	_	72	its utensils	NNS	74	nsubj
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	75	ki	ki[place]	N	N	77	TERM	_	?	?	?	?	?
+a.43.1	ki-gub-bi-sze3	74+75+76	{gesz}szu-kara2-bi+ki+gub-ba-bi-sze3	{gesz}szu-kara2[tool]+ki[place]+gub[stand]	N+N+V	N.ABS+N+NF.V.SUB.3-SG-NH-POSS.TERM	77+77+75	ABS+TERM+amod	_+_+_	76	gub-ba-bi-sze3	gub[stand]	V	NF.V.SUB.3-SG-NH-POSS.TERM	75	amod	_	73	to its standing-place	JJ	72	nmod:to
+a.44.1	nu-ub-szi-ib2-gi4-gi4-a	77	nu-ub-szi-ib2-gi4-gi4-a	gi4-gi4[turn]	V	NEG.3-NH.TERM.3-SG-NH-P.V.PF.3-SG-A.SUB.ABS	0	_	_	77	nu-ub-szi-ib2-gi4-gi4-a	gi4-gi4[turn]	V	NEG.3-NH.TERM.3-SG-NH-P.V.PF.3-SG-A.SUB.ABS	0	_	_	74	shall not return	VB	70	conj
+a.45.1	musz	78	musz	musz[snake]	N	N	0	_	_	78	musz	musz[snake]	N	N	0	_	_	75	may serpent	MD	77	aux
+a.45.2	{d}nanna	79	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	79	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	76	Nanna	NNP	77	nmod:of
+a.46.1	he2-en-gar	80	he2-en-gar	gar[place]	V	MOD1.FIN.3-SG-H.L2-SYN.V.3-SG-S	0	_	_	80	he2-en-gar	gar[place]	V	MOD1.FIN.3-SG-H.L2-SYN.V.3-SG-S	0	_	_	77	be set upon him	VBN	66	conj
+a.47.1	numun-na-ni	81	numun-na-ni	numun[seed]	N	N.3-SG-H-POSS.ABS	83	ABS	_	81	numun-na-ni	numun[seed]	N	N.3-SG-H-POSS.ABS	83	ABS	_	78	and to his descendants	CC	77	cc
+a.48.1	{d}nanna	82	{d}nanna	{d}nanna[1]	DN	DN.ERG	83	ERG	_	82	{d}nanna	{d}nanna[1]	DN	DN.ERG	83	ERG	_	79	may Nanna	MD	80	aux
+a.49.1	he2-eb-til-le	83	he2-eb-til-le	til[complete]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	0	_	_	83	he2-eb-til-le	til[complete]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	0	_	_	80	make an end	VB	77	conj

@@ -1,0 +1,10 @@
+# tr.en: txt	
+# tr.en: according to great command of Nanna his lord when Susa he destroyed and to booty he made	
+a.1'.1	inim-mah	1	x	_[_]	u	_	0	_	_	1	x	_[_]	u	_	0	_	_	1	according to great command	NN	0	root
+a.1'.2	{d}nanna	2	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	2	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	2	Nanna	NNP	1	nmod:of
+a.1'.3	lugal-na-ta	?	?	?	?	?	?	?	?	3	x-ta	_[_]	u	_	0	_	_	3	his lord	NN	1	_
+a.2'.1	u4	3+4	x-ta+ud	_[_]+ud[sun]	u+N	_+N	0+6	_+ABS	_+_	4	ud	ud[sun]	N	N	6	ABS	_	4	when	WRB	6	advmod
+a.2'.2	szuszin{ki}	5	szuszin{ki}	szuszin{ki}[Susa]	SN	SN.ABS	4	appos	_	5	szuszin{ki}	szuszin{ki}[Susa]	SN	SN.ABS	4	appos	_	5	Susa he	NNP	6	nsubj
+a.3'.1	mu-hul-a	6	mu-hul-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	8	LOC	_	6	mu-hul-a	hul[bad]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	8	LOC	_	6	destroyed	VBD	3	acl:relcl
+a.4'.1	nam-ra-asz	7	nam-ra-asz	nam-ra[booty]	N	N.ADV	8	ADV	_	7	nam-ra-asz	nam-ra[booty]	N	N.ADV	8	ADV	_	7	and to booty	CC	3	cc
+a.5'.1	mu-na-ak-a	8	mu-na-ak-a	ak[do]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	0	_	_	8	mu-na-ak-a	ak[do]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	0	_	_	8	he made	VBD	3	ccomp

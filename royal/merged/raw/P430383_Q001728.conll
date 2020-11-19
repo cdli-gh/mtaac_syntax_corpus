@@ -1,0 +1,9 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Ur-Suen military governor of Unug and Der Maum is your servant	
+a.col1.1.1	ur-{d}suen	1	ur-{d}suen	ur-{d}suen[1]	PN	PN	0	_	_	1	ur-{d}suen	ur-{d}suen[1]	PN	PN	0	_	_	1	Ur-Suen military	NNP	0	root
+a.col1.2.1	szagina	2	szagina	szagina[general]	N	N	0	_	_	2	szagina	szagina[general]	N	N	0	_	_	2	governor	NN	1	appos
+a.col1.3.1	unu{ki}-ga	3	unug{ki}-ga	unug{ki}[1]	SN	SN.GEN	2	GEN	_	3	unug{ki}-ga	unug{ki}[1]	SN	SN.GEN	2	GEN	_	3	of Unug	NNP	2	nmod:of
+a.col2.1.1	u3	4	u3	u3[and]	CNJ	CNJ	0	_	_	4	u3	u3[and]	CNJ	CNJ	0	_	_	4	and	CC	3	cc
+a.col2.1.2	|BAD3.AN|{ki}	5	|BAD₃.AN.KI|	|BAD₃.AN.KI|[1]	SN	SN.GEN.ABS	0	_	_	5	|BAD₃.AN.KI|	|BAD₃.AN.KI|[1]	SN	SN.GEN.ABS	0	_	_	5	Der	NNP	3	conj
+a.col2.2.1	ma-szum	6	ma-szum	ma-szum[1]	PN	PN.ABS	0	_	_	6	ma-szum	ma-szum[1]	PN	PN.ABS	0	_	_	6	Maum	NNP	7	nsubj
+a.col2.3.1	ARAD2-zu	7	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	7	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	7	your servant is	NN	1	_

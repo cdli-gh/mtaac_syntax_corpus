@@ -1,0 +1,12 @@
+# tr.en: txt	
+# tr.en: for king of Ur and king of Sumer and Akkad Urmes the son of Ilamlammuma dedicated to him	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	10	TERM	_	1	lugal	lugal[king]	N	N	10	TERM	_	1	for king	NN	0	root
+a.1'.2	uri5{ki}-ma	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	Ur	NN	1	nmod:of
+a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	3	and king	CC	2	cc
+a.2'.2	ki-en-gi	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	Sumer	NNP	2	nmod:of
+a.2'.3	ki-uri-ka-sze3	5	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	4	GEN	_	5	ki-uri-ka-sze3	ki-uri[1]	GN	GN.GEN.GEN.TERM	4	GEN	_	5	and Akkad	CC	4	cc
+a.3'.1	ur-mes	6	ur-mesz3	ur-mesz3[1]	PN	PN	10	ERG	_	6	ur-mesz3	ur-mesz3[1]	PN	PN	10	ERG	_	6	Urmes	NNP	4	conj
+a.4'.1	dumu	7	dumu	dumu[child]	N	N	6	appos	_	7	dumu	dumu[child]	N	N	6	appos	_	7	_	_	0	_
+a.4'.2	i-lam-lam-mu-ma	8	i-lam-ma	i-lam-ma[1]	PN	PN.GEN.ERG	7	GEN	_	8	i-lam-ma	i-lam-ma[1]	PN	PN.GEN.ERG	7	GEN	_	8	the son Ilamlammuma	NN	4	appos
+a.5'.1	a	9	a	a[water]	N	N.ABS	10	ABS	_	9	a	a[water]	N	N.ABS	10	ABS	_	9	_	.	1	_
+a.5'.2	mu-na-ru	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	10	dedicated to him	VBN	8	acl

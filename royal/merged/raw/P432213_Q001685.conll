@@ -1,0 +1,13 @@
+# tr.en: txt	
+# tr.en: For Ningal his mistress Szulgi the mighty man king of Ur and king of four world quarters	
+a.1.1	{d}nin-gal	1	{d}nin-gal	{d}nin-gal[1]	DN	DN	0	_	_	1	{d}nin-gal	{d}nin-gal[1]	DN	DN	0	_	_	1	For Ningal	NNP	0	root
+a.2.1	nin-a-ni	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	his mistress	NN	1	root
+a.3.1	{d}szul-gi	3	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	3	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	3	Szulgi	NN	2	appos
+a.4.1	nita	4	nita	nita[male]	N	N	3	appos	_	4	nita	nita[male]	N	N	3	appos	_	4	man	NN	2	appos
+a.4.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	the mighty	DT	4	det
+a.5.1	lugal	6	lugal	lugal[king]	N	N	3	appos	_	6	lugal	lugal[king]	N	N	3	appos	_	6	king	NN	2	appos
+a.5.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	Ur	NN	6	nmod:of
+a.6.1	lugal	8	lugal	lugal[king]	N	N	3	appos	_	8	lugal	lugal[king]	N	N	3	appos	_	8	_	.	2	_
+a.6.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.6.3	ub-da	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	and king world	CC	6	cc
+a.6.4	limmu2-ba	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	four quarters	NNS	6	nmod:of

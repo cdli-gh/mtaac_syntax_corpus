@@ -1,0 +1,24 @@
+# tr.en: txt	
+# tr.en: for king of Ur and king of four world quarters Lu-Utu lapidary a beautiful bowl did fashion for her Of this bowl May My Lady In Her Fine Wooden Towards Ex-voto Direct Her Benevolent Eye is its name	
+a.1'.1	lugal	?	?	1	for king	IN	22	nmod:for
+?	*RETOK*-	?	?	2	_	NN	23	root
+a.1'.2	uri5{ki}-ma	?	?	3	Ur	NN	2	nmod:of
+a.2'.1	lugal	?	?	4	_	,	2	_
+a.2'.2	an	?	?	?	?	?	?	?
+a.2'.3	ub-da	?	?	5	and king	CC	3	cc
+a.2'.4	limmu2-ba-ka-sze3	?	?	6	four world quarters	NNS	3	nmod:of
+a.3'.1	lu2-{d}utu	?	?	7	Lu-Utu	NN	2	appos
+a.3'.2	zadim	?	?	8	lapidary	JJ	7	dobj
+a.4'.1	bur	?	?	9	a	DT	10	det
+a.4'.2	sa6-ga	?	?	10	beautiful bowl	NN	11	nsubj
+a.5'.1	mu-na-dim2	?	?	11	did fashion for her	VBD	8	acl:relcl
+a.6'.1	bur-ba	?	?	12	Of this bowl	NN	2	nmod:of
+a.6'.2	nin-mu	?	?	13	May My Lady	NN	21	nsubj
+a.7'.1	{gesz}gag	?	?	14	In Her	IN	15	nmod:in
+a.7'.2	nig2	?	?	15	_	NN	13	nmod:in
+a.7'.3	sa6-ga-ni-a	?	?	16	Fine Wooden	JJ	15	amod
+a.8'.1	ga-a-ti	?	?	17	Towards Ex-voto	IN	20	nmod:towards
+a.9'.1	igi	?	?	18	_	_	0	_
+a.9'.2	sa6-ga-ni	?	?	19	Direct Her	JJ	20	amod
+a.9'.3	hu-mu-si-ba-re	?	?	20	Benevolent Eye	NNP	13	nmod:towards
+a.10'.1	mu-bi	?	?	21	is its name	NN	12	_

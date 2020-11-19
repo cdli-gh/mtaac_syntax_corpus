@@ -1,0 +1,49 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Sz-Sin beloved by Enlil the king whom Enlil chose as beloved by his heart king of Ur king of Sumer and Akkad and king of four world quarters Babati scribe auditor archivist steward master and governor of Awal and Apiak canal inspector who has irrigated land estate administrator of two ladies temple administrator of Belat-Terraban and Belat-unir brother of Ab-Simt his beloved wife your servant	
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	_	,	44	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	2	ki	ki[place]	N	N.ABS	1	appos	_	?	?	?	?	?
+a.1.2	ki-ag2	2+3	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	1+0	appos+_	_+_	3	ag2	ag2[measure]	V	NF.V	0	_	_	2	beloved	JJ	44	amod
+a.1.3	{d}en-lil2-le	4	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	3	appos	_	4	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	3	appos	_	3	by Enlil	NNP	2	nmod:by
+a.2.1	lugal	5	lugal	lugal[king]	N	N	8	ERG	_	5	lugal	lugal[king]	N	N	8	ERG	_	4	_	_	0	_
+a.2.2	{d}en-lil2-le	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_	5	the king whom Enlil	NN	44	appos
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	7	ki	ki[place]	N	N.ABS	8	ABS	_	?	?	?	?	?
+a.3.1	ki-ag2	?	?	?	?	?	?	?	?	8	ag2	ag2[measure]	V	NF.V	10	X	_	6	as beloved	JJ	8	advcl
+a.3.2	sza3-ga-ne2	?	?	?	?	?	?	?	?	9	szag4-ga-ni	szag4[heart]	N	N.3-SG-H-POSS.X	8	appos	_	7	by his heart	NN	8	nmod:by
+a.3.3	i3-pa3	7+8+9+10	ki+ag2+szag4-ga-ni+i3-pad3	ki[place]+ag2[measure]+szag4[heart]+pad3[find]	N+V+N+V	N.ABS+NF.V+N.3-SG-H-POSS.X+FIN.3-SG-H-A.V.3-SG-P	8+10+8+0	ABS+X+appos+_	_+_+_+_	10	i3-pad3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_	8	chose	VBD	5	acl:relcl
+a.4.1	lugal	11	lugal	lugal[king]	N	N	0	_	_	11	lugal	lugal[king]	N	N	0	_	_	9	king	NN	7	appos
+a.4.2	uri2{ki}-ma	12	urim2{ki}-ma	urim2{ki}[1]	SN	SN.GEN	11	GEN	_	12	urim2{ki}-ma	urim2{ki}[1]	SN	SN.GEN	11	GEN	_	10	Ur	NN	9	nmod:of
+a.5.1	lugal	13	lugal	lugal[king]	N	N	11	appos	_	13	lugal	lugal[king]	N	N	11	appos	_	11	king	NN	44	appos
+a.5.2	ki-en-gi	14	ki-en-gi	ki-en-gi[1]	GN	GN	13	GEN	_	14	ki-en-gi	ki-en-gi[1]	GN	GN	13	GEN	_	12	Sumer	NNP	11	nmod:of
+a.5.3	ki-uri{ki}	15	ki-uri-ke	ki-uri[1]	GN	GN.GEN.ERG	14	appos	_	15	ki-uri-ke	ki-uri[1]	GN	GN.GEN.ERG	14	appos	_	13	and Akkad	CC	12	cc
+a.6.1	lugal	16	lugal	lugal[king]	N	N	0	_	_	16	lugal	lugal[king]	N	N	0	_	_	14	_	_	0	_
+a.6.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.6.3	ub-da	17	an-ub-da	an-ub-da[quarter]	N	N	16	GEN	_	17	an-ub-da	an-ub-da[quarter]	N	N	16	GEN	_	15	and king	CC	44	cc
+?	*RETOK*-	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	16	_	NN	44	conj
+a.6.4	limmu2-ba-ke4	18	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	17	amod	_	18	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	17	amod	_	17	four world quarters	NNS	16	nmod:of
+a.7.1	ba4-ba4-ti	19	ba4-ba4-ti	ba4-ba4-ti[1]	PN	PN	0	_	_	19	ba4-ba4-ti	ba4-ba4-ti[1]	PN	PN	0	_	_	18	Babati	NNP	44	_
+a.7.2	dub-sar	20	dub-sar	dub-sar[scribe]	N	N	19	appos	_	20	dub-sar	dub-sar[scribe]	N	N	19	appos	_	19	scribe	NN	18	appos
+a.7.3	sza3-tam	21	sza3-tam	sza3-tam[official]	N	N	19	appos	_	21	sza3-tam	sza3-tam[official]	N	N	19	appos	_	20	auditor	NN	18	appos
+a.8.1	sza13-dub-ba	22	bisag-dub-ba	bisag-dub-ba[archivist]	N	N	19	appos	_	22	bisag-dub-ba	bisag-dub-ba[archivist]	N	N	19	appos	_	21	archivist	NN	18	appos
+a.8.2	agrig	23	agrig	agrig[steward]	N	N	19	appos	_	23	agrig	agrig[steward]	N	N	19	appos	_	22	steward master	NN	18	appos
+a.8.3	lugal	24	lugal	lugal[king]	N	N.GEN	23	GEN	_	24	lugal	lugal[king]	N	N.GEN	23	GEN	_	23	_	_	0	_
+a.9.1	ensi2	25	ensi2	ensi2[ruler]	N	N	19	appos	_	25	ensi2	ensi2[ruler]	N	N	19	appos	_	24	governor	NN	22	conj
+a.9.2	a-wa-al{ki}	26	a-wa-al{ki}	a-wa-al{ki}[1]	SN	SN	19	appos	_	26	a-wa-al{ki}	a-wa-al{ki}[1]	SN	SN	19	appos	_	25	and Awal	CC	22	cc
+a.10.1	u3	27	u3	u3[and]	CNJ	CNJ	26	cc	_	27	u3	u3[and]	CNJ	CNJ	26	cc	_	26	and	CC	22	cc
+a.10.2	a-pi-ak{ki}	28	a-pi-ak{ki}	a-pi-ak{ki}[1]	SN	SN.GEN	26	conj	_	28	a-pi-ak{ki}	a-pi-ak{ki}[1]	SN	SN.GEN	26	conj	_	27	Apiak	NNP	22	conj
+a.11.1	ku3-gal	29	ku3-gal	ku3-gal[inspector]	N	N	19	GEN	_	29	ku3-gal	ku3-gal[inspector]	N	N	19	GEN	_	28	canal inspector who has irrigated	NN	44	_
+a.11.2	ma-da	30	ma-da	ma-da[land]	N	N	32	ABS	_	30	ma-da	ma-da[land]	N	N	32	ABS	_	29	_	:	44	_
+a.11.3	a	31	a	a[water]	N	N.ABS	30	appos	_	31	a	a[water]	N	N.ABS	30	appos	_	30	_	_	0	_
+a.11.4	du11-ga	32	dug4-ga	dug4[speak]	V	NF.V.SUB.GEN	29	amod	_	32	dug4-ga	dug4[speak]	V	NF.V.SUB.GEN	29	amod	_	31	land	NN	28	dobj
+a.12.1	szabra	33	szabra	szabra[administrator]	N	N	29	GEN	_	33	szabra	szabra[administrator]	N	N	29	GEN	_	32	estate administrator	NN	44	_
+a.12.2	nin	34	nin	nin[lady]	N	N	33	appos	_	34	nin	nin[lady]	N	N	33	appos	_	33	_	,	32	_
+a.12.3	min-a-bi	35	min-a-bi	min[two]	NU	NF.V.SUB.3-SG-NH-POSS	34	amod	_	35	min-a-bi	min[two]	NU	NF.V.SUB.3-SG-NH-POSS	34	amod	_	34	two ladies	NNS	32	nmod:of
+a.13.1	sanga	?	?	?	?	?	?	?	?	36	sagga	sagga[official]	N	N	33	appos	_	35	temple	NN	36	compound
+a.13.2	{d}be-la-at-szer7-ba-an	36+37	sagga+{d}be-la-at-ter-ba-an	sagga[official]+{d}be-la-at-ter-ba-an[1]	N+DN	N+DN	33+33	appos+appos	_+_	37	{d}be-la-at-ter-ba-an	{d}be-la-at-ter-ba-an[1]	DN	DN	33	appos	_	36	administrator Belat-Terraban	NN	32	appos
+a.14.1	u3	38	u3	u3[and]	CNJ	CNJ	37	cc	_	38	u3	u3[and]	CNJ	CNJ	37	cc	_	37	and	CC	36	cc
+a.14.2	be-la-at-suh(PAD)-ner	39	{d}be-la-at-szuk-nir	{d}be-la-at-szuk-nir[1]	DN	DN.ABS	37	conj	_	39	{d}be-la-at-szuk-nir	{d}be-la-at-szuk-nir[1]	DN	DN.ABS	37	conj	_	38	Belat-unir	NNP	36	conj
+a.15.1	szesz	40	szesz	szesz[brother]	N	N	0	_	_	40	szesz	szesz[brother]	N	N	0	_	_	39	brother	NN	32	appos
+a.15.2	a-bi2-si2-im-ti	41	a-bi-si2-im-ti	a-bi-si2-im-ti[1]	PN	PN.GEN	40	GEN	_	41	a-bi-si2-im-ti	a-bi-si2-im-ti[1]	PN	PN.GEN	40	GEN	_	40	Ab-Simt	NNP	39	nmod:of
+a.16.1	dam	42	dam	dam[spouse]	N	N	44	ABS	_	42	dam	dam[spouse]	N	N	44	ABS	_	41	wife	NN	40	appos
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	43	ki	ki[place]	N	N.ABS	42	appos	_	?	?	?	?	?
+a.16.2	ki-ag2-ga2-ni	?	?	?	?	?	?	?	?	44	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	40	amod	_	42	his beloved	PRP$	41	nmod:poss
+a.17.1	ARAD2-zu	43+44+45	ki+ag2-ga2-ni+arad2-zu	ki[place]+ag2[measure]+arad2[slave]	N+V+N	N.ABS+NF.V.3-SG-H-POSS.ABS+N.2-SG-POSS.ABS	42+40+0	appos+amod+_	_+_+_	45	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	43	your servant	NN	40	appos

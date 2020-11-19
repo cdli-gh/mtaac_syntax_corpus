@@ -1,0 +1,16 @@
+# tr.en: txt	
+# tr.en: To Lamma her mistress for life of Amar-Suena the mighty king king of Ur Hala-Baba the wife of Ur-Lamma the scribe dedicated to her	
+a.1.1	{d}lamma	1	{d}lamma	{d}lamma[deity]	N	N	14	DAT	_	1	{d}lamma	{d}lamma[deity]	N	N	14	DAT	_	1	To Lamma	NNP	0	root
+a.2.1	nin-a-ni-ir	2	nin-a-ni-ir	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	nin-a-ni-ir	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	2	her mistress	NN	1	root
+a.3.1	nam-ti	3	nam-til3	nam-til3[life]	N	N	14	TERM	_	3	nam-til3	nam-til3[life]	N	N	14	TERM	_	3	for life	NN	2	root
+a.4.1	{d}amar-{d}suen	4	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	3	appos	_	4	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	3	appos	_	4	Amar-Suena	NNP	3	nmod:of
+a.5.1	lugal	5	lugal	lugal[king]	N	N	3	appos	_	5	lugal	lugal[king]	N	N	3	appos	_	5	the	DT	6	det
+a.5.2	kal-ga	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	mighty king	NN	3	root
+a.6.1	lugal	7	lugal	lugal[king]	N	N	5	GEN	_	7	lugal	lugal[king]	N	N	5	GEN	_	7	_	,	8	_
+a.6.2	uri5{ki}-ma-ka-sze3	?	?	?	?	?	?	?	?	8	urim5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	7	GEN	_	8	king Ur	NN	6	appos
+a.7.1	ha-la-{d}ba-ba6	8+9	urim5{ki}-ma-ka-sze3+ha-la-{d}ba-u2	urim5{ki}[1]+ha-la-{d}ba-u2[2]	SN+PN	SN.GEN.GEN.TERM+PN	7+14	GEN+ERG	_+_	9	ha-la-{d}ba-u2	ha-la-{d}ba-u2[2]	PN	PN	14	ERG	_	9	Hala-Baba	NNP	8	appos
+a.8.1	dam	10	dam	dam[spouse]	N	N	9	appos	_	10	dam	dam[spouse]	N	N	9	appos	_	10	the wife	NN	8	appos
+a.8.2	ur-{d}lamma	11	ur-{d}lamma	ur-{d}lamma[1]	PN	PN	9	appos	_	11	ur-{d}lamma	ur-{d}lamma[1]	PN	PN	9	appos	_	11	Ur-Lamma	NNP	10	nmod:of
+a.9.1	dub-sar-ke4	12	dub-sar-ke4	dub-sar[scribe]	N	N.GEN.ERG	11	GEN	_	12	dub-sar-ke4	dub-sar[scribe]	N	N.GEN.ERG	11	GEN	_	12	the scribe	NN	10	_
+a.10.1	a	13	a	a[water]	N	N.ABS	14	ABS	_	13	a	a[water]	N	N.ABS	14	ABS	_	13	_	.	6	_
+a.10.2	mu-na-ru	14	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	dedicated to her	VBN	12	acl

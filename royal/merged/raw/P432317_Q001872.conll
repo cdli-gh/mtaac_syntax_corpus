@@ -1,0 +1,11 @@
+# tr.en: txt	
+# tr.en: king of Ur and king of four world quarters hisher beloved temple he built for himher	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	8	ERG	_	1	lugal	lugal[king]	N	N	8	ERG	_	1	king	NN	0	root
+a.1'.2	uri5{ki}-ma	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	1	GEN	_	2	Ur	NN	1	nmod:of
+a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	3	_	,	1	_
+a.2'.2	ki-en-gi	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	_	_	0	_
+a.2'.3	ki-uri-ke4	5	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	4	appos	_	5	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	4	appos	_	5	and king four world quarters	CC	2	cc
+a.3'.1	e2-gal	6	e2-gal	e2-gal[palace]	N	N	8	ABS	_	6	e2-gal	e2-gal[palace]	N	N	8	ABS	_	6	hisher beloved	JJR	7	amod
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	7	ki	ki[place]	N	N.ABS	6	appos	_	?	?	?	?	?
+a.3'.2	ki-ag2-ga2-ni	7+8	ki+ag2-ga2-ni	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ABS	6+9	appos+ABS	_+_	8	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	9	ABS	_	7	temple	NN	1	appos
+a.4'.1	mu-na-du3	9	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	9	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	8	he built for himher	VBD	7	acl:relcl

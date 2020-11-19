@@ -1,0 +1,22 @@
+# tr.en: txt	
+# tr.en: of Dawa- governor of Zaul governor of Hunuri -mat governor of -laka -a military governor of -al Sabum	
+r.col7.1'.1	x	1	x	_[_]	u	_	0	_	_	1	x	_[_]	u	_	0	_	_	1	_	_	0	dep
+r.col7.1'.2	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	2	_	_	0	dep
+r.col7.1'.3	KI	2	x	_[_]	u	_	0	_	_	2	x	_[_]	u	_	0	_	_	3	of	IN	19	nmod:of
+r.col7.2'.1	da-wa-a-x	3	da-wa-a-x	da-wa-a-x[1]	PN	PN	0	_	_	3	da-wa-a-x	da-wa-a-x[1]	PN	PN	0	_	_	4	Dawa-	NN	19	compound
+r.col7.3'.1	|PA.|	4	ensi₂(|PA.TE.SI|)	ensi2[ruler]	N	N	0	_	_	4	ensi₂(|PA.TE.SI|)	ensi2[ruler]	N	N	0	_	_	5	governor	NN	20	root
+r.col7.4'.1	za-ul{ki}	5	za-ul{ki}	za-ul{ki}[1]	GN	GN	0	_	_	5	za-ul{ki}	za-ul{ki}[1]	GN	GN	0	_	_	6	of Zaul	IN	7	nmod:of
+r.col7.5'.1	x	6	x	_[_]	u	_	0	_	_	6	x	_[_]	u	_	0	_	_	7	of Zaul	NN	5	nmod:of
+r.col7.5'.2	x	7	x	_[_]	u	_	0	_	_	7	x	_[_]	u	_	0	_	_	8	_	_	0	dep
+r.col7.6'.1	|PA.|	8	ensi₂(|PA.TE.SI|)	ensi2[ruler]	N	N	0	_	_	8	ensi₂(|PA.TE.SI|)	ensi2[ruler]	N	N	0	_	_	9	governor	NN	5	appos
+r.col7.7'.1	hu-uh2-nu-ri{ki}	9	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}[1]	SN	SN.GEN	8	GEN	_	9	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}[1]	SN	SN.GEN	8	GEN	_	10	of Hunuri	NNP	9	nmod:of
+r.col7.8'.1	(x)	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	11	_	,	10	_
+r.col7.8'.2	x-ma-at	?	?	?	?	?	?	?	?	10	x-x-ma-at	x-x-ma-at[1]	PN	PN	0	_	_	12	-mat	NN	10	_
+r.col7.9'.1	|PA.|	?	?	?	?	?	?	?	?	11	ensi₂(|PA.TE.SI|)	ensi2[ruler]	N	N	0	_	_	13	governor	NN	10	appos
+r.col7.10'.1	x-x-la2-ka	?	?	?	?	?	?	?	?	12	x-x-la₂-ka	x-x-la₂-ka[1]	GN	GN.GEN	11	GEN	_	14	of -laka	NN	13	nmod:of
+r.col7.11'.1	...-x-a	10+11+12+13	x-x-ma-at+ensi₂(|PA.TE.SI|)+x-x-la₂-ka+x-x-a	x-x-ma-at[1]+ensi2[ruler]+x-x-la₂-ka[1]+x-x-a[1]	PN+N+GN+PN	PN+N+GN.GEN+PN	0+0+11+0	_+_+GEN+_	_+_+_+_	13	x-x-a	x-x-a[1]	PN	PN	0	_	_	15	_	,	5	_
+r.col7.12'.1	szagina	14	szagina	szagina[general]	N	N	0	_	_	14	szagina	szagina[general]	N	N	0	_	_	16	military governor	NN	5	appos
+r.col7.13'.1	...-al{ki}	?	?	?	?	?	?	?	?	15	x-al{ki}	x-al{ki}[1]	GN	GN	0	_	_	17	of -al	IN	18	nmod:of
+r.col7.14'.1	sa-bu-um{}	15+16	x-al{ki}+sa-bu-um{ki}	x-al{ki}[1]+sa-bu-um{ki}[1]	GN+SN	GN+SN	0+0	_+_	_+_	16	sa-bu-um{ki}	sa-bu-um{ki}[1]	SN	SN	0	_	_	18	Sabum	NNP	16	nmod:of
+?	*RETOK*-	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	19	_	NN	0	root
+?	*RETOK*-	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	20	_	,	19	_

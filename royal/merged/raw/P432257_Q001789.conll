@@ -1,0 +1,18 @@
+# tr.en: txt	
+# tr.en: in Nippur one whom Enlil nominated the constant supporter of temple of Enlil the mighty man king of Ur and king of four world quarters	
+a.1'.1	...-x	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	5	LOC	_	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	5	LOC	_	1	_	_	0	dep
+a.2'.1	nibru{ki}-a	2	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	1	appos	_	2	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	1	appos	_	2	in Nippur	NNP	17	nmod:in
+a.3'.1	{d}en-lil2-le	3	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	ERG	_	3	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	ERG	_	3	one whom Enlil	CD	2	nummod
+a.4'.1	mu	4	mu	mu[name]	N	N.ABS	5	ABS	_	4	mu	mu[name]	N	N.ABS	5	ABS	_	4	nominated	VBD	2	acl:relcl
+a.4'.2	pa3-da	5	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	5	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	5	_	,	2	_
+a.5'.1	sag-us2	6	sag-us2	sag-us2[constant]	V	NF.V	5	appos	_	6	sag-us2	sag-us2[constant]	V	NF.V	5	appos	_	6	the constant supporter	NN	17	_
+a.6'.1	e2	7	e2	e2[house]	N	N	6	GEN	_	7	e2	e2[house]	N	N	6	GEN	_	7	_	,	8	_
+a.6'.2	{d}en-lil2-ka	8	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	7	GEN	_	8	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	7	GEN	_	8	of temple of Enlil	NN	6	nmod:of
+a.7'.1	nita	9	nita	nita[male]	N	N	5	appos	_	9	nita	nita[male]	N	N	5	appos	_	9	man	NN	8	appos
+a.7'.2	kal-ga	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	10	the mighty	DT	9	det
+a.8'.1	lugal	11	lugal	lugal[king]	N	N	5	appos	_	11	lugal	lugal[king]	N	N	5	appos	_	11	king	NN	8	appos
+a.8'.2	uri5{ki}-ma	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	12	Ur	NN	11	nmod:of
+a.9'.1	lugal	13	lugal	lugal[king]	N	N	5	appos	_	13	lugal	lugal[king]	N	N	5	appos	_	13	_	,	17	_
+a.9'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	14	and king world	CC	11	cc
+a.9'.3	ub-da	14	an-ub-da	an-ub-da[quarter]	N	N	13	GEN	_	14	an-ub-da	an-ub-da[quarter]	N	N	13	GEN	_	15	_	_	0	_
+a.9'.4	limmu2-ba	15	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	14	amod	_	15	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	14	amod	_	16	four quarters	NNS	11	nmod:of

@@ -1,0 +1,25 @@
+# tr.en: txt	
+# tr.en: To Ninmar the queen of Munus-gilsa temple his mistress for life of Szulgi the mighty man king of Ur and king of four world quarters Ur-Ningirsu En-mezi-ana the ennu-priest beloved high priest of Nane dedicated to her	
+a.1.1	{d}nin-mar{ki}	1	{d}nin-mar-ki	{d}nin-mar-ki[1]	DN	DN	22	DAT	_	1	{d}nin-mar-ki	{d}nin-mar-ki[1]	DN	DN	22	DAT	_	1	To Ninmar	NNP	0	root
+a.2.1	nin	2	nin	nin[lady]	N	N	1	appos	_	2	nin	nin[lady]	N	N	1	appos	_	2	the queen	NN	1	root
+a.2.2	munus-gil-sa	3	munus-gil-sa	munus-gil-sa[1]	TN	TN.GEN	2	GEN	_	3	munus-gil-sa	munus-gil-sa[1]	TN	TN.GEN	2	GEN	_	3	Munus-gilsa temple	NN	2	nmod:of
+a.3.1	nin-a-ni	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his mistress	NN	2	appos
+a.4.1	nam-ti	5	nam-til3	nam-til3[life]	N	N	22	TERM	_	5	nam-til3	nam-til3[life]	N	N	22	TERM	_	5	for life	NN	2	nmod:for
+a.5.1	{d}szul-gi	6	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	appos	_	6	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	appos	_	6	of Szulgi	NNP	5	nmod:of
+a.6.1	nita	7	nita	nita[male]	N	N	5	appos	_	7	nita	nita[male]	N	N	5	appos	_	7	man	NN	6	appos
+a.6.2	kal-ga	8	kalag-ga	kalag[strong]	V	NF.V.SUB	7	amod	_	8	kalag-ga	kalag[strong]	V	NF.V.SUB	7	amod	_	8	the mighty	DT	7	det
+a.7.1	lugal	9	lugal	lugal[king]	N	N	5	appos	_	9	lugal	lugal[king]	N	N	5	appos	_	9	king	NN	6	appos
+a.7.2	uri5{ki}-ma	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_	10	Ur	NN	9	nmod:of
+a.8.1	lugal	11	lugal	lugal[king]	N	N	9	GEN	_	11	lugal	lugal[king]	N	N	9	GEN	_	11	_	,	13	_
+a.8.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.8.3	ub-da	12	an-ub-da	an-ub-da[quarter]	N	N	11	GEN	_	12	an-ub-da	an-ub-da[quarter]	N	N	11	GEN	_	12	and king	CC	9	cc
+a.8.4	limmu2-ba-ka-sze3	13	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	12	amod	_	13	limmu2-ba-ka-sze3	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	12	amod	_	13	four world quarters	NNS	9	nmod:of
+a.9.1	ur-{d}nin-gir2-su	14	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	22	ERG	_	14	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	22	ERG	_	14	Ur-Ningirsu	NNP	13	appos
+a.10.1	en-me-zi-an-na	?	?	?	?	?	?	?	?	15	en-me-zid-an-na	en-me-zid-an-na[1]	PN	PN	14	appos	_	15	En-mezi-ana	NN	14	appos
+a.11.1	szennux(|ME.AD.KU3|)	15+16	en-me-zid-an-na+šennuₓ(|ME.AD.KU₃|)	en-me-zid-an-na[1]+šennuₓ(|ME.AD.KU₃|)[priest]	PN+N	PN+N	14+14	appos+appos	_+_	16	šennuₓ(|ME.AD.KU₃|)	šennuₓ(|ME.AD.KU₃|)[priest]	N	N	14	appos	_	16	the ennu-priest	JJS	14	appos
+a.12.1	en	17	en	en[priest]	N	N	19	ABS	_	17	en	en[priest]	N	N	19	ABS	_	17	_	,	13	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	18	ki	ki[place]	N	N.ABS	17	appos	_	?	?	?	?	?
+a.12.2	ki-ag2	?	?	?	?	?	?	?	?	19	ag2	ag2[measure]	V	NF.V	16	amod	_	18	beloved	JJ	19	amod
+a.12.3	{d}nansze-ka	18+19+20	ki+ag2+{d}nansze-ke4	ki[place]+ag2[measure]+{d}nansze[1]	N+V+DN	N.ABS+NF.V+DN.GEN.ERG	17+16+19	appos+amod+GEN	_+_+_	20	{d}nansze-ke4	{d}nansze[1]	DN	DN.GEN.ERG	19	GEN	_	19	high priest Nane	NN	16	_
+a.13.1	a	21	a	a[water]	N	N.ABS	22	ABS	_	21	a	a[water]	N	N.ABS	22	ABS	_	20	_	.	2	_
+a.13.2	mu-na-ru	22	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	22	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	21	dedicated to her	VBN	13	acl

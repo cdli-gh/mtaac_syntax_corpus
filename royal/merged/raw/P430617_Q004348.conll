@@ -1,0 +1,15 @@
+# tr.en: txt	
+# tr.en: Szulgi powerful man king of Urim king of four quarters Ur-Szulpae child of Lugal-nirgal barber is your servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi powerful	NNP	0	root
+a.col1.2.1	...	2+3+4+5+6+7+8	nita+kalag-ga+lugal+urim5{ki}-ma+lugal+an-ub-da+limmu2-ba	nita[male]+kalag[strong]+lugal[king]+urim5{ki}[1]+lugal[king]+an-ub-da[quarter]+limmu2[four]	N+V+N+SN+N+N+NU	N+NF.V.SUB+N+SN.GEN+N+N+NF.V.3-SG-NH-POSS.GEN.ABS	1+2+1+4+1+6+7	appos+amod+appos+GEN+appos+GEN+amod	_+_+_+_+_+_+_	2	nita	nita[male]	N	N	1	appos	_	2	Szulgi powerful	JJ	5	dep
+?	*RETOK*-kalag-ga	?	?	?	?	?	?	?	?	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	?	?	?	?	?
+?	*RETOK*-lugal	?	?	?	?	?	?	?	?	4	lugal	lugal[king]	N	N	1	appos	_	?	?	?	?	?
+?	*RETOK*-urim5{ki}-ma	?	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	?	?	?	?	?
+?	*RETOK*-lugal	?	?	?	?	?	?	?	?	6	lugal	lugal[king]	N	N	1	appos	_	?	?	?	?	?
+?	*RETOK*-an-ub-da	?	?	?	?	?	?	?	?	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	?	?	?	?	?
+?	*RETOK*-limmu2-ba	?	?	?	?	?	?	?	?	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	?	?	?	?	?
+a.col2.1.1	ur-{d}szul-pa-e3	9	ur-{d}szul-pa-e3	ur-{d}szul-pa-e3[5]	PN	PN	0	_	_	9	ur-{d}szul-pa-e3	ur-{d}szul-pa-e3[5]	PN	PN	0	_	_	3	quarters Ur-Szulpae	NNS	1	nmod:of
+a.col2.2.1	dumu	10	dumu	dumu[child]	N	N	9	appos	_	10	dumu	dumu[child]	N	N	9	appos	_	4	child	NN	1	appos
+a.col2.2.2	lugal-nir-gal2	11	lugal-nir-gal2	lugal-nir-gal2[1]	PN	PN	9	appos	_	11	lugal-nir-gal2	lugal-nir-gal2[1]	PN	PN	9	appos	_	5	Lugal-nirgal barber man king Urim king four	NN	1	appos
+a.col2.3.1	...	12+13	szu-i+arad2-zu	szu-i[barber]+arad2[slave]	N+N	N.GEN.ABS+N.2-SG-POSS.ABS	11+0	GEN+_	_+_	12	szu-i	szu-i[barber]	N	N.GEN.ABS	11	GEN	_	6	Lugal-nirgal barber man king Urim king four	NN	1	appos
+?	*RETOK*-arad2-zu	?	?	?	?	?	?	?	?	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_		?	?	?	?

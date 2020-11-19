@@ -1,0 +1,16 @@
+# tr.en: txt	
+# tr.en: Szulgi the mighty man king of Ur and king of Sumer and Akkad the Mountain House his beloved house he built	
+a.1.1	szul-gi	1	szul-gi	szul-gi[1]	RN	RN	13	ERG	_	1	szul-gi	szul-gi[1]	RN	RN	13	ERG	_	1	Szulgi	NNP	0	root
+a.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	the mighty	DT	2	det
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	,	1	_
+a.4.2	ki-en-gi	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	_	_	0	_
+a.4.3	ki-uri-ke4	8+9	ki-uri-ke4+e2-hur-sag	ki-uri[1]+e2-hur-sag[1]	GN+TN	GN.GEN.ERG+TN	7+13	appos+ABS	_+_	8	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	7	appos	_	8	and king Sumer and Akkad	CC	4	cc
+?	*RETOK*-e2-hur-sag	?	?	?	?	?	?	?	?	9	e2-hur-sag	e2-hur-sag[1]	TN	TN	13	ABS	_	?	?	?	?	?
+a.5.1	e2	10	e2	e2[house]	N	N	12	ABS	_	10	e2	e2[house]	N	N	12	ABS	_	9	the	DT	10	det
+a.5.2	hur-sag	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	10	Mountain House	NNP	1	appos
+a.6.1	e2	?	?	?	?	?	?	?	?	11	ki	ki[place]	N	N.ABS	10	appos	_	11	_	,	1	_
+a.6.2	ki-ag2-ga2-ni	11+12	ki+ag2-ga2-ni	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ABS	10+9	appos+amod	_+_	12	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	9	amod	_	12	his beloved house	NN	1	appos
+a.7.1	mu-du3	13	mu-du3	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_	13	mu-du3	du3[build]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_	13	he built	VBD	1	acl:relcl

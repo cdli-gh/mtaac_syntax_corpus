@@ -1,0 +1,17 @@
+# tr.en: txt	
+# tr.en: Szulgi mighty man king of Ur king of four quarters Szulgi-simtum his travelling companion Ma-gula the vizier your servant	
+a.col1.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi	NNP	0	root
+a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	mighty	JJ	2	amod
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	:	1	_
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	7	amod	_	8	four quarters	NNS	6	nmod:of
+a.col2.1.1	{d}szul-gi-si-im-tum	9	{d}szul-gi-si2-im-tum	{d}szul-gi-si2-im-tum[1]	PN	PN	6	appos	_	9	{d}szul-gi-si2-im-tum	{d}szul-gi-si2-im-tum[1]	PN	PN	6	appos	_	9	Szulgi-simtum	NN	1	_
+a.col2.2.1	lukur	10	lukur	lukur[priestess]	N	N	6	appos	_	10	lukur	lukur[priestess]	N	N	6	appos	_	10	_	:	11	_
+a.col2.2.2	kaskal-la-ka-ni-ir	11	kaskal-la-ka-ni	kaskal[way]	N	N.GEN.3-SG-H-POSS.ABS	6	appos	_	11	kaskal-la-ka-ni	kaskal[way]	N	N.GEN.3-SG-H-POSS.ABS	6	appos	_	11	his travelling companion	NN	9	dobj
+a.col2.3.1	masz-gu-la	12	masz-gu-la	masz-gu-la[1]	PN	PN	0	_	_	12	masz-gu-la	masz-gu-la[1]	PN	PN	0	_	_	12	Ma-gula	NN	11	_
+a.col2.4.1	sukkal	13	sukkal	sukkal[secretary]	N	N.ABS	12	appos	_	13	sukkal	sukkal[secretary]	N	N.ABS	12	appos	_	13	the vizier	NN	12	appos
+a.col2.4.2	ARAD2-zu	14	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	your servant	NN	12	appos

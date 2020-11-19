@@ -1,0 +1,11 @@
+# tr.en: txt	
+# tr.en: ruler of Laga built his E-dura	
+o.1.1	...-x-x	1+2+3	x+x+x	_[_]+_[_]+_[_]	u+u+u	_+_+_	0+0+0	_+_+_	_+_+_	1	x	_[_]	u	_	0	_	_	1	ruler	NN	7	appos
+?	*RETOK*-x	?	?	?	?	?	?	?	?	2	x	_[_]	u	_	0	_	_	?	?	?	?	?
+?	*RETOK*-x	?	?	?	?	?	?	?	?	3	x	_[_]	u	_	0	_	_	?	?	?	?	?
+o.2.1	ensi2	4	ensi2	ensi2[ruler]	N	N	7	ERG	_	4	ensi2	ensi2[ruler]	N	N	7	ERG	_	2	_	.	7	_
+o.3.1	lagasz{ki}-ke4	5	lagasz{ki}-ke4	lagasz{ki}[1]	SN	SN.GEN.ERG	4	GEN	_	5	lagasz{ki}-ke4	lagasz{ki}[1]	SN	SN.GEN.ERG	4	GEN	_	3	Laga	NNP	1	nmod:of
+r.1.1	e2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	4	_	_	0	_
+r.1.2	ansze	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	_	_	0	_
+r.1.3	dur9{ur3}-ka-ni	6	e2-{ansze}du24-ur3-ka-ni	e2-{ansze}du24-ur3[1]	TN	TN.3-SG-H-POSS.ABS	7	ABS	_	6	e2-{ansze}du24-ur3-ka-ni	e2-{ansze}du24-ur3[1]	TN	TN.3-SG-H-POSS.ABS	7	ABS	_	6	his E-dura	NN	7	dobj
+r.2.1	mu-na-du3	7	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	7	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	7	built	VBD	0	root

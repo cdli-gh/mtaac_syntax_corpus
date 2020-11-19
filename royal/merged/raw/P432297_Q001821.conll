@@ -1,0 +1,12 @@
+# tr.en: txt	
+# tr.en: then king whom Enlil as beloved in heart did choose the strong king king of Ur	
+a.1'.1	lugal	1	lugal	lugal[king]	N	N	4	ERG	_	1	lugal	lugal[king]	N	N	4	ERG	_	1	_	_	0	_
+a.1'.2	{d}en-lil2-le	2	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	1	appos	_	2	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	1	appos	_	2	then king whom Enlil	NN	0	root
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	3	ki	ki[place]	N	N.ABS	4	ABS	_	?	?	?	?	?
+a.2'.1	ki-ag2	?	?	?	?	?	?	?	?	4	ag2	ag2[measure]	V	NF.V	6	LOC	_	3	as beloved	JJ	5	acl
+a.2'.2	sza3-ga-na	?	?	?	?	?	?	?	?	5	szag4-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	4	appos	_	4	in heart	NN	3	nmod:in
+a.3'.1	in-pa3	3+4+5+6	ki+ag2+szag4-ga-na+in-pad3	ki[place]+ag2[measure]+szag4[heart]+pad3[find]	N+V+N+V	N.ABS+NF.V+N.3-SG-H-POSS.L1+FIN.3-SG-H-A.V.3-SG-P	4+6+4+0	ABS+LOC+appos+_	_+_+_+_	6	in-pad3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_	5	did choose	VB	2	acl:relcl
+a.4'.1	lugal	7	lugal	lugal[king]	N	N	0	_	_	7	lugal	lugal[king]	N	N	0	_	_	6	the	DT	7	det
+a.4'.2	kal-ga	8	kalag-ga	kalag[strong]	V	NF.V.SUB	7	amod	_	8	kalag-ga	kalag[strong]	V	NF.V.SUB	7	amod	_	7	strong king	NN	2	root
+a.5'.1	lugal	9	lugal	lugal[king]	N	N	7	appos	_	9	lugal	lugal[king]	N	N	7	appos	_	8	king	NN	7	appos
+a.5'.2	uri5{ki}-ma	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	9	GEN	_	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	9	GEN	_	9	Ur	NN	8	nmod:of

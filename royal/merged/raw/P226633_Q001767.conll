@@ -1,0 +1,24 @@
+			# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW				# tr.en: txt	
+# tr.en: For Meslamtaea the king who is right arm of Laga for life of Szulgi the king of Ur Kilula chair-bearer son of Ur-Bagara fashioned for him This seal My King By His Excellent Intelligence May I Live is its name	
+a.1.1	{d}mes-lam-ta-e3-a	?	?	1	For Meslamtaea	NNP	16	nmod:for
+a.2.1	lugal	?	?	2	_	_	0	_
+a.2.2	a2	?	?	3	_	_	0	_
+a.2.3	zi-da	?	?	4	the king who is right arm	NN	16	nsubj
+a.3.1	lagasz{ki}-ke4	?	?	5	of Laga	NNP	4	nmod:of
+a.4.1	nam-ti-il	?	?	6	for life	NN	4	nmod:for
+a.5.1	{d}szul-gi	?	?	7	of Szulgi	NNP	6	nmod:of
+a.5.2	nita	?	?	8	_	,	4	_
+a.5.3	kal-ga	?	?	9	_	_	0	_
+a.6.1	lugal	?	?	10	the	DT	11	det
+a.6.2	uri5{ki}-ma-ka-sze3	?	?	11	king Ur	NN	4	appos
+a.7.1	ki-lu5-la	?	?	12	Kilula	NNP	13	compound
+a.7.2	gu-za-la2	?	?	13	chair-bearer	NN	4	appos
+a.8.1	dumu	?	?	14	son	NN	4	appos
+a.8.2	ur-ba-gara2-ke4	?	?	15	of Ur-Bagara	NNP	14	nmod:of
+a.9.1	mu-na-dim2	?	?	16	fashioned for	VBN	0	root
+a.9.2	kiszib3-ba	?	?	17	him This seal	PRP	16	nmod:for
+a.10.1	lugal-mu	?	?	18	My	PRP$	19	nmod:poss
+a.10.2	gesztu3	?	?	19	King By	NNP	22	nsubj
+a.10.3	nig2-sa6-ga-ka-ni	?	?	20	His Excellent Intelligence	PRP$	21	nmod:poss
+a.11.1	ga-an-ti-il	?	?	21	May I Live	NNP	19	nmod:by
+a.12.1	mu-bi	?	?	22	is its name	NN	16	parataxis

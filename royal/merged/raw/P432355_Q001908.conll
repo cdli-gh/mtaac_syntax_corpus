@@ -1,0 +1,13 @@
+# tr.en: txt	
+# tr.en: For the strong king of Ur x-agazi	
+.1'.1	...	?	?	?	?	?	?	?	?	1	nita	nita[male]	N	N	0	_	_	1	_	_	0	dep
+.2'.1	x	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	2	For	IN	11	dep
+?	*RETOK*-	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	3	_	NN	12	root
+.2'.2	kal-ga	1+2	nita+kalag-ga	nita[male]+kalag[strong]	N+V	N+NF.V.SUB	0+1	_+amod	_+_	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	4	the strong	DT	3	det
+.3'.1	lugal	3	lugal	lugal[king]	N	N	1	GEN	_	3	lugal	lugal[king]	N	N	1	GEN	_	5	_	,	6	_
+.3'.2	uri5{ki}-ma-ka-sze3	4+5	urim5{ki}-ma-ka-sze3+x-aga3-zid	urim5{ki}[1]+x-aga3-zid[1]	SN+PN	SN.GEN.GEN.TERM+PN	3+0	GEN+_	_+_	4	urim5{ki}-ma-ka-sze3	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	3	GEN	_	6	king Ur	NN	3	appos
+?	*RETOK*-x-aga3-zid	?	?	?	?	?	?	?	?	5	x-aga3-zid	x-aga3-zid[1]	PN	PN	0	_	_	?	?	?	?	?
+.4'.1	x	6	x	_[_]	u	_	0	_	_	6	x	_[_]	u	_	0	_	_	7	_	NN	6	dep
+.4'.2	aga3-zi	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	8	x-agazi	NN	6	conj
+.5'.1	...	?	?	?	?	?	?	?	?	7	SAR	_[_]	u	_	0	_	_	9	_	_	0	dep
+.5'.2	sar	7	SAR	_[_]	u	_	0	_	_	?	?	?	?	?	?	?	?	10	_	_	0	_

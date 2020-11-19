@@ -1,0 +1,15 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: For Ninhursag of Susa his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad her temple he built for her	
+a.1.1	{d}nin-hur-sag	1	{d}nin-hur-sag	{d}nin-hur-sag[1]	DN	DN	13	DAT	_	1	{d}nin-hur-sag	{d}nin-hur-sag[1]	DN	DN	13	DAT	_	1	For Ninhursag	NN	0	root
+a.2.1	szuszin{ki}-na	2	szuszin{ki}-na	szuszin{ki}[Susa]	SN	SN.GEN	1	GEN	_	2	szuszin{ki}-na	szuszin{ki}[Susa]	SN	SN.GEN	1	GEN	_	2	of Susa	NNP	1	nmod:of
+a.3.1	nin-a-ni	3	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	3	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	3	his mistress	NN	1	root
+a.4.1	{d}szul-gi	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	13	ERG	_	4	{d}szul-gi	{d}szul-gi[1]	RN	RN	13	ERG	_	4	Szulgi	NN	3	appos
+a.5.1	nita	5	nita	nita[male]	N	N	4	appos	_	5	nita	nita[male]	N	N	4	appos	_	5	man	NN	3	appos
+a.5.2	kal-ga	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	kalag-ga	kalag[strong]	V	NF.V.SUB	5	amod	_	6	the mighty	DT	5	det
+a.6.1	lugal	7	lugal	lugal[king]	N	N	4	appos	_	7	lugal	lugal[king]	N	N	4	appos	_	7	king	NN	3	appos
+a.6.2	uri5{ki}-ma	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	8	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	7	GEN	_	8	Ur	NN	7	nmod:of
+a.7.1	lugal	9	lugal	lugal[king]	N	N	4	appos	_	9	lugal	lugal[king]	N	N	4	appos	_	9	_	,	3	_
+a.7.2	ki-en-gi	10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_	10	ki-en-gi	ki-en-gi[1]	GN	GN	9	GEN	_	10	_	_	0	_
+a.7.3	ki-uri-ke4	11	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	10	appos	_	11	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	10	appos	_	11	and king Sumer and Akkad	CC	7	cc
+a.8.1	e2-a-ni	12	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	13	ABS	_	12	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	13	ABS	_	12	her temple	NN	3	appos
+a.9.1	mu-na-du3	13	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	13	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	13	he built for her	VBD	12	acl:relcl

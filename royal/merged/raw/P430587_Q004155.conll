@@ -1,0 +1,12 @@
+# tr.en: txt	
+# tr.en: Amar-Suena powerful king king of Urim Ur-Nintur scribe child of Duga is your servant	
+a.1.1	{d}amar-{d}suen	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	1	Amar-Suena powerful	NNP	0	root
+a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	1	_
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	0	_
+a.3.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	king	NN	1	appos
+a.4.1	ur-{d}nin-tu	5+6	urim5{ki}-ma+ur-{d}nin-tur5	urim5{ki}[1]+ur-{d}nin-tur5[1]	SN+PN	SN.GEN+PN	4+4	GEN+appos	_+_	6	ur-{d}nin-tur5	ur-{d}nin-tur5[1]	PN	PN	4	appos	_	6	Urim Ur-Nintur	NNP	5	nmod:of
+a.5.1	dub-sar	7	dub-sar	dub-sar[scribe]	N	N	4	appos	_	7	dub-sar	dub-sar[scribe]	N	N	4	appos	_	7	scribe	NN	8	appos
+a.6.1	dumu	8	dumu	dumu[child]	N	N	4	GEN	_	8	dumu	dumu[child]	N	N	4	GEN	_	8	child	NN	10	nsubj
+a.6.2	du11-ga	?	?	?	?	?	?	?	?	9	dug4-ga	dug4-ga[1]	PN	PN.GEN.ABS	8	appos	_	9	Duga	NNP	8	nmod:of
+a.7.1	ARAD2-zu	9+10	dug4-ga+arad2-zu	dug4-ga[1]+arad2[slave]	PN+N	PN.GEN.ABS+N.2-SG-POSS.ABS	8+0	appos+_	_+_	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	10	is your servant	NN	1	_

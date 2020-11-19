@@ -1,0 +1,15 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Szulgi the mighty man king of Ur and king of Sumer and Akkad for Inuinak his temple he built for him and restored to its previous condition for him	
+a.1.1	szul-gi	1	szul-gi	szul-gi[1]	RN	RN	11	ERG	_	1	szul-gi	szul-gi[1]	RN	RN	11	ERG	_	1	Szulgi	NNP	0	root
+a.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	the mighty	DT	2	det
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	and king	CC	4	cc
+a.4.2	ki-en-gi	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	ki-en-gi	ki-en-gi[1]	GN	GN	6	GEN	_	7	Sumer	NNP	4	nmod:of
+a.4.3	ki-uri-ke4	8	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	7	appos	_	8	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	7	appos	_	8	and Akkad	CC	7	cc
+a.5.1	{d}nin-szuszin{ki}-ra	9	{d}in5-szuszin{ki}-ra	{d}in5-szuszin{ki}[1]	DN	DN.DAT-H	11	DAT	_	9	{d}in5-szuszin{ki}-ra	{d}in5-szuszin{ki}[1]	DN	DN.DAT-H	11	DAT	_	9	for Inuinak	NNP	1	nmod:for
+a.6.1	e2-a-ni	10	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	11	ABS	_	10	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	11	ABS	_	10	his temple	NN	1	appos
+a.7.1	mu-na-du3	11	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	11	he built for him	VBD	10	acl:relcl
+a.8.1	ki-be2	12	ki-be2	ki[place]	N	N.3-SG-NH-POSS.L3-NH	13	LOC	_	12	ki-be2	ki[place]	N	N.3-SG-NH-POSS.L3-NH	13	LOC	_	12	to its previous condition	NN	1	nmod:to
+a.8.2	mu-na-gi4	13	mu-na-gi4	gi4[turn]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	13	mu-na-gi4	gi4[turn]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	13	and restored for him	CC	1	cc

@@ -1,0 +1,27 @@
+# tr.en: txt	
+# tr.en: Amar-Suena king of Ur and king of four world quarters of Suen To Taddin-Itar his beloved daughter he presented it	
+a.1'.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	_	_	0	dep
+a.1'.2	x	1+2	x+x	_[_]+_[_]	u+u	_+_	0+0	_+_	_+_	1	x	_[_]	u	_	0	_	_	2	_	_	0	dep
+?	*RETOK*-x	?	?	?	?	?	?	?	?	2	x	_[_]	u	_	0	_	_	?	?	?	?	?
+a.2'.1	{d}amar-{d}suen	3	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	3	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	3	Amar-Suena	NNP	0	root
+a.3'.1	lugal	4	lugal	lugal[king]	N	N	3	appos	_	4	lugal	lugal[king]	N	N	3	appos	_	4	king	NN	3	conj
+a.3'.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.4'.1	lugal	6	lugal	lugal[king]	N	N	3	appos	_	6	lugal	lugal[king]	N	N	3	appos	_	6	_	_	0	_
+a.4'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.4'.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	and king	CC	3	cc
+a.4'.4	limmu2-ba-ke4	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	7	amod	_	8	four world quarters	CD	3	nummod
+a.5'.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	four world quarters	NN	3	dep
+a.6'.1	{d}suen-na	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	10	of Suen	IN	11	nmod:of
+a.7'.1	x	9	x	_[_]	u	_	0	_	_	9	x	_[_]	u	_	0	_	_	11	of Suen	NNP	6	nmod:of
+a.7'.2	x	10+11+12	x+|EN.DIM₂.KI|+ki	_[_]+_[_]+ki[place]	u+X+N	_+_+N	0+0+0	_+_+_	_+_+_	10	x	_[_]	u	_	0	_	_	12	_	_	0	dep
+?	*RETOK*-|EN.DIM₂.KI|	?	?	?	?	?	?	?	?	11	|EN.DIM₂.KI|	_[_]	X	_	0	_	_	?	?	?	?	?
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	12	ki	ki[place]	N	N	0	_	_	?	?	?	?	?
+a.7'.3	x	13+14	x+GIŠ	_[_]+_[_]	u+u	_+_	0+0	_+_	_+_	13	x	_[_]	u	_	0	_	_	13	_	_	0	dep
+?	*RETOK*-GIŠ	?	?	?	?	?	?	?	?	14	GIŠ	_[_]	u	_	0	_	_	?	?	?	?	?
+a.7'.4	x	15	x	_[_]	u	_	0	_	_	15	x	_[_]	u	_	0	_	_	14	_	_	0	dep
+a.7'.5	x	16	x	_[_]	u	_	0	_	_	16	x	_[_]	u	_	0	_	_	15	_	_	0	dep
+a.8'.1	ta2-di3-in-{d}inanna	17	ta₂-di₃-in-{d}INANA	ta₂-di₃-in-{d}INANA[1]	PN	PN	21	DAT	_	17	ta₂-di₃-in-{d}INANA	ta₂-di₃-in-{d}INANA[1]	PN	PN	21	DAT	_	16	To Taddin-Itar	NNP	20	nmod:to
+a.9'.1	dumu	18	dumu	dumu[child]	N	N	20	ABS	_	18	dumu	dumu[child]	N	N	20	ABS	_	17	_	,	16	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	19	ki	ki[place]	N	N.ABS	18	appos	_	?	?	?	?	?
+a.9'.2	ki-ag2-ga2-ni-ir	19+20	ki+ag2-ga2-ni-ir	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.DAT-H	18+17	appos+amod	_+_	20	ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-H-POSS.DAT-H	17	amod	_	18	his beloved daughter	NN	16	appos
+a.10'.1	in-na-ba	21	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	21	in-na-ba	ba[allot]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	19	he presented it	VBD	11	acl:relcl

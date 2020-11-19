@@ -1,0 +1,38 @@
+# tr.en: txt	
+# tr.en: For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her	
+a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN	15	DAT	_	1	{d}inana	{d}inana[1]	DN	DN	15	DAT	_	1	For Inanna	NNP	0	root
+a.2.1	nin	2	nin	nin[lady]	N	N	1	appos	_	2	nin	nin[lady]	N	N	1	appos	_	2	the queen	NN	1	root
+a.2.2	e2-an-na	3	e2-an-na	e2-an-na[1]	TN	TN.GEN	2	GEN	_	3	e2-an-na	e2-an-na[1]	TN	TN.GEN	2	GEN	_	3	Eanna temple	NN	2	nmod:of
+a.3.1	nin-a-ni	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	nin-a-ni	nin[lady]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his mistress	NN	2	conj
+a.4.1	szul-gi	5	szul-gi	szul-gi[1]	RN	RN	15	ERG	_	5	szul-gi	szul-gi[1]	RN	RN	15	ERG	_	5	Szulgi	NN	2	conj
+a.5.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	6	man	NN	2	appos
+a.5.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	the mighty	DT	6	det
+a.6.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	8	king	NN	2	appos
+a.6.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	Ur	NN	8	nmod:of
+a.7.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	10	_	,	2	_
+a.7.2	ki-en-gi	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	_	_	0	_
+a.7.3	ki-uri-ke4	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	and king Sumer and Akkad	CC	8	cc
+a.8.1	e2-an-na	13	e2-an-na	e2-an-na[1]	TN	TN.ABS	15	ABS	_	13	e2-an-na	e2-an-na[1]	TN	TN.ABS	15	ABS	_	13	the Eanna	NNP	2	appos
+a.9.1	ki-be2	14	ki-be2	ki[place]	N	N.3-SG-NH-POSS.L3-NH	15	LOC	_	14	ki-be2	ki[place]	N	N.3-SG-NH-POSS.L3-NH	15	LOC	_	14	_	,	2	_
+a.9.2	mu-na-gi4	15	mu-na-gi4	gi4[turn]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	mu-na-gi4	gi4[turn]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	15	he restored for her	VBD	13	acl:relcl
+a.10.1	bad3	16	bad3	bad3[wall]	N	N	18	ABS	_	16	bad3	bad3[wall]	N	N	18	ABS	_	16	_	_	0	_
+a.10.2	gal-bi	17	gal-bi	gal[big]	V	NF.V.3-SG-NH-POSS.ABS	16	amod	_	17	gal-bi	gal[big]	V	NF.V.3-SG-NH-POSS.ABS	16	amod	_	17	and its great wall	CC	2	cc
+a.11.1	mu-na-du3	18	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	18	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	18	he built for her	VBD	2	acl:relcl
+b.1.1	{d}inanna	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	19	For Inanna	NNP	2	nmod:for
+b.2.1	nin	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	20	the queen	NN	19	appos
+b.2.2	e2-an-na	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	21	Eanna temple	NN	20	nmod:of
+b.3.1	nin-a-ni	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	22	his mistress	NN	19	appos
+b.4.1	szul-gi	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	23	Szulgi	NN	19	appos
+b.5.1	nita	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	24	man	NN	19	appos
+b.5.2	kal-ga	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	25	the mighty	DT	24	det
+b.6.1	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	26	king	NN	19	conj
+b.6.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	27	Ur	NN	26	nmod:of
+b.7.1	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	28	_	,	19	_
+b.7.2	ki-en-gi	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	29	_	_	0	_
+b.7.3	ki-uri-ke4	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	30	and king Sumer and Akkad	CC	19	cc
+b.8.1	e2-an-na	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	31	the Eanna	NNP	28	root
+b.9.1	ki-be2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	32	_	,	31	_
+b.9.2	mu-na-gi4	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	33	he restored for her	VBD	31	acl:relcl
+b.10.1	bad3	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	34	_	_	0	_
+b.10.2	gal-bi	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	35	and its great wall	CC	31	cc
+b.11.1	mu-na-du3	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	36	he built for her	VBD	31	acl:relcl

@@ -1,0 +1,24 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: the one nominated by him the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters the Etemeniguru his beloved temple in Ur he built for him	
+a.1'.1	mu	1	mu	mu[name]	N	N.ABS	2	ABS	_	1	mu	mu[name]	N	N.ABS	2	ABS	_	1	the one	CD	0	root
+a.1'.2	pa3-da	2	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	2	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	2	nominated by him	VBN	1	acl
+a.2'.1	sag-us2	3	sag-us2	sag-us2[constant]	V	NF.V	0	_	_	3	sag-us2	sag-us2[constant]	V	NF.V	0	_	_	3	the constant supporter	NN	1	appos
+a.3'.1	e2	4	e2	e2[house]	N	N	3	GEN	_	4	e2	e2[house]	N	N	3	GEN	_	4	_	,	5	_
+a.3'.2	{d}en-lil2-ka	5+6+7	{d}en-lil2-ka+x+kalag-ga	{d}en-lil2[1]+_[_]+kalag[strong]	DN+u+V	DN.GEN.GEN+_+NF.V.SUB	4+0+18	GEN+_+ERG	_+_+_	5	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	4	GEN	_	5	of temple of Enlil	NN	3	nmod:of
+?	*RETOK*-x	?	?	?	?	?	?	?	?	6	x	_[_]	u	_	0	_	_	?	?	?	?	?
+?	*RETOK*-kalag-ga	?	?	?	?	?	?	?	?	7	kalag-ga	kalag[strong]	V	NF.V.SUB	18	ERG	_	?	?	?	?	?
+a.4'.1	lugal	8	lugal	lugal[king]	N	N	7	appos	_	8	lugal	lugal[king]	N	N	7	appos	_	6	the	DT	7	det
+a.4'.2	kal-ga	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	7	mighty king	NN	5	appos
+a.5'.1	lugal	10	lugal	lugal[king]	N	N	7	appos	_	10	lugal	lugal[king]	N	N	7	appos	_	8	king	NN	5	conj
+a.5'.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	Ur	NN	8	nmod:of
+a.6'.1	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	10	_	,	1	_
+a.6'.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.6'.3	ub-da	11	an-ub-da	an-ub-da[quarter]	N	N	10	GEN	_	11	an-ub-da	an-ub-da[quarter]	N	N	10	GEN	_	11	and king	CC	5	cc
+a.6'.4	limmu2-ba-ke4	12+13	limmu2-ba-ke4+e2-temen-ni2-guru3	limmu2[four]+e2-temen-ni2-guru3[1]	NU+TN	NF.V.3-SG-NH-POSS.GEN.ERG+TN	11+18	amod+ABS	_+_	12	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	11	amod	_	12	four world quarters	NNS	5	nmod:of
+?	*RETOK*-e2-temen-ni2-guru3	?	?	?	?	?	?	?	?	13	e2-temen-ni2-guru3	e2-temen-ni2-guru3[1]	TN	TN	18	ABS	_	?	?	?	?	?
+a.7'.1	e2	14	e2	e2[house]	N	N	16	ABS	_	14	e2	e2[house]	N	N	16	ABS	_	13	_	,	1	_
+a.7'.2	temen-ni2-gur3	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	14	the Etemeniguru	NNP	1	appos
+a.8'.1	e2	?	?	?	?	?	?	?	?	15	ki	ki[place]	N	N.ABS	14	appos	_	15	_	_	0	_
+a.8'.2	ki-ag2-ga2-ni	?	?	?	?	?	?	?	?	16	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	13	amod	_	16	his beloved temple	NN	1	appos
+a.9'.1	uri5{ki}-ma	15+16+17	ki+ag2-ga2-ni+urim5{ki}-ma	ki[place]+ag2[measure]+urim5{ki}[1]	N+V+SN	N.ABS+NF.V.3-SG-H-POSS.ABS+SN.L1	14+13+18	appos+amod+LOC	_+_+_	17	urim5{ki}-ma	urim5{ki}[1]	SN	SN.L1	18	LOC	_	17	in Ur	NNP	16	nmod:in
+a.10'.1	mu-na-du3	18	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	18	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	18	he built for him	VBD	1	acl:relcl

@@ -1,0 +1,9 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Ur-Ningirsu Enmeziana the ennu-priest and beloved en-priest of Nane	
+a.1.1	ur-{d}nin-gir2-su	1	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	0	_	_	1	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su[3]	PN	PN	0	_	_	1	Ur-Ningirsu	NNP	0	root
+a.2.1	en-me-zi-an-na	?	?	?	?	?	?	?	?	2	en-me-zid-an-na	en-me-zid-an-na[1]	PN	PN	1	appos	_	2	Enmeziana	NNP	1	appos
+a.3.1	szennux(|ME.AD.KU3|)	2+3	en-me-zid-an-na+šennuₓ(|ME.AD.KU₃|)	en-me-zid-an-na[1]+šennuₓ(|ME.AD.KU₃|)[priest]	PN+N	PN+N	1+1	appos+appos	_+_	3	šennuₓ(|ME.AD.KU₃|)	šennuₓ(|ME.AD.KU₃|)[priest]	N	N	1	appos	_	3	the ennu-priest	NN	1	appos
+a.4.1	en	4	en	en[priest]	N	N	6	ABS	_	4	en	en[priest]	N	N	6	ABS	_	4	and	CC	3	cc
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	5	ki	ki[place]	N	N.ABS	4	appos	_	?	?	?	?	?
+a.4.2	ki-ag2	5+6	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	4+3	appos+amod	_+_	6	ag2	ag2[measure]	V	NF.V	3	amod	_	5	beloved	JJ	6	amod
+a.4.3	{d}nansze	7	{d}nansze	{d}nansze[1]	DN	DN.GEN.ABS	6	GEN	_	7	{d}nansze	{d}nansze[1]	DN	DN.GEN.ABS	6	GEN	_	6	en-priest Nane	NN	3	conj

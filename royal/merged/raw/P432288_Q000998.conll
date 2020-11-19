@@ -1,0 +1,31 @@
+										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
+# tr.en: Sz-Sin the beloved of Enlil the king whom Enlil as beloved in his heart did choose the strong king king of Ur and king of four world quarters his god Lugalmagure the overseer of guard governor of Ur his servant his beloved temple he built for him	
+a.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	3	ABS	_	1	_	,	26	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	2	ki	ki[place]	N	N.ABS	1	appos	_	?	?	?	?	?
+a.2.1	ki-ag2	2+3	ki+ag2	ki[place]+ag2[measure]	N+V	N.ABS+NF.V	1+8	appos+ERG	_+_	3	ag2	ag2[measure]	V	NF.V	8	ERG	_	2	the beloved	JJ	26	appos
+a.2.2	{d}en-lil2-la2	4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	3	GEN	_	4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	3	GEN	_	3	of Enlil	NNP	2	nmod:of
+a.3.1	lugal	5	lugal	lugal[king]	N	N	3	appos	_	5	lugal	lugal[king]	N	N	3	appos	_	4	_	_	0	_
+a.3.2	{d}en-lil2-le	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_	6	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	appos	_	5	the king whom Enlil	NN	26	appos
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	7	ki	ki[place]	N	N.ABS	8	ABS	_	?	?	?	?	?
+a.4.1	ki-ag2	?	?	?	?	?	?	?	?	8	ag2	ag2[measure]	V	NF.V	10	LOC	_	6	as beloved	JJ	8	nmod:as
+a.4.2	sza3-ga-na	?	?	?	?	?	?	?	?	9	szag4-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	8	appos	_	7	in his heart	NN	6	nmod:in
+a.5.1	in-pa3	7+8+9+10	ki+ag2+szag4-ga-na+in-pad3	ki[place]+ag2[measure]+szag4[heart]+pad3[find]	N+V+N+V	N.ABS+NF.V+N.3-SG-H-POSS.L1+FIN.3-SG-H-A.V.3-SG-P	8+10+8+0	ABS+LOC+appos+_	_+_+_+_	10	in-pad3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	_	8	did choose	VB	5	acl:relcl
+a.6.1	lugal	11	lugal	lugal[king]	N	N	27	DAT	_	11	lugal	lugal[king]	N	N	27	DAT	_	9	the	DT	10	det
+a.6.2	kal-ga	12	kalag-ga	kalag[strong]	V	NF.V.SUB	11	amod	_	12	kalag-ga	kalag[strong]	V	NF.V.SUB	11	amod	_	10	strong king	NN	26	appos
+a.7.1	lugal	13	lugal	lugal[king]	N	N	11	appos	_	13	lugal	lugal[king]	N	N	11	appos	_	11	king	NN	26	appos
+a.7.2	uri5{ki}-ma	14	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_	14	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	13	GEN	_	12	Ur	NN	11	nmod:of
+a.8.1	lugal	15	lugal	lugal[king]	N	N	11	appos	_	15	lugal	lugal[king]	N	N	11	appos	_	13	_	,	26	_
+a.8.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.8.3	ub-da	16	an-ub-da	an-ub-da[quarter]	N	N	15	GEN	_	16	an-ub-da	an-ub-da[quarter]	N	N	15	GEN	_	14	and king world	CC	11	cc
+a.8.4	limmu2-ba	17	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	16	amod	_	17	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	16	amod	_	15	four quarters	NNS	11	nmod:of
+a.9.1	dingir-ra-ni-ir	18	digir-ra-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	15	appos	_	18	digir-ra-ni-ir	digir[deity]	N	N.3-SG-H-POSS.DAT-H	15	appos	_	16	his god	NN	26	appos
+a.10.1	lugal-ma2-gur8-re	19	lugal-ma2-gur8-re	lugal-ma2-gur8-re[2]	PN	PN	27	ERG	_	19	lugal-ma2-gur8-re	lugal-ma2-gur8-re[2]	PN	PN	27	ERG	_	17	Lugalmagure	NN	26	appos
+a.11.1	nu-banda3	20	nu-banda3	nu-banda3[overseer]	N	N	19	appos	_	20	nu-banda3	nu-banda3[overseer]	N	N	19	appos	_	18	the overseer	NN	26	appos
+a.11.2	en-nu-ga2	21	en-nu-ga2	en-nu[imprisonment]	N	N.GEN	20	GEN	_	21	en-nu-ga2	en-nu[imprisonment]	N	N.GEN	20	GEN	_	19	guard	NN	18	nmod:of
+a.12.1	ensi2	22	ensi2	ensi2[ruler]	N	N	19	appos	_	22	ensi2	ensi2[ruler]	N	N	19	appos	_	20	governor	NN	26	appos
+a.13.1	uri5{ki}-ma	?	?	?	?	?	?	?	?	23	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	22	GEN	_	21	Ur	NN	20	nmod:of
+a.14.1	ARAD2-da-ne2	23+24	urim5{ki}-ma+arad2-da-ne2	urim5{ki}[1]+arad2[slave]	SN+N	SN.GEN+N.3-SG-H-POSS.ERG	22+19	GEN+appos	_+_	24	arad2-da-ne2	arad2[slave]	N	N.3-SG-H-POSS.ERG	19	appos	_	22	his servant	NN	26	appos
+a.15.1	e2	25	e2	e2[house]	N	N	27	ABS	_	25	e2	e2[house]	N	N	27	ABS	_	23	_	_	0	_
+?	*RETOK*-ki	?	?	?	?	?	?	?	?	26	ki	ki[place]	N	N.ABS	25	appos	_	?	?	?	?	?
+a.15.2	ki-ag2-ga2-ni	26+27	ki+ag2-ga2-ni	ki[place]+ag2[measure]	N+V	N.ABS+NF.V.3-SG-H-POSS.ABS	25+28	appos+ABS	_+_	27	ag2-ga2-ni	ag2[measure]	V	NF.V.3-SG-H-POSS.ABS	28	ABS	_	24	his beloved temple	NN	26	appos
+a.16.1	mu-na-an-du3	28	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	28	mu-na-an-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	25	he built for him	VBD	24	acl:relcl
