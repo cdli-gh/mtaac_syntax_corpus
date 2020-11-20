@@ -1,7 +1,7 @@
-										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
-# tr.en: Ur-niar governor of Szuruppag Abu-tb scribe is your servant	
+# tr.en: Ur-niar governor of Szuruppag Abu-tb scribe is your servant																						
 a.col1.1.1	ur-nigar{gar}	1	ur-nigar{gar}	ur-nigar{gar}[2]	PN	PN	0	_	_	1	ur-nigar{gar}	ur-nigar{gar}[2]	PN	PN	0	_	_	1	Ur-niar	JJ	2	amod
 a.col1.2.1	ensi2	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	ensi2	ensi2[ruler]	N	N	1	appos	_	2	governor	NN	0	root
 a.col1.3.1	szuruppak{ki}	3	szuruppak{ki}	szuruppak{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	szuruppak{ki}	szuruppak{ki}[1]	SN	SN.GEN.ABS	2	GEN	_	3	of Szuruppag	NNP	2	nmod:of
+a.col2.1.1	a-bu-du10	4	a-bu-DU₁₀	a-bu-DU₁₀[1]	PN	PN	0	_	_	4	a-bu-DU₁₀	a-bu-DU₁₀[1]	PN	PN	0	_	_	4	Abu-tb	NN	6	nsubj
 a.col2.2.1	dub-sar	5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_	5	dub-sar	dub-sar[scribe]	N	N.ABS	4	appos	_	5	scribe	NN	4	appos
 a.col2.3.1	ARAD2-zu	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	is your servant	NN	2	parataxis

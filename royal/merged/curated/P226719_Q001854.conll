@@ -1,17 +1,17 @@
-# no projection, manual UD v.1 annotation
-a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	_	_	0	root
-a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	_	1	appos
-a.col1.2.2	kalam-ma-na	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	_	_	2	GEN
-a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	1	appos
-a.col1.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	_	_	4	amod
-a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	_	_	1	appos
-a.col1.4.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	_	_	6	GEN
-a.col1.5.1	lugal	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	lugal[king]	N	N	1	appos	_	8	_	_	1	appos
-a.col1.5.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	_	_	10	dep
-a.col1.5.3	ub-da	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	10	_	_	8	GEN
-a.col1.5.4	limmu2-ba	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	11	_	_	9	nummod
-a.col2.1.1	a-ha-am-ar-szi	11	a-ha-am-ar-szi	a-ha-am-ar-szi[1]	PN	PN	0	_	_	11	a-ha-am-ar-szi	a-ha-am-ar-szi[1]	PN	PN	0	_	_	12	_	_	0	nsubj
-a.col2.2.1	dub-sar	12	dub-sar	dub-sar[scribe]	N	N	11	appos	_	12	dub-sar	dub-sar[scribe]	N	N	11	appos	_	13	_	_	12	appos
-a.col2.3.1	dumu	13	dumu	dumu[child]	N	N	11	appos	_	13	dumu	dumu[child]	N	N	11	appos	_	14	_	_	12	appos
-a.col2.3.2	ba-ba-ti	14	ba-ba-ti	ba-ba-ti[1]	PN	PN.GEN	13	GEN	_	14	ba-ba-ti	ba-ba-ti[1]	PN	PN.GEN	13	GEN	_	15	_	_	14	GEN
-a.col2.4.1	ARAD2-zu	15	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	11	appos	_	15	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	11	appos	_	16	_	_	1	acl
+# no projection, manual UD v.1 annotation																						
+a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.col1.2.2	kalam-ma-na	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	land	NN	2	nmod:of
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	strong	JJ	4	amod
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}	NNP	6	nmod:of
+a.col1.5.1	lugal	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	lugal[king]	N	N	1	appos	_	8	king	NN	1	appos
+a.col1.5.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	?	NN	10	mwe
+a.col1.5.3	ub-da	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	10	quarter	NNS	8	nmod:of
+a.col1.5.4	limmu2-ba	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	11	four	NU	9	nummod
+a.col2.1.1	a-ha-am-ar-szi	11	a-ha-am-ar-szi	a-ha-am-ar-szi[1]	PN	PN	0	_	_	11	a-ha-am-ar-szi	a-ha-am-ar-szi[1]	PN	PN	0	_	_	12	a-ha-am-ar-szi	NNP	0	nsubj
+a.col2.2.1	dub-sar	12	dub-sar	dub-sar[scribe]	N	N	11	appos	_	12	dub-sar	dub-sar[scribe]	N	N	11	appos	_	13	scribe	NN	12	appos
+a.col2.3.1	dumu	13	dumu	dumu[child]	N	N	11	appos	_	13	dumu	dumu[child]	N	N	11	appos	_	14	child	NN	12	appos
+a.col2.3.2	ba-ba-ti	14	ba-ba-ti	ba-ba-ti[1]	PN	PN.GEN	13	GEN	_	14	ba-ba-ti	ba-ba-ti[1]	PN	PN.GEN	13	GEN	_	15	ba-ba-ti	NNP	14	nmod:of
+a.col2.4.1	ARAD2-zu	15	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	11	appos	_	15	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	11	appos	_	16	slave	NN	1	acl

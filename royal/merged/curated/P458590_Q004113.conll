@@ -1,5 +1,4 @@
-										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
-# tr.en: Amar-Suena powerful king king of Urim king of four quarters Ada-lal courier child of Abu-tab is your servant	
+# tr.en: Amar-Suena powerful king king of Urim king of four quarters Ada-lal courier child of Abu-tab is your servant																						
 a.col1.1.1	{d}amar-{d}suen	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	_	_	1	Amar-Suena powerful	NNP	0	root
 a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	.	1	_
 a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	king king	NN	1	appos
@@ -10,6 +9,8 @@ a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
 a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	_	0	_
 a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	quarters four	NNS	5	nmod:of
 a.col2.1.1	a-da-lal3	9	a-da-lal3	a-da-lal3[1]	PN	PN	0	_	_	9	a-da-lal3	a-da-lal3[1]	PN	PN	0	_	_	9	Ada-lal	JJ	14	_
-a.col2.2.1	lu2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	10	_	_	0	_
-a.col2.2.2	kas4	10	{lu2}kasz4	{lu2}kasz4[runner]	N	N	9	appos	_	10	{lu2}kasz4	{lu2}kasz4[runner]	N	N	9	appos	_	11	courier	NN	14	nsubj
+a.col2.2.1	lu2	10	{lu2}kasz4	{lu2}kasz4[runner]	N	N	9	appos	_	10	{lu2}kasz4	{lu2}kasz4[runner]	N	N	9	appos	_	10	_	_	0	_
+a.col2.2.2	kas4	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	11	courier	NN	14	nsubj
 a.col2.3.1	dumu	11	dumu	dumu[child]	N	N	9	appos	_	11	dumu	dumu[child]	N	N	9	appos	_	12	child	NN	11	appos
+a.col2.3.2	a-bu-du10	12	a-bu-DU₁₀	a-bu-DU₁₀[2]	PN	PN.GEN.ABS	11	GEN	_	12	a-bu-DU₁₀	a-bu-DU₁₀[2]	PN	PN.GEN.ABS	11	GEN	_	13	Abu-tab	NN	12	nmod:of
+a.col2.4.1	ARAD2-zu	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	is your servant	NN	1	_

@@ -1,4 +1,16 @@
-# tr.en: txt	
-# tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Ur-dublama great-soldier son of ARAD- is your servant	
+# tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Ur-dublama great-soldier son of ARAD- is your servant																						
 a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Sz-Suen	NNP	0	root
 a.col1.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong	JJ	2	amod
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NN	4	nmod:of
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	_	:	1	_
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	heaven with its four corners	NN	6	nmod:of
+a.col2.1.1	ur-dub-la2-mah	9	ur-dub-la2-mah	ur-dub-la2-mah[1]	PN	PN	0	_	_	9	ur-dub-la2-mah	ur-dub-la2-mah[1]	PN	PN	0	_	_	9	Ur-dublama	NN	14	nsubj
+a.col2.2.1	aga3-us2	10	aga3-us2	aga3-us2[soldier]	N	N	9	appos	_	10	aga3-us2	aga3-us2[soldier]	N	N	9	appos	_	10	great-soldier	NN	9	conj
+a.col2.2.2	lugal	11	lugal	lugal[king]	N	N.GEN	10	GEN	_	11	lugal	lugal[king]	N	N.GEN	10	GEN	_	11	_	,	9	_
+a.col2.3.1	dumu	12	dumu	dumu[child]	N	N	9	appos	_	12	dumu	dumu[child]	N	N	9	appos	_	12	son	NN	9	appos
+a.col2.3.2	ARAD2-x	13	arad₂-x	arad₂-x[2]	PN	PN.GEN.ABS	12	GEN	_	13	arad₂-x	arad₂-x[2]	PN	PN.GEN.ABS	12	GEN	_	13	_	,	9	_
+a.col2.4.1	ARAD2-zu	14	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	is your servant	NN	1	_

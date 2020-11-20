@@ -1,4 +1,15 @@
-										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
-# tr.en: For Nanna fierce calf of An firstborn child of Enlil his master Ur-Namma powerful man king of Urim built his E-temen-ni-guru	
-a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	14	DAT	_	1	{d}nanna	{d}nanna[1]	DN	DN	14	DAT	_	1	For Nanna	NNP	9	nmod:for
-a.2.1	amar	2	amar	amar[young]	N	N	1	appos	_	2	amar	amar[young]	N	N	1	appos	_	2	fierce	JJ	3	amod
+# tr.en: For Nanna fierce calf of An firstborn child of Enlil his master Ur-Namma powerful man king of Urim built his E-temen-ni-guru																	1					
+a.1.1	{d}nanna	1	{d}nanna	{d}nanna[1]	DN	DN	14	DAT	_	1	{d}nanna	{d}nanna[1]	DN	DN	14	DAT	_	1	For Nanna	NNP	14	nmod:for
+a.2.1	amar	2	amar	amar[young]	N	N	1	appos	_	2	amar	amar[young]	N	N	1	appos	_	2	calf	NN	1	appos
+a.2.2	banda3{da}	3	ban3-da	ban3-da[junior]	V	NF.V	2	amod	_	3	ban3-da	ban3-da[junior]	V	NF.V	2	amod	_	3	fierce	JJ	2	amod
+a.2.3	an-na	4	an-na	an[1]	DN	DN.GEN	2	GEN	_	4	an-na	an[1]	DN	DN.GEN	2	GEN	_	4	An	NNP	2	nmod:of
+?	?	5	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_	5	dumu-sag	dumu-sag[first-born]	N	N	1	appos	_	5	first-born	NN	2	appos
+?	?	6	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	5	GEN	_	6	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	5	GEN	_	6	{d}en-lil2	NNP	5	nmod:of
+?	?	7	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	7	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	7	king	NN	2	appos
+?	?	8	ur-{d}namma	ur-{d}namma[1]	RN	RN	14	ERG	_	8	ur-{d}namma	ur-{d}namma[1]	RN	RN	14	ERG	_	8	ur-{d}namma	NNP	14	nsubj
+a.3'.1	nita	9	nita	nita[male]	N	N	8	appos	_	9	nita	nita[male]	N	N	8	appos	_	9	man	NN	8	appos
+a.3'.2	kal-ga	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	10	powerful	JJ	9	amod
+a.4'.1	lugal	11	lugal	lugal[king]	N	N	8	appos	_	11	lugal	lugal[king]	N	N	8	appos	_	11	king	NN	8	appos
+a.4'.2	uri5{ki}-ma-ke4	12	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	11	GEN	_	12	urim5{ki}-ma-ke4	urim5{ki}[1]	SN	SN.GEN.ERG	11	GEN	_	12	Urim	NNP	11	nmod:of
+a.5'.1	e2-temen-ni2-gur3-ni	13	e2-temen-ni2-guru3-ni	e2-temen-ni2-guru3[1]	TN	TN.3-SG-H-POSS.ABS	14	ABS	_	13	e2-temen-ni2-guru3-ni	e2-temen-ni2-guru3[1]	TN	TN.3-SG-H-POSS.ABS	14	ABS	_	13	his E-temen-ni-guru	NNP	14	dobj
+a.6'.1	mu-na-du3	14	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	14	built 	VBD	0	root

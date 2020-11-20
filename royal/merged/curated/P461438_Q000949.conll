@@ -1,14 +1,11 @@
-# tr.en: Ur-Namma king of Urim king of Sumer and Akkad who built temple of Enlil																						
-?	ur-{d}namma	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	Ur-Namma	NNP	0	root
-?	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	2	king Urim	NN	1	appos
-?	uri5{ki}-ma	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	3	Urim	NNP	1	nmod:of
-?	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	4	king	NN	1	appos
-?	ki-en-gi	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	Sumer	NNP	3	nmod:of
-?	ki-uri	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	6	and Akkad	CC	5	cc
-?	lu2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	who	WP	1	appos
-?	e2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	8	temple	NN	10	nsubj
-?	{d}en-lil2-la2	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	of Enlil	NN	8	nmod:of
-?	in-du3-a	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	10	built	VBD	7	acl:relcl
-
-
-
+# tr.en: Ur-Namma king of Urim king of Sumer and Akkad who built temple of Enlil																	1					
+a.1.1	ur-{d}namma	1	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	1	ur-{d}namma	ur-{d}namma[1]	RN	RN	0	_	_	1	Ur-Namma	NNP	0	root
+a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king Urim	NN	1	appos
+a.2.2	uri5{ki}-ma	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	Urim	NNP	1	nmod:of
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.3.2	ki-en-gi	5	ki-en-gi	ki-en-gi[1]	GN	GN	4	GEN	_	5	ki-en-gi	ki-en-gi[1]	GN	GN	4	GEN	_	5	Sumer	NNP	3	nmod:of
+a.3.3	ki-uri	6	ki-uri	ki-uri[1]	GN	GN.GEN	5	appos	_	6	ki-uri	ki-uri[1]	GN	GN.GEN	5	appos	_	6	and Akkad	CC	5	cc
+a.4.1	lu2	7	lu2	lu2[person]	N	N	10	ABS	_	7	lu2	lu2[person]	N	N	10	ABS	_	7	who	WP	1	appos
+a.4.2	e2	8	e2	e2[house]	N	N	7	appos	_	8	e2	e2[house]	N	N	7	appos	_	8	temple	NN	10	nsubj
+a.4.3	{d}en-lil2-la2	9	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN.ABS	8	GEN	_	9	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN.ABS	8	GEN	_	9	of Enlil	NN	8	nmod:of
+a.5.1	in-du3-a	10	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	5	amod	_	10	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	5	amod	_	10	built	VBD	7	acl:relcl

@@ -20,6 +20,7 @@ Merging followed two objectives:
 	- 2 files with apparently incorrect CDLI links were renamed (CDLI ID replaced by `P____`)
 	- 3 files without ETSCRI linking were removed (still contained in `../../parallel`)
 	- 81 files in which column 23 did not contain dependency labels manually corrected 
+	- 71 files in which merged files contained fewer lines that original CDLI-CoNLL
 	
 	It is to be noted that ETCSRI and CDLI editions of the same text often deviate substantially, with ETCSRI texts sometimes massively amended. A systematic difference is treatment of *nita* "male" and *lugal* "ruler". In 5 cases, CDLI has *lugal* where ETCSRI has *nita*, in 4 cases, ETCSRI has *nita* where CDLI has *lugal*.
 	

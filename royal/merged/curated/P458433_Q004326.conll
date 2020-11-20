@@ -1,4 +1,9 @@
-										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
-# tr.en: Szulgi powerful man king of Urim Sipad-Ningirsuke-ipad cup-bearer is your servant	
+# tr.en: Szulgi powerful man king of Urim Sipad-Ningirsuke-ipad cup-bearer is your servant																						
 a.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	Szulgi powerful	NNP	0	root
 a.2.1	nita	2	nita	nita[male]	N	N	1	appos	_	2	nita	nita[male]	N	N	1	appos	_	2	man	NN	1	appos
+a.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	_	.	1	_
+a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	_	0	_
+a.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	king	NN	1	appos
+a.4.1	sipa-{d}nin-gir2-su-ke4-i3-pa3	6	sipad-{d}nin-gir2-su-ke4-i3-pad3	sipad-{d}nin-gir2-su-ke4-i3-pad3[1]	PN	PN	0	_	_	6	sipad-{d}nin-gir2-su-ke4-i3-pad3	sipad-{d}nin-gir2-su-ke4-i3-pad3[1]	PN	PN	0	_	_	6	Urim Sipad-Ningirsuke-ipad	NNP	5	nmod:of
+a.5.1	sagi	7	sagi	sagi[cup-bearer]	N	N.ABS	6	appos	_	7	sagi	sagi[cup-bearer]	N	N.ABS	6	appos	_	7	cup-bearer	NN	8	appos
+a.5.2	ARAD2-zu	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	8	your servant is	NN	1	_

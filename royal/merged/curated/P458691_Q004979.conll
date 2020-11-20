@@ -1,4 +1,11 @@
-# tr.en: txt	
-# tr.en: Ibbi-Suen powerful king king of Urim Lu-girizal child of is your servant	
+# tr.en: Ibbi-Suen powerful king king of Urim Lu-girizal child of is your servant																						
 a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	Ibbi-Suen powerful	NNP	0	root
 a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	.	1	_
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	king king	NN	1	appos
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	Urim	NNP	1	nmod:of
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	_	_	0	_
+a.col2.1.1	lu2-giri17-zal	6	lu2-giri17-zal	lu2-giri17-zal[2]	PN	PN	0	_	_	6	lu2-giri17-zal	lu2-giri17-zal[2]	PN	PN	0	_	_	6	Lu-girizal	JJ	8	amod
+a.col2.2.1	dumu	7	dumu	dumu[child]	N	N	0	_	_	7	dumu	dumu[child]	N	N	0	_	_	7	_	_	0	_
+a.col2.2.2	lu2-{d}nin-isin2{si-na}	8	lu₂-{d}x-x	lu₂-{d}x-x[11]	PN	PN	0	_	_	8	lu₂-{d}x-x	lu₂-{d}x-x[11]	PN	PN	0	_	_	8	child	NN	9	nsubj
+?	?	9	in-x	_[_]	u	_	0	_	_	9	in-x	_[_]	u	_	0	_	_	?	?	?	?	?
+a.col2.3.1	ARAD2-zu	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	9	is your servant	NN	1	_

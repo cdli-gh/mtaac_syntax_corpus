@@ -1,20 +1,20 @@
-# tr.en: Ibbi-Suen god of land strong king king of Ur king of four quarters Dada governor of Nippur son of Ur-Nisaba governor of Nippur your servant																							
-a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	Ibbi-Suen	NNP	0	root
-a.col1.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	2	dingir	god of	NN	1	appos
-a.col1.2.2	kalam-ma	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	3	kalam-ma	land	NN	2	nmod:of
-a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	_	NN	1	appos
-a.col1.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kal-ga	strong king	NN	1	appos
-a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	king	_	0	_
-a.col1.4.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	uri5{ki}-ma	Ur	NN	4	nmod:of
-a.col1.5.1	lugal	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	king	NN	1	appos
-a.col1.5.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
-a.col1.5.3	ub-da	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	_	:	1	_
-a.col1.5.4	limmu2-ba	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	limmu2-ba	four quarters	NNS	8	nmod:of
-a.col2.1.1	da-da	11	da-da	da-da[1]	PN	PN	0	_	_	11	da-da	da-da[1]	PN	PN	0	_	_	11	da-da	Dada	NN	1	_
-a.col2.2.1	ensi2	12	ensi2	ensi2[ruler]	N	N	11	appos	_	12	ensi2	ensi2[ruler]	N	N	11	appos	_	12	ensi2	governor	NN	11	root
-a.col2.3.1	nibru{ki}	13	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	12	GEN	_	13	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	12	GEN	_	13	nibru{ki}	of Nippur	NNP	12	nmod:of
-a.col2.4.1	dumu	14	dumu	dumu[child]	N	N	11	appos	_	14	dumu	dumu[child]	N	N	11	appos	_	14	dumu	son	NN	12	appos
-a.col2.4.2	ur-{d}nanibgal	15	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	11	appos	_	15	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	11	appos	_	15	ur-{nab}nisaba2	of Ur-Nisaba	NNP	14	nmod:of
-a.col2.5.1	ensi2	16	ensi2	ensi2[ruler]	N	N	15	GEN	_	16	ensi2	ensi2[ruler]	N	N	15	GEN	_	16	ensi2	governor	NN	12	appos
-a.col2.6.1	nibru{ki}-ka	17	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	16	GEN	_	17	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	16	GEN	_	17	nibru{ki}-ka	of Nippur	NNP	16	nmod:of
-a.col2.7.1	ARAD2-zu	18	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	18	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	18	ARAD2-zu	your servant	NN	12	appos
+# tr.en: Ibbi-Suen god of land strong king king of Ur king of four quarters Dada governor of Nippur son of Ur-Nisaba governor of Nippur your servant																						
+a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	Ibbi-Suen	NNP	0	root
+a.col1.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	2	god of	NN	1	appos
+a.col1.2.2	kalam-ma	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	3	land	NN	2	nmod:of
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	_	NN	1	appos
+a.col1.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	strong king	NN	1	appos
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	_	0	_
+a.col1.4.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	Ur	NN	4	nmod:of
+a.col1.5.1	lugal	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	lugal[king]	N	N	1	appos	_	8	king	NN	1	appos
+a.col1.5.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
+a.col1.5.3	ub-da	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	_	:	1	_
+a.col1.5.4	limmu2-ba	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	9	amod	_	10	four quarters	NNS	8	nmod:of
+a.col2.1.1	da-da	11	da-da	da-da[1]	PN	PN	0	_	_	11	da-da	da-da[1]	PN	PN	0	_	_	11	Dada	NN	1	_
+a.col2.2.1	ensi2	12	ensi2	ensi2[ruler]	N	N	11	appos	_	12	ensi2	ensi2[ruler]	N	N	11	appos	_	12	governor	NN	11	root
+a.col2.3.1	nibru{ki}	13	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	12	GEN	_	13	nibru{ki}	nibru{ki}[1]	SN	SN.GEN	12	GEN	_	13	of Nippur	NNP	12	nmod:of
+a.col2.4.1	dumu	14	dumu	dumu[child]	N	N	11	appos	_	14	dumu	dumu[child]	N	N	11	appos	_	14	son	NN	12	appos
+a.col2.4.2	ur-{d}nanibgal	15	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	11	appos	_	15	ur-{d}nanibgal	ur-{d}nanibgal[1]	PN	PN	11	appos	_	15	of Ur-Nisaba	NNP	14	nmod:of
+a.col2.5.1	ensi2	16	ensi2	ensi2[ruler]	N	N	15	GEN	_	16	ensi2	ensi2[ruler]	N	N	15	GEN	_	16	governor	NN	12	appos
+a.col2.6.1	nibru{ki}-ka	17	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	16	GEN	_	17	nibru{ki}-ka	nibru{ki}[1]	SN	SN.GEN.GEN.ABS	16	GEN	_	17	of Nippur	NNP	16	nmod:of
+a.col2.7.1	ARAD2-zu	18	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	18	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	18	your servant	NN	12	appos
