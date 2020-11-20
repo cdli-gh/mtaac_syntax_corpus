@@ -1,14 +1,14 @@
-a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	a.col1.1.1	
-a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	a.col1.2.1	
-a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	a.col1.2.2	
-a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	a.col1.3.1	
-a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	a.col1.3.2	
-a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	a.col1.4.1	
-a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	a.col1.4.2	
-a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	a.col1.4.3	
-a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	a.col1.4.4	
-a.col2.1.1	ab-ba	9	ab-ba	ab-ba[2]	PN	PN	0	_	_	9	ab-ba	ab-ba[2]	PN	PN	0	_	_	a.col2.1.1	
-a.col2.2.1	lu2-mah	10	lu2-mah	lu2-mah[priest]	N	N	0	_	_	10	lu2-mah	lu2-mah[priest]	N	N	0	_	_	a.col2.2.1	
-a.col2.3.1	dumu	11	dumu	dumu[child]	N	N	0	_	_	11	dumu	dumu[child]	N	N	0	_	_	a.col2.3.1	
-a.col2.3.2	ur-mes	?	?	?	?	?	?	?	?	12	x	_[_]	u	_	0	_	_	a.col2.3.2	
-a.col2.4.1	ARAD2-zu	12+13	x+arad2-zu	_[_]+arad2[slave]	u+N	_+N.2-SG-POSS.ABS	0+0	_+_	_+_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	a.col2.4.1	
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Szu-Suen	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong	JJ	2	amod
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NNP	4	nmod:of
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	?	NN	?	?
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	8	quarter	NN	6	nmod:of
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	9	four	NU	8	nummod
+a.col2.1.1	ab-ba	9	ab-ba	ab-ba[2]	PN	PN	0	_	_	9	ab-ba	ab-ba[2]	PN	PN	0	_	_	10	Abba	NNP	14	nsubj
+a.col2.2.1	lu2-mah	10	lu2-mah	lu2-mah[priest]	N	N	0	_	_	10	lu2-mah	lu2-mah[priest]	N	N	0	_	_	11	priest	NN	10	appos
+a.col2.3.1	dumu	11	dumu	dumu[child]	N	N	0	_	_	11	dumu	dumu[child]	N	N	0	_	_	12	child	NN	10	appos
+a.col2.3.2	ur-mes	?	?	?	?	?	?	?	?	12	x	_[_]	u	_	0	_	_	13	Urmes	NNP	12	nmod:of
+a.col2.4.1	ARAD2-zu	12+13	x+arad2-zu	_[_]+arad2[slave]	u+N	_+N.2-SG-POSS.ABS	0+0	_+_	_+_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	slave	NN	1	acl

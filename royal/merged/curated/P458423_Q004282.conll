@@ -1,5 +1,6 @@
-# tr.en: txt	
-# tr.en: Sulgi Ur kirlya Bagara az rnok a te szolgd	
-a.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	_	.	4	_
-a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	_	_	0	_
-a.2.2	uri5{ki}-ma	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	_	_	0	_
+a.1.1	{d}szul-gi	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	{d}szul-gi[1]	RN	RN	0	_	_	1	{d}szul-gi	NNP	0	root
+a.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.2.2	uri5{ki}-ma	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	2	GEN	_	3	urim5{ki}	NNP	2	nmod:of
+a.3.1	ba-gara2-a	4	ba-gara2-a	ba-gara2-a[1]	PN	PN	2	appos	_	4	ba-gara2-a	ba-gara2-a[1]	PN	PN	2	appos	_	4	ba-gara2-a	NNP	6	nsubj
+a.4.1	dub-sar	5	dub-sar	dub-sar[scribe]	N	N.ABS	2	appos	_	5	dub-sar	dub-sar[scribe]	N	N.ABS	2	appos	_	5	scribe	NN	4	appos
+a.4.2	ARAD2-zu	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	6	slave	NN	1	acl

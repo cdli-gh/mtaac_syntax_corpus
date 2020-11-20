@@ -1,3 +1,15 @@
-a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	a.col1.1.1	
-a.col1.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	a.col1.2.1	
-a.col1.2.2	kalam-ma-na	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	a.col1.2.2	
+a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	NNP	0	root
+a.col1.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	2	deity	NN	1	appos
+a.col1.2.2	kalam-ma-na	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	land	NN	2	nmod:of
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	strong	JJ	4	amod
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}	NNP	6	nmod:of
+a.col1.5.1	lugal	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	lugal[king]	N	N	1	appos	_	8	king	NN	1	appos
+a.col1.5.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	9	?	NN	10	mwe
+a.col1.5.3	ub-da	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	9	an-ub-da	an-ub-da[quarter]	N	N	8	GEN	_	10	quarter	NN	8	nmod:of
+a.col1.5.4	limmu2-ba-ke4	10	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	9	amod	_	10	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	9	amod	_	11	four	NU	10	nummod
+a.col2.1.1	{d}nanna-zu	11	{d}nanna-zu	{d}nanna-zu[1]	PN	PN	0	_	_	11	{d}nanna-zu	{d}nanna-zu[1]	PN	PN	0	_	_	12	{d}nanna-zu	NNP	15	nsubj
+a.col2.2.1	dub-sar	12	dub-sar	dub-sar[scribe]	N	N	0	_	_	12	dub-sar	dub-sar[scribe]	N	N	0	_	_	13	scribe	NN	12	appos
+a.col2.3.1	...	13	x	_[_]	u	_	0	_	_	13	x	_[_]	u	_	0	_	_	14	_	NN	12	appos
+a.col2.4.1	ARAD2-zu	14	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	15	slave	NN	1	acl

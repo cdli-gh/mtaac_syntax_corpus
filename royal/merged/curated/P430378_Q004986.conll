@@ -1,14 +1,14 @@
-a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	a.col1.1.1	
-a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	a.col1.2.1	
-a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	a.col1.2.2	
-a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	a.col1.3.1	
-a.col1.3.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	a.col1.3.2	
-a.col1.4.1	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	a.col1.4.1	
-a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	a.col1.4.2	
-a.col1.4.3	ub-da	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	a.col1.4.3	
-a.col1.4.4	limmu2-ba	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	?	?	?	?	?	?	?	?	a.col1.4.4	
-a.col2.1.1	ma-num2-ki-{d}szul-gi	6	ma-num2-ki-{d}szul-gi	ma-num2-ki-{d}szul-gi[1]	PN	PN	0	_	_	6	ma-num2-ki-{d}szul-gi	ma-num2-ki-{d}szul-gi[1]	PN	PN	0	_	_	a.col2.1.1	
-a.col2.2.1	dub-sar	7	dub-sar	dub-sar[scribe]	N	N	6	appos	_	7	dub-sar	dub-sar[scribe]	N	N	6	appos	_	a.col2.2.1	
-a.col2.3.1	dumu	8	dumu	dumu[child]	N	N	6	appos	_	8	dumu	dumu[child]	N	N	6	appos	_	a.col2.3.1	
-a.col2.3.2	i-di3-...	?	?	?	?	?	?	?	?	9	i-di₃-x	i-di₃-x[1]	PN	PN.GEN.ABS	8	GEN	_	a.col2.3.2	
-a.col2.4.1	ARAD2-zu	9+10	i-di₃-x+arad2-zu	i-di₃-x[1]+arad2[slave]	PN+N	PN.GEN.ABS+N.2-SG-POSS.ABS	8+0	GEN+_	_+_	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	a.col2.4.1	
+a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	Ibbi-Suen	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong	JJ	2	amod
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	5	Ur	NNP	4	nmod:of
+a.col1.4.1	lugal	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	?	NN	8	dep
+a.col1.4.3	ub-da	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	8	quarter	NN	6	nmod:of
+a.col1.4.4	limmu2-ba	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	4	GEN	_	?	?	?	?	?	?	?	?	9	four	NU	8	nummod
+a.col2.1.1	ma-num2-ki-{d}szul-gi	6	ma-num2-ki-{d}szul-gi	ma-num2-ki-{d}szul-gi[1]	PN	PN	0	_	_	6	ma-num2-ki-{d}szul-gi	ma-num2-ki-{d}szul-gi[1]	PN	PN	0	_	_	10	Manumki-Szulgi	NNP	14	nsubj
+a.col2.2.1	dub-sar	7	dub-sar	dub-sar[scribe]	N	N	6	appos	_	7	dub-sar	dub-sar[scribe]	N	N	6	appos	_	11	scribe	NN	10	appos
+a.col2.3.1	dumu	8	dumu	dumu[child]	N	N	6	appos	_	8	dumu	dumu[child]	N	N	6	appos	_	12	child	NN	10	appos
+a.col2.3.2	i-di3-...	?	?	?	?	?	?	?	?	9	i-di₃-x	i-di₃-x[1]	PN	PN.GEN.ABS	8	GEN	_	13	Idi-...	NNP	12	nmod:of
+a.col2.4.1	ARAD2-zu	9+10	i-di₃-x+arad2-zu	i-di₃-x[1]+arad2[slave]	PN+N	PN.GEN.ABS+N.2-SG-POSS.ABS	8+0	GEN+_	_+_	10	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	slave	NN	1	acl

@@ -64,13 +64,6 @@ for file in $ETCSRI_CONLL/*; do
 		if [ -s $mrg ]; then
 			echo skipped "(output file found)" 1>&2
 		else
-			# relics
-			# (cat $cd | $LOAD ID WORD GLOSS POS HEAD EDGE | $WRITE -grammar > $cd.txt) >&/dev/null &
-			# (cat $TRANSACTION| $LOAD ID WORD _ _ _ _ HEAD EDGE | $WRITE -grammar > $TRANSACTION.txt) >& /dev/null &
-			# (if [ -e $ENGLISH ]; then 
-				# cat $ENGLISH | $LOAD ID WORD GLOSS _ POS _ HEAD EDGE | $WRITE -grammar > $ENGLISH.txt;
-			# fi) >& /dev/null &
-			
 	
 			# # works, but we need ETSCRI both in aggregated (-f) and non-aggregated (-lev) form
 			# $MERGE $cd $et $pr 1 1 -drop none -lev > $mrg
@@ -88,25 +81,6 @@ for file in $ETCSRI_CONLL/*; do
 				echo failed 1>&2;
 			fi;
 		fi;
-
-		# #############
-		# # integrate #
-		# #############
-
-		# cat $MERGED | \
-		# $LOAD ID WORD _ _ _ _ HEAD EDGE _ PSD _ GLOSS POS HEAD2 EDGE2 | \
-		# $TRANSFORM -updates consolidate.sparql | \
-		# $WRITE -conll ID WORD GLOSS POS HEAD EDGE DEPS MISC > $OUTPUT
-
-		# cat $OUTPUT | \
-		# $LOAD ID WORD GLOSS POS HEAD EDGE DEPS MISC | \
-		# $WRITE -grammar > $OUTPUT.txt
-
-		# #########
-		# # close #
-		# #########
-
-		# wait # for English grammar
 		
 	fi;
 done;

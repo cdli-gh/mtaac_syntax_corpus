@@ -1,6 +1,6 @@
-a.1'.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	a.1'.1	
-a.2'.1	lugal	1	lugal	lugal[king]	N	N	5	ERG	_	1	lugal	lugal[king]	N	N	5	ERG	_	a.2'.1	
-a.2'.2	ki-en-gi	2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_	2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_	a.2'.2	
-a.2'.3	ki-uri-ke4	3	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_	3	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_	a.2'.3	
-a.3'.1	e2-a-ni	4	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	5	ABS	_	4	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	5	ABS	_	a.3'.1	
-a.4'.1	mu-na-du3	5	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	5	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	a.4'.1	
+a.1'.1	...	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	1	?	NNP	6	nsubj
+a.2'.1	lugal	1	lugal	lugal[king]	N	N	5	ERG	_	1	lugal	lugal[king]	N	N	5	ERG	_	2	king	NN	1	appos
+a.2'.2	ki-en-gi	2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_	2	ki-en-gi	ki-en-gi[1]	GN	GN	1	GEN	_	3	ki-en-gi	NNP	2	nmod:of
+a.2'.3	ki-uri-ke4	3	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_	3	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	2	appos	_	4	ki-uri	NNP	4	appos
+a.3'.1	e2-a-ni	4	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	5	ABS	_	4	e2-a-ni	e2[house]	N	N.3-SG-H-POSS.ABS	5	ABS	_	5	house	NN	6	dobj
+a.4'.1	mu-na-du3	5	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	5	mu-na-du3	du3[build]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	6	build	VBD	0	root

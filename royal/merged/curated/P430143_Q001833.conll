@@ -1,13 +1,14 @@
-a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	a.col1.1.1	
-a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	a.col1.2.1	
-a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	a.col1.2.2	
-a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	a.col1.3.1	
-a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	a.col1.3.2	
-a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	a.col1.4.1	
-a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	a.col1.4.2	
-a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	a.col1.4.3	
-a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	a.col1.4.4	
-a.col2.1.1	a-pi-la-sza	9	a-pi-la-sza	a-pi-la-sza[1]	PN	PN	0	_	_	9	a-pi-la-sza	a-pi-la-sza[1]	PN	PN	0	_	_	a.col2.1.1	
-a.col2.2.1	szagina	10	szagina	szagina[general]	N	N	9	appos	_	10	szagina	szagina[general]	N	N	9	appos	_	a.col2.2.1	
-a.col2.3.1	ka-zal-lu{ki}	11	ka-zal-lu{ki}	ka-zal-lu{ki}[1]	SN	SN.GEN.ABS	10	GEN	_	11	ka-zal-lu{ki}	ka-zal-lu{ki}[1]	SN	SN.GEN.ABS	10	GEN	_	a.col2.3.1	
-a.col2.4.1	ARAD2-zu	12	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	12	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	a.col2.4.1	
+# manually annotated
+a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	_	_	1	Sz-Suen	NNP	0	root
+a.col1.2.1	lugal	2	lugal	lugal[king]	N	N	1	appos	_	2	lugal	lugal[king]	N	N	1	appos	_	2	king	NN	1	appos
+a.col1.2.2	kal-ga	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	kalag-ga	kalag[strong]	V	NF.V.SUB	2	amod	_	3	strong	JJ	2	amod
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	uri5{ki}-ma	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	4	GEN	_	5	Ur	NNP	4	nmod:of
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	_	NN	8	mwe
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	8	quarter	NN	6	nmod:of
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	7	amod	_	9	four	NU	7	nummod
+a.col2.1.1	a-pi-la-sza	9	a-pi-la-sza	a-pi-la-sza[1]	PN	PN	0	_	_	9	a-pi-la-sza	a-pi-la-sza[1]	PN	PN	0	_	_	10	Apilasza	NNP	13	nsubj
+a.col2.2.1	szagina	10	szagina	szagina[general]	N	N	9	appos	_	10	szagina	szagina[general]	N	N	9	appos	_	11	general	JJ	9	appos
+a.col2.3.1	ka-zal-lu{ki}	11	ka-zal-lu{ki}	ka-zal-lu{ki}[1]	SN	SN.GEN.ABS	10	GEN	_	11	ka-zal-lu{ki}	ka-zal-lu{ki}[1]	SN	SN.GEN.ABS	10	GEN	_	12	Kazallu	NNP	10	nmod:of
+a.col2.4.1	ARAD2-zu	12	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	12	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	slave	NN	1	acl

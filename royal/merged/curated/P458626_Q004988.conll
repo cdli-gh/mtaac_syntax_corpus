@@ -1,3 +1,14 @@
-a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	a.col1.1.1	
-a.col1.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	a.col1.2.1	
-a.col1.2.2	kalam-ma	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	a.col1.2.2	
+a.col1.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	_	_	1	{d}i-bi2-{d}suen	NNP	0	root
+a.col1.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	2	deity	NN	1	appos
+a.col1.2.2	kalam-ma	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	3	kalam-ma	kalam[land]	N	N.GEN	2	GEN	_	3	land	NN	2	nmod:of
+a.col1.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	king	NN	1	appos
+a.col1.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	strong	JJ	4	amod
+a.col1.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
+a.col1.4.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	7	?	NN	8	mwe
+a.col1.4.3	ub-da	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	7	an-ub-da	an-ub-da[quarter]	N	N	6	GEN	_	8	quarter	NN	6	nmod:of
+a.col1.4.4	limmu2-ba	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	7	amod	_	8	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN	7	amod	_	9	four	NU	8	nummod
+a.col1.5.1	lugal	9	lugal	lugal[king]	N	N	1	appos	_	9	lugal	lugal[king]	N	N	1	appos	_	10	king	NN	1	appos
+a.col1.5.2	uri5{ki}-ma	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	9	GEN	_	10	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.ABS	9	GEN	_	11	urim5{ki}	NNP	9	nmod:of
+a.col2.1.1	{d}nanna-kam	11	{d}nanna-kam	{d}nanna-kam[1]	PN	PN	0	_	_	11	{d}nanna-kam	{d}nanna-kam[1]	PN	PN	0	_	_	12	{d}nanna-kam	NNP	14	nsubj
+a.col2.2.1	dub-sar	12	dub-sar	dub-sar[scribe]	N	N.ABS	11	appos	_	12	dub-sar	dub-sar[scribe]	N	N.ABS	11	appos	_	13	scribe	NN	12	appos
+a.col2.3.1	ARAD2-zu	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	13	arad2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	0	_	_	14	slave	NN	1	acl
