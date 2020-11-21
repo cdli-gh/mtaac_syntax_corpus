@@ -5,7 +5,7 @@ a.3.1	{d}en-lil2-la2	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	{d}en-li
 a.4.1	lugal-a-ni	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his master	NN	2	appos
 a.5.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	16	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	16	ERG	_	5	Ur-Namma	NN	4	appos
 a.6.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	6	man	NN	4	appos
-a.6.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	the mighty	DT	6	det
+a.6.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.PT	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.PT	6	amod	_	7	the mighty	DT	6	det
 a.7.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	8	the king	NN	4	appos
 a.7.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	Ur	NN	8	nmod:of
 a.8.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	10	_	,	4	_
@@ -16,7 +16,7 @@ a.9.2	e2	14	e2	e2[house]	N	N	13	appos	_	14	e2	e2[house]	N	N	13	appos	_	14	who te
 a.9.3	{d}nanna	15	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	14	GEN	_	15	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	14	GEN	_	15	Nanna	NNP	16	nmod:of
 a.10.1	in-du3-a	16	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ERG	20	ERG	_	16	in-du3-a	du3[build]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ERG	20	ERG	_	16	built	VBD	13	acl:relcl
 ?	*RETOK*-nig2	?	?	?	?	?	?	?	?	17	nig2	nig2[thing]	N	N	20	GEN.LOC	_	?	?	?	?	?
-a.11.1	nig2-ul-li2-a-ke4	17+18	nig2+ul-li2-a-ke4	nig2[thing]+ul-li2[distant]	N+V	N+NF.V.SUB.GEN.L3-NH	20+17	GEN.LOC+amod	_+_	18	ul-li2-a-ke4	ul-li2[distant]	V	NF.V.SUB.GEN.L3-NH	17	amod	_	17	he made an everlasting	VBD	2	acl:relcl
+a.11.1	nig2-ul-li2-a-ke4	17+18	nig2+ul-li2-a-ke4	nig2[thing]+ul-li2[distant]	N+V	N+NF.V.PT.GEN.L3-NH	20+17	GEN.LOC+amod	_+_	18	ul-li2-a-ke4	ul-li2[distant]	V	NF.V.PT.GEN.L3-NH	17	amod	_	17	he made an everlasting	VBD	2	acl:relcl
 a.11.2	pa	19	pa	pa[branch]	N	N.ABS	20	ABS	_	19	pa	pa[branch]	N	N.ABS	20	ABS	_	18	_	,	19	_
 a.11.3	mu-na-e3	20	mu-na-e3	e3[leave]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	20	mu-na-e3	e3[leave]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	19	thing appear resplendently	VBP	0	root
 a.12.1	gaba	21	gaba	gaba[chest]	N	N	0	_	_	21	gaba	gaba[chest]	N	N	0	_	_	20	on	IN	21	nmod:on

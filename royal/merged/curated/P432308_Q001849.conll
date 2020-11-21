@@ -7,13 +7,13 @@ a.4.1	en	5	en	en[lord]	N	N	4	appos	_	5	en	en[lord]	N	N	4	appos	_	5	lord	NN	2	app
 a.4.2	asz-ni	?	?	?	?	?	?	?	?	6	dili-ne2	dili[single]	V	NF.V.3-SG-H-POSS.L3-NH	5	amod	_	6	who alone is	WP	5	nsubj
 a.4.3	dingir	6+7	dili-ne2+digir	dili[single]+digir[deity]	V+N	NF.V.3-SG-H-POSS.L3-NH+N	5+9	amod+ABS	_+_	7	digir	digir[deity]	N	N	9	ABS	_	7	the god	DT	5	det
 a.4.4	pa	8	pa	pa[branch]	N	N.ABS	7	appos	_	8	pa	pa[branch]	N	N.ABS	7	appos	_	8	_	,	2	_
-a.4.5	e3-a	9	e3-a	e3[leave]	V	NF.V.SUB	28	DAT	_	9	e3-a	e3[leave]	V	NF.V.SUB	28	DAT	_	9	a resplendent	DT	5	det
+a.4.5	e3-a	9	e3-a	e3[leave]	V	NF.V.PT	28	DAT	_	9	e3-a	e3[leave]	V	NF.V.PT	28	DAT	_	9	a resplendent	DT	5	det
 a.5.1	lugal-a-ni-ir	10	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	9	appos	_	10	lugal-a-ni-ir	lugal[king]	N	N.3-SG-H-POSS.DAT-H	9	appos	_	10	his master	NN	2	appos
 a.6.1	{d}i-bi2-{d}suen	11	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	28	ERG	_	11	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	28	ERG	_	11	Ibbi-Sin	NNP	10	appos
 a.7.1	dingir	12	digir	digir[deity]	N	N	11	appos	_	12	digir	digir[deity]	N	N	11	appos	_	12	the god	NN	10	appos
 a.7.2	kalam-ma-na	13	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	12	GEN	_	13	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	12	GEN	_	13	his country	NN	12	nmod:of
 a.8.1	lugal	14	lugal	lugal[king]	N	N	11	appos	_	14	lugal	lugal[king]	N	N	11	appos	_	14	the	DT	15	det
-a.8.2	kal-ga	15	kalag-ga	kalag[strong]	V	NF.V.SUB	14	amod	_	15	kalag-ga	kalag[strong]	V	NF.V.SUB	14	amod	_	15	mighty king	NN	10	appos
+a.8.2	kal-ga	15	kalag-ga	kalag[strong]	V	NF.V.PT	14	amod	_	15	kalag-ga	kalag[strong]	V	NF.V.PT	14	amod	_	15	mighty king	NN	10	appos
 a.9.1	lugal	16	lugal	lugal[king]	N	N	11	appos	_	16	lugal	lugal[king]	N	N	11	appos	_	16	king	NN	10	conj
 a.9.2	uri5{ki}-ma	17	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	16	GEN	_	17	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	16	GEN	_	17	Ur	NN	16	nmod:of
 a.10.1	lugal	18	lugal	lugal[king]	N	N	11	appos	_	18	lugal	lugal[king]	N	N	11	appos	_	18	_	,	2	_
@@ -49,15 +49,15 @@ a.20.2	ge6	45	gig2	gig2[black]	V	NF.V	47	ABS	_	45	gig2	gig2[black]	V	NF.V	47	ABS
 a.20.3	ni2	46	ni2	ni2[fear]	N	N.ABS	45	appos	_	46	ni2	ni2[fear]	N	N.ABS	45	appos	_	47	_	_	0	_
 a.20.4	gur3	47	guru3	guru3[lift]	V	NF.V.L1	49	LOC	_	47	guru3	guru3[lift]	V	NF.V.L1	49	LOC	_	48	terrifying dark rain	NN	44	conj
 a.21.1	sze-er-ga-an	48	sze-er-ga-an	sze-er-ga-an[ornament]	N	N.ABS	49	ABS	_	48	sze-er-ga-an	sze-er-ga-an[ornament]	N	N.ABS	49	ABS	_	49	had	VBD	50	aux
-a.21.2	du11-ga-ni	?	?	?	?	?	?	?	?	49	dug4-ga-bi	dug4[speak]	V	NF.V.SUB.3-SG-NH-POSS.ABS	0	_	_	50	decorated	VBN	41	ccomp
-a.22.1	u6-di	49+50+51	dug4-ga-bi+u6+di	dug4[speak]+u6[admiration]+di[speak]	V+N+V	NF.V.SUB.3-SG-NH-POSS.ABS+N.ABS+NF.V.PF	0+51+64	_+ABS+LOC	_+_+_	50	u6	u6[admiration]	N	N.ABS	51	ABS	_	51	to be	TO	52	mark
+a.21.2	du11-ga-ni	?	?	?	?	?	?	?	?	49	dug4-ga-bi	dug4[speak]	V	NF.V.PT.3-SG-NH-POSS.ABS	0	_	_	50	decorated	VBN	41	ccomp
+a.22.1	u6-di	49+50+51	dug4-ga-bi+u6+di	dug4[speak]+u6[admiration]+di[speak]	V+N+V	NF.V.PT.3-SG-NH-POSS.ABS+N.ABS+NF.V.PF	0+51+64	_+ABS+LOC	_+_+_	50	u6	u6[admiration]	N	N.ABS	51	ABS	_	51	to be	TO	52	mark
 ?	*RETOK*-di	?	?	?	?	?	?	?	?	51	di	di[speak]	V	NF.V.PF	64	LOC	_	?	?	?	?	?
 a.22.2	nu-til-le-dam	52	nu-til-le-dam	til[complete]	V	nu.NF.V.ed.COP-3-SG	51	appos	_	52	nu-til-le-dam	til[complete]	V	nu.NF.V.ed.COP-3-SG	51	appos	_	52	an endless marvel	JJ	50	xcomp
 a.23.1	ezem	53	ezen	ezen[festival]	N	N	51	appos	_	53	ezen	ezen[festival]	N	N	51	appos	_	53	and which at	CC	50	cc
 a.23.2	mah	54	mah	mah[great]	V	NF.V	53	amod	_	54	mah	mah[great]	V	NF.V	53	amod	_	54	_	_	0	_
 a.23.3	za3-mu	55	zag-mu	zag-mu[new.year]	N	N	51	appos	_	55	zag-mu	zag-mu[new.year]	N	N	51	appos	_	55	great festival	NN	65	nmod:at
 a.23.4	a	56	a	a[water]	N	N	51	appos	_	56	a	a[water]	N	N	51	appos	_	56	_	_	0	_
-a.23.5	tu5-a	57	tu5-a	tu5[cvve]	V	NF.V.SUB	56	amod	_	57	tu5-a	tu5[cvve]	V	NF.V.SUB	56	amod	_	57	new year bath	NN	55	nmod:of
+a.23.5	tu5-a	57	tu5-a	tu5[cvve]	V	NF.V.PT	56	amod	_	57	tu5-a	tu5[cvve]	V	NF.V.PT	56	amod	_	57	new year bath	NN	55	nmod:of
 a.24.1	{d}nanna-ka	58	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	56	GEN	_	58	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	56	GEN	_	58	of Nanna	NNP	65	nmod:of
 a.25.1	ki	59	ki	ki[place]	N	N	64	LOC	_	59	ki	ki[place]	N	N	64	LOC	_	59	_	_	0	_
 a.25.2	dub-szen-e	60	dub-szen-e	dub-szen[chest]	N	N.L3-NH	59	appos	_	60	dub-szen-e	dub-szen[chest]	N	N.L3-NH	59	appos	_	60	at treasure-chest location where	NN	65	nmod:at

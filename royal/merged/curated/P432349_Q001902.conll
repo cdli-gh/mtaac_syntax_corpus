@@ -1,7 +1,7 @@
 										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
 # tr.en: the mighty king king of Ur Lugal-inim-gina son of Ur-Utu his servant dedicated to him	
 a.1'.1	lugal	1	lugal	lugal[king]	N	N	10	TERM	_	1	lugal	lugal[king]	N	N	10	TERM	_	1	the	DT	2	det
-a.1'.2	kal-ga	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	mighty king	NN	0	root
+a.1'.2	kal-ga	2	kalag-ga	kalag[strong]	V	NF.V.PT	1	amod	_	2	kalag-ga	kalag[strong]	V	NF.V.PT	1	amod	_	2	mighty king	NN	0	root
 a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	GEN	_	3	lugal	lugal[king]	N	N	1	GEN	_	3	king	NN	2	appos
 a.2'.2	uri5{ki}-ma	?	?	?	?	?	?	?	?	4	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN.GEN.TERM	3	GEN	_	4	of Ur	NN	3	nmod:of
 a.3'.1	lugal-inim-gi-na	4+5	urim5{ki}-ma+lugal-ka-gen6-na	urim5{ki}[1]+lugal-ka-gen6-na[2]	SN+PN	SN.GEN.GEN.TERM+PN	3+10	GEN+ERG	_+_	5	lugal-ka-gen6-na	lugal-ka-gen6-na[2]	PN	PN	10	ERG	_	5	Lugal-inim-gina	NN	4	conj

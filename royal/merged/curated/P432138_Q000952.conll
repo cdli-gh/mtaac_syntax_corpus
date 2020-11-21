@@ -5,7 +5,7 @@ a.2.2	{d}en-lil2-la2	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	{d}en-li
 a.3.1	lugal-a-ni	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his master	NN	2	appos
 a.4.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	16	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	16	ERG	_	5	Ur-Namma	NN	4	appos
 a.5.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	6	man	NN	4	appos
-a.5.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	the mighty	DT	6	det
+a.5.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.PT	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.PT	6	amod	_	7	the mighty	DT	6	det
 a.6.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	8	king	NN	4	appos
 a.6.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	Ur	NN	8	nmod:of
 a.7.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	10	_	,	4	_
@@ -42,7 +42,7 @@ a.23.1	ensi2	39	ensi2	ensi2[ruler]	N	N.ABS	40	ABS	_	39	ensi2	ensi2[ruler]	N	N.AB
 a.23.2	he2-a	40	he2-a	am3[be]	V	MOD1.FIN.COP.3-SG-S	0	_	_	40	he2-a	am3[be]	V	MOD1.FIN.COP.3-SG-S	0	_	_	40	or whether he be a	CC	38	cc
 a.24.1	lu2	41	lu2	lu2[person]	N	N	43	ABS	_	41	lu2	lu2[person]	N	N	43	ABS	_	41	a person	NN	34	nmod:as
 a.24.2	asz2	42	asz2	asz2[curse]	N	N.ABS	41	appos	_	42	asz2	asz2[curse]	N	N.ABS	41	appos	_	42	cursed	VBN	41	acl
-a.24.3	du11-ga	43	dug4-ga	dug4[speak]	V	NF.V.SUB	45	EQU	_	43	dug4-ga	dug4[speak]	V	NF.V.SUB	45	EQU	_	43	as	IN	41	nmod:as
+a.24.3	du11-ga	43	dug4-ga	dug4[speak]	V	NF.V.PT	45	EQU	_	43	dug4-ga	dug4[speak]	V	NF.V.PT	45	EQU	_	43	as	IN	41	nmod:as
 a.25.1	{d}nanna-gin7	44	{d}nanna-gin7	{d}nanna[1]	DN	DN.GEN.EQU	43	GEN	_	44	{d}nanna-gin7	{d}nanna[1]	DN	DN.GEN.EQU	43	GEN	_	44	by Nanna	NNP	42	nmod:by
 a.26.1	he2-na	45	he2-na	am3[be]	V	MOD1.FIN.3-SG-H.DAT.COP.3-SG-S	0	_	_	45	he2-na	am3[be]	V	MOD1.FIN.3-SG-H.DAT.COP.3-SG-S	0	_	_	45	may he become	VB	30	parataxis
 a.27.1	ki-tusz	46	ki-tusz	ki-tusz[dwelling]	N	N	48	LOC	_	46	ki-tusz	ki-tusz[dwelling]	N	N	48	LOC	_	46	Within residence	NN	45	nmod:within

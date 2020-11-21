@@ -3,7 +3,7 @@ a.1.1	{d}i-bi2-{d}suen	1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	14	ERG	_	1	{
 a.2.1	dingir	2	digir	digir[deity]	N	N	1	appos	_	2	digir	digir[deity]	N	N	1	appos	_	2	the god	NN	1	appos
 a.2.2	kalam-ma-na	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	2	GEN	_	3	his country	NN	2	nmod:of
 a.3.1	lugal	4	lugal	lugal[king]	N	N	1	appos	_	4	lugal	lugal[king]	N	N	1	appos	_	4	the	DT	5	det
-a.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.SUB	4	amod	_	5	mighty king	NN	1	appos
+a.3.2	kal-ga	5	kalag-ga	kalag[strong]	V	NF.V.PT	4	amod	_	5	kalag-ga	kalag[strong]	V	NF.V.PT	4	amod	_	5	mighty king	NN	1	appos
 a.4.1	lugal	6	lugal	lugal[king]	N	N	1	appos	_	6	lugal	lugal[king]	N	N	1	appos	_	6	king	NN	1	appos
 a.4.2	uri5{ki}-ma	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	6	GEN	_	7	Ur	NN	6	nmod:of
 a.5.1	lugal	8	lugal	lugal[king]	N	N	1	appos	_	8	lugal	lugal[king]	N	N	1	appos	_	8	_	,	1	_
@@ -31,7 +31,7 @@ a.15.1	za-pa-ag2-ba	28	za-pa-ag2-ba	za-pa-ag2[breath]	N	N.3-SG-NH-POSS.L1	26	app
 a.15.2	szu	29	szu	szu[hand]	N	N.ABS	30	ABS	_	29	szu	szu[hand]	N	N.ABS	30	ABS	_	26	_	,	23	_
 a.15.3	nu-ku4-ku4	30	nu-ku4-ku4	ku4-ku4[enter]	V	NEG.NF.V.PF.PF.ABS	34	ABS	_	30	nu-ku4-ku4	ku4-ku4[enter]	V	NEG.NF.V.PF.PF.ABS	34	ABS	_	27	a hand can enter	VB	23	acl:relcl
 a.16.1	hur-sag	31	hur-sag	hur-sag[mountain]	N	N	34	EQU	_	31	hur-sag	hur-sag[mountain]	N	N	34	EQU	_	28	like	IN	29	nmod:like
-a.16.2	sig7-ga-gin7	32	sig7-ga-gin7	sig7[green]	V	NF.V.SUB.EQU	31	amod	_	32	sig7-ga-gin7	sig7[green]	V	NF.V.SUB.EQU	31	amod	_	29	a verdant mountain range	NN	23	nmod:like
+a.16.2	sig7-ga-gin7	32	sig7-ga-gin7	sig7[green]	V	NF.V.PT.EQU	31	amod	_	32	sig7-ga-gin7	sig7[green]	V	NF.V.PT.EQU	31	amod	_	29	a verdant mountain range	NN	23	nmod:like
 a.17.1	iri{ki}-ni	33	iri{ki}-ne2	iri{ki}[city]	N	N.3-SG-H-POSS.L3-NH	34	LOC	_	33	iri{ki}-ne2	iri{ki}[city]	N	N.3-SG-H-POSS.L3-NH	34	LOC	_	30	he made	VBD	29	acl:relcl
 a.17.2	im-mi-dab6	34	im-mi-dab6	dab6[go.around]	V	FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	0	_	_	34	im-mi-dab6	dab6[go.around]	V	FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	0	_	_	31	encircle his city	VB	30	xcomp
 a.18.1	urua	35	uru18	uru18[root]	N	N.L1	38	LOC	_	35	uru18	uru18[root]	N	N.L1	38	LOC	_	32	In foundations	NNS	19	nmod:in

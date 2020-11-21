@@ -3,7 +3,7 @@
 a.1.1	{d}inanna	1	{d}inana	{d}inana[1]	DN	DN	4	TERM	_	1	{d}inana	{d}inana[1]	DN	DN	4	TERM	_	1	For Inanna	NNP	2	nmod:for
 a.2.1	{d}nin	2	{d}nin	{d}nin[lady]	N	N	1	appos	_	2	{d}nin	{d}nin[lady]	N	N	1	appos	_	2	Queen Who	NNP	0	root
 a.2.2	an-sze3	3	an-sze3	an[sky]	N	N.TERM	1	appos	_	3	an-sze3	an[sky]	N	N.TERM	1	appos	_	3	Reaches	VBZ	2	acl:relcl
-a.2.3	la2-a	4	la2-a	la2[hang]	V	NF.V.SUB	14	DAT	_	4	la2-a	la2[hang]	V	NF.V.SUB	14	DAT	_	4	Out to Sky	NN	3	nmod:out.to
+a.2.3	la2-a	4	la2-a	la2[hang]	V	NF.V.PT	14	DAT	_	4	la2-a	la2[hang]	V	NF.V.PT	14	DAT	_	4	Out to Sky	NN	3	nmod:out.to
 a.3.1	nin	5	nin	nin[lady]	N	N	4	appos	_	5	nin	nin[lady]	N	N	4	appos	_	5	_	_	0	_
 a.3.2	un-gal	?	?	?	?	?	?	?	?	6	UN-gal	UN-gal[ruler]	N	N	4	appos	_	6	great high queen	NN	4	appos
 a.4.1	dingir-re-ne	6+7	UN-gal+digir-re-ne	UN-gal[ruler]+digir[deity]	N+N	N+N.PL.GEN	4+6	appos+GEN	_+_	7	digir-re-ne	digir[deity]	N	N.PL.GEN	6	GEN	_	7	of gods	NNS	6	nmod:of

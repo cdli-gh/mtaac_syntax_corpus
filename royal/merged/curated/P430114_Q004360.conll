@@ -4,12 +4,12 @@ a.col1.1.1	{d}szu-{d}suen	1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	5	LOC	_	1	{d}
 a.col1.2.1	nibru{ki}-a	2	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	1	appos	_	2	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	1	appos	_	2	in Nippur	NNP	1	nmod:in
 a.col1.3.1	{d}en-lil2-le	3	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	ERG	_	3	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	5	ERG	_	3	by Enlil	NNP	2	nmod:by
 a.col1.4.1	mu	4	mu	mu[name]	N	N.ABS	5	ABS	_	4	mu	mu[name]	N	N.ABS	5	ABS	_	4	chosen	VBN	3	acl
-a.col1.4.2	pa3-da	5	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	5	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	5	_	,	1	_
+a.col1.4.2	pa3-da	5	pad3-da	pad3[find]	V	NF.V.PT	0	_	_	5	pad3-da	pad3[find]	V	NF.V.PT	0	_	_	5	_	,	1	_
 a.col1.5.1	sag-us2	6	sag-us2	sag-us2[constant]	V	NF.V	5	appos	_	6	sag-us2	sag-us2[constant]	V	NF.V	5	appos	_	6	headrest	NN	1	appos
 a.col1.6.1	e2	7	e2	e2[house]	N	N	6	GEN	_	7	e2	e2[house]	N	N	6	GEN	_	7	_	,	1	_
 a.col1.6.2	{d}en-lil2-ka	8	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	7	GEN	_	8	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	7	GEN	_	8	of house of Enlil	NN	6	nmod:of
 a.col2.1.1	lugal	9	lugal	lugal[king]	N	N	5	appos	_	9	lugal	lugal[king]	N	N	5	appos	_	9	_	NN	1	appos
-a.col2.1.2	kal-ga	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	10	kalag-ga	kalag[strong]	V	NF.V.SUB	9	amod	_	10	strong king	NN	1	appos
+a.col2.1.2	kal-ga	10	kalag-ga	kalag[strong]	V	NF.V.PT	9	amod	_	10	kalag-ga	kalag[strong]	V	NF.V.PT	9	amod	_	10	strong king	NN	1	appos
 a.col2.2.1	lugal	11	lugal	lugal[king]	N	N	5	appos	_	11	lugal	lugal[king]	N	N	5	appos	_	11	king	_	0	_
 a.col2.2.2	uri5{ki}-ma	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	12	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	11	GEN	_	12	Ur	NN	9	nmod:of
 a.col2.3.1	lugal	13	lugal	lugal[king]	N	N	5	appos	_	13	lugal	lugal[king]	N	N	5	appos	_	13	king	NN	1	appos

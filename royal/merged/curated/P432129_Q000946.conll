@@ -6,7 +6,7 @@ a.3.1	{d}en-lil2-la2	3	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN	2	GEN	_	3	{d}en-li
 a.4.1	lugal-a-ni	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	4	his master	NN	2	appos
 a.5.1	ur-{d}namma	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	5	ur-{d}namma	ur-{d}namma[1]	RN	RN	15	ERG	_	5	Ur-Namma	NN	4	appos
 a.6.1	nita	6	nita	nita[male]	N	N	5	appos	_	6	nita	nita[male]	N	N	5	appos	_	6	man	NN	4	appos
-a.6.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	6	amod	_	7	the mighty	DT	6	det
+a.6.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.PT	6	amod	_	7	kalag-ga	kalag[strong]	V	NF.V.PT	6	amod	_	7	the mighty	DT	6	det
 a.7.1	lugal	8	lugal	lugal[king]	N	N	5	appos	_	8	lugal	lugal[king]	N	N	5	appos	_	8	king	NN	4	appos
 a.7.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	Ur	NN	8	nmod:of
 a.8.1	lugal	10	lugal	lugal[king]	N	N	5	appos	_	10	lugal	lugal[king]	N	N	5	appos	_	10	_	,	8	_
@@ -14,7 +14,7 @@ a.8.2	ki-en-gi	11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	_	11	ki-en-gi	ki-en-gi[1]	GN
 a.8.3	ki-uri-ke4	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	ki-uri-ke4	ki-uri[1]	GN	GN.GEN.ERG	11	appos	_	12	and king Sumer and Akkad	CC	8	cc
 a.9.1	sug	13	sug	sug[marsh]	N	N	15	ABS	_	13	sug	sug[marsh]	N	N	15	ABS	_	13	a swamp	VB	8	appos
 a.9.2	pesz	14	pesz	pesz[seedling]	N	N.ABS	13	appos	_	14	pesz	pesz[seedling]	N	N.ABS	13	appos	_	14	planted	VBN	13	acl
-a.9.3	du3-a	15	du3-a	du3[build]	V	NF.V.SUB	17	ABS	_	15	du3-a	du3[build]	V	NF.V.SUB	17	ABS	_	15	with seedlings	NNS	14	nmod:with
+a.9.3	du3-a	15	du3-a	du3[build]	V	NF.V.PT	17	ABS	_	15	du3-a	du3[build]	V	NF.V.PT	17	ABS	_	15	with seedlings	NNS	14	nmod:with
 a.10.1	sug	16	sug	sug[marsh]	N	N.ABS	15	appos	_	16	sug	sug[marsh]	N	N.ABS	15	appos	_	16	_	_	0	_
 a.10.2	he2-me-am3	17	he2-me-am3	me[be]	V	MOD1.FIN.COP.3-SG-S.COP-3-SG	0	_	_	17	he2-me-am3	me[be]	V	MOD1.FIN.COP.3-SG-S.COP-3-SG	0	_	_	17	it was indeed a swamp	VB	0	root
 a.11.1	a-sza3-bi	?	?	?	?	?	?	?	?	18	a-szag4-bi	a-szag4[field]	N	N.3-SG-NH-POSS.ABS	0	_	_	18	a field of it	NN	17	dobj

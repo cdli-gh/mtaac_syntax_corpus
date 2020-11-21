@@ -6,11 +6,11 @@ a.2.2	ki-ag2-ga2-ni-ir	?	?	?	?	?	?	?	?	4	ag2-ga2-ni-ir	ag2[measure]	V	NF.V.3-SG-
 a.3.1	dub-la2	?	?	?	?	?	?	?	?	5	dub-la2-mah	dub-la2-mah[1]	TN	TN	11	ABL	_	4	the	DT	5	det
 a.3.2	mah	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	5	Dublamah	NNP	3	_
 a.4.1	u4	3+4+5+6	ki+ag2-ga2-ni-ir+dub-la2-mah+ud	ki[place]+ag2[measure]+dub-la2-mah[1]+ud[sun]	N+V+TN+N	N.ABS+NF.V.3-SG-H-POSS.DAT-H+TN+N	2+1+11+5	appos+amod+ABL+appos	_+_+_+_	6	ud	ud[sun]	N	N	5	appos	_	6	_	_	0	_
-a.4.2	ul-li2-a-ta	7	ul-li2-a-ta	ul-li2[distant]	V	NF.V.SUB.ABL	6	amod	_	7	ul-li2-a-ta	ul-li2[distant]	V	NF.V.SUB.ABL	6	amod	_	7	since ancient days	NNS	3	nmod:since
+a.4.2	ul-li2-a-ta	7	ul-li2-a-ta	ul-li2[distant]	V	NF.V.PT.ABL	6	amod	_	7	ul-li2-a-ta	ul-li2[distant]	V	NF.V.PT.ABL	6	amod	_	7	since ancient days	NNS	3	nmod:since
 a.5.1	ki-szu-tag	8	ki-szu-tag	ki-szu-tag[locus]	N	N	11	ABS	_	8	ki-szu-tag	ki-szu-tag[locus]	N	N	11	ABS	_	8	though not an offering place	IN	54	mark
 a.6.1	szuku	?	?	?	?	?	?	?	?	9	šutugₓ(|PAD.UD|)	šutugₓ(|PAD.UD|)[reed-hut]	N	N	8	appos	_	9	_	_	0	_
 a.6.2	u4	9	šutugₓ(|PAD.UD|)	šutugₓ(|PAD.UD|)[reed-hut]	N	N	8	appos	_	?	?	?	?	?	?	?	?	10	_	_	0	_
-a.6.3	szub-ba	10	szub-ba	szub[fall]	V	NF.V.SUB.ABS	9	amod	_	10	szub-ba	szub[fall]	V	NF.V.SUB.ABS	9	amod	_	11	where daily rations had been withdrawn	VBN	54	acl:relcl
+a.6.3	szub-ba	10	szub-ba	szub[fall]	V	NF.V.PT.ABS	9	amod	_	10	szub-ba	szub[fall]	V	NF.V.PT.ABS	9	amod	_	11	where daily rations had been withdrawn	VBN	54	acl:relcl
 a.7.1	i3-me-a-na-an-na	11	i3-me-a-na-an-na	me[be]	V	FIN.COP.3-SG-S.SUB.EXCEPT	13	ABS	_	11	i3-me-a-na-an-na	me[be]	V	FIN.COP.3-SG-S.SUB.EXCEPT	13	ABS	_	12	having become	VBN	11	xcomp
 a.8.1	e2-bi	12	e2-bi	e2[house]	N	N.3-SG-NH-POSS.ABS	11	appos	_	12	e2-bi	e2[house]	N	N.3-SG-NH-POSS.ABS	11	appos	_	13	since its temple	IN	14	mark
 a.8.2	nu-du3-am3	13	nu-du3-am3	du3[build]	V	NEG.V.3-SG-S.SUB.COP-3-SG	21	LOC	_	13	nu-du3-am3	du3[build]	V	NEG.V.3-SG-S.SUB.COP-3-SG	21	LOC	_	14	had not been rebuilt	VBN	20	advcl
@@ -21,12 +21,12 @@ a.10.2	{d}nanna	17	{d}nanna	{d}nanna[1]	DN	DN.GEN	16	GEN	_	17	{d}nanna	{d}nanna[
 a.11.1	nibru{ki}-a	18	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	13	appos	_	18	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	13	appos	_	18	whom in Nippur	WP	17	appos
 a.12.1	{d}en-lil2-le	19	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	21	ERG	_	19	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	21	ERG	_	19	Enlil	NNP	20	nsubj
 a.13.1	mu	20	mu	mu[name]	N	N.ABS	21	ABS	_	20	mu	mu[name]	N	N.ABS	21	ABS	_	20	chose	VBD	54	acl:relcl
-a.13.2	pa3-da	21	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	21	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	21	by name	NN	20	nmod:by
+a.13.2	pa3-da	21	pad3-da	pad3[find]	V	NF.V.PT	0	_	_	21	pad3-da	pad3[find]	V	NF.V.PT	0	_	_	21	by name	NN	20	nmod:by
 a.14.1	sag-us2	22	sag-us2	sag-us2[constant]	V	NF.V	21	appos	_	22	sag-us2	sag-us2[constant]	V	NF.V	21	appos	_	22	the constant supporter	NN	21	appos
 a.15.1	e2	23	e2	e2[house]	N	N	22	GEN	_	23	e2	e2[house]	N	N	22	GEN	_	23	_	,	24	_
 a.15.2	{d}en-lil2-ka	24	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	23	GEN	_	24	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	23	GEN	_	24	of temple of Enlil	NN	22	nmod:of
 a.16.1	nita	25	nita	nita[male]	N	N	21	appos	_	25	nita	nita[male]	N	N	21	appos	_	25	man	NN	24	appos
-a.16.2	kal-ga	26	kalag-ga	kalag[strong]	V	NF.V.SUB	25	amod	_	26	kalag-ga	kalag[strong]	V	NF.V.SUB	25	amod	_	26	the mighty	DT	25	det
+a.16.2	kal-ga	26	kalag-ga	kalag[strong]	V	NF.V.PT	25	amod	_	26	kalag-ga	kalag[strong]	V	NF.V.PT	25	amod	_	26	the mighty	DT	25	det
 a.17.1	lugal	27	lugal	lugal[king]	N	N	21	appos	_	27	lugal	lugal[king]	N	N	21	appos	_	27	king	NN	24	appos
 a.17.2	uri5{ki}-ma	28	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	27	GEN	_	28	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	27	GEN	_	28	Ur	NN	27	nmod:of
 a.18.1	lugal	29	lugal	lugal[king]	N	N	21	appos	_	29	lugal	lugal[king]	N	N	21	appos	_	29	_	,	21	_
@@ -67,7 +67,7 @@ a.34.1	mu-sar-ra-bi	60	mu-sar-ra-bi	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS	65	A
 a.35.1	u3	61	u3	u3[and]	CNJ	CNJ	60	cc	_	61	u3	u3[and]	CNJ	CNJ	60	cc	_	60	and	CC	3	cc
 a.35.2	{gesz}szu-kar2-bi	?	?	?	?	?	?	?	?	62	{gesz}szu-kara2-bi	{gesz}szu-kara2[tool]	N	N.ABS	60	conj	_	61	its utensils	NNS	3	conj
 ?	*RETOK*-ki	?	?	?	?	?	?	?	?	63	ki	ki[place]	N	N	65	COM	_	?	?	?	?	?
-a.36.1	ki-gub-ba-bi	62+63+64	{gesz}szu-kara2-bi+ki+gub-ba-bi	{gesz}szu-kara2[tool]+ki[place]+gub[stand]	N+N+V	N.ABS+N+NF.V.SUB.3-SG-NH-POSS.COM	60+65+63	conj+COM+amod	_+_+_	64	gub-ba-bi	gub[stand]	V	NF.V.SUB.3-SG-NH-POSS.COM	63	amod	_	62	from its standing-place	NN	61	nmod:from
+a.36.1	ki-gub-ba-bi	62+63+64	{gesz}szu-kara2-bi+ki+gub-ba-bi	{gesz}szu-kara2[tool]+ki[place]+gub[stand]	N+N+V	N.ABS+N+NF.V.PT.3-SG-NH-POSS.COM	60+65+63	conj+COM+amod	_+_+_	64	gub-ba-bi	gub[stand]	V	NF.V.PT.3-SG-NH-POSS.COM	63	amod	_	62	from its standing-place	NN	61	nmod:from
 a.37.1	nu-ub-da-ab-kur2-re-a	65	nu-ub-da-ab-kur2-re-a	kur2[different]	V	NEG.3-NH.COM.3-SG-NH-P.V.3-SG-A.SUB.ABS	68	ABS	_	65	nu-ub-da-ab-kur2-re-a	kur2[different]	V	NEG.3-NH.COM.3-SG-NH-P.V.3-SG-A.SUB.ABS	68	ABS	_	63	does not change	VB	0	root
 a.38.1	igi	66	igi	igi[eye]	N	N	68	LOC	_	66	igi	igi[eye]	N	N	68	LOC	_	64	_	_	0	_
 a.38.2	{d}nanna-ka	67	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	66	GEN	_	67	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	66	GEN	_	65	in eyes of Nanna	NNS	63	nmod:in
@@ -79,7 +79,7 @@ a.41.2	bi2-ib2-ur3-re-a	72	bi2-ib2-ur3-re-a	ur3[drag]	V	3-NH.L2.3-SG-NH-P.V.3-SG
 a.42.1	u3	73	u3	u3[and]	CNJ	CNJ	0	_	_	73	u3	u3[and]	CNJ	CNJ	0	_	_	71	and	CC	70	cc
 a.42.2	{gesz}szu-kar2-bi	?	?	?	?	?	?	?	?	74	{gesz}szu-kara2-bi	{gesz}szu-kara2[tool]	N	N.ABS	77	ABS	_	72	its utensils	NNS	74	nsubj
 ?	*RETOK*-ki	?	?	?	?	?	?	?	?	75	ki	ki[place]	N	N	77	TERM	_	?	?	?	?	?
-a.43.1	ki-gub-bi-sze3	74+75+76	{gesz}szu-kara2-bi+ki+gub-ba-bi-sze3	{gesz}szu-kara2[tool]+ki[place]+gub[stand]	N+N+V	N.ABS+N+NF.V.SUB.3-SG-NH-POSS.TERM	77+77+75	ABS+TERM+amod	_+_+_	76	gub-ba-bi-sze3	gub[stand]	V	NF.V.SUB.3-SG-NH-POSS.TERM	75	amod	_	73	to its standing-place	JJ	72	nmod:to
+a.43.1	ki-gub-bi-sze3	74+75+76	{gesz}szu-kara2-bi+ki+gub-ba-bi-sze3	{gesz}szu-kara2[tool]+ki[place]+gub[stand]	N+N+V	N.ABS+N+NF.V.PT.3-SG-NH-POSS.TERM	77+77+75	ABS+TERM+amod	_+_+_	76	gub-ba-bi-sze3	gub[stand]	V	NF.V.PT.3-SG-NH-POSS.TERM	75	amod	_	73	to its standing-place	JJ	72	nmod:to
 a.44.1	nu-ub-szi-ib2-gi4-gi4-a	77	nu-ub-szi-ib2-gi4-gi4-a	gi4-gi4[turn]	V	NEG.3-NH.TERM.3-SG-NH-P.V.PF.3-SG-A.SUB.ABS	0	_	_	77	nu-ub-szi-ib2-gi4-gi4-a	gi4-gi4[turn]	V	NEG.3-NH.TERM.3-SG-NH-P.V.PF.3-SG-A.SUB.ABS	0	_	_	74	shall not return	VB	70	conj
 a.45.1	musz	78	musz	musz[snake]	N	N	0	_	_	78	musz	musz[snake]	N	N	0	_	_	75	may serpent	MD	77	aux
 a.45.2	{d}nanna	79	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	79	{d}nanna	{d}nanna[1]	DN	DN	0	_	_	76	Nanna	NNP	77	nmod:of

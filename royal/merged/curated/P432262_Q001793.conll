@@ -1,11 +1,11 @@
 # tr.en: the one nominated by him the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters the Etemeniguru his beloved temple in Ur he built for him																						
 a.1'.1	mu	1	mu	mu[name]	N	N.ABS	2	ABS	_	1	mu	mu[name]	N	N.ABS	2	ABS	_	1	the one	CD	0	root
-a.1'.2	pa3-da	2	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	2	pad3-da	pad3[find]	V	NF.V.SUB	0	_	_	2	nominated by him	VBN	1	acl
+a.1'.2	pa3-da	2	pad3-da	pad3[find]	V	NF.V.PT	0	_	_	2	pad3-da	pad3[find]	V	NF.V.PT	0	_	_	2	nominated by him	VBN	1	acl
 a.2'.1	sag-us2	3	sag-us2	sag-us2[constant]	V	NF.V	0	_	_	3	sag-us2	sag-us2[constant]	V	NF.V	0	_	_	3	the constant supporter	NN	1	appos
 a.3'.1	e2	4	e2	e2[house]	N	N	3	GEN	_	4	e2	e2[house]	N	N	3	GEN	_	4	_	,	5	_
 a.3'.2	{d}en-lil2-ka	5	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	4	GEN	_	5	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	4	GEN	_	5	of temple of Enlil	NN	3	nmod:of
 a.4'.1	lugal	6	x	_[_]	u	_	0	_	_	6	x	_[_]	u	_	0	_	_	6	the	DT	7	det
-a.4'.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.SUB	18	ERG	_	7	kalag-ga	kalag[strong]	V	NF.V.SUB	18	ERG	_	7	mighty king	NN	5	appos
+a.4'.2	kal-ga	7	kalag-ga	kalag[strong]	V	NF.V.PT	18	ERG	_	7	kalag-ga	kalag[strong]	V	NF.V.PT	18	ERG	_	7	mighty king	NN	5	appos
 a.5'.1	lugal	8	lugal	lugal[king]	N	N	7	appos	_	8	lugal	lugal[king]	N	N	7	appos	_	8	king	NN	5	conj
 a.5'.2	uri5{ki}-ma	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	9	Ur	NN	8	nmod:of
 a.6'.1	lugal	10	lugal	lugal[king]	N	N	7	appos	_	10	lugal	lugal[king]	N	N	7	appos	_	10	_	,	1	_

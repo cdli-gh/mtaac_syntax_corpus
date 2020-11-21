@@ -1,7 +1,7 @@
 										# global.columns = ID WORD BASE MORPH2 HEAD EDGE POS GW	?	?	?	?	?	?	?																		# tr.en: txt	
 # tr.en: the strong man king of Sumer and Akkad and king of four world quarters the storehouse hisher house of flour he built for himher	
 a.1'.1	nita	1	nita	nita[male]	N	N	0	_	_	1	nita	nita[male]	N	N	0	_	_	1	man	NN	0	root
-a.1'.2	kal-ga	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	kalag-ga	kalag[strong]	V	NF.V.SUB	1	amod	_	2	the strong	DT	1	det
+a.1'.2	kal-ga	2	kalag-ga	kalag[strong]	V	NF.V.PT	1	amod	_	2	kalag-ga	kalag[strong]	V	NF.V.PT	1	amod	_	2	the strong	DT	1	det
 a.2'.1	lugal	3	lugal	lugal[king]	N	N	1	appos	_	3	lugal	lugal[king]	N	N	1	appos	_	3	king	NN	1	appos
 a.2'.2	ki-en-gi	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	ki-en-gi	ki-en-gi[1]	GN	GN	3	GEN	_	4	Sumer	NNP	3	nmod:of
 a.2'.3	ki-uri	5	ki-uri	ki-uri[1]	GN	GN.GEN	4	appos	_	5	ki-uri	ki-uri[1]	GN	GN.GEN	4	appos	_	5	and Akkad	CC	4	cc

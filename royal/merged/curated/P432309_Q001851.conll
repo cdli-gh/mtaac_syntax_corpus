@@ -13,7 +13,7 @@ a.4.1	{d}i-bi2-{d}suen	9	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	24	ERG	_	9	{
 a.5.1	dingir	10	digir	digir[deity]	N	N	9	appos	_	10	digir	digir[deity]	N	N	9	appos	_	11	the god	NN	9	appos
 a.5.2	kalam-ma-na	11	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	10	GEN	_	11	kalam-ma-na	kalam[land]	N	N.3-SG-H-POSS.GEN	10	GEN	_	12	his country	NN	11	nmod:of
 a.6.1	lugal	12	lugal	lugal[king]	N	N	9	appos	_	12	lugal	lugal[king]	N	N	9	appos	_	13	the	DT	14	det
-a.6.2	kal-ga	13	kalag-ga	kalag[strong]	V	NF.V.SUB	12	amod	_	13	kalag-ga	kalag[strong]	V	NF.V.SUB	12	amod	_	14	mighty king	NN	9	appos
+a.6.2	kal-ga	13	kalag-ga	kalag[strong]	V	NF.V.PT	12	amod	_	13	kalag-ga	kalag[strong]	V	NF.V.PT	12	amod	_	14	mighty king	NN	9	appos
 a.7.1	lugal	14	lugal	lugal[king]	N	N	9	appos	_	14	lugal	lugal[king]	N	N	9	appos	_	15	king	NN	9	conj
 a.7.2	uri5{ki}-ma	15	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	14	GEN	_	15	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	14	GEN	_	16	Ur	NN	15	nmod:of
 a.8.1	lugal	16	lugal	lugal[king]	N	N	9	appos	_	16	lugal	lugal[king]	N	N	9	appos	_	17	_	,	1	_
@@ -21,7 +21,7 @@ a.8.2	an	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?	?
 a.8.3	ub-da	17	an-ub-da	an-ub-da[quarter]	N	N	16	GEN	_	17	an-ub-da	an-ub-da[quarter]	N	N	16	GEN	_	18	and king	CC	9	cc
 a.8.4	limmu2-ba-ke4	18	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	17	amod	_	18	limmu2-ba-ke4	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	17	amod	_	19	four world quarters	NNS	9	nmod:of
 a.9.1	ur	19	ur	ur[dog]	N	N	24	ABL	_	19	ur	ur[dog]	N	N	24	ABL	_	20	_	''	22	_
-a.9.2	gun3-a	20	gun3-a	gun3[speckled]	V	NF.V.SUB	19	amod	_	20	gun3-a	gun3[speckled]	V	NF.V.SUB	19	amod	_	21	his speckled	PRP$	22	nmod:poss
+a.9.2	gun3-a	20	gun3-a	gun3[speckled]	V	NF.V.PT	19	amod	_	20	gun3-a	gun3[speckled]	V	NF.V.PT	19	amod	_	21	his speckled	PRP$	22	nmod:poss
 a.9.3	me-luh-ha{ki}	21	me-luh-ha{ki}	me-luh-ha{ki}[1]	GN	GN.GEN	19	GEN	_	21	me-luh-ha{ki}	me-luh-ha{ki}[1]	GN	GN.GEN	19	GEN	_	22	Melua dog	NN	1	appos
 a.10.1	mar-ha-szi{ki}-ta	22	mar-ha-szi{ki}-ta	mar-ha-szi{ki}[1]	GN	GN.ABL	19	appos	_	22	mar-ha-szi{ki}-ta	mar-ha-szi{ki}[1]	GN	GN.ABL	19	appos	_	23	from Marai	NNP	1	nmod:from
 a.11.1	gu2-un-sze3	23	gu2-un-sze3	gu2-un[load]	N	N.TERM	24	TERM	_	23	gu2-un-sze3	gu2-un[load]	N	N.TERM	24	TERM	_	24	brought by them	VBN	23	acl
@@ -32,6 +32,6 @@ a.14.1	nam-ti-la-ni-sze3	27	nam-til3-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.T
 a.15.1	a	28	a	a[water]	N	N.ABS	29	ABS	_	28	a	a[water]	N	N.ABS	29	ABS	_	29	he dedicated	VBD	25	acl:relcl
 a.15.2	mu-na-ru	29	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	29	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	_	30	it to him	PRP	29	dobj
 a.16.1	ur	30	ur	ur[dog]	N	N	32	GEN	_	30	ur	ur[dog]	N	N	32	GEN	_	31	Of	IN	32	nmod:of
-a.16.2	gun3-a-ba	31	gun3-a-ba	gun3[speckled]	V	NF.V.SUB.DEM2.GEN	30	amod	_	31	gun3-a-ba	gun3[speckled]	V	NF.V.SUB.DEM2.GEN	30	amod	_	32	that speckled dog	NN	1	nmod:of
+a.16.2	gun3-a-ba	31	gun3-a-ba	gun3[speckled]	V	NF.V.PT.DEM2.GEN	30	amod	_	31	gun3-a-ba	gun3[speckled]	V	NF.V.PT.DEM2.GEN	30	amod	_	32	that speckled dog	NN	1	nmod:of
 a.17.1	he2-dab5	32	he2-dab5	dab5[seize]	V	MOD1.FIN.V.3-SG-S	0	_	_	32	he2-dab5	dab5[seize]	V	MOD1.FIN.V.3-SG-S	0	_	_	33	Grab Him	VB	34	csubj
 a.18.1	mu-bi-im	33	mu-bi-im	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	0	_	_	33	mu-bi-im	mu[name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	0	_	_	34	is its name	NN	1	parataxis

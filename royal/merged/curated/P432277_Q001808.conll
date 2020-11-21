@@ -12,12 +12,12 @@ a.6.1	{d}amar-{d}suen	9	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	8	appos	_	9	{d}
 a.7.1	nibru{ki}-a	10	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	8	appos	_	10	nibru{ki}-a	nibru{ki}[1]	SN	SN.L1	8	appos	_	10	whom in Nippur	WP	9	appos
 a.8.1	{d}en-lil2-le	11	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	13	ERG	_	11	{d}en-lil2-le	{d}en-lil2[1]	DN	DN.ERG	13	ERG	_	11	Enlil	NNP	10	nmod:in
 a.9.1	mu	12	mu	mu[name]	N	N.ABS	13	ABS	_	12	mu	mu[name]	N	N.ABS	13	ABS	_	12	chose	VBD	11	acl
-a.9.2	pa3-da	13	pad3-da	pad3[find]	V	NF.V.SUB	28	TERM	_	13	pad3-da	pad3[find]	V	NF.V.SUB	28	TERM	_	13	by name	NN	12	nmod:by
+a.9.2	pa3-da	13	pad3-da	pad3[find]	V	NF.V.PT	28	TERM	_	13	pad3-da	pad3[find]	V	NF.V.PT	28	TERM	_	13	by name	NN	12	nmod:by
 a.10.1	sag-us2	14	sag-us2	sag-us2[constant]	V	NF.V	13	appos	_	14	sag-us2	sag-us2[constant]	V	NF.V	13	appos	_	14	the constant supporter	NN	11	appos
 a.11.1	e2	15	e2	e2[house]	N	N	14	GEN	_	15	e2	e2[house]	N	N	14	GEN	_	15	_	,	11	_
 a.11.2	{d}en-lil2-ka	16	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	15	GEN	_	16	{d}en-lil2-ka	{d}en-lil2[1]	DN	DN.GEN.GEN	15	GEN	_	16	of temple of Enlil	NN	14	nmod:of
 a.12.1	nita	17	nita	nita[male]	N	N	13	appos	_	17	nita	nita[male]	N	N	13	appos	_	17	man	NN	11	appos
-a.12.2	kal-ga	18	kalag-ga	kalag[strong]	V	NF.V.SUB	17	amod	_	18	kalag-ga	kalag[strong]	V	NF.V.SUB	17	amod	_	18	the strong	DT	17	det
+a.12.2	kal-ga	18	kalag-ga	kalag[strong]	V	NF.V.PT	17	amod	_	18	kalag-ga	kalag[strong]	V	NF.V.PT	17	amod	_	18	the strong	DT	17	det
 a.13.1	lugal	19	lugal	lugal[king]	N	N	13	appos	_	19	lugal	lugal[king]	N	N	13	appos	_	19	king	NN	11	appos
 a.13.2	uri5{ki}-ma	20	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	19	GEN	_	20	urim5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	19	GEN	_	20	Ur	NN	19	nmod:of
 a.14.1	lugal	21	lugal	lugal[king]	N	N	19	GEN	_	21	lugal	lugal[king]	N	N	19	GEN	_	21	_	,	23	_
