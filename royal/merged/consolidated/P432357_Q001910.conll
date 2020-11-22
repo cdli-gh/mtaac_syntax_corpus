@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Inanna Paplal son of Amarsumun temple administrator of Enlil
+# tr.en: Inanna Paplal son of Amarsumun temple administrator of Enlil	
+1	{d}inanna	{d}inana[1]	DN	DN.DAT-H	0	root	projected	
+2	pap-lal3	pap-lal3[1]	PN	PN	1	appos	projected	
+3	dumu	dumu[child]	N	N	1	appos	projected	
+4	amar-sumun	amar-sumun[1]	PN	PN	3	GEN	projected	
+5	x	_[_]	u	u	1	dep	heuristic: after nominal head	
+6	sanga	sagga[official]	N	N	1	appos	projected	
+7	{d}en-lil2	{d}en-lil2[1]	DN	DN.GEN	6	GEN	_	
+8	...	_[of.Enlil]	PN	PN	6	dep	projected
+	
+

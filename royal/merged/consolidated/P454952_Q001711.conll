@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ea-nia beloved consort of king Lu-Namma scribe child of Ur-Itarn is your servant
+# tr.en: Ea-nia beloved consort of king Lu-Namma scribe child of Ur-Itarn is your servant	
+1	e2-a-ni-sza	e2-a-ni-sza[1]	PN	PN	0	root	projected	
+2	lukur	lukur[priestess]	N	N	4	ABS	_	
+3	ki-ag2	ki[place]+ag2[measure]	V	NF.V	1	amod	_	
+4	lugal	lugal[king]	N	N.GEN.ABS	4	GEN	_	
+5	lu2-{d}namma	lu2-{d}namma[1]	PN	PN	1	appos	projected	
+6	dub-sar	dub-sar[scribe]	N	N	6	appos	_	
+7	dumu	dumu[child]	N	N	6	appos	_	
+8	ur-{d}isztaran	ur-{d}isztaran[1]	PN	PN.GEN.ABS	8	GEN	_	
+9	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	projected
+	
+

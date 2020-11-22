@@ -1,0 +1,75 @@
+# POS (from levenshtein-merged ETCSRI, if available; fallback: normalized POS (from annotation projection)
+# and MORPH (if undefined, resort to POS)
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# 0: conll:POS is initialized from from levenshtein-merged ETCSRI
+
+# 1: normalize EN_POS in accordance with MTAAC
+DELETE {
+	?w conll:EN_POS ?old
+} INSERT {
+	?w conll:EN_POS ?new
+} WHERE {
+	?w conll:EN_POS ?old.
+	VALUES(?old ?new) {
+		("CARD"	"NU")
+		("CC"	"N")		# typically noun or proper noun
+		("CD"	"NU")
+		("FW"	"PN")		# typically proper name, but we cannot ascertain the specific type
+		("IN"	"N")		# either nominal with prepositional interpretation or misaligned nominal head of a PP
+		("JJ"	"V")
+		("JJR"	"N")		# we assume that these can be interpreted as nominalized ("adjectives")
+		("JJS"	"N")
+		("NN"	"N")
+		("NNP"	"PN")		# proper name, but we cannot ascertain the specific type
+		("NNPS"	"N")		# likely for inhabitants of a country, then nominal
+		("NNS"	"N")
+		("NU"	"NU")
+		("PDT"	"N")		# predeterminer, assume that these are either nominal or nominalized
+		("POS"	"PN")		# head of a genitive is typically a proper name, we cannot ascertain a particular type
+		("PRP"	"V")		# typically Sumerian doesn't use explicit pronouns, so these are likely to be aligned with the verb
+		("RBR"	"N")		# assumed to be nouns or nominalized
+		("RBS"	"N")		# assumed to be nouns or nominalized
+		("VB"	"V")
+		("VBD"	"V")
+		("VBG"	"V")
+		("VBN"	"V")
+		("VBP"	"V")
+		("VBZ"	"V")
+		("WDT"	"N")		# assume that these are either nominal or nominalized
+		("WP"	"N")
+		("WP$"	"N")
+		("WRB"	"N")
+		(UNDEF "_")
+	}	
+};
+
+# 1.a delete uninterpretable EN_POS
+DELETE {	?w conll:EN_POS "_"	} WHERE { ?w conll:EN_POS "_" };
+	
+# 2: use EN_POS as fall-back for POS
+INSERT {
+	?w conll:POS ?en_pos
+} WHERE {
+	?w conll:EN_POS ?en_pos. 
+	MINUS { ?w conll:POS [] }
+};
+
+# 3: use POS as fallback for MORPH
+INSERT {
+	?w conll:MORPH ?pos
+} WHERE {
+	?w conll:POS ?pos.
+	MINUS { ?w conll:MORPH [] }
+};
+
+# delete EN_POS
+DELETE {	?w conll:EN_POS ?en_pos } WHERE { ?w conll:EN_POS ?en_pos };

@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Hunuri x-rini Szipara Szimaki and also Sabum Kima Duduli land of Anan
+# tr.en: Hunuri x-rini Szipara Szimaki and also Sabum Kima Duduli land of Anan																						
+1	...{ki}	_[_]	u	u	0	root	projected	
+2	x	_[_]	u	u	1	dep	projected	
+3	x	_[_]	u	u	1	dep	heuristic: attach to head	
+4	...	_[_]	u	u	1	dep	heuristic: attach to head	
+5	...{ki}	_[_]	u	u	1	_	heuristic: attach to head	
+6	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}[1]	SN	SN.ABS	1	_	heuristic: attach to head	
+7	x	_[_]	u	u	1	dep	projected	
+8	...	_	_	_	1	dep	heuristic: attach to head	
+9	...	_	_	_	1	dep	heuristic: attach to head	
+10	x-ri-ni{ki}	x-x-ri-ni{ki}[1]	GN	GN	1	appos	projected	
+11	szi-pa-ra{ki}	szi-pa-ra{ki}[1]	GN	GN.ABS	10	appos	_	
+12	mu-x	_[_]	u	u	1	_	heuristic: attach to head	
+13	...	x-ki{ki}[1]	GN	GN	0	dep	projected	
+14	szi-masz-gi5{ki}	_[Szimaki.and]	PN	PN	1	appos	projected; projectivity violation	
+15	sa-bu-um{ki}	sa-bu-um{ki}[1]	SN	SN.DEM2.COM	13	appos	_	
+16	bi-da-...	_[also]	_	_	15	_	projected	
+17	...	_	_	_	15	dep	projected	
+18	x{ki}	x-x{ki}[2]	GN	GN	15	appos	projected	
+19	ki-masz{ki}	ki-masz{ki}[1]	GN	GN	15	appos	projected	
+20	du8-du8-li2{ki}	du8-du8-li2{ki}[1]	GN	GN	15	appos	projected	
+21	...	_[_]	u	u	15	dep	projected	
+22	...	_[_]	u	u	15	dep	heuristic: after nominal head	
+23	ma-da	ma-da[land]	N	N	15	appos	projected	
+24	an-sza4-an{ki}	an-sza4-an{ki}[1]	SN	SN	23	GEN	projected	
+25	...	_[_]	u	u	1	dep	heuristic: attach to head	
+26	...{ki}	x{ki}[3]	GN	GN	1	_	heuristic: attach to head	
+27	x	_[_]	u	u	1	dep	projected	
+28	x	_[_]	u	u	0	dep	projected	
+29	x	_[_]	u	u	0	dep	projected	
+30	...	_[_]	u	u	0	dep	projected
+	
+

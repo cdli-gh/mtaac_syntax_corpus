@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ninurta the great farmer of Enlil	
+# tr.en: Ninurta the great farmer of Enlil
+1	{d}nin-urta	{d}nin-urta[1]	DN	DN	0	root	projected	
+2	ensi2	ensi2-gal[governor]	N	N	1	appos	_	
+3	gal	ensi2-gal[governor]	N	N	1	appos	projected; projectivity violation	
+4	{d}en-lil2-la2	{d}en-lil2[1]	DN	DN.GEN.ABS	2	GEN	_
+	
+

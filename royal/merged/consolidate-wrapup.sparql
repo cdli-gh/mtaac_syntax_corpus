@@ -1,0 +1,490 @@
+# overall consistency checks *after* consolitation ("post-consolidate")
+# operates over conll:HEAD, conll:EDGE, conll:POS, conll:WORD, and conll:MORPH only
+# these changes apply regardless from how these annotations emerged; previous consolidation was specific to different sources
+# includes projectivity checks and elimination of non-words (both operations are expensive)
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#######################
+# projectivity issues #
+#######################
+
+# detach non-projective deps
+DELETE {
+	?violator conll:MISC ?comment; conll:HEAD ?h.
+} INSERT {
+	?violator conll:MISC ?new; conll:HEAD ?s.
+} WHERE {
+	?w conll:HEAD ?W; conll:ID ?wpos. ?W conll:ID ?Wpos.
+	# ?w nif:nextWord+ ?v.	# expensive
+	?v conll:HEAD ?V; conll:ID ?vpos. ?V conll:ID ?Vpos.
+	FILTER( 
+		(xsd:int(?Vpos) > xsd:int(?Wpos) && xsd:int(?Wpos) > xsd:int(?vpos) && xsd:int(?vpos) > xsd:int(?wpos)) ||
+		(xsd:int(?vpos) > xsd:int(?Wpos) && xsd:int(?Wpos) > xsd:int(?Vpos) && xsd:int(?Vpos) > xsd:int(?wpos)) ||
+		(xsd:int(?Wpos) > xsd:int(?vpos) && xsd:int(?vpos) > xsd:int(?wpos) && xsd:int(?wpos) > xsd:int(?Vpos)) ||
+		(xsd:int(?vpos) > xsd:int(?wpos) && xsd:int(?wpos) > xsd:int(?Vpos) && xsd:int(?Vpos) > xsd:int(?Wpos)))
+	{ ?v a nif:Word. OPTIONAL { ?v conll:EDGE ?e } FILTER(!bound(?e) || ?e in ("_","?","dep")). BIND(?v as ?violator) } UNION
+	{ ?w a nif:Word. OPTIONAL { ?w conll:EDGE ?e } FILTER(!bound(?e) || ?e in ("_","?","dep")). BIND(?w as ?violator) }
+	?violator conll:HEAD ?h. ?h a nif:Word.
+	?h conll:HEAD+ ?s. ?s a nif:Sentence.
+	OPTIONAL { ?violator conll:MISC ?comment }
+	BIND("detached for projectivity" as ?new)
+};
+
+#############
+# POS fixes #
+#############
+# numerals => NU
+DELETE {
+	?w conll:POS ?pos
+} INSERT {
+	?w conll:POS "NU"
+} WHERE {
+	?w a nif:Word. MINUS {?w conll:POS "NU" }
+	{ ?w conll:WORD ?str. FILTER(regex(?str,"^[0-9].*")) } UNION
+	{ ?w conll:WORD ?str; conll:SEGM ?seg FILTER(strstarts(?str,"limmu2")) FILTER(contains(?seg,"four")) }	# frequently used: lugal an-ub-da limmu2-ba "king of the four quarters of the world" 
+	OPTIONAL { ?w conll:POS ?pos }
+};
+
+# u3 "N" [from projection] => CC (and cc)
+DELETE {
+	?w conll:POS ?pos; conll:EDGE ?edge
+} INSERT {
+	?w conll:POS "CC"; conll:EDGE "cc"
+} WHERE {
+	?w conll:WORD "u3". 
+	OPTIONAL { ?w conll:POS ?pos. }
+	FILTER(!bound(?pos) || ?pos="N")
+	OPTIONAL { ?w conll:EDGE ?edge }
+};
+
+#############
+# dep fixes #
+#############
+
+# edge of numeral is nummod
+DELETE {
+	?w conll:EDGE ?edge
+} INSERT {
+	?w conll:EDGE "nummod"
+} WHERE {
+	?w conll:POS "NU"; conll:EDGE ?edge
+};
+
+# appos with a following cc sibling are conj
+DELETE {
+	?w conll:EDGE "appos"
+} INSERT {
+	?w conll:EDGE "conj"
+} WHERE {
+	?w conll:EDGE "appos"; conll:HEAD/^conll:HEAD ?cc.
+	?cc conll:EDGE "cc".
+	?cc nif:nextWord+ ?w.
+};
+
+# pre-modifying appositions are nmod
+DELETE {
+	?w conll:EDGE "appos"
+} INSERT {
+	?w conll:EDGE "nmod"
+} WHERE {
+	?w conll:EDGE "appos"; conll:HEAD ?h; nif:nextWord+ ?h
+};
+
+# post-modifying (plain) nmod is appos
+DELETE {
+	?w conll:EDGE "nmod"
+} INSERT {
+	?w conll:EDGE "appos"
+} WHERE {
+	?w conll:EDGE "nmod"; conll:HEAD ?h. ?h nif:nextWord+ ?w.
+};
+
+# disambiguate nsubj: map to ERG if another ABS argument is found, map to ABS otherwise
+DELETE {
+	?w conll:EDGE "nsubj"
+} INSERT {
+	?w conll:EDGE "ERG"
+} WHERE {
+	?w conll:EDGE "nsubj". ?w conll:HEAD/^conll:HEAD/conll:EDGE "ABS".
+};
+
+DELETE {
+	?w conll:EDGE "nsubj"
+} INSERT { 
+	?w conll:EDGE "ABS"
+} WHERE {
+	?w conll:EDGE "nsubj"
+};
+	
+# from annotation projection, TERM and DAT cannot be reliably distinguished
+# for any DAT, change to TERM if TERM morphology is found in a dependent but no DAT morphology 
+DELETE {
+	?w conll:EDGE "DAT"
+} INSERT {
+	?w conll:EDGE "TERM"
+} WHERE {
+	?w conll:EDGE "DAT". ?dep conll:HEAD* ?w; conll:MORPH ?m.
+	FILTER(contains(?m,"TERM"))
+	MINUS {
+		?w conll:EDGE "DAT". ?dep2 conll:HEAD* ?w; conll:MORPH ?m2.
+		FILTER(contains(?m2,"DAT"))
+	}
+};
+	
+# for any TERM, change to DAT if DAT morphology is found in a dependent but no TERM morphology
+DELETE {
+	?w conll:EDGE "TERM"
+} INSERT {
+	?w conll:EDGE "DAT"
+} WHERE {
+	?w conll:EDGE "TERM". ?dep conll:HEAD* ?w; conll:MORPH ?m.
+	FILTER(contains(?m,"DAT"))
+	MINUS {
+		?w conll:EDGE "TERM". ?dep2 conll:HEAD* ?w; conll:MORPH ?m2.
+		FILTER(contains(?m2,"TERM"))
+	}
+};
+
+#######################
+# eliminate non-words #
+#######################
+
+# mark deletion candidates
+DELETE {
+	?w a nif:Word.	# marks deletion candidates
+} WHERE {
+	?w a nif:Word. 
+	OPTIONAL { ?w conll:WORD ?str }
+	FILTER(!bound(?str) || contains(?str,"*RETOK*"))
+};
+
+# bridge conll:HEAD links via deletion candidate
+DELETE {
+	?w conll:HEAD ?h
+} INSERT {
+	?w conll:HEAD ?H
+} WHERE {
+	?w conll:HEAD ?h. ?h conll:HEAD []. MINUS { ?h a nif:Word }
+	?w conll:HEAD+ ?H. { ?H a nif:Word } UNION { ?H a nif:Sentence }
+	MINUS { ?w conll:HEAD+ ?tmp. ?tmp a nif:Word; conll:HEAD+ ?H }
+};
+
+# bridge nif:nextWord 
+INSERT {
+	?last nif:nextWord ?w.
+} WHERE {
+	?zero nif:nextWord ?w.
+	?w a nif:Word.
+	MINUS { ?zero a nif:Word }
+	?w a nif:Word; conll:ID ?pos.
+	?last a nif:Word; conll:ID ?lastPos.
+	FILTER(xsd:int(?lastPos)<xsd:int(?pos))
+};
+
+# delete zeros
+DELETE {
+	?a ?b ?zero.
+	?zero ?c ?d.
+} WHERE {
+	{ [] nif:nextWord ?zero } UNION
+	{ ?zero nif:nextWord [] }
+	MINUS { ?zero a nif:Word }
+	OPTIONAL { ?a ?b ?zero }
+	OPTIONAL { ?zero ?c ?d }
+};
+
+# bridge nif:nextWord: prune nif:nextWord
+DELETE {
+	?pre nif:nextWord ?w
+} WHERE {
+	?pre nif:nextWord ?w.
+	?pre nif:nextWord/nif:nextWord ?w
+};
+
+# reset conll:ID
+DELETE {
+	?w conll:ID ?old
+} INSERT {
+	?w conll:ID ?id
+} WHERE {
+	{ SELECT ?w ?old (COUNT(distinct ?pre) as ?nr)
+		WHERE {
+			?w a nif:Word; conll:ID ?old .
+			?pre nif:nextWord* ?w.
+		} GROUP BY ?w ?old
+	}
+	BIND(str(?nr) as ?id)
+};
+
+####################
+# attachment fixes #
+####################
+
+# attach unattached elements under a spanning relation
+# but only if they have no dependents (otherwise, we risk cycles)
+# depending on the type of spanning relation and the POS
+# (note that this can yield multiple attachments if there are multiple spanning relations, we thus need to disambiguate below)
+
+# numerals are often pre-modifying 
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?comment
+} INSERT {
+	?w conll:HEAD ?h; conll:MISC "heuristic: NU premodifying"
+} WHERE {
+	?w conll:POS "NU".
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?pre nif:nextWord+ ?w.
+	?w nif:nextWord+ ?post.
+	?pre conll:HEAD|^conll:HEAD ?post.
+	BIND(?post as ?h)
+	OPTIONAL { ?w conll:MISC ?comment }
+	MINUS { [] conll:HEAD ?w }
+};
+
+# after a nominal head, attach to the noun 
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?comment
+} INSERT {
+	?w conll:HEAD ?h; conll:MISC "heuristic: after nominal head"
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?pre nif:nextWord+ ?w.
+	?w nif:nextWord+ ?post.
+	?pre ^conll:HEAD ?post.
+	?pre conll:POS ?pos FILTER(strends(?pos,"N"))	# nominal
+	BIND(?pre as ?h)
+	OPTIONAL { ?w conll:MISC ?comment }
+	MINUS { [] conll:HEAD ?w }
+};
+
+# before a verbal head, attach to the verb
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?comment
+} INSERT {
+	?w conll:HEAD ?h; conll:MISC "heuristic: before verbal head"
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?pre nif:nextWord+ ?w.
+	?w nif:nextWord+ ?post.
+	?pre conll:HEAD ?post.
+	?post conll:POS "V".
+	BIND(?post as ?h)
+	OPTIONAL { ?w conll:MISC ?comment }
+	MINUS { [] conll:HEAD ?w }
+};
+
+# after a nominal non-head, attach to the noun
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?comment
+} INSERT {
+	?w conll:HEAD ?h; conll:MISC "heuristic: after nominal"
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?pre nif:nextWord+ ?w.
+	?w nif:nextWord+ ?post.
+	?pre conll:HEAD ?post.
+	?pre conll:POS ?pos FILTER(strends(?pos,"N"))	# nominal
+	BIND(?pre as ?h)
+	OPTIONAL { ?w conll:MISC ?comment }
+	MINUS { [] conll:HEAD ?w }
+};
+
+# before a verbal non-head, attach to the verb
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?comment
+} INSERT {
+	?w conll:HEAD ?h; conll:MISC "heuristic: before verb"
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?pre nif:nextWord+ ?w.
+	?w nif:nextWord+ ?post.
+	?pre ^conll:HEAD ?post.
+	?post conll:POS "V".
+	BIND(?post as ?h)
+	OPTIONAL { ?w conll:MISC ?comment }
+	MINUS { [] conll:HEAD ?w }
+};
+
+# attach to the head
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?comment
+} INSERT {
+	?w conll:HEAD ?h; conll:MISC "heuristic: attach to head"
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?pre nif:nextWord+ ?w.
+	?w nif:nextWord+ ?post.
+	{ ?pre conll:HEAD ?post. BIND(?post as ?h) } UNION
+	{ ?post conll:HEAD ?pre. BIND(?pre as ?h) }
+	OPTIONAL { ?w conll:MISC ?comment }
+	MINUS { [] conll:HEAD ?w }
+};
+
+# if a nif:Word has multiple preceding parents, choose the closest
+DELETE {
+	?w conll:HEAD ?h1
+} WHERE {
+	?w conll:HEAD ?h1, ?h2.
+	?h1 nif:nextWord+ ?h2.
+	?h2 nif:next:Word+ ?w
+};
+
+# if a nif:Word has multiple following parents, choose the closest
+DELETE {
+	?w conll:HEAD ?h2
+} WHERE {
+	?w conll:HEAD ?h1, ?h2.
+	?w nif:nextWord+ ?h1.
+	?h1 nif:nextWord+ ?h2
+};
+
+# if a nif:Word has a preceding and a following parent, choose the closest
+# if distance is equal, choose the first
+DELETE {
+	?w conll:HEAD ?nonHead
+} WHERE {
+	?w conll:HEAD ?h1, ?h2.
+	?h1 nif:nextWord+ ?w; conll:ID ?pos1.
+	?w nif:nextWord+ ?h2; conll:ID ?pos.
+	?h2 conll:ID ?pos2.
+	BIND(if(xsd:int(?pos) - xsd:int(?pos1) > xsd:int(?pos2) - xsd:int(?pos), ?h1, ?h2) as ?nonHead)
+};
+
+#######################
+# projectivity issues #
+#######################
+
+# detach non-projective deps (may have been created during heuristic attachment)
+DELETE {
+	?violator conll:HEAD ?h.
+} INSERT {
+	?violator conll:HEAD ?s.
+} WHERE {
+	?w conll:HEAD ?W; conll:ID ?wpos. ?W conll:ID ?Wpos.
+	?w nif:nextWord+ ?v.
+	?v conll:HEAD ?V; conll:ID ?vpos. ?V conll:ID ?Vpos.
+	FILTER( 
+		(xsd:int(?Vpos) > xsd:int(?Wpos) && xsd:int(?Wpos) > xsd:int(?vpos) && xsd:int(?vpos) > xsd:int(?wpos)) ||
+		(xsd:int(?vpos) > xsd:int(?Wpos) && xsd:int(?Wpos) > xsd:int(?Vpos) && xsd:int(?Vpos) > xsd:int(?wpos)) ||
+		(xsd:int(?Wpos) > xsd:int(?vpos) && xsd:int(?vpos) > xsd:int(?wpos) && xsd:int(?wpos) > xsd:int(?Vpos)) ||
+		(xsd:int(?vpos) > xsd:int(?wpos) && xsd:int(?wpos) > xsd:int(?Vpos) && xsd:int(?Vpos) > xsd:int(?Wpos)))
+	{ ?v a nif:Word. OPTIONAL { ?v conll:EDGE ?e } FILTER(!bound(?e) || ?e in ("_","?","dep")). BIND(?v as ?violator) } UNION
+	{ ?w a nif:Word. OPTIONAL { ?w conll:EDGE ?e } FILTER(!bound(?e) || ?e in ("_","?","dep")). BIND(?w as ?violator) }
+	?violator conll:HEAD ?h.
+	?h conll:HEAD+ ?s. ?s a nif:Sentence.
+};
+
+# attach unattached elements to the last element (if no dependents)
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?comment
+} INSERT {
+	?w conll:HEAD ?last; conll:MISC "heuristic: attach to last"
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?pre nif:nextWord+ ?w; (conll:HEAD|^conll:HEAD) ?post.
+	?w nif:nextWord+ ?post.
+	?last nif:nextWord ?w.
+	OPTIONAL { ?w conll:MISC ?comment }
+	MINUS { [] conll:HEAD ?w }
+};
+
+# replace "dep" by EN_EDGE if provided
+DELETE {
+	?w conll:EDGE "dep"; conll:MISC ?old.
+} INSERT {
+	?w conll:EDGE ?en; conll:MISC ?comment.
+} WHERE {
+	?w conll:EDGE "dep"; conll:EN_EDGE ?en.
+	OPTIONAL { ?w conll:MISC ?old }
+	BIND("EN label" as ?msg)
+	bind(if(bound(?old), concat(?old,"; ",?msg), ?msg) as ?comment)
+};
+
+# flatten sequences of deps, but only if heuristically attached or alignment error (i.e., no POS)
+DELETE {
+	?dep conll:HEAD ?old; conll:MISC ?oldMsg.
+} INSERT {
+	?dep conll:HEAD ?new; conll:MISC ?newMsg
+} WHERE {
+	?dep conll:EDGE "dep"; conll:HEAD ?old.
+	MINUS { ?dep conll:POS [] }
+	?old conll:EDGE "dep".
+	?dep conll:HEAD+ ?new.
+	MINUS { ?new conll:EDGE "dep" }
+	OPTIONAL { ?dep conll:MISC ?oldMsg }
+	BIND("flattened dep trail" as ?msg)
+	BIND(if(bound(?oldMsg), concat(?oldMsg,"; ",?msg), ?msg) as ?newMsg)
+};
+
+# flatten sequences of deps: keep closest 
+DELETE {
+	?dep conll:HEAD ?h2.
+} WHERE {
+	?dep conll:HEAD ?h1, ?h2. FILTER(?h1!=?h2)
+	?h1 conll:HEAD+ ?h2
+};
+
+# report remaining projectivity issues
+DELETE {
+	?w conll:MISC ?comment
+} INSERT {
+	?w conll:MISC ?new
+} WHERE {
+	?w conll:HEAD ?W; conll:ID ?wpos. ?W conll:ID ?Wpos.
+	?w nif:nextWord+ ?v.
+	?v conll:HEAD ?V; conll:ID ?vpos. ?V conll:ID ?Vpos.
+	FILTER( 
+		(xsd:int(?Vpos) > xsd:int(?Wpos) && xsd:int(?Wpos) > xsd:int(?vpos) && xsd:int(?vpos) > xsd:int(?wpos)) ||
+		(xsd:int(?vpos) > xsd:int(?Wpos) && xsd:int(?Wpos) > xsd:int(?Vpos) && xsd:int(?Vpos) > xsd:int(?wpos)) ||
+		(xsd:int(?Wpos) > xsd:int(?vpos) && xsd:int(?vpos) > xsd:int(?wpos) && xsd:int(?wpos) > xsd:int(?Vpos)) ||
+		(xsd:int(?vpos) > xsd:int(?wpos) && xsd:int(?wpos) > xsd:int(?Vpos) && xsd:int(?Vpos) > xsd:int(?Wpos)))
+	OPTIONAL { ?w conll:MISC ?comment }
+	BIND("projectivity violation" as ?msg)
+	BIND(if(BOUND(?comment), concat(?comment,"; ", ?msg), ?msg) as ?new)
+};
+
+######################
+# consolidate labels #
+######################
+
+# drop all dep
+DELETE {
+	?w conll:EDGE "dep"
+} WHERE {
+	?w conll:EDGE "dep"
+}; 
+
+# assert dep to all fragments
+DELETE {
+	?w conll:EDGE ?e
+} INSERT {
+	?w conll:EDGE "dep"
+} WHERE {
+	?w conll:WORD ?str. FILTER(regex(?str,"^[x\\.\\-X]+$"))
+	OPTIONAL { ?w conll:EDGE ?e }
+};
+
+###################
+# multiple labels #
+###################
+
+# take the lexicographically first
+DELETE {
+	?w conll:EDGE ?e2; conll:MISC ?old
+} INSERT {
+	?w conll:MISC ?comment
+} WHERE {
+	?w conll:EDGE ?e1, ?e2.
+	FILTER(?e1 < ?e2)
+	OPTIONAL { ?w conll:MISC ?old }
+	BIND(concat("dropped alternative DEP ",?e2) as ?msg)
+	BIND(if(bound(?old), concat(?old,"; ",?msg), ?msg) as ?comment)
+};

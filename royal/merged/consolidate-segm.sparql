@@ -1,0 +1,66 @@
+# consolidate SEGM from conll:SEGM (< EF), conll:EL_SEGM (< EL), conll:GLOSS and conll:EN_POS (< projected)
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# 1: use force-aligned ETCSRI as default
+
+# 2: use Levenshtein-aligned ETCSRI if unlikely multi-word SEGM or as fallback
+DELETE {
+	?w conll:SEGM ?ef_segm
+} INSERT {
+	?w conll:SEGM ?el_segm
+} WHERE {
+	?w conll:EL_SEGM ?el_segm.
+	{ ?w conll:SEGM ?ef_segm.
+	  FILTER(strlen(replace(?ef_segm, "[^+]",""))>1)	# more than two elements conjoined is likely an error
+	} UNION {
+		?w a nif:Word.
+		MINUS { ?w conll:SEGM [] }
+	}
+};
+
+# 2: use GLOSS[1] if EN_POS=NNP and (unlikely multi-word SEGM or as fallback)
+DELETE {
+	?w conll:SEGM ?segm
+} INSERT {
+	?w conll:SEGM ?new
+} WHERE {
+	?w conll:GLOSS ?gloss; conll:EN_POS "NNP".
+	FILTER(!contains(?gloss," "))
+	{ ?w conll:SEGM ?segm.
+	  FILTER(strlen(replace(?segm, "[^+]",""))>1)	# more than two elements conjoined is likely an error
+	} UNION {
+		?w a nif:Word.
+		MINUS { ?w conll:SEGM [] }
+	}
+	BIND(concat(lcase(?gloss),"[1]") as ?new)
+};
+	
+# 3: use _[GLOSS] if (unlikely multi-word SEGM or as fallback)
+DELETE {
+	?w conll:SEGM ?segm
+} INSERT {
+	?w conll:SEGM ?new
+} WHERE {
+	?w conll:GLOSS ?gloss.
+	{ ?w conll:SEGM ?segm.
+	  FILTER(strlen(replace(?segm, "[^+]*",""))>1)	# more than two elements conjoined is likely an error
+	} UNION {
+		?w a nif:Word.
+		MINUS { ?w conll:SEGM [] }
+	}
+	BIND(concat("_[",replace(?gloss,"  *","."),"]") as ?new)
+};
+
+# 4: use _ otherwise	
+
+# remove EL_SEGM and GLOSS
+DELETE { ?w conll:EL_SEGM ?segm } WHERE { ?w conll:EL_SEGM ?segm };
+DELETE { ?w conll:GLOSS ?segm } WHERE { ?w conll:GLOSS ?segm };

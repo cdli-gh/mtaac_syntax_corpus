@@ -1,0 +1,224 @@
+# normalize dependency labels for conll:EF_EDGE conll:EL_EDGE (pre-annotation) and conll:EN_EDGE (annotation projection)
+# note that this doesn't operate on EDGE
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# wrap conll:EF_EDGE and conll:EL_EDGE under conll:ETCSRI_EDGE
+INSERT DATA {
+	conll:EF_EDGE rdfs:subPropertyOf conll:ETCSRI_EDGE.
+	conll:EL_EDGE rdfs:subPropertyOf conll:ETCSRI_EDGE.
+};
+
+# normalize forced pre-annotation: skip unclassified elements, replace + by space
+DELETE {
+	?w conll:EF_EDGE ?old.
+} INSERT {
+	?w conll:EF_EDGE ?new
+} WHERE {
+	?w conll:EF_EDGE ?old.
+	BIND(replace(replace(replace(replace(replace(?old,"[\\+]+"," ")," [?_] "," ")," [_?]$",""),"^[_?] "," "),"^ *([.]+) *$","$1") AS ?new)
+	FILTER(?old!=?new)
+};
+
+# normalize forced pre-annotation: map (interpretables only)
+DELETE {
+	?w conll:EF_EDGE ?old.
+} INSERT {
+	?w conll:EF_EDGE ?new
+} WHERE {
+	?w conll:EF_EDGE ?old.
+	values (?old ?new) {
+		("ABS ABS appos amod"	"ABS")
+		("ABS appos"	"ABS")
+		("ABS appos ABS"	"ABS")
+		("ABS appos amod"	"ABS")
+		("ABS X appos"	"ABS")
+		("amod ABS"	"ABS")
+		("appos ABS"	"ABS")
+		("EQU ABS"	"ABS")
+		("GEN ABS appos"	"ABS")
+		("amod appos"	"appos")
+		("appos amod"	"appos")
+		("appos appos"	"appos")
+		("appos appos amod"	"appos")
+		("conj COM amod"	"conj")
+		("appos DAT"	"DAT")
+		("DAT.H appos"	"DAT")
+		("DAT.H appos appos"	"DAT")
+		("DAT appos"	"DAT")
+		("DAT appos GEN"	"DAT")
+		("GEN DAT.H"	"DAT")
+		("appos ERG"	"ERG")
+		("appos ERG GEN"	"ERG")
+		("ERG appos appos appos"	"ERG")
+		("GEN GEN.ERG"	"ERG")
+		("appos amod appos GEN appos"	"GEN")
+		("appos amod appos GEN appos GEN amod"	"GEN")
+		("appos amod GEN"	"GEN")
+		("appos amod GEN appos GEN"	"GEN")
+		("appos appos GEN"	"GEN")
+		("appos GEN"	"GEN")
+		("appos GEN GEN"	"GEN")
+		("GEN amod"	"GEN")
+		("GEN appos"	"GEN")
+		("GEN appos amod"	"GEN")
+		("GEN appos appos"	"GEN")
+		("GEN appos GEN amod"	"GEN.GEN")
+		("GEN GEN"	"GEN.GEN")
+		("LOC amod"	"LOC")
+		("LOC X"	"LOC")
+		("appos amod TERM"	"TERM")
+		("TERM GEN"	"TERM")
+		(UNDEF "_")
+	}
+};
+
+# normalize ETCSRI annotations (observed errors only)
+DELETE {
+	?w ?prop ?old
+} INSERT {
+	?w ?prop ?new
+} WHERE {
+	?prop rdfs:subPropertyOf conll:ETCSRI_EDGE.
+	?w ?prop ?old.
+	VALUES (?old ?new) {
+		("DAT.H"	"DAT")	# escaped normalization
+		("X"	"_")		# what is this?
+		("ABS."	"ABS")		# typo?
+	}
+};
+
+# normalize projected annotations
+DELETE {
+	?w conll:EN_EDGE ?old
+} INSERT {
+	?w conll:EN_EDGE ?new
+} WHERE {
+	?w conll:EN_EDGE ?old.
+	VALUES (?old ?new) {
+		("nmod:'" 	"nmod:of")
+		("nmod:of.'s"	"nmod:of.of")
+		("nmod:'s"	"nmod:of")
+	}
+};
+
+# approximative mapping from UD v.1 / Stanford labels to MTAAC labels
+DELETE {
+	?w conll:EN_EDGE ?ud
+} INSERT {
+	?w conll:EN_EDGE ?mtaac
+} WHERE {
+	?w conll:EN_EDGE ?ud.
+	VALUES (?ud ?mtaac) {
+		# "regular" MTAAC dependencies
+		("acl"	"acl")
+		("acl:relcl"	"acl")
+		("advcl"	"acl.ADV")
+		("advmod"	"_")
+		("amod"	"amod")
+		("appos"	"appos")
+		("aux"	"_")
+		("auxpass"	"_")
+		("cc"	"appos")
+		("ccomp"	"parataxis")
+		("compound"	"appos")
+		("compound:prt"	"_")
+		("conj"	"appos")
+		("cop"	"_")
+		("csubj"	"ccomp ")
+		("csubjpass"	"ccomp ")
+		("dep"	"_")
+		("det"	"appos")
+		("det:predet"	"_")
+		("dobj"	"ABS")
+		("expl"	"_")
+		("iobj"	"DAT")
+		("mark"	"_")
+		("neg"	"_")
+		("nmod"	"dep")
+		("nmod:above"	"LOC")
+		("nmod:after"	"LOC")
+		("nmod:against"	"LOC")
+		("nmod:among"	"LOC")
+		("nmod:as"	"LOC")
+		("nmod:as.by"	"EQU")
+		("nmod:as.en"	"EQU")
+		("nmod:at"	"LOC")
+		("nmod:because"	"GEN.TERM")
+		("nmod:before"	"LOC")
+		("nmod:behind"	"LOC")
+		("nmod:below"	"LOC")
+		("nmod:beside"	"LOC")
+		("nmod:between"	"LOC")
+		("nmod:by"	"ERG")
+		("nmod:for"	"DAT")
+		("nmod:for.of"	"DAT")
+		("nmod:from"	"ABL")
+		("nmod:from.across"	"ABL")
+		("nmod:from.among"	"ABL")
+		("nmod:from.within"	"ABL")
+		("nmod:in"	"LOC")
+		("nmod:in.of"	"LOC")
+		("nmod:inside"	"LOC")
+		("nmod:into"	"TERM")
+		("nmod:like"	"EQU")
+		("nmod:npmod"	"appos")
+		("nmod:of"	"GEN")
+		("nmod:of.of"	"GEN.GEN")
+		("nmod:off.to"	"TERM")
+		("nmod:on"	"LOC")
+		("nmod:onto"	"TERM")
+		("nmod:out"	"ABL")
+		("nmod:out.of"	"ABL")
+		("nmod:over"	"LOC")
+		("nmod:poss"	"appos")
+		("nmod:since"	"LOC")
+		("nmod:through"	"TERM")
+		("nmod:tmod"	"date")
+		("nmod:to"	"LOC")
+		("nmod:towards"	"TERM")
+		("nmod:under"	"LOC")
+		("nmod:until"	"TERM")
+		("nmod:up"	"LOC")
+		("nmod:up.against"	"TERM")
+		("nmod:upon"	"TERM")
+		("nmod:via"	"via")
+		("nmod:with"	"COM")
+		("nmod:within"	"LOC")
+		("nsubjpass"	"ABS")
+		("nummod"	"nummod")
+		("parataxis"	"parataxis")
+		("root"	"root")
+		("xcomp"	"acl")
+		
+		# left for subsequent disambiguation (after phrases are established): map to ERG is another ABS argument is found, map to ABS otherwise
+		("nsubj"	"nsubj")
+		
+		# left for manual inspection
+		("nmod:accord"	"nmod:accord")
+		("nmod:concern"	"nmod:concern")
+		("nmod:follow"	"nmod:follow")
+		("nmod:give"	"nmod:give")
+		("nmod:instead"	"nmod:instead")
+		("nmod:per"	"nmod:per")
+		("nmod:than"	"nmod:than")
+		("nmod:without"	"nmod:without")
+	}
+};	
+
+# insert dep to dependencies without label
+DELETE { ?w ?prop "_" } WHERE { ?w ?prop "_" FILTER(?prop in (conll:EL_EDGE, conll:EDGE, conll:EF_EDGE, conll:EN_EDGE)) };
+
+INSERT { ?w conll:EL_EDGE "dep" } WHERE { ?w conll:EL_HEAD []. MINUS { ?w conll:EL_EDGE [] }};
+INSERT { ?w conll:EF_EDGE "dep" } WHERE { ?w conll:EF_HEAD []. MINUS { ?w conll:EF_EDGE [] }};
+INSERT { ?w conll:EN_EDGE "dep" } WHERE { ?w conll:EN_HEAD []. MINUS { ?w conll:EN_EDGE [] }};
+		
+# delete conll:ETCSRI_EDGE
+DELETE { ?prop rdfs:subPropertyOf conll:ETCSRI_EDGE } WHERE { ?prop rdfs:subPropertyOf conll:ETCSRI_EDGE } ; 

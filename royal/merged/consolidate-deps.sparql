@@ -1,0 +1,119 @@
+# consolidate (partial) dependency annotations from ETSCRI (conll:EL_HEAD, conll:EL_EDGE) and annotation projection (conll:EN_HEAD, conll:EN_EDGE)
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# if no conll:ID is found, create it
+INSERT {
+	?w conll:ID ?id
+} WHERE {
+	?w a nif:Word.
+	MINUS { ?w conll:ID [] }
+	{ SELECT ?w (COUNT(distinct ?pre) as ?nr)
+	  WHERE {
+		?w a nif:Word. 	MINUS { ?w conll:ID [] }
+		?pre nif:nextWord* ?w
+	  } GROUP BY ?w
+	}
+	BIND(str(?nr) as ?id)
+};
+
+# preprocess EL_HEAD and EL_EDGE: if the EL_HEAD is a nif:Word without a conll:WORD [i.e., a sub-token], replace it with EF_HEAD and EF_EDGE
+DELETE {
+	?w conll:EL_HEAD ?elhid; conll:EL_EDGE ?ele
+} INSERT {
+	?w conll:EL_HEAD ?efhid; conll:EL_EDGE ?efe
+} WHERE {
+	?w conll:EL_HEAD ?elhid. OPTIONAL { ?w conll:EL_EDGE ?ele. }
+	?elh conll:EL_ID ?elhid.
+	MINUS { ?elh conll:WORD [] }
+	?w conll:EF_HEAD ?efhid. OPTIONAL { ?w conll:EF_EDGE ?efe. }
+};
+
+# for valid parses, rename EL_HEAD to HEAD; create object properties; rename associated EDGE properties
+DELETE {
+	?w conll:HEAD ?s; conll:EL_HEAD ?h1id; conll:EL_EDGE ?e1.
+} INSERT {
+	?w conll:HEAD ?h1; conll:EDGE ?e1
+} WHERE {
+	?w conll:EL_HEAD ?h1id; conll:HEAD ?s.
+	{ ?h1 conll:EL_ID ?h1id. } UNION
+	{ ?w conll:EL_HEAD "0"; conll:HEAD+ ?h1. ?h1 a nif:Sentence }
+	?w conll:EL_EDGE ?e1.
+};
+
+# for invalid parses (without EDGE), move EL_HEAD to HEAD1
+DELETE {
+	?w conll:EL_HEAD ?h1id
+} INSERT {
+	?w conll:HEAD1 ?h1; conll:EDGE "dep"; conll:EDGE1 "dep"
+} WHERE {
+	?w conll:EL_HEAD ?h1id.
+	{ ?h1 conll:EL_ID ?h1id } UNION 
+	{ ?w conll:EL_HEAD "0"; conll:HEAD+ ?h1. ?h1 a nif:Sentence. }
+};
+	
+# rename EN_HEAD to HEAD2 etc., create object properties
+DELETE {
+	?w conll:EN_HEAD ?h2id; conll:EN_EDGE ?e2
+} INSERT {
+	?w conll:HEAD2 ?h2; conll:EDGE2 ?e2
+} WHERE {
+	?w conll:EN_HEAD ?h2id.
+	{ ?h2 conll:EN_ID ?h2id. } UNION 
+	{ ?w conll:EN_HEAD "0"; conll:HEAD+ ?h2. ?h2 a nif:Sentence }
+	
+	OPTIONAL { ?w conll:EN_EDGE ?e2 }
+};
+
+# delete EN_ID and EL_ID
+DELETE { ?w conll:EN_ID ?enid } WHERE { ?w conll:EN_ID ?enid } ;
+DELETE { ?w conll:EL_ID ?elid } WHERE { ?w conll:EL_ID ?elid } ;
+
+# if HEAD yields dep, use the projection (unless it does not have a label)
+DELETE {
+	?w conll:EDGE ?dep1.
+	?w conll:HEAD ?h1.
+} INSERT {
+	?w conll:HEAD ?h2; conll:EDGE ?dep2; conll:MISC "projected"; 
+	conll:HEAD1 ?h1; conll:EDGE1 ?dep1	# backup
+} WHERE {
+	?w conll:HEAD ?h1; conll:HEAD2 ?h2.
+	?w conll:EDGE2 ?dep2.
+	OPTIONAL { ?w conll:EDGE ?dep1 }
+	FILTER(!bound(?dep1) || ?dep1 in ("dep", "root"))		# dep is faulty anyway, but root may be a hidden dep
+};
+
+# if we created a cycle, we revert to parse1
+DELETE {
+	?w conll:EDGE ?dep2; conll:HEAD ?h2.
+	?w conll:EDGE1 ?dep1; conll:HEAD1 ?h1.
+	?w conll:MISC "projected"
+} INSERT {
+	?w conll:EDGE ?dep1; conll:HEAD ?h1; conll:MISC "reverted"
+} WHERE {
+	?w conll:HEAD+ ?w.
+	?w conll:HEAD ?h2; conll:HEAD1 ?h1.
+	OPTIONAL { ?w conll:EDGE ?dep2. ?w conll:EDGE1 ?dep1 }	# must have both to delete one
+};
+
+# remove HEAD1, HEAD2, EDGE1, EDGE2, EF_HEAD, EF_EDGE
+DELETE {	
+	?w conll:HEAD1 ?h1; conll:HEAD2 ?h2; conll:EF_HEAD ?efhid.
+	?w conll:EDGE1 ?e1; conll:EDGE2 ?e2; conll:EF_EDGE ?efe.
+} WHERE {
+	?w conll:EDGE []; conll:HEAD [].
+	OPTIONAL { 	?w conll:HEAD1 ?h1 }
+	OPTIONAL { 	?w conll:HEAD2 ?h2 }
+	OPTIONAL { 	?w conll:EF_HEAD ?efhid }
+	OPTIONAL { 	?w conll:EDGE1 ?e1 }
+	OPTIONAL { 	?w conll:EDGE2 ?e2 }
+	OPTIONAL { 	?w conll:EF_EDGE ?efe }
+};
+

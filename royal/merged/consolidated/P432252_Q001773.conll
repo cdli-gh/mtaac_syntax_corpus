@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: for life of Szulgi the mighty man king of Ur
+# tr.en: for life of Szulgi the mighty man king of Ur	
+1	...	_	_	_	0	dep	projected	
+2	x	_[_]	u	u	0	dep	projected	
+3	...	_[_]	u	u	0	dep	projected	
+4	nam-ti	nam-til3[life]	N	N	0	DAT	EN label	
+5	{d}szul-gi	{d}szul-gi[1]	RN	RN	5	GEN	projected	
+6	nita	nita[male]	N	N	6	appos	projected	
+7	kal-ga	kalag[strong]	V	NF.V.PT	7	amod	_	
+8	lugal	lugal[king]	N	N	6	appos	projected	
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	9	GEN	_
+	
+
