@@ -68,7 +68,7 @@ for file in $FILES; do
 		echo 1>&2
 	else
 		(egrep -v '# tr.en: txt' $file | \
-		# $TRANSFORM -updates\
+		# | $TRANSFORM -updates \
 		$LOAD \
 				_ WORD \
 				_ _ SEGM _ _ _ _ _ \
@@ -82,7 +82,7 @@ for file in $FILES; do
 				consolidate-deps.sparql \
 				consolidate-wrapup.sparql \
 			| \
-		$WRITE -conll ID WORD SEGM POS MORPH HEAD EDGE MISC > $tgt
+		$WRITE -conll ID WORD SEGM POS MORPH HEAD_ID EDGE MISC > $tgt
 		) 2>&1 | tee $dbg 1>&2
 		if [ -s $tgt ]; then 
 			echo $tgt ok 1>&2;

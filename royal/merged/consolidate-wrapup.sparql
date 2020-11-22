@@ -488,3 +488,23 @@ DELETE {
 	BIND(concat("dropped alternative DEP ",?e2) as ?msg)
 	BIND(if(bound(?old), concat(?old,"; ",?msg), ?msg) as ?comment)
 };
+
+##################
+# create HEAD_ID #
+##################
+# instead of HEAD (which uses the orginal IDs encoded in the URI
+
+INSERT {
+	?w conll:HEAD_ID ?hid
+} WHERE {
+	?w conll:HEAD/conll:ID ?hid
+};
+
+INSERT {
+	?w conll:HEAD_ID "0"
+} WHERE {
+	?w conll:HEAD/a nif:Sentence
+};
+	
+
+#

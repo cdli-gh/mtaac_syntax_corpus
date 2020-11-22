@@ -24,16 +24,16 @@ INSERT {
 	BIND(str(?nr) as ?id)
 };
 
-# preprocess EL_HEAD and EL_EDGE: if the EL_HEAD is a nif:Word without a conll:WORD [i.e., a sub-token], replace it with EF_HEAD and EF_EDGE
+# preprocess EL_EDGE (not EL_HEAD): if the EL_HEAD is a nif:Word without a conll:WORD [i.e., a sub-token], replace the label with the EF_EDGE
 DELETE {
-	?w conll:EL_HEAD ?elhid; conll:EL_EDGE ?ele
+	?w conll:EL_EDGE ?ele
 } INSERT {
-	?w conll:EL_HEAD ?efhid; conll:EL_EDGE ?efe
+	?w conll:EL_EDGE ?efe
 } WHERE {
 	?w conll:EL_HEAD ?elhid. OPTIONAL { ?w conll:EL_EDGE ?ele. }
 	?elh conll:EL_ID ?elhid.
 	MINUS { ?elh conll:WORD [] }
-	?w conll:EF_HEAD ?efhid. OPTIONAL { ?w conll:EF_EDGE ?efe. }
+	?w conll:EF_HEAD ?efhid; conll:EF_EDGE ?efe.
 };
 
 # for valid parses, rename EL_HEAD to HEAD; create object properties; rename associated EDGE properties
