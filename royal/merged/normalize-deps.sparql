@@ -219,6 +219,20 @@ DELETE { ?w ?prop "_" } WHERE { ?w ?prop "_" FILTER(?prop in (conll:EL_EDGE, con
 INSERT { ?w conll:EL_EDGE "dep" } WHERE { ?w conll:EL_HEAD []. MINUS { ?w conll:EL_EDGE [] }};
 INSERT { ?w conll:EF_EDGE "dep" } WHERE { ?w conll:EF_HEAD []. MINUS { ?w conll:EF_EDGE [] }};
 INSERT { ?w conll:EN_EDGE "dep" } WHERE { ?w conll:EN_HEAD []. MINUS { ?w conll:EN_EDGE [] }};
-		
+
+# use EN_EDGE to disambiguate GEN and appos assignment in EL_EDGE
+DELETE {
+	?w conll:EL_EDGE ?el.
+} INSERT {
+	?w conll:EL_EDGE ?en.
+} WHERE {
+	?w conll:EL_EDGE ?el; conll:EN_EDGE ?en.
+	values (?el ?en) {
+		("GEN" "appos")
+		("appos" "GEN")
+		("GEN" "nmod")
+	}
+};
+
 # delete conll:ETCSRI_EDGE
 DELETE { ?prop rdfs:subPropertyOf conll:ETCSRI_EDGE } WHERE { ?prop rdfs:subPropertyOf conll:ETCSRI_EDGE } ; 

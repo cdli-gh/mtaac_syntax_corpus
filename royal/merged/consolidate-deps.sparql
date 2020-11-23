@@ -1,4 +1,5 @@
 # consolidate (partial) dependency annotations from ETSCRI (conll:EL_HEAD, conll:EL_EDGE) and annotation projection (conll:EN_HEAD, conll:EN_EDGE)
+# to be applied after dependency normalization
 
 PREFIX powla: <http://purl.org/powla/powla.owl#> 
 PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
@@ -24,7 +25,7 @@ INSERT {
 	BIND(str(?nr) as ?id)
 };
 
-# preprocess EL_EDGE (not EL_HEAD): if the EL_HEAD is a nif:Word without a conll:WORD [i.e., a sub-token], replace the label with the EF_EDGE
+# preprocess EL_EDGE (not EL_HEAD): if the EL_HEAD is a nif:Word without a conll:WORD [i.e., a sub-token], replace the label with the (normalized) EF_EDGE
 DELETE {
 	?w conll:EL_EDGE ?ele
 } INSERT {
@@ -33,7 +34,7 @@ DELETE {
 	?w conll:EL_HEAD ?elhid. OPTIONAL { ?w conll:EL_EDGE ?ele. }
 	?elh conll:EL_ID ?elhid.
 	MINUS { ?elh conll:WORD [] }
-	?w conll:EF_HEAD ?efhid; conll:EF_EDGE ?efe.
+	?w conll:EF_HEAD ?efhid; conll:EF_EDGE ?efe. FILTER(?efe!="dep")
 };
 
 # for valid parses, rename EL_HEAD to HEAD; create object properties; rename associated EDGE properties

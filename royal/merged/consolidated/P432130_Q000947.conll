@@ -9,7 +9,7 @@
 6	nita2	nita[male]	N	N	0	_	reverted	
 7	kal-ga	nita[male]+kalag[strong]	V	NF.V.PT	6	amod	_	
 8	lugal	lugal[king]	N	N	3	appos	projected	
-9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	GEN	_	
+9	uri5{ki}-ma	urim5{ki}[1]	SN	SN.GEN	8	appos	_	
 10	lugal	lugal[king]	N	N	8	GEN	projected	
 11	ki-en-gi	ki-en-gi[1]	GN	GN	10	GEN	projected	
 12	ki-uri-ka	_[and.Akkad]	N	N	11	appos	projected	
@@ -22,7 +22,7 @@
 19	uri5{ki}-ma	_[Ur]	N	N	18	GEN	projected	
 20	lugal	_[and.king]	N	N	19	appos	projected	
 21	ki-en-gi	sumer[1]	PN	PN	19	GEN	projected	
-22	ki-uri	ki-uri[1]	GN	GN.GEN	11	GEN	projectivity violation	
+22	ki-uri	ki-uri[1]	GN	GN.GEN	11	appos	projectivity violation	
 23	e2	_[_]	u	u	22	_	heuristic: attach to last	
 24	{d}nanna	_[_]	u	u	25	nmod	projected	
 25	lugal-ga2	_[my.master.I.built]	N	N	117	GEN	projected; projectivity violation	
@@ -123,7 +123,7 @@
 120	ma-gan{ki}-na	ma2-gan{ki}[1]	GN	GN.GEN	119	GEN	_	
 121	{d}nanna	{d}nanna[1]	DN	DN.GEN.ABS	119	GEN	_	
 122	a2	a2[arm]	N	N	125	ABL	_	
-123	{d}nanna	{d}nanna[1]	DN	DN	122	appos	_	
+123	{d}nanna	{d}nanna[1]	DN	DN	122	GEN	_	
 124	lugal-ga2-ta	lugal[king]	N	N.1-SG-POSS.GEN.ABL	123	GEN	_	
 125	he2-mi-gi4	gi4[turn]	V	MOD1.VEN.3-NH.L3.1-SG-A.V.3-SG-S	0	_	reverted	
 126	uri5{ki}-ma	urim5{ki}[1]	SN	SN.L1	127	LOC	_	
