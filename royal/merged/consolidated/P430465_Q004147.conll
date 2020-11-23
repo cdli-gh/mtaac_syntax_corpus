@@ -1,4 +1,4 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: Amar-Suena powerful king king of Urim king of four quarters Szu-Erra captain-of-sixty is your servant	
 # tr.en: Amar-Suena powerful king king of Urim king of four quarters Szu-Erra captain-of-sixty is your servant
 1	{d}amar-{d}suen	{d}amar-{d}suen[1]	RN	RN	0	root	projected	
@@ -10,7 +10,7 @@
 7	an	_	_	_	6	_	heuristic: attach to last	
 8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_	
 9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_	
-10	szu-er3-ra	szu-er3-ra[2]	PN	PN	13	ABS	projected	
+10	szu-er3-ra	szu-er3-ra[2]	PN	PN	12	ABS	projected	
 11	ugula-gesz2-da	gesz2[sixty]	NU	NF.V.GEN.ABS	10	nummod	_	
 12	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	projected
 	

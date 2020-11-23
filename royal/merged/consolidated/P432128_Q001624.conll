@@ -1,9 +1,9 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: For Nanna his master the border area for boats of Magan which An and Enlil had presented as a gift Ur Namma the mighty man the king of Ur and king of Sumer and Akkad when temple of Nanna he had built by rightful verdict of Utu he confirmed to him and returned it to his control His Aba-Nanna- he dedicated to him A person who an evil order shall issue against it or a person who place where it stands shall alter May Nanna the king may he make him live Upon his city his forehead may he furrow From off his throne may he make him sit down in dust His city off among reed huts may it roam May life a bitter thing to him be indeed																						
 # tr.en: For Nanna his master the border area for boats of Magan which An and Enlil had presented as a gift Ur Namma the mighty man the king of Ur and king of Sumer and Akkad when temple of Nanna he had built by rightful verdict of Utu he confirmed to him and returned it to his control His Aba-Nanna- he dedicated to him A person who an evil order shall issue against it or a person who place where it stands shall alter May Nanna the king may he make him live Upon his city his forehead may he furrow From off his throne may he make him sit down in dust His city off among reed huts may it roam May life a bitter thing to him be indeed
 1	{d}nanna	{d}nanna[1]	DN	DN	0	_	reverted	
 2	lugal-a-ni	lugal[king]	N	N.3-SG-H-POSS.DAT-H	1	appos	_	
-3	ki-sur-ra	ki-sur-ra[border]	N	N	49	ABS	projected	
+3	ki-sur-ra	ki-sur-ra[border]	N	N	47	ABS	projected	
 4	ma2	ma2[ship]	N	N	3	appos	_	
 5	ma2-gan-na	ma2-gan{ki}[1]	GN	GN	3	appos	_	
 6	an-ne2	an[1]	DN	DN.ERG	3	appos	_	
@@ -34,31 +34,31 @@
 31	x-ni	ud[sun]+alan[statue]	N	N.3-SG-H-POSS.X	0	_	detached for projectivity	
 32	a	a[water]	N	N.ABS	33	ABS	_	
 33	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	reverted	
-34	lu2	lu2[person]	N	N	38	ABS	_	
+34	lu2	lu2[person]	N	N	37	ABS	_	
 35	a2	a2[arm]	N	N	34	ABS	_	
 36	nig2-hul-dim2-ma	nig2-hul[evil]	N	N.ABS	35	appos	_	
-37	ib2-szi-ag2-ge26-a	ag2[measure]	V	FIN.3-NH.TERM.V.3-SG-A.SUB	41	ABS	projectivity violation	
+37	ib2-szi-ag2-ge26-a	ag2[measure]	V	FIN.3-NH.TERM.V.3-SG-A.SUB	40	ABS	projectivity violation	
 38	lu2	_[a.person]	N	N	3	appos	projected; projectivity violation	
-39	ki-gub-ba-bi	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.ABS	38	appos	projectivity violation	
-40	ib2-kur2-a	kur2[different]	V	FIN.3-SG-NH-P.V.3-SG-A.SUB.X	39	parataxis	projected	
+39	ki-gub-ba-bi	mu-sar-ra[inscription]	N	N.3-SG-NH-POSS.ABS	37	appos	projectivity violation	
+40	ib2-kur2-a	kur2[different]	V	FIN.3-SG-NH-P.V.3-SG-A.SUB.X	38	parataxis	projected	
 41	{d}nanna	{d}nanna[1]	DN	DN	3	appos	projected	
-42	lugal	lugal[king]	N	N.1-SG-POSS	44	nmod	projected	
-43	x	_[_]	u	u	42	dep	projected	
+42	lugal	lugal[king]	N	N.1-SG-POSS	43	nmod	projected	
+43	x	_[_]	u	u	41	dep	projected	
 44	x	_[_]+nam[fate]	N	N.ABS	3	dep	projected	
-45	x	_[_]	u	u	49	dep	heuristic: before verbal head	
-46	x	_	_	_	49	dep	heuristic: before verbal head	
+45	x	_[_]	u	u	47	dep	heuristic: before verbal head	
+46	x	_	_	_	47	dep	heuristic: before verbal head	
 47	he2-in-ti-e	til3[live]	V	MOD1.FIN.3-SG-H-P.V.3-SG-A	0	root	projected	
-48	iri-ni-da	iri[city]	N	N.3-SG-H-POSS.COM	52	COM	_	
-49	sag-ki-ni	sag-ki[forehead]	N	N.3-SG-H-POSS.ABS	52	ABS	_	
+48	iri-ni-da	iri[city]	N	N.3-SG-H-POSS.COM	50	COM	_	
+49	sag-ki-ni	sag-ki[forehead]	N	N.3-SG-H-POSS.ABS	50	ABS	_	
 50	ha-ba-da-gid2-de3	gid2[long]	V	MOD1.MID.COM.V.3-SG-A	0	_	reverted	
-51	{gesz}gu-za-ni-ta	{gesz}gu-za[chair]	N	N.3-SG-H-POSS.ABL	55	ABL	_	
-52	sahar-ra	sahar[dust]	N	N.L1	55	LOC	_	
-53	he2-em-ta-tusz	tusz[sit]	V	MOD1.FIN.VEN.3-NH.ABL.V.3-SG-S	58	acl	projected	
-54	iri-ni	iri[city]	N	N.3-SG-H-POSS.ERG	58	ERG	_	
-55	{gi}suhurx(KA)-ta	iri[city]+{gi}sumurₓ(KA)[roof]	N	N.ABL	58	ABL	_	
-56	he2-ta-dag-dag-ge	dag-dag[leave]	V	MOD1.FIN.3-NH.ABL.3-SG-H-P.V.PF.3-SG-A	49	acl	projected	
-57	nam-ti-il	nam-ti-il[life]	N	N.ABS	61	_	projected	
-58	nig2-gig-ga-ni	nig2-gig[bad.thing]	N	N.3-SG-H-POSS.ABS	61	ABS	_	
-59	he2-a	am3[be]	V	MOD1.FIN.COP.3-SG-S	49	_	projected
+51	{gesz}gu-za-ni-ta	{gesz}gu-za[chair]	N	N.3-SG-H-POSS.ABL	53	ABL	_	
+52	sahar-ra	sahar[dust]	N	N.L1	53	LOC	_	
+53	he2-em-ta-tusz	tusz[sit]	V	MOD1.FIN.VEN.3-NH.ABL.V.3-SG-S	56	acl	projected	
+54	iri-ni	iri[city]	N	N.3-SG-H-POSS.ERG	56	ERG	_	
+55	{gi}suhurx(KA)-ta	iri[city]+{gi}sumurₓ(KA)[roof]	N	N.ABL	56	ABL	_	
+56	he2-ta-dag-dag-ge	dag-dag[leave]	V	MOD1.FIN.3-NH.ABL.3-SG-H-P.V.PF.3-SG-A	47	acl	projected	
+57	nam-ti-il	nam-ti-il[life]	N	N.ABS	59	_	projected	
+58	nig2-gig-ga-ni	nig2-gig[bad.thing]	N	N.3-SG-H-POSS.ABS	59	ABS	_	
+59	he2-a	am3[be]	V	MOD1.FIN.COP.3-SG-S	47	_	projected
 	
 

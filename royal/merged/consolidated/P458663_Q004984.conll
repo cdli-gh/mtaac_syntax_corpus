@@ -1,4 +1,4 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen[1]	RN	RN	0	root	projected	
 2	lugal	_[king]	N	N	1	appos	projected	
 3	kal-ga	_[strong]	V	V	2	amod	projected	

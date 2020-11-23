@@ -1,4 +1,4 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: For Nanna the amber gleam that spreads over his people the lord who alone is a resplendent god his master Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters when in Susa Adama land of Awan he roared like a storm made them submit in a single day and took their lord into captivity a golden alabastrum vessel a work artifully wrought which he with bison bulls and snakes and terrifying dark rain had decorated to be an endless marvel and which at great festival of new year bath of Nanna at treasure-chest location where during its head-anointing ritual it should never stop he fashioned for him and for his life he dedicated it to him
 # tr.en: For Nanna the amber gleam that spreads over his people the lord who alone is a resplendent god his master Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters when in Susa Adama land of Awan he roared like a storm made them submit in a single day and took their lord into captivity a golden alabastrum vessel a work artifully wrought which he with bison bulls and snakes and terrifying dark rain had decorated to be an endless marvel and which at great festival of new year bath of Nanna at treasure-chest location where during its head-anointing ritual it should never stop he fashioned for him and for his life he dedicated it to him	
 1	{d}nanna	{d}nanna[1]	DN	DN	4	ABS	projectivity violation	
@@ -52,23 +52,23 @@
 49	gur3	guru3[lift]	V	NF.V.L1	51	LOC	_	
 50	sze-er-ga-an	sze-er-ga-an[ornament]	N	N.ABS	51	ABS	_	
 51	du11-ga-ni	dug4[speak]	V	NF.V.PT.3-SG-NH-POSS.ABS	42	parataxis	projected	
-52	u6-di	u6[admiration]	N	N.ABS	66	ABS	_	
-53	nu-til-le-dam	til[complete]	V	nu.NF.V.ed.COP-3-SG	66	appos	_	
-54	ezem	ezen[festival]	N	N	66	appos	_	
-55	mah	mah[great]	V	NF.V	55	amod	_	
-56	za3-mu	zag-mu[new.year]	N	N	66	appos	_	
-57	a	a[water]	N	N	66	appos	_	
-58	tu5-a	tu5[cvve]	V	NF.V.PT	58	amod	_	
-59	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	58	GEN	_	
-60	ki	ki[place]	N	N	66	LOC	_	
-61	dub-szen-e	dub-szen[chest]	N	N.L3-NH	61	appos	_	
+52	u6-di	u6[admiration]	N	N.ABS	65	ABS	_	
+53	nu-til-le-dam	til[complete]	V	nu.NF.V.ed.COP-3-SG	65	appos	_	
+54	ezem	ezen[festival]	N	N	65	appos	_	
+55	mah	mah[great]	V	NF.V	54	amod	_	
+56	za3-mu	zag-mu[new.year]	N	N	65	appos	_	
+57	a	a[water]	N	N	65	appos	_	
+58	tu5-a	tu5[cvve]	V	NF.V.PT	57	amod	_	
+59	{d}nanna-ka	{d}nanna[1]	DN	DN.GEN.L1	57	GEN	_	
+60	ki	ki[place]	N	N	65	LOC	_	
+61	dub-szen-e	dub-szen[chest]	N	N.L3-NH	60	appos	_	
 62	sag	ka[mouth]	N	N	0	_	projected	
-63	du8-hu-ba	du8[loosen]	V	NF.V.PF.3-SG-NH-POSS.X	63	amod	_	
-64	musz	musz[face]	N	N.ABS	66	ABS	_	
-65	nu-tum2-mu-de3	tum2[lead]	V	NEG.NF.V.PF.DAT-NH	67	DAT	_	
+63	du8-hu-ba	du8[loosen]	V	NF.V.PF.3-SG-NH-POSS.X	62	amod	_	
+64	musz	musz[face]	N	N.ABS	65	ABS	_	
+65	nu-tum2-mu-de3	tum2[lead]	V	NEG.NF.V.PF.DAT-NH	66	DAT	_	
 66	mu-na-dim2	dim2[create]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	51	appos	projected	
-67	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	70	TERM	_	
-68	a	a[water]	N	N.ABS	70	ABS	_	
+67	nam-ti-la-ni-sze3	nam-til3[life]	N	N.3-SG-H-POSS.TERM	69	TERM	_	
+68	a	a[water]	N	N.ABS	69	ABS	_	
 69	mu-na-ru	ru[cvve]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	_	reverted
 	
 

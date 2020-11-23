@@ -1,4 +1,4 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: Sz-Suen strong king king of Ur king of four corners Szulgi-il scribe is your servant	
 # tr.en: Sz-Suen strong king king of Ur king of four corners Szulgi-il scribe is your servant
 1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	projected	
@@ -10,7 +10,7 @@
 7	an	_	_	_	6	_	heuristic: attach to last	
 8	ub-da	an-ub-da[quarter]	N	N	6	GEN	_	
 9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_	
-10	{d}szul-gi-i3-li2	{d}szul-gi-i3-li2[4]	PN	PN	14	ABS	projected	
+10	{d}szul-gi-i3-li2	{d}szul-gi-i3-li2[4]	PN	PN	13	ABS	projected	
 11	dub-sar	dub-sar[scribe]	N	N	10	appos	projected	
 12	...	dumu[child]	N	N	11	dep	heuristic: attach to last	
 13	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	_	projected

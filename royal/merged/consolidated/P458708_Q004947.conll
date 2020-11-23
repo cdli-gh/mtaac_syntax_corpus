@@ -1,4 +1,4 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Bel-arik cupbearer governor Ur-of Susa Szu-Suen his little man
 # tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Bel-arik cupbearer governor Ur-of Susa Szu-Suen his little man																						
 1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	projected	
@@ -9,12 +9,12 @@
 6	lugal	lugal[king]	N	N	1	appos	_	
 7	an	_	_	_	1	_	heuristic: after nominal head	
 8	ub-da	an-ub-da[quarter]	N	N	1	GEN	_	
-9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	10	nummod	_	
+9	limmu2-ba	limmu2[four]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	8	nummod	_	
 10	be-li2-a-ri-ik	be-li2-a-ri-ik[1]	PN	PN	1	_	projected	
-11	sagi	sagi[cup-bearer]	N	N	12	appos	_	
-12	ensi2	ensi2[ruler]	N	N	12	appos	_	
-13	szuszin{ki}	szuszin{ki}[Susa]	SN	SN.GEN.ABS	14	GEN	_	
-14	{d}szu-{d}suen	{d}šu-{d}suen-KAL[1]	PN	PN	12	appos	projected	
-15	gurusz-tur-ni	dumu[child]	N	N.3-SG-H-POSS.ABS	16	appos	_
+11	sagi	sagi[cup-bearer]	N	N	10	appos	_	
+12	ensi2	ensi2[ruler]	N	N	10	appos	_	
+13	szuszin{ki}	szuszin{ki}[Susa]	SN	SN.GEN.ABS	12	GEN	_	
+14	{d}szu-{d}suen	{d}šu-{d}suen-KAL[1]	PN	PN	10	appos	projected	
+15	gurusz-tur-ni	dumu[child]	N	N.3-SG-H-POSS.ABS	14	appos	_
 	
 

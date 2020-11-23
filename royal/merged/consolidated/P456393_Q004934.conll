@@ -1,16 +1,16 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: Szu-Suen beloved of Enlil king whom Enlil chose with love of his heart Urgu chief soldier is your servant																						
 # tr.en: Szu-Suen beloved of Enlil king whom Enlil chose with love of his heart Urgu chief soldier is your servant
-1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	5	ERG	_	
+1	{d}szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	4	ERG	_	
 2	lugal	_[king]	N	N	1	appos	projected	
 3	{d}en-lil2-li	{d}en-lil2[1]	DN	DN.ERG	1	appos	_	
-4	ki-ag2	ag2[measure]	V	NF.V	7	LOC	_	
-5	sza3-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	5	appos	_	
+4	ki-ag2	ag2[measure]	V	NF.V	6	LOC	_	
+5	sza3-ga-na	szag4[heart]	N	N.3-SG-H-POSS.L1	4	appos	_	
 6	in-pa3	pad3[find]	V	FIN.3-SG-H-A.V.3-SG-P	0	_	reverted	
 7	sipa	_	_	_	1	_	heuristic: after nominal head	
 8	kalam-ma	_	_	_	1	_	heuristic: after nominal head	
-9	ur-mu	ur-gu10[1]	PN	PN	13	ABS	projected	
-10	aga3-us2-gal	aga3-us2[soldier]	N	N	10	appos	_	
+9	ur-mu	ur-gu10[1]	PN	PN	11	ABS	projected	
+10	aga3-us2-gal	aga3-us2[soldier]	N	N	9	appos	_	
 11	ARAD2-zu	arad2[slave]	N	N.2-SG-POSS.ABS	1	acl	projected
 	
 

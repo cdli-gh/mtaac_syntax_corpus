@@ -1,10 +1,10 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: Szu-Suen military governor of Der Szulgi-il scribe is your servant	
 # tr.en: Szu-Suen military governor of Der Szulgi-il scribe is your servant
 1	szu-{d}suen	{d}szu-{d}suen[1]	RN	RN	0	root	projected	
 2	szagina	szagina[general]	N	N	1	appos	_	
 3	|BAD3.AN|{ki}	|BAD₃.AN.KI|[1]	SN	SN.GEN.ABS	2	GEN	_	
-4	{d}szul-gi-i3-li2	{d}szul-gi-i3-li2[5]	PN	PN	9	ABS	projected	
+4	{d}szul-gi-i3-li2	{d}szul-gi-i3-li2[5]	PN	PN	8	ABS	projected	
 5	dub-sar	dub-sar[scribe]	N	N	4	appos	projected	
 6	dumu	_[_]	u	u	5	_	heuristic: attach to last	
 7	x-x-x	_[_]	u	u	6	dep	heuristic: attach to last	

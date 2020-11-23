@@ -1,4 +1,4 @@
-# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# global.columns = ID WORD SEGM POS MORPH HEAD_ID EDGE MISC
 # tr.en: The name of this bowl is in temple	
 # tr.en: The name of this bowl is in temple
 1	bur-ba	bur[bowl]	N	N.DEM2.GEN	0	_	EN label	
