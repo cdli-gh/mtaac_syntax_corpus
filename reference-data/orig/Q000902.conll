@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q000902 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000902.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagac II 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE CF_MWE GW_MWE SENSE_MWE POS_MWE EPOS_MWE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}nance	{d}nance	1	N1=NAME	DN	12	DAT-H	
+2	nin	nin	lady	N1=STEM	N	1	appos	
+3	uru16	uru16	exalted	NV2=STEM	V/i	2	amod	
+4	nin	nin	lady	N1=STEM	N	1	appos	
+5	in-dub-ba	in-dub-ba	boundary	N1=STEM.N5=GEN	N	4	GEN	
+6	nin-a-ni	nin	lady	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	N	1	appos	
+7	gu3-de2-a	gu3-de2-a	1	N1=NAME	RN	12	ERG	
+8	ensi2	ensi2	ruler	N1=STEM	N	7	appos	
+9	lagac{ki}-ke4	lagac{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	8	GEN	
+10	nij2-du7-e	nij2-du7	appropriate thing	N1=STEM.N5=L3-NH	N	12	L3-NH	
+11	pa	pa	branch	N1=STEM.N5=ABS	N	12	ABS	
+12	mu-na-e3	e3	leave	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
+13	nijin6{ki}	nijin6{ki}	1	N1=NAME	SN	20	L1	
+14	iri	iri	city	N1=STEM	N	16	ABS	
+15	ki	ki	place	N1=STEM.N5=ABS	N	14	appos	
+16	aj2-ja2-ni-a	aj2	measure	NV2=STEM.N3=3-SG-H-POSS.N5=L1	V/t	13	amod	
+17	e2-sirara6	e2-sirara6	1	N1=NAME	TN	20	_	
+18	kur	kur	mountain	N1=STEM	N	17	appos	
+19	e2-ta	e2	house	N1=STEM=N5=ABL	N	17	appos	
+20	il2-la-ni	il2	raise	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=ABS	V/t	21	ABS	
+21	mu-na-du3	du3	build	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	

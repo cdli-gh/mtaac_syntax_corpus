@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q000891 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000891.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagac II 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}ba-u2	{d}ba-u2	1	N1=NAME	DN	14	DAT-H	
+2	munus	munus	woman	N1=STEM	N	1	appos	
+3	sag9-ga	sag9	good	NV2=STEM.NV4=SUB	V/i	2	amod	
+4	dumu	dumu	child	N1=STEM	N	1	appos	
+5	an-na	an	1	N1=NAME.N5=GEN	DN	4	GEN	
+6	nin	nin	lady	N1=STEM	N	1	appos	
+7	iri-kug-ga	iri-kug	1	N1=NAME.N5=GEN	SN	6	GEN	
+8	nin-a-ni	nin	lady	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	N	1	appos	
+9	gu3-de2-a	gu3-de2-a	1	N1=NAME	RN	14	ERG	
+10	ensi2	ensi2	ruler	N1=STEM	N	9	appos	
+11	lagac{ki}-ke4	lagac{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	10	GEN	
+12	bad3	bad3	wall	N1=STEM	N	14	ABS	
+13	iri-kug-ga-ka-ni	iri-kug	1	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	SN	12	appos	
+14	mu-na-du3	du3	build	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	

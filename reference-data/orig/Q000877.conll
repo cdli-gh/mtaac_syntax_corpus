@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q000877 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000877.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}nin-jir2-su	{d}nin-jir2-su	1	N1=NAME	DN	0	_	
+2	ur-saj	ur-saj	hero	N1=STEM	N	1	appos	
+3	kalag-ga	kalag	strong	NV2=STEM.NV4=SUB	V/i	2	amod	
+4	{d}en-lil2-la2-ra	{d}en-lil2	1	N1=NAME.N5=GEN.N5=L2-H	DN	2	GEN	
+5	{d}utu-he2-jal2	{d}utu-he2-jal2	1	N1=NAME	PN	0	_	
+6	lugal	lugal	king	N1=STEM	N	5	appos	
+7	an-ub-da	an-ub-da	quarter	N1=STEM	N	6	GEN	
+8	limmu5-ba-ke4	limmu5	four	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	NU	7	amod	
+9	ki-sur-ra	ki-sur-ra	border	N1=STEM	N	14	L2-NH	
+10	lagac{ki}-ka	lagac{ki}	1	N1=NAME.N5=GEN.N5=L2-NH	SN	9	GEN	
+11	lu2	lu2	person	N1=STEM	N	14	ERG	
+12	urim5{ki}-ke4	urim5{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	11	GEN	
+13	inim	inim	word	N1=STEM.N5=ABS	N	14	ABS	
+14	bi2-jar	jar	place	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+15	cu-na	cu	hand	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	N	16	L2-NH	
+16	mu-ni-gi4	gi4	turn	V4=VEN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	

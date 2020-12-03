@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q000917 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000917.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagac II 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}nin-jir2-su	{d}nin-jir2-su	1	N1=NAME	DN	18	DAT-H	
+2	ur-saj	ur-saj	hero	N1=STEM	N	1	appos	
+3	kalag-ga	kalag	strong	NV2=STEM.NV4=SUB	V/i	2	amod	
+4	{d}en-lil2-la2-ra	{d}en-lil2	1	N1=NAME.N5=GEN.N5=DAT-H	DN	2	GEN	
+5	gu3-de2-a	gu3-de2-a	1	N1=NAME	RN	18	ERG	
+6	ensi2	ensi2	ruler	N1=STEM	N	5	appos	
+7	lagac{ki}	lagac{ki}	1	N1=NAME.N5=GEN	SN	6	GEN	
+8	lu2	lu2	person	N1=STEM	N	11	ABS	
+9	e2-ninnu	e2-ninnu	1	N1=NAME	TN	8	appos	
+10	{d}nin-jir2-su-ka	{d}nin-jir2-su	1	N1=NAME.N5=GEN.N5=ABS	DN	9	GEN	
+11	in-du3-a	du3	build	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	V/t	6	amod	
+12	abul	abul	gate	N1=STEM	N	18	ABS	
+13	ka2-sur-ra	ka2-sur-ra	1	N1=NAME	SN	12	appos	
+14	igi	igi	eye	N1=STEM	N	16	ABS	
+15	u6	u6	admiration	N1=STEM.N5=ABS	N	14	appos	
+16	di	di	speak	NV2=STEM-PF	V/t	13	amod	
+17	he2-jal2	he2-jal2	plenty	N1=STEM.N5=ABS	N	16	appos	
+18	il2-ni	il2	raise	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	V/t	19	ABS	
+19	mu-na-du3	du3	build	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+20	ki-be2	ki	place	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	N	21	L3-NH	
+21	mu-na-gi4	gi4	turn	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
