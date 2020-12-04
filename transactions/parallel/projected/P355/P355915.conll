@@ -1,0 +1,175 @@
+# train/P355915.atf
+						
+
+# tr.en: gur barig barley gur barig ban sila emmer foreman Lugina gur barig barley gur emmer gur barig wheat foreman Lugal-emahe gur barley gur barig ban emmer gur barig wheat foreman Dudumu gur barley gur barig emmer gur barig wheat foreman Lugal-gigire gur barig barley of field of Szara foreman Aabba gur barig ban sila barley of field of Szara foreman Ur-gigir gur barig barley of field of manu-wood foreman Agugu gur barley of field of manu-wood gur barig emmer of field of shepherds foreman Lugal-xani barig ban sila from field of shepherds foreman Lugalkugani gur barig ban from field of shepherds gur barig gur chickpeas from field of shepherds foreman Ur-Enlila threshed grain of royal plots in Da-Umma did ARAD receive via Lu-banda Year Simurum and Lulubu were destroyed for th time
+1	1(gesz'u)	_	,	6	nummod	
+2	1(gesz2)	_	CD	13	nummod	
+3	2(u)	_	_	2	nummod	
+4	1(asz)	_	-LRB-	16	nummod	
+5	1(barig)	barig	NN	6	nummod	
+6	sze	barley	NN	0	root	
+7	gur	gur	NN	6	compound	
+8	1(gesz2)	_	,	15	nummod	
+9	2(u)	_	-RRB-	8	nummod	
+10	6(asz)	_	_	8	nummod	
+11	3(barig)	_	_	8	nummod	
+12	5(ban2)	_	_	8	nummod	
+13	4(disz)	barig ban	NN	6	nummod	
+14	sila3	sila	NN	15	compound	
+15	ziz2	emmer	NN	17	_	
+16	gur	gur	NN	2	appos	
+17	ugula	foreman	NN	13	nmod:npmod	
+18	lu2-gi-na	Lugina	NNP	22	compound	
+19	1(gesz'u)	_	,	23	nummod	
+20	3(u)	_	-RRB-	19	nummod	
+21	1(asz)	_	CD	27	nummod	
+22	3(barig)	barig	NN	6	nummod	
+23	sze	barley	NN	22	_	
+24	gur	gur	NN	18	appos	
+25	2(u)	_	,	22	nummod	
+26	1(asz)	_	CD	32	nummod	
+27	ziz2	emmer	NN	22	_	
+28	gur	gur	NN	27	compound	
+29	1(u)	_	,	22	nummod	
+30	4(asz)	_	_	22	nummod	
+31	1(barig)	barig	NN	32	nummod	
+32	gig	wheat	NN	22	appos	
+33	gur	gur	NN	32	compound	
+34	ugula	foreman	NN	22	appos	
+35	lugal-e2-mah-e	Lugal-emahe	NN	39	compound	
+36	9(gesz2)	_	,	39	nummod	
+37	5(u)	_	CD	47	nummod	
+38	3(asz)	_	_	37	nummod	
+39	sze	barley	NN	22	_	
+40	gur	gur	NN	39	compound	
+41	1(gesz2)	_	,	39	nummod	
+42	2(u)	_	CD	51	nummod	
+43	9(asz)	_	_	42	nummod	
+44	3(barig)	_	_	42	nummod	
+45	3(ban2)	barig ban	NN	46	nummod	
+46	ziz2	emmer	NN	47	_	
+47	gur	gur	NN	39	appos	
+48	1(u)	_	,	39	nummod	
+49	1(asz)	_	_	48	nummod	
+50	1(barig)	barig	NN	51	nummod	
+51	gig	wheat	NN	39	appos	
+52	gur	gur	NN	51	compound	
+53	ugula	foreman	NN	39	appos	
+54	du-du-mu	Dudumu	NN	57	compound	
+55	1(gesz'u)	_	,	57	nummod	
+56	8(asz)	_	CD	63	nummod	
+57	sze	barley	NN	39	_	
+58	gur	gur	NN	57	compound	
+59	1(gesz2)	_	,	57	nummod	
+60	2(u)	_	CD	68	nummod	
+61	3(asz)	_	_	60	nummod	
+62	3(barig)	barig	NN	63	nummod	
+63	ziz2	emmer	NN	57	appos	
+64	gur	gur	NN	63	compound	
+65	3(u)	_	,	57	nummod	
+66	3(asz)	_	_	65	nummod	
+67	1(barig)	barig	NN	68	nummod	
+68	gig	wheat	NN	57	appos	
+69	gur	gur	NN	68	compound	
+70	ugula	foreman	NN	57	appos	
+71	lugal-{gesz}gigir-re	Lugal-gigire	NN	75	compound	
+72	2(gesz2)	_	_	0	nummod	
+73	2(u)	_	_	72	nummod	
+74	2(barig)	barig	NN	75	nummod	
+75	sze	barley	NN	57	_	
+76	gur	gur	NN	75	compound	
+77	a-sza3	field	NN	75	nmod:of	
+78	{d}szara2	Szara	NNP	77	nmod:of	
+79	ugula	foreman	NN	78	appos	
+80	a-ab-ba	Aabba	NN	89	compound	
+81	3(gesz2)	_	_	0	nummod	
+82	5(u)	_	_	81	nummod	
+83	3(asz)	_	_	81	nummod	
+84	2(barig)	_	_	81	nummod	
+85	1(ban2)	_	_	81	nummod	
+86	5(disz)	barig ban	NN	89	nummod	
+87	sila3	sila	NN	88	compound	
+88	sze	barley	NN	86	_	
+89	gur	gur	NN	75	_	
+90	a-sza3	field	NN	88	nmod:of	
+91	{d}szara2	Szara	NNP	90	nmod:of	
+92	ugula	foreman	NN	91	appos	
+93	ur-{gesz}gigir	Ur-gigir	NN	89	_	
+94	1(gesz2)	_	IN	90	nummod	
+95	4(u)	_	,	101	nummod	
+96	3(asz)	_	_	95	nummod	
+97	2(barig)	barig	NN	98	nummod	
+98	sze	barley	NN	93	_	
+99	gur	gur	NN	98	compound	
+100	a-sza3	field	NN	98	nmod:of	
+101	{gesz}ma-nu	manu-wood	NN	100	nmod:of	
+102	ugula	foreman	NN	101	appos	
+103	a-gu-gu	Agugu	NN	107	compound	
+104	2(gesz2)	_	,	107	nummod	
+105	1(u)	_	CD	115	nummod	
+106	3(asz)	_	_	105	nummod	
+107	sze	barley	NN	75	_	
+108	gur	gur	NN	107	compound	
+109	a-sza3	field	NN	107	nmod:of	
+110	{gesz}ma-nu	manu-wood	NN	109	nmod:of	
+111	1(gesz2)	_	IN	109	nummod	
+112	1(u)	_	,	22	nummod	
+113	8(asz)	_	''	22	nummod	
+114	3(barig)	barig	NN	115	nummod	
+115	ziz2	emmer	NN	107	appos	
+116	gur	gur	NN	115	compound	
+117	a-sza3	field	NN	115	nmod:of	
+118	sipa-ne	shepherds	NNS	117	nmod:of	
+119	ugula	foreman	NN	22	_	
+120	lugal-x-a-ni	Lugal-xani	JJ	22	_	
+121	3(u)	_	,	22	nummod	
+122	7(asz)	_	''	22	nummod	
+123	1(barig)	barig ban	NN	120	nummod	
+124	1(ban2)	_	_	123	nummod	
+125	7(disz)	_	_	123	nummod	
+126	sila3	sila	NN	123	_	
+127	a-sza3	field	NN	126	nmod:from	
+128	sipa-ne	from shepherds	IN	127	nmod:from	
+129	ugula	foreman	NN	22	_	
+130	lugal-ku3-ga-ni	Lugalkugani	NNP	135	compound	
+131	5(u)	_	,	22	nummod	
+132	4(asz)	_	''	22	nummod	
+133	4(barig)	_	CD	142	nummod	
+134	1(ban2)	barig ban	NN	135	nummod	
+135	gur	gur	NN	22	_	
+136	a-sza3	field	NN	134	nmod:from	
+137	sipa-ne	from shepherds	IN	136	nmod:from	
+138	1(gesz2)	from shepherds	NNS	136	nummod	
+139	4(u)	_	,	22	nummod	
+140	8(asz)	_	_	22	nummod	
+141	2(barig)	_	CD	147	nummod	
+142	gur	gur	NN	22	_	
+143	1(u)	_	,	22	nummod	
+144	1(asz)	_	''	22	nummod	
+145	4(barig)	_	_	22	nummod	
+146	2(ban2)	_	.	22	nummod	
+147	gu2-nida	chickpeas from	NNS	22	appos	
+148	gur	gur	NN	147	compound	
+149	a-sza3	field	NN	147	nmod:from	
+150	sipa-x	shepherds	NNS	149	nmod:of	
+151	ugula	foreman	NN	22	_	
+152	ur-{d}en-lil2-la2	Ur-Enlila	NNP	154	nsubj	
+153	sze	_	_	0	_	
+154	gesz-e3-a	threshed grain royal	VBD	6	acl	
+155	GAN2-gu4	plots	NNS	154	nmod:of	
+156	da-umma{ki}	in Da-Umma	NNP	155	nmod:in	
+157	ARAD2	ARAD	NNP	159	nsubj	
+158	szu	did	VBD	159	aux	
+159	ba-ti	receive	VB	154	advcl	
+160	giri3	via	IN	161	nmod:via	
+161	lu2-banda3{da}	Lu-banda	JJ	159	nmod:via	
+162	mu	Year	NN	6	_	
+163	si-mu-ru-um	Simurum	NNP	169	nsubjpass	
+164	lu-lu-bu{ki}	and Lulubu	CC	163	cc	
+165	a-ra2	for th time	NN	169	nmod:for	
+166	1(u)	_	_	0	nummod	
+167	la2	_	.	6	_	
+168	1(disz)-kam	_	''	167	nummod	
+169	ba-hul	were destroyed	VBN	6	acl
+	
+

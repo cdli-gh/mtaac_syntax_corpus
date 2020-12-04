@@ -1,0 +1,42 @@
+# train/P129030.atf
+						
+
+# tr.en: laborers foreman Lu-dingira laborers foreman Lugal-girizal laborers foreman Lu-saga laborers foreman Lu-Daya laborers foreman Lugal-magure laborers laborers sick foreman Lugal-mumag laborers foreman Ur-gigir are stationed
+1	1(u)	_	,	3	nummod	
+2	1(disz)	_	_	1	nummod	
+3	gurusz	laborers	NNS	0	root	
+4	ugula	foreman	NN	3	appos	
+5	lu2-dingir-ra	Lu-dingira	NN	3	_	
+6	3(disz)	_	:	9	nummod	
+7	gurusz	laborers	NNS	5	_	
+8	ugula	foreman	NN	5	appos	
+9	lu2-giri17-zal	Lugal-girizal	NN	5	_	
+10	2(disz)	_	:	13	nummod	
+11	gurusz	laborers	NNS	9	_	
+12	ugula	foreman	NN	9	appos	
+13	lu2-saga	Lu-saga	NN	36	nsubjpass	
+14	1(u)	_	:	17	nummod	
+15	2(disz)	_	CD	20	nummod	
+16	gurusz	laborers	NNS	13	_	
+17	lu2-{d}da-ia3	foreman Lu-Daya	NN	13	appos	
+18	1(u)	_	:	22	nummod	
+19	1(disz)	_	CD	25	nummod	
+20	gurusz	laborers	NNS	17	_	
+21	ugula	foreman	NN	17	appos	
+22	lugal-ma2-gur8-re	Lugal-magure	NN	21	_	
+23	1(u)	_	,	25	nummod	
+24	7(disz)	_	_	23	nummod	
+25	gurusz	laborers	NNS	22	_	
+26	3(disz)	_	_	0	nummod	
+27	gurusz	laborers	NNS	25	conj	
+28	tu-ra	sick	JJ	25	amod	
+29	ugula	foreman	NN	25	appos	
+30	lugal-mu-ma-ag2	Lugal-mumag	NN	22	_	
+31	1(u)	_	:	13	nummod	
+32	6(disz)	_	_	31	nummod	
+33	gurusz	laborers	NNS	30	appos	
+34	ugula	foreman	NN	30	appos	
+35	ur-{gesz}gigir	Ur-gigir	NN	17	_	
+36	gub-ba-am3	are stationed	VBN	9	acl
+	
+

@@ -1,0 +1,83 @@
+# train/P112497.atf
+						
+
+# tr.en: mana shekel grains silver the remainder therefrom mana shekels silver delivery barig ban sila ES-bitumen its silver shekels n gur barig ban sila horned-alkali plant its silver n shekels n grains total mana shekels grains silver booked out the deficit mana shekels grains silver account of Pada trade agent year En-unugal of Inanna was hired
+1	1(disz)	_	,	3	nummod	
+2	1/2(disz)	_	_	1	nummod	
+3	ma-na	mana	NN	0	root	
+4	6(disz)	_	_	0	nummod	
+5	1/3(disz)	_	_	4	nummod	
+6	gin2	shekel	NN	9	compound	
+7	2(u)	_	_	0	nummod	
+8	7(disz)	_	_	7	nummod	
+9	sze	grains	NNS	3	_	
+10	ku3-babbar	silver	NN	9	amod	
+11	si-i3-tum	the remainder	NN	3	appos	
+12	sza3-bi-ta	therefrom	RB	14	advmod	
+13	1/2(disz)	_	,	17	nummod	
+14	ma-na	mana	NN	3	_	
+15	8(disz)	_	_	0	nummod	
+16	gin2	shekels	NNS	17	compound	
+17	ku3-babbar	silver	NN	14	dobj	
+18	mu-kux(DU)	delivery	NN	17	appos	
+19	4(barig)	_	,	21	nummod	
+20	1(ban2)	_	_	19	nummod	
+21	9(disz)	barig ban	NN	14	nummod	
+22	sila3	sila	NN	24	compound	
+23	esir2	_	_	0	_	
+24	E2-A	ES-bitumen	NN	21	_	
+25	ku3-bi	its silver	NN	21	appos	
+26	2(disz)	_	_	0	nummod	
+27	5/6(disz)	_	_	26	nummod	
+28	gin2	shekels	NNS	21	_	
+29	n	_	:	28	_	
+30	1(barig)	_	_	0	nummod	
+31	5(ban2)	_	_	30	nummod	
+32	6(disz)	barig ban	NN	36	nummod	
+33	sila3	sila	NN	35	compound	
+34	naga	_	_	0	_	
+35	si-e3	horned-alkali plant	NN	32	_	
+36	gur	gur	NN	28	_	
+37	ku3-bi	its silver	NN	35	_	
+38	n	_	:	36	_	
+39	gin2	shekels	NNS	36	_	
+40	n	n	CD	41	nummod	
+41	sze	grains	NNS	39	_	
+42	'.	_	_	0	_	
+43	szunigin	total	NN	28	_	
+44	2/3(disz)	_	_	0	nummod	
+45	ma-na	mana	NN	43	_	
+46	8(disz)	_	_	0	nummod	
+47	5/6(disz)	_	_	46	nummod	
+48	gin2	shekels	NNS	45	_	
+49	1(u)	_	_	0	nummod	
+50	sze	grains	NNS	48	_	
+51	ku3	silver	JJ	50	amod	
+52	'.	_	:	28	_	
+53	zi-ga-am3	booked out	VBN	51	acl	
+54	'.	_	:	28	_	
+55	la2-ia3	the deficit	NN	28	_	
+56	2/3(disz)	_	_	0	nummod	
+57	ma-na	mana	NN	55	_	
+58	7(disz)	_	_	0	nummod	
+59	1/2(disz)	_	_	58	nummod	
+60	gin2	shekels	NNS	57	_	
+61	1(u)	_	_	0	nummod	
+62	7(disz)	_	_	61	nummod	
+63	sze	grains	NNS	60	_	
+64	ku3	silver	NN	63	_	
+65	'.	_	:	28	_	
+66	nig2-ka9-ak	account	NN	28	_	
+67	pa3-da	Pada	NNP	66	nmod:of	
+68	dam-gar3	trade agent	NN	67	appos	
+69	'.	_	.	14	_	
+70	mu	year	NN	74	_	
+71	en-unu6-gal	En-unugal	JJ	74	nsubjpass	
+72	{d}inanna	Inanna	NNP	71	nmod:of	
+73	ba-hun	was hired	VBD	74	auxpass	
+74	4(u@v)	was hired	VBN	28	nummod	
+75	8(disz@v)	_	IN	72	nummod	
+76	5(u)!	_	CD	32	nummod	
+77	1(u)	_	CD	57	nummod
+	
+

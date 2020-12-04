@@ -1,0 +1,57 @@
+# test/P416419.atf
+						
+
+# tr.en: sheep barley-fed for Gula sheep barley-fed for An sheep barley-fed for Inanna sheep barley-fed for Ninursag in Uruk sheep barley-fed for Utu of Larsa sheep barley-fed for Nanna-of-heaven sheep barley-fed for Inanna sheep barley-fed for Ningal in large sheepfold booked-outs th day from Ahu-wer booked out month Gazelle feast year after throne of Enlil was fashioned
+1	2(disz)	_	,	4	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	barley-fed	JJ	2	amod	
+4	{d}gu-la	for Gula	NNP	2	nmod:for	
+5	1(disz)	_	,	8	nummod	
+6	udu	sheep	NN	4	appos	
+7	niga	barley-fed	JJ	4	appos	
+8	an	An	DT	2	root	
+9	1(disz)	_	,	10	nummod	
+10	udu	sheep	NN	5	root	
+11	niga	barley-fed	JJ	10	amod	
+12	{d}inanna	for Inanna	NNP	10	nmod:for	
+13	1(disz)	_	,	10	nummod	
+14	udu	sheep	NN	10	conj	
+15	niga	barley-fed	JJ	10	amod	
+16	{d}nin-hur-sag	for Ninursag	NNP	10	nmod:for	
+17	sza3	in	IN	18	nmod:in	
+18	unu{ki}-ga	Uruk	NNP	10	nmod:in	
+19	1(disz)	_	,	20	nummod	
+20	udu	sheep	NN	10	conj	
+21	niga	barley-fed	JJ	20	amod	
+22	{d}utu	for Utu	NNP	20	nmod:for	
+23	larsa{ki}	Larsa	NNP	22	nmod:of	
+24	1(disz)	_	,	27	nummod	
+25	udu	sheep	NN	20	appos	
+26	niga	barley-fed	JJ	20	appos	
+27	{d}nanna-an-na	for Nanna-of-heaven	NN	20	nmod:for	
+28	1(disz)	_	,	31	nummod	
+29	udu	sheep	NN	27	conj	
+30	niga	barley-fed	JJ	27	conj	
+31	{d}inanna	for Inanna	NNP	27	nmod:for	
+32	1(disz)	_	,	31	nummod	
+33	udu	sheep	NN	31	appos	
+34	niga	barley-fed	JJ	31	appos	
+35	{d}nin-gal	for Ningal	NNP	31	nmod:for	
+36	sza3	in	IN	37	nmod:in	
+37	tur3	sheepfold	NN	31	nmod:in	
+38	gal	large	JJ	37	amod	
+39	zi-ga	booked-outs	NNS	10	_	
+40	u4	th day	NN	39	_	
+41	4(disz)-kam	_	:	10	nummod	
+42	ki	from	IN	43	nmod:from	
+43	a-hu-we-er-ta	Ahu-wer	JJR	10	_	
+44	ba-zi	booked out	VBN	43	acl	
+45	iti	month	NN	46	compound	
+46	masz-ku3-gu7	Gazelle feast	NN	43	conj	
+47	mu	year	NN	46	advmod	
+48	us2-sa	after	IN	47	nmod:after	
+49	{gesz}gu-za	throne	NN	51	nsubjpass	
+50	{d}en-lil2-la2	Enlil	NNP	49	nmod:of	
+51	ba-dim2	was fashioned	VBN	43	ccomp
+	
+

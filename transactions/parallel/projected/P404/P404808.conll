@@ -1,0 +1,55 @@
+# train/P404808.atf
+						
+
+# tr.en: male lamb Enlil male lamb Ninlil delivery Szedada household manager the zabar-dab official deputy cows rams ewe male lamb male kids nanny goats u-gid for kitchen domestic jennies slaughtered for warehouse booked out th day month Big Festival year Sulgi king heads of Urbilum Simurrum Lullubu and Karar in a single campaign did smash
+1	1(disz)	_	CD	6	nummod	
+2	sila4	male lamb	JJ	6	amod	
+3	{d}en-lil2	Enlil	NN	6	compound	
+4	1(disz)	_	,	6	nummod	
+5	sila4	male lamb	NN	6	compound	
+6	{d}nin-lil2	Ninlil	NN	0	root	
+7	mu-kux(DU)	delivery	NN	8	compound	
+8	szesz-da-da	Szedada	NNP	6	appos	
+9	sanga	household manager	NN	6	appos	
+10	zabar-dab5	the zabar-dab	DT	11	det	
+11	maszkim	official deputy	NN	6	appos	
+12	2(disz)	_	,	13	nummod	
+13	ab2	cows	NNS	11	conj	
+14	1(u)	_	CD	19	nummod	
+15	la2	_	_	14	_	
+16	1(disz@t)	_	_	15	nummod	
+17	udu	rams	NNS	13	conj	
+18	1(disz)	_	,	13	nummod	
+19	u8	ewe	NN	13	conj	
+20	1(disz)	_	CD	23	nummod	
+21	sila4	male lamb	NN	13	conj	
+22	7(disz)	_	,	13	nummod	
+23	masz2	male kids	NNS	13	conj	
+24	2(disz)	_	_	0	nummod	
+25	ud5	nanny goats	NNS	23	_	
+26	szu-gid2	u-gid	NN	13	appos	
+27	e2-muhaldim-sze3	for kitchen	NN	26	nmod:for	
+28	2(disz)	_	,	29	nummod	
+29	dusu2-munus	domestic jennies	NNS	11	conj	
+30	ba-usz2	slaughtered	VBN	29	acl	
+31	e2-kiszib3-ba-sze3	for warehouse	NN	29	nmod:for	
+32	zi-ga	booked out	VBN	11	acl	
+33	u4	th day	NN	32	nmod:npmod	
+34	2(u)	_	:	11	nummod	
+35	7(disz)-kam	_	_	34	nummod	
+36	iti	month	NN	37	compound	
+37	ezem-mah	Big Festival	NNP	11	_	
+38	mu	year	NN	37	_	
+39	{d}szul-gi	_	.	6	_	
+40	lugal-e	king	NN	47	appos	
+41	ur-bi2-lum{ki}	Urbilum	NNP	48	nmod:of	
+42	lu-lu-bu	Lullubu	NNP	41	conj	
+43	si-mu-ru-um{ki}	Simurrum	NNP	41	conj	
+44	u3	and	CC	41	cc	
+45	kar2-har	Karar	NNP	41	conj	
+46	asz-sze3	in a single	IN	48	nmod:in	
+47	sagdu-bi	Sulgi	NNP	37	_	
+48	szu-bur2-a	heads	NNS	49	nsubj	
+49	bi2-ra-a	campaign did smash	VB	47	acl:relcl
+	
+

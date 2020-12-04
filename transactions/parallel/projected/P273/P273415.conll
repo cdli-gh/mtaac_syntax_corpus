@@ -1,0 +1,60 @@
+# train/P273415.atf
+						
+
+# tr.en: One ox Bel overseer one ox Ikalla oxen from Apilum in its place put for him bvia Lu-Enki xxx n cows sheep sheep goats slaughtered for kitchen for soldiers nd day booked out of Duga via Nur-Adad scribe month uea year boat Ibex-of-Abzu was caulked oxen and cows small cattle
+1	1(disz)	_	,	54	nummod	
+2	gu4	ox	NN	54	compound	
+3	be6-li	One Bel	CD	54	nummod	
+4	nu-banda3	overseer	NN	54	appos	
+5	1(disz)	_	,	54	nummod	
+6	gu4	ox	NN	8	compound	
+7	KA	one	CD	8	nummod	
+8	i3-kal-la	Ikalla	NNP	54	appos	
+9	gu4	oxen	NN	54	appos	
+10	a2-bi2-lum	from Apilum	NN	9	nmod:from	
+11	ki-ba	in	IN	12	nmod:in	
+12	ba-na-a-ga2-ar	its place put for him	VBD	0	root	
+13	giri3	_	_	0	_	
+14	lu2-{d}en-ki	bvia Lu-Enki	FW	12	advmod	
+15	x	_	NN	19	dep	
+16	x	_	_	0	dep	
+17	x	_	:	12	dep	
+18	n	n	CD	19	nummod	
+19	ab2	cows	NNS	12	parataxis	
+20	5(disz)	_	,	19	nummod	
+21	udu	sheep	NN	19	conj	
+22	x	_	CD	25	dep	
+23	2(u)	_	NN	27	nummod	
+24	8(disz)	_	,	19	nummod	
+25	udu	sheep	NN	19	conj	
+26	3(disz)	_	_	0	nummod	
+27	ud5	goats	NNS	19	conj	
+28	x	_	_	0	dep	
+29	ba-usz2	slaughtered	VBN	19	acl	
+30	e2-muhaldim-sze3	for kitchen	NN	29	nmod:for	
+31	mu	_	,	19	_	
+32	aga3-us2-e-ne-sze3	for soldiers	NNS	19	nmod:for	
+33	u4	nd day	NN	19	appos	
+34	2(disz)-kam	_	:	19	nummod	
+35	ki	_	,	37	_	
+36	du11-ga-ta	Duga	NNP	37	nmod:out.of	
+37	ba-zi	booked out	VBN	19	acl	
+38	giri3	via	IN	39	nmod:via	
+39	nu-ur2-{d}iszkur	Nur-Adad	NNP	37	nmod:via	
+40	dub-sar	scribe	NN	37	dobj	
+41	iti	month	NN	42	_	
+42	szu-esz5-sza	uea	NN	19	_	
+43	mu	year	NN	42	appos	
+44	ma2	boat	NN	45	compound	
+45	dara4-abzu	Ibex-of-Abzu	NNP	46	nsubjpass	
+46	ba-ab-du8	was caulked	VBN	19	acl	
+47	3(disz)	_	.	12	nummod	
+48	gu4	oxen	NN	19	_	
+49	ab2	and cows	CC	48	cc	
+50	3(u)!	_	_	0	nummod	
+51	6(disz)	_	_	50	nummod	
+52	udu	small cattle	NNS	48	appos	
+53	 	_	NN	0	root	
+54	 	_	NN	53	appos
+	
+

@@ -1,0 +1,43 @@
+# train/P114285.atf
+						
+
+# tr.en: male laborer workdays at threshing floor of Agu stationed male laborer workdays from threshing floor of Agu barley in boat loaded boat unloaded foreman Lugal-nesage under seal of Abbagina year unuri was destroyed Lu-Szara scribe son of Ur-saga
+1	5(u)	_	,	4	nummod	
+2	5(disz)	_	_	1	nummod	
+3	gurusz	male laborer	JJ	4	amod	
+4	u4	workdays	NNS	0	root	
+5	1(disz)-sze3	_	_	0	nummod	
+6	ki-su7	at threshing floor	NN	4	nmod:at	
+7	a-gu	Agu	NN	6	nmod:of	
+8	gub-ba	stationed	VBN	6	acl	
+9	5(u)	_	,	12	nummod	
+10	6(disz)	_	_	9	nummod	
+11	gurusz	male laborer	JJ	12	amod	
+12	u4	workdays	NNS	4	_	
+13	1(disz)-sze3	_	_	0	nummod	
+14	ki-su7	from threshing	IN	15	nmod:from	
+15	a-gu-ta	floor Agu	NN	12	nmod:from	
+16	sze!	barley	NN	15	appos	
+17	ma2-a	in	IN	18	nmod:in	
+18	si-ga	boat loaded	NN	16	nmod:in	
+19	x	boat loaded	VBN	18	dep	
+20	x	_	_	0	dep	
+21	x	_	_	0	dep	
+22	ki-sur-ASZ	_	_	0	_	
+23	u4	_	:	4	_	
+24	n-sze3	_	_	0	_	
+25	ma2	boat	NN	12	appos	
+26	ba-al	unloaded	JJ	25	amod	
+27	ugula	foreman	NN	4	_	
+28	lugal-nesag-e	Lugal-nesage	NN	27	_	
+29	kiszib3	under seal	NN	27	nmod:under	
+30	ab-ba-gi-na	Abbagina	NNP	29	nmod:of	
+31	mu	year	NN	33	_	
+32	hu-hu-nu-ri{ki}	unuri	NNP	33	nsubjpass	
+33	ba-hul	was destroyed	VBN	4	parataxis	
+34	lu2-{d}szara2	Lu-Szara	NNP	4	_	
+35	dub-sar	scribe	NN	34	appos	
+36	dumu	son	NN	34	appos	
+37	ur-sa6-ga	Ur-saga	NN	36	nmod:of
+	
+

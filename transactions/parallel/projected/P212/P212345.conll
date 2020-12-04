@@ -1,0 +1,41 @@
+# train/P212345.atf
+						
+
+# tr.en: fat-tailed sheep fat-tailed sheep breeders aslum sheep aslum sheep breeders ewes fat-tailed lamb fat-tailed th day from Abbasaga did Szulgi-ayamu accept month Great Festival second year Enmagalana as priestess of Nanna was installed
+1	1(disz)	_	,	2	nummod	
+2	gukkal	fat-tailed sheep	NN	25	nsubj	
+3	2(disz)	_	,	2	nummod	
+4	gukkal	fat-tailed sheep	NN	2	conj	
+5	gesz-du3	breeders	NNS	2	conj	
+6	3(disz)	_	,	2	nummod	
+7	udu	sheep	NN	2	conj	
+8	a-lum	aslum	NN	7	compound	
+9	3(disz)	_	,	2	nummod	
+10	udu	sheep	NN	2	conj	
+11	a-lum	aslum	NN	10	compound	
+12	gesz-du3	breeders	NNS	2	conj	
+13	2(disz)	_	,	2	nummod	
+14	u8	ewes	NNS	2	conj	
+15	gukkal	fat-tailed	NN	2	conj	
+16	1(disz)	_	,	2	nummod	
+17	sila4	lamb	NN	2	conj	
+18	gukkal	fat-tailed	NN	2	conj	
+19	u4	th day	NN	2	appos	
+20	2(u)	_	,	2	nummod	
+21	5(disz)-kam	_	_	20	nummod	
+22	ki	from	IN	23	nmod:from	
+23	ab-ba-sa6-ga-ta	Abbasaga	NNP	2	nmod:from	
+24	{d}szul-gi-a-a-mu	did Szulgi-ayamu	VBD	25	aux	
+25	i3-dab5	accept	VB	0	root	
+26	iti	month	NN	27	_	
+27	ezem-mah	Great Festival	NNP	25	parataxis	
+28	min3	second	JJ	27	_	
+29	mu	year	NN	27	_	
+30	en-mah-gal-an-na	Enmagalana as	NNP	34	nsubjpass	
+31	en	priestess	NN	30	nmod:as	
+32	{d}nanna	Nanna	NNP	31	nmod:of	
+33	ba-hun	was installed	VBD	34	auxpass	
+34	1(u)	was installed	VBN	27	nummod	
+35	2(disz)	_	IN	32	nummod
+	
+

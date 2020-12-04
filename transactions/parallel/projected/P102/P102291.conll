@@ -1,0 +1,107 @@
+# train/P102291.atf
+						
+
+# tr.en: sila beer sila bread shekels onions shekels oil shekels alkali-plant for Szu-Gute sila beer sila bread shekels onions shekels oil shekels alkali-plant for Imtidam sila beer sila bread shekels onions shekels oil shekels alkali-plant for Ur-Damu sila beer sila bread shekels onions shekels oil shekels alkali-plant for Ma total ban sila beer total ban bread total shekels onions total shekels oil total shekels alkali-plant th day month Bricks cast in moulds year after Szu-Suen king of Ur Amorite wall erected year after that
+1	5(disz)	_	,	2	nummod	
+2	sila3	sila	NN	3	appos	
+3	kasz	beer	_	0	_	
+4	3(disz)	_	_	0	nummod	
+5	sila3	sila	NN	2	compound	
+6	ninda	bread	NN	2	conj	
+7	3(disz)	_	_	0	nummod	
+8	gin2	shekels	NNS	9	compound	
+9	szum2	onions	NNS	2	conj	
+10	3(disz)	_	_	0	nummod	
+11	gin2	shekels	NNS	12	compound	
+12	i3	oil	NN	2	conj	
+13	3(disz)	_	_	0	nummod	
+14	gin2	shekels	NNS	15	nmod:npmod	
+15	naga	alkali-plant	JJ	2	amod	
+16	szu-gu-te	for Szu-Gute	NNP	2	nmod:for	
+17	5(disz)	_	,	19	nummod	
+18	sila3	sila	NN	19	compound	
+19	kasz	beer	NN	2	conj	
+20	3(disz)	_	_	0	nummod	
+21	sila3	sila	NN	22	compound	
+22	ninda	bread	NN	19	conj	
+23	3(disz)	_	_	0	nummod	
+24	gin2	shekels	NNS	25	compound	
+25	szum2	onions	NNS	19	conj	
+26	3(disz)	_	_	0	nummod	
+27	gin2	shekels	NNS	28	compound	
+28	i3	oil	NN	19	conj	
+29	4(disz)	_	_	0	nummod	
+30	gin2	shekels	NNS	31	nmod:npmod	
+31	naga	alkali-plant	JJ	19	amod	
+32	im-ti-dam	for Imtidam	NNP	19	nmod:for	
+33	3(disz)	_	,	35	nummod	
+34	sila3	sila	NN	35	compound	
+35	kasz	beer	NN	2	conj	
+36	2(disz)	_	_	0	nummod	
+37	sila3	sila	NN	38	compound	
+38	ninda	bread	NN	35	conj	
+39	3(disz)	_	_	0	nummod	
+40	gin2	shekels	NNS	41	compound	
+41	szum2	onions	NNS	35	conj	
+42	3(disz)	_	_	0	nummod	
+43	gin2	shekels	NNS	44	compound	
+44	i3	oil	NN	35	conj	
+45	3(disz)	_	_	0	nummod	
+46	gin2	shekels	NNS	47	nmod:npmod	
+47	naga	alkali-plant	JJ	35	amod	
+48	ur-{d}da-mu	for Ur-Damu	NNP	35	nmod:for	
+49	3(disz)	_	,	51	nummod	
+50	sila3	sila	NN	51	compound	
+51	kasz	beer	NN	2	conj	
+52	2(disz)	_	_	0	nummod	
+53	sila3	sila	NN	54	compound	
+54	ninda	bread	NN	51	conj	
+55	3(disz)	_	_	0	nummod	
+56	gin2	shekels	NNS	57	compound	
+57	szum2	onions	NNS	51	conj	
+58	3(disz)	_	_	0	nummod	
+59	gin2	shekels	NNS	60	compound	
+60	i3	oil	NN	51	conj	
+61	2(disz)	_	_	0	nummod	
+62	gin2	shekels	NNS	63	nmod:npmod	
+63	naga	alkali-plant	JJ	51	amod	
+64	ma-asz2	for Ma	NN	51	nmod:for	
+65	szunigin	total	NN	2	_	
+66	1(ban2)	_	:	2	nummod	
+67	6(disz)	ban	NN	65	nummod	
+68	sila3	sila	NN	69	compound	
+69	kasz	beer	NN	67	_	
+70	szunigin	total	NN	2	_	
+71	1(ban2)	ban	NN	72	nummod	
+72	ninda	bread	NN	70	_	
+73	szunigin	total	NN	2	_	
+74	1(u)	_	:	2	nummod	
+75	2(disz)	_	_	74	nummod	
+76	gin2	shekels	NNS	73	_	
+77	szum2	onions	NNS	76	_	
+78	szunigin	total	NN	2	_	
+79	1(u)	_	_	0	nummod	
+80	2(disz)	_	_	79	nummod	
+81	gin2	shekels	NNS	82	compound	
+82	i3	oil	NN	78	_	
+83	szunigin	total	NN	2	_	
+84	8(disz)	_	_	0	nummod	
+85	gin2	shekels	NNS	86	nmod:npmod	
+86	naga	alkali-plant	JJ	83	_	
+87	u4	th day	NN	2	_	
+88	2(u)	_	:	2	nummod	
+89	8(disz)-kam	_	_	88	nummod	
+90	iti	month	NN	91	nmod:tmod	
+91	sig4-{gesz}i3-szub-ba-ga2-ra	Bricks cast in moulds	VBD	2	parataxis	
+92	mu	year	NN	91	_	
+93	us2-sa	after	IN	92	advmod	
+94	{d}szu-{d}suen	Szu-Suen	NNP	91	dobj	
+95	lugal	king	NN	94	appos	
+96	uri5{ki}-ma-ke4	Ur	NN	95	nmod:of	
+97	bad3	_	.	2	_	
+98	mar-tu	Amorite wall	NN	99	nsubj	
+99	mu-du3-a	erected	VBD	94	acl:relcl	
+100	mu	year	NN	91	_	
+101	us2-sa-a-bi	after that	DT	100	nmod:after
+	
+

@@ -1,0 +1,49 @@
+# dev/P209503.atf
+						
+
+# tr.en: workmen for days the labor days at water stationed the field Amar-kii the field Center the field Royal waterway water poured intake of out-waterway cut off from intake of out-waterway to field Amar-kii leveled foreman via under seal of Egalesi year following Szu-Suen king Martu wall erected
+1	8(disz)	_	,	2	nummod	
+2	gurusz	workmen	NNS	18	nsubj	
+3	u4	for days	NNS	2	nmod:for	
+4	4(u)-sze3	_	_	0	nummod	
+5	a2-bi	the labor	NN	2	appos	
+6	u4	days	NNS	5	_	
+7	5(gesz2)	_	,	2	nummod	
+8	2(u)	_	_	7	nummod	
+9	a-da	at water	NN	2	nmod:at	
+10	gub-ba	stationed	VBN	9	acl	
+11	a-sza3	field	NN	12	_	
+12	amar-{gesz}kiszi17	the Amar-kii	NN	14	_	
+13	a-sza3	field	NN	14	_	
+14	muru13	the Center	NNP	2	appos	
+15	a-sza3	field	NN	2	_	
+16	i7	the	DT	15	det	
+17	lugal-ka	Royal waterway	NN	15	_	
+18	a-de2-a	water poured	VBD	0	root	
+19	ka	_	,	21	_	
+20	i7	_	_	0	_	
+21	e3-ka	intake out-waterway off	NN	18	dobj	
+22	ku5-ra2	cut	NN	21	nmod:of	
+23	ka	_	_	0	_	
+24	i7	_	_	0	_	
+25	e3-ta	from intake out-waterway	NN	21	nmod:from	
+26	a-sza3	field	NN	25	acl	
+27	amar-{gesz}kiszi17	to	TO	26	mark	
+28	x-da-sze3	Amar-kii	NN	26	compound	
+29	szu-ur3-ra	leveled	VBD	26	acl	
+30	ugula	foreman	NN	26	_	
+31	...	_	_	0	dep	
+32	x	_	:	30	dep	
+33	giri3	via	IN	34	nmod:via	
+34	...	_	NN	26	nmod:via	
+35	kiszib3	under seal	NN	26	nmod:under	
+36	e2-gal-e-si	Egalesi	NN	35	nmod:of	
+37	mu	year	NN	26	appos	
+38	us2-sa	following	VBG	37	acl	
+39	{d}szu-{d}suen	Szu-Suen	NNP	21	_	
+40	lugal-e	king	NN	39	appos	
+41	bad3	_	.	18	_	
+42	mar-tu	Martu wall	NN	43	nsubj	
+43	mu-du3	erected	VBD	39	acl:relcl
+	
+

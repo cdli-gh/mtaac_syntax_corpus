@@ -1,0 +1,126 @@
+# train/P101258.atf
+						
+
+# tr.en: sila beer sila bread shekels onions shekels oil shekels alkali-plant for Nanna-kam sila beer sila bread shekels onions shekels oil shekels alkali-plant for Dingir-izu sila beer sila bread shekels onions shekels oil shekels alkali-plant for Sz-Itar sila beer sila bread shekels onions shekels oil shekels alkali-plant for Nasa sila beer sila bread shekels onions shekels oil shekels alkali-plant for Anaya sila beer sila bread shekels onions shekels oil shekels alkali-plant for ARAD-ula total ban sila beer ban sila bread sila onions total shekels oil shekels alkali-plant th day month mine month mine
+1	5(disz)	_	,	2	nummod	
+2	sila3	sila	NN	3	appos	
+3	kasz	beer	_	0	_	
+4	5(disz)	_	CD	12	nummod	
+5	sila3	sila	NN	2	compound	
+6	ninda	bread	NN	2	conj	
+7	5(disz)	_	_	0	nummod	
+8	gin2	shekels	NNS	9	compound	
+9	szum2	onions	NNS	2	conj	
+10	3(disz)	_	,	2	nummod	
+11	gin2	shekels	NNS	12	compound	
+12	i3	oil	NN	2	conj	
+13	2(disz)	_	_	0	nummod	
+14	gin2	shekels	NNS	15	nmod:npmod	
+15	naga	alkali-plant	JJ	2	amod	
+16	{d}nanna-kam	for Nanna-kam	NN	2	nmod:for	
+17	5(disz)	_	,	19	nummod	
+18	sila3	sila	NN	19	compound	
+19	kasz	beer	NN	2	_	
+20	5(disz)	_	CD	27	nummod	
+21	sila3	sila	NN	22	compound	
+22	ninda	bread onions	NN	19	conj	
+23	5(disz)	_	_	0	nummod	
+24	gin2	shekels	NNS	19	compound	
+25	3(disz)	_	,	19	nummod	
+26	gin2	shekels	NNS	27	compound	
+27	i3	oil	NN	19	conj	
+28	2(disz)	_	_	0	nummod	
+29	gin2	shekels	NNS	30	nmod:npmod	
+30	naga	alkali-plant	JJ	19	amod	
+31	dingir-i3-zu	for Dingir-izu	NN	19	nmod:for	
+32	5(disz)	_	,	34	nummod	
+33	sila3	sila	NN	34	compound	
+34	kasz	beer	NN	19	conj	
+35	5(disz)	_	CD	42	nummod	
+36	sila3	sila	NN	37	compound	
+37	ninda	bread onions	NN	34	conj	
+38	5(disz)	_	_	0	nummod	
+39	gin2	shekels	NNS	34	compound	
+40	3(disz)	_	,	34	nummod	
+41	gin2	shekels	NNS	42	compound	
+42	i3	oil	NN	34	conj	
+43	2(disz)	_	_	0	nummod	
+44	gin2	shekels	NNS	45	nmod:npmod	
+45	naga	alkali-plant	JJ	34	amod	
+46	szu-esz18-dar	for Sz-Itar	NNP	34	nmod:for	
+47	5(disz)	_	,	49	nummod	
+48	sila3	sila	NN	49	compound	
+49	kasz	beer	NN	19	conj	
+50	5(disz)	_	CD	57	nummod	
+51	sila3	sila	NN	52	compound	
+52	ninda	bread onions	NN	49	conj	
+53	5(disz)	_	_	0	nummod	
+54	gin2	shekels	NNS	49	compound	
+55	3(disz)	_	,	49	nummod	
+56	gin2	shekels	NNS	57	compound	
+57	i3	oil	NN	49	conj	
+58	2(disz)	_	_	0	nummod	
+59	gin2	shekels	NNS	60	nmod:npmod	
+60	naga	alkali-plant	JJ	49	amod	
+61	na-sa6	for Nasa	NNP	49	nmod:for	
+62	3(disz)	_	,	64	nummod	
+63	sila3	sila	NN	64	compound	
+64	kasz	beer	NN	19	conj	
+65	2(disz)	_	CD	72	nummod	
+66	sila3	sila	NN	67	compound	
+67	ninda	bread onions	NN	64	conj	
+68	5(disz)	_	_	0	nummod	
+69	gin2	shekels	NNS	64	compound	
+70	3(disz)	_	,	64	nummod	
+71	gin2	shekels	NNS	72	compound	
+72	i3	oil	NN	64	conj	
+73	2(disz)	_	_	0	nummod	
+74	gin2	shekels	NNS	75	nmod:npmod	
+75	naga	alkali-plant	JJ	64	amod	
+76	a-na-a	for Anaya	NNP	64	nmod:for	
+77	3(disz)	_	,	79	nummod	
+78	sila3	sila	NN	79	compound	
+79	kasz	beer	NN	19	conj	
+80	2(disz)	_	CD	87	nummod	
+81	sila3	sila	NN	82	compound	
+82	ninda	bread onions	NN	79	conj	
+83	5(disz)	_	_	0	nummod	
+84	gin2	shekels	NNS	79	compound	
+85	3(disz)	_	,	79	nummod	
+86	gin2	shekels	NNS	87	compound	
+87	i3	oil	NN	79	conj	
+88	2(disz)	_	_	0	nummod	
+89	gin2	shekels	NNS	90	nmod:npmod	
+90	naga	alkali-plant	JJ	79	amod	
+91	ARAD2-hu-la	for ARAD-ula	NN	79	nmod:for	
+92	szunigin	total	NN	19	_	
+93	2(ban2)	_	:	19	nummod	
+94	6(disz)	ban	NN	92	nummod	
+95	sila3	sila	NN	96	compound	
+96	kasz	beer	NN	94	_	
+97	2(ban2)	_	_	0	nummod	
+98	4(disz)	ban	NN	19	nummod	
+99	sila3	sila	NN	100	compound	
+100	ninda	bread	NN	98	_	
+101	1/2(disz)	_	_	0	nummod	
+102	sila3	sila	NN	103	compound	
+103	szum2	onions	NNS	19	_	
+104	szunigin	total	NN	19	_	
+105	1(u)	_	:	19	nummod	
+106	8(disz)	_	_	105	nummod	
+107	gin2	shekels	NNS	108	compound	
+108	i3	oil	NN	104	_	
+109	1(u)	_	NN	114	nummod	
+110	2(disz)	_	_	109	nummod	
+111	gin2	shekels	NNS	112	nmod:npmod	
+112	naga	alkali-plant	JJ	19	_	
+113	...	_	_	0	dep	
+114	u4	th day	NN	19	_	
+115	1(u)	_	:	2	nummod	
+116	4(disz)-kam	_	NN	115	nummod	
+117	iti	month	NN	2	_	
+118	min3-esz3	mine	_	0	_	
+119	iti	_	.	2	_	
+120	min3-esz3	_	''	2	_
+	
+

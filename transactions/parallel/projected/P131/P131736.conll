@@ -1,0 +1,140 @@
+# train/P131736.atf
+						
+
+# tr.en: female laborers for months labor involved workdays from month Harvest to month Extra gur ban sila dabin flour labor involved its th included from ARAD gur of barley labor involved workdays from grain account of Lugal-ezem female laborers for months days labor involved workdays female laborers to bala-service gone female laborer days labor of flour milling its th female laborer days labor booked out various from Lugal-niglagare foreman of weavers regular guzza-garments labor involved workdays gur barig ban dabin flour labor involved workdays its th included burden set in Umma and in Apisal year Nanna of Karzida was for second time brought into Eanna
+1	2(gesz2)	_	_	0	nummod	
+2	2(u)	_	_	1	nummod	
+3	1(disz)	_	_	1	nummod	
+4	1/3(disz)	_	_	1	nummod	
+5	geme2	female laborers	NNS	0	root	
+6	iti	months	NNS	5	nmod:for	
+7	1(u)	_	,	5	nummod	
+8	3(disz)-sze3	_	_	7	nummod	
+9	a2-bi	labor involved	NN	5	appos	
+10	u4	workdays	NNS	5	_	
+11	1(szar'u)	_	,	10	nummod	
+12	5(szar2)	_	_	11	nummod	
+13	1(gesz'u)	_	_	11	nummod	
+14	8(gesz2)	_	_	11	nummod	
+15	4(u)	_	_	11	nummod	
+16	iti	month	NN	17	compound	
+17	sze-sag11-ku5-ta	from Harvest	NNP	10	nmod:from	
+18	iti	month	NN	10	nmod:to	
+19	diri-sze3	to Extra	TO	18	nmod:to	
+20	3(gesz2)	to Extra	CD	27	nummod	
+21	5(u)	_	,	20	nummod	
+22	7(asz)	_	_	20	nummod	
+23	4(ban2)	_	_	20	nummod	
+24	1(disz)	_	_	20	nummod	
+25	sila3	sila	NN	26	compound	
+26	dabin	dabin flour	NN	27	conj	
+27	gur	gur	NN	10	_	
+28	a2-bi	labor involved	NN	27	appos	
+29	u4	_	,	36	_	
+30	2(szar2)	_	_	0	nummod	
+31	1(gesz'u)	_	_	30	nummod	
+32	8(gesz2)	_	_	30	nummod	
+33	2(u)	_	_	30	nummod	
+34	igi	its	PRP$	36	nmod:poss	
+35	6(disz)-gal2-bi	_	_	0	nummod	
+36	i3-ib2-gar	th included	VBD	27	acl	
+37	ki	from	IN	38	nmod:from	
+38	ARAD2-ta	ARAD	NN	36	nmod:from	
+39	1(gesz2)	_	,	41	nummod	
+40	sze	barley	NN	41	nmod:of	
+41	gur	gur	NN	38	conj	
+42	a2-bi	labor involved	NN	41	appos	
+43	u4	workdays	NNS	38	_	
+44	1(szar2)	_	:	38	nummod	
+45	2(gesz'u)	_	_	44	nummod	
+46	7(gesz2)	_	_	44	nummod	
+47	3(u)	_	_	44	nummod	
+48	nig2-ka9	from	IN	50	nmod:from	
+49	sze	grain	NN	50	compound	
+50	lugal-ezem-ta	account Lugal-ezem	NN	38	nmod:from	
+51	2(u)	_	,	52	nummod	
+52	geme2	female laborers	NNS	38	conj	
+53	iti	months	NNS	52	nmod:for	
+54	4(disz)	_	_	0	nummod	
+55	u4	for days	IN	53	nmod:for	
+56	1(u)	_	_	0	nummod	
+57	8(disz)-sze3	_	_	56	nummod	
+58	a2-bi	labor involved	NN	52	appos	
+59	u4	workdays	NNS	38	_	
+60	4(gesz'u)	_	:	59	nummod	
+61	6(gesz2)	_	_	60	nummod	
+62	geme2	female laborers	NNS	59	_	
+63	bala-sze3	bala-service	JJ	65	amod	
+64	gen-na	to gone	TO	65	nmod:to	
+65	5(gesz'u)	to gone	VBN	62	nummod	
+66	5(gesz2)	_	,	70	nummod	
+67	4(u)	_	_	66	nummod	
+68	4(disz)	_	_	66	nummod	
+69	geme2	female laborer	JJ	70	amod	
+70	u4	days	NNS	59	_	
+71	1(disz)-sze3	_	_	0	nummod	
+72	a2	labor	NN	70	appos	
+73	zi3	flour	NN	74	compound	
+74	ar3-a	milling	NN	72	nmod:of	
+75	igi	its th	PRP$	76	nmod:poss	
+76	6(disz)-gal2-bi	its th	JJ	70	nummod	
+77	9(gesz2)	_	:	76	nummod	
+78	1(u)	_	CD	84	nummod	
+79	7(disz)	_	CD	78	nummod	
+80	1/3(disz)	_	_	78	nummod	
+81	6(gesz2)	_	,	59	nummod	
+82	3(disz)	_	_	81	nummod	
+83	geme2	female laborer	JJ	84	amod	
+84	u4	days	NNS	70	_	
+85	1(disz)-sze3	_	_	0	nummod	
+86	a2	labor	NN	87	nsubj	
+87	zi-ga	booked out	VBD	59	acl:relcl	
+88	didli	various	JJ	87	advmod	
+89	ki	from	IN	90	nmod:from	
+90	lugal-nig2-lagar-e	Lugal-niglagare	NN	87	nmod:from	
+91	ugula	foreman	NN	90	appos	
+92	usz-bar-ta	weavers	NNS	91	nmod:of	
+93	3(gesz2)	_	IN	92	nummod	
+94	2(u)	_	,	97	nummod	
+95	6(disz)	_	_	94	nummod	
+96	tug2	_	_	0	_	
+97	guz-za	regular guzza-garments	NNS	59	_	
+98	du	_	_	0	_	
+99	a2-bi	labor involved	NN	97	appos	
+100	u4	workdays	NNS	97	_	
+101	5(szar2)	_	.	100	nummod	
+102	9(gesz2)	_	CD	109	nummod	
+103	8(gesz2)	_	,	102	nummod	
+104	1(u)	_	_	102	nummod	
+105	4(asz)	_	_	102	nummod	
+106	3(barig)	_	_	102	nummod	
+107	3(ban2)	barig ban	NN	109	nummod	
+108	dabin	dabin flour	NN	109	conj	
+109	gur	gur	NN	100	_	
+110	a2-bi	labor involved	NN	109	appos	
+111	u4	workdays	NNS	109	_	
+112	4(szar2)	_	,	111	nummod	
+113	4(gesz'u)	_	_	112	nummod	
+114	8(gesz2)	_	_	112	nummod	
+115	3(u)	_	_	112	nummod	
+116	4(disz)	_	_	112	nummod	
+117	1/2(disz)	_	_	112	nummod	
+118	igi	its	PRP$	120	nmod:poss	
+119	6(disz)-gal2-bi	_	:	111	nummod	
+120	i3-ib2-gar	th included	VBD	111	acl:relcl	
+121	gu2	_	_	0	_	
+122	ga2-ra	burden set	NN	111	_	
+123	sza3	in	IN	124	nmod:in	
+124	umma{ki}	Umma	NNP	122	nmod:in	
+125	u3	and	CC	124	cc	
+126	sza3	in	IN	127	nmod:in	
+127	a-pi4-sal4{ki}	Apisal	NN	124	conj	
+128	mu	year	NN	111	_	
+129	{d}nanna	Nanna	NNP	131	nsubj	
+130	kar-zi-da	Karzida was	NNP	129	nmod:of	
+131	a-ra2	for second time	NN	111	_	
+132	2(disz@t)-kam	_	''	131	nummod	
+133	e2-an-na	Eanna	NNP	134	nmod:into	
+134	ba-an-kux(KWU147)	into brought	VBD	131	acl
+	
+

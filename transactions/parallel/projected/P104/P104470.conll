@@ -1,0 +1,79 @@
+# train/P104470.atf
+						
+
+# tr.en: oxen grain-fed rams Ku-Szara governor of Iim-Szulgi ox grain-fed rams Nisaba-andul chief household administrator unsealed by order of Szarakam from Abba-saga booked out under seal of Lu-bine by Szarakam to be transported month Festival-of-Szulgi year lord of Nanna was installed oxen grain-fed rams Ku-Szara governor of Iim-Szulgi ox grain-fed rams Nisaba-andul chief household administrator unsealed by order of Szarakam from Abba-saga booked out under seal of Lu-bine by Szarakam to be transported month Festival-of-Szulgi year lord of Nanna was installed Lu-dingira scribe son of Ur-saga
+1	2(disz)	_	,	3	nummod	
+2	gu4	oxen	NNS	0	root	
+3	niga	grain-fed	JJ	2	appos	
+4	2(u)	_	_	0	nummod	
+5	udu	rams	NNS	3	conj	
+6	ku3-{d}szara2	Ku-Szara	NNP	3	conj	
+7	ensi2	governor	NN	3	conj	
+8	i-szim-{d}szul-gi	of Iim-Szulgi	NNP	7	nmod:of	
+9	1(disz)	_	,	10	nummod	
+10	gu4	ox	NN	3	_	
+11	niga	grain-fed	JJ	10	amod	
+12	1(u)	_	_	0	nummod	
+13	udu	rams	NNS	10	conj	
+14	{d}nisaba-an-dul3	Nisaba-andul chief	NN	10	conj	
+15	szabra	household administrator	NN	16	compound	
+16	szu	household administrator	NN	10	conj	
+17	la2-a	_	NN	0	root	
+18	kiszib3	_	_	0	_	
+19	nu-tuku	unsealed	_	0	_	
+20	inim	by	IN	21	nmod:by	
+21	{d}szara2-kam-ta	order Szarakam	NN	51	nmod:by	
+22	ki	from	IN	23	nmod:from	
+23	ab-ba-sa6-ga-ta	Abba-saga	NN	51	nmod:from	
+24	ba-zi	booked out	VBN	23	acl	
+25	kiszib3	under seal	NN	51	nmod:under	
+26	lu2-bi-ne	Lu-bine	NN	25	nmod:of	
+27	{d}szara2-kam-e	by Szarakam	NNP	10	conj	
+28	tum3-dam	to be transported	VBN	27	acl	
+29	iti	month	NN	30	compound	
+30	ezem-{d}szul-gi	Festival-of-Szulgi	NNP	10	conj	
+31	mu	year	NN	30	_	
+32	en	lord	NN	34	nsubjpass	
+33	{d}nanna	Nanna	NNP	32	nmod:of	
+34	ba-hun	was installed	VBN	31	acl	
+35	2(disz)	_	:	36	nummod	
+36	gu4	oxen	NNS	34	dobj	
+37	niga	grain-fed	JJ	36	amod	
+38	2(u)	_	CD	44	nummod	
+39	udu	rams	NNS	36	conj	
+40	ku3-{d}szara2	Ku-Szara	NNP	36	conj	
+41	ensi2	governor	NN	36	appos	
+42	i-szim-{d}szul-gi{ki}	Iim-Szulgi	NNP	41	nmod:of	
+43	1(disz)	_	_	0	nummod	
+44	gu4	ox	NN	36	_	
+45	niga	grain-fed	JJ	44	amod	
+46	1(u)	_	_	0	nummod	
+47	udu	rams	NNS	44	conj	
+48	{d}nisaba-an-dul3	Nisaba-andul chief	NN	44	conj	
+49	szabra	household administrator	NN	50	compound	
+50	szu	household administrator	NN	44	conj	
+51	la2-a	_	_	0	_	
+52	 	_	_	0	_	
+53	kiszib3	_	,	52	_	
+54	nu-tuku	unsealed	JJ	52	amod	
+55	inim	by	IN	56	nmod:by	
+56	{d}szara2-kam-ta	order Szarakam	NN	52	nmod:by	
+57	ki	from	IN	58	nmod:from	
+58	ab-ba-sa6-ga-ta	Abba-saga	NN	52	nmod:from	
+59	ba-zi	booked out	VBN	58	acl	
+60	kiszib3	under seal	NN	52	nmod:under	
+61	lu2-bi-ne	Lu-bine	NN	60	nmod:of	
+62	{d}szara2-kam-e	by Szarakam	NNP	44	conj	
+63	tum3-dam	to be transported	VBN	62	acl	
+64	iti	month	NN	65	compound	
+65	ezem-{d}szul-gi	Festival-of-Szulgi	NNP	44	_	
+66	mu	year	NN	65	_	
+67	en	lord	NN	69	nsubjpass	
+68	{d}nanna	Nanna	NNP	67	nmod:of	
+69	ba-hun	was installed	VBN	66	acl	
+70	lu2-dingir-ra	Lu-dingira	NN	69	_	
+71	dub-sar	scribe	NN	70	conj	
+72	dumu	son	NN	70	appos	
+73	ur-sa6-ga	Ur-saga	NN	72	nmod:of
+	
+

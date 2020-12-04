@@ -1,0 +1,61 @@
+# train/P392632.atf
+						
+
+# tr.en: ox sheep and goat Gudea grain-fed ox sheep Akalla Adda-kal foreman of weavers credited to ellu-dagan deliveries Month eating piglettes year Kima and Hurti were destroyed
+1	n	_	_	0	_	
+2	5(disz)	_	_	0	nummod	
+3	x	_	NN	21	dep	
+4	x	_	_	0	dep	
+5	...	_	_	0	dep	
+6	x-x	_	_	0	dep	
+7	...	_	_	0	dep	
+8	...	_	_	0	dep	
+9	gu4	ox	NN	54	_	
+10	4(disz)	_	NN	21	nummod	
+11	udu	sheep	NN	9	conj	
+12	1(disz)	_	_	0	nummod	
+13	masz2	and goat	CC	9	cc	
+14	x	_	_	0	dep	
+15	x	_	NN	21	dep	
+16	gu3-de2-a	Gudea	NNP	21	compound	
+17	x	_	NN	21	dep	
+18	...	_	_	0	dep	
+19	x	_	_	0	dep	
+20	n	_	CD	24	nummod	
+21	gu4	ox	NN	9	conj	
+22	niga	grain-fed	JJ	21	amod	
+23	4(disz)	_	_	0	nummod	
+24	...	_	NN	54	appos	
+25	x	_	NN	28	dep	
+26	n	_	,	54	_	
+27	1(disz)	_	_	0	nummod	
+28	udu	sheep	NN	24	_	
+29	1(disz)	_	CD	30	nummod	
+30	x	_	NN	54	appos	
+31	a-kal-la	Akalla	NNP	32	compound	
+32	x	_	_	0	dep	
+33	x	_	_	0	dep	
+34	...	_	_	0	dep	
+35	x	_	,	32	dep	
+36	...	_	_	0	dep	
+37	...	_	_	0	dep	
+38	x	_	_	0	dep	
+39	x	_	_	0	dep	
+40	ad-da-kal-la	Adda-kal	JJ	55	amod	
+41	ugula	foreman	NN	32	appos	
+42	usz-bar	weavers	NNS	41	nmod:of	
+43	zi-ga	credited	VBN	45	acl	
+44	s,e-lu-usz-{d}da-gan	to ellu-dagan	TO	43	nmod	
+45	mu-kux(DU)	deliveries	NNS	32	appos	
+46	iti	Month	NNP	53	_	
+47	ses-da-gu7	eating piglettes	NNS	46	_	
+48	mu	year	NN	46	_	
+49	ki-masz{ki}	_	:	53	_	
+50	u3	and	CC	52	cc	
+51	hu-ur5-ti{ki}	Hurti	NNP	52	conj	
+52	ba-hul	were destroyed	VBN	53	acl	
+53	 	_	NN	0	root	
+54	 	_	NN	53	appos	
+55	 	_	_	0	_
+	
+

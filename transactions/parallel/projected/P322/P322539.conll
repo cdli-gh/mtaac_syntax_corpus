@@ -1,0 +1,52 @@
+# train/P322539.atf
+						
+
+# tr.en: hide grain-fed sheep hide grain-fed goat sheep hides regular offerings from Adda-illat Anah-ili did receive Month An-festival year he erected great stele for them hide grain-fed sheep hide grain-fed goat sheep hides regular offerings from Adda-illat Anah-ili did receive In Garana Month An-festival year he erected great stele for Enlil and Ninlil
+1	1(disz)	_	:	2	nummod	
+2	kusz	hide	VB	0	root	
+3	udu	sheep	NN	2	appos	
+4	niga	grain-fed	JJ	3	amod	
+5	1(disz)	_	:	6	nummod	
+6	kusz	hide	VB	2	acl	
+7	masz2	goat	NN	6	conj	
+8	niga	grain-fed	JJ	7	amod	
+9	kusz	hides	NNS	6	conj	
+10	udu	sheep	NN	9	compound	
+11	sa2-du11	regular offerings	NNS	9	appos	
+12	ki	from	IN	13	nmod:from	
+13	{d}iszkur-illat-ta	Adda-illat	NN	9	nmod:from	
+14	a-na-ah-i3-li2	Anah-ili	JJ	16	nsubj	
+15	szu	did	VBD	16	aux	
+16	ba-an-ti	receive	VB	9	acl:relcl	
+17	iti	Month	NNP	16	_	
+18	ezem-an-na	An-festival	JJ	19	amod	
+19	mu	year	NN	17	_	
+20	na-ru2-a-mah	he erected great stele	VBD	19	acl	
+21	mu-ne-du3	for them	PRP	20	nmod:for	
+22	1(disz)	_	:	23	nummod	
+23	kusz	hide	VB	2	acl	
+24	udu	sheep	NN	23	appos	
+25	niga	grain-fed	JJ	24	amod	
+26	1(disz)	_	:	27	nummod	
+27	kusz	hide	VB	23	acl	
+28	masz2	goat	NN	27	conj	
+29	niga	grain-fed	JJ	28	amod	
+30	kusz	hides	NNS	27	_	
+31	udu	sheep	NN	30	compound	
+32	sa2-du11	regular offerings	NNS	30	appos	
+33	ki	from	IN	34	nmod:from	
+34	{d}iszkur-illat-ta	Adda-illat	NN	30	nmod:from	
+35	a-na-ah-i3-li2	Anah-ili	JJ	37	nsubj	
+36	szu	did	VBD	37	aux	
+37	ba-an-ti	receive	VB	30	acl:relcl	
+38	sza3	_	.	39	_	
+39	gar-sza-an-na{ki}	In Garana	NNP	37	nmod:in	
+40	iti	Month	NNP	39	appos	
+41	ezem-an-na	An-festival	JJ	30	_	
+42	mu	year	NN	41	_	
+43	na-ru2-a-mah	he erected great stele	VBD	30	acl	
+44	{d}en-lil2	for Enlil	NNP	43	nmod:for	
+45	{d}nin-lil2-ra	and	CC	44	cc	
+46	mu-ne-du3	Ninlil	NNP	44	conj
+	
+

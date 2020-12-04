@@ -1,0 +1,161 @@
+# train/P102359.atf
+						
+
+# tr.en: ox-hides grain-fed sheep-hides lamb-hides regular offerings of Szara of Umma ox-hide grain-fed sheep-hides grain-fed sheep-hides regular offerings of Szara of KIAN sheep-hides grain-fed lamb-hides royal sacrifice ox-hide grain-fed sheep-hides grain-fed sheep-hides in regular offerings billy goat-hides regular offerings additional of Szulgi sheep-hides lamb-hides for Ninura sheep-hides lamb-hides Ebgal sheep-hide lamb-hides Enlil sheep-hides Nane of Umma sheep-hide for Gula sheep-hides -hides for Innana of Zabala Nin-ilduma and Kusig-banda sheep-hides for governor of sheep-hides -hides for Ee sheep-hides -hides for Da-Laga sheep-hides lamb-hides for Enki and USzkalimmu sheep-hides lamb-hides for Dumuzi of double-city regular offerings of gods year after wall was erected
+1	1(u)	_	,	5	nummod	
+2	1(disz)	_	CD	10	nummod	
+3	kusz	ox-hides	NNS	0	root	
+4	gu4	_	_	0	_	
+5	niga	grain-fed	JJ	3	_	
+6	7(gesz2)	_	,	5	nummod	
+7	3(u)	_	CD	14	nummod	
+8	la2	_	_	7	_	
+9	1(disz)	_	_	8	nummod	
+10	kusz	sheep-hides	NNS	5	conj	
+11	udu	_	_	0	_	
+12	2(disz)	_	,	5	nummod	
+13	kusz	_	_	0	_	
+14	sila4	lamb-hides	NNS	5	conj	
+15	sa2-du11	regular offerings	NNS	5	conj	
+16	{d}szara2	Szara	NN	15	nmod:of	
+17	umma{ki}	Umma	NNP	16	nmod:of	
+18	1(disz)	_	,	19	nummod	
+19	kusz	ox-hide	NN	5	conj	
+20	gu4	_	CD	28	nummod	
+21	niga	grain-fed	_	0	_	
+22	2(disz)	_	_	0	nummod	
+23	kusz	_	,	19	_	
+24	udu	_	_	0	_	
+25	niga	grain-fed	JJ	19	amod	
+26	3(u)	_	,	19	nummod	
+27	7(disz)	_	,	26	nummod	
+28	kusz	sheep-hides	NNS	19	appos	
+29	udu	_	,	19	_	
+30	sa2-du11	regular offerings	NNS	19	appos	
+31	{d}szara2	Szara	NN	30	nmod:of	
+32	|KI.AN|{ki}	KIAN	NN	31	nmod:of	
+33	4(u)	_	,	35	nummod	
+34	7(disz)	_	_	33	nummod	
+35	kusz	sheep-hides	NNS	5	_	
+36	udu	_	_	0	_	
+37	niga	grain-fed	JJ	35	amod	
+38	3(u)	_	_	0	nummod	
+39	kusz	_	_	0	_	
+40	sila4	lamb-hides	NNS	35	conj	
+41	nig2-{gesz}tag-ga	royal sacrifice	NN	35	conj	
+42	lugal	_	:	35	_	
+43	1(disz)	_	,	44	nummod	
+44	kusz	ox-hide	NN	35	conj	
+45	gu4	_	CD	50	nummod	
+46	niga	grain-fed	JJ	44	amod	
+47	1(gesz2)	_	,	44	nummod	
+48	la2	_	CD	55	nummod	
+49	2(disz)	_	_	48	nummod	
+50	kusz	sheep-hides	NNS	44	conj	
+51	udu	_	_	0	_	
+52	niga	grain-fed	JJ	44	conj	
+53	3(u)	_	,	44	nummod	
+54	2(disz)	_	_	53	nummod	
+55	kusz	sheep-hides	NNS	44	conj	
+56	udu	_	_	0	_	
+57	sza3	in	IN	58	nmod:in	
+58	sa2-du11	regular offerings	NNS	44	nmod:in	
+59	(x)	_	NN	58	_	
+60	1(u)	_	,	63	nummod	
+61	2(disz)	_	_	60	nummod	
+62	kusz	_	_	0	_	
+63	masz2	billy goat-hides	NNS	59	conj	
+64	sa2-du11	regular offerings	NNS	63	conj	
+65	dah-ha	additional	JJ	63	amod	
+66	{d}szul-gi	Szulgi	NNP	63	nmod:of	
+67	5(u)	_	,	72	nummod	
+68	kusz	_	_	0	_	
+69	udu	_	_	0	_	
+70	2(u)	_	_	0	nummod	
+71	1(disz)	_	_	70	nummod	
+72	kusz	sheep-hides	NNS	59	conj	
+73	sila4	lamb-hides	NNS	72	appos	
+74	{d}nin-ur4-ra	for Ninura	NNP	72	nmod:for	
+75	1(u)	_	,	79	nummod	
+76	kusz	_	_	0	_	
+77	udu	_	_	0	_	
+78	7(disz)	_	NN	79	nummod	
+79	kusz	sheep-hides	NNS	59	_	
+80	sila4	lamb-hides	NNS	79	conj	
+81	{d}eb-gal	_	:	79	_	
+82	1(u)	_	,	86	nummod	
+83	kusz	_	_	0	_	
+84	udu	_	_	0	_	
+85	8(disz)	_	NN	86	nummod	
+86	kusz	sheep-hide	NN	79	_	
+87	sila4	lamb-hides	NNS	86	conj	
+88	{d}en-lil2	_	:	35	_	
+89	1(disz)	_	:	92	nummod	
+90	kusz	sheep-hides	VBZ	35	root	
+91	udu	_	CD	95	nummod	
+92	{d}nansze	Nane	NNP	90	dobj	
+93	<umma>{ki}	Umma	NNP	92	nmod:of	
+94	1(disz)	_	:	92	nummod	
+95	kusz	sheep-hide	NN	92	_	
+96	udu	_	CD	101	nummod	
+97	{d}gu-la	for Gula	NNP	95	nmod:for	
+98	(x)	_	_	0	_	
+99	3(u)	_	,	101	nummod	
+100	1(disz)	_	_	99	nummod	
+101	kusz	sheep-hides	NNS	92	_	
+102	udu	_	_	0	_	
+103	2(u)	_	_	0	nummod	
+104	kusz	-hides	NNS	101	appos	
+105	x	_	_	0	dep	
+106	{d}inanna	_	:	92	_	
+107	zabala{ki}	for Innana	NNP	101	nmod:for	
+108	{d}nin-ildu3-ma	Zabala Nin-ilduma	NNP	107	nmod:of	
+109	u3	and	CC	108	cc	
+110	{d}ku3-sig17-banda3{da}	Kusig-banda	NN	108	conj	
+111	3(disz)	_	NN	114	nummod	
+112	kusz	sheep-hides	NNS	92	_	
+113	udu	for	IN	114	nmod:for	
+114	ensi2	governor	NN	112	nmod:for	
+115	x	_	:	92	dep	
+116	...	_	,	118	dep	
+117	6(disz)	_	_	0	nummod	
+118	kusz	sheep-hides	NNS	92	_	
+119	udu	_	_	0	_	
+120	4(disz)	_	_	0	nummod	
+121	kusz	-hides	NNS	118	appos	
+122	...	_	_	0	dep	
+123	{d}e11-e	for Ee	IN	124	nmod:for	
+124	x	_	NN	118	nmod:for	
+125	x	_	''	124	dep	
+126	4(disz)	_	,	127	nummod	
+127	kusz	sheep-hides	NNS	124	_	
+128	udu	_	_	0	_	
+129	2(disz)	_	_	0	nummod	
+130	kusz	-hides	NNS	127	appos	
+131	x	_	_	0	dep	
+132	{d}da-lagasz{ki}	for Da-Laga	NNP	127	nmod:for	
+133	8(disz)	_	,	137	nummod	
+134	kusz	_	_	0	_	
+135	udu	_	_	0	_	
+136	4(disz)	_	_	0	nummod	
+137	kusz	sheep-hides	NNS	124	conj	
+138	sila4	lamb-hides	NNS	137	appos	
+139	{d}en-ki	for Enki	NNP	137	nmod:for	
+140	u3	and	CC	139	cc	
+141	{d}USZ-ka-limmu5	USzkalimmu	NNP	139	conj	
+142	4(disz)	_	,	146	nummod	
+143	kusz	_	_	0	_	
+144	udu	_	_	0	_	
+145	2(disz)	_	_	0	nummod	
+146	kusz	sheep-hides	NNS	124	conj	
+147	sila4	lamb-hides	NNS	146	appos	
+148	{d}dumu-zi	Dumuzi	NNP	146	nmod:for	
+149	iri-min	for double-city	IN	148	nmod:for	
+150	sa2-du11	regular offerings	NNS	124	conj	
+151	dingir-e-ne	gods	NNS	150	nmod:of	
+152	mu	year	NN	124	_	
+153	us2-sa	after	IN	152	nmod:after	
+154	bad3	wall	NN	155	nsubjpass	
+155	ba-du3	was erected	VBN	152	acl
+	
+

@@ -1,0 +1,113 @@
+# train/P128083.atf
+						
+
+# tr.en: gur barley its silver mina shekels first time gur barig ban barley its silver shekels grains second time strings of dates dried ban sila crushed crabapples their silver shekels less grains shekels from Ur-Utu total mina shekels grains silver therefrom mina silver under seal of Lukalla delivered from Ur-silaluh shekels silver bitumen unsealed shekels received by Lu-Inanna total mina shekels silver deficit shekels grains silver account of Ur-silaluh trade agent after he died this account was done extra month year Amar-Suen king destroyed Urbilum
+1	5(u)	_	,	4	nummod	
+2	la2	_	_	1	_	
+3	1(asz)	_	_	2	nummod	
+4	sze	barley	NN	0	root	
+5	gur	gur	NN	4	compound	
+6	ku3-bi	its silver	NN	4	appos	
+7	1(disz)	_	,	8	nummod	
+8	ma-na	mina	NN	4	_	
+9	5(disz)	_	_	0	nummod	
+10	1/3(disz)	_	_	9	nummod	
+11	gin2	shekels	NNS	8	_	
+12	a-ra2	first time	NN	8	appos	
+13	1(disz)-kam	_	:	8	nummod	
+14	2(asz)	_	,	18	nummod	
+15	2(barig)	_	_	14	nummod	
+16	3(ban2)	barig ban	NN	17	nummod	
+17	sze	barley	NN	18	_	
+18	gur	gur	NN	8	_	
+19	ku3-bi	its silver	NN	18	appos	
+20	3(disz)	_	_	0	nummod	
+21	gin2	shekels	NNS	18	_	
+22	2(u)	_	_	0	nummod	
+23	2(disz)	_	_	22	nummod	
+24	1/2(disz)	_	_	22	nummod	
+25	sze	grains	NNS	21	_	
+26	a-ra2	second time	JJ	27	amod	
+27	2(disz)-kam	second time	NN	25	nummod	
+28	2(u)	_	:	21	nummod	
+29	2(disz)	_	,	33	nummod	
+30	{gesz}pesz3	_	_	0	_	
+31	sze-er-gu	strings	NNS	21	_	
+32	UD-DU-A	dates dried	NNS	31	nmod:of	
+33	2(ban2)	dates dried	VBD	21	nummod	
+34	6(disz)	_	,	33	nummod	
+35	sila3	sila	NN	37	compound	
+36	{gesz}haszhur	crushed	JJ	37	amod	
+37	hul	crabapples	NNS	33	_	
+38	ku3-bi	their silver	NN	33	conj	
+39	5/6(disz)	_	:	40	nummod	
+40	gin2	shekels	NNS	33	_	
+41	la2	less	RBR	44	advmod	
+42	2(disz)	_	CD	46	nummod	
+43	1/2(disz)	_	_	42	nummod	
+44	sze	grains	NNS	40	nmod:npmod	
+45	2(disz)	_	:	40	nummod	
+46	gin2	shekels	NNS	40	_	
+47	ki	from	IN	48	nmod:from	
+48	ur-{d}utu-ta	Ur-Utu	NN	46	nmod:from	
+49	szunigin	total	NN	40	_	
+50	1(disz)	_	:	40	nummod	
+51	ma-na	mina	NN	49	_	
+52	1(u)	_	_	0	nummod	
+53	1(disz)	_	_	52	nummod	
+54	gin2	shekels	NNS	51	_	
+55	igi-6(disz)-gal2	grains	NNS	54	_	
+56	2(u)	_	_	0	nummod	
+57	sze	_	_	0	_	
+58	ku3	silver	NN	55	_	
+59	sza3-bi-ta	therefrom	RB	100	advmod	
+60	1(disz)	_	_	0	nummod	
+61	ma-na	mina	NN	62	compound	
+62	ku3-babbar	silver	NN	100	nsubjpass	
+63	kiszib3	under seal	NN	62	nmod:under	
+64	lu2-kal-la	Lukalla	NNP	63	nmod:of	
+65	ki	from	IN	66	nmod:from	
+66	ur-sila-luh	Ur-silaluh	NN	67	nmod:from	
+67	mu-kux(DU)	delivered	VBN	62	acl	
+68	2(disz)	_	:	62	nummod	
+69	1/2(disz)	_	CD	76	nummod	
+70	gin2	shekels	NNS	62	_	
+71	ku3	silver	JJ	72	amod	
+72	esir2	bitumen	NN	70	_	
+73	kiszib3	_	_	0	_	
+74	nu-ra-a	unsealed	VBN	72	acl	
+75	6(disz)	_	:	62	nummod	
+76	gin2	shekels	NNS	62	_	
+77	lu2-{d}inanna	by Lu-Inanna	NNP	79	nmod:by	
+78	szu	_	_	0	_	
+79	ba-ti	received	VBN	76	acl	
+80	szunigin	total	NN	62	_	
+81	1(disz)	_	:	62	nummod	
+82	ma-na	mina	NN	80	_	
+83	8(disz)	_	_	0	nummod	
+84	1/2(disz)	_	_	83	nummod	
+85	gin2	shekels	NNS	86	compound	
+86	ku3-babbar	silver	NN	82	_	
+87	la2-ia3	deficit	NN	62	_	
+88	2(disz)	_	:	62	nummod	
+89	2/3(disz)	_	_	88	nummod	
+90	gin2	shekels	NNS	87	_	
+91	2(u)	_	_	0	nummod	
+92	sze	grains	NNS	90	_	
+93	ku3-babbar	silver	NN	92	_	
+94	nig2-ka9-ak	account	NN	62	_	
+95	ur-sila-luh	Ur-silaluh	NN	94	nmod:of	
+96	dam-gar3	trade agent	NN	94	appos	
+97	egir6	after	IN	98	mark	
+98	ba-usz2-ta	he died	VBD	100	advcl	
+99	nig2-ka9-bi	this account	NN	100	nsubjpass	
+100	ba-ak	was done	VBN	40	acl	
+101	iti	month	NN	100	_	
+102	diri	extra	JJ	101	amod	
+103	mu	year	NN	101	appos	
+104	{d}amar-{d}suen	Amar-Suen	NNP	101	root	
+105	lugal-e	king	NN	107	nsubj	
+106	ur-bi2-lum{ki}	Urbilum	NNP	107	dobj	
+107	mu-hul	destroyed	VBD	104	acl:relcl
+	
+

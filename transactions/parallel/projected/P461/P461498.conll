@@ -1,0 +1,53 @@
+# train/P461498.atf
+						
+
+# tr.en: talents fodder-reed in Puzrish-Dagan talents fodder-reed in Nippur talents fodder for grain-fed sheep labor of troops from Girsu with sukkalma delivery Szulgi-il received via Lu-girizal month Gazelle-feast year Ibbi-Suen is king
+1	5(gesz'u)	_	,	6	nummod	
+2	9(gesz2)	_	_	1	nummod	
+3	5(u)	_	_	1	nummod	
+4	5(asz)	_	_	1	nummod	
+5	5/6(asz)	_	_	1	nummod	
+6	gu2	talents	NNS	0	root	
+7	gi-zi	fodder-reed	NN	6	appos	
+8	sza3	in	IN	9	nmod:in	
+9	puzur4-isz-{d}da-gan	Puzrish-Dagan	NNP	6	nmod:in	
+10	2(gesz'u)	_	,	14	nummod	
+11	3(gesz2)	_	_	10	nummod	
+12	4(u)	_	_	10	nummod	
+13	6(asz)	_	_	10	nummod	
+14	gu2	talents	NNS	6	_	
+15	gi-zi	fodder-reed	NN	14	appos	
+16	sza3	in	IN	17	nmod:in	
+17	nibru{ki}	Nippur	NNP	14	nmod:in	
+18	($	_	,	28	_	
+19	blank	_	_	0	_	
+20	space	_	_	0	_	
+21	$)	_	_	0	_	
+22	1(szar2)	_	_	0	nummod	
+23	2(gesz'u)	_	_	22	nummod	
+24	3(gesz2)	_	_	22	nummod	
+25	4(u)	_	_	22	nummod	
+26	1(asz)	_	_	22	nummod	
+27	5/6(asz)	_	_	22	nummod	
+28	gu2	talents	NNS	14	conj	
+29	sza3-gal	fodder for	NN	28	appos	
+30	udu	sheep	NN	29	nmod:for	
+31	niga-sze3	grain-fed	JJ	30	amod	
+32	a2	labor	NN	45	compound	
+33	erin2	troops	NNS	32	nmod:of	
+34	gir2-su{ki}	from Girsu	NNP	32	nmod:from	
+35	ki	with	IN	44	nmod:with	
+36	sukkal-mah	sukkalma	NN	44	_	
+37	mu-kux(DU)	delivery	NN	36	conj	
+38	{d}szul-gi-i3-li2	Szulgi-il	JJ	40	advmod	
+39	szu	_	:	36	_	
+40	ba-ti	received	VBN	36	acl	
+41	giri3	via	IN	43	nmod:via	
+42	lu2-giri17-zal	Lu-girizal	JJ	43	amod	
+43	iti	month	NN	36	nmod:via	
+44	masz-da3-gu7	Gazelle-feast	JJ	32	nmod:with	
+45	mu	year	NN	14	_	
+46	{d}i-bi2-{d}suen	Ibbi-Suen is	NNP	47	nsubj	
+47	lugal	king	NN	45	_
+	
+

@@ -1,0 +1,193 @@
+# test/P100023.atf
+						
+
+# tr.en: female laborers ban female laborers half-labor ban month Harvest female laborers ban female laborers half-labor ban month Bricks in moulds set female laborers ban female laborers half-labor ban month Barley at quay female laborers ban female laborers half-labor ban month First-fruits female laborers ban female laborers half-labor ban month Flight female laborers ban female laborers half-labor ban month Sowing female laborers ban female laborers half-labor ban month mine female laborers ban female laborers half-labor ban month House of month female laborers ban female laborers half-labor ban month Lisi female laborers ban female laborers half-labor ban month Festival of Szulgi female laborers ban female laborers half-labor ban month paue female laborers ban female laborers half-labor ban month Dumuzi total less female laborers ban total female laborers half-labor ban of months female laborers ban their th shekels female laborers half-labor their th debits of labor of female laborers foreman of weaving from month Harvest to month Dumuzi year Ibbi-Suen king
+1	1(gesz2)	_	,	3	nummod	
+2	7(disz)	_	CD	6	nummod	
+3	geme2	female laborers	NNS	0	root	
+4	3(ban2)	ban	NN	3	nummod	
+5	7(disz)	_	,	6	nummod	
+6	geme2	female laborers	NNS	3	appos	
+7	a2	half-labor	NN	6	appos	
+8	1/2(disz)	_	_	0	nummod	
+9	3(ban2)	ban	NN	6	nummod	
+10	iti	month	NN	11	compound	
+11	sze-sag11-ku5	Harvest	NN	6	appos	
+12	1(gesz2)	_	,	14	nummod	
+13	7(disz)	_	CD	17	nummod	
+14	geme2	female laborers	NNS	3	_	
+15	3(ban2)	ban	NN	14	nummod	
+16	7(disz)	_	,	15	nummod	
+17	geme2	female laborers	NNS	14	conj	
+18	a2	half-labor	NN	14	conj	
+19	1/2(disz)	_	_	0	nummod	
+20	3(ban2)	ban	NN	14	nummod	
+21	iti	month	NN	14	_	
+22	sig4-u3-szub-ba-gar-ra	Bricks in moulds	NNP	14	nsubj	
+23	1(gesz2)	Bricks in moulds	IN	22	nummod	
+24	7(disz)	_	,	25	nummod	
+25	geme2	female laborers	NNS	3	_	
+26	3(ban2)	ban	NN	25	nummod	
+27	7(disz)!	_	,	26	nummod	
+28	geme2	female laborers	NNS	25	conj	
+29	a2	half-labor	NN	25	conj	
+30	1/2(disz)	_	_	0	nummod	
+31	3(ban2)	ban	NN	25	nummod	
+32	iti	month	NN	33	compound	
+33	sze-kar-ra-gal2-la	Barley at quay	NN	25	conj	
+34	1(gesz2)	Barley at quay	IN	33	nummod	
+35	7(disz)	_	,	36	nummod	
+36	geme2	female laborers	NNS	25	_	
+37	3(ban2)	ban	NN	36	nummod	
+38	7(disz)	_	,	37	nummod	
+39	geme2	female laborers	NNS	36	conj	
+40	a2	half-labor	NN	36	conj	
+41	1/2(disz)	_	_	0	nummod	
+42	3(ban2)	ban	NN	36	nummod	
+43	iti	month	NN	44	compound	
+44	nesag	First-fruits	NNS	36	conj	
+45	1(gesz2)	_	,	47	nummod	
+46	7(disz)	_	CD	50	nummod	
+47	geme2	female laborers	NNS	36	_	
+48	3(ban2)	ban	NN	47	nummod	
+49	7(disz)	_	,	48	nummod	
+50	geme2	female laborers	NNS	47	conj	
+51	a2	half-labor	NN	47	conj	
+52	1/2(disz)	_	_	0	nummod	
+53	3(ban2)	ban	NN	47	nummod	
+54	iti	month	NN	55	compound	
+55	dal	Flight	NNP	47	conj	
+56	1(gesz2)	_	,	55	nummod	
+57	7(disz)	_	CD	61	nummod	
+58	geme2	female laborers	NNS	55	_	
+59	3(ban2)	ban	NN	55	nummod	
+60	7(disz)	_	,	59	nummod	
+61	geme2	female laborers	NNS	55	_	
+62	a2	half-labor	NN	55	_	
+63	1/2(disz)	_	_	0	nummod	
+64	3(ban2)	ban	NN	62	nummod	
+65	iti	month	NN	66	compound	
+66	szu-numun-na	Sowing	NN	55	_	
+67	1(gesz2)	_	,	55	nummod	
+68	6(disz)	_	CD	72	nummod	
+69	geme2	female laborers	NNS	55	_	
+70	3(ban2)	ban	NN	55	nummod	
+71	7(disz)	_	,	70	nummod	
+72	geme2	female laborers	NNS	55	_	
+73	a2	half-labor	NN	55	_	
+74	1/2(disz)	_	_	0	nummod	
+75	3(ban2)	ban	NN	73	nummod	
+76	iti	month	NN	77	compound	
+77	min-esz3	mine	NN	55	_	
+78	1(gesz2)	_	,	55	nummod	
+79	6(disz)	_	CD	83	nummod	
+80	geme2	female laborers	NNS	55	_	
+81	3(ban2)	ban	NN	55	nummod	
+82	7(disz)	_	,	81	nummod	
+83	geme2	female laborers	NNS	55	_	
+84	a2	half-labor	NN	55	_	
+85	1/2(disz)	_	_	0	nummod	
+86	3(ban2)	ban	NN	84	nummod	
+87	iti	month	NN	133	compound	
+88	e2-iti-6(disz)	House month	NNP	133	_	
+89	1(gesz2)	House month	NN	88	nummod	
+90	6(disz)	_	,	91	nummod	
+91	geme2	female laborers	NNS	88	parataxis	
+92	3(ban2)	ban	NN	91	nummod	
+93	7(disz)	_	,	92	nummod	
+94	geme2	female laborers	NNS	91	appos	
+95	a2	half-labor	NN	91	appos	
+96	1/2(disz)	_	_	0	nummod	
+97	3(ban2)	ban	NN	91	nummod	
+98	iti	month	NN	91	compound	
+99	{d}li9-si4	_	``	91	_	
+100	1(gesz2)	_	,	102	nummod	
+101	6(disz)	_	CD	105	nummod	
+102	geme2	female laborers	NNS	88	parataxis	
+103	3(ban2)	ban	NN	102	nummod	
+104	7(disz)	_	,	103	nummod	
+105	geme2	female laborers	NNS	102	appos	
+106	a2	half-labor	NN	102	appos	
+107	1/2(disz)	_	_	0	nummod	
+108	3(ban2)	ban	NN	102	nummod	
+109	iti	month	NN	110	compound	
+110	ezem-{d}szul-gi	Festival Szulgi	NNP	102	appos	
+111	1(gesz2)	Festival Szulgi	NNP	110	nummod	
+112	6(disz)	_	,	113	nummod	
+113	geme2	female laborers	NNS	88	parataxis	
+114	3(ban2)	ban	NN	113	nummod	
+115	7(disz)	_	,	114	nummod	
+116	geme2	female laborers	NNS	113	appos	
+117	a2	half-labor	NN	113	appos	
+118	1/2(disz)	_	_	0	nummod	
+119	3(ban2)	ban	NN	113	nummod	
+120	iti	month	NN	121	_	
+121	pa4-u2-e	paue	NN	113	_	
+122	1(gesz2)	_	,	124	nummod	
+123	5(disz)	_	CD	127	nummod	
+124	geme2	female laborers	NNS	88	parataxis	
+125	3(ban2)	ban	NN	124	nummod	
+126	7(disz)	_	,	125	nummod	
+127	geme2	female laborers	NNS	124	appos	
+128	a2	half-labor	NN	124	appos	
+129	1/2(disz)	_	_	0	nummod	
+130	3(ban2)	ban	NN	124	nummod	
+131	iti	month	NN	132	compound	
+132	{d}dumu-zi	Dumuzi	NNP	124	appos	
+133	szunigin	total	NN	55	appos	
+134	1(gesz'u)	_	,	133	nummod	
+135	3(gesz2)	_	_	134	nummod	
+136	2(u)	_	_	134	nummod	
+137	la2	less	JJR	139	advmod	
+138	3(disz)	_	_	137	nummod	
+139	geme2	female laborers	NNS	133	_	
+140	3(ban2)	ban	NN	139	nummod	
+141	szunigin	total	NN	133	appos	
+142	1(gesz2)	_	,	145	nummod	
+143	2(u)	_	_	142	nummod	
+144	4(disz)	_	_	142	nummod	
+145	geme2	female laborers	NNS	133	_	
+146	a2	half-labor	NN	145	appos	
+147	1/2(disz)	ban	NN	145	nummod	
+148	3(ban2)	_	_	147	nummod	
+149	iti	months	NNS	145	nmod:of	
+150	1(u)	_	:	145	nummod	
+151	2(disz)-kam	_	_	150	nummod	
+152	geme2	female laborers	NNS	145	_	
+153	3(ban2)	ban	NN	152	nummod	
+154	igi	their th	JJ	152	appos	
+155	1(u)	_	:	183	nummod	
+156	2(disz)-gal2-bi	_	_	155	nummod	
+157	1(gesz2)	_	_	155	nummod	
+158	6(disz)	_	_	155	nummod	
+159	1/3(disz)	_	_	155	nummod	
+160	5(disz)	_	_	155	nummod	
+161	gin2	shekels	NNS	183	appos	
+162	geme2	female laborers	NNS	183	conj	
+163	a2	half-labor	NN	162	conj	
+164	1/2(disz)	_	_	0	nummod	
+165	3(ban2)	_	_	164	nummod	
+166	igi	their th	JJ	162	appos	
+167	1(u)	_	:	166	nummod	
+168	2(disz)-gal2-bi	_	CD	167	nummod	
+169	7(disz)	_	:	183	nummod	
+170	sag-nig2-gur11-ra	debits	NNS	174	_	
+171	a2	labor	NN	170	nmod:of	
+172	geme2	female laborers	JJ	173	amod	
+173	...	female laborers	NNS	171	nmod:of	
+174	ugula	foreman	NN	183	conj	
+175	usz-bar	weaving	VBG	174	acl	
+176	x	_	CD	177	dep	
+177	1(gesz2)	_	NN	175	nummod	
+178	3(u)	_	_	177	nummod	
+179	x	_	:	183	dep	
+180	x	_	_	0	dep	
+181	iti	month	NN	183	conj	
+182	sze-sag11-ku5-ta	from Harvest	IN	181	nmod:from	
+183	iti	month	NN	184	_	
+184	{d}dumu-zi-sze3	to Dumuzi	NNP	154	_	
+185	mu	year	NN	55	_	
+186	{d}i-bi-{d}suen	Ibbi-Suen	JJ	187	amod	
+187	lugal	king	NN	55	_
+	
+

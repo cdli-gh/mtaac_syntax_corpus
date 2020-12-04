@@ -1,0 +1,63 @@
+# train/P384822.atf
+						
+
+# tr.en: sar cutting thorn weed at sar its labor days field Nin-nudu sar cutting grass at sar its labor days field Gold-Mound and field Pusimu sar thorn bushes at sar its labor days field under seal of Inim-Szara Year high-priestess of Eridu was hired Inim-Szara son of Ur-nigar
+1	5(gesz'u)	_	,	5	nummod	
+2	6(gesz2)	_	_	1	nummod	
+3	1(u)	_	_	1	nummod	
+4	5(disz)	_	_	1	nummod	
+5	sar	sar	NN	0	root	
+6	{gesz}dih3	thorn weed	NN	7	dobj	
+7	ku5	cutting	VBG	5	acl	
+8	1(u)	_	_	0	nummod	
+9	5(disz)	_	_	8	nummod	
+10	sar-ta	at sar	NN	7	nmod:at	
+11	a2-bi	its labor	NN	5	appos	
+12	u4	days	NNS	11	_	
+13	3(gesz2)	_	,	5	nummod	
+14	4(u)	_	_	13	nummod	
+15	5(disz)-kam	_	_	13	nummod	
+16	a-sza3	field	NN	17	compound	
+17	nin10-nu-du3	Nin-nudu	NN	5	appos	
+18	3(gesz'u)	_	,	5	nummod	
+19	7(gesz2)	_	_	18	nummod	
+20	3(u)	_	_	18	nummod	
+21	sar	sar	NN	5	_	
+22	u2	grass	NN	23	dobj	
+23	ku5	cutting	VBG	5	acl	
+24	1(u)	_	_	0	nummod	
+25	5(disz)	_	_	24	nummod	
+26	sar-ta	at sar	NN	23	nmod:at	
+27	a2-bi	its labor	NN	5	appos	
+28	u4	days	NNS	27	_	
+29	2(gesz2)	_	,	5	nummod	
+30	3(u)-kam	_	_	29	nummod	
+31	a-sza3	field	NN	32	compound	
+32	du6-ku3-sig17	Gold-Mound	NNP	5	appos	
+33	u3	and	CC	32	cc	
+34	a-sza3	field	NN	35	compound	
+35	pu2-si4-mu	Pusimu	NNP	32	conj	
+36	7(gesz2)	_	,	37	nummod	
+37	sar	sar	NN	5	_	
+38	{u2}kiszi17	thorn bushes	NNS	37	conj	
+39	1(u)	_	_	0	nummod	
+40	2(disz)	_	_	39	nummod	
+41	sar-ta	at sar	NN	38	nmod:at	
+42	a2-bi	its labor	NN	37	appos	
+43	u4	days	NNS	37	_	
+44	3(u)	_	,	43	nummod	
+45	5(disz)	_	_	44	nummod	
+46	n-kam	_	_	0	_	
+47	a-sza3	field	NN	44	compound	
+48	u2-...	_	:	44	_	
+49	kiszib3	under seal	NN	44	nmod:under	
+50	inim-{d}szara2	Inim-Szara	NNP	49	nmod:of	
+51	mu	Year	NN	44	_	
+52	en	high-priestess	NN	54	nsubjpass	
+53	eridu{ki}	Eridu	NNP	52	nmod:of	
+54	ba-hun	was hired	VBN	51	ccomp	
+55	inim-{d}szara2	Inim-Szara	NNP	56	compound	
+56	dumu	son	NN	54	dobj	
+57	ur-nigar{gar}	Ur-nigar	NN	56	nmod:of
+	
+

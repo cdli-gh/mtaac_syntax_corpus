@@ -1,0 +1,62 @@
+# train/P404806.atf
+						
+
+# tr.en: ban black cumin its gurdub mana goat hair its gur barig coriander its vessels of ban barig ban sila sesame oil its vessels water skins its vessels from household manager barig ban sila shekels lard its vessels the deficit of mouth these vessels sila from Buzua brought into warehouse in Kar-getin year unuri was destroyed
+1	n	_	,	3	_	
+2	5(ban2)	ban	NN	3	nummod	
+3	{u2}gamun2	cumin	NN	0	root	
+4	ge6	black	JJ	3	amod	
+5	gur-dub-bi	its gurdub	NN	3	appos	
+6	4(disz)-am3	_	CD	3	nummod	
+7	3(u)	_	,	9	nummod	
+8	ma-na	mana	NN	9	compound	
+9	siki-ud5	goat hair	NN	6	_	
+10	gur-bi	its gur	NN	9	appos	
+11	1(disz)-am3	_	CD	6	nummod	
+12	1(barig)	_	,	13	nummod	
+13	sze-lu2	barig coriander	NN	11	_	
+14	dug-3(ban2)-bi	its vessels	PRP$	15	nmod:poss	
+15	2(disz)-am3	its vessels	NNS	13	nummod	
+16	2(barig)	ban	NN	15	nummod	
+17	1(ban2)	_	,	15	nummod	
+18	3(disz)	_	_	15	nummod	
+19	2/3(disz)	_	_	15	nummod	
+20	sila3	sila	NN	21	compound	
+21	i3-gesz	sesame oil	NN	16	_	
+22	dug-bi	its vessels	PRP$	23	nmod:poss	
+23	2(disz)-am3	its vessels	NNS	15	nummod	
+24	2(gesz2)	_	:	15	nummod	
+25	5(u)	_	,	27	nummod	
+26	3(disz)!	_	_	25	nummod	
+27	{kusz}ummu3	water skins	NNS	16	_	
+28	dug-bi	its vessels	NNS	27	appos	
+29	5(disz)-am3	_	:	27	nummod	
+30	ki	from	IN	31	nmod:from	
+31	szabra-a	household manager	NN	16	nmod:from	
+32	2(barig)	_	,	34	nummod	
+33	5(ban2)	_	_	32	nummod	
+34	3(disz)	barig ban	NN	31	nummod	
+35	sila3	sila	NN	37	compound	
+36	1(u)	_	_	0	nummod	
+37	gin2	shekels	NNS	38	compound	
+38	i3-szah2	lard	NN	34	_	
+39	dug-bi	its vessels	NNS	34	appos	
+40	4(disz)-am3	_	:	39	nummod	
+41	la2-ia3	the deficit	NN	39	appos	
+42	ka	mouth these vessels	NN	41	nmod:of	
+43	dug	_	,	47	_	
+44	4(disz)-ba	_	_	0	nummod	
+45	6(disz)	_	_	44	nummod	
+46	2/3(disz)	_	_	44	nummod	
+47	sila3	sila	NN	42	_	
+48	ki	from	IN	49	nmod:from	
+49	bu-zu-a-ta	Buzua	NNP	47	nmod:from	
+50	e2-kiszib3-ba-ka	brought	VBD	47	acl	
+51	ba-an-kux(KWU147)	into warehouse	NN	50	nmod:into	
+52	sza3	in	IN	54	nmod:in	
+53	kar-gesztin-ka	Kar-getin	NN	54	compound	
+54	mu	year	NN	47	nmod:in	
+55	hu-uh2-nu-ri{ki}	unuri	NNP	56	nsubjpass	
+56	ba-hul	was destroyed	VBN	47	acl
+	
+

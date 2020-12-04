@@ -1,0 +1,114 @@
+# train/P235698.atf
+						
+
+# tr.en: Lugal-hamati Lugal-kala Ahuuni Inimanizi Dingirmahe-izu Ur-Ninsu Lu-gula Namzitara Lu-saga Dingir-saga are foremen of runners sila fine beer sila ninda shekels oil shekels naga shekels onions each sila beer sila ninda Ur-Nane sila beer sila ninda Lu-bala-saga Together sila fine beer together regular beer together sila ninda of sig-flour together sila ninda together sila shekels of oil together sila shekels of naga together sila shekels of onions xnd day month Flight Year en of Inanna was chosen by means of omens
+1	1(disz)	_	CD	8	nummod	
+2	x	_	_	0	dep	
+3	x	_	_	0	dep	
+4	x	_	_	0	dep	
+5	1(disz)	_	_	0	nummod	
+6	lugal-ha-ma-ti	Lugal-hamati	NN	108	_	
+7	1(disz)	_	CD	12	nummod	
+8	lugal-kal-la	Lugal-kala	NN	6	_	
+9	1(disz)	_	CD	12	nummod	
+10	a-hu-szu-ni	Ahuuni	NNP	12	compound	
+11	1(disz)	_	CD	14	nummod	
+12	inim-ma-ni-zi	Inimanizi	NNP	8	_	
+13	1(disz)	_	CD	16	nummod	
+14	dingir-mah-e-i3-zu	Dingirmahe-izu	NN	12	_	
+15	1(disz)	_	CD	18	nummod	
+16	ur-{d}nin-su	Ur-Ninsu	NN	14	_	
+17	1(disz)	_	CD	20	nummod	
+18	lu2-gu-la	Lu-gula	NN	16	_	
+19	1(disz)	_	CD	22	nummod	
+20	nam-zi-tar-ra	Namzitara	NN	18	_	
+21	1(disz)	_	CD	24	nummod	
+22	lu2-sa6-ga	Lu-saga	NN	20	_	
+23	1(disz)	_	.	26	nummod	
+24	dingir-saga	Dingir-saga	NN	22	_	
+25	lu2	_	LS	26	_	
+26	ugula	foremen	NNS	0	root	
+27	kas4-me-esz2	are runners	VBP	26	cop	
+28	3(disz)	_	.	43	nummod	
+29	sila3	sila	NN	30	compound	
+30	kasz	beer	NN	25	dobj	
+31	saga	fine	JJ	30	amod	
+32	2(disz)	_	CD	46	nummod	
+33	sila3	sila	NN	34	compound	
+34	ninda	ninda	NN	30	conj	
+35	3(disz)	_	_	0	nummod	
+36	gin2	shekels	NNS	37	compound	
+37	i3	oil	NN	30	conj	
+38	2(disz)	_	_	0	nummod	
+39	gin2	shekels	NNS	30	appos	
+40	naga	naga	NN	39	_	
+41	5(disz)	_	_	0	nummod	
+42	gin2	shekels	NNS	40	appos	
+43	szum2-ta	onions each	NNS	42	_	
+44	5(disz)	_	CD	53	nummod	
+45	sila3	sila	NN	46	compound	
+46	kasz	beer	NN	43	_	
+47	5(disz)	_	_	0	nummod	
+48	sila3	sila	NN	49	compound	
+49	ninda	ninda	NN	46	appos	
+50	ur-{d}nansze	Ur-Nane	NNP	53	compound	
+51	5(disz)	_	_	0	nummod	
+52	sila3	sila	NN	53	compound	
+53	kasz	beer	NN	46	_	
+54	5(disz)	_	_	0	nummod	
+55	sila3	sila	NN	56	compound	
+56	ninda	ninda	NN	53	appos	
+57	lu2-bala-saga	Lu-bala-saga	NN	53	_	
+58	szunigin	Together	RB	57	advmod	
+59	3(ban2)	_	,	57	nummod	
+60	3(disz)	_	_	59	nummod	
+61	sila3	sila	NN	62	compound	
+62	kasz	beer	NN	57	_	
+63	saga	fine	JJ	62	amod	
+64	szunigin	together	RB	57	advmod	
+65	1(ban2)	_	_	0	nummod	
+66	kasz	beer	NN	57	_	
+67	du	regular	JJ	66	amod	
+68	szunigin	together	RB	57	advmod	
+69	5(disz)	_	,	71	nummod	
+70	sila3	sila	NN	71	compound	
+71	ninda	ninda	NN	57	_	
+72	zi3	sig-flour	NN	71	nmod:of	
+73	saga	_	_	0	_	
+74	szunigin	together	RB	78	advmod	
+75	2(ban2)	_	_	0	nummod	
+76	7(disz)	_	_	75	nummod	
+77	sila3	sila	NN	78	compound	
+78	ninda	ninda	NN	71	appos	
+79	szunigin	together	RB	71	advmod	
+80	1/2(disz)	_	,	83	nummod	
+81	sila3	sila	NN	83	compound	
+82	9(disz)	_	-LRB-	85	nummod	
+83	gin2	shekels	NNS	71	_	
+84	i3	oil	NN	83	nmod:of	
+85	szunigin	together	RB	83	appos	
+86	1/3(disz)	_	,	87	nummod	
+87	sila3	sila	NN	83	_	
+88	6(disz)	_	-LRB-	87	nummod	
+89	gin2	shekels	NNS	87	_	
+90	naga	naga	NN	89	nmod:of	
+91	szunigin	together	RB	87	_	
+92	1(disz)	_	,	95	nummod	
+93	sila3	sila	NN	95	compound	
+94	6(disz)	_	CC	95	nummod	
+95	gin2	shekels	NNS	87	_	
+96	szum2	onions	NNS	95	nmod:of	
+97	u4	day	NN	95	conj	
+98	x	xnd	NN	97	dep	
+99	2(disz)-kam	_	,	97	nummod	
+100	iti	month	NN	97	appos	
+101	dal	Flight	NNP	102	compound	
+102	mu	Year	NN	97	_	
+103	en	en	IN	106	nsubjpass	
+104	{d}inanna	Inanna	NNP	103	nmod:of	
+105	masz2-e	was by	VBD	106	auxpass	
+106	i3-pa3	omens chosen means	VBN	102	acl	
+107	 	_	NN	0	root	
+108	 	_	.	107	_
+	
+

@@ -1,0 +1,38 @@
+# train/P416413.atf
+						
+
+# tr.en: ban sila of dabin-flour th day ban sila of dabin-flour th day ban sila th day ban of flour cup-bearer from Lu-dingira under seal of governor month Laying bricks in mold year after Szu-Suen king
+1	5(ban2)	_	,	3	nummod	
+10	sila3	sila	NN	3	_	
+11	dabin	dabin-flour	JJ	12	amod	
+12	u4	th day	NN	10	nmod:of	
+13	8(disz)-kam	_	:	3	nummod	
+14	3(ban2)	_	:	13	nummod	
+15	8(disz)	ban sila	NN	14	nummod	
+16	u4	th day	NN	15	appos	
+17	1(u)	_	CD	20	nummod	
+18	la2	_	_	17	_	
+19	1(disz@t)-kam	_	_	18	nummod	
+2	5(disz)	_	_	1	nummod	
+20	2(ban2)	ban	NN	3	nummod	
+21	zi3	flour	NN	20	nmod:of	
+22	sagi	cup-bearer	NN	21	appos	
+23	ki	from	IN	24	nmod:from	
+24	lu2-dingir-ra-ta	Lu-dingira	NN	3	nmod:from	
+25	kiszib3	under seal	NN	24	nmod:under	
+26	ensi2-ka	governor	NN	25	nmod:of	
+27	iti	month	NN	3	_	
+28	sig4-{gesz}i3-szub-ba-gar	Laying bricks in mold	NNS	27	_	
+29	mu	year	NN	28	_	
+3	1/2(disz)	ban	NN	2	nummod	
+30	us2-sa	after	IN	29	nmod:after	
+31	{d}szu-{d}suen	Szu-Suen	JJ	32	amod	
+32	lugal	king	NN	28	_
+	
+4	sila3	sila	NN	3	_	
+5	dabin	dabin-flour	NN	4	nmod:of	
+6	u4	th day	JJ	7	amod	
+7	7(disz)-kam	th day	NN	3	nummod	
+8	5(ban2)	_	:	7	nummod	
+9	8(disz)	_	_	8	nummod	
+

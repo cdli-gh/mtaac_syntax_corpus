@@ -1,0 +1,52 @@
+# train/P273410.atf
+						
+
+# tr.en: One lamb Enlil one lamb Ninlil delivery of zabardab one lamb Ninhursag one lamb Szulpae delivery of Kur-girinie he zabardab was responsible official one antelope Euzga delivery of Atu Ur-Szulgira was responsible official ne lamb Enlil delivery of Lugal-nirgal Issarik was responsible official one sheep and one nanny goat on third day year high priestess of Nanna was chosen via extispicy
+1	1(disz)	_	,	3	nummod	
+2	sila4	lamb	NN	3	compound	
+3	{d}en-lil2	One Enlil	NNP	0	root	
+4	1(disz)	one	CD	6	nummod	
+5	sila4	lamb	NN	6	compound	
+6	{d}nin-lil2	Ninlil	NN	3	appos	
+7	mu-kux(DU)	delivery	NN	3	appos	
+8	zabar-dab5	zabardab	NN	7	nmod:of	
+9	1(disz)	one	CD	11	nummod	
+10	sila4	lamb	NN	11	compound	
+11	{d}nin-hur-sag	Ninhursag	NNP	3	conj	
+12	1(disz)	_	,	11	nummod	
+13	sila4	lamb	NN	14	compound	
+14	{d}szul-pa-e3	one Szulpae	NN	11	appos	
+15	mu-kux(DU)	delivery	NN	11	appos	
+16	kur-giri3-ni-<<ni>>-sze3	Kur-girinie	NN	15	nmod:of	
+17	zabar-dab5	he zabardab	PRP	18	nsubj	
+18	maszkim	was responsible official	NN	3	parataxis	
+19	1(disz)	_	,	21	nummod	
+20	masz-da3	one	CD	21	nummod	
+21	e2-uz-ga	antelope Euzga	NNS	3	conj	
+22	mu-kux(DU)	delivery	NN	21	appos	
+23	a-tu	Atu	NN	22	nmod:of	
+24	ur-{d}szul-gi-ra	Ur-Szulgira was	NNP	25	nsubj	
+25	maszkim	responsible official	NN	3	parataxis	
+26	1(disz)	_	,	28	nummod	
+27	sila4	lamb	NN	28	compound	
+28	{d}en-lil2	ne Enlil	NN	25	conj	
+29	mu-kux(DU)	delivery	NN	28	appos	
+30	lugal-nir-gal2	Lugal-nirgal	JJ	29	nmod:of	
+31	i-za-ri2-iq	Issarik was	NNP	32	nsubj	
+32	maszkim	responsible official	NN	25	parataxis	
+33	1(disz)	_	NN	34	nummod	
+34	udu	sheep	NN	25	_	
+35	1(disz)	_	_	0	nummod	
+36	ud5	nanny goat	NN	33	compound	
+37	ba	one	CD	34	nummod	
+38	x	_	_	0	dep	
+39	E2	and one	CC	34	cc	
+40	u4	on third day	NN	34	nmod:on	
+41	3(disz)-kam	_	:	25	nummod	
+42	mu	year	NN	25	_	
+43	en	high priestess	NN	46	nsubjpass	
+44	{d}nanna	Nanna	NNP	43	nmod:of	
+45	masz-e	was via	VBD	46	auxpass	
+46	i3-pa3	chosen extispicy	VBN	42	acl
+	
+

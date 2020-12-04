@@ -1,0 +1,118 @@
+# train/P322748.atf
+						
+
+# tr.en: bricks by Lamazatum by by -num of Lamazatum x by Handu by Ana-hepat of Szat-bizil by Ana-hepat by Aditi by Abum-ilum by Haburitum by Itar-ummi by Taturi by Ili-dumqi by Ea-nuhi of Uddurum together sar shekels of brick the length involved ninda labor of the female laborers involved days shekels hired at sila barley each the barley involved barig ban sila labor of brick transportation delivery for replacement house of of priest of Inanna-gal Bazi is foreman via Adda-tillati and Puzrum-Ninkarke in Garana month Festival of An year Szu-Suen king erected great-stele for Enlil and Ninlil
+1	2(gesz2)	_	_	0	nummod	
+2	3(u)	_	_	1	nummod	
+3	sig4	bricks	NNS	0	root	
+4	la-ma-za-tum	by Lamazatum	NNP	3	nmod:by	
+5	5(gesz2)	_	NN	13	nummod	
+6	x-x-x	by	IN	5	dep	
+7	4(gesz2)	_	_	0	nummod	
+8	x-x-num2	by	IN	14	nmod:by	
+9	($	_	,	13	_	
+10	blank	_	NN	0	root	
+11	space	_	.	10	_	
+12	$)	_	,	11	_	
+13	1(gesz'u)	_	CD	11	nummod	
+14	1(gesz2)	_	CD	13	nummod	
+15	3(u)	_	CD	13	nummod	
+16	nam-1(u)	_	_	0	_	
+17	la-ma-za-tum	Lamazatum	NN	13	nmod:of	
+18	7(gesz2)	_	:	11	nummod	
+19	3(u)	_	,	18	nummod	
+20	x-x-x	x	_	0	dep	
+21	2(gesz2)	_	,	11	nummod	
+22	3(u)	_	CD	21	nummod	
+23	ha-an-du-u2	by Handu	NNP	11	nmod:by	
+24	5(gesz2)	_	_	0	nummod	
+25	a-na-he-pa2-at	by Ana-hepat	IN	26	nmod:by	
+26	($	by Ana-hepat	NN	22	nmod:by	
+27	blank	_	_	0	_	
+28	space	_	_	0	_	
+29	$)	_	_	0	_	
+30	1(gesz'u)	_	_	0	nummod	
+31	5(gesz2)	_	_	30	nummod	
+32	nam-1(u)	_	:	11	_	
+33	sza-at-bi-zi-il	Szat-bizil	NN	11	nmod:of	
+34	6(gesz2)	_	,	11	nummod	
+35	i-ti-rum	by Ana-hepat	NN	11	nmod:by	
+36	1(gesz'u)	_	,	11	nummod	
+37	a-di-ti	by Aditi	NNP	11	nmod:by	
+38	7(gesz2)	_	,	11	nummod	
+39	a-bu-um-dingir	by Abum-ilum	NN	11	nmod:by	
+40	5(gesz2)	_	,	11	nummod	
+41	ha-bu-ri-tum	by Haburitum	NNP	11	nmod:by	
+42	5(gesz2)	_	,	11	nummod	
+43	esz18-dar-um-mi	by Itar-ummi	NN	11	nmod:by	
+44	1(gesz'u)	_	,	11	nummod	
+45	ta-tu3-ri	by Taturi	NNP	11	nmod:by	
+46	6(gesz2)	_	,	11	nummod	
+47	i3-li2-dum-qi2	by Ili-dumqi	NN	11	nmod:by	
+48	3(gesz2)	_	_	0	nummod	
+49	3(u)	_	_	48	nummod	
+50	e2-a-nu-uh3-szi	by Ea-nuhi	IN	51	nmod:by	
+51	($	by Ea-nuhi	NN	11	nmod:by	
+52	blank	_	_	0	_	
+53	space	_	_	0	_	
+54	$)	_	_	0	_	
+55	5(gesz'u)	_	_	0	nummod	
+56	2(gesz2)	_	_	55	nummod	
+57	3(u)	_	_	55	nummod	
+58	nam-1(u)	_	:	11	_	
+59	ud-du-ru-um	Uddurum	NNP	11	nmod:of	
+60	szunigin	together	RB	63	advmod	
+61	6(disz)	_	,	63	nummod	
+62	1/2(disz)	_	_	61	nummod	
+63	sar	sar	NN	11	_	
+64	5(disz)!	_	_	0	nummod	
+65	gin2	shekels	NNS	63	_	
+66	sig4	brick	NN	65	nmod:of	
+67	us2-bi	the length involved	NN	63	appos	
+68	1(gesz2)	_	,	69	nummod	
+69	ninda	ninda	NN	63	_	
+70	a2	labor	NN	69	appos	
+71	3(gesz2)-ta	_	CD	70	nummod	
+72	geme2-bi	the female laborers involved	NNS	69	appos	
+73	2(u)	_	,	63	nummod	
+74	3(disz)	_	_	73	nummod	
+75	1/3(disz)	_	_	73	nummod	
+76	3(disz)	_	_	73	nummod	
+77	gin2	shekels	NNS	78	_	
+78	u4	days	NNS	69	_	
+79	1(disz)-sze3	_	_	0	nummod	
+80	sze	barley	NN	83	nmod:at	
+81	3(disz)	_	,	63	nummod	
+82	sila3-ta	at sila each	IN	80	nmod:at	
+83	ba-hun	hired	VBD	63	acl	
+84	sze-bi	the barley	NN	63	appos	
+85	1(barig)	_	,	63	nummod	
+86	1(ban2)	involved barig	VBN	84	nummod	
+87	9(disz)	ban	NN	88	nummod	
+88	sila3	sila	NN	63	_	
+89	a2	labor	NN	63	appos	
+90	sig4	brick	NN	91	compound	
+91	ga6-ga2	transportation	NN	89	nmod:of	
+92	mu-kux(DU)	delivery	NN	63	appos	
+93	e2-ki-ba-gar-ra	for replacement house	NN	92	nmod:for	
+94	en	_	:	11	_	
+95	{d}inanna-gal	of priest Inanna-gal	NN	93	nmod:of.of	
+96	ba-zi	Bazi is	NNP	97	nsubj	
+97	ugula	foreman	NN	11	_	
+98	giri3	via	IN	99	nmod:via	
+99	{d}iszkur-illat	Adda-tillati	NN	97	nmod:via	
+100	u3	and	CC	99	cc	
+101	puzur4-{d}nin-kar-ke3	Puzrum-Ninkarke	NNP	99	conj	
+102	sza3	_	:	97	_	
+103	gar-sza-an-na{ki}	in Garana	NNP	99	nmod:in	
+104	iti	month	NN	106	_	
+105	ezem-an-na	Festival	NNP	106	nsubj	
+106	mu	year	NN	97	parataxis	
+107	{d}szu-{d}suen	Szu-Suen	NNP	97	_	
+108	lugal-e	king	NN	107	appos	
+109	na-ru2-a-mah	erected great-stele	NN	107	appos	
+110	{d}en-lil2	for Enlil	NNP	109	nmod:for	
+111	{d}nin-lil2-ra	and	CC	110	cc	
+112	mu-ne-du3	Ninlil	NNP	110	conj
+	
+

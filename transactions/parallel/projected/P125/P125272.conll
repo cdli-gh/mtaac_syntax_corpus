@@ -1,0 +1,449 @@
+# dev/P125272.atf
+						
+
+# tr.en: Dead Ur-silalu a-c- field E-urbidu a foreman a-c- field Girini-isa -they are his sons- a-c- field Ur-Getinanka di- Lu-Sukkalanka -they are his sons- the Border-woods took in charge a-c- barig ban porter Dugani the Szunamugi-woods took in charge a-c- field Inim-Szara di- Lugal-inim-gina his son the Akunkum-woods took in charge old Ur-abba a-c- field Lu-Szara his son the Kamari-woods took in charge dead Lugal-itida a-c- field Lu-gina a- Au-baqar dead Lu-Szara di- Atanna -they are his sons- the Amri-field-woods took in charge field Lu-Abu Lu-ebgal Lu-Enkidu -sons of Dayadaga- the Ula-woods took in charge a-c- field porter Adudu di- Lugal-kuzu his son the Big-orchard-woods took in charge a-c- field Inimanizi a- Ur-Ema di- Utu-saga di- Ur-Urbartab -they are his sons- the Dula-waterway-woods took in charge a-c- Szagubi flown the Szarasi-field-woods took in charge a-c- field Ur-Ema son of Ur-silalu the Daguna-woods took in charge foreman E-urbidu a-c- field Szekalla foreman di- Inimanizi his son a-c- field Lugal-ili a- Szara-zida di- Lu-Abu -they are sons of Allu- the Royal-house-woods took in charge a-c- field Akalla son of Ur-tulma di- Girini-isa his son the Quay-woods took in charge a-c- field Szekalla a- Lugal-egal his son the Masar-woods took in charge a-c- field Lu-dingira son of Ur-lugal the Turuda-woods took in charge a-c- field porter Lugal-egal son of Ur-gu di- Lu-Ninazu his son the Nagsu-woods took in charge a-c- field Lugal-zage di- Lu-Nanna his son the Girge-woods took in charge a-c- field Ur-nigar di- Ata his son the Inime-woods took in charge old Abba-saga the Balaatimdurun-woods took in charge a-c- field Szara-kam the Kisura-of-Adab-woods took in charge a-c- field Bansa di- Ur-sukkal his son the Zabala-woods took in charge foreman Szekalla a-c- field porter Ur-gigir the Big-waterway-woods took in charge old Ur-Szara son of ARAD a-c- field Lu-egal a- ala-Mami dead Lu-dingira di- Lugal-nesage -they are his sons- the Garana-woods took in charge a-c- field Ur-Szara son of Idia the troops-of-Garana-woods took in charge a-c- field porter Luga a-c- field Ur-Dumuzida son of Ur-mes the Midst-of-Nintina-woods took in charge a-c- field Szakusig a- Ur-nigar di- Lu-ebgal -they are his sons- the Copy-of-Garana-woods took in charge the Extra-prebend-boat-woods bank of Namani-waterway took in charge a-c- field Bansa di- ARAD-Szara his son son of anda orchardman the Ukunuti-woods bank of Szulgi-egal-waterway took in charge a-c- field Abba-gina son of Ur-nigar son of Dayya remainder of preceding year the Bura-town-woods took in charge a-c- field Lal-mes the Aduganigin-woods took in charge a-c- field Abu-tab the Garsuda-woods took in charge a-c- field Lugal-daga dead Ama-ki oldest brother of Ur-nigar son of Ur-Itaran the GANma-woods took in charge foreman Ur-Szara field corporate slaves foremen total n extra male child total di- male child total di-corporate slave old one the foreman took in charge total a-c- field corporate slaves total a-c- corporate slave not took in charge total a- male children total di- male children total di- corporate slaves old ones total a- corporate slave flown total a- corporate slave not took in charge total di- male children not passed by total a-c- field porters corporate slaves total a- porter corporate slave at barig ban sila barley mana wool each total di- male children -they are porters- their barley barig ban sila to be distributed monthly their wool mana to be distributed yearly inspection of troops passed by as foresters Ayakalla ensi of Umma via Szata-kuzu sukkal Lu-Inanna sukkal and Lu-Nanna son of Inim-Szara month Dumuzi festival Year Ennune-Amar-Suenra-kiag as priest of Eridu was installed
+1	usz2	Dead	JJ	0	root	
+2	ur-sila-luh	Ur-silalu	NN	5	compound	
+3	1(asz@c)	_	,	5	nummod	
+4	GAN2	_	CD	9	nummod	
+5	e2-ur2-bi-du10	a-c- E-urbidu a	NN	1	_	
+6	ugula	foreman	NN	5	appos	
+7	1(asz@c)	_	,	5	nummod	
+8	GAN2	_	:	10	_	
+9	giri3-ni-i3-sa6	a-c- Girini-isa	NN	5	appos	
+10	dumu-ni-me	-they are his sons-	NNS	5	_	
+11	1(asz@c)	_	,	34	nummod	
+12	GAN2	_	CD	15	nummod	
+13	ur-{d}gesztin-an-ka	a-c- Ur-Getinanka	NN	5	appos	
+14	1(disz)	_	,	34	nummod	
+15	lu2-{d}sukkal-an-ka	di- Lu-Sukkalanka	NN	34	appos	
+16	dumu-ni-me	-they are his sons-	NNS	34	_	
+17	tir	the	DT	18	det	
+18	ki-sur-ra	Border-woods took in	VBD	34	acl:relcl	
+19	i3-dab5	charge	NN	18	dobj	
+20	1(asz@c)	_	,	34	nummod	
+21	1(barig)	_	_	20	nummod	
+22	1(ban2)	_	_	0	nummod	
+23	5(disz)	barig ban	NN	34	nummod	
+24	4(disz)	barig ban	NN	23	nummod	
+25	ug3	porter	NN	24	appos	
+26	du11-ga-ni	a-c- Dugani	NN	34	_	
+27	tir	the	DT	28	det	
+28	szu-na-mu-gi4	Szunamugi-woods took in	VBD	34	acl:relcl	
+29	i3-dab5	charge	NN	28	dobj	
+30	1(asz@c)	_	,	34	nummod	
+31	GAN2	_	CD	34	nummod	
+32	inim-{d}szara2	a-c- Inim-Szara	NN	34	_	
+33	1(disz)	_	,	34	nummod	
+34	lugal-inim-gi-na	di- Lugal-inim-gina	NN	5	_	
+35	dumu-ni	his son	NN	34	appos	
+36	tir	the	DT	37	det	
+37	a-kun-kum2	Akunkum-woods took in	VBD	34	acl:relcl	
+38	i3-dab5	charge	NN	37	dobj	
+39	szu	old	JJ	40	amod	
+40	ur-ab-ba	Ur-abba	NN	5	_	
+41	1(asz@c)	_	,	43	nummod	
+42	GAN2	a-c-	NN	40	appos	
+43	lu2-{d}szara2	Lu-Szara	NNP	5	_	
+44	dumu-ni	his son	NN	43	appos	
+45	tir	the	DT	46	det	
+46	ka-ma-ri2{ki}	Kamari-woods took in	VBD	43	acl:relcl	
+47	i3-dab5	charge	NN	46	dobj	
+48	usz2	dead	NN	5	_	
+49	lugal-iti-da	Lugal-itida	NN	48	_	
+50	1(asz@c)	_	,	49	nummod	
+51	GAN2	_	CD	54	nummod	
+52	lu2-gi-na	a-c- Lu-gina	NN	49	appos	
+53	1(asz)	_	,	49	nummod	
+54	a-hu-ba-qar	a- Au-baqar	NN	49	appos	
+55	usz2	dead	JJ	49	_	
+56	lu2-{d}szara2	Lu-Szara	NNP	49	_	
+57	1(disz)	_	,	49	nummod	
+58	a-ta2-na-ah	di- Atanna	NN	56	appos	
+59	dumu-ni-me	-they are	PRP	62	nsubj	
+60	tir	the	DT	62	det	
+61	a-sza3	_	NN	49	compound	
+62	am3-ri2	Amri-field-woods took in	VBD	49	acl	
+63	i3-dab5	charge	NN	62	dobj	
+64	1(asz@c)	_	NN	49	nummod	
+65	GAN2	_	:	64	_	
+66	lu2-{d}ab-u2	_	''	49	_	
+67	1(asz)	_	:	64	nummod	
+68	lu2-eb-gal	Lu-ebgal	JJ	64	_	
+69	1(disz)	_	,	64	nummod	
+70	lu2-{d}en-ki-du	Lu-Enkidu	NNP	64	_	
+71	dumu	_	,	64	_	
+72	da-a-da-ga	-sons Dayadaga-	NNS	64	appos	
+73	tir	the	DT	74	det	
+74	u2-la2{ki}	Ula-woods took in	VBD	64	acl:relcl	
+75	i3-dab5	charge	NN	74	dobj	
+76	1(asz@c)	_	,	79	nummod	
+77	GAN2	_	CD	81	nummod	
+78	ug3	a-c- porter	NN	64	_	
+79	a-du-du	Adudu	NNP	64	_	
+80	1(disz)	_	,	64	nummod	
+81	lugal-ku3-zu	di- Lugal-kuzu	NN	79	appos	
+82	dumu-ni	his son	NN	64	appos	
+83	tir	the	DT	84	det	
+84	{gesz}kiri6-mah	Big-orchard-woods took in	VBD	64	acl:relcl	
+85	i3-dab5	charge	NN	84	dobj	
+86	1(asz@c)	_	,	49	nummod	
+87	nu	a-c-	NN	64	_	
+88	GAN2	_	CD	91	nummod	
+89	inim-ma-ni-zi	_	:	49	_	
+90	1(asz)	_	,	92	nummod	
+91	nu	a-	NN	49	appos	
+92	ur-e2-mah	Ur-Ema	NNP	49	_	
+93	1(disz)	_	,	95	nummod	
+94	nu	di-	NN	92	appos	
+95	{d}utu-saga	Utu-saga	NN	49	_	
+96	1(disz)	_	,	98	nummod	
+97	nu	di-	NN	95	appos	
+98	ur-{d}ur3-bar-tab	Ur-Urbartab	NNP	49	_	
+99	dumu-ni-me	-they are his sons-	NNS	98	_	
+100	tir	the	DT	102	det	
+101	i7	_	:	98	_	
+102	dul4-la	Dula-waterway-woods took in	VBD	98	acl:relcl	
+103	i3-dab5	charge	NN	102	dobj	
+104	1(asz@c)	_	,	98	nummod	
+105	sza3-gu2-bi	a-c- Szagubi	NN	98	_	
+106	zah3	flown	VBN	98	acl	
+107	tir	the	DT	109	det	
+108	a-sza3	_	:	49	_	
+109	{d}szara2-si	Szarasi-field-woods took in	VBD	98	acl:relcl	
+110	i3-dab5	charge	NN	109	dobj	
+111	1(asz@c)	_	,	49	nummod	
+112	GAN2	_	_	0	_	
+113	ur-e2-masz	a-c- Ur-Ema	NN	49	_	
+114	dumu	son	NN	49	appos	
+115	ur-sila-luh	Ur-silalu	NN	114	nmod:of	
+116	tir	the	DT	117	det	
+117	da-gu-na	Daguna-woods took in	VBD	49	acl:relcl	
+118	i3-dab5	charge	NN	117	dobj	
+119	ugula	foreman	NN	5	_	
+120	e2-ur2-bi-du10	E-urbidu	NN	119	_	
+121	1(asz@c)	_	,	120	nummod	
+122	GAN2	_	CD	126	nummod	
+123	szesz-kal-la	a-c- Szekalla	NN	120	_	
+124	ugula	foreman	NN	120	conj	
+125	1(disz)	_	,	120	nummod	
+126	inim-ma-ni-zi	di- Inimanizi	NN	120	appos	
+127	dumu-ni	his son	NN	120	appos	
+128	1(asz@c)	_	,	5	nummod	
+129	GAN2	_	CD	132	nummod	
+130	lugal-hi-li	a-c- Lugal-ili	NN	120	appos	
+131	1(asz)	_	,	5	nummod	
+132	{d}szara2-zi-da	a- Szara-zida	NN	5	appos	
+133	1(disz)	_	,	5	nummod	
+134	lu2-{d}ab-u2	di- Lu-Abu	NN	5	appos	
+135	dumu	_	,	136	_	
+136	al-lu-me	-they are sons Allu-	NNS	5	_	
+137	tir	the	DT	138	det	
+138	e2-lugal	Royal-house-woods took in	VBD	136	acl	
+139	i3-dab5	charge	NN	138	dobj	
+140	1(asz@c)	_	,	142	nummod	
+141	GAN2	_	CD	146	nummod	
+142	a-kal-la	Akalla	NNP	136	_	
+143	dumu	son	NN	142	appos	
+144	ur-tul2-mah	a-c- Ur-tulma	NN	138	_	
+145	1(disz)	_	,	136	nummod	
+146	giri3-ni-i3-sa6	di- Girini-isa	NN	142	appos	
+147	dumu-ni	his son	NN	136	appos	
+148	tir	the	DT	149	det	
+149	kar-ra	Quay-woods took in	VBD	136	acl:relcl	
+150	i3-dab5	charge	NN	149	dobj	
+151	1(asz@c)	_	,	136	nummod	
+152	GAN2	_	CD	155	nummod	
+153	szesz-kal-la	a-c- Szekalla	NN	136	_	
+154	1(asz)	_	,	156	nummod	
+155	lugal-he2-gal2	a- Lugal-egal	NN	136	appos	
+156	dumu-ni	his son	NN	158	nsubj	
+157	tir	the	DT	156	det	
+158	ma-sar	Masar-woods took in	VBD	136	acl	
+159	i3-dab5	charge	NN	158	dobj	
+160	1(asz@c)	_	,	162	nummod	
+161	GAN2	a-c-	NN	158	_	
+162	lu2-dingir-ra	Lu-dingira	NN	158	_	
+163	dumu	son	NN	162	appos	
+164	ur-lugal	Ur-lugal	JJ	163	nmod:of	
+165	tir	the	DT	166	det	
+166	tu-ru-da	Turuda-woods took in	VBD	162	acl:relcl	
+167	i3-dab5	charge	NN	166	dobj	
+168	1(asz@c)	_	,	172	nummod	
+169	GAN2	_	CD	175	nummod	
+170	ug3	a-c- porter	NN	162	_	
+171	lugal-he2-gal2	Lugal-egal	JJ	170	_	
+172	dumu	son	NN	171	root	
+173	ur-gu	Ur-gu	NN	172	nmod:of	
+174	1(disz)	_	,	172	nummod	
+175	lu2-{d}nin-a-zu	di- Lu-Ninazu	NN	172	appos	
+176	dumu-ni	his son	NN	172	appos	
+177	tir	the	DT	178	det	
+178	nag-su{ki}	Nagsu-woods took in	VBD	172	acl:relcl	
+179	i3-dab5	charge	NN	178	dobj	
+180	1(asz@c)	_	,	172	nummod	
+181	GAN2	_	CD	184	nummod	
+182	lugal-za3-ge	a-c- Lugal-zage	NN	172	_	
+183	1(disz)	_	,	172	nummod	
+184	lu2-{d}nanna	di- Lu-Nanna	NN	172	appos	
+185	dumu-ni	his son	NN	172	appos	
+186	tir	the	DT	187	det	
+187	gir13-gesz{ki}	Girge-woods took in	VBD	172	acl:relcl	
+188	i3-dab5	charge	NN	187	dobj	
+189	1(asz@c)	_	,	172	nummod	
+190	GAN2	_	CD	193	nummod	
+191	ur-nigar{gar}	a-c- Ur-nigar	NN	172	_	
+192	1(disz)	_	,	172	nummod	
+193	a2-ta	di- Ata	NN	172	appos	
+194	dumu-ni	his son	NN	172	appos	
+195	tir	the	DT	196	det	
+196	inim-e3	Inime-woods took in	VBD	172	acl:relcl	
+197	i3-dab5	charge	NN	196	dobj	
+198	szu	old	JJ	199	amod	
+199	ab-ba-saga	Abba-saga	NN	172	_	
+200	tir	the	DT	201	det	
+201	bala-a-ti-im-durunx(|KU.KU|)	Balaatimdurun-woods took in	NN	199	appos	
+202	i3-dab5	charge	NN	199	dobj	
+203	1(asz@c)	_	,	207	nummod	
+204	GAN2	_	_	0	_	
+205	{d}szara2-kam	a-c- Szara-kam	NN	199	_	
+206	tir	the	DT	208	det	
+207	ki-sur-ra	took in	VBD	199	acl	
+208	adab{ki}	Kisura-of-Adab-woods	NNPS	207	nsubj	
+209	i3-dab5	charge	NN	207	nmod:in	
+210	1(asz@c)	_	,	207	nummod	
+211	GAN2	_	CD	214	nummod	
+212	ba-an-sa6	a-c- Bansa	NN	207	_	
+213	1(disz)	_	,	215	nummod	
+214	ur-sukkal	di- Ur-sukkal	NN	207	appos	
+215	dumu-ni	his son	NN	207	root	
+216	tir	the	DT	217	det	
+217	zabala3{ki}	Zabala-woods took in	VBD	215	acl:relcl	
+218	i3-dab5	charge	NN	217	dobj	
+219	ugula	foreman	NN	215	_	
+220	szesz-kal-la	Szekalla	NN	219	_	
+221	1(asz@c)	_	,	227	nummod	
+222	GAN2	_	_	0	_	
+223	ug3	a-c- porter	NN	220	_	
+224	ur-{gesz}gigir	Ur-gigir	NN	227	_	
+225	tir	the	DT	227	det	
+226	i7	_	:	227	_	
+227	gal-la	Big-waterway-woods took in	VBD	220	acl	
+228	i3-dab5	charge	NN	227	dobj	
+229	szu	old	JJ	227	_	
+230	ur-{d}szara2	Ur-Szara	NNP	229	_	
+231	dumu	son	NN	230	appos	
+232	ARAD2	ARAD	NNP	231	nmod:of	
+233	1(asz@c)	_	,	237	nummod	
+234	GAN2	_	CD	237	nummod	
+235	lu2-he2-gal2	a-c- Lu-egal	NN	232	appos	
+236	1(asz)	_	,	237	nummod	
+237	ha-la-{d}ma-mi	a- ala-Mami	NN	230	_	
+238	usz2	dead	JJ	237	amod	
+239	lu2-dingir-ra	Lu-dingira	NN	237	_	
+240	1(disz)	_	,	237	nummod	
+241	lugal-nesag-e	di- Lugal-nesage	NN	239	appos	
+242	dumu-ni-me	-they are his sons-	NNS	237	_	
+243	tir	the	DT	244	det	
+244	gar-sza-na-ka{ki}	Garana-woods took in	VBD	237	acl:relcl	
+245	i3-dab5	charge	NN	244	dobj	
+246	1(asz@c)	_	,	248	nummod	
+247	GAN2	_	:	237	_	
+248	ur-{d}szara2	Ur-Szara	NNP	237	_	
+249	dumu	son	NN	248	appos	
+250	i-di3-a	a-c- Idia	NN	237	_	
+251	tir	the	DT	252	det	
+252	erin2-gar-sza-na-ka{ki}	troops-of-Garana-woods took in	VBD	248	acl:relcl	
+253	i3-dab5	charge	NN	252	dobj	
+254	1(asz@c)	_	,	257	nummod	
+255	GAN2	_	CD	259	nummod	
+256	ug3	a-c- porter	NN	237	_	
+257	lu2-ga	Luga	NNP	237	_	
+258	1(asz@c)	_	,	260	nummod	
+259	GAN2	a-c-	NN	257	appos	
+260	ur-{d}dumu-zi-da	Ur-Dumuzida	NNP	237	_	
+261	dumu	son	NN	260	appos	
+262	ur-mes	Ur-mes	NNS	261	nmod:of	
+263	tir	the	DT	264	det	
+264	sza3-nin9-ti-na	Midst-of-Nintina-woods took in	VBD	260	acl:relcl	
+265	i3-dab5	charge	NN	264	dobj	
+266	1(asz@c)	_	,	237	nummod	
+267	GAN2	_	CD	270	nummod	
+268	sza3-ku3-sig17	a-c- Szakusig	NN	237	_	
+269	1(asz)	_	,	237	nummod	
+270	ur-nigar{gar}	a- Ur-nigar	NN	237	appos	
+271	1(disz)	_	,	237	nummod	
+272	lu2-eb-gal	di- Lu-ebgal	NN	237	appos	
+273	dumu-ni-me	-they are his sons-	NNS	237	_	
+274	tir	the	DT	275	det	
+275	gaba-ri-gar-sza-na-ka	Copy-of-Garana-woods took in	VBD	237	acl:relcl	
+276	i3-dab5	charge	NN	275	dobj	
+277	tir	the	DT	278	det	
+278	ma2-szuku-diri	Extra-prebend-boat-woods bank Namani-waterway took in	VBD	237	parataxis	
+279	gu2	_	:	278	_	
+280	i7	_	CD	285	nummod	
+281	nam-ha-ni	_	_	0	_	
+282	i3-dab5	charge	NN	278	dobj	
+283	1(asz@c)	_	,	278	nummod	
+284	GAN2	_	CD	287	nummod	
+285	ba-an-sa6	a-c- Bansa	NN	278	_	
+286	1(disz)	_	NN	296	nummod	
+287	ARAD2-{d}szara2	di- ARAD-Szara	NN	278	appos	
+288	dumu-ni	his son	NN	296	appos	
+289	dumu	son	_	0	_	
+290	ha-an-da	anda	NNP	286	nmod:of	
+291	nu-{gesz}kiri6	orchardman	NN	290	appos	
+292	tir	the	DT	290	det	
+293	uku2-nu-ti	_	:	296	_	
+294	gu2	_	CD	304	nummod	
+295	i7	_	_	0	_	
+296	{d}szul-gi-he2-gal2	Ukunuti-woods bank Szulgi-egal-waterway took in	VBD	278	acl	
+297	i3-dab5	charge	NN	296	dobj	
+298	1(asz@c)	_	,	300	nummod	
+299	GAN2	_	:	296	_	
+300	ab-ba-gi-na	Abba-gina	NN	296	_	
+301	dumu	son	NN	300	appos	
+302	ur-nigar{gar}	Ur-nigar	JJ	301	nmod:of	
+303	dumu	son	NN	300	appos	
+304	da-a-a	a-c- Dayya	NN	296	_	
+305	im-e	remainder	NN	300	appos	
+306	tak4-a	preceding year	NN	305	nmod:of	
+307	tir	the	DT	308	det	
+308	iri-bu3-ra	Bura-town-woods took in	VBD	300	acl:relcl	
+309	i3-dab5	charge	NN	308	dobj	
+310	1(asz@c)	_	,	314	nummod	
+311	GAN2	_	_	0	_	
+312	lal3-mes	a-c- Lal-mes	NN	300	_	
+313	tir	the	DT	314	det	
+314	a-du10-ga-nigin	Aduganigin-woods took in	VBD	300	parataxis	
+315	i3-dab5	charge	NN	314	nmod:in	
+316	1(asz@c)	_	,	314	nummod	
+317	GAN2	_	_	0	_	
+318	a-bu-du10	a-c- Abu-tab	NN	314	_	
+319	tir	the	DT	320	det	
+320	gar-su4-da	Garsuda-woods took in	VBD	314	acl:relcl	
+321	i3-dab5	charge	NN	320	dobj	
+322	1(asz@c)	_	,	314	nummod	
+323	GAN2	_	_	0	_	
+324	lugal-da-ga	a-c- Lugal-daga	NN	314	_	
+325	usz2	dead	JJ	314	amod	
+326	ama-ki	Ama-ki oldest	NN	314	_	
+327	pa4	brother	NN	326	appos	
+328	ur-nigar{gar}	Ur-nigar	JJ	327	nmod:of	
+329	dumu	son	NN	326	appos	
+330	ur-{d}isztaran	Ur-Itaran	NNP	329	nmod:of	
+331	tir	the	DT	332	det	
+332	GAN2-masz{ki}	GANma-woods took in	VBD	326	acl:relcl	
+333	i3-dab5	charge	NN	332	dobj	
+334	ugula	foreman	NN	314	_	
+335	ur-{d}szara2	Ur-Szara	NNP	334	_	
+336	szunigin	_	:	314	_	
+337	3(asz@c)	_	:	314	nummod	
+338	GAN2	_	-LRB-	341	_	
+339	gurusz	corporate slaves	NNS	314	dobj	
+340	ugula	foremen	NNS	339	appos	
+341	szunigin	total	NN	343	_	
+342	n	n	NN	341	_	
+343	dumu-nita2	male child	NN	314	parataxis	
+344	diri	extra	JJ	343	amod	
+345	szunigin	total	NN	314	_	
+346	1(disz)	_	:	314	nummod	
+347	dumu-nita2	di- male child	NN	345	_	
+348	szunigin	total	NN	314	_	
+349	1(disz)	_	:	351	nummod	
+350	gurusz	_	_	0	_	
+351	szu-gi4	di-corporate slave old one	NN	348	_	
+352	ugula	the foreman	NN	353	nsubj	
+353	i3-dab5	took in charge	VBD	351	acl	
+354	szunigin	total	NN	353	_	
+355	2(u@c)	_	:	353	nummod	
+356	3(asz@c)	_	_	355	nummod	
+357	GAN2	a-c-	NN	354	_	
+358	gurusz	corporate slaves	NNS	353	dobj	
+359	szunigin	total	NN	362	nsubj	
+360	1(asz@c)	_	:	353	nummod	
+361	gurusz	_	_	0	_	
+362	nu-dab	a-c- corporate slave not took in charge	VBD	353	parataxis	
+363	szunigin	total	NN	353	parataxis	
+364	5(asz)	_	:	351	nummod	
+365	dumu-nita2	a- male children	SYM	363	_	
+366	szunigin	total	NN	351	_	
+367	1(u)	_	:	314	nummod	
+368	1(disz)	_	_	367	nummod	
+369	dumu-nita2	di- male children	SYM	366	_	
+370	szunigin	total	NN	314	_	
+371	2(disz)	_	:	314	nummod	
+372	gurusz	_	_	0	_	
+373	szu-gi4	di- corporate slaves old ones	SYM	370	_	
+374	szunigin	total	NN	381	nsubj	
+375	1(asz@c)	_	:	374	nummod	
+376	gurusz	_	_	0	_	
+377	zah3	a- corporate slave flown	SYM	374	_	
+378	szunigin	total	NN	374	conj	
+379	1(asz)	_	:	381	nummod	
+380	gurusz	_	_	0	_	
+381	nu-dab	a- corporate slave not took in charge	VBD	314	acl	
+382	szunigin	total	NN	381	_	
+383	2(disz)	_	:	381	nummod	
+384	dumu-nita2	di- male children	SYM	382	_	
+385	nu-dab	not passed by	VBN	382	acl	
+386	szunigin	total	NN	381	_	
+387	4(asz@c)	_	:	381	nummod	
+388	GAN2	_	_	0	_	
+389	ug3	a-c- porters corporate	NN	386	_	
+390	gurusz	slaves	NNS	381	conj	
+391	szunigin	total	NN	381	conj	
+392	1(asz@c)	_	:	391	nummod	
+393	ug3	porter	NN	391	conj	
+394	gurusz	_	_	0	_	
+395	1(barig)	_	_	0	nummod	
+396	1(ban2)	_	_	395	nummod	
+397	5(disz)	barig ban	NN	391	nummod	
+398	sila3	sila	NN	397	compound	
+399	sze	barley	NN	397	compound	
+400	4(disz)	_	_	0	nummod	
+401	ma-na	mana	NN	397	compound	
+402	siki-ta	wool each a- corporate slave at	SYM	391	_	
+403	szunigin	total	NN	391	_	
+404	2(disz)	_	:	381	nummod	
+405	dumu-nita2	di- male children	SYM	403	_	
+406	ug3-IL2-me	-they are porters-	NNS	381	parataxis	
+407	sze-bi	their barley	NN	381	parataxis	
+408	1(barig)	_	,	410	nummod	
+409	1(ban2)	_	_	408	nummod	
+410	5(disz)	barig ban	NN	407	nummod	
+411	sila3	sila	NN	410	_	
+412	iti-da	_	:	410	_	
+413	be6-dam	to be distributed monthly	VBN	410	acl	
+414	siki-bi	their wool	PRP$	416	nmod:poss	
+415	4(disz)	_	,	416	nummod	
+416	ma-na	mana	NN	410	conj	
+417	mu-a	_	:	410	_	
+418	be6-dam	to be distributed yearly	VBN	416	acl	
+419	gurum2	inspection	NN	410	conj	
+420	ak	_	:	410	_	
+421	erin2	troops	NNS	419	nmod:of	
+422	dab-ba	_	_	0	_	
+423	lu2	_	_	0	_	
+424	tir-ra	passed by as foresters	VBN	421	acl	
+425	a-a-kal-la	Ayakalla	NNP	410	_	
+426	ensi2	ensi	NN	425	appos	
+427	umma{ki}	Umma	NNP	426	nmod:of	
+428	giri3	via	IN	429	nmod:via	
+429	sza3-ta-ku3-zu	Szata-kuzu	NN	425	nmod:via	
+430	sukkal	sukkal	JJ	429	root	
+431	lu2-{d}inanna	Lu-Inanna	NNP	430	root	
+432	sukkal	sukkal	JJ	431	appos	
+433	u3	and	CC	431	cc	
+434	lu2-{d}nanna	Lu-Nanna	NNP	431	conj	
+435	dumu	son	NN	434	appos	
+436	inim-{d}szara2	Inim-Szara	NNP	435	nmod:of	
+437	iti	month	NN	438	compound	
+438	ezem-{d}dumu-zi	Dumuzi festival	NN	431	_	
+439	mu	Year	NN	438	_	
+440	en-nun-ne2-{d}amar-{d}suen-ra-ki-ag2	Ennune-Amar-Suenra-kiag as	NNP	443	compound	
+441	en	priest	NN	443	nmod:as	
+442	eridu{ki}	Eridu	NNP	441	nmod:of	
+443	ba-hun	was installed	VBN	439	ccomp
+	
+

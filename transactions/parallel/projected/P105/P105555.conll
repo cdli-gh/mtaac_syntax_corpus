@@ -1,0 +1,52 @@
+# train/P105555.atf
+						
+
+# tr.en: Buka slave of Alala Alala examined him by royal name On day I flee let it be a crime he swore Zan-MENI his mother and Geme-Enlil his wife as guarantors of not fleeing went carried Lugal-gur Namani Ur-Gagia Szekalla Ur-Ebadu Usani allimu are witnesses month Harvest second year after Martu wall was erected
+1	1(disz)	_	,	2	nummod	
+2	bu-ka	Buka	NNP	46	_	
+3	ARAD2	slave	NN	1	root	
+4	a2-la-la-kam	Alala	NN	3	nmod:of	
+5	a2-la-la	Alala	NN	6	nsubj	
+6	igi-ni	examined	VBD	3	parataxis	
+7	i3-szi-gar	him	PRP	6	dobj	
+8	mu	_	_	0	_	
+9	lugal	_	_	0	_	
+10	u4	_	_	0	_	
+11	ba-zah3-de3-na-ga2	by royal name day I flee	NN	6	nmod:by	
+12	szer7-da	let it be a	VB	14	xcomp	
+13	he2-a	crime	NN	12	ccomp	
+14	bi2-in-du11	he swore	VBD	11	acl	
+15	za-an-ME-NI	Zan-MENI	NNP	14	dobj	
+16	ama-ni	his mother	NN	15	appos	
+17	u3	and	CC	15	cc	
+18	geme2-{d}en-lil2	Geme-Enlil his	NNP	15	conj	
+19	dam-na-ni	wife	NN	18	appos	
+20	szu-du2	as guarantors	NNS	15	nmod:as	
+21	nu-zah3-da	not fleeing	VBG	20	acl	
+22	ba-an-de6-esz2	went carried	VBN	14	acl	
+23	1(disz)	_	,	24	nummod	
+24	lugal-gur4	Lugal-gur	NN	14	_	
+25	1(disz)	_	,	26	nummod	
+26	nam-ha-ni	Namani	NNP	24	_	
+27	1(disz)	_	,	26	nummod	
+28	ur-ga2-gi4-a	Ur-Gagia	NNP	26	_	
+29	1(disz)	_	,	30	nummod	
+30	szesz-kal-la	Szekalla	NNP	24	_	
+31	1(disz)	_	,	30	nummod	
+32	ur3-e-ba-du7	Ur-Ebadu	NNP	30	_	
+33	1(disz)	_	,	34	nummod	
+34	us2-a-ni	Usani	NN	37	nsubj	
+35	1(disz)	_	,	34	nummod	
+36	hal-li2-mu	allimu	NNP	34	appos	
+37	lu2-inim-ma-bi-me	are witnesses	NNS	24	parataxis	
+38	iti	month	NN	39	compound	
+39	sze-sag11-ku5	Harvest	NNP	24	_	
+40	min	second	JJ	39	_	
+41	mu	year	NN	39	advmod	
+42	us2-sa	after	IN	41	nmod:after	
+43	bad3	_	.	3	_	
+44	mar-tu	Martu wall	NN	45	nsubjpass	
+45	ba-du3	was erected	VBN	39	acl	
+46	 	_	NN	0	root
+	
+

@@ -1,0 +1,43 @@
+# train/P345965.atf
+						
+
+# tr.en: barley-fed full-grown billy goat of second grade sheep ewes nanny goats billy goats suckling lambs suckling goats were slaughtered it is on th day from Ahuwer Szulgi-irimu received them Month Harvest Year en-priestess of Nanna was installed sheep
+1	1(disz)	_	,	2	nummod	
+2	masz2-gal	full-grown billy goat	NN	20	nsubjpass	
+3	niga	barley-fed	JJ	2	amod	
+4	saga	_	CD	7	nummod	
+5	us2	second grade	NN	2	nmod:of	
+6	1(disz)	_	,	2	nummod	
+7	udu	sheep	NN	2	conj	
+8	3(disz)	_	,	2	nummod	
+9	u8	ewes	NNS	2	conj	
+10	7(disz)	_	,	2	nummod	
+11	ud5	nanny goats	NNS	2	conj	
+12	2(disz)	_	,	2	nummod	
+13	masz2	billy goats	NNS	2	conj	
+14	5(disz)	_	,	2	nummod	
+15	sila4	lambs	NNS	2	conj	
+16	ga	suckling	NN	15	compound	
+17	3(disz)	_	,	2	nummod	
+18	masz2	goats	NNS	2	appos	
+19	ga	suckling	NN	18	compound	
+20	ba-usz2	were slaughtered	VBN	0	root	
+21	u4	it is on th day	NN	20	parataxis	
+22	1(u)	_	,	21	nummod	
+23	4(disz)-kam	_	_	22	nummod	
+24	ki	from	IN	25	nmod:from	
+25	a-hu-we-er-ta	Ahuwer	NNP	20	nmod:from	
+26	{d}szul-gi-iri-mu	Szulgi-irimu	NN	28	nsubj	
+27	szu	_	.	20	_	
+28	ba-ti	received them	VBD	25	acl:relcl	
+29	iti	Month	NNP	31	compound	
+30	sze-sag11-ku5	Harvest	NNP	29	_	
+31	mu	Year	NN	20	parataxis	
+32	en	en-priestess	NN	34	nsubjpass	
+33	{d}nanna	Nanna	NNP	32	nmod:of	
+34	ba-hun	was installed	VBN	31	acl	
+35	2(u)	_	_	0	nummod	
+36	2(disz)	_	_	35	nummod	
+37	udu	sheep	NN	34	nmod:tmod
+	
+

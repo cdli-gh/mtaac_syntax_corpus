@@ -1,0 +1,28 @@
+# train/P416476.atf
+						
+
+# tr.en: sheep lamb slaughtered st day from Ur-Nanna Szulgi-irimu received month Piglet feast year after Simanum was destroyed small cattle
+1	1(u)	_	,	2	nummod	
+2	udu	sheep	NN	5	nsubj	
+3	1(disz)	_	,	2	nummod	
+4	sila4	lamb	NN	2	appos	
+5	ba-usz2	slaughtered	VBN	0	root	
+6	u4	st day	NN	5	nmod:tmod	
+7	2(u)	_	,	5	nummod	
+8	1(disz)-kam	_	_	7	nummod	
+9	ki	from	IN	11	nmod:from	
+10	ur-{d}nanna-ta	Ur-Nanna	NNP	11	compound	
+11	{d}szul-gi-iri-mu	Szulgi-irimu	NN	5	nmod:from	
+12	szu	_	:	5	_	
+13	ba-ti	received	VBD	11	acl	
+14	iti	month	NN	5	_	
+15	ses-da-gu7	Piglet feast	NN	14	_	
+16	mu	year	NN	15	_	
+17	us2-sa	after	IN	16	nmod:after	
+18	si-ma-num2{ki}	Simanum	NNP	19	nsubjpass	
+19	ba-hul	was destroyed	VBN	15	acl	
+20	1(u)	_	.	5	nummod	
+21	1(disz)	_	_	20	nummod	
+22	udu	small cattle	NNS	5	dobj
+	
+

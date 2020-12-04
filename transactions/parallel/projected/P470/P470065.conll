@@ -1,0 +1,29 @@
+# train/P470065.atf
+						
+
+# tr.en: jenny full-grown mountain goat young female mountain goat slaughtered th day from Lu-dingira did Ur-nigar receive month Festival of Ninazu year after Kima urti were destroyed
+1	1(disz)	_	,	2	nummod	
+2	eme6	jenny	NN	0	root	
+3	1(disz)	_	,	2	nummod	
+4	masz2-gal	full-grown	JJ	5	amod	
+5	a-dara4	mountain goat	NN	2	appos	
+6	1(disz)	_	,	2	nummod	
+7	{munus}asz2-gar3	young female	JJ	8	amod	
+8	a-dara4	mountain goat	NN	2	appos	
+9	ba-usz2	slaughtered	VBN	2	acl	
+10	u4	th day	NN	9	nmod:tmod	
+11	8(disz)-kam	_	:	9	nummod	
+12	ki	from	IN	13	nmod:from	
+13	lu2-dingir-ra-ta	Lu-dingira	NN	16	nmod:from	
+14	ur-nigar{gar}	did Ur-nigar	VBD	16	aux	
+15	szu	_	:	9	_	
+16	ba-ti	receive	VBP	9	parataxis	
+17	iti	month	NN	23	_	
+18	ezem-{d}nin-a-zu	Festival Ninazu	NNP	17	_	
+19	mu	year	NN	17	_	
+20	us2-sa	after	IN	19	advmod	
+21	ki-masz{ki}	_	:	17	_	
+22	hu-ur5-ti{ki}	urti	NNP	23	nsubjpass	
+23	ba-hul	were destroyed	VBN	9	parataxis
+	
+

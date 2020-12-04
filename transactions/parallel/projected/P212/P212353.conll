@@ -1,0 +1,42 @@
+# train/P212353.atf
+						
+
+# tr.en: grass ox grass small cattle unweaned male goats ugid offerings for house of cook in name of royal guard and prebend-holders ARADmu was makim nth day Out of nns booked Via Nanna-maba scribe Month Szu-Suen festival year Ibbi-Suen is king ox small cattle
+1	1(disz)	_	,	2	nummod	
+2	gu4	ox	NN	0	root	
+3	u2	grass	NN	2	compound	
+4	5(disz)	_	,	2	nummod	
+5	udu	small cattle	NNS	2	conj	
+6	u2	grass	NN	5	compound	
+7	1(u)	_	,	2	nummod	
+8	5(disz)	_	_	7	nummod	
+9	masz2	male goats	NNS	2	conj	
+10	gaba	unweaned	JJ	9	amod	
+11	szu-gid2	ugid offerings	NNS	2	appos	
+12	e2-muhaldim	for house cook	NN	11	nmod:for	
+13	mu	_	.	2	_	
+14	aga3-us2	royal	JJ	17	amod	
+15	u3	_	_	0	_	
+16	lu2	_	_	0	_	
+17	szuku-ra-ke4-ne-sze3	in name guard and prebend-holders	NN	11	nmod:in	
+18	ARAD2-mu	ARADmu	NN	19	nsubj	
+19	maszkim	was makim	NN	2	_	
+20	u4	day	NN	19	nmod:tmod	
+21	n-kam	nth	NN	20	compound	
+22	ki	_	POS	26	nmod:'s	
+23	...-x-...-ta	Out nns	IN	2	_	
+24	ba-zi	booked	VBN	26	acl	
+25	giri3	_	.	27	_	
+26	{d}nanna-ma-ba	Via Nanna-maba	NNP	23	nmod:of	
+27	dub-sar	scribe	NN	2	_	
+28	iti	Month	NNP	29	compound	
+29	ezem-{d}szu-{d}suen	Szu-Suen festival	NN	27	_	
+30	mu	year	NN	29	_	
+31	{d}i-bi2-{d}suen	Ibbi-Suen is	NNP	32	nsubj	
+32	lugal	king	NN	27	_	
+33	1(disz)	_	.	2	nummod	
+34	gu4	ox	NN	2	_	
+35	2(u)	_	_	0	nummod	
+36	udu	small cattle	NNS	2	appos
+	
+

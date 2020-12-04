@@ -1,0 +1,121 @@
+# dev/P319075.atf
+						
+
+# tr.en: From side of Nabasa canal ninda length cubit width cubit height the volume sar ninda length cubit width cubits height the volume sar Apisal the volume n n from side of ninda length cubit width cubit height the volume sar shekels For a levee in field Pirigtur-gin-DU Total ninda length Total sar activity for earthwork and reed bundle for barges The levee of Lugal-mussa field that is in front of A-getin field has been measured up to levee of a plot with poor soil the foremen chief adminstrator of Dumuzi and chief administrator of Nin-DARa Year throne of Enlil was fashioned
+1	a2-pa5	From side	NN	114	nmod:from	
+2	na-ba-sa2-ta	Nabasa canal	NNP	3	compound	
+3	1(gesz2)	Nabasa canal	NN	1	nummod	
+4	3(u)	_	DT	11	nummod	
+5	ninda	ninda	NN	1	_	
+6	gid2	length	NN	5	_	
+7	1(disz)	_	,	5	nummod	
+8	kusz3	cubit	NN	5	appos	
+9	dagal	width	NN	8	_	
+10	1(disz)	_	_	0	nummod	
+11	kusz3	cubit	NN	5	appos	
+12	sukud	height	_	0	_	
+13	a-sza3	the volume	DT	16	det	
+14	7(disz)	_	:	5	nummod	
+15	1/2(disz)	_	CD	18	nummod	
+16	sar	sar	NN	5	appos	
+17	1(gesz2)	_	NN	24	nummod	
+18	ninda	ninda	NN	5	_	
+19	gid2	length	NN	18	_	
+20	1(disz)	_	,	18	nummod	
+21	kusz3	cubit	NN	18	appos	
+22	dagal	width	NN	21	_	
+23	2(disz)	_	_	0	nummod	
+24	kusz3	cubits	NNS	18	appos	
+25	sukud	height	DT	17	det	
+26	a-sza3	the volume	NN	18	appos	
+27	2(u)	_	:	28	nummod	
+28	sar	sar	NN	18	_	
+29	a-pi4-sal4	Apisal	JJ	30	amod	
+30	x	_	NN	28	dep	
+31	...	_	NN	28	dep	
+32	2(u)	_	_	0	nummod	
+33	...	_	_	0	dep	
+34	a-sza3	the volume	DT	35	det	
+35	...	the volume	NN	31	dep	
+36	1(u)	_	_	0	nummod	
+37	2(disz)	_	_	36	nummod	
+38	x	_	_	0	dep	
+39	...	_	_	0	dep	
+40	a	_	_	0	_	
+41	...	_	_	0	dep	
+42	a	_	_	0	_	
+43	...	_	_	0	dep	
+44	'.	_	_	0	_	
+45	...	_	_	0	dep	
+46	'.	_	_	0	_	
+47	n	n	CD	50	nummod	
+48	...	_	_	0	dep	
+49	'.	_	_	0	_	
+50	n	n	NN	115	_	
+51	...	_	_	0	dep	
+52	'.	_	NN	54	nmod:of	
+53	a2	_	CD	58	nummod	
+54	...-ta	from side	NN	50	nmod:from	
+55	'.	_	DT	56	det	
+56	5(u)	_	NN	64	nummod	
+57	5(disz)	_	:	28	nummod	
+58	ninda	ninda	NN	52	_	
+59	gid2	length	NN	58	_	
+60	1(disz)	_	_	0	nummod	
+61	kusz3	cubit	NN	58	appos	
+62	dagal	width	NN	61	_	
+63	1(disz)	_	_	0	nummod	
+64	kusz3	cubit	NN	58	appos	
+65	sukud	height	_	0	_	
+66	'.	the	DT	70	det	
+67	a-sza3	volume	NN	70	compound	
+68	4(disz)	_	.	70	nummod	
+69	1/2(disz)	_	_	68	nummod	
+70	sar	sar	NN	28	_	
+71	5(disz)	_	_	0	nummod	
+72	gin2	shekels	NNS	70	appos	
+73	'.	_	_	0	_	
+74	e	_	_	0	_	
+75	a-sza3	field	NN	76	nmod:in	
+76	pirig-tur-gin7-DU-sze3	For a levee in Pirigtur-gin-DU	NN	70	nmod:for	
+77	'.	_	.	78	_	
+78	szunigin	Total	NNP	75	_	
+79	8(gesz2)	_	_	0	nummod	
+80	5(u)	_	_	79	nummod	
+81	ninda	ninda	NN	78	_	
+82	gid2	length	NN	81	_	
+83	'.	_	_	0	_	
+84	szunigin	Total	NNP	78	_	
+85	1(gesz2)	_	_	0	nummod	
+86	5(u)	_	_	85	nummod	
+87	8(disz)	_	_	85	nummod	
+88	1/2(disz)	_	_	85	nummod	
+89	sar	sar	NN	78	_	
+90	kin	earthwork	NN	93	nmod:for	
+91	sahar	_	_	0	_	
+92	u3	and	CC	90	cc	
+93	u2-sag11	barges activity for reed bundle for	NN	89	_	
+94	'.	_	_	0	_	
+95	e	levee	NN	102	nsubjpass	
+96	a-sza3	field	NN	95	nmod:of	
+97	lugal-mu10-us2-sa2	The Lugal-mussa that	DT	95	det	
+98	gaba	_	_	0	_	
+99	a-gesztin-na-ka	A-getin field is in front	NN	95	acl:relcl	
+100	'.	_	.	102	_	
+101	e	has levee a	VBZ	102	aux	
+102	ki-sumun-na	with poor soil been measured up to plot	VBN	93	acl:relcl	
+103	gid2-da	_	:	28	_	
+104	'.	the	DT	105	det	
+105	ugula	foremen	NNS	28	_	
+106	sanga	chief	NN	110	amod	
+107	{d}dumu-zi	Dumuzi	NNP	110	nmod:of	
+108	u3	and	CC	110	cc	
+109	sanga	chief	NN	110	compound	
+110	{d}nin-DAR-a	Nin-DARa adminstrator administrator	NN	105	_	
+111	mu	Year	NN	1	_	
+112	gu-za	throne	NN	114	nsubjpass	
+113	{d}en-lil2-la2	Enlil	NNP	112	nmod:of	
+114	ba-dim2	was fashioned	VBN	0	root	
+115	 	_	_	0	_
+	
+

@@ -1,0 +1,37 @@
+# dev/P467836.atf
+						
+
+# tr.en: duck pigeon dove male piglet canebrake type for food of my queen duck pigeon slaughtered brought to palace of month th day passed booked out of Ur-Lugaledina month ki-siki-of-Ninazu year after Urbilum was destroyed
+1	1(disz)	_	,	2	nummod	
+2	uz-tur	duck	NN	0	root	
+3	1(disz)	_	,	2	nummod	
+4	ir7{muszen}	pigeon	NN	2	appos	
+5	1(disz)	_	,	6	nummod	
+6	tu-gur4{muszen}	dove	VBD	2	acl	
+7	1(disz)	_	,	6	nummod	
+8	szah2-NE-tur-nita2-gesz-gi	male piglet canebrake type	NN	6	conj	
+9	nig2-gu7	for food	NN	6	nmod:for	
+10	nin-ga2-sze3	my queen	NN	9	nmod:of	
+11	1(disz)	_	,	12	nummod	
+12	uz-tur	duck	NN	6	conj	
+13	1(disz)	_	,	12	nummod	
+14	ir7{muszen}	pigeon	NN	12	appos	
+15	ba-usz2	slaughtered	VBN	12	amod	
+16	e2-gal-la	brought	VBN	12	acl	
+17	ba-an-kux(KWU636)	to palace	NN	16	nmod:to	
+18	iti-ta	of month	NN	6	nmod:of	
+19	u4	th	DT	22	det	
+20	1(u)	_	:	6	nummod	
+21	7(disz)	_	_	20	nummod	
+22	ba-zal	day passed	NN	18	nmod:tmod	
+23	zi-ga	booked out	VBN	6	acl	
+24	ur-{d}lugal-edin-na	of Ur-Lugaledina	NNP	23	nmod:out.of	
+25	iti	month	NN	6	_	
+26	ki-siki	ki-siki-of-Ninazu	NN	25	_	
+27	{d}nin-a-zu	_	,	26	_	
+28	mu	year	NN	26	_	
+29	us2-sa	after	IN	28	nmod:after	
+30	ur-bi2-lum{ki}	Urbilum	NN	31	nsubjpass	
+31	ba-hul	was destroyed	VBN	26	acl
+	
+

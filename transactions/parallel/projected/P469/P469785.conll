@@ -1,0 +1,110 @@
+# train/P469785.atf
+						
+
+# tr.en: workdays harvested and sheaves piled up in Szulpae field in Nagatum field and in Egirgilu field workdays harvested and sheaves piled up in Audagula field in Audatur field and in Prince field workdays harvested and sheaves piled up in Oxen boot field in Ur-Ninti field and E-Ezina field workdays harvested and sheaves piled up in field Constructed Wall in Incantation priests field and in workdays harvested and sheaves piled up in field Cattle-herder-of-Nin-Arali and across from new field workdays irrigation work in Audagula field in Audatur field and in Prince field The foreman is Lu-Szara Sealed tablet by Daaga Year Simanum was destroyed Daaga scribe son of Urge-aga
+1	4(gesz2)	_	,	4	nummod	
+2	1(u)	_	_	1	nummod	
+3	6(disz)	_	_	1	nummod	
+4	gurusz	workdays	NNS	0	root	
+5	u4	_	_	0	_	
+6	1(disz)-sze3	_	_	0	nummod	
+7	gurx(|SZE.KIN|)-a	harvested and	VBN	4	acl	
+8	zar3	sheaves	VBZ	7	conj	
+9	tab-ba	piled up in	VBN	7	acl	
+10	a-sza3	field	NN	9	nmod:in	
+11	{d}szul-pa-e3	Szulpae	NNP	10	compound	
+12	a-sza3	field	NN	7	conj	
+13	na-ga-tum	Nagatum in	IN	12	nmod:in	
+14	u3	and	CC	7	cc	
+15	a-sza3	field	NN	7	conj	
+16	e2-gir-gi4-lu	in Egirgilu	IN	15	nmod:in	
+17	5(gesz2)	in Egirgilu	NNP	15	nummod	
+18	2(u)	_	,	20	nummod	
+19	5(disz)	_	_	18	nummod	
+20	gurusz	workdays	NNS	4	_	
+21	u4	_	_	0	_	
+22	1(disz)-sze3	_	_	0	nummod	
+23	gurx(|SZE.KIN|)-a	harvested and	VBN	20	appos	
+24	zar3	sheaves	VBZ	23	conj	
+25	tab-ba	piled up	VBN	23	acl	
+26	a-sza3	field	NN	25	nmod:in	
+27	a-u2-da-gu-la	in Audagula	IN	26	nmod:in	
+28	a-sza3	field	NN	20	nmod:in	
+29	a-u2-da-tur	Audatur in	IN	28	nmod:in	
+30	u3	and	CC	28	cc	
+31	a-sza3	field	NN	28	conj	
+32	nun-na	in Prince	IN	31	nmod:in	
+33	3(gesz2)	in Prince	NNP	31	nummod	
+34	1(u)	_	,	36	nummod	
+35	5(disz)	_	_	34	nummod	
+36	gurusz	workdays	NNS	4	_	
+37	u4	_	_	0	_	
+38	1(disz)-sze3	_	_	0	nummod	
+39	gurx(|SZE.KIN|)-a	harvested and	VBN	36	appos	
+40	zar3	sheaves	VBZ	39	conj	
+41	tab-ba	piled up in	VBN	39	acl	
+42	a-sza3	field	NN	36	nmod:in	
+43	gu4-suhub2	Oxen	NNP	44	compound	
+44	a-sza3	field	NN	41	nmod:in	
+45	ur-{d}nin-ti	boot	NN	44	compound	
+46	u3	_	.	4	_	
+47	a-sza3	field	NN	42	conj	
+48	e2-{d}ezina2	in Ur-Ninti and E-Ezina	IN	42	nmod:in	
+49	2(gesz2)	in Ur-Ninti and E-Ezina	NNP	42	nummod	
+50	2(u)	_	,	51	nummod	
+51	gurusz	workdays	NNS	4	_	
+52	u4	_	_	0	_	
+53	1(disz)-sze3	_	_	0	nummod	
+54	gurx(|SZE.KIN|)-a	harvested and	VBN	51	amod	
+55	zar3	sheaves	VBZ	54	conj	
+56	tab-ba	piled up in	VBN	54	acl	
+57	a-sza3	field	NN	58	compound	
+58	bad3-du3-a	in Constructed Wall	NNP	56	nmod:in	
+59	a-sza3	_	CD	67	nummod	
+60	iszib-e-ne	Incantation priests	NNP	62	compound	
+61	u3	_	_	0	_	
+62	a-sza3	field	NN	51	nmod:in	
+63	u2-du-lu2-saga	and in	CC	62	cc	
+64	1(gesz2)	and in	IN	67	nummod	
+65	1(u)	_	,	51	nummod	
+66	5(disz)	_	_	65	nummod	
+67	gurusz	workdays	NNS	62	conj	
+68	u4	_	_	0	_	
+69	1(disz)-sze3	_	_	0	nummod	
+70	gurx(|SZE.KIN|)-a	harvested and	VBN	51	amod	
+71	zar3	sheaves	VBZ	70	conj	
+72	tab-ba	piled up in	VBN	70	acl	
+73	a-sza3	field	NN	72	nmod:in	
+74	u2-du-{d}nin-a-ra-li	across from Cattle-herder-of-Nin-Arali	NNP	73	_	
+75	u3	and	CC	72	cc	
+76	gaba	_	.	4	_	
+77	a-sza3	field	NN	72	conj	
+78	gibil	new	JJ	77	amod	
+79	3(gesz2)	_	,	82	nummod	
+80	3(u)	_	_	79	nummod	
+81	5(disz)	_	_	79	nummod	
+82	gurusz	workdays	NNS	4	_	
+83	u4	_	_	0	_	
+84	1(disz)-sze3	_	_	0	nummod	
+85	a-da	irrigation work	NN	82	appos	
+86	gub-ba	_	.	4	_	
+87	a-sza3	field	NN	85	nmod:in	
+88	a-u2-da-gu-la	in Audagula	IN	87	nmod:in	
+89	a-sza3	field	NN	82	nmod:in	
+90	a-u2-da-tur	in Audatur	IN	89	nmod:in	
+91	u3	and	CC	89	cc	
+92	a-sza3	field	NN	89	conj	
+93	nun-na	in Prince	IN	92	nmod:in	
+94	ugula	foreman	NN	95	nsubj	
+95	lu2-{d}szara2	The is Lu-Szara	NNP	4	_	
+96	kiszib3	_	.	4	_	
+97	da-a-ga	Sealed tablet by Daaga	NN	95	_	
+98	mu	Year	NN	4	_	
+99	si-ma-num2{ki}	Simanum	NNP	100	nsubjpass	
+100	ba-hul	was destroyed	VBN	98	acl	
+101	da-a-ga	Daaga	NN	4	_	
+102	dub-sar	scribe	NN	101	conj	
+103	dumu	son	NN	101	appos	
+104	ur-gesz-sza3-ga	Urge-aga	NN	103	nmod:of
+	
+

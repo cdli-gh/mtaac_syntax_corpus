@@ -1,0 +1,30 @@
+# train/P127514.atf
+						
+
+# tr.en: grain-fed ram male suckling lamb slaughtered th day from Igi-Enlile Szulgi-irimu received month Gazelle feast year after high-priestess of Eridu was hired sheep
+1	1(disz)	_	,	2	nummod	
+2	udu	ram	NN	0	root	
+3	niga	grain-fed	JJ	2	amod	
+4	1(disz)	_	,	2	nummod	
+5	sila4	male lamb	NN	2	appos	
+6	ga	suckling	NN	5	compound	
+7	ba-usz2	slaughtered	VBN	2	acl	
+8	u4	th day	NN	7	nmod:tmod	
+9	1(u)	_	:	7	nummod	
+10	3(disz)-kam	_	_	9	nummod	
+11	ki	from	IN	13	nmod:from	
+12	igi-{d}en-lil2-sze3-ta	Igi-Enlile	JJ	13	amod	
+13	{d}szul-gi-iri-mu	Szulgi-irimu	NN	7	nmod:from	
+14	szu	_	:	7	_	
+15	ba-ti	received	VBD	13	acl	
+16	iti	month	NN	7	_	
+17	masz-da3-gu7	Gazelle feast	NN	16	_	
+18	mu	year	NN	17	_	
+19	us2-sa	after	IN	18	nmod:after	
+20	en	high-priestess	NN	22	nsubjpass	
+21	eridu{ki}	Eridu	NNP	20	nmod:of	
+22	ba-hun	was hired	VBN	17	acl	
+23	2(disz)	_	.	2	nummod	
+24	udu	sheep	NN	22	dobj
+	
+

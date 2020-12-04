@@ -1,0 +1,93 @@
+# test/P345963.atf
+						
+
+# tr.en: barley-fed Szimakian billy goat barley-fed female kid Enlil barley-fed Szimakian billy goat Ninlil the zabardab was requisitioner barley-fed male kid delivery of ellu-Dagan barley-fed long-fleeced ram nanny goat delivery of Ur-Suen son of king barley-fed female kid delivery of Utu-GIRgal for Euzga Dayani was requisitioner lamb Enlil lamb Ninlil delivery of Szedada temple administrator lamb Utu delivery of governor of Shuruppak Nane-GIRgal was requisitioner ox cow sheep goats provisions for kitchen female equid slaughtered for dogs Ilbani dog herder received withdrawn it is on th day Month Festival of Szulgi Year Kimash and Hurti were destroyed
+1	1(disz)	_	,	4	nummod	
+2	masz2-gal	_	CD	8	nummod	
+3	niga	barley-fed	JJ	4	amod	
+4	szimaszgi2	Szimakian billy goat	NN	0	root	
+5	1(disz)	_	,	4	nummod	
+6	{munus}asz2-gar3	female kid	JJ	8	amod	
+7	niga	barley-fed	JJ	8	amod	
+8	{d}en-lil2	Enlil	NNP	4	appos	
+9	1(disz)	_	_	0	nummod	
+10	masz2-gal	_	_	0	_	
+11	niga	barley-fed	JJ	13	amod	
+12	szimaszgi2	Szimakian billy goat	JJ	13	amod	
+13	{d}nin-lil2	Ninlil	NN	4	appos	
+14	zabar-dab5	the zabardab	NN	15	nsubj	
+15	maszkim	was requisitioner	NN	4	acl:relcl	
+16	1(disz)	_	,	20	nummod	
+17	masz2	male kid	NN	4	conj	
+18	niga	barley-fed	JJ	17	amod	
+19	mu-kux(DU)	delivery	NN	17	appos	
+20	s,e-lu-usz-{d}da-gan	ellu-Dagan	NNP	19	nmod:of	
+21	1(disz)	_	,	20	nummod	
+22	udu	_	_	0	_	
+23	a-lum	long-fleeced	JJ	28	amod	
+24	niga	barley-fed	JJ	28	amod	
+25	1(disz)	_	_	0	nummod	
+26	ud5	nanny	NN	27	compound	
+27	masz2	goat	NN	20	appos	
+28	nu2-a	ram	NN	20	appos	
+29	mu-kux(DU)	delivery	NN	20	appos	
+30	ur-{d}suen	Ur-Suen	NNP	29	nmod:of	
+31	dumu-lugal	son king	NN	20	appos	
+32	1(disz)	_	,	33	nummod	
+33	{munus}asz2-gar3	female kid	NN	39	nsubj	
+34	niga	barley-fed	JJ	33	amod	
+35	mu-kux(DU)	delivery	NN	33	appos	
+36	{d}utu-GIR2@g-gal	Utu-GIRgal	NNP	35	nmod:of	
+37	e2-uz-ga	for Euzga	NNP	33	nmod:for	
+38	da-a-a-ni	Dayani	NNP	33	appos	
+39	maszkim	was requisitioner	NN	4	parataxis	
+40	1(disz)	_	,	42	nummod	
+41	sila4	lamb	NN	42	compound	
+42	{d}en-lil2	Enlil	NNP	39	_	
+43	1(disz)	_	,	42	nummod	
+44	sila4	lamb	NN	45	compound	
+45	{d}nin-lil2	Ninlil	NN	42	appos	
+46	mu-kux(DU)	delivery	NN	42	appos	
+47	szesz-da-da	Szedada	NNP	46	nmod:of	
+48	sanga	temple administrator	NN	42	appos	
+49	1(disz)	_	,	51	nummod	
+50	sila4	lamb	NN	51	compound	
+51	{d}utu	Utu	NNP	56	nsubj	
+52	mu-kux(DU)	delivery	NN	51	appos	
+53	ensi2	governor	NN	52	nmod:of	
+54	szuruppak{ki}	Shuruppak	NNP	53	nmod:of	
+55	{d}nansze-GIR2@g-gal	Nane-GIRgal	NNP	51	appos	
+56	maszkim	was requisitioner	NN	42	_	
+57	1(disz)	_	,	58	nummod	
+58	gu4	ox	NN	56	_	
+59	1(disz)	_	CD	67	nummod	
+60	ab2	cow	NN	58	appos	
+61	3(disz)	_	_	0	nummod	
+62	udu	sheep	NN	58	appos	
+63	2(disz)	_	:	58	nummod	
+64	masz2	goats	NNS	67	compound	
+65	szu-gid2	_	CD	69	nummod	
+66	e2	_	_	0	_	
+67	muhaldim-sze3	provisions for kitchen	NNS	58	appos	
+68	1(disz)	_	,	72	nummod	
+69	dusu2-munus	female equid	JJ	58	_	
+70	ba-usz2	slaughtered	VBN	69	acl	
+71	mu	_	_	0	_	
+72	ur-ra-sze3	for dogs	NNS	69	nmod:for	
+73	dingir-ba-ni	Ilbani	NNP	72	conj	
+74	sipa	_	:	72	_	
+75	ur-ra-ke4	dog herder	NN	72	conj	
+76	szu	_	_	0	_	
+77	ba-ti	received	VBD	72	conj	
+78	zi-ga	withdrawn	VBN	72	conj	
+79	u4	it is on th day	NN	72	parataxis	
+80	2(u)	_	.	79	nummod	
+81	8(disz)-kam	_	_	80	nummod	
+82	iti	Month	NNP	79	appos	
+83	ezem-{d}szul-gi	Festival Szulgi	NNP	79	_	
+84	mu	Year	NN	79	_	
+85	ki-masz{ki}	Kimash	NNP	87	nsubjpass	
+86	hu-ur5-ti{ki}	and Hurti	CC	85	cc	
+87	ba-hul	were destroyed	VBN	79	parataxis
+	
+

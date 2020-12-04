@@ -1,0 +1,44 @@
+# train/P135143.atf
+						
+
+# tr.en: male laborer tablet-head male laborer labor male laborers labor shekels they are ox-drivers male laborers from month Festival of Szulgi to month Harvest the labor male laborer workdays of months barley rations added delivered Kuli accepted year En-unugal of Inanna in Uruk was hired
+1	1(disz)	_	:	3	nummod	
+2	gurusz	male	JJ	3	amod	
+3	sag-dub	laborer tablet-head	NN	0	root	
+4	1(disz)	_	:	5	nummod	
+5	gurusz	male laborer	NN	3	_	
+6	a2	labor	NN	5	appos	
+7	1/2(disz)	_	CD	5	nummod	
+8	2(disz)	_	:	3	nummod	
+9	gurusz	male laborers	NNS	7	_	
+10	a2	labor	NN	12	compound	
+11	1(u)	_	_	0	nummod	
+12	gin2	shekels	NNS	7	_	
+13	sza3-gu4-me	they are ox-drivers	NNS	3	parataxis	
+14	1(disz)	_	,	16	nummod	
+15	5/6(disz)	_	_	14	nummod	
+16	gurusz	male laborers	NNS	13	conj	
+17	iti	month	NN	16	nmod:from	
+18	ezem-{d}szul-gi-ta	from Festival Szulgi	IN	17	nmod:from	
+19	iti	month	NN	16	nmod:to	
+20	sze-sag11-ku5-sze3	to Harvest	TO	19	nmod:to	
+21	a2-bi	the labor	NN	13	_	
+22	5(gesz2)	_	,	25	nummod	
+23	3(u)	_	_	22	nummod	
+24	gurusz	male laborer	JJ	25	amod	
+25	u4	workdays	NNS	33	_	
+26	1(disz)-sze3	_	_	0	nummod	
+27	iti	months	NNS	25	nmod:of	
+28	6(disz)-kam	_	,	25	nummod	
+29	sze-ba	barley rations	NNS	25	appos	
+30	dah-hu-a	added	VBD	33	acl	
+31	de6-a	delivered	VBN	30	conj	
+32	ku-li	Kuli	NNP	33	nsubj	
+33	i3-dab5	accepted	VBD	21	acl	
+34	mu	year	NN	38	_	
+35	en-unu6-gal	En-unugal	JJ	38	nsubjpass	
+36	{d}inanna	Inanna	NNP	35	nmod:of	
+37	unu{ki}	in Uruk	NNP	35	nmod:in	
+38	ba-hun	was hired	VBN	3	parataxis
+	
+
