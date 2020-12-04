@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q000873 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000873.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE CF_MWE GW_MWE SENSE_MWE POS_MWE EPOS_MWE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}erec-ki-gal	{d}erec-ki-gal	1	N1=NAME	DN	0	_	
+2	nin	nin	lady	N1=STEM	N	1	appos	
+3	ki	ki	place	N1=STEM	N	1	appos	
+4	utu-cuc-ra	utu-cuc	sunset	N1=STEM.N5=GEN.N5=DAT-H	N	3	GEN	
+5	lu2-{d}utu	lu2-{d}utu	4	N1=NAME	PN	0	_	
+6	ensi2	ensi2	ruler	N1=STEM	N	5	appos	
+7	umma{ki}-ke4	umma{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	6	GEN	
+8	dumu	dumu	child	N1=STEM	N	13	ERG	
+9	{d}nin-isin2{sin2}-ka-ke4	{d}nin-isin2{sin2}	1	N1=NAME.N5=GEN.N5=ERG	DN	8	GEN	
+10	nam-til3-la-ni-ce3	nam-til3	life	N1=STEM.N3=3-SG-H-POSS.N5=TERM	N	13	TERM	
+11	ki	ki	place	N1=STEM	N	13	ABS	
+12	{d}utu	{d}utu	1	N1=NAME.N5=ABS	DN	11	appos	
+13	e3	e3	leave	NV2=STEM	V/i	18	L2-NH	
+14	ki	ki	place	N1=STEM	N	16	ABS	
+15	nam	nam	fate	N1=STEM.N5=ABS	N	14	appos	
+16	tar-re-da	tar	cut	NV2=STEM.NV3=PF.N5=L2-NH	V/t	13	appos	
+17	e2	e2	house	N=STEM.N5=ABS	N	18	STEM.ABS	
+18	mu-na-du3	du3	build	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+19	gaba-ba	gaba	chest	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	N	21	L2-NH	
+20	id5	id5	river	N1=STEM.N5=ABS	N	21	ABS	
+21	bi2-in-gen6	gen6	establish	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
+22	mu-be2	mu	name	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	N	24	L3-NH	
+23	pa	pa	branch	N1=STEM.N5=ABS	N	24	ABS	
+24	bi2-in-e3	e3	leave	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	

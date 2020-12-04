@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q000884 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000884.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagac II 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE CF_MWE GW_MWE SENSE_MWE POS_MWE EPOS_MWE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}nin-jir2-su	{d}nin-jir2-su	1	N1=NAME	DN	13	DAT-H	
+2	ur-saj	ur-saj	hero	N1=STEM	N	1	appos	
+3	kalag-ga	kalag	strong	NV2=STEM.NV4=SUB	V/i	2	amod	
+4	{d}en-lil2-la2-ra	{d}en-lil2	1	N1=NAME.N5=GEN.N5=DAT-H	DN	2	GEN	
+5	ur-{d}ba-u2	ur-{d}ba-u2	1	N1=NAME	RN	13	ERG	
+6	ensi2	ensi2	ruler	N1=STEM	N	5	appos	
+7	lagac{ki}	lagac{ki}	1	N1=NAME.N5=GEN	SN	6	GEN	
+8	dumu	dumu	child	N1=STEM	N	5	appos	
+9	tud-da	tud	bear	NV2=STEM.NV4=SUB	V/t	8	amod	
+10	{d}nin-a2-gal-ka-ke4	{d}nin-a2-gal	1	N1=NAME.N5=GEN.N5=ERG	DN	8	GEN	
+11	nij2-du7-e	nij2-du7	appropriate thing	N1=STEM.N5=L3-NH	N	13	L3-NH	
+12	pa	pa	branch	N1=STEM.N5=ABS	N	13	ABS	
+13	mu-na-e3	e3	leave	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
+14	e2-ninnu-anzud2{mucen}-babbar2-ra-ni	e2-ninnu-anzud2{mucen}-babbar2	1	N1=NAME.N3=3-SG-H-POSS.N5=ABS	TN	15	ABS	
+15	mu-na-du3	du3	build	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+16	ki-be2	ki	place	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	N	17	L3-NH	
+17	mu-na-gi4	gi4	turn	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
