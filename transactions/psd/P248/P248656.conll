@@ -1,0 +1,73 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P248/P248656.conll #
+#########################################################################################
+
+#new_text=P248656	?	?	?	?	B-COUNT	l	1100	"dry	*	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+na-ap-ta2-num2		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D		(PRODUCT_NAME (word *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *)))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+igi	igi[eye][-ø]	N	N	D		(UNKNOWN (word *))
+lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	D		(JOBNAME (word *))
+de6-a	de[bring]-a	V	NF.V.PT	D		(UNKNOWN (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ki-sag-tum-ma{ki}		SN	SN	POS		(CITY (word *))
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(PN (word *))
+szu-esz18-dar	Szu'eszdar[1][-ak]	PN	PN	D		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))))
+e2-gal-la-da		N	N.GEN	Iabcdef		(UNKNOWN (word *))
+kid-ru-um		N	N	Ia		(UNKNOWN (word *))
+kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+la-gi-ib		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+zi-gu5-um-ma		N	N.GEN.ABS	Iabcde		(UNKNOWN (word *))
+ur-{d}nin-gubalag		PN	PN	Iabcdefgh		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOBNAME (word *))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))))
+

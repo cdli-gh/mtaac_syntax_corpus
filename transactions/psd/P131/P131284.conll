@@ -1,0 +1,50 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P131/P131284.conll #
+##############################################################################################
+
+#new_text=P131284
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nansze-me		DN	DN.GEN.DAT-H	Iabcdefg		(GOD|GOD_NAME (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+lugal-iri-da	Lugalirida[1][-e]	PN	PN.ERG	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))))
+nam-ha-ni-me		N	N	POS		(UNKNOWN (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D		(CITY (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}dumu-zi-me		DN	DN	POS		(PURPOSE (GOD (word *)))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))))
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D		(AGENT (PERSON (PN (word *))))))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+erin2	erin[people]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *)))))
+{d}szul-gi-me		DN	DN	POS		(PURPOSE (GOD (word *)))
+nam-mah	Nammah[1]	PN	PN	D		(AGENT (PERSON (PN (word *))))
+ba-zi-ga-a		PN	PN.GEN.GEN.L1	Iabcdefg		(AGENT (PERSON (PN (word *))))
+ur-{d}nin-gir2-su		PN	PN	D		(AGENT (PERSON (PN (word *)))))
+igi	igi[eye][-ø]	N	N	D		(UNKNOWN (word *))
+nam-mah-sze3		N	N	POS		(UNKNOWN (word *))
+bi2-in-du11	b-i-n-dug[speak][-ø]	PN	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	D		(PN (word *))))
+

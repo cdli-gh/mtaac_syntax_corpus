@@ -1,0 +1,40 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P139/P139274.conll #
+##############################################################################################
+
+#new_text=P139274
+x	_[_]	N	N	D		(DOC (FRAG (UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+HI				POS		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gesz-gid2-da		N	N	POS		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+NI		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ga	ga[milk]	N	N	D		(PRODUCT_NAME (word *)))
+...	_[_]	PN	N	D		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+SAR				POS		(UNKNOWN (word *))
+...-ka-ke4		DN	DN	POS		(GOD|GOD_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+gu-za	guza[chair][-ø]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+mah	mah[great][-ø][-ø]	V	NF.V	D		(UNKNOWN (word *))
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D		(GOD|GOD_NAME (word *))
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

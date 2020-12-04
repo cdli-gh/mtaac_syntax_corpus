@@ -1,0 +1,33 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P407/P407138.conll #
+#########################################################################################
+
+#new_text=P407138
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+{d}en-lil2	Enlil[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+{d}nin-lil2	Ninlil[1][-ra]	DN	DN	D		(PURPOSE (GOD (word *))))
+ku6-da		N	N	Ia		(UNKNOWN (word *))
+kux(KWU147)-ra	kur[enter]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+hi-ir-zum		PN	PN	POS		(PN (word *))
+sagi	sagi[cup_bearer][-ø]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *)))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+bala	bala[turn][-'a]	N	N.L1	D		(BALA (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+na-sa6-ta	Nasa[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))))
+

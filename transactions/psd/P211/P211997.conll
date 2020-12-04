@@ -1,0 +1,46 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P211/P211997.conll #
+#########################################################################################
+
+#new_text=P211997
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gi}si-ig-da		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+esir2	esir[bitumen]	N	N	D		(PRODUCT_NAME (word *)))
+su-ba	su[body]-bi-'a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}ma-sa2-ab		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+esir2	esir[bitumen]	N	N	D		(PRODUCT_NAME (word *))))
+su-ba	su[body]-bi-'a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+{gi}ma-sa2-ab		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+EN		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+nig2		N	N	D		(UNKNOWN (word *))
+siskur2-ra		N	N.GEN.3-SG-H-POSS.L1	Iabcdefgh		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kid	kid[mat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	D		(PN (word *))
+{d}utu-GIR2@g-gal	UtuGIRgal[1][-ak]	PN	PN	D		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D		(UNKNOWN (word *))
+ku3-ga-ni	Kugani[1]	PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+bala	bala[turn][-'a]	N	N.L1	D		(BALA (word *))
+dub-sag		N	N	Ia		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+ku-li	Kuli[1]	PN	PN	D		(PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ku3-ga-ni	Kugani[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D		(PN (word *))
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D		(PN (word *))))
+

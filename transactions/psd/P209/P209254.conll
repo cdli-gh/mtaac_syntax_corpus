@@ -1,0 +1,674 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P209/P209254.conll #
+##############################################################################################
+
+#new_text=P209254
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))
+mun	mun[salt]	N	N	D		(PRODUCT_NAME (word *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lu2-{d}szara2-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+dam-gar3-e-ne-ta		PN	PN	POS		(PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+zu2-lum	zulum[date]	N	N	D		(UNKNOWN (word *)))
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+i3-nun	inun[ghee]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+gesztin	gesztin[vine]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+{gesz}haszhur		N	N	Ia		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+{gesz}pesz3	pesz[fig]	N	N	D		(PRODUCT_NAME (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ku3-{d}nin-ur4-ra-ta		PN	PN.GEN.ABL	Iabcdef		(PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+esza	esza[flour]	N	N	D		(PRODUCT_NAME (word *))
+zabala{ki}		SN	SN.GEN.L1	Iabcdefgh		(CITY|NATIONALITY (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+du-du-ta		V	V	POS		(UNKNOWN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *)))
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *))))
+kusz-bi-sze3		V	NF.V.SUB.3-SG-NH-POSS.TERM	Iabcde		(UNKNOWN (word *))
+ze-ra		V	V	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+ugula-iri-ta		N	N	POS		(UNKNOWN (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *))))
+kusz-bi-sze3		V	NF.V.SUB.3-SG-NH-POSS.TERM	Iabcde		(UNKNOWN (word *))
+ze-ra		V	V	POS		(UNKNOWN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *))))
+kusz-bi-sze3		V	NF.V.SUB.3-SG-NH-POSS.TERM	Iabcde		(UNKNOWN (word *))
+ze-ra		V	V	POS		(UNKNOWN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *))))
+kusz-bi-sze3		V	NF.V.SUB.3-SG-NH-POSS.TERM	Iabcde		(UNKNOWN (word *))
+ze-ra		V	V	POS		(UNKNOWN (word *))
+ur-{d}nin-su		PN	PN	Iabcde		(PN (word *))
+na-gada	nagada[herdsman][-ak]	N	N.GEN	D		(UNKNOWN (word *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *))))
+kusz-bi-sze3		V	NF.V.SUB.3-SG-NH-POSS.TERM	Iabcde		(UNKNOWN (word *))
+ze-ra		V	V	POS		(UNKNOWN (word *))
+lu2-eb-gal	Lu'ebgal[1]	PN	PN	D		(PN (word *))
+na-gada	nagada[herdsman][-ak]	N	N.GEN	D		(UNKNOWN (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *))))
+kusz-bi-sze3		V	NF.V.SUB.3-SG-NH-POSS.TERM	Iabcde		(UNKNOWN (word *))
+ze-ra		V	V	POS		(UNKNOWN (word *))
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D		(PN (word *))
+na-gada	nagada[herdsman][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lu2-x-ta		PN	PN.GEN.ABL	Iabcdef		(PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+sa10-am3	sa[pay_for][-a]-am	N	NF.V.PT.COP-3-SG	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lu2-...-ta	_[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))))
+ki	ki[place]	N	N	D		(FRAG (KI (word *))
+ku-li-ta		PN	PN	Iabcdefgh		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ma-na	mana[unit]	N	N	D		(UNIT (word *))
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+masz	masz[interest]	N	N	D		(PRODUCT_NAME (word *))
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D		(PRODUCT_NAME (word *))))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-{d}szul-gi-ra-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+masz	masz[interest]	N	N	D		(PRODUCT_NAME (word *))
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D		(PRODUCT_NAME (word *))))
+esz3	esz[shrine]	N	N	D		(UNKNOWN (word *))
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lugal-nesag-e-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PERSON (PN (word *))))
+ku3	kug[silver]	N	N	D		(PRODUCT_NAME (word *))
+masz	masz[interest]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D		(PRODUCT_NAME (word *)))
+...	_[_]	PN	N	D		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lu2-{d}szul-gi-ra-ta		PN	PN.GEN.ABL	Iabcdef		(PERSON (PN (word *))))
+...	_[_]	PN	N	D		(PN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nam-enku		N	N.GEN	Iabcde		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-{d}utu	Urutu[1]	PN	PN	D		(PERSON (PN (word *))))
+enku-ta		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+a-lu5-lu5	Alulu[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D		(PN (word *))
+nu-{gesz}kiri6		N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lu2-{d}nin-ur4-ra	Luninura[1][-ak]	PN	PN.GEN	D		(PN (word *))
+nu-{gesz}kiri6		N	N	D	B-COM	(PRODUCT_NAME (COM *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	PN.GEN.DAT-H	D		(PN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-{d}a-szar2		PN	PN	Ia		(PN (word *))
+nu-{gesz}kiri6		N	N	D	B-COM	(PRODUCT_NAME (COM *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+{d}szara2-zi-da		PN	PN.GEN.ABS	Iab		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+i3-gara2	igara[dairy][-ak][-ra]	N	N.GEN.DAT-H	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+al-la	Alla[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-ur		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+a2-nin-ga2-ta		N	N	POS		(UNKNOWN (word *))
+gudu4	gudug[priest]	N	N	D		(JOB (JOBNAME (word *))
+{d}gu-la	Gula[1][-ak][-ra]	DN	DN	D		(GOD (word *)))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nam-DU		V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	Iabcdefghi		(UNKNOWN (word *))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+nig2-dab5-ba		N	N	POS		(UNKNOWN (word *))
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D		(UNKNOWN (word *))
+sanga-ne		V	V	POS		(UNKNOWN (word *))
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+guru7	guru[grain_heap]	N	N	D		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D		(PN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+USZ		PN	PN	POS		(PN (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-nam-ha-ni		PN	PN.ERG	Iabcdefgh		(PERSON (PN (word *))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+x-{d}nin-ur4-ra		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+igi	igi[eye][-ø]	N	N	D		(UNKNOWN (word *)))
+6(disz)-gal2		NU	NU.ABS	Iab	B-COUNT	(FRAG (NUMBER (COUNT *))
+sa10-am3	sa[pay_for][-a]-am	N	NF.V.PT.COP-3-SG	D		(UNKNOWN (word *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+lugal-nesag-e-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ma-na	mana[unit]	N	N	D		(UNIT (word *))
+ku3-babbar	kugbabbar[silver]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	D		(JOBNAME (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+e2-gal-e-si-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+e2-lu2-bi-su2		PN	PN	Iabc		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+la-ni-mu	Lanimu[1]	PN	PN	D		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+gur4-za-an		PN	PN	POS		(PN (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-an-zi-za		PN	PN	Iabcde		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-dun	Urdun[1]	PN	PN	D		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+pa3-da	Pada[1]	PN	NF.V.SUB	D		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lu2-{d}nanna	Lunanna[1]	PN	PN	D		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D		(PN (word *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ba-zi-ge		PN	PN.GEN.DAT-H	Iabcdefg		(PN (word *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+iri-bar-re	Iribare[1]	PN	PN	D		(PN (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+igi-sa6-sa6	Igisasa[1]	PN	PN	D		(PN (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lugal-hi-li	Lugalhili[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-{d}utu-me-esz2		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D		(PN (word *))
+tug2-du8		N	N.ABS	Iabcdef		(UNKNOWN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-bad3	Lugalbad[1][-ra]	PN	PN.DAT-H	D		(PN (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+im-ta-e3-a(ZAH3)-ta		PN	PN	POS		(PN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+puzur4-e2-a		PN	PN	Ia		(PN (word *))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+x-UD		PN	PN	Iabcdefgh		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-du	Adu[1][-ak]	PN	PN.GEN	D		(PN (word *)))
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+udu	udu[sheep]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *)))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-{d}szara2	Urszara[1]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+gu2-u3-lu-ta		PN	PN	POS		(PERSON (PN (word *)))))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))))
+gul-la		V	V	POS		(UNKNOWN (word *))
+simug-ne		N	N.GEN.PL	Iabcdefg		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ha-lu5-lu5-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *)))))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+la2-ia3-su-ga		PN	PN	POS		(PN (word *))
+lugal-{d}isztaran		PN	PN	Iabcde		(PN (word *))
+gudu4	gudug[priest]	N	N	D		(JOBNAME (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}nun-gal-ta		PN	PN.DAT-H	Iab		(PN (word *)))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))))
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lu2-{d}ha-ia3-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PN (word *))
+gudu4	gudug[priest]	N	N	D		(JOBNAME (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+szesz-a-ni-ta	Szeszani[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PN (word *))
+ugula-ta		PN	PN.GEN.ABL	Iabcdefg		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+be-li2		PN	PN	Iabcde		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ARAD2-mu-ta		PN	PN.GEN.ABL	Iab		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+giri3-ni	Girini[1][-ra]	PN	PN.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+...	_[_]	PN	N	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+a2-ni-mu		PN	PN.DAT-H	Iab		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-gu2-edin-na-ta		PN	PN.GEN.ABL	Iab		(PN (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lu2-{d}nin-ur4-ra	Luninura[1][-ak]	PN	PN.GEN	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+NE-NE-...				POS		(UNKNOWN (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+inim-ma-ni-zi	Inimanizi[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ba-a-mu		PN	PN.GEN.ABS	D		(PN (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+a-ba-ki		PN	PN	Iabcde		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+pa	pa[branch]	N	N.ABS	D		(UNKNOWN (word *))
+muszen		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+kikken2		N	N.GEN.GEN.ABS	D		(UNKNOWN (word *))
+igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D		(PN (word *))
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+x-...	_[_]	PN	PN	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+a2-ni-mu		PN	PN.DAT-H	Iab		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+al-ba-ni-du11		PN	PN	Iabcdefgh		(PN (word *))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+a-a-kal-la	Ayakala[1]	PN	PN	D		(PN (word *))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+giri3-mu-...		PN	PN.DAT-H	Iab		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+lugal-x-szu-x		PN	PN.DAT-H	Ia		(PN (word *))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+pa	pa[branch]	N	N.ABS	D		(UNKNOWN (word *))
+muszen		N	N	Ia		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+enku	enkud[tax_collector][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+agar4-nigin2-e-ne-ta		N	N.GEN.PL.ABL	Iabcde		(UNKNOWN (word *))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+dam	dam[spouse]	N	N	D		(FILIATION_EXP (word *))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	D		(PN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME (word *))))
+na4-bi		N	N	POS		(UNKNOWN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	D		(UNKNOWN (word *))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+har		N	N	POS		(UNKNOWN (word *))
+giri17		N	N	Ia		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+har		N	N	POS		(UNKNOWN (word *))
+tur-tur		V	V	POS		(UNKNOWN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3-sig17	kugsig[gold]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+husz-a		V	V	POS		(UNKNOWN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+masz2-da-re6-a	maszdarea[payment]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+ezem	ezem[festival]	N	N	D		(UNKNOWN (word *)))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3-sig17	kugsig[gold]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+husz-a		V	V	POS		(UNKNOWN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+ku3-bi	kug[silver]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+nig2-buru14-da		N	N	Ia		(UNKNOWN (word *))
+ku4-ra	kur[enter]-a	V	NF.V.PT	D		(UNKNOWN (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	D		(CITY|NATIONALITY (word *))
+ku3	kug[silver]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+szu-nir	szunir[emblem][-sze]	N	N	D		(UNKNOWN (word *))
+gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+nig2-dab5	nigdab[requisitions]	N	N	D		(UNKNOWN (word *))
+za3-mu-ka	zagmuk[new_year][-ak]	N	N.GEN	D		(UNKNOWN (word *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ugu2	ugu[capital]	N	N	D		(UNKNOWN (word *))
+dam-gar3-ne		V	V	POS		(UNKNOWN (word *))
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D		(UNKNOWN (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+igi-kar2		N	N	POS		(UNKNOWN (word *))
+a-a-kal-la	Ayakala[1]	PN	PN	D		(PERSON (PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOB (JOBNAME (word *))))
+ba-usz2-a		V	V	POS		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D		(CITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ba-ba-ti	Babati[1][-ak][-ø]	PN	PN	D		(PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+nig2-ka9-ak	nigSZID[account]	N	N	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D		(UNKNOWN (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gaba-ri	gabari[copy]	N	N	D		(GABARI (word *)))))
+

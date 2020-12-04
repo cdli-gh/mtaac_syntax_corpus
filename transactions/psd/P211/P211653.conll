@@ -1,0 +1,30 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P211/P211653.conll #
+#########################################################################################
+
+#new_text=P211653
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+masz2-gal	maszgal[billy_goat]	N	N	D		(PRODUCT_NAME (word *))
+bala	bala[turn][-'a]	N	N.L1	D		(BALA (word *))
+ur-{d}nin-kur-ra		PN	PN	Iabcde		(PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+szuruppak{ki}-ka		PN	PN	POS		(PN (word *))
+ba-an-zi		PN	PN	Iabcdefgh		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+du11-ga-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+lu2-sa6-ga		PN	PN	Iabcde		(PN (word *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))))
+

@@ -1,0 +1,53 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P113/P113784.conll #
+##############################################################################################
+
+#new_text=P113784
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+a-sza3-ge	aszag[field]-e	N	N.L3-NH	D		(PRODUCT (PRODUCT_NAME (word *))
+a	a[water][-ø]	N	N.ABS	D	B-COM	(PRODUCT_NAME (COM *))))
+du11-ga	dug[irrigate]-a	V	PN	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{d}szul-pa-e3		FN	FN	POS		(CITY (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+e2-gir-gi4-lu		FN	FN	POS		(CITY (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+du6-ku3-sig17		N	N	POS		(UNKNOWN (word *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+kun-zi-da-a		N	N	POS		(UNKNOWN (word *))
+gi	gi[reed][-ø]	N	N	D		(PRODUCT_NAME (word *))
+ze2-a	ze[cut]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+da-a-ga		PN	PN	Ia		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PN (word *)))))
+

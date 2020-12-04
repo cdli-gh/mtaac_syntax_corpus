@@ -1,0 +1,42 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P122/P122923.conll #
+##############################################################################################
+
+#new_text=P122923
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gazi	gazi[condiment]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	D		(PN (word *))
+ensi2-ka-ta	ensik[ruler]-ak-ta	N	N.GEN.ABL	D		(JOBNAME (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+bil2		N	N	POS		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+na4-ka		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+sze-gin2	szegin[paint]	N	N	D		(UNKNOWN (word *))
+e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	D		(PN (word *))
+lu2-kal-la-ta	Lukala[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}dusu		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ga	ga[milk]	N	N	D		(PRODUCT_NAME (word *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lu2-{d}szul-pa-e3-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+da-a-gi4	Dayagi[1][-ak]	PN	PN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+TUM-x				POS		(UNKNOWN (word *))
+gar3		N	N.ABS	Iabcdefgh		(UNKNOWN (word *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))
+um{ki}		GN	GN	POS		(CITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+da-a-gi4	Dayagi[1][-ak]	PN	PN	D		(PERSON (PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOB (JOBNAME (word *))))))
+

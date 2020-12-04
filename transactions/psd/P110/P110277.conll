@@ -1,0 +1,485 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P110/P110277.conll #
+#########################################################################################
+
+#new_text=P110277
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gur-ta	gur[unit]-ta	PN	N.ABL	D		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2-na	erin[people]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+sar-me		V	V	POS		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula-gesz2-da	Ugulageszda[1][-ak][-e]	N	PN.GEN.ERG	D		(UNKNOWN (word *))
+kas4-me		N	N.3-SG-NH-POSS.ABS.COP-3-PL	Iabcdef		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula-gesz2-da	Ugulageszda[1][-ak][-e]	N	PN.GEN.ERG	D		(UNKNOWN (word *))
+gu-za-la2-me		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D		(PURPOSE (GOD (word *))))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+gur-ta	gur[unit]-ta	PN	N.ABL	D		(PN (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2-na	erin[people]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*))
+ugula-gesz2-da	Ugulageszda[1][-ak][-e]	N	PN.GEN.ERG	D		(UNKNOWN (word *))
+kas4-me		N	N.3-SG-NH-POSS.ABS.COP-3-PL	Iabcdef		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*))
+ugula-gesz2-da	Ugulageszda[1][-ak][-e]	N	PN.GEN.ERG	D		(UNKNOWN (word *))
+gu-za-la2-me		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}...	_[1][-'a]	MN	DN.GEN	D		(MONTH_NAME (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+sanga	sagga[temple_administrator]	N	N	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2-na	erin[people]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}nin-mar{ki}		DN	DN	D		(PURPOSE (GOD (word *))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *)))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2-na	erin[people]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}ig-alim		DN	DN	D		(GOD|GOD_NAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2-na	erin[people]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal-siki-su3		PN	PN.DAT-H	Iab		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ur-szu-ga-lam-ma		N	PN.GEN.ABS	D		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szul-gi	Szulgir[1]	RN	RN	D		(PN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+apin	apin[plow]	N	N	D		(UNKNOWN (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+($		FN	FN	POS		(CITY (word *))
+blank		N	N	Ia		(UNKNOWN (word *))
+space		N	N	Ia		(UNKNOWN (word *))
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}...	_[1][-'a]	MN	DN.GEN	D		(MONTH_NAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+nam-ha-ni	Namhani[1]	N	PN	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sza13-dub-ba	bisagdubak[archivist]	N	N	D		(JOBNAME (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+gu4-apin		N	N	Ia		(UNKNOWN (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szar2-ra-ab-du	szarrabdu[administrator][-ak]	N	N.GEN	D		(JOBNAME (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+sar	sar[unit]	N	N	D		(UNIT (word *))))
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)-ta		NU	NU.ABL	Iab	I-COUNT	*))
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+uru11{ki}		SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+guru7	guru[grain_heap]	N	N	D	I-COUNT	*
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))))
+ra		V	V	POS		(UNKNOWN (word *))
+sanga	sagga[temple_administrator]	N	N	D		(UNKNOWN (word *))
+szabra-ne		PN	PN	POS		(PN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))))
+

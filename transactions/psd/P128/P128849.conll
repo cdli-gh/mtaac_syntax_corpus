@@ -1,0 +1,27 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128849.conll #
+#########################################################################################
+
+#new_text=P128849
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+masz2-gal	maszgal[billy_goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-dara4		N	N	POS		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ud5	uzud[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ma2-gan		GN	GN.ABS	D		(CITY|NATIONALITY (word *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D		(DEAD (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+u2-ta-mi-szar-ra-am-ta		PN	PN.GEN.ABL	Iab		(AGENT (PERSON (PN (word *))))
+{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	PN.ERG	D		(AGENT (PERSON (PN (word *)))))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D		(CITY (word *))))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))))
+

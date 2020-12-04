@@ -1,0 +1,44 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P324/P324485.conll #
+#########################################################################################
+
+#new_text=P324485
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*))
+zu2-lum	zulum[date]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+u4-hi-in		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+pesz-ga		N	N.GEN.TERM	Iabcde		(UNKNOWN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+a2-an-zu2-lum		PN	PN	POS		(PN (word *))
+kab2		N	N	Ia		(UNKNOWN (word *))
+du11-ga	dug[irrigate]-a	V	PN	D		(UNKNOWN (word *))
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+esz18-dar-mi		PN	PN.DAT-H	Iab		(PN (word *))
+dumu-munus	dumumunus[daughter]	N	N	D		(FILIATION_EXP (word *))
+szu-kab-ta2		PN	PN	D		(PN (word *))
+{d}iszkur-illat		PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+gar-sza-an-na{ki}		SN	SN.GEN	Ia		(CITY|NATIONALITY (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+e2-a-szar		PN	PN	Ia		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ki-siki		N	N	POS		(UNKNOWN (word *))
+{d}nin-a-zu	Ninazu[1][-ra]	DN	DN	D		(GOD|GOD_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D		(CITY|NATIONALITY (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+gaba-ri	gabari[copy]	N	N	D		(GABARI (word *))))
+

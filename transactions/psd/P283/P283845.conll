@@ -1,0 +1,28 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P283/P283845.conll #
+##############################################################################################
+
+#new_text=P283845
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(AGENT (PERSON (PN (word *)))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	D		(UNKNOWN (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+ur-{d}nin-gir2-su-ke4		PN	PN	Iabcdefgh		(PN (word *))
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D		(PN (word *))
+in-da-tuku		V	V	POS		(UNKNOWN (word *)))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3	kug[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+a-ga-ARAD2-sze3		PN	PN.GEN.TERM	Iabcdef		(PERSON (PN (word *)))))))
+

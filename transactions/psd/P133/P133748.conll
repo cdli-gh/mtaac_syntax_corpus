@@ -1,0 +1,35 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P133/P133748.conll #
+#########################################################################################
+
+#new_text=P133748
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+KA-a-du		FN	FN	POS		(CITY (word *)))
+1(iku)	1(iku)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gurusz-bi	gurusz[male]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D	B-COUNT	(NUMBER (COUNT *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(AGENT (PERSON (PN (word *))))))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*))
+nu-{gesz}kiri6		N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+he2-dab5	hedab[worker]	V	N.DAT-H	D		(UNKNOWN (word *))
+libir		V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcdefghi		(UNKNOWN (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*))
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+dah-hu		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+he2-dab5	hedab[worker]	V	N.DAT-H	D		(UNKNOWN (word *))
+ur-...	_[1][-ak]	PN	PN.GEN.ABS	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-sur-ra{ki}	Kisura[border][-'a]	GN	N.L1	D		(CITY (word *)))))
+

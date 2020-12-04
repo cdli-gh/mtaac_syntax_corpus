@@ -1,0 +1,37 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P114/P114605.conll #
+#########################################################################################
+
+#new_text=P114605
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME (word *)))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+mug	mug[inferior_wool]	N	N	D		(PRODUCT_NAME (word *))))
+tug2-ba		N	N	Ia		(UNKNOWN (word *))
+he2-dab5-sze3		N	N.COM.GEN.ABS	Iabcdefg		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+e2-i7-lu2-ru-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *))))
+lu2-{d}suen	Lusuen[1]	PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D		(GOD (word *))
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME (word *)))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+mud		V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	Iabcdef		(UNKNOWN (word *))
+tug2-ba		N	N	Ia		(UNKNOWN (word *))
+he2-dab5-sze3		N	N.COM.GEN.ABS	Iabcdefg		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+e2-i7-lu2-ru-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *))))))
+

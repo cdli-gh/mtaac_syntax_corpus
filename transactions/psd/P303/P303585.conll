@@ -1,0 +1,27 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P303/P303585.conll #
+##############################################################################################
+
+#new_text=P303585
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+ab2-mah2	abmah[mature_cow]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2	ab[cow][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ba-ri-ri		V	NF.V.PT.GEN	Iabcdef		(UNKNOWN (word *))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+e2-a	e[house][-ak]-'a	GN	N.L1	D		(CITY (word *))
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D		(PURPOSE (GOD (word *))
+unu3		GN	GN	POS		(CITY (word *)))
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D		(PN (word *))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY (word *)))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

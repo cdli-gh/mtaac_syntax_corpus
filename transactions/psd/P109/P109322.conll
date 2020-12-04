@@ -1,0 +1,29 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P109/P109322.conll #
+##############################################################################################
+
+#new_text=P109322
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *))
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D		(PRODUCT_PARAM (word *)))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+ta2-si-il{ki}		GN	GN	POS		(CITY|NATIONALITY (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+masz-kan2	Maszkan[1]	N	SN	D		(UNKNOWN (word *))
+szar-ru-um{ki}		SN	SN	POS		(CITY|NATIONALITY (word *))
+szu-szum2-ma	szuszuma[consignment][-ak]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+si-im-da-ni		V	V	POS		(UNKNOWN (word *))))
+

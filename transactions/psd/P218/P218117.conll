@@ -1,0 +1,53 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P218/P218117.conll #
+##############################################################################################
+
+#new_text=P218117
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+ga	ga[milk]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gal	gal[big][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+du3-muru13		V	V	POS		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}epir		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+pisan	bisag[basket]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+tab-ba	tab[grasp]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+pisan	bisag[basket]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+bulug4-ga		V	V	POS		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+pisan	bisag[basket]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	B-COM	(PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+pisan	bisag[basket]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+nu-su2-hu-um		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+tab-ba	tab[grasp]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gada	gada[flax]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+a-tu	Atu[1][-ak]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))))
+

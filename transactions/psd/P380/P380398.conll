@@ -1,0 +1,134 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P380/P380398.conll #
+#########################################################################################
+
+#new_text=P380398
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+dab5-ba-ne		V	NF.V.F.DAT-NH	Iabcdefgh		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ugula-bi-sze3		N	N	POS		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+a-tu-kal-la		PN	PN.GEN.GEN	Iabcdef		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ka3-li2		PN	PN	POS		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+muszen-du3-me		N	N.ABS.COP-3-PL	Iabcde		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+a-tu	Atu[1][-ak]	PN	PN	D		(PERSON (PN (word *))))
+ugula	ugula[overseer][-ø]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-{d}bil3		PN	PN.GEN	Iab		(PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ur-tur-tur		PN	PN	Ia		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D		(PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+numun	numun[seed]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PERSON (PN (word *)))))
+sanga	sagga[temple_administrator]	N	N	D		(UNKNOWN (word *))
+{d}nin-gir2-su-sze3		DN	DN.GEN.GEN.TERM	Iabcdefg		(GOD (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+lugal-ti-ra-asz2		PN	PN	POS		(PERSON (PN (word *))))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+dab5-ba	dab[seize]-a	V	N	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-{d}dumu-zi	Urdumuzi[1][-e]	PN	PN.ERG	D		(PN (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+{d}utu-bar-ra	Utubara[1][-e]	PN	PN.ERG	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+bala	bala[turn][-'a]	N	N.L1	D		(BALA (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ur-{d}nin-ma-da-sze3		PN	PN.GEN.TERM	Iabcdef		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-nig2		PN	PN	Iabcde		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-lugal	Urlugal[1]	PN	PN	D		(PN (word *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}ig-alim		DN	DN	D		(GOD|GOD_NAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+bala	bala[turn][-'a]	N	N.L1	D		(BALA (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+nu-banda3-sze3	nubanda[overseer][-ak]-sze	N	N.GEN.TERM	D		(JOBNAME (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ba-gara2		PN	PN	Iabcde		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+numun	numun[seed]	N	N	D		(PRODUCT_NAME (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ug3-IL2	uggaga[porter]	N	N	D		(UNKNOWN (word *))
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+numun	numun[seed]	N	N	D		(PRODUCT_NAME (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	D		(UNKNOWN (word *))
+ad-da	Adda[1]	PN	PN	D		(PN (word *))
+sanga	sagga[temple_administrator]	N	N	D		(UNKNOWN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+tul2	tul[ditch][-ø]	V	N.ABS	D		(UNKNOWN (word *))
+szu-i-ne-ta		N	N	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+a-tu-kal-la		PN	PN.GEN.GEN	Iabcdef		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ka3-li2		PN	PN	POS		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+er11-eb		PN	PN	Iabcde		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

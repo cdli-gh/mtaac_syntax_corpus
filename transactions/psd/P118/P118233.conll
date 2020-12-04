@@ -1,0 +1,37 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P118/P118233.conll #
+#########################################################################################
+
+#new_text=P118233
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+ug3-IL2	uggaga[porter]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+la2-tur	Latur[1]	FN	FN	D		(CITY (word *))
+{gesz}kiszi17		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+ku5-a		V	V	POS		(UNKNOWN (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PERSON (PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *))))
+lu2-{d}nanna	Lunanna[1]	PN	PN	D		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+ug3-IL2	uggaga[porter]	N	N	D		(UNKNOWN (word *))
+im	im[clay][-ø]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lu-a		V	V	POS		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+{d}szara2-nir-gal2		PN	PN	Ia		(PN (word *))
+gurum2	gurum[inspection]	N	N	D		(UNKNOWN (word *))
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+nesag	Nesag[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+masz2-e	masz[goat]-e	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *))))
+

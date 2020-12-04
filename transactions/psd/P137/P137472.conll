@@ -1,0 +1,25 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137472.conll #
+#########################################################################################
+
+#new_text=P137472
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+i3-ba	iba[oil_ration]	N	N	D		(UNKNOWN (word *))
+{d}nanna-uri3		PN	PN.ERG	Iab		(PN (word *))
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D		(PN (word *))
+{d}nanna-a		DN	DN.COM	D		(GOD (word *))
+gar-ra		V	V	POS		(UNKNOWN (word *))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+{d}nanna-he2-gal2	Nannahegal[1]	PN	PN	D		(PN (word *))
+i3-ba	iba[oil_ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

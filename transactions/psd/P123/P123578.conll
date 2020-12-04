@@ -1,0 +1,37 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P123/P123578.conll #
+##############################################################################################
+
+#new_text=P123578
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+amar	amar[calf][-ak]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+uz-tur		PN	PN	POS		(PN (word *))
+en-ne2-a		N	N.GEN	Iabcdef		(UNKNOWN (word *))
+nar-munus		N	N	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ir7{muszen}		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+tu{muszen}		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+ur-{d}nin-mug	Urninmug[1][-ø]	PN	PN.ABS	D		(PN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tu-gur4{muszen}		PN	PN	Iabcde	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+tu{muszen}		N	N	Ia		(UNKNOWN (word *))
+x-{d}utu		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D		(AGENT (MUDU (word *))
+{d}szul-gi-si2-im-ti		PN	PN	D		(PERSON (PN (word *))))
+a2-bi2-li2-a		PN	PN	Ia		(PN (word *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+u5-bi2-gu7	Ubigu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D		(CITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

@@ -1,0 +1,40 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P131/P131070.conll #
+##############################################################################################
+
+#new_text=P131070
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+a-bi2-si2-im-ti	Abisimti[1][-ak]	PN	PN.GEN	D		(PN (word *))
+{d}isztaran	Isztaran[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+in-da-a		PN	PN	Iabcde		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+{d}nanna-ku3-zu		PN	PN	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lugal-amar-ku3		PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+na-sa6	Nasa[1][-e]	PN	PN.ERG	D		(PERSON (PN (word *)))))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+ku3-{d}nanna	Kugnanna[1]	PN	PN	D		(PERSON (PN (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+a-hu-we-er-ta	Ahuwer[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+se-lu-usz-{d}da-gan		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+ur-usz-gid2-da		PN	PN.GEN.ABL	Iabcdefgh		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+ma2-dara3		DN	DN	POS		(GOD (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD (word *))
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D		(UNKNOWN (word *)))))
+

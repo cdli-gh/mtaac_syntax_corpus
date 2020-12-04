@@ -1,0 +1,49 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P122/P122930.conll #
+##############################################################################################
+
+#new_text=P122930
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+ad-tab		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki-ud5	siki'ud[goat_wool]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+szu-dul4		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+siki-ud5-bi		N	N.ABS	Iabcdef		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{kusz}usan3		N	N.ABS	Iabcde	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+siki-ud5-bi		N	N.ABS	Iabcdef		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+siki-ud5	siki'ud[goat_wool]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+esz2-giri17		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+sa2-ur2		N	N	Ia		(UNKNOWN (word *))
+sa2-pa-sze3		N	N.3-SG-H-POSS.TERM	Iabcdef		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+siki-ud5	siki'ud[goat_wool]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+zu2		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))))
+{gesz}apin	apin[plow]	N	N	D		(UNKNOWN (word *))
+ba-ra-ab-du8		V	MID.3-SG-NH-L3.V.3-SG-S	Iabcde		(UNKNOWN (word *))
+szu-du7-a	szudu[complete]-a[-ø]	N	NF.V.PT.ABS	D		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+gibil	gibil[new][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+ka	kag[mouth]	N	N	D		(UNKNOWN (word *))
+kesz2-ra2	keszed[bind]-a	V	N	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D		(CITY (word *)))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PERSON (PN (word *)))))))
+

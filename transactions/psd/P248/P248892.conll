@@ -1,0 +1,36 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P248/P248892.conll #
+#########################################################################################
+
+#new_text=P248892
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sze	sze[barley]	N	N	D	I-COUNT	(NUMBER (COUNT *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+za3-mu	Zamu[1][-ak]	PN	N	D		(PN (word *))
+ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	D		(PN (word *))
+aga3-us2	aga'us[soldier]	N	N	D		(UNKNOWN (word *))
+ur-{d}szara2	Urszara[1]	PN	PN	D		(PN (word *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+za3-mu	Zamu[1][-ak]	PN	N	D		(PN (word *))
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D		(PN (word *))
+kasz	kasz[beer]	N	N	D		(PRODUCT_NAME (word *))
+a-gub-ba		PN	PN.GEN.ABS	Iabcdef		(PN (word *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+za3-mu	Zamu[1][-ak]	PN	N	D		(PN (word *))
+dingir-kal		PN	PN.DAT-H	Iab		(PN (word *))
+aga3-us2	aga'us[soldier]	N	N	D		(UNKNOWN (word *))
+{gesz}guzza-ni		PN	PN.GEN	Iabcdefgh		(PN (word *))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+za3-mu	Zamu[1][-ak]	PN	N	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2-ta		DN	DN	POS		(GOD|GOD_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem	ezem[festival]	N	N	D		(UNKNOWN (word *))
+pa5-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))))
+

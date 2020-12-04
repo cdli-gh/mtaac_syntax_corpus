@@ -1,0 +1,77 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P116/P116302.conll #
+##############################################################################################
+
+#new_text=P116302
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+du11-ga-ni-zi		V	V	POS		(UNKNOWN (word *))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+kar-sag-ta		V	V	POS		(UNKNOWN (word *))
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nin-a2-zi-da		FN	FN	POS		(CITY (word *))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+ab-ba-kal-la-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	D		(CITY|NATIONALITY (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ba-zi-ta		PN	PN.GEN.DAT-H	Iabcdefg		(PN (word *))
+sa12-ti-um-e		N	N.L3-NH	Iabcde		(UNKNOWN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+du11-ga-ni-zi		V	V	POS		(UNKNOWN (word *))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+kar-sag-ta		V	V	POS		(UNKNOWN (word *))
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nin-a2-zi-da		FN	FN	POS		(CITY (word *))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+e2-duru5	eduru[village]	N	N	D		(UNKNOWN (word *))
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D		(PN (word *))
+sipa-ta	sipa[shepherd][-ak]-ta	N	N.GEN.ABL	D		(JOBNAME (word *))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	D		(CITY|NATIONALITY (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ba-zi-ta		PN	PN.GEN.DAT-H	Iabcdefg		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+sa12-ti-um		PN	PN	POS		(PN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+a2-sa6-ga		PN	PN	Iabcde		(PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+kisal-luh		N	N	Ia		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+sa12-ti-um		PN	PN	POS		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+da-da	Dada[1][-ak]	PN	PN	D		(PN (word *))
+nimgir-sza3-kusz2		PN	PN.GEN.GEN.DAT-H	Iab		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ma2-gur8-re	Magure[1]	PN	PN	D		(PN (word *))))
+

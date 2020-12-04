@@ -1,0 +1,58 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P144/P144716.conll #
+##############################################################################################
+
+#new_text=P144716
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+kab2-ku5	kabkul[water_installation]	N	N	D		(UNKNOWN (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+sal-la{ki}-ta		SN	SN	POS		(CITY (word *))
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ti-a	ti[receive]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ka	kag[mouth]	N	N	D		(UNKNOWN (word *))
+kun-nagar-ta		PN	PN	POS		(PN (word *))
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ti-a	ti[receive]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+kab2-ku5	kabkul[water_installation]	N	N	D		(UNKNOWN (word *))
+dub-la2		N	TN	D		(UNKNOWN (word *))
+{d}utu	Utu[1][-ra]	DN	DN	D		(GOD (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ka	kag[mouth]	N	N	D		(UNKNOWN (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+{d}amar-{d}suen-ke4-gar		WN	WN	POS		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+a-du-mu	Adumu[1][-ra]	PN	PN.GEN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+{d}szara2-he2-gal2	Szarahegal[1][-ak]	FN	PN.GEN	D		(CITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	(PRODUCT_NAME (COM *))
+{d}szara2-he2-gal2	Szarahegal[1][-ak]	FN	PN.GEN	D		(CITY (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))))
+

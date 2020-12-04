@@ -1,0 +1,36 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P140/P140309.conll #
+##############################################################################################
+
+#new_text=P140309
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gesz}ig	ig[door]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+kid	kid[mat]	N	N	D		(PRODUCT_NAME (word *))
+EN		PN	PN	Iabcdefgh		(PN (word *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+esir2	esir[bitumen]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+E2-A	Ea[1]	ON	ON	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+esir2	esir[bitumen]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gul-gul		V	V	POS		(UNKNOWN (word *))
+{gesz}ig	ig[door]	N	N	D		(UNKNOWN (word *))
+ba-ab-su-ub		V	V	POS		(UNKNOWN (word *))
+e2-udu-sze3		N	N	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+lu2-{d}nam2-an-ka		PN	PN	Ia		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en-unu6-gal	Enunugal[1]	PN	PN	D		(PN (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-{d}nam2-an-ka		PN	PN	Ia		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D		(PERSON (PN (word *)))))
+sa12-du5-ka		PN	PN	POS		(PN (word *))))
+

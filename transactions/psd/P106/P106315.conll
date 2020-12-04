@@ -1,0 +1,33 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P106/P106315.conll #
+##############################################################################################
+
+#new_text=P106315
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+szesz-da-da	Szeszdada[1]	PN	PN	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-sa6-ga		PN	PN	Iabcde		(AGENT (PERSON (PN (word *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOB (JOBNAME (word *))
+{d}nin-urta	Ninurta[1][-ra]	DN	DN	D		(GOD (word *))))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szi-dam-qa2-at		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+urumx(|UR2xU2|)		V	V	POS		(UNKNOWN (word *))
+{d}szul-gi-kalam-ma-me-te-bi		PN	PN.GEN.ABS	Iabcdef		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{munus}asz2-gar3	aszgar[female_kid]	PN	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+ensi2	ensik[ruler]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D		(CITY (word *))))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PN (word *))
+ka-guru7	kaguruk[supervisor][-e]	PN	N	D		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))))
+

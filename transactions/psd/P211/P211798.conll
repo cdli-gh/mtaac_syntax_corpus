@@ -1,0 +1,41 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P211/P211798.conll #
+#########################################################################################
+
+#new_text=P211798
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3-szah2	iszah[lard][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ARAD2	arad[slave]	N	N	D		(UNKNOWN (word *))
+aszgab	aszgab[leatherworker]	N	N	D		(JOB (JOBNAME (word *)))
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-szah2	iszah[lard][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+mur7-gu4		N	N	Ia		(UNKNOWN (word *))
+ka-sur		N	N	POS		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-nun	inun[ghee]	PN	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ga-ar3	ga'ar[cheese]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+ama-zi-mu		PN	PN.ABS	Iab		(AGENT (PERSON (PN (word *)))))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-nun	inun[ghee]	PN	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ga-ar3	ga'ar[cheese]	N	N	D		(PRODUCT_NAME (word *))
+dingir-palil2		PN	PN	Ia		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+ki-a-nag	ki'anag[place_of_libations]	N	N	D		(UNKNOWN (word *))
+ur-ra		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+lugal-bi		N	N	POS		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D		(NUMBER (word *))))
+

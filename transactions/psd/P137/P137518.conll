@@ -1,0 +1,102 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137518.conll #
+#########################################################################################
+
+#new_text=P137518
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT_NAME (word *))
+du10-ga	dug[good]-a	V	NF.V.PT	D		(PRODUCT_PARAM (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+nam-zi-tar-ra		PN	PN	D		(PN (word *))
+dub-sar-ta		N	N.ABL	Iabcde		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+gu2	gun[unit]	N	N	D		(UNIT (word *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT_NAME (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+{d}nanna-i3-sa6		PN	PN	D		(PN (word *))
+szusz3-ta		N	N.GEN.ABL	Iabcde		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *))
+PA	ugula[overseer][-ø]	N	N.ABS	D		(JOBNAME (word *))
+gi	gi[reed][-ø]	N	N	D		(PRODUCT_NAME (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+{d}nanna-i3-sa6		PN	PN	D		(PN (word *))
+szusz3-ta		N	N.GEN.ABL	Iabcde		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-{d}nansze	Urnansze[1]	PN	PN	D		(PN (word *))
+ma2-gan{ki}		GN	GN.ABS	Iab		(CITY|NATIONALITY (word *))
+gu-la-kam		V	NF.V.PT.ABS.COP-3-SG	Iabcdefg		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ARAD2-{d}...		PN	PN	Ia		(AGENT (PERSON (PN (word *))))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*)))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+bappir2		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME (word *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME (word *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D		(PERSON (PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOB (JOBNAME (word *))))))
+za3		N	N	Ia		(UNKNOWN (word *))
+1(u)-ta	1(u)[ten]-ta	NU	NU.ABL	D	B-COUNT	(NUMBER (COUNT *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}nin-gesz-zi-da		PN	PN.GEN.ABS	D		(PN (word *))
+dub-sar-ta		N	N.ABL	Iabcde		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+...	_[_]	PN	N	D		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du10-ga	dug[good]-a	V	NF.V.PT	D		(PRODUCT_PARAM (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+nam-zi-tar-ra		PN	PN	D		(PERSON (PN (word *)))))
+dub-sar-ta		N	N.ABL	Iabcde		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT (PRODUCT_NAME (word *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+n	_(_)[_]	NU	NU	D		(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (word *))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME (word *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME (word *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-{d}szul-gi-ra		PN	PN	D		(PERSON (PN (word *)))))
+dub-sar-ta		N	N.ABL	Iabcde		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))))
+{d}nanna-i3-sa6		PN	PN	D		(AGENT (PERSON (PN (word *)))))
+szusz3-ta		N	N.GEN.ABL	Iabcde		(UNKNOWN (word *))))
+

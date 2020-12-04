@@ -1,0 +1,56 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P140/P140180.conll #
+##############################################################################################
+
+#new_text=P140180
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (word *))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+gid2	gid[length]	V	N	D		(UNKNOWN (word *))
+x-da-da		PN	PN	Iabcde		(PN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nun		N	N	D		(UNKNOWN (word *))
+lu2-{d}nanna	Lunanna[1]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ninda	ninda[bread]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+e2-sze3		TN	TN	POS		(CITY (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+e-sir2		N	N	POS		(UNKNOWN (word *))
+nin-saga		PN	PN	Ia		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+e-sir2		N	N	POS		(UNKNOWN (word *))
+nin-si-gar		N	N	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+dingir-bu3-zi		PN	PN.GEN.ABS	Iab		(PERSON (PN (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+kaskal	kaskal[journey][-sze]	N	N.TERM	D		(UNKNOWN (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lugal-i-ti		PN	PN.DAT-H	Iab		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nun		N	N	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+kaskal	kaskal[journey][-sze]	N	N.TERM	D		(UNKNOWN (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+muszen		N	N	Ia		(UNKNOWN (word *))
+nin9		N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ur-{d}nin-mug-ga	Urninmuga[1]	PN	PN	D		(PN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D		(CITY|NATIONALITY (word *))))
+

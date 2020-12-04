@@ -1,0 +1,39 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P115/P115053.conll #
+##############################################################################################
+
+#new_text=P115053
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+guru7-a	guru[store]-'a	N	N.L1	D		(UNKNOWN (word *))
+tak4-a	taka[abandon]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+geme2	geme[female_worker]	N	N	D		(PRODUCT_NAME (word *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+ugu2	ugu[capital]	N	N	D		(UNKNOWN (word *))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D		(PN (word *))
+ga2-ga2-dam	gar-gar[place]-ed-am	V	NF.V.RDP.F.COP-3-SG	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ama-tag		N	N	POS		(UNKNOWN (word *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+bar-dul5		N	N	Ia		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+szu-numun-ta		MN	MN.GEN.ABL	Iabcdefg		(MONTH_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}ba-ba6-sze3		MN	MN.TERM	Iabcdefg		(MONTH_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+giri3-ni-i3-dab5	Girini'idab[1][-ak][-ra]	N	PN.GEN.DAT-H	D		(UNKNOWN (word *))
+guru7-a	guru[store]-'a	N	N.L1	D	B-COM	(PRODUCT_NAME (COM *))
+tak4-a	taka[abandon]-a	V	NF.V.PT	D		(UNKNOWN (word *))))
+

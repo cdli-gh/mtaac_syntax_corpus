@@ -1,0 +1,38 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P324/P324291.conll #
+#########################################################################################
+
+#new_text=P324291
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+ki-la2	kila[weight][-ø]	N	N	D		(PRODUCT_PARAM (word *))
+sig4	szeg[brick]	N	N	D		(UNKNOWN (word *))
+naga	naga[potash]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+naga	naga[potash]	N	N	D		(PRODUCT_NAME (word *))
+si-e3	si'e[sprout][-a]	V	NF.V.PT	D		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+puzur4-a-ku-um		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D		(CITY|NATIONALITY (word *))
+masz2-e	masz[goat]-e	N	N.L3-NH	D		(PRODUCT_NAME (word *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *))
+me-{d}isztaran	Me'isztaran[1]	PN	PN	D		(PN (word *))
+dumu-munus	dumumunus[daughter]	N	N	D		(FILIATION_EXP (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+puzur4-a-ku-um		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D		(PN (word *))))
+

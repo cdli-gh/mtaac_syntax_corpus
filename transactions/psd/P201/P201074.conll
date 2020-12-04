@@ -1,0 +1,81 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P201/P201074.conll #
+##############################################################################################
+
+#new_text=P201074
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+kikken-ta	kikken[millstone]-ta	N	N.ABL	D		(UNKNOWN (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+u3-ma-ni-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+kikken-ta	kikken[millstone]-ta	N	N.ABL	D		(UNKNOWN (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+szesz-kal-la-ta	Szeszkala[1][-ak]-ta	N	PN.GEN.ABL	D		(UNKNOWN (word *))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+me-en-kar2	Menkar[1][-ø]	FN	FN.ABS	D		(CITY (word *))
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+kikken-ta	kikken[millstone]-ta	N	N.ABL	D		(UNKNOWN (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ba-a	ba[allot]-a	PN	NF.V.PT	D		(PN (word *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+kikken-ta	kikken[millstone]-ta	N	N.ABL	D		(UNKNOWN (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D	B-COM	(PRODUCT_NAME (COM *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PERSON (PN (word *))))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(PERSON (PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOB (JOBNAME (word *)))))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME (word *))
+kikken-ta	kikken[millstone]-ta	N	N.ABL	D		(UNKNOWN (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+zabala{ki}		SN	SN.GEN.L1	Iabcdefgh		(CITY|NATIONALITY (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+me-en-kar2	Menkar[1][-ø]	FN	FN.ABS	D		(CITY (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+u3-ma-ni	Umani[1]	V	PN	D		(UNKNOWN (word *))
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+kikken-ta	kikken[millstone]-ta	N	N.ABL	D		(UNKNOWN (word *))
+nu-e3-a		V	NEG.NF.V.GEN	Iabcdef		(UNKNOWN (word *))))
+

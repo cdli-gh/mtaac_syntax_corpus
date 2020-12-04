@@ -1,0 +1,46 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P333/P333685.conll #
+#########################################################################################
+
+#new_text=P333685
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sze-ta	sze[barley]-ta	N	N.ABL	D		(PRODUCT (PRODUCT_NAME (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D		(PRODUCT_PARAM (word *))
+giri17-dab5	giridab[driver]	N	N	D		(JOBNAME (word *))
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+iti	iti[month]	N	N	D		(ITI (word *))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+{ansze}kunga2	kunga[equid_type][-ak][-ø]	N	N.GEN.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+giri17-dab5	giridab[driver]	N	N	D		(JOBNAME (word *))
+kaskal	kaskal[journey][-sze]	N	N.TERM	D		(UNKNOWN (word *))
+zi-gu5-um		N	N	Ia		(UNKNOWN (word *))
+dah-hu		PN	PN	Iabcde		(PN (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+tur-tur		V	V	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+tu-ra-am-i3-li2-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+er3-ra-an-dul3		PN	PN	Ia		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D		(CITY|NATIONALITY (word *))
+masz2-e	masz[goat]-e	N	N.L3-NH	D		(PRODUCT_NAME (word *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *))))
+

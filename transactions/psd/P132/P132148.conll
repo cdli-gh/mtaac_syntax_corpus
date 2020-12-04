@@ -1,0 +1,37 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P132/P132148.conll #
+##############################################################################################
+
+#new_text=P132148
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{kusz}suhub2	suhub[boots]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+du8-szi-a		V	NF.V.3-SG-NH-POSS.GEN	Iabcdef		(UNKNOWN (word *))
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{kusz}e-sir2	esir[shoe]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+du8-szi-a		V	NF.V.3-SG-NH-POSS.GEN	Iabcdef		(UNKNOWN (word *))
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ansze	ansze[donkey]	N	N	D		(PRODUCT_NAME (word *))
+si-um		PN	PN	POS		(PN (word *))
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D		(PN (word *))
+ba-za-mu		PN	PN	POS		(PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+hur-ti{ki}		GN	GN	POS		(CITY|NATIONALITY (word *))
+e2-a-i3-li2	E’a’ili[1][-e]	PN	PN.ERG	D		(PN (word *))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+e2-a-i3-li2-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PN (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+hur-ti{ki}		GN	GN	POS		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

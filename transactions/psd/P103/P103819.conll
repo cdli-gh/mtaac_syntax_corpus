@@ -1,0 +1,41 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P103/P103819.conll #
+##############################################################################################
+
+#new_text=P103819
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gur-dub		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+in-duh-szu-um		PN	PN	POS		(PN (word *))
+szu-e2-a	Szuea[1]	PN	PN	D		(PN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+muszen		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+al-sze6-ga2		V	V	POS		(UNKNOWN (word *))
+gir13-tab{ki}-ta		SN	SN.GEN.ABL	Iabcdef		(CITY (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+muszen		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+szu-ku6	szukud[fisherman][-ak][-ak]	N	N	D		(UNKNOWN (word *))
+sa	sa[bundle]	N	N	D		(UNIT (word *))
+gu2-la2-me		N	N	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gug2		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+nig2-{d}isz-ha-ra		PN	PN.ERG	Iabcdefgh		(AGENT (PERSON (PN (word *))))
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D		(AGENT (MUDU (word *))
+nin-u3-kul-e-ki-ag2		PN	PN.GEN	Iab		(PERSON (PN (word *)))))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+sag-da-na	Sagdana[1][-ak][-ak]	N	PN.GEN.GEN	D		(UNKNOWN (word *))
+nibru{ki}-ka		PN	SN.GEN.GEN.ABS	D		(PN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+kar2-har{ki}		GN	SN.GEN	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

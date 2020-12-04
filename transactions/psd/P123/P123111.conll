@@ -1,0 +1,83 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P123/P123111.conll #
+##############################################################################################
+
+#new_text=P123111
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (word *)))
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sag-gal2		AJ	AJ	POS	B-COM	(PRODUCT_NAME (COM *))
+a-lu5-lu5	Alulu[1][-ak]	PN	PN.GEN	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+...-kal-la		PN	PN	POS		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+...-du	_[_]	PN	PN	Iabcde		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+lugal-i3-sa6	Lugalisa[1][-ak][-ra]	PN	PN.GEN.DAT-H	D		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+puzur4-i3-li2	Puzurili[1][-ra]	PN	PN	D		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sag-gal2-la		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+ur-{d}lamma	Urlamma[1]	PN	PN	D		(PERSON (PN (word *)))))
+szesz	szesz[brother]	N	N	D		(UNKNOWN (word *))
+i3-kal-la	Ikala[1][-ak]	PN	PN	D		(PN (word *)))
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ab-ba	abba[father]	PN	PN	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+ur-{d}sza-u18-sza		PN	PN	Ia		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+ur-zigum-ma		PN	PN.GEN.GEN.ABS	Iabcdefg		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *)))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+{d}utu-kam		PN	PN	Iabcdefgh		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+lugal-mudra5	Lugalmudra[1]	PN	PN	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-ki-gu-la		PN	PN.GEN.ABS	D		(PN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a-gu2-na		FN	FN	POS		(CITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+ba-du3-a	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D		(UNKNOWN (word *)))))
+

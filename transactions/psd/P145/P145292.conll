@@ -1,0 +1,33 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P145/P145292.conll #
+##############################################################################################
+
+#new_text=P145292
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+dur		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-gu2-de3-na-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *)))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+ki-lu5-la-ta	Kilula[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *)))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+dur		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+nig2-du10-ga-mu		PN	PN	Ia		(AGENT (PERSON (PN (word *)))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+dur		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ku-li	Kuli[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dur		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-eb-gal	Lu'ebgal[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dur		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-i3-zu		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))))
+

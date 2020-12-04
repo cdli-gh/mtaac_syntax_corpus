@@ -1,0 +1,92 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P206/P206179.conll #
+#########################################################################################
+
+#new_text=P206179
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (word *)))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+{gesz}gesztin		N	N	POS	B-COM	(PRODUCT_NAME (COM *))
+duru5		V	V	POS		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+{gesz}gesztin		N	N	POS		(UNKNOWN (word *))
+had2-bi		V	NF.V.3-SG-NH-POSS.ABS	Iabcdefg		(UNKNOWN (word *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+nig2		N	N	D		(UNKNOWN (word *))
+ezem-ma		N	N	POS		(UNKNOWN (word *))
+dingir-re-ne		PN	N.PL.GEN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+en-en		PN	PN	POS		(PN (word *))
+ensi2-ke4-ne		N	N.GEN.GEN.PL	Iabcdefg		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+{gesz}haszhur		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+duru5		V	V	POS		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+{gesz}haszhur		N	N	Ia		(UNKNOWN (word *))
+had2-bi		V	NF.V.3-SG-NH-POSS.ABS	Iabcdefg		(UNKNOWN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*)
+n	_(_)[_]	NU	NU	D		(word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+{gesz}pesz3	pesz[fig]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+duru5		V	V	POS		(UNKNOWN (word *))
+{gesz}pesz3	pesz[fig]	N	N	D		(PRODUCT_NAME (word *))
+had2-bi		V	NF.V.3-SG-NH-POSS.ABS	Iabcdefg		(UNKNOWN (word *))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *)
+n	_(_)[_]	NU	NU	D		(word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+{gesz}gesztin		N	N	POS	B-COM	(PRODUCT_NAME (COM *))
+duru5		V	V	POS		(UNKNOWN (word *))
+{gesz}gesztin		N	N	POS		(UNKNOWN (word *))
+had2-bi		V	NF.V.3-SG-NH-POSS.ABS	Iabcdefg		(UNKNOWN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+nin9		N	N	D		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ur3	ur[roof]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+{d}...	_[1][-'a]	MN	DN.GEN	D		(MONTH_NAME (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+{d}...	_[1][-'a]	MN	DN.GEN	D		(MONTH_NAME (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+{d}...	_[1][-'a]	MN	DN.GEN	D		(MONTH_NAME (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+{d}x	_[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+pa	pa[branch]	N	N.ABS	D		(UNKNOWN (word *))
+{gesz}geszimmar	gesznimbar[palm]	PN	N	D	B-COM	(PRODUCT_NAME (COM *))
+ze2-na	zena[midrib]	FN	N	D		(CITY (word *))
+...	_[_]	PN	N	D		(PN (word *))
+HU	_[_]	PN	PN	POS		(PN (word *))
+NIG2	nig[unknown]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+NIG2	nig[unknown]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))))
+

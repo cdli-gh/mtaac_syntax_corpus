@@ -1,0 +1,34 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P103/P103143.conll #
+##############################################################################################
+
+#new_text=P103143
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gukkal	gukkal[fat-tailed_sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gukkal	gukkal[fat-tailed_sheep]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ge6	giggi[black][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+bu-u2-du		PN	PN.GEN.ABS	Iab		(AGENT (PERSON (PN (word *))))
+{d}en-lil2-zi-sza3-gal2		PN	PN	D		(AGENT (PERSON (PN (word *)))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+amar	amar[calf][-ak]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	D		(UNKNOWN (word *))
+a-a-kal-la-mu		PN	PN	Iabc		(AGENT (PERSON (PN (word *)))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *)))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+mu-kux(DU)-ra-ta		N	N	POS		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	D		(AGENT (PERSON (PN (word *))))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(AGENT (PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+en	en[priest]	N	N	D		(PERSON (JOB (JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *))))))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *))))
+

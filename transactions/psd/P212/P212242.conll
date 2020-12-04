@@ -1,0 +1,50 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P212/P212242.conll #
+#########################################################################################
+
+#new_text=P212242
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+gal	gal[big][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-a-bi		NU	NU.3-SG-NH-POSS	Iabcdefg	I-COUNT	(NUMBER (COUNT *
+1(ban2)-ta		NU	NU	POS	I-COUNT	*))
+iti	iti[month]	N	N	D		(ITI (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+12;4.0		NU	NU	POS		(NUMBER (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5-ta	Szesagku[1]-ta	MN	MN.ABL	D		(MONTH_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri-sze3	diri[intercalary_month]-sze	V	N.TERM	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+ba	ba[animal][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+de3-gid2-da		V	NF.V.PT	Iabcdefgh		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+6(disz)-am3		NU	NU.ABS.COP-3-SG	Iab	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+i3-in-gal2		V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	Iabcdefghi	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+{d}szara2-a-pi4-sal4{ki}		DN	DN	POS		(GOD (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+usz-mu-ta	Uszmu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D		(CITY (word *)))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-{d}ha-ia3	Luha'ia[1]	PN	PN	D		(PERSON (PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOB (JOBNAME (word *))))
+dumu-ur-e11-e		N	N	Ia		(UNKNOWN (word *))
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D		(JOB (JOBNAME (word *)))))
+

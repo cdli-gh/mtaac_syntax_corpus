@@ -1,0 +1,53 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P120/P120834.conll #
+#########################################################################################
+
+#new_text=P120834
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+nig2-sa10	nigsam[price]	N	N	D		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+munu4	munu[malt]	N	N	D		(UNKNOWN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+la-pu2		PN	PN	Iabcde		(PN (word *))
+ur-{d}szul-pa-e3-ke4	Urszulpa'e[1]-e	PN	PN.ERG	D		(PN (word *))
+lugal-he2-gal2-a		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+in-na-gurum2		PN	PN	POS		(PN (word *))
+KA-du		PN	PN	Iabcde		(PN (word *))
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+inim-ma-bi-me		PN	PN	Iabcdefgh		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+nig2-sa10-am3		N	N.3-SG-H-POSS.ABS.COP-3-SG	Iabcdefg		(UNKNOWN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+pu2		N	N	POS		(UNKNOWN (word *))
+2(disz)-a-sze3		NU	NU.GEN.COP-3-SG.TERM	Iabcdefg	B-COUNT	(NUMBER (COUNT *))
+ki	ki[place]	N	N	D		(KI (word *))
+lugal-he2-gal2-ta	Lugalhegal[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+ur-{d}szul-pa-e3-ke4	Urszulpa'e[1]-e	PN	PN.ERG	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+KA.DU				POS		(UNKNOWN (word *))
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D		(PN (word *))
+lu2-ki-inim-ma-bi-me		N	N	POS		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+bara2-za3-gar-ra		MN	MN	POS		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D	B-COM	(PRODUCT_NAME (COM *))
+...{ki}	_[1][-ø]	SN	SN.ABS	D		(CITY (word *))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+la-li2		PN	PN.GEN	Iabcde		(PERSON (PN (word *)))))
+...	_[_]	PN	N	D		(PN (word *))))
+

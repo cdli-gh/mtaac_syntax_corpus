@@ -1,0 +1,52 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P141/P141423.conll #
+#########################################################################################
+
+#new_text=P141423
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}du5		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+mi-ri2-za		V	VEN.L1.3-SG-H-A.V.3-SG-P.SUB.L1	Iabcdefghi		(UNKNOWN (word *))
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+{gesz}gag	gag[peg]	N	N	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*))
+{gesz}mar-da-um		N	N	POS		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz3-ta	kusz[unit]-ta	N	N.ABL	D		(UNIT (word *))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+{gesz}umbin		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}sag-ga2-munus		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+x-ga		DN	DN	POS		(GOD|GOD_NAME (word *))
+mar-sa-asz	marsa[military_depot]-sze	PN	N.TERM	D		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D		(PN (word *))
+szul-pa-e3-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en-unu6-gal	Enunugal[1]	PN	PN	D		(PN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-sa6-i3-zu	Lusa'izu[1]	PN	PN.GEN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+a-kal-la	Akala[1]	PN	PN	D		(PN (word *))))
+

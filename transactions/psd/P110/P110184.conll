@@ -1,0 +1,39 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P110/P110184.conll #
+#########################################################################################
+
+#new_text=P110184
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+libir		V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcdefghi		(UNKNOWN (word *))
+kasz-bi		N	N.3-SG-NH-POSS.ABS	Iabcde	B-COM	(PRODUCT_NAME (COM *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	D		(JOBNAME (word *))
+ninda-bi		N	N.ABS.3-SG-NH-POSS.ABS	Iabcdefg	B-COM	(PRODUCT_NAME (COM *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	D		(JOBNAME (word *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+si-u3{ki}-me		GN	GN	POS		(CITY|NATIONALITY (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+lu2-sza-lim	Luszalim[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))
+sza3	szag[heart]	N	N	D		(CITY (SZA3 (word *))
+ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	SN.GEN.L1	D		(word *)))))))
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+zi3-gu	zidgu[flour_type]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+kaskal-kaskal-sze3		N	N.TERM	Iab		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lu2-sza-lim	Luszalim[1]	PN	PN	D		(PN (word *))))
+

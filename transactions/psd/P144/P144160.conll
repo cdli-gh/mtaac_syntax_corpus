@@ -1,0 +1,39 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P144/P144160.conll #
+##############################################################################################
+
+#new_text=P144160
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ki-su7	kisur[threshing_floor]	N	N	D		(UNKNOWN (word *))
+{d}amar-{d}suen-{d}szara2-ki-ag2-ta		DN	DN	POS		(GOD|GOD_NAME (word *))
+kun-zi-da	kunzida[weir]	N	N	D		(UNKNOWN (word *))
+{d}amar-{d}suen-{d}szara2-ki-ag2-sze3		DN	DN	POS		(GOD|GOD_NAME (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-su7	kisur[threshing_floor]	N	N	D		(UNKNOWN (word *))
+{d}amar-{d}suen-{d}szara2-ki-ag2-ta		DN	DN	POS		(GOD|GOD_NAME (word *))
+ka-ma-ri2{ki}-sze3		SN	SN	POS		(CITY|NATIONALITY (word *))
+ma2-ta		N	N	POS		(UNKNOWN (word *))
+la2-a	la[entrust]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+ba-sa6	Basa[1][-ak]	PN	PN.GEN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D		(UNKNOWN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D		(PN (word *))))
+

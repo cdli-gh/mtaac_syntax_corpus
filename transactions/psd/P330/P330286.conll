@@ -1,0 +1,44 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P330/P330286.conll #
+##############################################################################################
+
+#new_text=P330286
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3-sig15		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+nig2-bar-ra		N	N	POS		(UNKNOWN (word *))
+imgaga3		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+nig2-bar-ra		N	N	POS		(UNKNOWN (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+zu2-lum	zulum[date]	N	N	D		(UNKNOWN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}pesz3	pesz[fig]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+szer7-gu		N	N	Ia		(UNKNOWN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gesz}haszhur		N	N	Ia		(UNKNOWN (word *))
+szer7-gu		N	N	Ia		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+nig2-banda3{da}		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ga	ga[milk]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+nig2-banda3{da}		PN	PN	POS		(AGENT (PERSON (PN (word *))))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*)))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+{d}szul-gi	Szulgir[1]	RN	RN	D		(PN (word *))
+nidba		N	N.GEN.3-SG-H-POSS.ABS	Iabcdefgh		(UNKNOWN (word *))
+igi-kar2-ga		PN	PN	POS		(PN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en-nun-ne2-{d}amar-{d}suen-ra-ki-ag2		PN	PN.ERG	Iabcdefgh		(PN (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+kin-{d}inanna	Kin-Inanna[1].[-’a]MN.L1	MN	MN.L1	D		(MONTH_NAME (word *))))
+

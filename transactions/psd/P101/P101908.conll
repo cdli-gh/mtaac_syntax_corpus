@@ -1,0 +1,64 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P101/P101908.conll #
+#########################################################################################
+
+#new_text=P101908
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+masz	masz[interest]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D		(PRODUCT_NAME (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+sar	sar[unit]	N	N	D		(UNIT (word *))
+e3-ta		V	NF.V.PT.GEN.GEN.ABL	Iabcdefg		(UNKNOWN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+nig2-gal2-la	niggala[possessions]	N	N	D		(UNKNOWN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+amar-ra-sze3		N	N	POS		(UNKNOWN (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+unu3		GN	GN	POS		(CITY|NATIONALITY (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ur-{d}hendur-sag	Urhendursag[1]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+sar	sar[unit]	N	N	D		(UNIT (word *))
+e3-a-ta		V	NF.V.PT.GEN.GEN.ABL	Iabcdefg	B-COM	(PRODUCT_NAME (COM *))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+masz	masz[interest]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-sza3-ga	aszag[field]-ak	N	N.GEN	D		(PRODUCT_NAME (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+nig2-gal2-la	niggala[possessions]	N	N	D		(UNKNOWN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+amar-ra-sze3		N	N	POS		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+unu3		GN	GN	POS		(CITY|NATIONALITY (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ur-{d}hendur-sag	Urhendursag[1]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+e2-ki-gal-la		PN	PN.GEN.ABS	D		(PN (word *))
+unu3(AB2-SZE3)		NU	NU	POS		(NUMBER (word *))))
+

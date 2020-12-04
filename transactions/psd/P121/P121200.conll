@@ -1,0 +1,57 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P121/P121200.conll #
+##############################################################################################
+
+#new_text=P121200
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+hirinx(KWU318)		N	N	Ia		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+lugal-iti-da	Lugalitida[1]	PN	PN	D		(PN (word *))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+hirinx(KWU318)		N	N	Ia		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+i-ri-ib		PN	PN	Iabcde		(PN (word *))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+hirinx(KWU318)		N	N	Ia		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+a-kal-la	Akala[1]	PN	PN	D		(PN (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+hun-ga2	hug[hire]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+lugal-KU		PN	PN	Iabcde		(PN (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{d}en-lil2-e-pa3-da		DN	DN.GEN	Iabcdef		(GOD|GOD_NAME (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+lugal-KU		PN	PN	Iabcde		(PN (word *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+szu-numun-a		MN	MN.L1	Iabcdefgh		(MONTH_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+ma2-a2-dara4-abzu		ON	ON	POS		(UNKNOWN (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD (word *))
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D	B-COM	(PRODUCT_NAME (COM *))))
+

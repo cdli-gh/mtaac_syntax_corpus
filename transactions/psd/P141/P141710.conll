@@ -1,0 +1,47 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P141/P141710.conll #
+#########################################################################################
+
+#new_text=P141710
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+kin	kig[work]	N	N	D		(UNKNOWN (word *))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sahar-ba	sahar[earth]-bi-ak	N	N.3-SG-NH-POSS.GEN	D		(PRODUCT_NAME (word *)))
+kab2-ku5	kabkul[water_installation]	N	N	D		(UNKNOWN (word *))
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+bar-la2-bi		N	N.3-SG-NH-POSS.ABS	Iabcde		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*))
+kin	kig[work]	N	N	D		(UNKNOWN (word *))
+u2-sahar-ba		N	N	POS		(UNKNOWN (word *))
+kab2-ku5	kabkul[water_installation]	N	N	D		(UNKNOWN (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+sag-du3		FN	FN	POS		(CITY (word *))
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+kab2-ku5	kabkul[water_installation]	N	N	D		(UNKNOWN (word *))
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+sza3-gu4-ka		PN	PN	POS		(PERSON (PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOB (JOBNAME (word *))))
+ur-e2-nun-na	Urenuna[1]	PN	PN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))
+e2-gal-e-si	Egalesi[1][-ak]	PN	PN.GEN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D		(PERSON (PN (word *)))))
+sa12-du5-ka		PN	PN	POS		(PN (word *))))
+

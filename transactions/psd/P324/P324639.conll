@@ -1,0 +1,48 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P324/P324639.conll #
+#########################################################################################
+
+#new_text=P324639
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+a2	a[time]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+zi3-da	zid[flour]-ak[-ø]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME (word *)))
+gur-kam		V	V	POS		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+ma2-lah5-bi		N	N.ABS	Iabcdef		(UNKNOWN (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	D	I-COUNT	(NUMBER (COUNT *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ad-kup4	adKID[basket_weaver][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+bahar2		PN	PN	POS		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+du6-sahar-ra{ki}-ta		SN	SN.GEN	Iabc		(CITY|NATIONALITY (word *))
+gar-sza-an-na{ki}-sze3		SN	SN.GEN.GEN.TERM	Iabcdef		(CITY|NATIONALITY (word *))
+de6-a	de[bring]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+szu-kab-ta		PN	PN.GEN.GEN.ABL	Iabcdef		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+{d}iszkur-illat-ta	Iszkurillat[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOBNAME (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+{d}ma-lik-ba-ni		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+ARAD2	arad[slave]	N	N	D		(UNKNOWN (word *))
+na-ra-am-i3-li2	Naramili[1]	PN	PN	D		(PN (word *))))
+

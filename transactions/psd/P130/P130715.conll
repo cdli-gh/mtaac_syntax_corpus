@@ -1,0 +1,29 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P130/P130715.conll #
+##############################################################################################
+
+#new_text=P130715
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gan-ga2		V	V	POS		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+1/2(disz)-sze3	1/2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+kun-zi-da	kunzida[weir]	N	N	D		(UNKNOWN (word *))
+masz-kan2{ki}-ta		SN	SN.GEN.ABL	Iabcdef		(CITY (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D	B-COM	(PRODUCT_NAME (COM *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY (word *))))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *)))))))
+

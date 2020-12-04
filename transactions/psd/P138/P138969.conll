@@ -1,0 +1,69 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P138/P138969.conll #
+#########################################################################################
+
+#new_text=P138969
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+ur-{d}asar-lu2-hi	Urasarluhi[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+{d}szul-gi-mi-szar	Szulgirmiszar[1][-ak][-ra]	PN	PN.GEN.DAT-H	D		(PN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+{d}iszkur-ku3-gal2	Iszkurkugal[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+{d}nanna-lu2-du10	Nannaludu[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+u2-na-ap-sze-en	Unapszen[1][-ak][-ra]	PN	PN.GEN.DAT-H	D		(PN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+a-bil-{d}suen	Abilsuen[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+tul2-ta-pa3-da	Tultapada[1]	PN	PN	D		(PN (word *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	B-COM	(PRODUCT_NAME (COM *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+nu	nu[not][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+nu	nu[not][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+x-...	_[_]	PN	PN	D		(PN (word *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D		(DEAD (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+...-dingir-re	_[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	B-COM	(PRODUCT_NAME (COM *))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+...	_[_]	PN	N	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+...	_[_]	PN	N	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+gaba-ri	gabari[copy]	N	N	D		(GABARI (word *))))
+

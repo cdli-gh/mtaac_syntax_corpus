@@ -1,0 +1,36 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P100/P100226.conll #
+#########################################################################################
+
+#new_text=P100226
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+udu-nita2	udunita[ram]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+u8	u[ewe]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kir11	kir[female_lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+ur4		V	V	POS		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ud5	uzud[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kir11	kir[female_lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+ur4		V	V	POS		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu-nita2	udunita[ram]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+masz2-gal	maszgal[billy_goat]	N	N	D		(PRODUCT_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+{d}be-la-at-suh6-ner		DN	DN	Ia		(GOD|GOD_NAME (word *))
+{d}be-la-at-dar-ra-ba-an	Belatdarraban[1][-ak][-ak][-sze]	PN	DN.GEN.GEN.TERM	D		(PN (word *))
+an-nu-ni-tum	Annunitum[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+{d}ul-ma-szi-tum	Ulmaszitum[1][-ra]	PN	DN.DAT-H	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

@@ -1,0 +1,38 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P339/P339690.conll #
+#########################################################################################
+
+#new_text=P339690
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *)))))
+HI-da		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+nigin2	nigin[bundle]	N	N	D		(UNKNOWN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+gin2-ta	gig[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+igi-sag	igisag[choose][-a]	N	NF.V.PT	D		(UNKNOWN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gin2-ta	gig[unit]-ta	N	N.ABL	D		(UNIT (word *))))
+puzur4-{d}szara2		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+numun	numun[seed]	N	N	D		(PRODUCT_NAME (word *))))
+nigin2	nigin[bundle]	N	N	D		(UNKNOWN (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+1(ban2)-ta		NU	NU	POS	I-COUNT	*))
+igi-sag	igisag[choose][-a]	N	NF.V.PT	D		(UNKNOWN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+gin2-ta	gig[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+ug3-IL2	uggaga[porter]	N	N	D		(UNKNOWN (word *))
+szum2	szum[garlic]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ensi2	ensik[ruler]	N	N	D		(JOB (JOBNAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))))
+

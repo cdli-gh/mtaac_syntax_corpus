@@ -1,0 +1,43 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137156.conll #
+#########################################################################################
+
+#new_text=P137156
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gesz	gesz[tree]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ka2	kan[gate]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D		(PRODUCT_PARAM (word *))))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+gar-ra		V	V	POS		(UNKNOWN (word *))
+uri5{ki}	Urim[1][-ak]	SN	SN.GEN	D		(CITY (word *))
+...	_[_]	PN	N	D		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}sag-ku5		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+u2-bil2-la		N	N	POS		(UNKNOWN (word *)))
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+sa	sa[bundle]	N	N	D		(UNIT (word *)))
+u2-gesz		N	N	POS		(UNKNOWN (word *))
+{gesz}tir		N	N.GEN	Iabcde		(UNKNOWN (word *))
+szu-na-mu-gi4-ta		PN	PN.GEN.ABL	Iabcdefg		(PN (word *))
+lu2-sa6-ga		PN	PN	Iabcde		(PN (word *))
+lu2-...	_[1][-ra]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *)))))
+

@@ -1,0 +1,60 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P142/P142821.conll #
+#########################################################################################
+
+#new_text=P142821
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur5-ra	urra[loan]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+iszib	iszib[priest]	N	N	D		(JOB (JOBNAME (word *))))))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+ur-{d}szara2	Urszara[1]	PN	PN	D		(PN (word *))
+gu-za-la2	guzala[throne_bearer]	N	N	D		(UNKNOWN (word *)))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D		(PN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D		(PN (word *)))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+giri3-ni-i3-sa6	Girini'isa[1]	PN	PN	D		(PN (word *)))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ur-ab-ba-saga	Urabbasaga[1][-ra]	PN	PN.DAT-H	D		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*))
+sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	D		(PN (word *))
+sipa	sipa[shepherd]	N	N	D		(JOBNAME (word *)))
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+sipa	sipa[shepherd]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D		(PN (word *))
+unu3		GN	GN	POS		(CITY|NATIONALITY (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+hu-wa-wa	Huwawa[1][-ak]	DN	PN.GEN	D	B-COM	(PRODUCT_NAME (COM *))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ur5-ra	urra[loan]	N	N	D		(PRODUCT_PARAM (word *))
+gibil	gibil[new][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+sila-a		N	N.L1	Iabcde		(UNKNOWN (word *))
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(CITY (SZA3 (word *))
+a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	D		(word *))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D		(PERSON (PN (word *))
+en	en[priest]	N	N	D		(JOB (JOBNAME (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(GOD (word *)))))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

@@ -1,0 +1,30 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P211/P211811.conll #
+#########################################################################################
+
+#new_text=P211811
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{kusz}ummu3	ummud[waterskin]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+e2-gal-sze3		N	N	POS		(UNKNOWN (word *))
+musz		N	N	D		(UNKNOWN (word *))
+ba-an-du2-ru-un		V	V	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+{d}nanna-dalla		DN	DN	POS		(GOD|GOD_NAME (word *))
+musz-lah5		N	N	POS		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{kusz}du10-gan	duggan[leather_bag]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *))
+e2-gal-sze3		N	N	POS		(UNKNOWN (word *))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+mangaga		N	N	Ia		(UNKNOWN (word *))
+pu3		PN	PN.GEN.ABS	Iabcdefgh		(PN (word *))
+ba-an-gar		V	MID.L1-SYN.V.3-SG-S	Iabcdefg		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+bu3-bu3-ke4-ne		PN	PN	Iabcdefgh		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

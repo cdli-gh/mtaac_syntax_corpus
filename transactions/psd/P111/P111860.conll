@@ -1,0 +1,47 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P111/P111860.conll #
+##############################################################################################
+
+#new_text=P111860
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+szer7-ru-um	szerrum[mat]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *)))
+ba-a-dul9		V	V	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+zi3-da	zid[flour]-ak[-ø]	N	N.GEN	D		(PRODUCT_NAME (word *))))
+ka-tab-ba	kataba[double_mouth]	N	N	D		(UNKNOWN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}kaskal	kaskal[travel_basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))))
+gesz-disz		N	N	POS		(UNKNOWN (word *))
+esir2	esir[bitumen]	N	N	D		(PRODUCT_NAME (word *))
+su-ba	su[body]-bi-'a	V	NF.V.PT	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nag		V	V	POS		(UNKNOWN (word *))
+esir2	esir[bitumen]	N	N	D		(PRODUCT_NAME (word *))
+su-ba	su[body]-bi-'a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+{d}szara2-kam	Szarakam[1]	PN	PN	D		(PERSON (PN (word *))))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD (word *))
+ba-ab-du		N	N	POS		(UNKNOWN (word *))
+{d}szara2-kam	Szarakam[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+...	_[_]	PN	N	D		(PERSON (PN (word *)))))))
+

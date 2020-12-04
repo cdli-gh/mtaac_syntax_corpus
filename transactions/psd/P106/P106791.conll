@@ -1,0 +1,26 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P106/P106791.conll #
+##############################################################################################
+
+#new_text=P106791
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-nun	inun[ghee]	PN	N	D		(PN (word *))
+x-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *)))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6-sze6	kusze[cooked_fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+u3-ma-ni	Umani[1]	V	PN	D		(UNKNOWN (word *))
+u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	D		(UNKNOWN (word *))
+a-ma-ru-kam	amaru[flood]-ak[-ø]-am	N	N.GEN.ABS.COP-3-SG	D		(UNKNOWN (word *))
+ul4-la-bi	ulabi[quick][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ur-{d}nin-ugula-szakkan		PN	PN.DAT-H	Iab		(PN (word *))
+he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	D		(UNKNOWN (word *))))
+

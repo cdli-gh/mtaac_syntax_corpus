@@ -1,0 +1,34 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P134/P134304.conll #
+##############################################################################################
+
+#new_text=P134304
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gesz}szinig		FN	FN	POS	B-COM	(PRODUCT_NAME (COM *))
+eme		N	N.ABS.COP-3-PL	Iabcdef		(UNKNOWN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+kusz3	kusz[unit]	N	N	D	I-COUNT	*))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}szinig		FN	FN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+eme		N	N.ABS.COP-3-PL	Iabcdef		(UNKNOWN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+kusz3	kusz[unit]	N	N	D	I-COUNT	*))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}szinig		FN	FN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+eme		N	N.ABS.COP-3-PL	Iabcdef		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+kusz3	kusz[unit]	N	N	D	I-COUNT	*))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+{gesz}szinig		FN	FN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+eme		N	N.ABS.COP-3-PL	Iabcdef		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+{gesz}szinig		FN	FN	POS		(CITY (word *))
+szar2-re		V	V	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+na-mu-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+

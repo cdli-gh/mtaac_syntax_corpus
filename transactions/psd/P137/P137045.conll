@@ -1,0 +1,45 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137045.conll #
+#########################################################################################
+
+#new_text=P137045
+...-in		PN	PN	Iabcdefgh		(DOC (FRAG (PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{uruda}a2-asz-gar		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{uruda}du5		N	N	Ia		(UNKNOWN (word *))
+gal	gal[big][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{uruda}du5		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{uruda}du5		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+hal-...				POS		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{uruda}ka-mar-x-...		PN	PN.GEN	Iabcdefgh	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+ha-bu3-da		V	V	POS		(UNKNOWN (word *))
+dub2-ba		V	V	POS		(UNKNOWN (word *))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+{uruda}gur10		N	N.ABS	Iabcde	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{uruda}za3-szu4		N	N	Ia		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{uruda}za3-szu4		N	N	Ia		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{uruda}sur-sur-ru-um		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+gir2		PN	PN	POS		(AGENT (PERSON (PN (word *))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{uruda}a2-ga-am		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ra-x-x		PN	PN	POS		(AGENT (PERSON (PN (word *))))
+...-na		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))))
+
