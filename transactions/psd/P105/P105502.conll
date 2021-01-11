@@ -1,0 +1,48 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P105/P105502.conll #
+##############################################################################################
+
+#new_text=P105502
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+ur5		N	N	Ia		(UNKNOWN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+se3-ga	sig[equal]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	B-COM	(PRODUCT_NAME (COM *)))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+du10-ga-mu	Dugamu[1]	PN	PN	D		(PERSON (PN (word *)))))
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+imgaga3		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-{d}szara2	Urszara[1]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+sza3-igi-sa6-sa6		PN	PN	Iabc		(PERSON (PN (word *)))))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ab-ba	abba[father]	PN	PN	D		(PERSON (PN (word *)))))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+a-du-mu	Adumu[1][-ra]	PN	PN.GEN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+bar-ta	bar[outside]-ta	N	N.ABL	D		(UNKNOWN (word *))
+gal2-la	gal[be]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *)))))
+

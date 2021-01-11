@@ -1,0 +1,363 @@
+# train/P115963.atf
+						
+
+# tr.en: male laborers for months labor of male laborers workdays are debits therefrom workdays male laborers storage facility erected under seal of Urtur workdays male laborers under seal of Lugal-nidbae workdays male laborers under seal of Urtur workdays male laborers Lugal-ezem workdays male laborers to Girsu small barge workdays male laborers under seal of Abbasaga workdays male laborers sealed documents are under seal of Urmes household manager workdays male laborers labor of Szutirum via Baer bales fodder reed under seal of Abbasaga workdays male laborers stationed at marsa under seal of Ur-Baba gur straw under seal of Urmes bales of NE-reed its labor of male laborers under seal of Lugal-Ninubur total booked out workdays male laborers labor of male laborers sat-out days labor surplus workdays male laborers barge with reed from Girsu punted workdays male laborers at marsa stationed under seal of Ur-Baba workdays male laborers reed uprooted under seal of Nir-urum gur straw the st time gur straw the nd time unders seal of Urmes bales of fodder-reed the labor of male laborers workdays male laborers under seal of Szama-ikur workdays male laborers storage facility of marsa erected under seal of Urtur workdays male laborers under seal of Lugal-nidbae booked out workdays male laborers labor of sat-out days labor surplus male laborers account of Erreb under seal of Urtur gur straw under seal of Urmes booked out workdays male laborers labor of sat-out days the deficit workdays male laborers account of Niglaa male laborers for months its labor workdays for day are debits therefrom workdays male laborers workdays male laborers labor of Adda-tillati via Baer male laborers for months its labor workdays for day are debits therefrom workdays male laborers under seal of Urmes workdays male laborers at marsa stationed under seal of Ur-Baba bales of fodder-reed under seal of Abbasaga bales of NE-reed under seal of Lugal-Ninubur workdays male laborers under seal of Ur- workdays male laborers under seal of Abbasaga workdays male laborers storage facility of marsa erected foreman Adalal year unuri was destroyed
+1	1(u)	_	,	2	nummod	
+2	gurusz	male laborers for	NNS	0	root	
+3	iti	months	NNS	2	nmod:for	
+4	1(u)	_	_	0	nummod	
+5	2(disz)-sze3	_	_	4	nummod	
+6	a2	labor	NN	2	appos	
+7	gurusz-bi	male laborers	NNS	6	nmod:of	
+8	1(szar2)	_	,	9	nummod	
+9	u4	workdays	NNS	11	nsubj	
+10	1(disz)-sze3	_	_	0	nummod	
+11	sag-nig2-gur11-ra-kam	are debits	NNS	2	_	
+12	sza3-bi-ta	therefrom	RB	15	_	
+13	4(u)	_	,	15	nummod	
+14	7(disz)	_	_	13	nummod	
+15	gurusz	workdays male laborers	NNS	11	_	
+16	u4	_	_	0	_	
+17	1(disz)-sze3	_	_	0	nummod	
+18	ga2-nun	storage facility	NN	19	nsubj	
+19	du3-a	erected	VBD	15	conj	
+20	kiszib3	under seal	NN	15	conj	
+21	ur-tur	Urtur	NNP	20	nmod:of	
+22	3(gesz2)	_	IN	21	nummod	
+23	5(u)	_	,	25	nummod	
+24	8(disz)	_	_	23	nummod	
+25	gurusz	workdays male laborers	NNS	15	conj	
+26	u4	_	_	0	_	
+27	1(disz)-sze3	_	_	0	nummod	
+28	kiszib3	under seal	NN	25	nmod:under	
+29	lugal-nidba-e	Lugal-nidbae	NN	28	nmod:of	
+30	1(gesz2)	_	IN	29	nummod	
+31	1(u)	_	,	15	nummod	
+32	5(disz)	_	_	31	nummod	
+33	gurusz	workdays male laborers	NNS	15	conj	
+34	u4	_	_	0	_	
+35	1(disz)-sze3	_	_	0	nummod	
+36	kiszib3	under seal	NN	15	conj	
+37	ur-tur	Urtur	NNP	36	nmod:of	
+38	1(u)	_	:	39	nummod	
+39	gurusz	workdays male laborers	NNS	15	conj	
+40	u4	_	CD	45	nummod	
+41	1(disz)-sze3	_	_	0	nummod	
+42	lugal-ezem	Lugal-ezem	NN	39	conj	
+43	2(u)	_	:	49	nummod	
+44	4(disz)	_	CD	52	nummod	
+45	gurusz	workdays male laborers	NNS	39	conj	
+46	u4	_	_	0	_	
+47	1(disz)-sze3	_	_	0	nummod	
+48	gir2-su{ki}-sze3	to Girsu	NNP	45	nmod:to	
+49	ma2	barge	NN	48	_	
+50	tur	small	JJ	49	amod	
+51	5(u)	_	:	49	nummod	
+52	gurusz	workdays male laborers	NNS	49	_	
+53	u4	_	CD	58	nummod	
+54	1(disz)-sze3	_	_	0	nummod	
+55	kiszib3	under seal	NN	52	nmod:under	
+56	ab-ba-sa6-ga	Abbasaga	NNP	55	nmod:of	
+57	3(gesz2)	_	CD	58	nummod	
+58	gurusz	workdays male laborers	NNS	49	_	
+59	u4	_	,	58	_	
+60	1(disz)-sze3	_	_	0	nummod	
+61	kiszib3-bi	sealed documents are	NNS	57	nsubj	
+62	2(disz)-am3	_	_	0	nummod	
+63	kiszib3	under seal	NN	58	nmod:under	
+64	ur-mes	Urmes	NNS	63	nmod:of	
+65	szabra	household manager	NN	58	appos	
+66	1(gesz2)	_	,	49	nummod	
+67	gurusz	workdays male laborers	NNS	49	_	
+68	u4	_	_	0	_	
+69	1(disz)-sze3	_	_	0	nummod	
+70	a2	labor	NN	67	appos	
+71	szu-ti-ru-um	Szutirum	NNP	70	nmod:of	
+72	giri3	via	IN	76	nmod:via	
+73	ba-er	Baer	NN	76	compound	
+74	2(gesz2)	_	,	76	nummod	
+75	5(u)	_	_	74	nummod	
+76	gu-nigin2	bales	NNS	49	nmod:via	
+77	gi-zi	fodder reed	NN	76	appos	
+78	kiszib3	under seal	NN	49	nmod:under	
+79	ab-ba-sa6-ga	Abbasaga	NNP	78	nmod:of	
+80	4(gesz2)	_	IN	79	nummod	
+81	4(u)	_	,	83	nummod	
+82	4(disz)	_	_	81	nummod	
+83	gurusz	workdays male laborers	NNS	39	conj	
+84	u4	_	_	0	_	
+85	1(disz)-sze3	_	_	0	nummod	
+86	mar-sa-a	at marsa	NN	87	nmod:at	
+87	gub-ba	stationed	VBN	83	acl	
+88	kiszib3	under seal	NN	83	nmod:under	
+89	ur-{d}ba-ba6	Ur-Baba	NNP	88	nmod:of	
+90	1(gesz'u)	_	IN	89	nummod	
+91	7(gesz2)	_	,	39	nummod	
+92	4(u)	_	_	91	nummod	
+93	6(asz)	_	_	91	nummod	
+94	gur	gur	NN	95	compound	
+95	in-nu	straw	NN	39	conj	
+96	kiszib3	under seal	NN	39	nmod:under	
+97	ur-mes	Urmes	NNS	96	nmod:of	
+98	2(gesz2)	_	IN	97	nummod	
+99	1(u)	_	_	98	nummod	
+100	5(disz)	_	_	98	nummod	
+101	gu-nigin2	bales	NNS	15	conj	
+102	gi	_	_	0	_	
+103	NE	NE-reed	NN	101	nmod:of	
+104	a2	labor	NN	101	appos	
+105	gurusz-bi	its male laborers	PRP$	104	nmod:poss	
+106	1(gesz2)	its male laborers	NNS	104	nummod	
+107	7(disz)	_	_	106	nummod	
+108	1/2(disz)	_	CD	15	nummod	
+109	kiszib3	under seal	NN	108	nmod:under	
+110	lugal-{d}nin-szubur	Lugal-Ninubur	NNP	109	nmod:of	
+111	szunigin	total	NN	11	_	
+112	3(gesz'u)	_	:	11	nummod	
+113	x	_	CD	116	dep	
+114	zi-ga	booked out	VBN	111	acl	
+115	3(gesz'u)	_	,	116	nummod	
+116	gurusz	workdays male laborers	NNS	11	_	
+117	u4	_	_	0	_	
+118	1(disz)-sze3	_	_	0	nummod	
+119	x	_	NN	124	dep	
+120	a2	labor	NN	116	appos	
+121	gurusz	male laborers	NNS	120	nmod:of	
+122	u4-tusz-a	sat-out days	JJ	123	amod	
+123	...	sat-out days	NNS	116	appos	
+124	a2	labor	NN	116	appos	
+125	diri	surplus	NN	116	appos	
+126	7(gesz2)	_	CD	132	nummod	
+127	5(u)	_	CD	126	nummod	
+128	1(disz)	_	_	126	nummod	
+129	1/2(disz)	_	_	126	nummod	
+130	2(gesz2)	_	,	132	nummod	
+131	3(u)	_	_	130	nummod	
+132	gurusz	workdays male laborers	NNS	138	nsubj	
+133	u4	_	_	0	_	
+134	1(disz)-sze3	_	_	0	nummod	
+135	ma2	barge with	NN	132	appos	
+136	gi	reed	NN	135	nmod:with	
+137	gir2-su{ki}-sze3	from Girsu	NNP	136	nmod:from	
+138	gid2-da	punted	VBD	116	acl	
+139	2(gesz2)	_	,	138	nummod	
+140	2(u)	_	_	139	nummod	
+141	gurusz	workdays male laborers	NNS	138	conj	
+142	u4	_	_	0	_	
+143	1(disz)-sze3	_	_	0	nummod	
+144	mar-sa	at marsa	NN	138	nmod:at	
+145	gub-ba	stationed	VBN	144	acl	
+146	kiszib3	under seal	NN	145	nmod:under	
+147	ur-{d}ba-ba6	Ur-Baba	NNP	146	nmod:of	
+148	1(u)	_	,	149	nummod	
+149	gurusz	workdays male laborers	NNS	153	nsubjpass	
+150	u4	_	_	0	_	
+151	1(disz)-sze3	_	_	0	nummod	
+152	gi	reed	VBD	153	auxpass	
+153	ze2-a	uprooted	VBN	138	parataxis	
+154	kiszib3	under seal	NN	153	nmod:under	
+155	nig2-u2-rum	Nir-urum	NN	154	nmod:of	
+156	4(gesz2)	_	,	158	nummod	
+157	3(u)	_	_	156	nummod	
+158	in-nu	straw	NN	138	parataxis	
+159	gur	gur	NN	158	compound	
+160	a-ra2	the st time	DT	158	det	
+161	1(disz)-kam	the st time	JJ	158	nummod	
+162	1(gesz'u)	_	:	158	nummod	
+163	7(gesz2)	_	,	166	nummod	
+164	4(u)	_	_	163	nummod	
+165	6(asz)	_	_	163	nummod	
+166	in-nu	straw	NN	158	conj	
+167	gur	gur	NN	166	compound	
+168	a-ra2	the nd time	NN	166	appos	
+169	2(disz)-kam	_	,	166	nummod	
+170	kiszib3	seal	NN	166	appos	
+171	ur-mes	unders Urmes	NNS	170	compound	
+172	2(gesz2)	unders Urmes	NNS	170	nummod	
+173	1(u)	_	,	158	nummod	
+174	5(disz)	_	_	173	nummod	
+175	gu-nigin2	bales	NNS	158	conj	
+176	gi-zi	fodder-reed	NN	175	nmod:of	
+177	a2	the labor	NN	158	appos	
+178	gurusz-bi	male laborers	JJ	179	amod	
+179	1(gesz2)	male laborers	NNS	177	nummod	
+180	7(disz)	_	,	182	nummod	
+181	1/2(disz)	_	_	180	nummod	
+182	gurusz	workdays male laborers	NNS	158	_	
+183	u4	_	_	0	_	
+184	1(disz)-sze3	_	_	0	nummod	
+185	kiszib3	under seal	NN	182	nmod:under	
+186	{d}utu-ik-s,ur2	Szama-ikur	NN	185	nmod:of	
+187	4(u)	_	,	189	nummod	
+188	7(disz)	_	_	187	nummod	
+189	gurusz	workdays male laborers	NNS	182	conj	
+190	u4	_	_	0	_	
+191	1(disz)-sze3	_	_	0	nummod	
+192	ga2-nun	storage facility	NN	189	appos	
+193	mar-sa	marsa	NN	192	nmod:of	
+194	du3-a	erected	VBN	192	acl	
+195	kiszib3	under seal	NN	182	conj	
+196	ur-tur	Urtur	NNP	195	nmod:of	
+197	2(u)	_	,	199	nummod	
+198	4(disz)	_	_	197	nummod	
+199	gurusz	workdays male laborers	NNS	182	conj	
+200	u4	_	_	0	_	
+201	1(disz)-sze3	_	_	0	nummod	
+202	kiszib3	under seal	NN	199	nmod:under	
+203	lugal-nidba2-e	Lugal-nidbae	NN	202	nmod:of	
+204	($	_	IN	203	nmod:of	
+205	blank	_	_	0	_	
+206	space	_	_	0	_	
+207	$)	_	_	0	_	
+208	3(gesz'u)	_	_	0	nummod	
+209	1(gesz2)	_	_	208	nummod	
+210	4(disz)	_	_	208	nummod	
+211	1/2(disz)	_	_	208	nummod	
+212	zi-ga-am3	booked out	VBN	182	acl	
+213	3(gesz'u)	_	,	214	nummod	
+214	gurusz	workdays male laborers	NNS	182	_	
+215	u4	_	_	0	_	
+216	1(disz)-sze3	_	_	0	nummod	
+217	a2	labor	NN	214	appos	
+218	u4-tusz-a	sat-out days	NNS	217	nmod:of	
+219	a2	labor	NN	214	appos	
+220	diri	surplus	NN	214	appos	
+221	1(gesz2)	_	:	224	nummod	
+222	4(disz)	_	_	221	nummod	
+223	1/2(disz)	_	_	221	nummod	
+224	gurusz	male laborers	NNS	214	_	
+225	nig2-ga-ak	account	NN	224	_	
+226	er3-re-eb	Erreb	NNP	225	nmod:of	
+227	kiszib3	under seal	NN	225	nmod:under	
+228	ur-tur	Urtur	NNP	227	nmod:of	
+229	1(gesz'u)	_	IN	228	nummod	
+230	7(gesz2)	_	,	225	nummod	
+231	4(u)	_	_	230	nummod	
+232	6(asz)	_	_	230	nummod	
+233	gur	gur	NN	234	compound	
+234	in-nu	straw	NN	225	_	
+235	kiszib3	under seal	NN	225	nmod:under	
+236	ur-mes	Urmes	NNS	235	nmod:of	
+237	($	_	IN	236	nmod:of	
+238	blank	_	_	0	_	
+239	space	_	_	0	_	
+240	$)	_	_	0	_	
+241	2(gesz'u)	_	_	0	nummod	
+242	2(gesz2)	_	_	241	nummod	
+243	3(u)	_	_	241	nummod	
+244	2(disz)	_	_	241	nummod	
+245	zi-ga-am3	booked out	VBN	225	acl	
+246	3(gesz'u)	_	,	225	nummod	
+247	gurusz	workdays male laborers	NNS	225	_	
+248	u4	_	_	0	_	
+249	1(disz)-sze3	_	_	0	nummod	
+250	a2	labor	NN	225	appos	
+251	u4-tusz-a	sat-out days	NNS	250	nmod:of	
+252	la2-ia3	the deficit	DT	253	det	
+253	7(gesz2)	the deficit	NN	225	nummod	
+254	2(u)	_	:	256	nummod	
+255	8(disz)	_	_	254	nummod	
+256	gurusz	workdays male laborers	NNS	225	_	
+257	u4	_	_	0	_	
+258	1(disz)-sze3	_	_	0	nummod	
+259	nig2-ka9-ak	account	NN	256	_	
+260	nig2-la-a	Niglaa	NN	259	nmod:of	
+261	1(u)	_	,	262	nummod	
+262	gurusz	male laborers	NNS	256	_	
+263	iti	months	NNS	262	nmod:for	
+264	u4	for	IN	263	nmod:for	
+265	1(u)	_	_	0	nummod	
+266	2(disz)-sze3	_	_	265	nummod	
+267	a2-bi	its labor	NN	262	appos	
+268	u4	workdays	NNS	272	nsubj	
+269	1(szar2)-kam	_	,	268	nummod	
+270	u4	for day	NN	268	nmod:for	
+271	1(disz)-sze3	_	,	268	nummod	
+272	sag-nig2-gur11-ra-kam	are debits	NNS	262	_	
+273	sza3-bi-ta	therefrom	RB	275	_	
+274	2(u)	_	,	275	nummod	
+275	gurusz	workdays male laborers	NNS	297	nsubj	
+276	u4	_	CD	279	nummod	
+277	1(disz)-sze3	_	_	0	nummod	
+278	1(gesz2)	_	,	275	nummod	
+279	gurusz	workdays male laborers	NNS	275	conj	
+280	u4	_	_	0	_	
+281	1(disz)-sze3	_	_	0	nummod	
+282	a2	labor	NN	275	conj	
+283	{d}iszkur-illat	Adda-tillati	NN	282	nmod:of	
+284	giri3	via	IN	285	nmod:via	
+285	ba-er	Baer	NN	275	conj	
+286	1(u)	_	,	287	nummod	
+287	gurusz	male laborers	NNS	275	conj	
+288	iti	months	NNS	287	nmod:for	
+289	u4	for	IN	288	nmod:for	
+290	1(u)	_	_	0	nummod	
+291	2(disz)-sze3	_	_	290	nummod	
+292	a2-bi	its labor	NN	287	appos	
+293	u4	workdays	NNS	275	_	
+294	1(szar2)-kam	_	,	275	nummod	
+295	u4	for day	NN	275	nmod:for	
+296	1(disz)-sze3	_	,	275	nummod	
+297	sag-nig2-gur11-ra-kam	are debits	NNS	256	_	
+298	sza3-bi-ta	therefrom	RB	300	_	
+299	1(gesz2)	_	,	300	nummod	
+300	gurusz	workdays male laborers	NNS	256	_	
+301	u4	_	_	0	_	
+302	1(disz)-sze3	_	_	0	nummod	
+303	kiszib3	under seal	NN	300	conj	
+304	ur-mes	Urmes	NNS	303	nmod:of	
+305	2(u)	_	,	307	nummod	
+306	4(disz)	_	_	305	nummod	
+307	gurusz	workdays male laborers	NNS	300	conj	
+308	u4	_	_	0	_	
+309	1(disz)-sze3	_	_	0	nummod	
+310	mar-sa	at marsa	NN	307	nmod:at	
+311	gub-ba	stationed	VBN	310	acl	
+312	kiszib3	under seal	NN	307	nmod:under	
+313	ur-{d}ba-ba6	Ur-Baba	NNP	312	nmod:of	
+314	1(gesz2)	_	,	300	nummod	
+315	gu-nigin2	bales	NNS	300	conj	
+316	gi-zi	fodder-reed	NN	315	nmod:of	
+317	kiszib3	under seal	NN	300	conj	
+318	ab-ba-sa6-ga	Abbasaga	NNP	317	nmod:of	
+319	1(u)	_	,	300	nummod	
+320	5(disz)	_	_	319	nummod	
+321	gu-nigin2	bales	NNS	300	conj	
+322	gi	_	_	0	_	
+323	NE	NE-reed	NN	321	nmod:of	
+324	kiszib3	under seal	NN	300	conj	
+325	lugal-{d}nin-szubur	Lugal-Ninubur	NNP	324	nmod:of	
+326	2(u)	_	,	300	nummod	
+327	gurusz	workdays male laborers	NNS	300	conj	
+328	u4	_	_	0	_	
+329	1(disz)-sze3	_	_	0	nummod	
+330	kiszib3	under seal	NN	300	conj	
+331	ur-...	_	:	300	_	
+332	1(gesz2)	_	,	333	nummod	
+333	gurusz	workdays male laborers	NNS	300	conj	
+334	u4	_	_	0	_	
+335	1(disz)-sze3	_	_	0	nummod	
+336	kiszib3	under seal	NN	333	nmod:under	
+337	ab-ba-sa6-ga	Abbasaga	NNP	336	nmod:of	
+338	x-x-ni-da-a	_	IN	337	nmod:of	
+339	4(u)	_	,	341	nummod	
+340	7(disz)	_	_	339	nummod	
+341	gurusz	workdays male laborers	NNS	300	_	
+342	u4	_	_	0	_	
+343	1(disz)-sze3	_	_	0	nummod	
+344	ga2-nun	storage facility	NN	341	conj	
+345	mar-sa	marsa	NN	344	nmod:of	
+346	du3-a	erected	VBN	344	acl	
+347	ugula	foreman	NN	341	_	
+348	a-da-lal3	Adalal	NNP	347	_	
+349	mu	year	NN	348	appos	
+350	hu-uh2-nu-ri{ki}	unuri	NNP	352	nsubjpass	
+351	ba-hul	was destroyed	VBD	352	auxpass	
+352	1(u)	was destroyed	VBN	348	nummod	
+353	($	_	CD	39	nummod	
+354	blank	_	,	39	_	
+355	space	_	,	39	_	
+356	$)	_	,	214	_	
+357	2(disz)	_	_	0	nummod
+	
+

@@ -1,0 +1,37 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P113/P113787.conll #
+##############################################################################################
+
+#new_text=P113787
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *)))
+usz2	usz[dead][-ø]	N	NF.V.ABS	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+amar	amar[calf][-ak]	N	N	D		(PRODUCT_NAME (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))))
+usz2	usz[dead][-ø]	N	NF.V.ABS	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ansze	ansze[donkey]	N	N	D		(PRODUCT_NAME (word *))))
+usz2	usz[dead][-ø]	N	NF.V.ABS	D		(UNKNOWN (word *))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+sa	sa[bundle]	N	N	D		(UNIT (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))))
+gesz-kin-ti	geszkigti[workshop][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+nin-a-sze3		N	N.3-SG-H-POSS.GEN.GEN.TERM	Iabcdefg		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ip-qu2-sza		PN	PN	Ia		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOB (JOBNAME (word *))
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D		(CITY (word *)))))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))))
+

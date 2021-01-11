@@ -1,0 +1,129 @@
+# train/P135982.atf
+						
+
+# tr.en: gur ban sila sesame seeds remaining deficit from year Kima was destroyed gur Albanidu gur Lu-girizal gur Ur-nigar gur Lugal-dingirmu gur Ur-Nun-gal gur Zabasage gur Ekidu gur Ur-geamuna gur Ur-Ikur ban Uga Nin-ukkene ARAD-Szara gur Szulpae barig sesame seeds in debit account of Ur-ee set under seal of Ur-Szara chief accountant shekels silver its sesame seed bur ban its silver in debit account of Dadaga set in debit account having set male laborers for months in debit account of Lugal-kuzu set in debit account having set total gur barig ban sesame seeds total flax-ploughmen returned booked out the deficit gur barig sila sesame seeds account of Ur-Baba year after Kima was destroyed
+1	3(asz)	_	,	6	nummod	
+2	3(ban2)	_	_	1	nummod	
+3	2(disz)	_	_	1	nummod	
+4	2/3(disz)	ban	NN	6	nummod	
+5	sila3	sila	NN	6	compound	
+6	sze-gesz-i3	sesame seeds	NNS	0	root	
+7	gur	gur	NN	6	compound	
+8	si-i3-tum	remaining deficit from	NN	6	appos	
+9	mu	year	NN	8	nmod:from	
+10	ki-masz{ki}	_	:	6	_	
+11	ba-hul	was destroyed	VBN	6	acl	
+12	1(asz)	_	,	13	nummod	
+13	gur	gur	NN	11	_	
+14	al-ba-ni-du11	Albanidu	NNP	13	appos	
+15	1(asz)	_	,	13	nummod	
+16	gur	gur	NN	13	appos	
+17	lu2-giri17-zal	Lu-girizal	NN	13	appos	
+18	1(asz)	_	,	13	nummod	
+19	gur	gur	NN	13	appos	
+20	ur-nigar{gar}	Ur-nigar	NN	13	appos	
+21	1(asz)	_	,	13	nummod	
+22	gur	gur	NN	13	appos	
+23	lugal-dingir-mu	Lugal-dingirmu	NN	13	appos	
+24	1(asz)	_	,	13	nummod	
+25	gur	gur	NN	13	appos	
+26	ur-{d}nun-gal	Ur-Nun-gal	NNP	13	appos	
+27	1(asz)	_	,	13	nummod	
+28	gur	gur	NN	13	appos	
+29	za-ba-sa6-ge	Zabasage	NN	13	appos	
+30	1(asz)	_	,	13	nummod	
+31	gur	gur	NN	13	appos	
+32	esz3-ki-du10	Ekidu	NN	13	appos	
+33	1(asz)	_	,	13	nummod	
+34	gur	gur	NN	13	appos	
+35	ur-{d}gesz-ha-mun-na	Ur-geamuna	NN	13	appos	
+36	1(asz)	_	NN	41	nummod	
+37	gur	gur	NN	13	appos	
+38	ur-{d}iszkur	Ur-Ikur	NNP	13	appos	
+39	n	_	NN	13	appos	
+40	3(ban2)	_	,	13	nummod	
+41	{gesz}u2-ga	ban Uga	NN	13	appos	
+42	n	_	,	13	_	
+43	nin-ukken-ne2	Nin-ukkene	NN	13	appos	
+44	...	_	NN	49	dep	
+45	ARAD2-{d}szara2	ARAD-Szara	NN	13	appos	
+46	'.	_	,	49	_	
+47	n	_	_	0	_	
+48	...	_	NN	53	dep	
+49	gur	gur	NN	13	_	
+50	'.	_	,	49	_	
+51	...	_	_	0	dep	
+52	x	_	CD	56	dep	
+53	{d}szul-pa-e3	Szulpae	NN	49	conj	
+54	'.	_	:	13	_	
+55	4(barig)	barig	NN	56	nummod	
+56	sze-gesz-i3	sesame seeds	NNS	49	appos	
+57	ugu2	_	_	0	_	
+58	ur-e11-e	Ur-ee	NN	59	nmod:of	
+59	ba-a-gar	in debit account set	NN	49	nmod:in	
+60	'.	_	CD	68	nummod	
+61	kiszib3	under seal	NN	13	nmod:under	
+62	ur-{d}szara2	Ur-Szara	NNP	61	nmod:of	
+63	sza13-dub-ba	chief accountant	NN	62	appos	
+64	'.	_	:	68	_	
+65	1(u)	_	_	0	nummod	
+66	5(disz)	_	_	65	nummod	
+67	2/3(disz)	_	_	65	nummod	
+68	gin2	shekels	NNS	13	_	
+69	ku3	silver	NN	68	_	
+70	sze-gesz-i3-bi	its sesame seed bur	NN	68	appos	
+71	3(asz)	_	_	0	nummod	
+72	4(ban2)	ban	NN	68	nummod	
+73	gur	_	_	0	_	
+74	'.	_	,	75	_	
+75	ku3-bi	its silver	NN	68	_	
+76	ugu2	_	CD	83	nummod	
+77	da-da-ga	Dadaga	NNP	80	compound	
+78	ba-a-gar	in debit account	NN	75	nmod:in	
+79	ugu2-a	_	_	0	_	
+80	ga2-ra-ta	debit account having set set in	NN	78	nmod:of	
+81	'.	_	,	75	_	
+82	5(disz)	_	_	0	nummod	
+83	gurusz	male laborers for	NNS	75	appos	
+84	iti	months	NNS	83	nmod:for	
+85	1(u)	_	_	0	nummod	
+86	3(disz)-sze3	_	_	85	nummod	
+87	'.	_	:	68	_	
+88	ugu2	_	_	0	_	
+89	lugal-ku3-zu	Lugal-kuzu	JJ	92	amod	
+90	ba-a-gar	in debit account	NN	75	nmod:in	
+91	ugu2-a	_	_	0	_	
+92	ga2-ra-ta	having set set in debit account	NN	90	nmod:of	
+93	'.	_	,	68	_	
+94	szunigin	total	NN	68	_	
+95	1(u)	_	_	0	nummod	
+96	1(barig)	_	_	95	nummod	
+97	4(ban2)	barig ban	NN	98	nummod	
+98	sze-gesz-i3	sesame seeds	NNS	99	_	
+99	gur	gur	NN	94	_	
+100	'.	_	,	103	_	
+101	szunigin	total	NN	68	appos	
+102	5(disz)	_	_	0	nummod	
+103	engar-gesz-i3-ka-ta	flax-ploughmen	NNS	106	nsubj	
+104	gur-ra	returned	VBD	103	appos	
+105	'.	_	:	106	_	
+106	zi-ga-am3	booked out	VBD	68	acl	
+107	'.	_	,	115	_	
+108	la2-ia3	the deficit	NN	106	dobj	
+109	3(asz)	_	_	0	nummod	
+110	4(barig)	_	_	109	nummod	
+111	2(disz)	_	_	109	nummod	
+112	2/3(disz)	barig	NN	114	nummod	
+113	sila3	sila	NN	114	compound	
+114	sze-gesz-i3	sesame seeds	NNS	115	_	
+115	gur	gur	NN	108	_	
+116	'.	_	,	115	_	
+117	nig2-ka9-ak	account	NN	115	appos	
+118	ur-{d}ba-ba6	Ur-Baba	NNP	117	nmod:of	
+119	'.	_	.	6	_	
+120	mu	year	NN	115	appos	
+121	us2-sa	after	IN	120	nmod:after	
+122	ki-masz{ki}	_	:	115	_	
+123	ba-hul	was destroyed	VBN	115	acl
+	
+

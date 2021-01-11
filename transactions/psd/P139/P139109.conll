@@ -1,0 +1,31 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P139/P139109.conll #
+##############################################################################################
+
+#new_text=P139109
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (word *)))
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+gu	gu[cord]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gen		V	NF.V.PT.GEN	Iabcdef		(UNKNOWN (word *))
+x-{d}nin-gesz-zi-da		PN	PN.GEN.GEN.ABS	Iabcdefg		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(EPILOG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D		(AGENT (PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+tu-ra-am-i3-li2	Turamili[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *)))))))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-an-ti-esz2		V	MID.3-SG-H-A.V.3-PL	Iabcdefg		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *)))))
+

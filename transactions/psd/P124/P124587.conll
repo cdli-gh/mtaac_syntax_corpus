@@ -1,0 +1,36 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P124/P124587.conll #
+#########################################################################################
+
+#new_text=P124587
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+a-ma-a		PN	PN	Ia		(AGENT (PERSON (PN (word *)))))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-bi-mu		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ur-{d}lamma	Urlamma[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ur-ge6-par4	Ur-gepar[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+dub-sar-me		N	N.ABS.COP-3-PL	Iabcde		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

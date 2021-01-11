@@ -1,0 +1,75 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P235/P235350.conll #
+#########################################################################################
+
+#new_text=P235350
+gu4	gud[ox]	N	N	D		(DOC (FRAG (PRODUCT_NAME (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(PN (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-a		NU	NU.L1	Iab	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_NAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a2	a[time]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+gu4-da		N	N	Ia		(UNKNOWN (word *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*))
+a2-gu4-da		N	N.GEN.L1	Iabc		(UNKNOWN (word *))
+lugal-pa-e3	Lugalpa’e[1]	PN	PN	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(AGENT (PERSON (PN (word *))))))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*))
+a2	a[time]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+gu4-da		N	N	Ia		(UNKNOWN (word *))
+ur-{d}en-lil2		PN	PN	Iabcde		(PN (word *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ur-{d}szara2	Urszara[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+lugal-a2-mu		PN	PN.ERG	Iab		(PN (word *))))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ib2-x-x		PN	PN	Iabcdefgh		(PN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(u)-sze3	1(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*))
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT (PRODUCT_NAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))))
+

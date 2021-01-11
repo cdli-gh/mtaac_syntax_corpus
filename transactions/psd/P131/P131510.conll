@@ -1,0 +1,59 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P131/P131510.conll #
+##############################################################################################
+
+#new_text=P131510
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+muszen		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+e2-mah-sze3		N	N.GEN.TERM	Iabcdefgh		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+muszen		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+u5-sim		V	V	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+muszen		N	N	Ia		(UNKNOWN (word *))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+muszen		N	N	Ia		(UNKNOWN (word *))
+u5-szim		PN	PN	POS		(PN (word *))
+{d}inanna-ka		PN	PN.ABS	D		(PN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+me-{d}iszkur-sze3		PN	PN.GEN.TERM	Iabcdef		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+muszen		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(CITY (SZA3 (word *))
+uri5{ki}	Urim[1][-ak]	SN	SN.GEN	D		(word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*))
+muszen		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+muszen		N	N	Ia		(UNKNOWN (word *))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D		(CITY|NATIONALITY (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+e2-mah-sze3		N	N.GEN.TERM	Iabcdefgh		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ka-lal3		PN	PN	Iabcdefgh		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))))
+

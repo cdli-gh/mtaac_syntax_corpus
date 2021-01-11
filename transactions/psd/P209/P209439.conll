@@ -1,0 +1,53 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P209/P209439.conll #
+##############################################################################################
+
+#new_text=P209439
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+lugal	lugal[king]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+dabin	dabin[semolina]	N	N	D		(PRODUCT_NAME (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+nig2-sag3-ga		N	N	Ia		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+nig2-lagar-ka		FN	FN	POS		(CITY (word *))
+ba-a-mu		PN	PN.GEN.ABS	D		(PN (word *))
+giri3-ni	Girini[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+ha-la-mu		PN	PN	Ia		(PN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+lu2-iti-da		PN	PN	Iabcde		(PN (word *))
+ib2-su-su-de3		V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	Iabcdefg		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *)))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *)))
+1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+pa5-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+sza		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+iti	iti[month]	N	N	D		(ITI (word *))
+min-sze3-ta		MN	MN.GEN.ABL	Iabcdefg		(MONTH_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+zal-la	zal[pass]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY (word *)))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))))
+

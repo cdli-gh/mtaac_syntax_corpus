@@ -1,0 +1,44 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P101/P101661.conll #
+##############################################################################################
+
+#new_text=P101661
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+u2-hab2		PN	PN	Iabcde		(PN (word *))
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+sa	sa[bundle]	N	N	D		(UNIT (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+kur	kur[east]	N	N	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+nin-ke4		N	N	POS		(UNKNOWN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+du7-a	du[in_working_order]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ensi2-ta	ensik[ruler][-ak]-ta	N	N.GEN.ABL	D		(PERSON (JOB (JOBNAME (word *)))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+i-di3-szu-en6		PN	PN.GEN.ABS	Iab		(PERSON (PN (word *))))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+i-di3-szu-...		PN	PN.DAT-H	Iab		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+i-la-...		PN	PN	Iabcde		(PERSON (PN (word *)))))))
+

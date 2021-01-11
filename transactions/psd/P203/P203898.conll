@@ -1,0 +1,45 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P203/P203898.conll #
+##############################################################################################
+
+#new_text=P203898
+la2-ia3	la'u[arrears]	N	N	D		(DOC (FRAG (PRODUCT (PRODUCT_NAME (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+u8	u[ewe]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))))
+gal	gal[big][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+udu-nita2	udunita[ram]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sila4	sila[lamb]	N	N	D		(PRODUCT_NAME (word *))))
+ba-ur4		V	V	POS		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nu-ur4		V	V	POS		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2-sag		N	N.GEN	Iabcdef	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+libir-am3	libir[old][-ø][-ø]-am[-ra]	V	NF.V.ABS.ABS.COP-3-SG.DAT-H	D		(PRODUCT_PARAM (word *)))))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+su-su	sug-sug[repay][-ed]	V	NF.V.RDP.PF	D		(UNKNOWN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+u8	u[ewe]	N	N	D		(PRODUCT_NAME (word *))
+la2-ia3-am3		V	V	POS		(UNKNOWN (word *))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+lugal-dalla		PN	PN	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	B-COM	(PRODUCT_NAME (COM *)))))
+

@@ -1,0 +1,72 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P208/P208878.conll #
+#########################################################################################
+
+#new_text=P208878
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*)))
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gu2-nida		N	N.GEN	Iabcdef		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+duru5		V	V	POS		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+e2-diri-ki-du10		PN	PN	Iabcde		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(PN (word *))
+szunigin2		N	N	Ia		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+szunigin2		N	N	Ia		(UNKNOWN (word *))
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+szunigin2		N	N	Ia		(UNKNOWN (word *))
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gu2-nida		N	N.GEN	Iabcdef		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+szunigin2		N	N	Ia		(UNKNOWN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+duru5		V	V	POS		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+ziz2	ziz[emmer]	N	N	D		(PRODUCT_NAME (word *))
+nibru{ki}-ta	Nibru[1]-ta	SN	SN.ABL	D		(CITY|NATIONALITY (word *))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+gir2-su{ki}-ka	Girsu[1][-ak][-ak]	SN	SN.GEN.GEN	D		(CITY|NATIONALITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

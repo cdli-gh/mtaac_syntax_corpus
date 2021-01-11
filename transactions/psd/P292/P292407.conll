@@ -1,0 +1,43 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P292/P292407.conll #
+##############################################################################################
+
+#new_text=P292407
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+ba-al-la	bala[transfer]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+guru7-a	guru[store]-'a	N	N.L1	D		(UNKNOWN (word *))
+im	im[clay][-ø]	N	N	D		(UNKNOWN (word *))
+ur3-ra	ur[level_off]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-sur-ta		N	N.GEN.ABL	Iabcdef		(UNKNOWN (word *))
+nibru{ki}-sze3	Nibru[1]-sze	SN	SN.TERM	D		(CITY|NATIONALITY (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+gu2-tar		PN	PN.GEN	Iabcdefgh		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en-unu6-gal	Enunugal[1]	PN	PN	D		(PN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+he2-ma-du	Hemadu[1][-ak][-ak]	V	PN.GEN.GEN	D		(UNKNOWN (word *))))
+

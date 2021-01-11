@@ -1,0 +1,39 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P115/P115243.conll #
+##############################################################################################
+
+#new_text=P115243
+libir		V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcdefghi		(DOC (FRAG (UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+ansze	ansze[donkey]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ansze-KU-ta		PN	PN	POS		(PERSON (PN (word *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(PERSON (JOB (JOBNAME (word *))))))
+en-ta		N	N	POS		(UNKNOWN (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+apin	apin[plow]	N	N	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lugal-{d}utu-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+hun-ga2	hug[hire]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+apin-bi		N	N	POS	B-COM	(PRODUCT_NAME (COM *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ur-{d}namma	Urnamma[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOBNAME (word *))
+sig-ta		V	NF.V.PT.GEN.ABL	Iabcdefg		(UNKNOWN (word *))
+igi-nim-sze3		N	N	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+si	_[_]	N	N.ABS	D		(UNKNOWN (word *))
+bi2-sa2-a		V	V	POS		(UNKNOWN (word *)))))
+

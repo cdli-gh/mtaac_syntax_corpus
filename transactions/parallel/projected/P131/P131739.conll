@@ -1,0 +1,231 @@
+# train/P131739.atf
+						
+
+# tr.en: gur barig ban barley gur emmer gur barig ban wheat from ARAD gur barley deficit restored by Bida total barley involved gur barig ban female laborers ban from month First-offering year Hari and Kima were destroyed to month Dumuzi completed day labor involved it is debit Therefrom female laborer workdays labor of female laborers free days gur barig sila dabin flour gur barig ban sila dabin flour for loss into household filled gur ban rough ground flour gur barig sila pounded flour gur barig sila barley labor involved female laborer workdays under seal of Lu-dingira sar of soil per hoe shekels labor involved days under seal of Ur-Namnunka female laborer workdays female laborers who lifted barley sealed tablets involved under seal of ARAD female laborer workdays straw carried to house of Szulgi under seal of Akalla nubanda female laborer workdays female laborers for arzana-flour under seal of Lugal-nig-lagare total gur ban sila flour total gur barig ban sila sig-flour total gur barig sila barley barley involved gur barig ban total female laborer workdays booked out the deficit gur barig ban barley minus female laborer workdays are deficit account of Dingira labor of female laborers Month Dumuzi year Hari and Kima were destroyed
+1	3(gesz2)	_	,	6	nummod	
+2	4(asz)	_	_	1	nummod	
+3	4(barig)	_	CD	10	nummod	
+4	4(ban2)	barig ban	NN	5	nummod	
+5	sze	barley	NN	6	conj	
+6	gur	gur	NN	0	root	
+7	lugal	_	_	0	_	
+8	3(u)	_	,	6	nummod	
+9	5(asz)	_	CD	17	nummod	
+10	ziz2	emmer	NN	6	conj	
+11	gur	gur	NN	10	compound	
+12	1(u)	_	,	6	nummod	
+13	6(asz)	_	_	12	nummod	
+14	1(barig)	_	_	12	nummod	
+15	5(ban2)	barig ban	NN	16	nummod	
+16	gig	wheat	NN	6	conj	
+17	gur	gur	NN	6	conj	
+18	ki	from	IN	19	nmod:from	
+19	ARAD2-ta	ARAD	NN	6	nmod:from	
+20	3(asz)	_	,	21	nummod	
+21	sze	barley	NN	6	conj	
+22	gur	gur	NN	21	compound	
+23	la2-ia3	deficit	NN	21	appos	
+24	su-ga	restored	VBN	23	acl	
+25	bi2-da	by Bida	NN	24	nmod:by	
+26	szunigin	total	NN	28	nmod:tmod	
+27	sze-bi	barley involved	NN	28	nsubj	
+28	4(gesz2)	barley involved	VBN	6	nummod	
+29	1(u)	_	:	33	nummod	
+30	5(asz)	_	CD	36	nummod	
+31	3(barig)	_	_	30	nummod	
+32	2(ban2)	barig ban	NN	33	nummod	
+33	gur	gur	NN	28	_	
+34	3(u)	_	,	36	nummod	
+35	6(disz)	_	_	34	nummod	
+36	geme2	female laborers	NNS	33	_	
+37	3(ban2)	ban	NN	36	nummod	
+38	iti	month	NN	36	nmod:from	
+39	nesag	from First-offering	IN	38	nmod:from	
+40	mu	year	NN	43	_	
+41	ha-ar-<szi>	_	``	43	_	
+42	ki-masz{ki}	Kima	NNP	43	conj	
+43	ba-hul-ta	were destroyed	VBN	38	acl	
+44	iti	month	NN	36	nmod:to	
+45	{d}dumu-zi	to Dumuzi	TO	44	nmod:to	
+46	u4	_	CD	48	nummod	
+47	2(u)-am3	_	,	36	nummod	
+48	zal-la-asz	completed day	NN	36	nmod:tmod	
+49	a2-bi	labor involved	NN	36	appos	
+50	2(szar2)	_	:	36	nummod	
+51	3(gesz'u)	_	CD	50	nummod	
+52	6(gesz2)-kam	_	:	33	nummod	
+53	sag-nig2-gur11-ra-kam	it is debit	NN	33	_	
+54	sza3-bi-ta	Therefrom	NNP	53	_	
+55	2(gesz'u)	_	,	58	nummod	
+56	6(gesz2)	_	_	55	nummod	
+57	geme2	female laborer	JJ	58	amod	
+58	u4	workdays	NNS	54	_	
+59	1(disz)-sze3	_	_	0	nummod	
+60	a2	labor	NN	58	appos	
+61	geme2	female laborers	NNS	60	nmod:of	
+62	u4-du8-a	_	``	63	_	
+63	2(gesz2)	days	NNS	58	nummod	
+64	4(u)	_	CD	77	nummod	
+65	5(asz)	_	_	64	nummod	
+66	4(barig)	_	_	64	nummod	
+67	4(disz)	barig	NN	69	nummod	
+68	sila3	sila	NN	69	compound	
+69	dabin	dabin flour	NN	70	appos	
+70	gur	gur	NN	58	_	
+71	1(asz)	_	_	0	nummod	
+72	1(barig)	_	_	71	nummod	
+73	4(ban2)	_	_	71	nummod	
+74	7(disz)	barig ban	NN	70	nummod	
+75	sila3	sila	NN	76	compound	
+76	dabin	dabin flour	NN	74	_	
+77	gur	gur	NN	69	_	
+78	bi2-gu7-sze3	for loss household	NN	74	nmod:for	
+79	e2-a	into	IN	78	nmod:into	
+80	si-ga	filled	VBN	78	acl	
+81	1(u)	_	,	86	nummod	
+82	6(asz)	_	CD	94	nummod	
+83	4(ban2)	_	_	82	nummod	
+84	zi3	ban flour	NN	86	conj	
+85	sig15	rough ground	JJ	84	amod	
+86	gur	gur	NN	58	_	
+87	1(u)	_	,	92	nummod	
+88	7(asz)!	_	CD	100	nummod	
+89	4(barig)	_	_	88	nummod	
+90	5(disz)	barig	NN	91	nummod	
+91	sila3	sila	NN	86	appos	
+92	zi3	flour	NN	58	_	
+93	gazx(KUM)	pounded	VBD	92	amod	
+94	gur	gur	NN	86	conj	
+95	3(asz)	_	,	92	nummod	
+96	1(barig)	_	_	95	nummod	
+97	9(disz)	barig	NN	99	nummod	
+98	sila3	sila	NN	99	compound	
+99	sze	barley	NN	92	conj	
+100	gur	gur	NN	92	conj	
+101	a2-bi	labor involved	NN	92	conj	
+102	1(szar2)	_	,	54	nummod	
+103	4(gesz'u)	_	_	102	nummod	
+104	3(u)	_	_	102	nummod	
+105	3(disz)	_	_	102	nummod	
+106	1/2(disz)	_	_	102	nummod	
+107	geme2	female laborer	JJ	108	amod	
+108	u4	workdays	NNS	92	_	
+109	1(disz)-sze3	_	_	0	nummod	
+110	kiszib3	under seal	NN	54	nmod:under	
+111	lu2-dingir-ra	Lu-dingira	NN	110	nmod:of	
+112	2(u)	_	,	115	nummod	
+113	2(disz)	_	_	112	nummod	
+114	1/2(disz)	_	_	112	nummod	
+115	sar	sar	NN	53	_	
+116	sahar	soil	NN	115	nmod:of	
+117	al-e	per hoe	IN	119	nmod:per	
+118	1(u)	_	,	119	nummod	
+119	gin2-ta	shekels	NNS	115	nmod:per	
+120	a2-bi	labor involved	NN	119	appos	
+121	u4	days	NNS	53	_	
+122	4(gesz2)	_	:	33	nummod	
+123	3(u)-kam	_	_	122	nummod	
+124	kiszib3	under seal	NN	33	_	
+125	ur-{d}nam2-nun-ka	Ur-Namnunka	NNP	124	nmod:of	
+126	4(gesz2)	_	IN	125	nummod	
+127	4(u)	_	,	130	nummod	
+128	3(disz)	_	_	127	nummod	
+129	geme2	female laborer	JJ	130	amod	
+130	u4	workdays	NNS	124	conj	
+131	1(disz)-sze3	_	_	0	nummod	
+132	geme2	female laborers	NNS	130	appos	
+133	sze	barley	NN	134	dobj	
+134	zi-ga	who lifted	VBD	132	acl:relcl	
+135	kiszib3-bi	sealed tablets involved	NNS	130	appos	
+136	3(disz)-am3	_	:	130	nummod	
+137	kiszib3	under seal	NN	130	nmod:under	
+138	ARAD2	ARAD	NN	137	nmod:of	
+139	2(u)	_	,	141	nummod	
+140	geme2	female laborer	JJ	141	amod	
+141	u4	workdays	NNS	124	conj	
+142	1(disz)-sze3	_	_	0	nummod	
+143	in-u	straw	NN	144	nsubj	
+144	ga6-ga2	carried	VBD	141	acl:relcl	
+145	e2	house	NN	144	nmod:to	
+146	{d}szul-gi-ra-sze3	to Szulgi	TO	145	nmod:to	
+147	kiszib3	under seal	NN	141	nmod:under	
+148	a-kal-la	Akalla	NNP	147	nmod:of	
+149	nu-banda3	nubanda	NN	141	appos	
+150	3(gesz2)	_	IN	148	nummod	
+151	5(u)	_	,	154	nummod	
+152	4(disz)	_	_	151	nummod	
+153	geme2	female laborer	JJ	154	amod	
+154	u4	workdays	NNS	124	conj	
+155	1(disz)-sze3	_	_	0	nummod	
+156	geme2	female laborers	NNS	154	appos	
+157	ar-za-na-sze3	for arzana-flour	NN	156	nmod:for	
+158	kiszib3	under seal	NN	154	nmod:under	
+159	lugal-nig2-lagar-e	Lugal-nig-lagare	NN	158	nmod:of	
+160	szunigin	total	NN	124	_	
+161	2(gesz2)	_	,	124	nummod	
+162	4(u)	_	_	161	nummod	
+163	7(asz)	_	_	161	nummod	
+164	5(ban2)	_	_	161	nummod	
+165	1(disz)	ban	NN	167	nummod	
+166	sila3	sila	NN	167	compound	
+167	dabin	flour	NN	168	appos	
+168	gur	gur	NN	160	_	
+169	szunigin	total	NN	124	appos	
+170	3(u)	_	_	0	nummod	
+171	3(asz)	_	_	170	nummod	
+172	4(barig)	_	_	170	nummod	
+173	4(ban2)	_	_	170	nummod	
+174	5(disz)	barig ban	NN	178	nummod	
+175	sila3	sila	NN	179	compound	
+176	zi3	_	_	0	_	
+177	sig15	sig-flour	JJ	179	amod	
+178	gur	gur	NN	124	_	
+179	szunigin	total	NN	174	_	
+180	3(asz)	_	_	0	nummod	
+181	1(barig)	_	_	180	nummod	
+182	9(disz)	barig	NN	186	nummod	
+183	sila3	sila	NN	186	compound	
+184	sze	barley	NN	186	compound	
+185	gur	gur	NN	178	_	
+186	sze-bi	barley involved	NN	185	appos	
+187	3(gesz2)	barley involved	VBN	186	nummod	
+188	5(u)	_	_	187	nummod	
+189	8(asz)	_	_	187	nummod	
+190	1(barig)	_	_	187	nummod	
+191	3(ban2)	barig ban	NN	193	nummod	
+192	gur	gur	NN	185	_	
+193	szunigin	total	NN	192	appos	
+194	2(szar2)	_	_	0	nummod	
+195	2(gesz'u)	_	_	194	nummod	
+196	1/2(disz)	_	_	194	nummod	
+197	geme2	female laborer	JJ	198	amod	
+198	u4	workdays	NNS	192	_	
+199	1(disz)-sze3	_	_	0	nummod	
+200	zi-ga-am3	booked out	VBN	198	acl	
+201	la2-ia3	the deficit	NN	192	_	
+202	1(u)	_	,	207	nummod	
+203	7(asz)	_	CD	213	nummod	
+204	1(barig)	_	_	203	nummod	
+205	5(ban2)	barig ban	NN	206	nummod	
+206	sze	barley	NN	207	conj	
+207	gur	gur	NN	215	nsubj	
+208	1(gesz'u)	_	,	207	nummod	
+209	6(gesz2)	_	_	208	nummod	
+210	la2	minus	CC	203	cc	
+211	1/2(disz)	_	_	210	nummod	
+212	geme2	female laborer	JJ	213	amod	
+213	u4	workdays	NNS	207	appos	
+214	1(disz)-sze3	_	_	0	nummod	
+215	la2-ia3-am3	are deficit	NN	201	_	
+216	nig2-ka9-ak	account	NN	215	conj	
+217	dingir-ra-ka	Dingira	NNP	216	nmod:of	
+218	a2	labor	NN	217	appos	
+219	geme2-ka	female laborers	NNS	218	nmod:of	
+220	iti	Month	NNP	215	conj	
+221	{d}dumu-zi	Dumuzi	NNP	215	_	
+222	mu	year	NN	221	appos	
+223	ha-ar-szi	_	:	221	_	
+224	ki-masz{ki}	Kima	NNP	225	conj	
+225	ba-hul	were destroyed	VBN	221	acl
+	
+

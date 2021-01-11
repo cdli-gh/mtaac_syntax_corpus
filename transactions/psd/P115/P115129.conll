@@ -1,0 +1,34 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P115/P115129.conll #
+##############################################################################################
+
+#new_text=P115129
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	D		(JOBNAME (word *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+4(barig)	4(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *))))
+nu-uru4		V	V	POS		(UNKNOWN (word *))
+ga2-nun		N	N	D		(UNKNOWN (word *))
+SZID-ta		WN	WN	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ad-da-mu-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *))))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+ur-nig2		PN	PN	Iabcde		(PN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D		(CITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

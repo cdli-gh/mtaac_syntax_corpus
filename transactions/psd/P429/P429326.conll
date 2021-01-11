@@ -1,0 +1,28 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P429/P429326.conll #
+#########################################################################################
+
+#new_text=P429326
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D		(DEAD (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	D		(AGENT (PERSON (PN (word *))))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-mu-ru-um	Simurum[1]	GN	SN	D		(CITY (word *))))
+lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	D		(CITY (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*))
+1(disz)-kam-asz		NU	NU.GEN.COP-3-SG.TERM	Iab	B-COUNT	(NUMBER (COUNT *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-a-bi		V	NF.V.PT.3-SG-NH-POSS	Iabcdef	B-COM	(PRODUCT_NAME (COM *))))
+

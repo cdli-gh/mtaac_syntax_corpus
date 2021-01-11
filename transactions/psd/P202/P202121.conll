@@ -1,0 +1,51 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P202/P202121.conll #
+##############################################################################################
+
+#new_text=P202121
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT_NAME (word *))
+u2-e-li		PN	PN	Iabcde		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+nu-ha-al		V	V	POS		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))
+szuszin{ki}		SN	SN.GEN.ABS	D		(CITY (word *))))))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ACCOUNTING (ZIGA (word *))
+a-kal-la	Akala[1]	PN	PN	D		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en-unu6-gal-an-na		PN	PN.ABS	Ia		(PN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

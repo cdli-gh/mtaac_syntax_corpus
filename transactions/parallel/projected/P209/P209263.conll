@@ -1,0 +1,164 @@
+# dev/P209263.atf
+						
+
+# tr.en: ninda length cubits width cubits depth its volume sar shekels ninda cubits length cubits width cubits depth its volume sar less shekel ninda length cubits width cubits depth its volume sar shekels ninda length cubits width cubit depth its volume sar ninda cubits length cubits width cubits depth its volume sar ninda cubit length cubits width cubits depth its volume shekels ninda length cubits width cubits depth its volume shekels ninda length cubits width cubits depth its volume shekels ninda cubits length unfinished ninda cubit length cubits width cubits depth its volume sar shekels shekels DUBla total sar shekel earthwork pis walls for household of Nig-lagar
+1	1(disz)	_	,	3	nummod	
+2	1/2(disz)	_	_	1	nummod	
+3	ninda	ninda	NN	0	root	
+4	gid2	length	NN	3	_	
+5	3(disz)	_	_	0	nummod	
+6	kusz3	cubits	NNS	3	appos	
+7	dagal	width	NN	6	_	
+8	2(disz)	_	_	0	nummod	
+9	kusz3	cubits	NNS	3	appos	
+10	bur3	depth	NN	9	nmod:npmod	
+11	a-sza3-bi	its volume	NN	3	appos	
+12	2/3(disz)	_	:	13	nummod	
+13	sar	sar	NN	3	_	
+14	5(disz)	_	CD	17	nummod	
+15	gin2	shekels	NNS	13	_	
+16	1/2(disz)	_	,	23	nummod	
+17	ninda	ninda	NN	19	nsubj	
+18	4(disz)	_	_	0	nummod	
+19	kusz3	cubits	VBZ	13	parataxis	
+20	gid2	length	NN	19	dobj	
+21	4(disz)	_	_	0	nummod	
+22	kusz3	cubits	NNS	19	_	
+23	dagal	width	NN	22	_	
+24	2(disz)	_	_	0	nummod	
+25	1/3(disz)	_	_	24	nummod	
+26	kusz3	cubits	NNS	23	appos	
+27	bur3	depth	NN	26	nmod:npmod	
+28	a-sza3-bi	its volume	NN	23	appos	
+29	2/3(disz)	_	:	30	nummod	
+30	sar	sar	NN	23	_	
+31	la2	less	RBR	33	advmod	
+32	1(disz)	_	CD	35	nummod	
+33	gin2	shekel	NN	30	_	
+34	2(disz)	_	,	35	nummod	
+35	ninda	ninda	NN	30	_	
+36	gid2	length	NN	35	_	
+37	4(disz)	_	_	0	nummod	
+38	kusz3	cubits	NNS	35	appos	
+39	dagal	width	NN	38	_	
+40	1(disz)	_	_	0	nummod	
+41	2/3(disz)	_	_	40	nummod	
+42	kusz3	cubits	NNS	35	appos	
+43	bur3	depth	NN	42	nmod:npmod	
+44	a-sza3-bi	its volume	NN	35	appos	
+45	1(disz)	_	:	30	nummod	
+46	sar	sar	NN	44	_	
+47	6(disz)	_	CD	51	nummod	
+48	2/3(disz)	_	_	47	nummod	
+49	gin2	shekels	NNS	46	_	
+50	2(disz)	_	,	51	nummod	
+51	ninda	ninda	NN	30	_	
+52	gid2	length	NN	51	_	
+53	4(disz)	_	_	0	nummod	
+54	kusz3	cubits	NNS	51	appos	
+55	dagal	width	NN	54	_	
+56	1(disz)	_	_	0	nummod	
+57	kusz3	cubit	NN	51	appos	
+58	bur3	depth	NN	57	nmod:npmod	
+59	a-sza3-bi	its volume	NN	51	appos	
+60	2/3(disz)	_	CD	64	nummod	
+61	sar	sar	NN	51	_	
+62	3(disz)	_	,	70	nummod	
+63	1/2(disz)	_	_	62	nummod	
+64	ninda	ninda	NN	66	nsubj	
+65	3(disz)	_	_	0	nummod	
+66	kusz3	cubits	VBZ	61	parataxis	
+67	gid2	length	NN	66	dobj	
+68	4(disz)	_	_	0	nummod	
+69	kusz3	cubits	NNS	66	_	
+70	dagal	width	NN	69	_	
+71	2(disz)	_	_	0	nummod	
+72	kusz3	cubits	NNS	70	appos	
+73	bur3	depth	NN	72	nmod:npmod	
+74	a-sza3-bi	its volume	NN	70	appos	
+75	2(disz)	_	:	77	nummod	
+76	1/2(disz)	_	CD	79	nummod	
+77	sar	sar	NN	70	_	
+78	1/2(disz)	_	,	86	nummod	
+79	ninda	ninda	NN	81	nsubj	
+80	1(disz)	_	_	0	nummod	
+81	kusz3	cubit	VBP	77	parataxis	
+82	gid2	length	NN	81	dobj	
+83	2(disz)	_	_	0	nummod	
+84	2/3(disz)	_	_	83	nummod	
+85	kusz3	cubits	NNS	81	_	
+86	dagal	width	NN	85	_	
+87	1(disz)	_	_	0	nummod	
+88	1/3(disz)	_	_	87	nummod	
+89	kusz3	cubits	NNS	86	appos	
+90	bur3	depth	NN	89	nmod:npmod	
+91	a-sza3-bi	its volume	NN	86	appos	
+92	1(u)	_	:	94	nummod	
+93	1/3(disz)	_	CD	96	nummod	
+94	gin2	shekels	NNS	86	_	
+95	1/2(disz)	_	,	96	nummod	
+96	ninda	ninda	NN	94	_	
+97	gid2	length	NN	96	_	
+98	3(disz)	_	_	0	nummod	
+99	kusz3	cubits	NNS	96	conj	
+100	dagal	width	NN	99	_	
+101	2(disz)	_	_	0	nummod	
+102	kusz3	cubits	NNS	96	conj	
+103	bur3	depth	NN	102	nmod:npmod	
+104	a-sza3-bi	its volume	NN	96	appos	
+105	1(u)	_	:	107	nummod	
+106	5(disz)	_	CD	109	nummod	
+107	gin2	shekels	NNS	96	_	
+108	1/2(disz)	_	:	107	nummod	
+109	ninda	ninda	NN	107	_	
+110	gid2	length	NN	109	_	
+111	3(disz)	_	_	0	nummod	
+112	kusz3	cubits	NNS	109	conj	
+113	dagal	width	NN	112	_	
+114	1(disz)	_	_	0	nummod	
+115	1/3(disz)	_	_	114	nummod	
+116	kusz3	cubits	NNS	109	appos	
+117	bur3	depth	NN	116	nmod:npmod	
+118	a-sza3-bi	its volume	NN	107	_	
+119	1(u)	_	CD	123	nummod	
+120	gin2	shekels	NNS	118	_	
+121	1(disz)	_	:	107	nummod	
+122	1/2(disz)	_	CD	129	nummod	
+123	ninda	ninda	NN	125	nsubj	
+124	2(disz)	_	_	0	nummod	
+125	kusz3	cubits	VBZ	107	acl	
+126	gid2	length	NN	125	dobj	
+127	nu-ak	unfinished	JJ	107	_	
+128	1(disz)	_	:	107	nummod	
+129	ninda	ninda	NN	131	nsubj	
+130	1(disz)	_	_	0	nummod	
+131	kusz3	cubit	VBP	107	acl	
+132	gid2	length	NN	131	dobj	
+133	3(disz)	_	_	0	nummod	
+134	kusz3	cubits	NNS	131	_	
+135	dagal	width	NN	134	_	
+136	1(disz)	_	_	0	nummod	
+137	2/3(disz)	_	_	136	nummod	
+138	kusz3	cubits	NNS	135	appos	
+139	bur3	depth	NN	138	nmod:npmod	
+140	a-sza3-bi	its volume	NN	107	_	
+141	1/3(disz)	_	:	107	nummod	
+142	sar	sar	NN	144	compound	
+143	7(disz)	_	NNS	147	nummod	
+144	gin2	shekels	NNS	140	_	
+145	8(disz)	_	:	107	nummod	
+146	gin2	shekels	_	0	_	
+147	DUB-la2	DUBla	NN	107	_	
+148	szunigin	total	NN	107	_	
+149	6(disz)	_	.	107	nummod	
+150	2/3(disz)	_	_	149	nummod	
+151	sar	sar	NN	154	compound	
+152	1(disz)	_	_	0	nummod	
+153	gin2	shekel	NN	154	compound	
+154	kin	earthwork	NN	148	_	
+155	sahar	_	_	0	_	
+156	im-du8-a	pis	NN	158	compound	
+157	e2	_	.	3	_	
+158	nig2-lagar-ka	walls for household Nig-lagar	NNS	107	_
+	
+

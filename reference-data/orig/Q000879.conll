@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q000879 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000879.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}nanna	{d}nanna	1	N1=NAME	DN	0	_	
+2	lugal-a-ni	lugal	king	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	N	1	appos	
+3	lu2-sag9-ga	lu2-sag9-ga	1	N1=NAME	RN	0	_	
+4	ensi2	ensi2	ruler	N1=STEM	N	3	appos	
+5	urim5{ki}-ma-ke4	urim5{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	4	GEN	
+6	ki-sur-ra-ni	ki-sur-ra	border	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	0	_	
+7	ka-ta	ka	mouth	N1=STEM.N5=ABS	N	8	ABS	
+8	mu-na-ta-e3	e3	leave	V4=VEN.V6=3-SG-H.V7=DAT.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
+9	barag	barag	dais	N1=STEM.N5=ABS	N	10	ABS	
+10	mu-sig9	sig9	put	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	

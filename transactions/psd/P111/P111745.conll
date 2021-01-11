@@ -1,0 +1,76 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P111/P111745.conll #
+##############################################################################################
+
+#new_text=P111745
+x	_[_]	N	N	D		(DOC (FRAG (UNKNOWN (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ur-kisal		PN	PN	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+lulim		V	V	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+lulim		V	V	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+szah2	szah[pig][-ak]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+szah2	szah[pig][-ak]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *))))
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+9(disz)-sze3		NU	NU.GEN.COP-3-SG.TERM	Iabcdef	I-COUNT	*))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+u2-gu-u3-li-e-da-da		PN	PN	Iabcde		(PN (word *))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+uz-tur		PN	PN	POS		(PN (word *))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+ir7{muszen}		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gin2-ta	gig[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+dar{muszen}		N	N.ABS.3-SG-NH-POSS.ABS	Iabcdefghi	B-COM	(PRODUCT_NAME (COM *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+gin2-ta	gig[unit]-ta	N	N.ABL	D		(UNIT (word *)))))
+

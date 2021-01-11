@@ -1,0 +1,36 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P413/P413841.conll #
+#########################################################################################
+
+#new_text=P413841
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME (word *)))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME (word *)))))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+{d}utu-ba-e3-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PERSON (PN (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D		(PRODUCT_NAME (word *)))))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ab-ba-gu-la-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *))))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ki-la2	kila[weight][-ø]	N	N	D		(PRODUCT_PARAM (word *)))
+tag-ga	tag[weigh]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ur-nig2		PN	PN	Iabcde		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))))
+

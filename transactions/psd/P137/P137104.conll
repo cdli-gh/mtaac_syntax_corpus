@@ -1,0 +1,45 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137104.conll #
+#########################################################################################
+
+#new_text=P137104
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+{gesz}e2-da		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gesz}ka2-na		PN	PN	POS		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+gal-ku5		V	NF.V.3-SG-NH-POSS.ABS	Iabcdefghi		(UNKNOWN (word *))
+szinig		N	N	Ia		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+{gesz}gidri		N	N	POS		(UNKNOWN (word *))
+ab-ba	abba[father]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sa	sa[bundle]	N	N	D		(UNIT (word *)))
+{gesz}gidri		N	N	POS		(UNKNOWN (word *))
+|UR2x(A.NA)|		N	N	POS		(UNKNOWN (word *))
+...-IL2		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+zi		N	NF.V	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gesz	gesz[tree]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+6(asz)	6(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+{u2}|KI.KAL|		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+kal-ga	kalag[strong]-a	V	NF.V.SUB	D		(UNKNOWN (word *))
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D		(PN (word *))
+du3-a	du[build]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D		(UNKNOWN (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D		(CITY (word *))))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

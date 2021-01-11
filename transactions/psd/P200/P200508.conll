@@ -1,0 +1,32 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P200/P200508.conll #
+##############################################################################################
+
+#new_text=P200508
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+szesz-da-da	Szeszdada[1]	PN	PN	D		(PN (word *))
+sanga	sagga[temple_administrator]	N	N	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ri2-ba-a		PN	PN	POS		(AGENT (PERSON (PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOB (JOBNAME (word *))
+a-dam-szah2{ki}		GN	SN	D		(CITY (word *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+kir11	kir[female_lamb]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+giri3-ni-sze3		N	N	POS		(UNKNOWN (word *))
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D		(AGENT (MUDU (word *))
+na-sa6	Nasa[1][-e]	PN	PN.ERG	D		(PERSON (PN (word *))))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

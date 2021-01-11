@@ -1,0 +1,32 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P106/P106317.conll #
+##############################################################################################
+
+#new_text=P106317
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-bara2-ga-ta		PN	PN.GEN.ABL	Iab		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+i-szar-pa2-dan-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+a-ba-bi2-dim2		PN	PN	Iabcdefgh		(PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+didli	didli[several][-ø][-ak]	V	NF.V.ABS	D		(UNKNOWN (word *))
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D		(GOD|GOD_NAME (word *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

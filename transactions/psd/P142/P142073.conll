@@ -1,0 +1,41 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P142/P142073.conll #
+#########################################################################################
+
+#new_text=P142073
+3(barig)	3(bariga)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)-ta		NU	NU	POS	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-du6-ku3-ga-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+pesz2-tur-tur		PN	PN	Iabcdefgh		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sig4	szeg[brick]	N	N	D		(UNKNOWN (word *))
+su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	NF.V.RDP.F.ABS.COP-3-SG	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szu-u2		PN	PN.GEN.ERG	Iabcdefg		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+lugal-he2-gal2	Lugalhegal[1]	PN	PN	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+lu2-{d}iszkur		PN	PN	Ia		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+masz2-e	masz[goat]-e	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ib2-pa3		V	V	POS		(UNKNOWN (word *))
+an-ne2-ba-du2		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-du6-ku3-ga		PN	PN.GEN.GEN	Iabcdef		(PN (word *))))
+

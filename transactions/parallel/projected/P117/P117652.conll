@@ -1,0 +1,63 @@
+# test/P117652.atf
+						
+
+# tr.en: shekels of silver its barley gur barig the harvest will remit this debt should be inundated Baamu by royal name has sworn from Nanna-igi did Baamu receive month Mekigal year en priestess of Nanna by omens was chosen shekels of silver its barley gur barig the harvest will remit this debt should be inundated by royal name he has sworn from Nanna-igi did Baamu receive month Mekigal year en priestess of Nanna by omens was chosen did Baamu son of Gudea
+1	2(disz)	_	,	2	nummod	
+2	gin2	shekels	NNS	0	root	
+3	ku3-babbar	silver	NN	2	nmod:of	
+4	sze-bi	its barley	PRP$	7	nmod:poss	
+5	2(asz)	_	:	2	nummod	
+6	2(barig)	barig	NN	7	nummod	
+7	gur	gur	NN	2	appos	
+8	buru14	the harvest	NN	9	nsubj	
+9	ama-bi	will remit	VB	2	parataxis	
+10	gi4-gi4	this debt	NN	9	dobj	
+11	su3-su3-da	should be inundated	VBN	9	acl	
+12	ba-a-mu	Baamu	NN	15	nsubj	
+13	mu	_	:	11	_	
+14	lugal-bi	by royal name has sworn	NN	12	nmod:by	
+15	lugal-bi	by royal name has sworn	VBN	11	parataxis	
+16	in-pa3	_	_	0	_	
+17	ki	from	IN	18	nmod:from	
+18	{d}nanna-i3-gi-ta	Nanna-igi	NN	21	nmod:from	
+19	ba-a-mu	did Baamu	VBD	21	aux	
+20	szu	_	:	11	_	
+21	ba-ti	receive	VB	11	parataxis	
+22	iti	month	NN	23	compound	
+23	me-gi8-gal2	Mekigal	NNP	11	parataxis	
+24	mu	year	NN	23	_	
+25	en	en priestess	NN	28	nsubjpass	
+26	{d}nanna	Nanna	NNP	25	nmod:of	
+27	masz2-e	by omens	NNS	25	nmod:by	
+28	i3-pa3	was chosen	VBN	23	acl	
+29	2(disz)	_	,	30	nummod	
+30	gin2	shekels	NNS	28	_	
+31	ku3-babbar	silver	NN	30	nmod:of	
+32	sze-bi	its barley	PRP$	35	nmod:poss	
+33	2(asz)	_	:	30	nummod	
+34	2(barig)	barig	NN	35	nummod	
+35	gur	gur	NN	30	appos	
+36	buru14	the harvest	NN	37	nsubj	
+37	ama-bi	will remit	VB	30	parataxis	
+38	gi4-gi4	this debt	NN	37	dobj	
+39	su3-su3-da	should be inundated	VBN	37	conj	
+40	mu	_	:	37	_	
+41	lugal-bi	by royal name he has	NN	37	conj	
+42	in-pa3	sworn	VBN	41	acl:relcl	
+43	ki	from	IN	44	nmod:from	
+44	{d}nanna-i3-gi-ta	Nanna-igi	NN	47	nmod:from	
+45	ba-a-mu	did Baamu	VBD	47	aux	
+46	szu	_	:	37	_	
+47	ba-ti	receive	VB	37	parataxis	
+48	iti	month	NN	49	compound	
+49	me-gi8-gal2	Mekigal	NNP	37	parataxis	
+50	mu	year	NN	49	_	
+51	en	en priestess	NN	54	nsubjpass	
+52	{d}nanna	Nanna	NNP	51	nmod:of	
+53	masz2-e	by omens	NNS	51	nmod:by	
+54	i3-pa3	was chosen	VBN	49	acl	
+55	ba-a-mu	did Baamu	VBD	37	acl	
+56	dumu	son	NN	55	appos	
+57	gu3-de2-a	Gudea	NN	56	nmod:of
+	
+

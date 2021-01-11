@@ -1,0 +1,39 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P105/P105618.conll #
+##############################################################################################
+
+#new_text=P105618
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a2	a[time]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-a-bi		NU	NU.3-SG-NH-POSS	Iabcdefg	I-COUNT	(NUMBER (COUNT *
+1(ban2)-ta		NU	NU	POS	I-COUNT	*))
+u4-u4		N	N	Ia		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+nu-hi-um		N	N	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lugal-du10-ga-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ARAD2-e-eb		PN	PN	Iabcde		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}suen-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+hun-ga2	hug[hire]-a	V	NF.V.PT	D		(UNKNOWN (word *))))
+

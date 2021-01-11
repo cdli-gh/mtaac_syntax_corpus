@@ -1,0 +1,45 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P125/P125162.conll #
+#########################################################################################
+
+#new_text=P125162
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sze	sze[barley]	N	N	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D		(NUMBER (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+iti	iti[month]	N	N	D		(ITI (word *))
+{d}li9-si4	Lisi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+iti	iti[month]	N	N	D		(ITI (word *))
+pa4-u2-e-ta		MN	MN.GEN.ABL	Iabcdefg		(MONTH_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	D		(MONTH_NAME (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+iti	iti[month]	N	N	D		(ITI (word *))
+sig4-{gesz}i3-szub-ba-ga2-ra-ta		MN	MN.GEN.ABL	Iabcdefg	B-COM	(PRODUCT_NAME (COM *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-kar-ra-gal2-la-sze3		MN	MN.TERM	Iabcdefg		(MONTH_NAME (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+nesag	Nesag[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+guru7	guru[grain_heap]	N	N	D		(UNKNOWN (word *))
+e2-kikken		TN	TN	POS		(CITY (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+hu-ur5-ti{ki}	Hurti[1][-ø]	GN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

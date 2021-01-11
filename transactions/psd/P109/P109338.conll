@@ -1,0 +1,77 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P109/P109338.conll #
+##############################################################################################
+
+#new_text=P109338
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ugula	ugula[overseer][-ø]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))))
+en-se-ge4		PN	PN.GEN.ERG	Iabcdef		(AGENT (PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+{d}lamma-bil4		PN	PN	Iabcde		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+nig2-u2-rum	Nigurum[1][-e]	N	PN	D		(UNKNOWN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+i3-lam-ma		PN	PN.GEN.ABS	Iab		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+nig2-gur11	nigGA[property]	N	N	D		(UNKNOWN (word *)))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+lugal-en-kusz2		PN	PN.GEN.GEN.DAT-H	Iab		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+ur-{d}da-mu	Urdamu[1]	PN	PN	D		(PN (word *))
+he2-dab5-me	hedab[worker][-ø]-mesz	N	N.ABS.COP-3-PL	D	B-COM	(PRODUCT_NAME (COM *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+geme2	geme[female_worker]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+ugula	ugula[overseer][-ø]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))))
+lu2-sa6-ga		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+szunigin	szunigin[total]	N	N	D		(FRAG (SZUNIGIN (word *))
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda-ta	nindan[unit]-ta	N	N.ABL	D		(UNIT (word *))))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda-ta	nindan[unit]-ta	N	N.ABL	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ninda-bi		N	N.ABS.3-SG-NH-POSS.ABS	Iabcdefg		(UNKNOWN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ad7		N	N	POS		(UNKNOWN (word *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+he2-dab5-e		N	N.ABS.COP-3-PL	Iabcdefgh		(UNKNOWN (word *))
+SZE3		PN	PN	POS		(PN (word *))
+BAD		PN	PN	POS		(PN (word *))
+ak-de3	ak[apply]-ed-e	V	NF.V.F.DAT-NH	D		(UNKNOWN (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+gu4-ra2-bi2-mu2		MN	MN.L1	Ia		(MONTH_NAME (word *))))
+

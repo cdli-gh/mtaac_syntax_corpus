@@ -1,0 +1,38 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P130/P130527.conll #
+##############################################################################################
+
+#new_text=P130527
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+gu4-e-us2-sa	gude'usa[lowest_quality]	N	N	D		(PRODUCT_NAME (word *)))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+hal-li2-a	Halli'a[1]	PN	PN	D		(PERSON (PN (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+dub	dub[tablet]	N	N	D		(UNKNOWN (word *))
+lu2-sza-lim	Luszalim[1]	PN	PN	D		(PN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-szu-ga-lam-ma-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PERSON (PN (word *))))
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}me-ki-gal2	Ezemmekigal[1]-['a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D		(PERSON (PN (word *))
+sipa	sipa[shepherd]	N	N	D		(JOB (JOBNAME (word *))))))
+gu4	gud[ox]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))))
+

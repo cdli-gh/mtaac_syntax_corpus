@@ -1,0 +1,41 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P108/P108104.conll #
+##############################################################################################
+
+#new_text=P108104
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}eme		N	N.ABS.COP-3-PL	Iabcdef	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+{gesz}eme		N	N.ABS.COP-3-PL	Iabcdef	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+x-x-ra		DN	DN	POS		(PURPOSE (GOD (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+{gesz}ka-al		N	N.GEN	Iabcdefgh	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gesz}u3-suh5	usuh[tree]	N	N	D		(PRODUCT_NAME (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+{gesz}apin	apin[plow]	N	N	D		(UNKNOWN (word *))
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D		(UNKNOWN (word *))
+lugal-e-mah-e-ta		N	N	POS		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+kas4-sze3		N	N.3-SG-H-POSS.TERM	Iabcdef		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+i7-pa-e3	Ipa'e[1][-ø]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+dal	Dal[1][-'a]	MN	MN.L1	D	B-COM	(PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+i7-pa-e3	Ipa'e[1][-ø]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-uszurx(|LAL2.TUG2|)	_[1][-ak][-ak]	PN	PN	D		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))))
+

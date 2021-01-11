@@ -1,0 +1,21 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P127/P127951.conll #
+#########################################################################################
+
+#new_text=P127951
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+{d}szul-gi-sza-am3-szi	Szulgiszamszi[1][-ra]	PN	PN.DAT-H	D		(AGENT (PERSON (PN (word *))
+an-sza-an{ki}-ta	Anszan[1]-ta	SN	GN.ABL	D		(NATIONALITY (word *)))))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))))
+

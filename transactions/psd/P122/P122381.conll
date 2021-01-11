@@ -1,0 +1,35 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P122/P122381.conll #
+##############################################################################################
+
+#new_text=P122381
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur5-sze3	urra[loan]-sze	PN	N.TERM	D		(PN (word *))
+masz2-bi		N	N.ABS	Iabcdef	B-COM	(PRODUCT_NAME (COM *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(ban2)-ta		NU	NU	POS	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+lugal-a2-zi-da-ta	Lugalazida[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+szu-{d}ma-mi		PN	PN.DAT-H	Iab		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+a-bi2-nu-a		PN	PN	Iabcde		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+a-mur-dingir-lum		PN	PN	Iabcde		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+i-ri-ib		PN	PN	Iabcde		(PN (word *))
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+kin-{d}inanna	Kin-Inanna[1].[-’a]MN.L1	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D		(PN (word *))
+lugal-am3		N	N	POS	B-COM	(PRODUCT_NAME (COM *))
+szu-{d}ma-mi-tum	Szumamitum[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+dingir-ba-ni		PN	PN	D		(PN (word *))))
+

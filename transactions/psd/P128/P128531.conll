@@ -1,0 +1,38 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128531.conll #
+#########################################################################################
+
+#new_text=P128531
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{d}suen-bur-szu4		PN	PN	Iabcde		(PN (word *))
+gukkal-sze3		N	N.3-SG-H-POSS.GEN.GEN.TERM	Iabcdefg	B-COM	(PRODUCT_NAME (COM *))
+im-szi-gen-na		V	NF.V.PT	Iabcde		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+iri{ki}-ri		N	N.3-SG-H-POSS.L3-NH	Iabcdefghi		(UNKNOWN (word *))
+lu2-{gesz}tukul		N	N	POS		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOB (JOBNAME (word *))
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *)))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

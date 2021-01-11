@@ -1,0 +1,32 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P135/P135207.conll #
+#########################################################################################
+
+#new_text=P135207
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gi	gi[reed][-ø]	N	N	D	I-COUNT	(NUMBER (COUNT *))
+HA-AN				POS		(UNKNOWN (word *))
+siki	siki[wool][-'a]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ka-tab-ba	kataba[double_mouth]	N	N	D		(UNKNOWN (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))))
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	D		(PN (word *))
+siki-ka		PN	PN	POS	B-COM	(PRODUCT_NAME (COM *))
+ba-an-ba-ra		V	V	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D		(PN (word *))
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D		(JOBNAME (word *))))
+

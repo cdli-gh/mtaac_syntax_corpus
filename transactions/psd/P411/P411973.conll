@@ -1,0 +1,52 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P411/P411973.conll #
+#########################################################################################
+
+#new_text=P411973
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*))
+gu2-gal	gugala[chickpea][-ak]	PN	N	D		(PN (word *))
+ar3-ra		V	V	POS		(UNKNOWN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+gu2-tur		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+sze-lu2		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+naga4		N	N	Ia		(UNKNOWN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+gazi	gazi[condiment]	N	N	D		(UNKNOWN (word *))
+naga4		N	N	Ia		(UNKNOWN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+mun	mun[salt]	N	N	D		(PRODUCT_NAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+{d}szu-{d}suen-ha-ma-ti		PN	PN	Ia		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+szu-{d}nin-szubur-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+er3-ra-an-dul3		PN	PN	Ia		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	D		(CITY|NATIONALITY (word *))
+masz2-e	masz[goat]-e	N	N.L3-NH	D		(PRODUCT_NAME (word *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *))
+er3-ra-an-dul3		PN	PN	Ia		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+a-bu3-lugal		PN	PN	POS		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))))
+

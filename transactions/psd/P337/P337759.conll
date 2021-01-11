@@ -1,0 +1,45 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P337/P337759.conll #
+##############################################################################################
+
+#new_text=P337759
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+lugal	lugal[king]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT_NAME (COM *))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *)))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+ga-a-a		PN	PN	Iabc		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+libir		V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcdefghi		(UNKNOWN (word *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+naga	naga[potash]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sa	sa[bundle]	N	N	D		(UNIT (word *))
+szum2	szum[garlic]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+i3-li2-da-an		PN	PN	Ia		(AGENT (PERSON (PN (word *)))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))))
+

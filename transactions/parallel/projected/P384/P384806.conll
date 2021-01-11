@@ -1,0 +1,41 @@
+# train/P384806.atf
+						
+
+# tr.en: fat tailed sheep alum-sheep large billy goats Irdu Martu lamb Lugal-azida chief household manager lamb Ributi lamb high-priestess of Inanna th day delivery Intaea received via Nanna-maba scribe month Akitu year Szu-Suen king
+1	4(disz)	_	,	2	nummod	
+2	gukkal	sheep	NN	0	root	
+3	1(disz)	_	CD	7	nummod	
+4	udu	_	_	0	_	
+5	a-lum	fat tailed alum-sheep	JJ	2	amod	
+6	3(disz)	_	:	7	nummod	
+7	masz2-gal	large billy goats	NNS	2	appos	
+8	ir-du10-{d}mar-tu	Irdu Martu	NNP	7	_	
+9	1(disz)	_	:	11	nummod	
+10	sila4	lamb	NN	8	_	
+11	lugal-a2-zi-da	Lugal-azida	NN	10	_	
+12	szabra	chief household manager	NN	11	appos	
+13	1(disz)	_	:	15	nummod	
+14	sila4	lamb	NN	11	_	
+15	ri-ib-hu-ti	Ributi	NNP	25	_	
+16	1(disz)	_	:	15	nummod	
+17	sila4	lamb	NN	15	_	
+18	en	high-priestess	NN	15	_	
+19	{d}inanna	Inanna	NNP	18	nmod:of	
+20	u4	th day	NN	25	nmod:tmod	
+21	2(u)	_	,	25	nummod	
+22	2(disz)-kam	_	_	21	nummod	
+23	mu-kux(DU)	delivery	NN	25	_	
+24	in-ta-e3-a	Intaea	NNP	25	nsubj	
+25	i3-dab5	received	VBD	14	parataxis	
+26	giri3	via	IN	27	nmod:via	
+27	{d}nanna-ma-ba	Nanna-maba	NN	25	nmod:via	
+28	dub-sar	scribe	NN	27	appos	
+29	iti	month	NN	27	compound	
+30	a2-ki-ti	_	``	27	_	
+31	mu	year	NN	33	_	
+32	{d}szu-{d}suen	Szu-Suen	JJ	33	amod	
+33	lugal	king	NN	27	_	
+34	1(u)	_	NN	0	nummod	
+35	1(disz)	_	.	34	nummod
+	
+

@@ -1,0 +1,44 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P100/P100134.conll #
+#########################################################################################
+
+#new_text=P100134
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{gesz}ma-nu-ta		FN	FN	POS	B-COM	(PRODUCT_NAME (COM *))
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+la2-mah-ta		FN	FN	POS		(CITY (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+|KI.AN|{ki}-ta	_[1]-ta	SN	SN.ABL	D		(CITY|NATIONALITY (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+e2-kikken-ta		TN	TN	POS		(CITY (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+uku2-nu-ti		FN	FN.ABL	Iabcdefgh		(CITY (word *))
+bala	bala[turn][-'a]	N	N.L1	D	B-COM	(PRODUCT_NAME (COM *))
+a-ri-ta		N	N.GEN.ABL	Iabcdef		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY (word *)))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

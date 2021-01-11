@@ -1,0 +1,65 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P106/P106566.conll #
+##############################################################################################
+
+#new_text=P106566
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+ur-{d}da-ni		PN	PN	Ia		(PN (word *))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+giri3-ni	Girini[1][-ra]	PN	PN.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))
+sza-za-gir13-ta		PN	PN	POS		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+da-a-ga		PN	PN	Ia		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+e2-ur2-bi		N	N	POS		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+ur-e2-zi-da		PN	PN	Ia		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+an-ne2-ba-du7		PN	PN	Iabc		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+szesz-ki-ag2		PN	PN	Iabcde		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+giri3-ni	Girini[1][-ra]	PN	PN.DAT-H	D	B-COM	(PRODUCT_NAME (COM *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+ka	kag[mouth]	N	N	D		(UNKNOWN (word *))
+i7-da-ta	id[river]-ak-ta	PN	N.GEN.ABL	D		(PN (word *))
+na-ga-ab-tum-sze3		N	N.GEN.TERM	Iabcdefg		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lugal-uszurx(|LAL2.TUG2|)	_[1][-ak][-ak]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+nesag	Nesag[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en-unu6-gal	Enunugal[1]	PN	PN	D		(PN (word *))
+an-na	An[1][-ak][-ak][sze]	PN	DN.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

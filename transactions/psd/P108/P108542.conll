@@ -1,0 +1,87 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P108/P108542.conll #
+##############################################################################################
+
+#new_text=P108542
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ur-{d}lamma	Urlamma[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+erin-da-ta		PN	PN.GEN.ABL	Iabcd		(PERSON (PN (word *)))))))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))))
+mar-sa-ta		N	N.GEN.ABL	Iabcdefg		(UNKNOWN (word *))))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-{d}ig-alim	Urigalim[1]	FN	PN	D		(CITY (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+i3-du8-ta		V	V	POS		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(PN (word *)))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+kasz-de2-a	kaszdea[banquet][-sze]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))
+ugu2	ugu[capital]	N	N	D		(UNKNOWN (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PERSON (PN (word *)))))
+ga2-ga2-dam	gar-gar[place]-ed-am	V	NF.V.RDP.F.COP-3-SG	D		(UNKNOWN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+lu2-ma2-gur8-ra		PN	PN	Iabcde		(PN (word *))
+ugu2	ugu[capital]	N	N	D		(UNKNOWN (word *))
+lu2-bala-sa6-ga		PN	PN	D		(PN (word *))
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *)))
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+nig2-ka9-ak	nigSZID[account]	N	N	D		(UNKNOWN (word *))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+lu2-{d}nansze	Lunansze[1]	PN	PN	D		(PERSON (PN (word *)))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

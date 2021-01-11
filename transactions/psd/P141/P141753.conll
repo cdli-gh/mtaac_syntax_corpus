@@ -1,0 +1,70 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P141/P141753.conll #
+#########################################################################################
+
+#new_text=P141753
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+{d}nansze-kam		PN	PN	POS		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+ses		V	V	POS	B-COM	(PRODUCT_NAME (COM *))
+ab-ba	abba[father]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-na		PN	PN	Iabcde	B-COM	(PRODUCT_NAME (COM *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-ma-ma	Urmama[1][-ak]	PN	PN.GEN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}utu	Urutu[1]	PN	PN	D		(PN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+lu2-bala-sa6-ga		PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-kisal-bi		PN	PN.GEN.ABS	Iabcdef		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-{d}en-ki		PN	PN	Ia		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+igi-sa6-sa6	Igisasa[1]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+ur-zu	Urzu[1][-ak][-ra]	PN	PN.GEN.DAT-H	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-lugal	Urlugal[1]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+e2-sag-...		PN	PN	POS		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+e2-ki		PN	PN	POS		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka5-a-mu	Kayamu[1][-ak]	PN	PN.GEN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+ur-dingir-ra		PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+a-ab-ba-mu	Ayabbamu[1][-ra]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sza3-igi-ba		PN	PN.GEN.L1	Iabcdefg		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-{d}gesz-bar-e3		PN	PN	Iabcde		(PN (word *))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(PN (word *))
+si-i3-tum	situm[balance]	N	N	D		(UNKNOWN (word *))
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+gal2-la-am3		V	NF.V.PT.ABS.COP-3-SG	Iab	B-COM	(PRODUCT_NAME (COM *))))
+

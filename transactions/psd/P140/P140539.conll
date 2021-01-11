@@ -1,0 +1,41 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P140/P140539.conll #
+##############################################################################################
+
+#new_text=P140539
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+al	al[hoeing]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{u2}kiszi17	kiszig[acacia]	FN	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ku5-ra2-a		V	V	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gibil	gibil[new][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+ARAD2-mu	Aradmu[1]	PN	PN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+he2-sa6	Hesa[1]	PN	PN	D		(PN (word *))
+iszib	iszib[priest]	N	N	D		(JOBNAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))))
+

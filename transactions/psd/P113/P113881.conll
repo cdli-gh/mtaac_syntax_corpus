@@ -1,0 +1,34 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P113/P113881.conll #
+##############################################################################################
+
+#new_text=P113881
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sze	sze[barley]	N	N	D	I-COUNT	(NUMBER (COUNT *))
+ur5-sze3	urra[loan]-sze	PN	N.TERM	D		(PN (word *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gur-ra	gur[unit]-ak	V	NF.V.PT	D		(UNIT (word *))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(ban2)-ta		NU	NU	POS	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal-a2-zi-da-ta	Lugalazida[1][-ak]-ta	PN	PN.GEN.ABL	D		(AGENT (PERSON (PN (word *)))))
+me-asz2-nun		N	N	POS		(UNKNOWN (word *))
+udru{duru5}		N	N	Ia		(UNKNOWN (word *))
+{d}ba-ba-ni		PN	PN	Ia		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+lu2-bala-sa6-ga		PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+gan-gan-e3		PN	PN	POS		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *))
+li-za-ra-x		PN	PN	Iabcde		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+en-u2-a		PN	PN	Iabcde		(PN (word *))))
+

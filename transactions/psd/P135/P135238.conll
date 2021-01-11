@@ -1,0 +1,28 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P135/P135238.conll #
+#########################################################################################
+
+#new_text=P135238
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ansze	ansze[donkey]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+geme2-nigar{gar}	Gemenigar[1][-ra]	PN	PN.DAT-H	D		(PERSON (PN (word *))))))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ansze	ansze[donkey]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+{gesz}nig2		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+ARAD2-da	arad[slave]-da[-ak][-ø]	PN	N.COM.GEN.ABS	D		(PERSON (PN (word *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+dabin	dabin[semolina]	N	N	D		(PRODUCT_NAME (word *))
+gudu4	gudug[priest]	N	N	D		(JOB (JOBNAME (word *)))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ansze	ansze[donkey]	N	N	D	B-COM	(PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))))
+

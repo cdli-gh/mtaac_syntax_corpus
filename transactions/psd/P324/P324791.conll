@@ -1,0 +1,80 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P324/P324791.conll #
+#########################################################################################
+
+#new_text=P324791
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+duh	duh[bran]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+duru5		V	V	POS		(UNKNOWN (word *))
+saga-(x)		V	NF.V.ABS.ABL	Iabcdefgh		(UNKNOWN (word *))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+duh	duh[bran]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+duru5		V	V	POS		(UNKNOWN (word *))
+saga-...		V	NF.V.ABS.GEN.GEN	Iabcdefg		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+{d}nin-{d}su4-an-na		PN	N.GEN	D		(PN (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+za3-gu2-la2-{d}nin-su4-an-na		GN	GN	POS		(CITY (word *))
+sza3	szag[heart]	N	N	D		(CITY (SZA3 (word *))
+e2-a	e[house][-ak]-'a	GN	N.L1	D		(word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+alan-lugal		N	N.GEN	Iabcdef		(UNKNOWN (word *))
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+masz2-gal	maszgal[billy_goat]	N	N	D		(PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(PURPOSE (GOD (word *))
+zabala4{ki}		GN	GN	POS		(CITY (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(PURPOSE (GOD (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *)))
+esz3-ta-gur-ra		PN	PN	POS		(PN (word *))
+{d}iszkur-illat		PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(CITY (SZA3 (word *))
+gar-sza-an-na{ki}		SN	SN.GEN	Ia		(word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))
+gaba-ri	gabari[copy]	N	N	D		(COPY (GABARI (word *)))))
+

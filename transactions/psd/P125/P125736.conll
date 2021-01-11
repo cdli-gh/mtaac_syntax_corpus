@@ -1,0 +1,33 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P125/P125736.conll #
+#########################################################################################
+
+#new_text=P125736
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+szu-gid2	szugid[animal_designation][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+ki	ki[place]	N	N	D		(KI (word *))
+in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	D		(PN (word *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D		(CITY|NATIONALITY (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	D		(CITY (word *))
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D	B-COM	(PRODUCT_NAME (COM *))
+du11-ga	dug[irrigate]-a	V	PN	D		(UNKNOWN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D		(PN (word *))
+sipa	sipa[shepherd]	N	N	D		(JOBNAME (word *))
+na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	D		(UNKNOWN (word *))))
+

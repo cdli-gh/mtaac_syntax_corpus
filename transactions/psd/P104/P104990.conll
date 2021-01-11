@@ -1,0 +1,25 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P104/P104990.conll #
+#########################################################################################
+
+#new_text=P104990
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+sag-gu4		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+du6-ku3-sze3		PN	PN	Iabcdefgh		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+kar-ta		FN	FN	POS		(CITY (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))))
+

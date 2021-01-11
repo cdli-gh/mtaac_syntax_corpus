@@ -1,0 +1,38 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P123/P123233.conll #
+##############################################################################################
+
+#new_text=P123233
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+{d}al-la-tum	Allatum[1][-ak]	PN	DN.GEN	D		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+a2-bi2-li2		PN	PN	Ia		(AGENT (PERSON (PN (word *)))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+masz	masz[interest]	N	N	D		(PRODUCT_NAME (word *))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}be-la-at-suh-ner	Belatsuhner[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+{d}be-la-at-dar-ra-ba-an-sze3		DN	DN.GEN.GEN.TERM	Iab		(GOD|GOD_NAME (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+szu-ku8-bu-um-ma		PN	PN	POS		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+eridu{ki}-ga	Eridug[1]-ak[-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

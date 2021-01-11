@@ -1,0 +1,38 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P129/P129855.conll #
+##############################################################################################
+
+#new_text=P129855
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+1(u)-sze3	1(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+tul2-du-ta		FN	FN	POS		(CITY (word *))
+gar-szum{ki}		SN	SN.GEN.ABS	Iabcdef		(CITY|NATIONALITY (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+il2-la		V	V	POS		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+uru11{ki}-ta		SN	SN.GEN.ABL	Iabcdefg		(CITY|NATIONALITY (word *))
+sag-ub3{ki}-sze3		SN	SN.GEN.GEN.TERM	Iabcdefg		(CITY|NATIONALITY (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+il2-la		V	V	POS		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en-unu6-gal	Enunugal[1]	PN	PN	D		(PN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+ur-{d}isztaran	Urisztaran[1]	PN	PN.GEN.ABS	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D		(PN (word *))))
+

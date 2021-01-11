@@ -1,0 +1,81 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P138/P138552.conll #
+#########################################################################################
+
+#new_text=P138552
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal-uszumgal-ta	Lugaluszumgal[1][-ak]-ta	PN	PN.GEN.ABL	D		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+2/3(|NINDA2x(SZE.2(ASZ))|)		NU	NU.GEN	Iabcdef	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-giri17-zal-ta	Lugirizal[1][-ak]-ta	PN	PN.GEN.ABL	D		(AGENT (PERSON (PN (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ma-an-szum2-ta	Manszum[1][-ak]-ta	PN	PN.GEN.ABL	D		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+gu4-am3-ta		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal-zi-kalam-ma-ta		PN	PN.GEN.GEN.ABL	Iabcdef		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	NU	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+im-da-ni-gal2-ta		PN	PN.GEN.ABL	Iabcdefgh		(AGENT (PERSON (PN (word *))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+{d}nin-mar{ki}-ka		PN	DN.GEN.ABS	D		(PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ma-an-szum2-ta	Manszum[1][-ak]-ta	PN	PN.GEN.ABL	D		(AGENT (PERSON (PN (word *))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+nam-mah-{d}ba-ba6		PN	PN	D		(PERSON (PN (word *))))))
+1/3(disz){sza}	1/3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ki	ki[place]	N	N	D		(KI (word *))
+na-silim-ta	Nasilim[1][-ak][-ak]-ta	PN	PN.GEN.GEN.ABL	D		(PN (word *))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+igi	igi[eye][-ø]	N	N	D		(UNKNOWN (word *))
+n-gal2		V	V	POS		(UNKNOWN (word *))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+nam-mah-{d}ba-ba6-ta		PN	PN.GEN.ABL	Iab		(PERSON (PN (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+...-AN-sze-ta				POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-dingir-ra	Ludingira[1][-ra]	PN	PN	D		(PERSON (PN (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ki-x-szesz		N	N	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nam-mah-{d}ba-ba6-ta		PN	PN.GEN.ABL	Iab		(PN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))))
+sig4	szeg[brick]	N	N	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+nam-mah-{d}ba-ba6		PN	PN	D		(PERSON (PN (word *)))))))
+

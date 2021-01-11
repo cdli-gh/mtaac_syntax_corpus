@@ -1,0 +1,108 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P100/P100302.conll #
+#########################################################################################
+
+#new_text=P100302
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sar	sar[unit]	N	N	D		(UNIT (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+tuku	tuku[acquire][-a]	V	NF.V.PT	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+{d}x-...		PN	PN	Iabc		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*))
+geszimmar	gesznimbar[date_palm][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+geszimmar	gesznimbar[date_palm][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))))
+

@@ -1,0 +1,30 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P106/P106170.conll #
+##############################################################################################
+
+#new_text=P106170
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lum-za-du		PN	PN	Iabcde		(PN (word *))
+tug2-ta		N	N.ABL	Iabcde		(UNKNOWN (word *))
+PI-ra				POS		(UNKNOWN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lum-za-du		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *)))))
+er3-e2-a		PN	PN	Ia		(AGENT (PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))))
+nig2-ka9	nigSZID[account]	N	N	D		(UNKNOWN (word *))
+ba-ak		V	V	POS		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *)))
+2(disz)-kam-ma-asz		NU	NU.GEN.COP-3-SG.TERM	Iab	B-COUNT	(FRAG (NUMBER (COUNT *))
+kar2-har{ki}		GN	SN.GEN	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

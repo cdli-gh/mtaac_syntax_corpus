@@ -1,0 +1,58 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P113/P113853.conll #
+##############################################################################################
+
+#new_text=P113853
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+kasz-a		N	N	POS		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+geme2	geme[female_worker]	N	N	D		(PRODUCT_NAME (word *))
+e2-bappir		PN	PN	POS		(PN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+kasz-a		N	N	POS		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+geme2	geme[female_worker]	N	N	D		(PRODUCT_NAME (word *))
+e2-bappir		PN	PN	POS		(PN (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+su-ga	sug[repay]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *)))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ur3-re-ba-ab-du7		V	PN	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+en-um-i3-li2		PN	PN.GEN	Iabc		(PERSON (PN (word *))))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+lunga3		N	N.GEN	Iabcde		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(PURPOSE (GOD (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *)))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+en-um-i3-li2		PN	PN.GEN	Iabc		(PN (word *)))))
+

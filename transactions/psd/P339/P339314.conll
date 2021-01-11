@@ -1,0 +1,34 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P339/P339314.conll #
+#########################################################################################
+
+#new_text=P339314
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+{gi}kaskal	kaskal[travel_basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+i3-nun	inun[ghee]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+sal		N	N	POS		(UNKNOWN (word *))
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	(NUMBER (COUNT *))
+ta	ta[unknown]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+{gi}hal	hal[basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ku6-sze6	kusze[cooked_fish]	N	N	D		(PRODUCT_NAME (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	D	I-COUNT	*))
+ku6-a-du10-ga		PN	PN	POS		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+{gi}hal	hal[basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ku6-sze6	kusze[cooked_fish]	N	N	D		(PRODUCT_NAME (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-{d}utu-ta	Urutu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+umma{ki}-sze3		SN	SN.GEN.TERM	Iabcd		(CITY|NATIONALITY (word *))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+ga2-ra		V	V	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lu2-{d}utu	Lu'utu[1]	PN	PN	D		(PN (word *))))
+

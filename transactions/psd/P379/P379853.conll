@@ -1,0 +1,34 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P379/P379853.conll #
+#########################################################################################
+
+#new_text=P379853
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+lugal	lugal[king]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))))
+a-al-la		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*))
+lugal-ki-ag2		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*))
+ka5-a	Kaya[1]	PN	PN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+...-kam	_(_)[_]-ak-am	PN	NU.GEN.COP-3-SG	D		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+kiszib3-ba-sze3		N	N.TERM	Iabcde	B-COM	(PRODUCT_NAME (COM *))
+iti	iti[month]	N	N	D		(ITI (word *))
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))))
+

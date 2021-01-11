@@ -1,0 +1,69 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P131/P131085.conll #
+##############################################################################################
+
+#new_text=P131085
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	D		(MONTH_NAME (word *)))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+dab-ba	dab[seize]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+ab2	ab[cow][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+ga-ga-ra		V	V	POS		(UNKNOWN (word *))
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D		(GOD|GOD_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-me-ki-gal2-ta		MN	MN.GEN.ABL	Iabcdefg		(MONTH_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	D		(MONTH_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *)))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

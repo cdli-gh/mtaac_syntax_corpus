@@ -1,0 +1,49 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P118/P118841.conll #
+#########################################################################################
+
+#new_text=P118841
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+zu2-lum	zulum[date]	N	N	D		(UNKNOWN (word *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+an-sza-an{ki}-ta	Anszan[1]-ta	SN	GN.ABL	D		(CITY|NATIONALITY (word *))
+gen-na-me-esz2		V	NF.V.PT.COP-3-PL	Iabcdefg		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+...{ki}-ta	_[1]-ta	SN	SN.ABL	D		(CITY|NATIONALITY (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+i3-szim-{d}szul-gi		PN	PN	Iabcdefgh		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	B-COM	(PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+kal-ga	kalag[strong]-a	V	NF.V.SUB	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D		(CITY|NATIONALITY (word *))
+i-szim-{d}szul-gi		PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-lugal	Urlugal[1]	PN	PN	D		(PN (word *))
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D		(PN (word *))))
+

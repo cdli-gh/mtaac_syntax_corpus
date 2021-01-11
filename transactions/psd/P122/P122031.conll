@@ -1,0 +1,61 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P122/P122031.conll #
+##############################################################################################
+
+#new_text=P122031
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+geme2-{d}li9-si4	Gemelisi[1]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(PN (word *))
+nar		N	N	POS		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+lugal-{d}isztaran		PN	PN	Iabcde		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+lu2-a-ta-la		PN	PN	Ia		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lu2-{d}iszkur		PN	PN	Ia		(PN (word *))
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+udul2	utul[tureen]	N	N	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+esza	esza[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *)))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+esza	esza[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))))
+

@@ -1,0 +1,215 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P102/P102536.conll #
+#########################################################################################
+
+#new_text=P102536
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+lahtan2		FN	FN	POS		(CITY (word *))
+ki-gal2		PN	PN	POS		(PN (word *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))
+nu-ur3-ra		V	V	POS		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nansze	Nansze[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+5(bur3)	5(bur)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+en-nu-lum-ma		FN	FN	POS		(CITY (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+kur-bi2-lu		FN	FN	POS		(CITY (word *))
+ki-gal2		PN	PN	POS		(PN (word *))
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+lal3-ha		FN	FN	POS		(CITY (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a2	a[time]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))))
+hun-ga2	hug[hire]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+tir-{gesz}ma-nu		FN	FN	POS		(CITY (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a2	a[time]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))))
+hun-ga2	hug[hire]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+tir-gaba-gid2-da		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ki-gal2		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+2(bur'u)		NU	NU	POS	B-COUNT	(NUMBER (COUNT *
+5(bur3)	5(bur)[unit]	NU	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+en-...		FN	FN	POS		(CITY (word *)))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(bur3)	5(bur)[unit]	NU	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+KA-...		PN	PN	D		(AGENT (PERSON (PN (word *)))))
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{d}x	_[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+ki-gal2		PN	PN	POS		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *)))
+9(bur3)	9(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *)))
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+be6-li-x		FN	FN	POS		(CITY (word *)))
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+da-x		PN	PN	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *)))
+uru11{ki}		SN	SN.GEN.ABS	D		(CITY (word *)))
+2(bur'u)		NU	NU	POS	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1(bur3)	1(bur)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *)))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+8(bur3)	8(bur)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+su3	sug[empty][-ø]	V	NF.V.ABS.ABS	D		(PRODUCT_PARAM (word *))
+GAN2-gu-la		PN	PN	POS		(PN (word *)))
+8(bur3)	8(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *)))
+6(bur3)	6(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *)))
+7(bur3)		NU	NU.GEN	Iabcdef	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *)))
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+tir-x		FN	FN	POS		(CITY (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szul-gi	Szulgir[1]	RN	RN	D		(PN (word *)))
+2(iku)	2(iku)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+iri-ul		FN	FN	POS		(CITY (word *))
+e2-babbar2	Ebabbar[1][-ak]	TN	TN.GEN	D		(CITY (word *)))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+iri-x		FN	FN	POS		(CITY (word *)))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(bur3)	5(bur)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *))))
+{d}nin-...	_[1]	PN	DN	D		(AGENT (PERSON (PN (word *)))))
+2(bur'u)		NU	NU	POS	B-COUNT	(FRAG (NUMBER (COUNT *
+2(bur3)	2(bur)[unit]	NU	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a-...	_[_]	PN	PN	D		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+nam-ha-ni	Namhani[1]	N	PN	D		(UNKNOWN (word *)))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+iri-...		FN	FN	POS		(CITY (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}ba-ba6		DN	DN	D		(GOD|GOD_NAME (word *)))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(bur3)	2(bur)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *)))
+6(bur3)	6(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+durux(U3)-a-du10-ga		FN	FN	Iabcde		(CITY (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gul		V	V	POS	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+gul		V	V	POS		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+ki-gal2		PN	PN	POS		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *)))
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+lugal-nam-tar-re		FN	FN	POS		(CITY (word *)))
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *)))
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+za-ha-din		FN	FN	POS	B-COM	(PRODUCT_NAME (COM *)))))
+a2-gu-gu		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki-gal2		PN	PN	POS		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}pa-bil3-sag		PN	PN	POS		(PN (word *)))
+3(szar2)		NU	NU	POS	B-COUNT	(FRAG (NUMBER (COUNT *
+2(bur'u)		NU	NU	POS	I-COUNT	*
+8(bur3)	8(bur)[unit]	NU	N	D	I-COUNT	*
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+...-NE		PN	PN	Ia		(PN (word *)))))
+

@@ -1,0 +1,43 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P122/P122808.conll #
+##############################################################################################
+
+#new_text=P122808
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+dida	dida[sweet_wort]	N	N	D		(PRODUCT_NAME (word *)))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+esza	esza[flour]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zu2-lum	zulum[date]	N	N	D		(UNKNOWN (word *))
+nig2-siskur2-ra		DET	DET	POS		(UNKNOWN (word *))
+sa-ra		V	V	POS	B-COM	(PRODUCT_NAME (COM *))
+ki-szum2-ma		N	N.GEN	Iabcde		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+la2-tur	Latur[1]	FN	FN	D		(CITY (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-dun	Urdun[1]	PN	PN	D		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOB (JOBNAME (word *))
+sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	D		(CITY (word *)))))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+ur-dun	Urdun[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+da-da	Dada[1][-ak]	PN	PN	D		(PERSON (PN (word *)))))))
+

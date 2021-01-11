@@ -1,0 +1,105 @@
+# train/P101176.atf
+						
+
+# tr.en: jug wort sila fine beer ban bread shekels oil shekels alkali-plant bundles onions for to frontier jug wort sila beer ban bread shekels oil shekels alkali-plant bundles onions for Lu-Utu to frontier sila beer sila bread shekels oil shekels alkali-plant bundle onions for Amur-Suen from frontier total jugs of common wort ban total sila fine beer total sila beer total ban sila bread total shekels oil total shekels alkali-plant total bundles onions th day month Dumuzi year Simanum was destroyed
+1	1(disz)	_	,	3	nummod	
+2	dug	jug	NN	3	compound	
+3	dida	wort	NN	0	root	
+4	5(disz)	_	CD	9	nummod	
+5	sila3	sila	NN	6	compound	
+6	kasz	beer	NN	3	conj	
+7	saga	fine	JJ	6	amod	
+8	1(ban2)	ban	NN	9	nummod	
+9	ninda	bread	NN	3	conj	
+10	2(disz)	_	,	3	nummod	
+11	gin2	shekels	NNS	12	compound	
+12	i3	oil	NN	3	conj	
+13	2(disz)	_	CD	18	nummod	
+14	gin2	shekels	NNS	15	nmod:npmod	
+15	naga	alkali-plant	JJ	3	amod	
+16	2(disz)	_	,	3	nummod	
+17	sa	bundles	NNS	18	compound	
+18	szum2	onions	NNS	3	appos	
+19	lu2-mu-...	for	IN	99	nmod:for	
+20	gaba-asz	to frontier	NN	3	nmod:to	
+21	1(disz)	_	,	23	nummod	
+22	dug	jug	NN	23	compound	
+23	dida	wort	NN	3	_	
+24	3(disz)	_	CD	28	nummod	
+25	sila3	sila	NN	26	compound	
+26	kasz	beer	NN	23	conj	
+27	1(ban2)	ban	NN	28	nummod	
+28	ninda	bread	NN	23	conj	
+29	2(disz)	_	,	23	nummod	
+30	gin2	shekels	NNS	31	compound	
+31	i3	oil	NN	23	conj	
+32	2(disz)	_	CD	37	nummod	
+33	gin2	shekels	NNS	34	nmod:npmod	
+34	naga	alkali-plant	JJ	23	amod	
+35	2(disz)	_	,	23	nummod	
+36	sa	bundles	NNS	37	compound	
+37	szum2	onions	NNS	23	appos	
+38	lu2-{d}utu	Lu-Utu	NN	23	nmod:for	
+39	gaba-asz	for to frontier	IN	38	nmod:for	
+40	3(disz)	_	,	42	nummod	
+41	sila3	sila	NN	42	compound	
+42	kasz	beer	NN	23	conj	
+43	2(disz)	_	CD	48	nummod	
+44	sila3	sila	NN	45	compound	
+45	ninda	bread	NN	42	conj	
+46	2(disz)	_	,	42	nummod	
+47	gin2	shekels	NNS	48	compound	
+48	i3	oil	NN	42	conj	
+49	2(disz)	_	CD	54	nummod	
+50	gin2	shekels	NNS	51	nmod:npmod	
+51	naga	alkali-plant	JJ	42	amod	
+52	1(disz)	_	,	42	nummod	
+53	sa	bundle	NN	54	compound	
+54	szum2	onions	NNS	42	appos	
+55	a-mur-{d}suen	for Amur-Suen	NNP	42	nmod:for	
+56	gaba-ta	from frontier	NN	42	nmod:from	
+57	szunigin	total	NN	23	_	
+58	2(disz)	_	:	23	nummod	
+59	dug	jugs	NNS	57	_	
+60	dida	wort	NN	59	nmod:of	
+61	du	common	JJ	60	amod	
+62	1(ban2)	ban	NN	59	nummod	
+63	szunigin	total	NN	23	_	
+64	5(disz)	_	:	23	nummod	
+65	sila3	sila	NN	66	compound	
+66	kasz	beer	NN	63	_	
+67	saga	fine	JJ	66	amod	
+68	szunigin	total	NN	23	_	
+69	6(disz)	_	_	0	nummod	
+70	sila3	sila	NN	71	compound	
+71	kasz	beer	NN	68	_	
+72	szunigin	total	NN	23	_	
+73	2(ban2)	_	:	23	nummod	
+74	2(disz)	ban	NN	72	nummod	
+75	sila3	sila	NN	76	compound	
+76	ninda	bread	NN	74	_	
+77	szunigin	total	NN	23	_	
+78	6(disz)	_	_	0	nummod	
+79	gin2	shekels	NNS	80	compound	
+80	i3	oil	NN	77	_	
+81	szunigin	total	NN	23	_	
+82	6(disz)	_	:	23	nummod	
+83	gin2	shekels	NNS	84	nmod:npmod	
+84	naga	alkali-plant	JJ	81	_	
+85	szunigin	total	NN	23	_	
+86	7(disz)	_	:	23	nummod	
+87	sa	bundles	NNS	88	compound	
+88	szum2	onions	NNS	85	_	
+89	u4	th day	NN	23	_	
+90	1(u)	_	:	23	nummod	
+91	4(disz)-kam	_	,	94	nummod	
+92	iti	month	NN	89	appos	
+93	{d}dumu-zi	Dumuzi	_	0	_	
+94	mu	year	NN	23	_	
+95	si-ma-num2{ki}	Simanum	NNP	96	nsubjpass	
+96	ba-hul	was destroyed	VBN	94	acl	
+97	 	_	NN	0	root	
+98	 	_	NN	97	appos	
+99	 	_	NN	98	nmod:for
+	
+

@@ -1,0 +1,74 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P453/P453632.conll #
+##############################################################################################
+
+#new_text=P453632
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+ur-e2-mah	Uremah[1]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+|BAD3.AN|{ki}-sze3		SN	SN.TERM	Iabcd		(CITY|NATIONALITY (word *))
+ba-gen-na-a	ba-gen[go][-ø]-a-'a	V	MID.V.3-SG-S.SUB.L1	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+i3-li2-ba-ni		PN	PN	Iabcdefgh		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+gudu4	gudug[priest]	N	N	D		(JOBNAME (word *))
+{d}lugal-edin-na-sze3		DN	DN.GEN.TERM	Iab		(GOD|GOD_NAME (word *))
+im-gen-na-a	i-m-gen[go][-ø]-a-'a	V	FIN.VEN.V.3-SG-S.SUB.L1	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+nu-ur2-i3-li2	Nurili[1]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+ki-masz{ki}-sze3		SN	SN.GEN.GEN.TERM	Iabcdef		(CITY|NATIONALITY (word *))
+ba-gen-na-a	ba-gen[go][-ø]-a-'a	V	MID.V.3-SG-S.SUB.L1	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-a-dara4		MN	MN	POS		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *)))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))))
+

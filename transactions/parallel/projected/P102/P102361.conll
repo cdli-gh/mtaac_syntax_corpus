@@ -1,0 +1,47 @@
+# train/P102361.atf
+						
+
+# tr.en: n ban barley fodder of sheep th day barig barley bran barig ban barley groats ban barley dabin-flour th day mua loaded from storage facility under seal of Lu-Suen month Aktu year Great-barge was fashioned gur barig ban Lu-Suen son of Ur-saga herdsman of grain-fed oxen
+1	1(barig)	_	,	3	nummod	
+2	1(ban2)	ban	NN	1	nummod	
+3	sze	barley	NN	0	root	
+4	sza3-gal	n fodder	CD	3	nummod	
+5	udu	sheep	NN	3	nmod:of	
+6	u4	th day	NN	3	appos	
+7	1(u)	_	_	0	nummod	
+8	6(disz)-kam	_	,	6	nummod	
+9	3(barig)	barig	NN	8	nummod	
+10	sze	barley	NN	9	conj	
+11	duh	bran	NN	9	conj	
+12	3(barig)	_	:	8	nummod	
+13	2(ban2)	barig ban	NN	14	nummod	
+14	sze	barley	NN	9	conj	
+15	nig2-ar3-ra	groats	VBZ	14	appos	
+16	5(ban2)	ban	NN	17	nummod	
+17	sze	barley	NN	9	conj	
+18	dabin	dabin-flour	NN	17	appos	
+19	u4	th day	NN	23	nmod:tmod	
+20	1(u)	_	,	23	nummod	
+21	8(disz)-kam	_	_	20	nummod	
+22	mu-sza	mua	NN	23	nsubj	
+23	si-ga	loaded	VBN	9	conj	
+24	e2-kiszib3-ba-ta!	from storage facility	NN	23	nmod:from	
+25	kiszib3	under seal	NN	9	conj	
+26	lu2-{d}suen	Lu-Suen	NNP	25	nmod:of	
+27	iti	month	NN	28	compound	
+28	a2-ki-ti	Aktu	NNP	9	conj	
+29	mu	year	NN	31	_	
+30	ma2-gur8-mah	Great-barge	NN	31	nsubjpass	
+31	ba-dim2	was fashioned	VBN	28	acl	
+32	1(asz)	_	.	8	nummod	
+33	3(barig)	_	_	8	nummod	
+34	2(ban2)	barig ban	NN	35	nummod	
+35	gur	gur	NN	9	_	
+36	lu2-{d}suen	Lu-Suen	JJ	37	amod	
+37	dumu	son	NN	9	_	
+38	ur-sa6!-ga	Ur-saga	NN	37	nmod:of	
+39	sipa	herdsman	NN	37	appos	
+40	gu4	oxen	NNS	39	nmod:of	
+41	niga	grain-fed	JJ	40	amod
+	
+

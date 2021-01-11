@@ -1,0 +1,49 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P105/P105021.conll #
+##############################################################################################
+
+#new_text=P105021
+lugal-uszur3-e		N	N	POS		(DOC (FRAG (UNKNOWN (word *))
+igi-ni		N	N	POS		(UNKNOWN (word *))
+i3-gar		V	V	POS		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nig2-sa10	nigsam[price]	N	N	D		(UNKNOWN (word *))
+ip-pa-pa		PN	PN	Iabcde		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nig2-sa10	nigsam[price]	N	N	D		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ur-{d}en-lil2-la2-sze3		PN	PN.GEN.TERM	Iabcdefg		(PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}inanna-ke4		DN	DN.GEN.GEN.ERG	Iabcdefg		(GOD|GOD_NAME (word *))
+ha-ma-szum2		V	V	POS		(UNKNOWN (word *))
+bi2-du11		V	V	POS		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+er2-sar		PN	PN	Iabcde		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+i-ku-mi-szar		PN	PN.GEN.DAT-H	Iab		(PN (word *))
+ra2-gaba	ragaba[rider]	N	N.ABS	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nam-mah-{d}ba-ba6		PN	PN	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+na-na-mu		PN	PN	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ma2-KU		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+ur-{d}nin-urta		PN	PN	Iabcdefgh		(PN (word *))
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+NE-NE-gar		PN	PN	POS		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *)))))
+

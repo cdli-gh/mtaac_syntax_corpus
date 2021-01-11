@@ -1,0 +1,37 @@
+# train/P125784.atf
+						
+
+# tr.en: male laborers hirelings the labor shekel each silver the fodder barig barley each its silver shekels its barley gur for month its fodder-reed talents Ikunum received month Festival of Ninazu year For rd time Simurrum was destroyed
+1	2(u)	_	,	2	nummod	
+2	gurusz	male laborers	NNS	0	root	
+3	hun-ga2	hirelings	NNS	2	appos	
+4	a2-bi	the labor	NN	2	appos	
+5	1/2(disz)	_	,	7	nummod	
+6	gin2-ta	shekel each	NN	4	_	
+7	ku3-babbar	silver	NN	6	root	
+8	sza3-gal-bi	the fodder barig	NN	5	root	
+9	1(barig)!	_	,	10	nummod	
+10	sze-ta	barley each	NN	8	_	
+11	ku3-babbar-bi	its silver	NN	10	appos	
+12	1(u)	_	,	13	nummod	
+13	gin2	shekels	NNS	10	_	
+14	sze-bi	its barley	NN	13	appos	
+15	4(asz)	_	:	13	nummod	
+16	gur	gur	NN	13	_	
+17	iti	month	NN	13	nmod:for	
+18	1(disz)-sze3	_	,	17	nummod	
+19	gi-zi-bi	its fodder-reed	NN	17	appos	
+20	3(gesz'u)	_	,	21	nummod	
+21	gu2	talents	NNS	17	_	
+22	i-ku-num2	Ikunum	NNP	24	nsubj	
+23	szu	_	:	13	_	
+24	ba-ti	received	VBD	21	acl:relcl	
+25	iti	month	NN	27	_	
+26	ezem-{d}nin-a-zu	Festival Ninazu	NNP	27	_	
+27	mu	year	NN	13	_	
+28	a-ra2	_	:	27	_	
+29	3(disz)-kam-asz	_	.	8	nummod	
+30	si-mu-ru-um{ki}	Simurrum	NN	31	nsubjpass	
+31	ba-hul	was destroyed	VBN	27	acl:relcl
+	
+

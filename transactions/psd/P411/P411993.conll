@@ -1,0 +1,39 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P411/P411993.conll #
+#########################################################################################
+
+#new_text=P411993
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+aga3-us2	aga'us[soldier]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda-ta	nindan[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+kasz-bi		N	N.3-SG-NH-POSS.ABS	Iabcde		(UNKNOWN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+ninda-bi		N	N.ABS.3-SG-NH-POSS.ABS	Iabcdefg		(UNKNOWN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+ki-masz{ki}-ta		SN	SN.GEN.ABL	Iabcdef		(CITY|NATIONALITY (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	D		(JOBNAME (word *))
+ba-e-re-sza-a		V	V	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+i-pi2-iq		PN	PN.ERG	Iab		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+{gesz}apin	apin[plow]	N	N	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+masz2-e	masz[goat]-e	N	N.L3-NH	D		(PRODUCT_NAME (word *))
+in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))))
+

@@ -1,0 +1,51 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P376/P376071.conll #
+##############################################################################################
+
+#new_text=P376071
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gi}ma-an-sim	mansim[sieve]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+zi3-gu	zidgu[flour_type]	N	N	D		(PRODUCT_NAME (word *))
+lugal	lugal[king]	N	N	D		(PRODUCT_PARAM (word *)))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}ma-an-sim	mansim[sieve]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+{gi}su7-su7	susu[reed_type]	N	N	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}ma-an-sim	mansim[sieve]	N	N	D		(UNKNOWN (word *))
+dabin	dabin[semolina]	N	N	D		(PRODUCT_NAME (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}ma-an-		N	N	POS		(UNKNOWN (word *))
+nig2-ar3-ra	nigara[groats]	N	N	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+{gi}gur-nag		N	N	Ia		(UNKNOWN (word *))
+kin	kig[work]	N	N	D		(UNKNOWN (word *))
+esir2	esir[bitumen]	N	N	D		(PRODUCT_NAME (word *))
+su-ba	su[body]-bi-'a	V	NF.V.PT	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+szer7-ru-um	szerrum[mat]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+kikken-na-a		N	N.GEN.L1	Iabcdefg		(UNKNOWN (word *))
+ba-dul9		V	MID.V.3-SG-S	Iabcdefgh		(UNKNOWN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	D		(CITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+ur-{d}nun-gal	Urnungal[1][-ak]	PN	PN.GEN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D		(UNKNOWN (word *))))
+

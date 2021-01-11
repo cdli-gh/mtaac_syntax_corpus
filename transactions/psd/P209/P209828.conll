@@ -1,0 +1,63 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P209/P209828.conll #
+##############################################################################################
+
+#new_text=P209828
+sila3	sila[unit]	N	N	D		(DOC (FRAG (UNIT (word *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-{d}szara2-ta	Urszara[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ku3-{d}nin-ur4-ra	Kugninura[1][-e]	PN	PN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD|GOD_NAME (word *))
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D		(UNKNOWN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D		(CITY|NATIONALITY (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ku3-{d}nin-ur4-ra	Kugninura[1][-e]	PN	PN	D		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+lu2-{d}suen-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+szukur-ra		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ur-{d}kal-kal		PN	PN.DAT-H	Iab		(AGENT (PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D		(PERSON (PN (word *)))))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+{d}szara2-i3-zu		PN	PN.DAT-H	Iabcdefgh		(PERSON (PN (word *))))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gesz-asz		N	N.3-SG-H-POSS.TERM	Iabcdef		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+{d}szara2-kam	Szarakam[1]	PN	PN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D		(CITY (word *)))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+sza3-ku3-ge-ta		PN	PN.GEN.ABL	Iabcdefg		(PERSON (PN (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+na-ba-sa2-ta		PN	PN.GEN.GEN.ABL	Iabcdef		(PERSON (PN (word *))))
+gaba-ri	gabari[copy]	N	N	D		(COPY (GABARI (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D		(PERSON (PN (word *))))))
+

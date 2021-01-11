@@ -1,0 +1,44 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P303/P303795.conll #
+##############################################################################################
+
+#new_text=P303795
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+ab2	ab[cow][-ø]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-an-...		PN	PN	Iabcde		(PN (word *))
+e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	D		(UNKNOWN (word *))
+da-a-a-ni		PN	PN.GEN.ABS	Iabcdef		(PN (word *))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+su4-a	su[red][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+u8	u[ewe]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+masz2-gal	maszgal[billy_goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+szu-gid2	szugid[animal_designation][-ø]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+aga3-us2-e-ne-sze3		N	N.PL.GEN.TERM	Iabcde		(UNKNOWN (word *))
+ARAD2-mu	Aradmu[1]	PN	PN	D		(PN (word *))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-...		MN	MN	Iabcde		(MONTH_NAME (word *)))))
+

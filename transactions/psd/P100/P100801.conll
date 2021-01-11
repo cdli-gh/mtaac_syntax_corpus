@@ -1,0 +1,43 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P100/P100801.conll #
+#########################################################################################
+
+#new_text=P100801
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (word *))
+{gi}hal	hal[basket]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D		(UNIT (word *))))
+{d}en-lil2-la2-kam		DN	DN.GEN	Iabcde		(PURPOSE (GOD (word *))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}haszhur		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME (word *)))))
+a-ba-{d}szara2-gin7	Abaszaragin[1][-e]	PN	PN.ERG	D		(AGENT (PERSON (PN (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}haszhur		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+x-HUB2-DU-x-x		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}haszhur		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME (word *)))))
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D		(AGENT (PERSON (PN (word *))))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}haszhur		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME (word *)))))
+lugal-dalla		PN	PN	D		(AGENT (PERSON (PN (word *)))))
+muhaldim		N	N	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}hal	hal[basket]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))
+ur-sa6-ga-ha-ma-ti		PN	PN	Ia		(PN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+e2-sag-da-na-sze3		PN	PN	POS		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+nesag	Nesag[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))))
+

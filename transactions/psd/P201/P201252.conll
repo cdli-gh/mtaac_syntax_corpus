@@ -1,0 +1,30 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P201/P201252.conll #
+##############################################################################################
+
+#new_text=P201252
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal	lugal[king]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *)))))
+munus	munus[woman]	N	N	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila	sila[unit]	N	N	D		(UNIT (word *))))
+ur-e2-su4-a		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+i3	i[oil]	N	N	D		(PRODUCT_NAME (word *))))
+de2-a	de[pour]-a	V	NF.V.PT	D		(UNKNOWN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+ad6		N	N	POS		(UNKNOWN (word *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}nin-sun2		PN	PN	Iabcdefgh		(PN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+

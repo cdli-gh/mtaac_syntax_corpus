@@ -1,0 +1,75 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P250/P250482.conll #
+##############################################################################################
+
+#new_text=P250482
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lu2-{d}da-mu	Ludamu[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ma-ba		PN	PN.GEN.ABS	Iab		(PN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+{d}en-lil2-al-sa6		DN	DN	POS		(GOD|GOD_NAME (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal-bad3	Lugalbad[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ur-e-pa4-ra		PN	PN	Iabcde		(PN (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+lugal-ti-da		PN	PN	Iabcdefgh		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal-ku3-zu	Lugalkuzu[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+masz-te		PN	PN	POS	B-COM	(PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ur-{d}nin-lil2		PN	PN	Iabcdefgh		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+la-ni	Lani[1]	PN	PN	D		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D		(PN (word *))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal-engar		N	N	POS		(UNKNOWN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+NI		PN	PN	POS	B-COM	(PRODUCT_NAME (COM *))
+ra		V	V	POS		(UNKNOWN (word *))
+ku3	kug[silver]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+tul2-ta	Tulta[1][-ak][-ak]	PN	PN.GEN.GEN	D		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*))
+nam-ha-ni	Namhani[1]	N	PN	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lugal-ku3-zu-ta	Lugalkuzu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+i3-dub-{d}asznan		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+du6-ku3		PN	PN	POS		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))))
+

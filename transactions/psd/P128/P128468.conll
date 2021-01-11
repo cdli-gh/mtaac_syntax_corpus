@@ -1,0 +1,37 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128468.conll #
+#########################################################################################
+
+#new_text=P128468
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zu2-lum	zulum[date]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+{gesz}par4		N	N	Ia		(UNKNOWN (word *))
+had2	had[pure][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+{gesz}haszhur		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+had2	had[pure][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+gesztin	gesztin[vine]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+had2	had[pure][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}pesz3	pesz[fig]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+kusz3	kusz[unit]	N	N	D	I-COUNT	*))
+szuku	szukur[prebend_land]	N	N	D		(UNKNOWN (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+se3-ga	sig[equal]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}ba-ba6-sze3		DN	DN	POS		(GOD|GOD_NAME (word *))
+ama-kal-la	Amakala[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+szagina-ke4		N	N.3-SG-H-POSS.GEN.PL.ABS	Iabcde		(UNKNOWN (word *))
+szuba3-gu-la-du3-a		PN	PN	POS		(PN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+

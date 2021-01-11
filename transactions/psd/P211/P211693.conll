@@ -1,0 +1,25 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P211/P211693.conll #
+#########################################################################################
+
+#new_text=P211693
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+zu2-lum	zulum[date]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}hal	hal[basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *)))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+kun-zi		N	N	POS		(UNKNOWN (word *))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+gu2-gal-gal		PN	PN	POS		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+si-NE-e-ta		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+kiszib3-ba	kiszib[seal]-a	V	N	D	B-COM	(PRODUCT_NAME (COM *))
+lugal-di-ku5-zi		PN	PN	Iabcde		(PN (word *))))
+

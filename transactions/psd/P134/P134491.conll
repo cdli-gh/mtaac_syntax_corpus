@@ -1,0 +1,46 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P134/P134491.conll #
+##############################################################################################
+
+#new_text=P134491
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+mug	mug[inferior_wool]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D		(PERSON (PN (word *))))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+siki	siki[wool][-'a]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-gurdub2-a-ta		PN	PN.GEN.ABL	Iabcdef		(PERSON (PN (word *))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*))
+siki	siki[wool][-'a]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT_NAME (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-du6-ku3-ga-ta		PN	PN.GEN.ABL	Iab		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+usz-bar-ke4-ne		PN	PN	POS		(PN (word *))
+ur-{d}ma-ma-ke4		PN	PN.GEN.ERG	Iabcdef		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

@@ -1,0 +1,43 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137222.conll #
+#########################################################################################
+
+#new_text=P137222
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+1(disz)-a-kam		NU	NU.GEN.COP-3-SG	Iabcdef	B-COUNT	(NUMBER (COUNT *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lu2-kar-zi-da		PN	PN.GEN.GEN	Iabcdef		(PN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+{d}nanna-hi-li	Nannahili[1][-ak]	PN	PN.GEN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kin-gi4-a	kiggia[messenger]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+lulim		V	V	POS		(UNKNOWN (word *))
+sa	sa[bundle]	N	N	D		(UNIT (word *))
+gi4-gi4-de3		V	V	POS		(UNKNOWN (word *))
+i3-im-szi-gen-na		PN	PN	POS		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ku-li-ta		PN	PN	Iabcdefgh		(PN (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+me-ki-gal2		MN	MN	POS		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D		(UNKNOWN (word *))))
+

@@ -1,0 +1,69 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P108/P108233.conll #
+##############################################################################################
+
+#new_text=P108233
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+esza	esza[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+dub-dub	dubdub[flour_designation]	N	N	D		(PRODUCT_PARAM (word *)))))
+{d}en-lil2	Enlil[1]	DN	DN	D		(PURPOSE (GOD (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+esza	esza[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+dub-dub	dubdub[flour_designation]	N	N	D		(PRODUCT_PARAM (word *)))))
+{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	D		(PURPOSE (GOD (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+esza	esza[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+dub-dub	dubdub[flour_designation]	N	N	D		(PRODUCT_PARAM (word *))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *)))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zu2-lum	zulum[date]	N	N	D		(UNKNOWN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a2-gu-ta		PN	PN	POS		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOBNAME (word *))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+kal-ga	kalag[strong]-a	V	NF.V.SUB	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	D		(CITY|NATIONALITY (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+an	An[1][-ra]	N	N	D		(UNKNOWN (word *))
+ub-da		N	N	D		(UNKNOWN (word *))
+limmu2-ba	limmu[four]-bi-ak[-ø]	V	NF.V.3-SG-NH-POSS.GEN.ABS	D		(UNKNOWN (word *))
+a-a-kal-la	Ayakala[1]	PN	PN	D		(PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	D		(PN (word *))))
+

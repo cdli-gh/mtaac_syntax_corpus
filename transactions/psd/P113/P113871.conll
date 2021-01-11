@@ -1,0 +1,36 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P113/P113871.conll #
+##############################################################################################
+
+#new_text=P113871
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+dug	dug[pot]	N	N	D		(PRODUCT_NAME (word *))
+kur-ku-du-bi		N	N.3-SG-NH-POSS.ABS	Iabcdefgh		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szul-gi-iri-mu-sze3		PN	PN.GEN.TERM	Iab		(PN (word *))
+e2-kiszib3-ba-ta		TN	TN	POS		(CITY (word *))
+ga-ti-e		PN	PN	Iabcdefgh		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	(PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D		(UNKNOWN (word *))))
+

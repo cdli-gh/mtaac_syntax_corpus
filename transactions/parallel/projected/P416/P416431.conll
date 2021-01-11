@@ -1,0 +1,79 @@
+# train/P416431.atf
+						
+
+# tr.en: sheep for Enlil xxx siskur-offering in house for Silver Mound for Ninursag for Nusku for Ninurta for Inanna sheep barley-fed for Ninsun buck barley-fed for Lugalbanda buck for Szulgi buck for Nin-tiuga siskur-offering at night Nane-GIRgal responsible official of month day elapsed total sheep barley-fed bucks barley-fed from Nalu booked out month Harvest year ari and Kima were destroyed
+1	1(disz)	_	NN	0	nummod	
+2	udu	sheep	NN	1	compound	
+3	...	_	_	0	dep	
+4	{d}en-lil2	for Enlil	IN	5	nmod:for	
+5	1(disz)	for Enlil	NNP	1	nummod	
+6	...	_	NN	72	dep	
+7	{d}nin-lil2	_	,	1	_	
+8	siskur2	siskur-offering	NN	1	appos	
+9	sza3	in	IN	10	nmod:in	
+10	e2-a	house	NN	8	nmod:in	
+11	2(disz)	_	_	0	nummod	
+12	...	_	CD	13	dep	
+13	 	_	NN	73	appos	
+14	du6-ku3	for Silver Mound	IN	73	nmod:for	
+15	1(disz)	for Silver Mound	NN	14	nummod	
+16	...	_	CD	17	dep	
+17	 	_	NN	73	appos	
+18	{d}nin-hur-sag	for Ninursag	IN	19	nmod:for	
+19	1(disz)	for Ninursag	NNP	13	nummod	
+20	...	_	CD	21	dep	
+21	 	_	NN	73	appos	
+22	{d}nusku	for Nusku	IN	23	nmod:for	
+23	1(disz)	for Nusku	NNP	17	nummod	
+24	...	_	CD	25	dep	
+25	 	_	NN	73	appos	
+26	{d}nin-urta	for Ninurta	IN	27	nmod:for	
+27	1(disz)	for Ninurta	NNP	21	nummod	
+28	...	_	,	29	dep	
+29	{d}inanna	for Inanna	NNP	25	nmod:for	
+30	1(disz)	_	,	33	nummod	
+31	udu	sheep	NN	29	appos	
+32	niga	barley-fed	JJ	29	appos	
+33	{d}nin-sun2	for Ninsun	NNP	25	nmod:for	
+34	1(disz)	_	,	37	nummod	
+35	masz2-gal	buck	NN	33	appos	
+36	niga	barley-fed	JJ	33	appos	
+37	{d}lugal-banda3{da}	for Lugalbanda	NNP	33	nmod:for	
+38	1(disz)	_	,	37	nummod	
+39	masz2-gal	buck	NN	37	appos	
+40	{d}szul-gi	Szulgi	NNP	39	nmod:for	
+41	1(disz)	_	''	42	nummod	
+42	masz2-gal	buck	NN	37	appos	
+43	{d}nin-ti2-ug5-ga	for Nin-tiuga	IN	42	nmod:for	
+44	siskur2	siskur-offering	NN	37	appos	
+45	ge6	at night	NN	44	nmod:at	
+46	{d}nansze-GIR2@g-gal	Nane-GIRgal	NNP	73	_	
+47	maszkim	responsible official	NN	46	appos	
+48	iti	month	NN	73	nmod:of	
+49	u4	day	NN	48	appos	
+50	2(u)	_	:	73	nummod	
+51	1(disz)	_	_	50	nummod	
+52	ba-zal	elapsed	VBN	48	acl	
+53	szunigin	total	NN	73	_	
+54	8(disz)	_	,	55	nummod	
+55	udu	sheep	NN	53	_	
+56	niga	barley-fed	JJ	55	amod	
+57	6(disz)	_	:	73	nummod	
+58	masz2-gal	bucks	NNS	55	appos	
+59	niga	barley-fed	JJ	55	appos	
+60	ki	from	IN	61	nmod:from	
+61	na-lu5-ta	Nalu	NNP	73	nmod:from	
+62	ba-zi	booked out	VBD	61	acl	
+63	iti	month	NN	73	_	
+64	sze-sag11-ku5	Harvest	NNP	63	_	
+65	mu	year	NN	64	_	
+66	ha-ar-szi{ki}	_	``	64	_	
+67	u3	and	CC	69	cc	
+68	ki-masz{ki}	Kima	NNP	69	conj	
+69	ba-hul	were destroyed	VBN	64	acl	
+70	 	_	NN	0	root	
+71	 	_	NN	70	appos	
+72	 	_	NN	71	appos	
+73	 	_	NN	71	_
+	
+

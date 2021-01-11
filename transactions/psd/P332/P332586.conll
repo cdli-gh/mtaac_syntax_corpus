@@ -1,0 +1,50 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P332/P332586.conll #
+#########################################################################################
+
+#new_text=P332586
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+al	al[hoeing]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+4(u)-kam	4(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a-u2-da		FN	FN.GEN.ABL	Iabcdefgh		(CITY (word *))
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D		(PN (word *))
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*))
+{gesz}dih3		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ku5-a		V	V	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*))
+3(barig)-kam		NU	NU.GEN.COP-3-SG	Iabcde	B-COUNT	(NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+e2-gir-gi4-lu		FN	FN	POS		(CITY (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D		(PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+{d}szara2-kam	Szarakam[1]	PN	PN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+da-a-ga		PN	PN	Ia		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+da-a-ga		PN	PN	Ia		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-gesz-sza3-ga		PN	PN	Iabcde		(PN (word *))))
+

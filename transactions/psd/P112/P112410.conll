@@ -1,0 +1,73 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P112/P112410.conll #
+#########################################################################################
+
+#new_text=P112410
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur5-ra	urra[loan]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+nigar{gar}-ki-du10	Nigarkidu[1][-ak][-ø]	PN	PN	D		(PERSON (PN (word *)))))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D		(PN (word *))))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur5-ra	urra[loan]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+sa	sa[bundle]	N	N	D		(UNIT (word *))))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sze-numun-sze3		N	N.3-SG-H-POSS.TERM	Iabcdefg		(UNKNOWN (word *))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+za3-mu	Zamu[1][-ak]	PN	N	D		(AGENT (PERSON (PN (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-gesz-bad3-x-x		PN	PN	Iabcde		(PERSON (PN (word *))))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur5-ra	urra[loan]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sze-numun-sze3		N	N.3-SG-H-POSS.TERM	Iabcdefg		(UNKNOWN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+sa	sa[bundle]	N	N	D		(UNIT (word *))))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+za3-mu	Zamu[1][-ak]	PN	N	D		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+nig2-lagar-e	Niglagare[1]	N	PN	D		(UNKNOWN (word *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+guru7	guru[grain_heap]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+lugal-ka-ta		WN	WN	POS		(UNKNOWN (word *))
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+a-da-ga	Adaga[1]	PN	PN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(PURPOSE (GOD (word *))
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D		(CITY (word *)))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *)))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))))
+

@@ -1,0 +1,82 @@
+# dev/P427603.atf
+						
+
+# tr.en: bricks by Szat-il of Lalkuda bricks by Lahutum bricks of Ahuni total -sar shekels bricks the length involved ninda at labor of the female laborers involved and shekels workdays at sila per hired the barley involved sila shekels labor of carrying bricks replacement house of Piah-ilim delivery of Simat-Ea via Adad-tillat month Festival of Mekigal year Su-Suen king Great-stele for Enlil and Ninlil erected
+1	3(gesz2)	_	_	0	nummod	
+2	3(u)	_	_	1	nummod	
+3	sig4	bricks	NNS	0	root	
+4	sza-at-i3-li2	by Szat-il	IN	5	nmod:by	
+5	($	by Szat-il	NN	3	nmod:by	
+6	blank	_	_	0	_	
+7	space	_	_	0	_	
+8	$)	_	_	0	_	
+9	3(gesz2)	_	_	0	nummod	
+10	3(u)	_	_	9	nummod	
+11	nam-1(u)	_	:	76	_	
+12	la-al-ku-da	Lalkuda	NN	76	nmod:of	
+13	2(gesz2)	_	:	3	nummod	
+14	2(u)	_	CD	19	nummod	
+15	la-hu-tum	bricks by Lahutum	NNS	3	_	
+16	($	_	,	19	_	
+17	blank	_	CD	19	appos	
+18	space	_	_	0	_	
+19	$)	bricks	NNS	3	_	
+20	2(gesz2)	_	_	0	nummod	
+21	2(u)	_	_	20	nummod	
+22	nam-1(u)	_	:	17	_	
+23	a-hu-ni	Ahuni	NNP	17	nmod:of	
+24	szunigin	total	NN	3	_	
+25	1/3(disz)	_	,	30	nummod	
+26	sar	_	_	0	_	
+27	9(disz)	_	_	0	nummod	
+28	gin2	shekels	NNS	30	compound	
+29	igi-6(disz)-gal2	-sar	NN	30	compound	
+30	sig4	bricks	NNS	24	_	
+31	us2-bi	the length involved	DT	32	det	
+32	1(gesz2)	the length involved	NN	30	nummod	
+33	3(u)	_	,	34	nummod	
+34	ninda	ninda	NN	30	_	
+35	a2	labor	NN	34	nmod:at	
+36	1(gesz2)	at	IN	35	nummod	
+37	1(u)	_	CD	36	nummod	
+38	2(disz)-ta	_	,	34	nummod	
+39	geme2-bi	the female laborers involved and	DT	34	det	
+40	4(disz)	the female laborers involved and	JJ	34	nummod	
+41	5(u)	_	,	45	nummod	
+42	1(disz)	_	_	41	nummod	
+43	2/3(disz)	_	_	41	nummod	
+44	gin2	shekels	NNS	45	compound	
+45	u4	workdays	NNS	34	_	
+46	1(disz)-sze3	_	_	0	nummod	
+47	sze	_	,	45	_	
+48	3(disz)	_	_	0	nummod	
+49	sila3-ta	at sila per	NN	45	nmod:at	
+50	ba-hun	hired	VBN	49	acl	
+51	sze-bi	the barley	NN	45	appos	
+52	1(u)	involved	VBN	51	nummod	
+53	4(disz)	_	,	55	nummod	
+54	1/2(disz)	_	_	53	nummod	
+55	sila3	sila	NN	45	_	
+56	5(disz)	_	_	0	nummod	
+57	gin2	shekels	NNS	55	_	
+58	a2	labor	NN	55	appos	
+59	sig4	bricks	NNS	60	dobj	
+60	ga6-ga2	carrying	VBG	58	acl	
+61	e2-ki-ba-gar-ra	replacement	NN	62	compound	
+62	pi5-sza-ah-dingir	house Piah-ilim	NN	55	appos	
+63	mu-kux(DU)	delivery	NN	55	appos	
+64	me-e2-a	Simat-Ea	NN	63	nmod:of	
+65	giri3	via	IN	66	nmod:via	
+66	{d}iszkur-tillat	Adad-tillat	NN	55	nmod:via	
+67	iti	month	NN	69	_	
+68	ezem-me-ki-gal2	Festival Mekigal	NNP	69	_	
+69	mu	year	NN	55	parataxis	
+70	{d}szu-{d}suen	Su-Suen	NNP	75	nsubj	
+71	lugal-e	king	NN	70	appos	
+72	na-ru2-a-mah	Great-stele	NN	70	appos	
+73	{d}en-lil2	for Enlil	NNP	72	nmod:for	
+74	{d}nin-lil2-ra	and Ninlil	CC	73	cc	
+75	mu-ne-du3	erected	VBD	69	acl	
+76	 	_	_	0	_
+	
+

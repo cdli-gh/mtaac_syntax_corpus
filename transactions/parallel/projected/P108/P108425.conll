@@ -1,0 +1,50 @@
+# train/P108425.atf
+						
+
+# tr.en: north averaged east averaged surface outside ee iku inside field bur iku surface ee iku surface barig ee iku surface ban ee iku surface ee iku surface barig iku surface fallow its barley Lu-dingira ploughman oxen-field of Fox north averaged east averaged ee iku surface outside ee iku inside field bur iku surface bur ee surface bur iku surface bur iku surface surface inspected field Bur via year after Lullubum for th time destroyed
+1	n	_	_	0	_	
+2	1(u)	_	_	0	nummod	
+3	mer	north	RB	95	amod	
+4	hi	_	,	95	_	
+5	n	_	,	9	_	
+6	7(disz)	_	CD	96	nummod	
+7	kur	_	,	96	_	
+8	hi	east averaged	_	0	_	
+9	 	_	VBD	0	root	
+11	GAN2	surface ee iku	NN	96	appos	
+16	ki	_	_	0	_	
+17	a-sza3	field	_	0	_	
+18	4(bur3)	_	_	0	nummod	
+19	...	_	_	0	dep	
+24	1(iku)	_	_	0	nummod	
+25	...	_	_	0	dep	
+43	GAN2	ee iku surface	_	0	_	
+47	3(iku)	_	_	0	nummod	
+48	1/2(iku)	_	_	47	nummod	
+49	1/4(iku)	_	_	47	nummod	
+50	GAN2	iku surface	_	0	_	
+62	hi	averaged	_	0	_	
+67	hi	east averaged	_	0	_	
+72	1(esze3)	_	_	0	nummod	
+73	5(iku)	_	_	72	nummod	
+74	ki	_	_	0	_	
+88	...	_	_	0	dep	
+89	1(bur3)	_	_	0	nummod	
+90	5(iku)	_	_	89	nummod	
+91	GAN2	bur iku surface	NN	88	compound	
+92	...	bur iku surface	NN	88	dep	
+93	...	bur iku surface	NN	88	dep	
+94	x	_	_	0	dep	
+95	...	_	NN	0	root	
+96	 	_	NN	9	dobj	
+104	mu	year	NN	9	_	
+105	us2-sa	after	IN	104	advmod	
+106	x	_	.	9	dep	
+107	...	_	''	9	dep	
+108	lu-lu-bu-um{ki}	Lullubum	NNP	104	_	
+109	a-ra2	for th time	NN	108	nmod:for	
+110	1(u)	_	_	0	nummod	
+111	la2	_	_	110	_	
+112	1(disz@t)-kam-asz	_	_	111	nummod	
+113	ba-hul	destroyed	VBD	109	acl	
+

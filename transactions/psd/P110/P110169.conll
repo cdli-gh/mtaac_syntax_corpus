@@ -1,0 +1,51 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P110/P110169.conll #
+#########################################################################################
+
+#new_text=P110169
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda-ta	nindan[unit]-ta	N	N.ABL	D		(UNIT (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(disz)-sze3	4(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz-ta		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda-ta	nindan[unit]-ta	N	N.ABL	D		(UNIT (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+6(disz)-sze3	6(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D		(PN (word *))
+PA	ugula[overseer][-ø]	N	N.ABS	D		(JOBNAME (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+he2-ba-du11		V	MOD1.L1.1-SG-A.V.3-SG-P	Iabcdefg		(UNKNOWN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+na	na[stone_weight]	V	N	D		(UNKNOWN (word *))
+TAR		PN	PN	POS		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))))
+

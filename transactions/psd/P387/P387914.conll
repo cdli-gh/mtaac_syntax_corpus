@@ -1,0 +1,69 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P387/P387914.conll #
+##############################################################################################
+
+#new_text=P387914
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+ad-tab		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT_NAME (word *)))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+mar-PAP		PN	PN	POS		(PN (word *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ib2-la2		V	V	POS		(UNKNOWN (word *))
+tug2-du8-a		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT_NAME (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2-du8-a		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+szer7-du8-an-na		N	N	Ia		(UNKNOWN (word *))
+gigir		PN	PN	POS		(PN (word *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT_NAME (word *))
+e2-ba-an	eban[pair][-ø]	PN	N.ABS	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+li-e2		N	N	POS		(UNKNOWN (word *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT_NAME (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2-du8-a		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gaba-gal2		AJ	AJ	POS		(UNKNOWN (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+{gesz}gigir	gigir[chariot][-sze]	N	N.TERM	D	B-COM	(PRODUCT_NAME (COM *))
+{d}{asz}aszgi{gi4}		DN	DN	POS		(GOD|GOD_NAME (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+{d}allax(|PAP.NAGAR|)		DN	DN.GEN	Iabcdef		(GOD|GOD_NAME (word *))
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ib2-la2		V	V	POS		(UNKNOWN (word *))
+tug2-du8-a		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+siki-gi	sikigi[wool_type]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+dingir-za3-mu		PN	PN	Iabcde		(PN (word *))
+ba-la2		V	V	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ku-e-la-ak-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+{gesz}apin	apin[plow]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	D		(CITY|NATIONALITY (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	SN.GEN.GEN.ABS	D		(CITY (word *))
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))))
+

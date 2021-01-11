@@ -1,0 +1,29 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P121/P121309.conll #
+##############################################################################################
+
+#new_text=P121309
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+si-sa2		V	V	POS		(UNKNOWN (word *))
+ur-{d}suen	Ursuen[1]	PN	PN	D		(PN (word *))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+si-sa2		V	V	POS		(UNKNOWN (word *))
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+husz-a		V	V	POS		(UNKNOWN (word *))
+ur-{d}ma-mi	Urmami[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D		(PRODUCT_PARAM (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *)))))
+

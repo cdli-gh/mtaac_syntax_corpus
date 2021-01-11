@@ -1,0 +1,44 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P105/P105364.conll #
+##############################################################################################
+
+#new_text=P105364
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-szah2	iszah[lard][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nar		N	N	POS		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*))
+i3-szah2-bi		N	N.GEN.TERM	Iabcdefgh		(UNKNOWN (word *))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*))
+i3-ba	iba[oil_ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nar		N	N	POS		(UNKNOWN (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D	B-COM	(PRODUCT_NAME (COM *))
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D		(PN (word *))
+{d}en-lil2	Enlil[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+{d}nin-lil2-ra	Ninlil[1]-ra	DN	DN.DAT-H	D		(GOD|GOD_NAME (word *))
+mu-ne-du3-ta		V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	Iabcdefgh		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	D		(UNKNOWN (word *))
+sza3-ba	szag[heart]-bi-'a	N	N.3-SG-NH-POSS.L1	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *)))
+1(disz)-am3		NU	NU.GEN.COP-3-SG	Iabcdef	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+i3-in-gal2		V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	Iabcdefghi	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))))
+

@@ -1,0 +1,43 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P118/P118604.conll #
+#########################################################################################
+
+#new_text=P118604
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+masz2-gal	maszgal[billy_goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+u8	u[ewe]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kir11	kir[female_lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ga	ga[milk]	N	N	D		(PRODUCT_NAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kir11	kir[female_lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ga	ga[milk]	N	N	D		(PRODUCT_NAME (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *))
+ga	ga[milk]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D		(DEAD (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+ki	ki[place]	N	N	D		(KI (word *))
+{d}szul-gi-a-a-mu-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PN (word *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOBNAME (word *))
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D		(CITY|NATIONALITY (word *))
+mu-hul-a		V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	D		(UNKNOWN (word *))))
+

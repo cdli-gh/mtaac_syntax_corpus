@@ -1,0 +1,74 @@
+# train/P480065.atf
+						
+
+# tr.en: female laborers for days beer from brewery to New Palace carried female laborers for days verified vessels carried female laborers for days beer to boat carried female laborers for day strings to boat carried female laborers for days reeds Engaldudus garden carried female laborers for day the boat of oil dates and leather loaded booked out oil for madaria-delivery for king month Muudu year Sz-Suen is king
+1	1(u)	_	_	0	nummod	
+2	5(disz)	_	_	1	nummod	
+3	geme2	female laborers	NNS	0	root	
+4	u4	for days	NNS	3	nmod:for	
+5	3(disz)-sze3	_	_	0	nummod	
+6	kasz	beer	NN	0	root	
+7	e2-bappir-ta	from brewery	IN	4	nmod:from	
+8	e2-gal	_	CD	3	nummod	
+9	gibil-sze3	to New Palace	TO	3	nmod:to	
+10	 	_	NNP	0	root	
+11	ga6-ga2	carried	VBD	10	acl	
+12	1(u)	_	_	0	nummod	
+13	geme2	female laborers	JJ	10	amod	
+14	 	_	NNS	0	root	
+15	u4	for days	IN	4	nmod:for	
+16	 	_	NNS	14	nmod:for	
+17	8(disz)-sze3	_	CD	14	nummod	
+18	2(gesz2)	_	_	17	nummod	
+19	dug	_	_	0	_	
+20	kab2-du11-ga	_	CD	14	nummod	
+21	-ga2	verified vessels carried	VBN	14	amod	
+22	1(u)	_	_	0	nummod	
+23	5(disz)	_	_	22	nummod	
+24	geme2	female laborers	JJ	15	amod	
+25	 	_	NNS	0	root	
+26	u4	for days	IN	16	nmod:for	
+27	 	_	NNS	25	nmod:for	
+28	2(disz)-sze3	_	_	0	nummod	
+29	kasz	beer	NN	31	nsubj	
+30	ma2-sze3	to boat	TO	26	nmod:to	
+31	ga6-ga2	carried	VBD	0	root	
+32	8(disz)	_	_	0	nummod	
+33	geme2	female laborers	JJ	25	amod	
+34	 	_	NNS	0	root	
+35	u4	for day	IN	27	nmod:for	
+36	 	_	NN	34	nmod:for	
+37	1(disz)-sze3	_	_	0	nummod	
+38	{gesz}HU	strings	NNS	31	nsubj	
+39	ma2-sze3	to boat	TO	35	nmod:to	
+40	ga6-ga2	carried	VBD	0	root	
+41	5(disz)	_	_	0	nummod	
+42	geme2	female laborers	JJ	34	amod	
+43	 	_	NNS	0	root	
+44	u4	for days	IN	36	nmod:for	
+45	 	_	NNS	43	nmod:for	
+46	2(disz)-sze3	_	_	0	nummod	
+47	gi	reeds	NNS	42	compound	
+48	{gesz}kiri6	garden	NN	40	nsubj	
+49	en-gal-du-du	Engaldudus	NNP	48	nmod:poss	
+50	il2-la	carried	VBD	0	root	
+51	8(disz)	_	_	0	nummod	
+52	geme2	female laborers	JJ	43	amod	
+53	u4	for day	IN	45	nmod:for	
+54	1(disz)-sze3	_	_	0	nummod	
+55	ma2	boat	NN	59	nsubj	
+56	i3	oil	NN	55	nmod:of	
+57	zu2-lum!	the dates and	DT	55	det	
+58	kusz	leather	NN	56	conj	
+59	si-ga	loaded	VBN	0	root	
+60	zi-ga	booked out	VBN	0	root	
+61	i3	oil	NN	56	root	
+62	masz-da-re-a	for madaria-delivery for	IN	56	nmod:for	
+63	lugal	king	NN	61	nmod	
+64	iti	month	NN	56	_	
+65	mu-szu-du7	Muudu	_	0	_	
+66	mu	year	NN	56	_	
+67	{d}szu-{d}suen	Sz-Suen is	NNP	56	nsubj	
+68	lugal	king	NN	0	root
+	
+

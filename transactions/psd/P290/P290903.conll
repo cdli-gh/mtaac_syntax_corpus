@@ -1,0 +1,43 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P290/P290903.conll #
+##############################################################################################
+
+#new_text=P290903
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+uz-tur		PN	PN	POS		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ensi2-ka-ta	ensik[ruler]-ak-ta	N	N.GEN.ABL	D		(JOBNAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+muszen		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+amar-sag		N	N	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PERSON (PN (word *))))
+a-pi4-sal4{ki}-ta	Apisal[1]-ta	GN	SN.ABL	D		(CITY (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+muszen		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+amar-sag		N	N	POS		(UNKNOWN (word *))
+lugal-ku3-ge		N	N	POS		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+ha-ba-zi-in		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+ga	ga[milk]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+5(asz)	5(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+kun-zi		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+nig2-bun2-na		N	N.GEN	Iabcde		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+bar	bar[unknown]	N	N.ABS	D		(UNKNOWN (word *))
+igi-bu3		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ur-nigar{gar}-ka		PN	PN.GEN.GEN.ABS	Iabcdefg		(PN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+sze-er-ha-an		PN	PN	POS		(PERSON (PN (word *))))))
+

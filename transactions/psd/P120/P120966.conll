@@ -1,0 +1,122 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P120/P120966.conll #
+#########################################################################################
+
+#new_text=P120966
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gur-a		PN	PN	Iabcdefgh		(PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(ban2)-ta		NU	NU	POS	I-COUNT	*))
+a-bu-du10		PN	PN	D		(PN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lu2-{d}szul-gi-ra		PN	PN	D		(PN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+i-zi-gu5-um		PN	PN	Iabcde		(PN (word *))
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a-hu-szu-ni		PN	PN.GEN.ABS	Iabcdef		(PN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ba-zi-a		PN	PN.GEN.TERM	Iabcdefgh		(PN (word *))
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ba-ba-u3		PN	PN	Iabcde		(PN (word *))
+NE-NE-x		PN	PN	POS		(PN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ba-za-kum		PN	PN	POS		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+puzur4-mur7-NI		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+i-zu-gal2		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+a-ki-ma		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+NE-ni-za-lum		PN	PN	POS		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+suhusz-ki-in		PN	PN	POS		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+er3-ra-qu2-ra-ad		PN	PN.DAT-H	Iab		(PN (word *))
+...-tum		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+...-ba		PN	PN.ERG	Iabcdefgh		(PN (word *))
+...-{d}iszkur		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+ur-sa6-ga	Ursaga[1][-ak]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+a-tal-sze-en		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ip-qu2-sza		PN	PN	Ia		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x-szu-szu		PN	PN	Ia		(PN (word *))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+nam-szesz-sza		PN	PN	POS		(PN (word *))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+lu2-gir2-ka		PN	PN.GEN.GEN	Iabcdef		(PN (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+be-li2-sag		PN	PN	Iabcde		(PN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+ip-qu2-sza		PN	PN	Ia		(PN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+he2-ra-ti		V	V	POS		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+kiszib3-ba	kiszib[seal]-a	V	N	D	B-COM	(PRODUCT_NAME (COM *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+i-di3-{d}dam		PN	PN.GEN.COP-3-SG	Iabcdef		(PN (word *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+wa-zi-ti		PN	PN.DAT-H	Iab		(PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+un-nu-ne-da		V	V	POS		(UNKNOWN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+{d}utu-illat		PN	PN	Ia		(PN (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+a-hu-ba-qar		PN	PN	Ia		(PN (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+bi2-sza-ah-i3-lum		PN	PN	POS		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+masz2-e	masz[goat]-e	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))))
+

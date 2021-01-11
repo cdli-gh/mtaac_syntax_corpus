@@ -1,0 +1,45 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P378/P378698.conll #
+#########################################################################################
+
+#new_text=P378698
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ki--bi		N	N.ABS	Iabcdef		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D		(PRODUCT_NAME (word *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME (word *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+ki--bi		N	N.ABS	Iabcdef		(UNKNOWN (word *))))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*)
+n	_(_)[_]	NU	NU	D		(word *))
+ma-na	mana[unit]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ki-la2	kila[weight][-ø]	N	N	D		(PRODUCT_PARAM (word *))))
+tag-ga	tag[weigh]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D		(AGENT (MUDU (word *))
+ab-ba-gu-la		PN	PN	D		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

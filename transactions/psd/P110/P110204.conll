@@ -1,0 +1,52 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P110/P110204.conll #
+#########################################################################################
+
+#new_text=P110204
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+u4-sakar	usakar[crescent_moon][-sze]	N	N.TERM	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+u2-szim		PN	PN	Iabcde		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+{d}szul-pa-e3		FN	FN	POS		(CITY (word *))
+e2-gal	egal[palace][-ak][-'a]	N	N	D		(UNKNOWN (word *)))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+dingir-a2-li2-ik		PN	PN	Iabc		(AGENT (PERSON (PN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+esz3-esz3	eszesz[festival]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+u4-sakar	usakar[crescent_moon][-sze]	N	N.TERM	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+{d}en-ki-sze3		DN	DN.GEN.GEN.TERM	Iabcdef		(GOD|GOD_NAME (word *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))))
+

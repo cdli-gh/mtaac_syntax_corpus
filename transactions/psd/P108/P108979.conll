@@ -1,0 +1,42 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P108/P108979.conll #
+##############################################################################################
+
+#new_text=P108979
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *))
+nin-li		PN	PN	Iabcde		(PN (word *))
+a-ru-a		GN	GN	POS		(CITY|NATIONALITY (word *))
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+gu-za-ni	Guzani[1][-e]	PN	PN.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+nin-szesz		PN	PN.GEN	Iab		(PN (word *))
+a-ru-a		GN	GN	POS		(CITY|NATIONALITY (word *))
+gara2		N	N	POS	B-COM	(PRODUCT_NAME (COM *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+x-sza3-mar-x		PN	PN	Iabcdefgh		(PN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+ama-kal-la	Amakala[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D		(PN (word *))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*))
+{d}ba-ba6-x		DN	DN	POS		(GOD|GOD_NAME (word *))
+a-ru-a		GN	GN	POS		(CITY|NATIONALITY (word *))
+erin-da	Erinda[1][-ak][-ak]	N	PN.ABS	D		(UNKNOWN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+nin-sza3-szu-rin-tuku		PN	PN	Iabcdefgh		(PN (word *))
+a-ru-a		GN	GN	POS		(CITY|NATIONALITY (word *))
+ki-ur-x		PN	PN	POS		(PN (word *))
+geme2	geme[female_worker]	N	N	D		(PRODUCT_NAME (word *))
+kikken2		N	N.GEN.GEN.ABS	D		(UNKNOWN (word *))
+nibru{ki}-x		SN	SN.GEN	Iabcdef		(CITY|NATIONALITY (word *))
+ur-tur	Urtur[1][-e]	WN	PN	D	B-COM	(PRODUCT_NAME (COM *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+gu4-ra2-bi2-mu2		MN	MN.L1	Ia		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ma2-gur8-mah	magurmah[great_barge][-ø]	N	N.ABS	D		(UNKNOWN (word *))))
+

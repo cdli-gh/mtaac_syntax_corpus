@@ -1,0 +1,40 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P139/P139243.conll #
+##############################################################################################
+
+#new_text=P139243
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+kar		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4-ga	sila[lamb]-ak	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+a2-ki-ti	Akiti[1][-'a]	N	MN.L1	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+siskur2	siszkur[offering]	N	N	D		(UNKNOWN (word *))
+gu-la	gal[big][-ø][-sze]	PN	NF.V.ABS	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT_NAME (word *))
+mu-x		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))))
+

@@ -1,0 +1,85 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P218/P218275.conll #
+##############################################################################################
+
+#new_text=P218275
+sila3	sila[unit]	N	N	D		(DOC (FRAG (UNIT (word *))
+kasz	kasz[beer]	N	N	D		(PRODUCT_NAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...-{d}iszkur		PN	PN	Iabcde		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D		(PRODUCT_NAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...-IGI		PN	PN	Iabcde		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+gen-na-me	gen[go]-a-mesz	V	NF.V.PT.COP-3-PL	D		(UNKNOWN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D		(PRODUCT_NAME (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...-{d}ba-ba6		PN	PN	Iabcde		(PN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+mar-tu-sa6-...		PN	PN	POS		(AGENT (PERSON (PN (word *))))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT_NAME (word *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+hu-li2-bar		PN	PN	Iabcde		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+{d}nanna-...		PN	PN	Iabcdefgh		(PN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+nu-ur2-i3-li2	Nurili[1]	PN	PN	D		(AGENT (PERSON (PN (word *))))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT_NAME (word *))
+{d}...	_[1][-'a]	MN	DN.GEN	D		(MONTH_NAME (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+i-di3-{d}utu		PN	PN	Iabcde		(PN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+

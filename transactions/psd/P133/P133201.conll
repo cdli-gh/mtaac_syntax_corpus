@@ -1,0 +1,48 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P133/P133201.conll #
+#########################################################################################
+
+#new_text=P133201
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+id-gur2	idgurum[ladle]	N	N	D		(UNKNOWN (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+NE-ni-ak		PN	PN	POS		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+{gesz}tukul	tukul[weapon][-'a]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+maszkim	maszkim[administrator]	N	N.ABS	D		(MASZKIM (word *))
+ur-{d}iszkur	Uriszkur[1][-ra]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+sag-sze3		N	N.TERM	D		(UNKNOWN (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+id-gur2	idgurum[ladle]	N	N	D		(UNKNOWN (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+sa6-da		V	NF.V.SUB.GEN	Iabcdef		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+{gesz}tukul	tukul[weapon][-'a]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+e2-usz-bar-sze3	e'uszbar[textile_workshop]-sze	TN	N.TERM	D		(CITY (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))))
+

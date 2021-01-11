@@ -1,0 +1,32 @@
+# dev/P424387.atf
+						
+
+# tr.en: young female gazelle Dada governor lamb Uumu lamb Szeshkalla on th day delivery Intaea has accepted via Nur-Suen scribe month Harvest year Szu-Suen became king
+1	1(disz)	_	_	0	nummod	
+2	amar	_	_	0	_	
+3	masz-da3-munus	young female gazelle	JJ	4	amod	
+4	da-da	Dada	NNP	0	root	
+5	ensi2	governor	NN	4	appos	
+6	1(disz)	_	:	8	nummod	
+7	sila4	lamb	NN	8	compound	
+8	u2-u2-mu	Uumu	NN	4	_	
+9	1(disz)	_	:	8	nummod	
+10	sila4	lamb	NN	11	compound	
+11	szesz-kal-la	Szeshkalla	NN	8	_	
+12	u4	on th day	NN	18	nmod:on	
+13	2(u)	_	,	18	nummod	
+14	la2	_	_	13	_	
+15	1(disz@t)-kam	_	_	14	nummod	
+16	mu-kux(DU)	delivery	NN	18	_	
+17	in-ta-e3-a	Intaea	NNP	18	nsubj	
+18	i3-dab5	has accepted	VBN	8	acl	
+19	giri3	via	IN	20	nmod:via	
+20	nu-ur2-{d}suen	Nur-Suen	NNP	18	nmod:via	
+21	dub-sar	scribe	NN	20	appos	
+22	iti	month	NN	23	compound	
+23	sze-sag11-ku5	Harvest	NNP	8	_	
+24	mu	year	NN	23	_	
+25	{d}szu-{d}suen	Szu-Suen became	VBD	23	acl	
+26	lugal	king	NN	25	xcomp
+	
+

@@ -1,0 +1,71 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128505.conll #
+#########################################################################################
+
+#new_text=P128505
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szu-{d}utu	Szu'utu[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(PERSON (JOB (JOBNAME (word *))
+{u2}urua{a}{ki}-ta		SN	SN	POS		(CITY (word *))))))))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szu-{d}nin-szubur		DN	DN	POS		(PURPOSE (GOD (word *))))
+aga3-us2-gal	aga'usgal[head_soldier][-ra]	N	N	D		(UNKNOWN (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal	lugal[king]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-ta		N	N.GEN.ABL	Iabcdef		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+szu-{d}nin-szubur		DN	DN	POS		(GOD|GOD_NAME (word *))
+aga3-us2-gal	aga'usgal[head_soldier][-ra]	N	N	D		(UNKNOWN (word *))
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D		(CITY|NATIONALITY (word *))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+amar-szuba3		PN	PN	D		(AGENT (PERSON (PN (word *)))))
+{gesz}gag-du8		N	N.ABS	Iabcdef		(UNKNOWN (word *))
+a-ab-ba-sze3		N	N	POS		(UNKNOWN (word *))
+gi-gag		N	N	Ia		(UNKNOWN (word *))
+tum3-de3		V	V	POS		(UNKNOWN (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D		(AGENT (PERSON (PN (word *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D		(UNKNOWN (word *))
+{d}nanna-ki-ag2	Nannaki'ag[1]	PN	PN	D		(PN (word *))
+aga3-us2-gal	aga'usgal[head_soldier][-ra]	N	N	D		(UNKNOWN (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-ta		N	N.GEN.ABL	Iabcdef		(UNKNOWN (word *))
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-ta		N	N.GEN.ABL	Iabcdef		(UNKNOWN (word *))
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D		(UNKNOWN (word *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+hu-hu-nu-ri{ki}-me		SN	SN.GEN.ABS.COP-3-PL	Iabcdefg		(CITY|NATIONALITY (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+{d}nanna-ki-ag2	Nannaki'ag[1]	PN	PN	D		(PN (word *))
+aga3-us2-gal	aga'usgal[head_soldier][-ra]	N	N	D		(UNKNOWN (word *))
+hu-hu-nu-ri{ki}-sze3		SN	SN.GEN.GEN.TERM	Iabcdefg		(CITY|NATIONALITY (word *))
+du-ne-ne		V	NF.V.PF.F.3-SG-H-POSS.L1	Iabcdefg		(UNKNOWN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+munu4-gu7	Munugu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+

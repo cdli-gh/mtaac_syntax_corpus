@@ -1,0 +1,101 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P141/P141725.conll #
+#########################################################################################
+
+#new_text=P141725
+...	_[_]	PN	N	D		(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (FRAG (PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D		(PRODUCT_NAME (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+szum2	szum[garlic]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+naga	naga[potash]	N	N	D		(PRODUCT_NAME (word *))
+...-la		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D		(UNIT (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+naga	naga[potash]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+NI		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D		(UNIT (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+naga	naga[potash]	N	N	D		(PRODUCT_NAME (word *))
+ur-su		PN	PN	Iabcdefgh		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D		(UNIT (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+naga	naga[potash]	N	N	D		(PRODUCT_NAME (word *))
+kur-bi-a		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D		(UNIT (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+naga	naga[potash]	N	N	D		(PRODUCT_NAME (word *))
+...-{d}ba-ba6		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D		(UNIT (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+naga	naga[potash]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+...-kal-la		PN	PN	POS		(AGENT (PERSON (PN (word *)))))))
+

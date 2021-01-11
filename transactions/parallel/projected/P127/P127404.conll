@@ -1,0 +1,37 @@
+# train/P127404.atf
+						
+
+# tr.en: male lamb yellow male suckling lamb yellow in Wadaltum male lambs male suckling lambs slaughtered th day from Szulgi-ayamu Ur-nigar received month Festival of Nin-azu year Amar-Suen king Urbilum destroyed
+1	1(disz)	_	,	3	nummod	
+2	sila4	male lamb	JJ	3	amod	
+3	gi	yellow	NN	0	root	
+4	1(disz)	_	,	3	nummod	
+5	sila4	male lamb	NN	3	appos	
+6	ga	suckling	NN	5	compound	
+7	gi	yellow	JJ	5	amod	
+8	sza3	in	IN	9	nmod:in	
+9	wa-da-al-tum	Wadaltum	NNP	3	nmod:in	
+10	3(disz)	_	,	11	nummod	
+11	sila4	male lambs	NNS	3	_	
+12	2(disz)	_	,	11	nummod	
+13	sila4	male	JJ	14	amod	
+14	ga	suckling lambs	NNS	11	appos	
+15	ba-usz2	slaughtered	VBN	11	acl	
+16	u4	th day	NN	15	nmod:tmod	
+17	1(u)	_	:	11	nummod	
+18	3(disz)-kam	_	_	17	nummod	
+19	ki	from	IN	21	nmod:from	
+20	{d}szul-gi-a-a-mu-ta	Szulgi-ayamu	JJ	21	amod	
+21	ur-nigar{gar}	Ur-nigar	JJ	11	nmod:from	
+22	szu	_	:	11	_	
+23	ba-ti	received	VBN	21	acl	
+24	iti	month	NN	26	compound	
+25	ezem-{d}nin-a-zu	Festival Nin-azu	NNP	26	_	
+26	mu	year	NN	11	_	
+27	{d}amar-{d}suen	Amar-Suen	NNP	30	nsubj	
+28	lugal-e	king	NN	27	appos	
+29	ur-bi2-lum{ki}	Urbilum	NN	30	nsubj	
+30	mu-hul	destroyed	VBD	26	parataxis	
+31	7(disz)	_	NN	0	nummod
+	
+

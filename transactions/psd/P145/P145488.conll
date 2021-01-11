@@ -1,0 +1,55 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P145/P145488.conll #
+##############################################################################################
+
+#new_text=P145488
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+u3-ma-ni	Umani[1]	V	PN	D		(UNKNOWN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+tur-tur		V	V	POS		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+uzu	uzu[body]	N	N	D		(UNKNOWN (word *))
+ur2		N	N	POS		(UNKNOWN (word *))
+ur-e2-mah	Uremah[1]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+suhusz-gi		PN	PN	POS		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+szu-er3-ra	Szu'era[1][-e]	PN	PN	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ur-gi7		N	N.GEN	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+sipa	sipa[shepherd]	N	N	D		(JOBNAME (word *))
+ur-gi7		N	N.GEN	D		(UNKNOWN (word *))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+i3-de2		V	V	POS		(UNKNOWN (word *))
+id-mi-{d}en-lil2		PN	PN	Iabcde		(PN (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+puzur4-esz18-dar	Puzureszdar[1][-ak][-ra]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+e2-kas4		TN	TN	Iabcde		(CITY (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+szuku	szukur[prebend_land]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ensi2	ensik[ruler]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))))))
+

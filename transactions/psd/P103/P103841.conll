@@ -1,0 +1,87 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P103/P103841.conll #
+##############################################################################################
+
+#new_text=P103841
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+a-za-ru-um-da-gi		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+kar-da-du3		V	V	POS		(UNKNOWN (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gar3-szum{ki}		GN	GN	POS		(CITY|NATIONALITY (word *)))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+a-za-ru-um-da-num2		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+ad-kup4	adKID[basket_weaver][-ak]	N	N.GEN	D		(UNKNOWN (word *))))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+geme2	geme[female_worker]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+a-hu-um-dingir		PN	PN	Iabcde		(PN (word *))
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+geme2	geme[female_worker]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))))
+lugal-iri-da	Lugalirida[1][-e]	PN	PN.ERG	D		(AGENT (PERSON (PN (word *)))))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	D		(PN (word *))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+geme2	geme[female_worker]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+inim-{d}ba-ba6-i3-dab5		PN	PN	Ia		(PN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	*
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+geme2	geme[female_worker]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+dab5-ba	dab[seize]-a	V	N	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+ad-kup4	adKID[basket_weaver][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+ki-tusz-da-sal4-la{ki}		GN	GN	POS		(CITY|NATIONALITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D	B-COM	(PRODUCT_NAME (COM *))
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D		(CITY|NATIONALITY (word *))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *)))))
+

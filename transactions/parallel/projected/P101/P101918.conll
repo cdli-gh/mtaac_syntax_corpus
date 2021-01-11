@@ -1,0 +1,57 @@
+# test/P101918.atf
+						
+
+# tr.en: gur barig salt the barig reduced by sila its struck head gur barig ban sila gur ban sumac the barig reduced by ban its struck head gur sila barig ban sila x-plant its struck head ban sila goods on hand from Ka-ana via ARADdani month Festival of Lisi
+1	1(gesz2)	_	,	5	nummod	
+2	2(u)	_	_	1	nummod	
+3	7(asz)	_	_	1	nummod	
+4	1(barig)	barig	NN	5	nummod	
+5	mun	salt	NN	0	root	
+6	gur	gur	NN	5	compound	
+7	lugal	_	_	0	_	
+8	ba-ri2	the barig	NN	5	appos	
+9	6(disz)	_	,	5	nummod	
+10	sila3	sila	NN	11	nmod:by	
+11	im-tur	reduced by	VBN	8	acl	
+12	sag	its	PRP$	13	nmod:poss	
+13	sag3-ga-bi	struck head	NN	5	appos	
+14	8(asz)	_	:	19	nummod	
+15	3(barig)	_	CD	22	nummod	
+16	2(ban2)	_	_	15	nummod	
+17	8(disz)	barig ban	NN	19	nummod	
+18	sila3	sila	NN	17	_	
+19	gur	gur	NN	5	_	
+20	6(asz)	_	,	22	nummod	
+21	1(ban2)	ban	NN	20	nummod	
+22	gazi	sumac	NN	19	_	
+23	gur	gur	NN	22	compound	
+24	ba-ri2-ga	the barig reduced	NN	22	appos	
+25	2(ban2)	_	,	22	nummod	
+26	im-tur	by ban	NN	24	nmod:by	
+27	sag	its	PRP$	28	nmod:poss	
+28	sag3-ga-bi	struck head	NN	22	appos	
+29	2(asz)	_	:	33	nummod	
+30	3(disz)	_	CD	36	nummod	
+31	1/3(disz)	_	_	30	nummod	
+32	sila3	sila	NN	33	_	
+33	gur	gur	NN	22	_	
+34	1(barig)	_	,	36	nummod	
+35	3(ban2)	_	_	34	nummod	
+36	3(disz)	barig ban	NN	33	nummod	
+37	sila3	sila	NN	38	compound	
+38	{u2}x	x-plant	NN	36	_	
+39	sag	its	PRP$	41	nmod:poss	
+40	sag3-ga-bi	struck head	VBN	41	amod	
+41	3(ban2)	struck head	NN	36	nummod	
+42	9(disz)	_	:	36	nummod	
+43	1/2(disz)	ban	NN	36	nummod	
+44	sila3	sila	NN	43	_	
+45	nig2-gal2-la	goods on hand	NNS	43	_	
+46	ki	from	IN	47	nmod:from	
+47	ka-a2-na	Ka-ana	NN	45	nmod:from	
+48	giri3	via	IN	49	nmod:via	
+49	ARAD2-da-ni	ARADdani	NN	45	nmod:via	
+50	iti	month	NN	51	compound	
+51	ezem-{d}li9-si4	Festival Lisi	NNP	43	_
+	
+

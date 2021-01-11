@@ -1,0 +1,312 @@
+# train/P131771.atf
+						
+
+# tr.en: sheep grain-fed at sila each its barley gur for days month mine sheep grain-fed at sila each for days its barley gur sheep grain-fed at sila each for days its barley gur month House month sheep grain-fed at sila each its barley gur sheep grain-fed at sila each its barley gur month Lisi sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month Szulgi sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month paue sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month Dumuzi year mine sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month Harvest sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month Bricks in moulds set sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month Barley at dock sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month First fruits sheep grain-fed at sila each its barley gur barig ban sheep grain-fed at sila each its barley gur month Flight sheep grain-fed at sila each its barley gur barig sila sheep grain-fed at sila each its barley gur barig ban month Sowing year after wall was erected total gur ban sila fodder of sheep grain-fed via Ur-Nisaba sheep grain-fed of bala via official office from month mine year wall was erected to month Sowing year after wall was erected
+1	2(gesz2)	_	,	2	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	grain-fed	JJ	2	amod	
+4	1(disz)	_	_	0	nummod	
+5	sila3-ta	at sila each	NN	2	nmod:at	
+6	sze-bi	its barley	NN	2	appos	
+7	6(asz)	_	,	8	nummod	
+8	gur	gur	NN	2	_	
+9	u4	for days	NNS	8	nmod:for	
+10	1(u)	_	,	8	nummod	
+11	5(disz)-sze3	_	_	10	nummod	
+12	iti	month	NN	8	appos	
+13	min3-esz3	mine	_	0	_	
+14	2(gesz2)	_	,	15	nummod	
+15	udu	sheep	NN	2	_	
+16	niga	grain-fed	JJ	15	amod	
+17	1(disz)	_	_	0	nummod	
+18	sila3-ta	at sila each	NN	15	nmod:at	
+19	u4	for days	NNS	15	nmod:for	
+20	1(u)	_	,	15	nummod	
+21	5(disz)-sze3	_	_	20	nummod	
+22	sze-bi	its barley	NN	15	appos	
+23	6(asz)	_	,	24	nummod	
+24	gur	gur	NN	15	_	
+25	2(gesz2)	_	,	24	nummod	
+26	udu	sheep	NN	24	appos	
+27	niga	grain-fed	JJ	24	appos	
+28	1(disz)	_	_	0	nummod	
+29	1/2(disz)	_	_	28	nummod	
+30	sila3-ta	at sila each	NN	24	nmod:at	
+31	u4	for days	NNS	24	nmod:for	
+32	1(u)	_	,	24	nummod	
+33	5(disz)-sze3	_	_	32	nummod	
+34	sze-bi	its barley	NN	24	appos	
+35	9(asz)	_	,	36	nummod	
+36	gur	gur	NN	24	_	
+37	iti	month	NN	36	appos	
+38	e2-iti-6(disz)	House month	NN	36	_	
+39	2(gesz2)	_	,	40	nummod	
+40	udu	sheep	NN	2	_	
+41	niga	grain-fed	JJ	40	appos	
+42	1(disz)	_	_	0	nummod	
+43	1/2(disz)	_	_	42	nummod	
+44	sila3-ta	at sila each	NN	40	nmod:at	
+45	sze-bi	its barley	NN	40	appos	
+46	1(u)	_	,	48	nummod	
+47	8(asz)	_	CD	51	nummod	
+48	gur	gur	NN	40	_	
+49	1(gesz2)	_	,	48	nummod	
+50	3(u)	_	_	49	nummod	
+51	udu	sheep	NN	48	appos	
+52	niga	grain-fed	JJ	48	appos	
+53	1(disz)	_	_	0	nummod	
+54	sila3-ta	at sila each	NN	48	nmod:at	
+55	sze-bi	its barley	NN	48	appos	
+56	9(asz)	_	,	57	nummod	
+57	gur	gur	NN	48	_	
+58	iti	month	NN	57	appos	
+59	{d}li9-si4	Lisi	_	0	_	
+60	2(gesz2)	_	,	62	nummod	
+61	3(u)	_	_	60	nummod	
+62	udu	sheep	NN	2	_	
+63	niga	grain-fed	JJ	62	amod	
+64	1(disz)	_	_	0	nummod	
+65	1/2(disz)	_	_	64	nummod	
+66	sila3-ta	at sila each	NN	62	nmod:at	
+67	sze-bi	its barley	NN	62	appos	
+68	2(u)	_	,	70	nummod	
+69	2(asz)	_	CD	73	nummod	
+70	2(barig)	gur barig	NN	62	nummod	
+71	3(ban2)!	ban	NN	70	nummod	
+72	1(gesz2)	_	,	70	nummod	
+73	udu	sheep	NN	70	conj	
+74	niga	grain-fed	JJ	70	amod	
+75	1(disz)	_	_	0	nummod	
+76	sila3-ta	at sila each	NN	70	nmod:at	
+77	sze-bi	its barley	NN	70	appos	
+78	6(asz)	_	,	79	nummod	
+79	gur	gur	NN	70	_	
+80	iti	month	NN	79	appos	
+81	<ezem>-{d}szul-gi	Szulgi	NNP	79	_	
+82	2(gesz2)	_	,	84	nummod	
+83	3(u)	_	_	82	nummod	
+84	udu	sheep	NN	79	_	
+85	niga	grain-fed	JJ	84	amod	
+86	1(disz)	_	_	0	nummod	
+87	1/2(disz)	_	_	86	nummod	
+88	sila3-ta	at sila each	NN	84	nmod:at	
+89	sze-bi	its barley	NN	84	appos	
+90	2(u)	_	,	94	nummod	
+91	2(asz)	_	CD	96	nummod	
+92	2(barig)	_	_	91	nummod	
+93	3(ban2)	barig ban	NN	94	nummod	
+94	gur	gur	NN	84	_	
+95	1(gesz2)	_	,	94	nummod	
+96	udu	sheep	NN	94	conj	
+97	niga	grain-fed	JJ	94	amod	
+98	1(disz)	_	_	0	nummod	
+99	sila3-ta	at sila each	NN	94	nmod:at	
+100	sze-bi	its barley	NN	94	appos	
+101	6(asz)	_	,	102	nummod	
+102	gur	gur	NN	94	_	
+103	iti	month	NN	102	appos	
+104	pa4-u2-e	paue	FW	102	_	
+105	2(gesz2)	_	,	107	nummod	
+106	3(u)	_	_	105	nummod	
+107	udu	sheep	NN	2	_	
+108	niga	grain-fed	JJ	107	amod	
+109	1(disz)	_	_	0	nummod	
+110	1/2(disz)	_	_	109	nummod	
+111	sila3-ta	at sila each	NN	107	nmod:at	
+112	sze-bi	its barley	NN	107	appos	
+113	2(u)	_	,	117	nummod	
+114	2(asz)	_	CD	119	nummod	
+115	2(barig)	_	_	114	nummod	
+116	3(ban2)	barig ban	NN	117	nummod	
+117	gur	gur	NN	107	_	
+118	1(gesz2)	_	,	117	nummod	
+119	udu	sheep	NN	117	conj	
+120	niga	grain-fed	JJ	117	amod	
+121	1(disz)	_	_	0	nummod	
+122	sila3-ta	at sila each	NN	117	nmod:at	
+123	sze-bi	its barley	NN	117	appos	
+124	6(asz)	_	,	125	nummod	
+125	gur	gur	NN	128	_	
+126	iti	month	NN	125	appos	
+127	{d}dumu-zi	Dumuzi	NNP	125	_	
+128	mu	year	NN	117	_	
+129	bad3	_	:	128	_	
+130	ba-du3	_	NN	128	_	
+131	2(gesz2)	_	,	128	nummod	
+132	3(u)	_	_	131	nummod	
+133	udu	sheep	NN	128	_	
+134	niga	grain-fed	JJ	128	_	
+135	1(disz)	_	_	0	nummod	
+136	1/2(disz)	_	_	135	nummod	
+137	sila3-ta	at sila each	NN	128	nmod:at	
+138	sze-bi	its barley	NN	128	appos	
+139	2(u)	_	,	143	nummod	
+140	2(asz)	_	CD	145	nummod	
+141	2(barig)	_	_	140	nummod	
+142	3(ban2)	barig ban	NN	143	nummod	
+143	gur	gur	NN	128	_	
+144	1(gesz2)	_	,	143	nummod	
+145	udu	sheep	NN	143	appos	
+146	niga	grain-fed	JJ	143	appos	
+147	1(disz)	_	_	0	nummod	
+148	sila3-ta	at sila each	NN	143	nmod:at	
+149	sze-bi	its barley	NN	143	appos	
+150	6(asz)	_	,	143	nummod	
+151	gur	gur	NN	149	_	
+152	iti	month	NN	143	appos	
+153	sze-sag-ku5	Harvest	NN	143	_	
+154	2(gesz2)	_	,	156	nummod	
+155	3(u)	_	_	154	nummod	
+156	udu	sheep	NN	2	_	
+157	niga	grain-fed	JJ	156	amod	
+158	1(disz)	_	_	0	nummod	
+159	1/2(disz)	_	_	158	nummod	
+160	sila3-ta	at sila each	NN	156	nmod:at	
+161	sze-bi	its barley	NN	156	appos	
+162	2(u)	_	,	166	nummod	
+163	2(asz)	_	CD	168	nummod	
+164	2(barig)	_	_	163	nummod	
+165	3(ban2)	barig ban	NN	166	nummod	
+166	gur	gur	NN	156	_	
+167	1(gesz2)	_	,	166	nummod	
+168	udu	sheep	NN	166	conj	
+169	niga	grain-fed	JJ	166	amod	
+170	1(disz)	_	_	0	nummod	
+171	sila3-ta	at sila each	NN	166	nmod:at	
+172	sze-bi	its barley	NN	166	appos	
+173	6(asz)	_	,	174	nummod	
+174	gur	gur	NN	166	_	
+175	iti	month	NN	174	appos	
+176	sig4-{gesz}i3-szub-ga2-ra	Bricks in moulds set	NNS	174	_	
+177	2(gesz2)	Bricks in moulds set	IN	176	nummod	
+178	3(u)	_	,	179	nummod	
+179	udu	sheep	NN	2	_	
+180	niga	grain-fed	JJ	179	amod	
+181	1(disz)	_	_	0	nummod	
+182	1/2(disz)	_	_	181	nummod	
+183	sila3-ta	at sila each	NN	179	nmod:at	
+184	sze-bi	its barley	NN	179	appos	
+185	2(u)	_	,	189	nummod	
+186	2(asz)	_	CD	191	nummod	
+187	2(barig)	_	_	186	nummod	
+188	3(ban2)	barig ban	NN	189	nummod	
+189	gur	gur	NN	179	_	
+190	1(gesz2)	_	,	189	nummod	
+191	udu	sheep	NN	189	conj	
+192	niga	grain-fed	JJ	189	amod	
+193	1(disz)	_	_	0	nummod	
+194	sila3-ta	at sila each	NN	189	nmod:at	
+195	sze-bi	its barley	NN	189	appos	
+196	6(asz)	_	,	197	nummod	
+197	gur	gur	NN	189	_	
+198	iti	month	NN	197	appos	
+199	sze-kar-ra-gal2-la	Barley at dock	NN	197	_	
+200	2(gesz2)	Barley at dock	IN	199	nummod	
+201	3(u)	_	,	202	nummod	
+202	udu	sheep	NN	2	_	
+203	niga	grain-fed	JJ	202	amod	
+204	1(disz)	_	_	0	nummod	
+205	1/2(disz)	_	_	204	nummod	
+206	sila3-ta	at sila each	NN	202	nmod:at	
+207	sze-bi	its barley	NN	202	appos	
+208	2(u)	_	,	212	nummod	
+209	2(asz)	_	CD	214	nummod	
+210	2(barig)	_	_	209	nummod	
+211	3(ban2)	barig ban	NN	212	nummod	
+212	gur	gur	NN	202	_	
+213	1(gesz2)	_	,	212	nummod	
+214	udu	sheep	NN	212	conj	
+215	niga	grain-fed	JJ	212	amod	
+216	1(disz)	_	_	0	nummod	
+217	sila3-ta	at sila each	NN	212	nmod:at	
+218	sze-bi	its barley	NN	212	appos	
+219	6(asz)	_	,	220	nummod	
+220	gur	gur	NN	212	_	
+221	iti	month	NN	220	appos	
+222	nesag	First fruits	NNS	220	_	
+223	2(gesz2)	_	,	222	nummod	
+224	3(u)	_	_	223	nummod	
+225	udu	sheep	NN	222	_	
+226	niga	grain-fed	JJ	225	amod	
+227	1(disz)	_	_	0	nummod	
+228	1/2(disz)	_	_	227	nummod	
+229	sila3-ta	at sila each	NN	225	nmod:at	
+230	sze-bi	its barley	NN	222	appos	
+231	2(u)	_	,	235	nummod	
+232	2(asz)	_	CD	237	nummod	
+233	2(barig)	_	_	232	nummod	
+234	3(ban2)	barig ban	NN	235	nummod	
+235	gur	gur	NN	222	_	
+236	1(gesz2)	_	,	235	nummod	
+237	udu	sheep	NN	235	conj	
+238	niga	grain-fed	JJ	235	conj	
+239	1(disz)	_	_	0	nummod	
+240	sila3-ta	at sila each	NN	235	nmod:at	
+241	sze-bi	its barley	NN	235	appos	
+242	6(asz)	_	,	243	nummod	
+243	gur	gur	NN	235	_	
+244	iti	month	NN	243	appos	
+245	dal	Flight	NNP	243	_	
+246	2(gesz2)	_	,	248	nummod	
+247	3(u)	_	_	246	nummod	
+248	udu	sheep	NN	243	_	
+249	niga	grain-fed	JJ	248	amod	
+250	1(disz)	_	_	0	nummod	
+251	1/2(disz)	_	_	250	nummod	
+252	sila3-ta	at sila each	NN	248	nmod:at	
+253	sze-bi	its barley	NN	248	appos	
+254	5(asz)	_	,	260	nummod	
+255	3(barig)	_	CD	262	nummod	
+256	7(disz)	_	_	255	nummod	
+257	1/2(disz)	_	_	255	nummod	
+258	sila3	sila	NN	259	_	
+259	<<sila3>>	barig	NN	260	_	
+260	gur	gur	NN	248	_	
+261	1(gesz2)	_	,	260	nummod	
+262	udu	sheep	NN	260	conj	
+263	niga	grain-fed	JJ	260	amod	
+264	1(disz)	_	_	0	nummod	
+265	sila3-ta	at sila each	NN	260	nmod:at	
+266	sze-bi	its barley	NN	260	appos	
+267	1(asz)	_	,	270	nummod	
+268	2(barig)	_	_	267	nummod	
+269	3(ban2)	barig ban	NN	270	nummod	
+270	gur	gur	NN	260	_	
+271	iti	month	NN	270	appos	
+272	szu-numun	Sowing	NN	270	_	
+273	mu	year	NN	222	_	
+274	us2-sa	after	IN	273	nmod:after	
+275	bad3	wall	NN	276	nsubjpass	
+276	ba-du3	was erected	VBN	222	acl	
+277	szunigin	total	NN	222	_	
+278	4(gesz2)	_	,	285	nummod	
+279	4(u)	_	_	278	nummod	
+280	3(asz)	_	_	278	nummod	
+281	3(ban2)	_	_	278	nummod	
+282	7(disz)	_	_	278	nummod	
+283	1/2(disz)	ban	NN	285	nummod	
+284	sila3	sila	NN	283	_	
+285	gur	gur	NN	277	_	
+286	sza3-gal	fodder	NN	285	appos	
+287	udu	sheep	NN	286	nmod:of	
+288	niga	grain-fed	JJ	287	amod	
+289	giri3	via	IN	290	nmod:via	
+290	ur-{d}nisaba	Ur-Nisaba	NNP	287	nmod:via	
+291	udu	sheep	NN	290	conj	
+292	niga	grain-fed	JJ	290	amod	
+293	bala-a	bala	NN	290	nmod:of	
+294	giri3	via	IN	295	nmod:via	
+295	nam-sza3-tam	official office	NN	222	nmod:via	
+296	iti	month	NN	222	nmod:from	
+297	min3-esz3	from mine	IN	296	nmod:from	
+298	mu	year	NN	222	_	
+299	bad3	wall	NN	300	nsubjpass	
+300	ba-du3-ta	was erected	VBN	222	acl	
+301	iti	month	NN	300	nmod:to	
+302	szu-numun	to Sowing	TO	301	nmod:to	
+303	mu	year	NN	300	_	
+304	us2-sa	after	IN	303	nmod:after	
+305	bad3	wall	NN	306	nsubjpass	
+306	ba-du3-sze3	was erected	VBN	303	acl
+	
+

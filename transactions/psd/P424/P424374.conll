@@ -1,0 +1,45 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P424/P424374.conll #
+#########################################################################################
+
+#new_text=P424374
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+a-du-du	Adudu[1]	PN	PN	D		(PERSON (PN (word *)))))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+lu2-...	_[1][-ra]	PN	PN	D		(PERSON (PN (word *)))))
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+{d}szara2-kam	Szarakam[1]	PN	PN	D		(PERSON (PN (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D		(PN (word *)))
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lu-ga2-x		PN	PN	Iabcdefgh		(PN (word *))
+ki-su7	kisur[threshing_floor]	N	N	D		(UNKNOWN (word *))
+du6-gub3-temen-na-ta		N	N	POS		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D	B-COM	(PRODUCT_NAME (COM *))
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D		(PN (word *))
+mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *)))))
+

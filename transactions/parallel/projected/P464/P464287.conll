@@ -1,0 +1,84 @@
+# train/P464287.atf
+						
+
+# tr.en: ox of year Basaga ox of year Ur-Ninmuga ox of years Ur-ee ox of year Lugal-magure son of ox of year Bazige cow of years Alla son of Ur-te cow of years Lu-ebgal son of KU male mule for yoke Nanna-kuzu son of Atu total cows of years total ox of years total oxen of one year total male mule for yoke delivery for Szara month Sowing year Szu-Suen king of Ur Great-Stele for Enlil and Ninlil erected
+1	1(disz)	_	,	2	nummod	
+2	gu4	ox	NN	0	root	
+3	mu	year	NN	2	nmod:of	
+4	1(asz)	_	_	0	nummod	
+5	ba-sa6-ga	Basaga	NN	2	appos	
+6	1(disz)	_	_	0	nummod	
+7	gu4	ox	NN	2	_	
+8	mu	year	NN	10	compound	
+9	1(asz)	_	_	0	nummod	
+10	ur-{d}nin-mug-ga	Ur-Ninmuga	NN	7	nmod:of	
+11	1(disz)	_	_	0	nummod	
+12	gu4	ox	NN	2	_	
+13	mu	years	NNS	12	nmod:of	
+14	2(asz)	_	_	0	nummod	
+15	ur-e11-e	Ur-ee	NN	12	amod	
+16	1(disz)	_	_	0	nummod	
+17	gu4	ox	NN	2	_	
+18	mu	year	NN	17	nmod:of	
+19	1(asz)	_	_	0	nummod	
+20	lugal-ma2-gur8-re	Lugal-magure	JJ	21	amod	
+21	dumu	son	NN	17	_	
+22	x-x-(x)	of	IN	21	nmod:of	
+23	1(disz)	_	_	0	nummod	
+24	gu4	ox	NN	2	_	
+25	mu	year	NN	27	compound	
+26	1(asz)	_	_	0	nummod	
+27	ba-zi-ge	Bazige	NN	24	nmod:of	
+28	1(disz)	_	_	0	nummod	
+29	ab2	cow	NN	2	_	
+30	mu	years	NNS	29	nmod:of	
+31	2(asz)	_	_	0	nummod	
+32	al-la	Alla	NNP	33	compound	
+33	dumu	son	NN	29	_	
+34	ur-tesz2	Ur-te	NN	33	nmod:of	
+35	1(disz)	_	_	0	nummod	
+36	ab2	cow	NN	2	_	
+37	mu	years	NNS	36	nmod:of	
+38	2(asz)	_	_	0	nummod	
+39	lu2-eb-gal	Lu-ebgal	JJ	37	amod	
+40	dumu	son	NN	36	appos	
+41	KU-...	KU	CD	43	nummod	
+42	1(disz)	_	,	78	nummod	
+43	{ansze}kunga2-nita2	male mule	NN	78	_	
+44	gesz	for yoke	IN	78	_	
+45	{d}nanna-ku3-zu	Nanna-kuzu	NN	78	conj	
+46	dumu	son	NN	78	conj	
+47	a-tu	Atu	NN	46	nmod:of	
+48	szunigin	total	NN	78	conj	
+49	2(disz)	_	:	78	nummod	
+50	ab2	cows	NNS	48	_	
+51	mu	years	NNS	50	nmod:of	
+52	2(asz)	_	_	0	nummod	
+53	szunigin	total	NN	78	conj	
+54	1(disz)	_	:	78	nummod	
+55	gu4	ox	NN	53	_	
+56	mu	years	NNS	55	nmod:of	
+57	2(asz)	_	_	0	nummod	
+58	szunigin	total	NN	78	conj	
+59	4(disz)	_	_	0	nummod	
+60	gu4	oxen	NN	58	_	
+61	mu	year	NN	63	compound	
+62	1(asz)	one	CD	63	nummod	
+63	szunigin	total	NN	60	nmod:of	
+64	1(disz)	_	:	78	nummod	
+65	{ansze}kunga2-nita2	male mule	NN	60	_	
+66	gesz	for yoke	NN	65	nmod:for	
+67	mu-kux(DU)	delivery	NN	78	conj	
+68	{d}szara2	for Szara	NN	67	nmod:for	
+69	iti	month	NN	70	compound	
+70	szu-numun	Sowing	NN	78	_	
+71	mu	year	NN	78	nmod:tmod	
+72	{d}szu-{d}suen	Szu-Suen	NNP	78	nsubj	
+73	lugal	king	NN	72	appos	
+74	uri5{ki}-ma-ke4	Ur	NN	73	nmod:of	
+75	na-ru2-a-mah	Great-Stele	NNP	72	appos	
+76	{d}en-lil2	for Enlil	NNP	75	nmod:for	
+77	{d}nin-lil2-ra	Ninlil and	CC	76	cc	
+78	mu-ne-du3	erected	VBD	2	acl
+	
+

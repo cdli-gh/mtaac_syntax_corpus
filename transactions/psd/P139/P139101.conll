@@ -1,0 +1,109 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P139/P139101.conll #
+##############################################################################################
+
+#new_text=P139101
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+i3	i[oil]	N	N	D		(PRODUCT_NAME (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+a-mur-{d}suen		PN	PN	Iabcde		(PN (word *))
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+nig2-gi-na-{d}utu		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+...-li		PN	PN	Iabcde		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-{d}lamma	Urlamma[1]	PN	PN	D		(PN (word *))
+...-me		V	V	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+giri3-se3-ga	girsiga[attendant]	N	N	D		(UNKNOWN (word *))
+ga2-nun-mah		PN	PN	POS		(PN (word *))
+la2	la[hang][-ø]	V	NF.V.ABS	D		(MINUS (word *))
+...	_[_]	PN	N	D		(PN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+lugal-dub-sar		N	N	POS		(UNKNOWN (word *))
+e2-sukkal		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(PN (word *))
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+zu2-lum	zulum[date]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+...-HAR-re				POS		(UNKNOWN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+zu2-lum-ta		N	N	POS		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+BAR				POS		(UNKNOWN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+zu2-lum-ta		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+i3	i[oil]	N	N	D		(PRODUCT_NAME (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+DUB		V	V	POS		(UNKNOWN (word *))
+KA	ka[mouth]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+NI		PN	PN	POS	B-COM	(PRODUCT_NAME (COM *))
+KU	ku[unknown]	PN	N	D		(PN (word *))
+NI		PN	PN	POS		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+NI		PN	PN	POS		(PN (word *))
+ME		PN	PN	Iabcdefgh		(PN (word *))
+KA	ka[mouth]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))))
+

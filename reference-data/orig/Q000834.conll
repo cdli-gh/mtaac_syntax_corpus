@@ -1,0 +1,130 @@
+# project: etcsri 
+# textid: Q000834 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000834.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE CF_MWE GW_MWE SENSE_MWE POS_MWE EPOS_MWE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	car-um-GI	car-rum-GI	1	N1=NAME	RN	16	ERG	
+2	lugal	lugal	king	N1=STEM	N	1	appos	
+3	ag-ge-de3{ki}	ag-ge-de3{ki}	1	N1=NAME.N5=GEN	SN	2	GEN	
+4	mackim	mackim	administrator	N1=STEM	N	2	GEN	
+5	{d}inana	{d}inana	1	N1=NAME.N5=GEN	DN	4	appos	
+6	lugal	lugal	king	N1=STEM	N	1	appos	
+7	kic	kic	totality	N1=STEM.N5=GEN	N	6	GEN	
+8	icib	icib	priest	N1=STEM	N	6	GEN	
+9	an-na	an	1	N1=NAME.N5=GEN	DN	8	appos	
+10	lugal	lugal	king	N1=STEM	N	1	appos	
+11	kalam-ma	kalam	land	N1=STEM.N5=GEN	N	10	GEN	
+12	ensi2-gal	ensi2-gal	governor	N1=STEM	N	10	GEN	
+13	{d}en-lil2	{d}en-lil2	1	N1=NAME.N5=GEN.N5=ERG	DN	12	appos	
+14	iri	iri	city	N1=STEM	N	16	ABS	
+15	unug{ki}	unug{ki}	1	N1=NAME.N5=ABS	SN	14	appos	
+16	e-hul	hul	bad	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+17	bad3-bi	bad3	wall	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	N	18	ABS	
+18	e-ga-sig10	sig10	flatten	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+19	lu2	lu2	person	N1=STEM	N	22	COM	
+20	unug{ki}-ga-da	unug{ki}	1	N1=NAME.N5=GEN.N5=COM	SN	19	GEN	
+21	{jec}tukul	{jec}tukul	weapon	N1=STEM.N5=ABS	N	22	ABS	
+22	e-da-sag3	sag3	beat	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+23	aga3-kar2	aga3-kar2	conqueror	N1=STEM.N5=ABS	N	24	ABS	
+24	e-ne2-seg10	seg10	put	V2=FIN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+25	lugal-zag-ge-si	lugal-zag-ge-si	1	N1=NAME	RN	29	COM	
+26	lugal	lugal	king	N1=STEM	N	25	appos	
+27	unug{ki}-ga-da	unug{ki}	1	N1=NAME.N5=GEN.N5=COM	SN	26	GEN	
+28	{jec}tukul	{jec}tukul	weapon	N1=STEM.N5=ABS	N	29	ABS	
+29	e-da-sag3	sag3	beat	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+30	e-ga-dab5	dab5	seize	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+31	{jec}si-jar-ta	{jec}si-jar	bolt	N1=STEM.N5=ABL	N	34	ABL	
+32	kan4	kan4	gate	N1=STEM	N	34	TERM	
+33	{d}en-lil2-la2-ce3	{d}en-lil2	1	N1=NAME.N5=GEN.N5=TERM	DN	32	GEN	
+34	e-de6	de6	bring	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+35	car-um-GI	car-rum-GI	1	N1=NAME	RN	41	ERG	
+36	lugal	lugal	king	N1=STEM	N	35	appos	
+37	ag-ge-de3{ki}	ag-ge-de3{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	36	GEN	
+38	lu2	lu2	person	N1=STEM	N	41	COM	
+39	urim2{ki}-ma-da	urim2{ki}	1	N1=NAME.N5=GEN.N5=COM	SN	38	GEN	
+40	{jec}tukul	{jec}tukul	weapon	N1=STEM.N5=ABS	N	41	ABS	
+41	e-da-sag3	sag3	beat	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+42	aga3-kar2	aga3-kar2	conqueror	N1=STEM.N5=ABS	N	43	ABS	
+43	e-ne2-seg10	seg10	put	V2=FIN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+44	iri-ni	iri	city	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	45	ABS	
+45	e-hul	hul	bad	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+46	bad3-bi	bad3	wall	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	N	47	ABS	
+47	e-ga-sig10	sig10	flatten	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+48	e2	e2	house	N1=STEM	N	50	ABS	
+49	{d}nin-mar-ki	{d}nin-mar-ki	1	N1=NAME.N5=GEN.N5=ABS	DN	48	GEN	
+50	e-hul	hul	bad	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+51	bad3-bi	bad3	wall	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	N	52	ABS	
+52	e-ga-sig10	sig10	flatten	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+53	gu2	gu2	entirety	N1=STEM	N	0	_	
+54	kalam-bi	kalam	land	N1=STEM.N3=DEM2	N	53	appos	
+55	lagac{ki}-ta	lagac{ki}	1	N1=NAME.N5=ABL	SN	53	appos	
+56	a-ab-ba-ce3	a-ab-ba	sea	N1=STEM.N5=TERM	N	0	_	
+57	na-me-ne-ne	na-me	somebody	N1=STEM.N3=3-PL-H-POSS.N5=GEN.N5=ABS	XP	0	_	
+58	e-hul	hul	bad	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+59	{jec}tukul-ni	{jec}tukul	weapon	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	61	ABS	
+60	a-ab-ba-ka	a-ab-ba	sea	N1=STEM.N5=L1	N	61	L1	
+61	ni-luh	luh	clean	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+62	lu2	lu2	person	N1=STEM	N	65	COM	
+63	umma{ki}-da	umma{ki}	1	N1=NAME.N5=GEN.N5=COM	SN	62	GEN	
+64	{jec}tukul	{jec}tukul	weapon	N1=STEM.N5=ABS	N	65	ABS	
+65	e-da-sag3	sag3	beat	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+66	aga3-kar2	aga3-kar2	conqueror	N1=STEM.N5=ABS	N	67	ABS	
+67	e-ne2-seg10	seg10	put	V2=FIN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+68	iri-ni	iri	city	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	69	ABS	
+69	e-hul	hul	bad	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+70	bad3-bi	bad3	wall	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	N	71	ABS	
+71	e-ga-sig10	sig10	flatten	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+72	car-um-GI	car-rum-GI	1	N1=NAME	RN	77	DAT-H	
+73	lugal	lugal	king	N1=STEM	N	72	appos	
+74	kalam-ma-ra	kalam	land	N1=STEM.N5=GEN.N5=DAT-H	N	73	GEN	
+75	{d}en-lil2-le	{d}en-lil2	1	N1=NAME.N5=ERG	DN	77	ERG	
+76	lu2-erim2	lu2-erim2	evildoer	N1=STEM.N5=ABS	N	77	ABS	
+77	nu-na-cum2	cum2	give	V1=NEG.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+78	a-ab-ba	a-ab-ba	sea	N1=STEM	N	83	ABL	
+79	igi-nim-ma-ta	igi-nim	land	N1=STEM.N5=GEN.N5=ABL	N	78	GEN	
+80	a-ab-ba	a-ab-ba	sea	N1=STEM	N	83	TERM	
+81	sig-sig-ce3	sig	weak	NV2=STEM-RDP.N5=TERM	V/i	80	amod	
+82	{d}en-lil2-le	{d}en-lil2	1	N1=NAME.N5=ERG	DN	83	ERG	
+83	mu-na-cum2	cum2	give	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+84	u3	u3	and	N1=STEM	CNJ	0	_	
+85	a-ab-ba	a-ab-ba	sea	N1=STEM	N	0	_	
+86	sig-sig-ta	sig	weak	NV2=STEM-RDP.N5=ABL	V/i	85	amod	
+87	dumu-dumu	dumu-dumu	child	N1=STEM-RDP	N	0	_	
+88	ag-ge-de3{ki}	ag-ge-de3{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	87	GEN	
+89	nam-ensi2	nam-ensi2	office of ruler	N1=STEM.N5=ABS	N	0	_	
+90	mu-kin-x	_	_	_	u	0	_	
+91	lu2	lu2	person	N1=STEM	N	99	ABS	
+92	ma-ri2{ki}	ma-ri2{ki}	1	N1=NAME.N5=GEN	SN	91	GEN	
+93	lu2	lu2	person	N1=STEM	N	91	appos	
+94	elam{ki}	elam{ki}	1	N1=NAME.N5=GEN.N5=ABS	GN	93	GEN	
+95	igi	igi	face	N1=STEM	N	99	TERM	
+96	car-um-GI	car-rum-GI	1	N1=NAME	RN	95	appos	
+97	lugal	lugal	king	N1=STEM	N	96	GEN	
+98	kalam-ma-ka-ce3	kalam	land	N1=STEM.N5=GEN.N5=GEN.N5=TERM	N	97	GEN	
+99	i3-sug2-ge-ec	sug2	stand	V2=FIN.V12=STEM-PL.V14=3-PL-S	V/i	0	_	
+100	car-um-GI	car-rum-GI	1	N1=NAME	RN	105	ERG	
+101	lugal	lugal	king	N1=STEM	N	100	appos	
+102	kalam-ma-ke4	kalam	land	N1=STEM.N5=GEN.N5=ERG	N	101	GEN	
+103	kic{ki}	kic{ki}	1	N1=NAME.N5=ABS	SN	105	ABS	
+104	ki-be2	ki	place	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	N	105	L3-NH	
+105	bi2-gi4	gi4	turn	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
+106	iri-be2	iri	city	N1=STEM.N3=DEM2.N5=ERG	N	108	ERG	
+107	ki-gub	ki-gub	station	N1=STEM.N5=ABS	N	108	ABS	
+108	e-na-ba	ba	allot	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+109	lu2	lu2	person	N1=STEM	N	111	ABS	
+110	mu-sar-ra-e	mu-sar-ra	inscription	N1=STEM.N2=DEM1.N5=ABS	N	109	appos	
+111	ab-ha-lam-e-a	ha-lam	forsake	V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=GEN	V/t	114	GEN	
+112	{d}utu	{d}utu	1	N1=NAME.N5=ERG	DN	114	ERG	
+113	suhuc-ni	suhuc	foundation	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	114	ABS	
+114	he2-burₓ(|KA×CU|)-re6	burₓ(|KA×CU|)	tear	V1=MOD1.V2=FIN.V12=STEM.V14=3-SG-A	V/t	0	_	
+115	numun-na-ni	numun	seed	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	116	ABS	
+116	he2-ga-degₓ(RI)-degₓ(RI)-ge	degₓ(RI)-degₓ(RI)	collect	V1=MOD1.V2=FIN.V3=COOR.V12=STEM-RDP.V14=3-SG-A	V/t	0	_	
+117	mu-sar-ra	mu-sar-ra	inscription	N1=STEM	N	0	_	
+118	ki-gal-ba	ki-gal	platform	N1=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	N	117	GEN	

@@ -1,0 +1,45 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P132/P132720.conll #
+##############################################################################################
+
+#new_text=P132720
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+nu-dab5-me		V	NEG.NF.V.PT.ABS.COP-3-PL	Iabcdefg		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(PN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+tur-ra-me		V	V	POS		(UNKNOWN (word *))
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+hu-bu7{bu}-me		V	V	POS		(UNKNOWN (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+erin2-e	erin[people]-e	N	N.ERG	D		(PRODUCT_NAME (word *)))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ti-a	ti[receive]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szul-gi-me		DN	DN	POS		(GOD (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+lugal-{d}szul-gi		PN	PN	Iabcde		(PN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-{gesz}gigir		PN	PN	Ia		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOB (JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY (word *)))
+masz2-e	masz[goat]-e	N	N.L3-NH	D		(PRODUCT_NAME (word *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *))))
+

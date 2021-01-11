@@ -1,0 +1,36 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P461/P461502.conll #
+#########################################################################################
+
+#new_text=P461502
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ku3-{d}nanna	Kugnanna[1]	PN	PN	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+masz2-gal	maszgal[billy_goat]	N	N	D		(PRODUCT_NAME (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ur-szu-ga-lam-ma		N	PN.GEN.ABS	D		(UNKNOWN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+kin-na-sze3		PN	PN	POS		(PERSON (PN (word *))))
+sipa-si-in		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+masz2-gal	maszgal[billy_goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+kin-na-sze3		PN	PN	POS		(PN (word *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+masz-da3-gu7	Maszdagu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

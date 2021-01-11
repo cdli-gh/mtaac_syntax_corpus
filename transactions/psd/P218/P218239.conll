@@ -1,0 +1,77 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P218/P218239.conll #
+##############################################################################################
+
+#new_text=P218239
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+ma-na	mana[unit]	N	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+sza-lim-be-li2	Szalimbeli[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *)))))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+i3-li2-ma-al-ki		PN	PN	Iabcde		(PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+{d}suen-illat		PN	PN	Ia		(PERSON (PN (word *))))))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*)))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+zu2-lum	zulum[date]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(UNKNOWN (word *))
+2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+du-szu-mu-um		PN	PN	Iabcde		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+sa	sa[bundle]	N	N	D		(UNIT (word *))
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D		(CITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+du-szu-mu-um-ma-sze3		PN	PN.GEN.TERM	Iab		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+sza-lim-be-li2	Szalimbeli[1][-ak]	PN	PN.GEN	D		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+esztub{ku6}		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))
+kun-zi		N	N	POS		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ga-ar3	ga'ar[cheese]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+imgaga3		N	N	Ia		(UNKNOWN (word *))
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(UNKNOWN (word *))
+2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+bil-ga-nu-um		PN	PN	Iabc		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+dingir-ku-ru-ub		PN	PN	Iabcde		(PN (word *))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+dingir-ku-ru-ub		PN	PN	Iabcde		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}su4-an-na-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PN (word *))
+ur-{d}suen-ke4		PN	PN	Iabcdefgh		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))))
+

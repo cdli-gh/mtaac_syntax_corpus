@@ -1,0 +1,38 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P143/P143342.conll #
+##############################################################################################
+
+#new_text=P143342
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+szer7-ru-um	szerrum[mat]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+szer7-ru-um	szerrum[mat]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+sag-da-na-ka		N	N	POS		(UNKNOWN (word *))
+ensi2-ka	ensik[ruler]-ak	N	N.GEN	D		(JOB (JOBNAME (word *)))
+dul9-la		PN	PN	POS		(PN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+sze-er-ha-an		PN	PN	POS		(PERSON (PN (word *))))
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}giri3-giri3-szu2		N	N	Ia		(UNKNOWN (word *))
+ha-la-mu		PN	PN	Ia		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D	B-COM	(PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

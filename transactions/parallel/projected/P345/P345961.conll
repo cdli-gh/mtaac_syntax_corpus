@@ -1,0 +1,56 @@
+# train/P345961.atf
+						
+
+# tr.en: sila of high-quality beer sila of bread shekels of oil shekels of naga fish bundle of onions Inim-Inanna ban of bread as provisions for smiths via Inim-Inanna sila of beer sila of bread shekels of oil shekels of naga fish bundle of onions via Dada it is on th day Month Festival of Szulgi
+1	5(disz)	_	,	2	nummod	
+2	sila3	sila	NN	0	root	
+3	kasz	beer	NN	2	nmod:of	
+4	saga	high-quality	JJ	3	amod	
+5	3(disz)	_	CD	9	nummod	
+6	sila3	sila	NN	2	conj	
+7	ninda	bread	NN	6	nmod:of	
+8	2(disz)	_	,	2	nummod	
+9	gin2	shekels	NNS	2	conj	
+10	i3	oil	NN	9	nmod:of	
+11	2(disz)	_	CD	15	nummod	
+12	gin2	shekels	NNS	2	conj	
+13	naga	naga	NN	12	nmod:of	
+14	1(disz)	_	_	0	nummod	
+15	ku6	fish	NN	2	conj	
+16	1(disz)	_	_	0	nummod	
+17	sa	bundle	NN	2	appos	
+18	szum2	onions	NNS	19	compound	
+19	inim-{d}inanna	Inim-Inanna	NNP	17	nmod:of	
+20	4(ban2)	ban	NN	2	nummod	
+21	ninda	bread	NN	20	nmod:of	
+22	sza3-gal	for	IN	23	nmod:for	
+23	simug-e-ne	as provisions smiths	NNS	20	nmod:as	
+24	giri3	via	IN	25	nmod:via	
+25	inim-{d}inanna	Inim-Inanna	NNP	20	nmod:via	
+26	5(disz)	_	,	27	nummod	
+27	sila3	sila	NN	20	_	
+28	kasz	beer	NN	27	nmod:of	
+29	5(disz)	_	CD	33	nummod	
+30	sila3	sila	NN	27	conj	
+31	ninda	bread	NN	30	nmod:of	
+32	2(disz)	_	,	27	nummod	
+33	gin2	shekels	NNS	27	conj	
+34	i3	oil	NN	33	nmod:of	
+35	2(disz)	_	CD	39	nummod	
+36	gin2	shekels	NNS	27	conj	
+37	naga	naga	NN	36	nmod:of	
+38	1(disz)	_	_	0	nummod	
+39	ku6	fish	NN	27	conj	
+40	1(disz)	_	_	0	nummod	
+41	sa	bundle	NN	27	appos	
+42	szum2	onions	NNS	41	nmod:of	
+43	giri3	via	IN	44	nmod:via	
+44	da-da	Dada	NN	41	nmod:via	
+45	u4	it is on th day	NN	2	parataxis	
+46	2(u)	_	,	45	nummod	
+47	la2	_	_	46	_	
+48	1(disz@t)-kam	_	_	47	nummod	
+49	iti	Month	NNP	45	appos	
+50	ezem-{d}szul-gi	Festival Szulgi	NNP	45	_
+	
+

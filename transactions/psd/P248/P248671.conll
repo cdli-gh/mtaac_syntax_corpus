@@ -1,0 +1,77 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P248/P248671.conll #
+#########################################################################################
+
+#new_text=P248671
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (NUMBER (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gin2	gig[unit]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+uruda	urud[copper][-ak]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+ma-na	mana[unit]	N	N	D		(UNIT (word *))
+su-he2		N	N.ABS	Iabcde		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+lu2-banda3{da}-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+da	da[unknown]	N	N	POS		(UNKNOWN (word *))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(PN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+{uruda}ha-bu3-da	habuda[hoe]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*))
+bi2-gu7-bi		N	N	POS		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+su-he2-bi		V	V	POS		(UNKNOWN (word *))
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+{uruda}apin-a-gar		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-banda3{da}	Lubanda[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+5/6(disz)	5/6(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+su-he2		N	N.ABS	Iabcde		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+uruda	urud[copper][-ak]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+zi-ga-am3	zig[expend]-a[-ø]-am	N	NF.V.PT.ABS.COP-3-SG	D		(UNKNOWN (word *)))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+uruda	urud[copper][-ak]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+igi-6(disz)-gal2	igi6(disz)[one]gal[fraction]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+su-he2		N	N.ABS	Iabcde		(UNKNOWN (word *))
+la2-ia3-am3		V	V	POS		(UNKNOWN (word *))
+nig2-ka9-ak	nigSZID[account]	N	N	D		(UNKNOWN (word *))
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D		(CITY (word *))))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

@@ -1,0 +1,35 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P339/P339565.conll #
+#########################################################################################
+
+#new_text=P339565
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+dumu-ni	dumu[child]-ani	N	N.3-SG-H-POSS	D		(FILIATION_EXP (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)-am3	5(disz)[one][-ak]-am	NU	NU.GEN.COP-3-SG	D	I-COUNT	*))
+zal-la	zal[pass]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOB (JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *)))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal-sze3	lugal[king][-ak]-sze	N	N.GEN.TERM	D	B-COM	(PRODUCT_NAME (COM *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+na-silim	Nasilim[1][-ak][-ø]	PN	PN	D		(PERSON (PN (word *)))))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+na-silim	Nasilim[1][-ak][-ø]	PN	PN	D		(PERSON (PN (word *)))))))
+

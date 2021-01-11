@@ -1,0 +1,50 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P106/P106963.conll #
+##############################################################################################
+
+#new_text=P106963
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+id-gur2	idgurum[ladle]	N	N	D		(UNKNOWN (word *))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+puzur4-i3-li2	Puzurili[1][-ra]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+{gesz}tukul	tukul[weapon][-'a]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ki	ki[place]	N	N	D		(KI (word *))
+szu-ku6	szukud[fisherman][-ak][-ak]	N	N	D		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-gal-sze3		DN	DN	Iabcdefgh		(GOD|GOD_NAME (word *))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+i3	i[oil]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+id-gur2	idgurum[ladle]	N	N	D		(UNKNOWN (word *))
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D		(UNKNOWN (word *))
+dingir-szu-ra-ra-bi		PN	PN.GEN.DAT-H	Iabcdefg		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+{gesz}tukul-gu-la	tukulgal[big_weapon_carrier][-ra]	N	N.DAT-H	D	B-COM	(PRODUCT_NAME (COM *)))
+a-dam-szah2{ki}-sze3		SN	SN.TERM	Iab		(CITY (word *))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+sze-il2-la	Sze'ila[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+7(disz)	7(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))))
+

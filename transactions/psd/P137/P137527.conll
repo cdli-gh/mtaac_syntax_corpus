@@ -1,0 +1,32 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137527.conll #
+#########################################################################################
+
+#new_text=P137527
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+ab2-mah2	abmah[mature_cow]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2	ab[cow][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+nig2-gur11	nigGA[property]	N	N	D		(UNKNOWN (word *))
+e2-gesztin		PN	PN	POS		(PERSON (PN (word *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2-mah2	abmah[mature_cow]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2	ab[cow][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ka-gal2-la		N	N	POS		(UNKNOWN (word *))
+unu3		GN	GN	POS		(CITY (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(GOD (word *))
+nig2-gur11	nigGA[property]	N	N	D		(UNKNOWN (word *))
+a-a-kal-la	Ayakala[1]	PN	PN	D		(PN (word *))
+aga3-us2	aga'us[soldier]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT_NAME (word *))
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D		(PRODUCT_PARAM (word *)))))
+inim-ma-zi-x-ki-x-x		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))))
+

@@ -1,0 +1,47 @@
+# dev/P416457.atf
+						
+
+# tr.en: suckling bull calf sheep barley-fed of nd grade sheep lamb slaughtered th day from Ahuni Ur-nigar received month ki-siki of Ninazu second year Simurum Lulubu for th time were destroyed
+1	1(disz)	_	,	2	nummod	
+2	amar	calf	NN	41	nsubj	
+3	gu4	bull	NN	2	compound	
+4	ga	suckling	NN	2	compound	
+5	1(disz)	_	,	9	nummod	
+6	udu	sheep	NN	2	conj	
+7	niga	barley-fed	JJ	2	conj	
+8	saga	_	CD	10	nummod	
+9	us2	nd grade	NN	2	nmod:of	
+10	1(disz)	_	NN	9	nummod	
+11	udu	sheep	NN	10	compound	
+12	...	_	NN	9	conj	
+13	1(disz)	_	_	0	nummod	
+14	...	_	_	0	dep	
+15	1(disz)	_	_	0	nummod	
+16	...	_	NN	9	conj	
+17	1(disz)	_	_	0	nummod	
+18	sila4	lamb	NN	16	compound	
+19	...	_	,	9	dep	
+20	ba-usz2	slaughtered	VBN	9	acl	
+21	u4	_	,	2	_	
+22	1(u)	_	,	2	nummod	
+23	la2	_	_	22	_	
+24	1(disz@t)-kam	_	_	23	nummod	
+25	ki	from	IN	29	mark	
+26	a-hu-ni-ta	Ahuni	NNP	29	nsubj	
+27	ur-nigar{gar}	Ur-nigar	JJ	29	advmod	
+28	szu	_	:	2	_	
+29	ba-ti	received	VBN	2	acl	
+30	iti	month	NN	2	_	
+31	ki-siki-{d}nin-a-zu	ki-siki	NN	2	_	
+32	min-kam	Ninazu second	NNP	31	nmod:of	
+33	mu	year	NN	2	appos	
+34	si-mu-ru-um{ki}	Simurum	NNP	35	compound	
+35	lu-lu-bu{ki}	Lulubu	NNP	40	nsubjpass	
+36	a-ra2	for th time	NN	35	nmod:for	
+37	1(u)	_	.	41	nummod	
+38	la2	_	''	37	_	
+39	1(disz@t)-kam	_	_	38	nummod	
+40	ba-hul	were destroyed	VBN	2	acl	
+41	 	_	NN	0	root
+	
+

@@ -1,0 +1,40 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P324/P324601.conll #
+#########################################################################################
+
+#new_text=P324601
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gazx(KUM)	gaz[thresh][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+gu2-gal	gugala[chickpea][-ak]	PN	N	D		(PN (word *))
+al-ar3-ra		V	V	POS		(UNKNOWN (word *))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+gu2-tur		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+al-us2-sa		V	V	POS		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+kasz	kasz[beer]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	D	I-COUNT	(NUMBER (COUNT *)))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kusz	kusz[leather]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))))
+ka-tab		N	N	Ia		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+i-sur-{d}suen-ta		PN	PN.GEN.ABL	Iabcdef		(PERSON (PN (word *))))
+{d}ma-lik-ba-ni		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D		(PN (word *))
+mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))))
+

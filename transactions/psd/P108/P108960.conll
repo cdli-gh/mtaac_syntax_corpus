@@ -1,0 +1,56 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P108/P108960.conll #
+##############################################################################################
+
+#new_text=P108960
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+lugal	lugal[king]	N	N	D		(PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+3(u)-sze3	3(u)[ten]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ninda-bi		N	N.ABS.3-SG-NH-POSS.ABS	Iabcdefg	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+mar-sa	marsa[shipyard]	PN	N	D		(PN (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+{d}nin-gir2-su-ka-sze3		DN	DN.GEN.GEN.TERM	Iabcdef		(GOD|GOD_NAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+du-du	Dudu[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-me3		PN	PN.GEN.GEN	Iabcdef		(PN (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *)))))
+szul-e2-du3-du3	Szuledudu[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nu-banda3	nubanda[overseer][-ø]	N	N	D		(JOBNAME (word *))
+amar-szuba3		PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+hu-bu7{bu}		V	V	POS		(UNKNOWN (word *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *))
+gi-zi	gizi[reed][-ak][-ak]	N	N.GEN.GEN	D		(PRODUCT_NAME (word *))
+sukkal-mah		PN	N	D		(PN (word *))
+di	did[lawsuit]	N	N	D		(UNKNOWN (word *))
+du11-ga-me		V	V	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+al-la	Alla[1]	PN	PN	D		(PN (word *))
+di-ku5		N	N.GEN.ABS	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	SN.GEN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

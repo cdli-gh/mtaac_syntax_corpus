@@ -1,0 +1,34 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P115/P115212.conll #
+##############################################################################################
+
+#new_text=P115212
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+lugal	lugal[king]	N	N	D		(PRODUCT_PARAM (word *)))))
+ur-{d}nin-gubalag		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}nin-su		PN	PN	Iabcde		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gibil4		V	NF.V.ABS.GEN	Iabcdef		(UNKNOWN (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+szu-ma-am3	Szumam[1]	PN	PN	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+gu2-ab-ba(DI){ki}		GN	GN	POS		(CITY|NATIONALITY (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+ansze-a		N	N	Ia		(UNKNOWN (word *))
+tusz-a-me		V	NF.V.PT.COP-3-PL	Iabcdefg		(UNKNOWN (word *)))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+ku-ru(SI)-er3-ra		PN	PN	Ia		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kas4-ke4-ne	kasz[runner]-ak-ene	PN	N.GEN.PL	D		(PN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *)))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))))
+

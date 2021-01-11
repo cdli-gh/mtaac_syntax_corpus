@@ -1,0 +1,66 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137639.conll #
+#########################################################################################
+
+#new_text=P137639
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))
+al-dar-ra		V	V	POS		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	*))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gir		N	N	POS		(UNKNOWN (word *))
+ab-ba	abba[father]	PN	PN	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))
+nun		N	N	D		(UNKNOWN (word *))
+sziti-ma		PN	PN	POS		(PN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+ku6	kud[fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+a-ab-ba		PN	PN	Iabcde		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ma-asz		V	V	POS		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+nam		N	N.ABS	D		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+8(gesz2)	8(gesz2)[sixty]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+ku6-sze6	kusze[cooked_fish]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+ba	ba[animal][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT_NAME (COM *)))
+3(szar'u)		NU	NU	POS	B-COUNT	(FRAG (NUMBER (COUNT *
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*))
+ku6	kud[fish]	N	N	D		(PRODUCT_NAME (word *))
+sziti-ma		PN	PN	POS		(PN (word *))
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D		(PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *)))
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+nam		N	N.ABS	D		(UNKNOWN (word *))
+ku6-sze6	kusze[cooked_fish]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *)))))
+

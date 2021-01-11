@@ -1,0 +1,32 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P123/P123297.conll #
+##############################################################################################
+
+#new_text=P123297
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+i3-du-a		PN	PN	POS		(PN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+szu-{d}iszkur	Szu'iszkur[1][-ak]	PN	PN	D		(PN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *)))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+ur-{d}gilgamesx(|BIL3.GA.MES|)	Urgilgamesx[1][-ra]	PN	PN.DAT-H	D		(PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+masz-da-re-a		N	N	POS		(UNKNOWN (word *))
+e2-gal-ta	egal[palace]-ta	N	N.ABL	D		(UNKNOWN (word *))
+e3-a	e[leave]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

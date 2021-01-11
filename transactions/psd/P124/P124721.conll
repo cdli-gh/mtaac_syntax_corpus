@@ -1,0 +1,27 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P124/P124721.conll #
+#########################################################################################
+
+#new_text=P124721
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	(NUMBER (COUNT *))
+da-gu		PN	PN	Iabcde		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(barig)-ta	bariga[unit]-ta	NU	N.ABL	D	I-COUNT	(NUMBER (COUNT *))
+ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	PN.GEN.DAT-H	D		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+da-gu		PN	PN	Iabcde		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+na-ru2-a	narua[stele]	PN	N	D	B-COM	(PRODUCT_NAME (COM *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+da-gu		PN	PN	Iabcde		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-ur2-ra-ni		PN	PN.GEN.ABS	D		(PN (word *))))
+

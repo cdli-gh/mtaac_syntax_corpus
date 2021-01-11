@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q000872 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000872.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE CF_MWE GW_MWE SENSE_MWE POS_MWE EPOS_MWE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	{d}nin-hur-saj	{d}nin-hur-saj	1	N1=NAME	DN	10	DAT-H	
+2	ama	ama	mother	N1=STEM	N	1	appos	
+3	dijir-re-ne-ra	dijir	deity	N1=STEM.N4=PL.N5=GEN.N5=DAT-H	N	2	GEN	
+4	lu2-{d}utu	lu2-{d}utu	4	N1=NAME	PN	10	ERG	
+5	ensi2	ensi2	ruler	N1=STEM	N	4	appos	
+6	umma{ki}-ke4	umma{ki}	1	N1=NAME.N5=GEN.N5=ERG	SN	5	GEN	
+7	nam-til3-la-ni-ce3	nam-til3	life	N1=STEM.N3=3-SG-H-POSS.N5=TERM	N	10	TERM	
+8	tilla3	tilla3	street	N1=STEM	N	10	ABS	
+9	ki	ki	place	N1=STEM.N5=ABS	N	8	appos	
+10	aj2-na	aj2	measure	NV2=STEM.N3=3-SG-H-POSS.N5=L1	V/t	12	L1	
+11	e2	e2	house	N=STEM.N5=ABS	N	12	STEM.ABS	
+12	mu-na-du3	du3	build	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+13	uc-bi	uc	foundation	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	N	14	ABS	
+14	mu-dug3	dug3	good	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/i	0	_	
+15	temen-bi	temen	foundation	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	N	16	ABS	
+16	mu-sig9	sig9	put	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+17	me-be2	me	being	N1=STEM.N3=3-SG-NH-POSS.N5=DAT-NH	N	20	DAT-NH	
+18	cag4-bi-a	cag4	heart	N1=STEM.N3=3-SG-NH-POSS.N5=L1	N	20	L1	
+19	si	si	horn	N1=STEM.N5=ABS	N	20	ABS	
+20	im-ma-ni-sa2	sa2	equal	V2=FIN.V4=VEN.V5=3-NH.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	

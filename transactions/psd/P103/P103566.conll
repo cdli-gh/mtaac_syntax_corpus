@@ -1,0 +1,33 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P103/P103566.conll #
+##############################################################################################
+
+#new_text=P103566
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tab		N	N	POS		(UNKNOWN (word *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D		(PERSON (PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOB (JOBNAME (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+da-du-mu	Dadumu[1][-ak]	PN	PN.GEN	D		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+e2-kikken2	ekinkin[mill]	GN	N	D		(CITY|NATIONALITY (word *))
+ur-{d}nin-tu	Urnintu[1][-ak]	PN	PN	D		(PN (word *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ma2-a	ma[ship]-'a	N	N.L1	D		(UNKNOWN (word *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-du-du		PN	PN	Iabcde		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+pa4-u2-e	Pa'u'e[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ha-ar-szi{ki}	Harszi[1]	SN	SN	D		(CITY|NATIONALITY (word *))
+ba	ba[animal][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))))
+

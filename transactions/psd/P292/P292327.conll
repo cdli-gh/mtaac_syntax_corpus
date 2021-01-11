@@ -1,0 +1,74 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P292/P292327.conll #
+##############################################################################################
+
+#new_text=P292327
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+sila3	sila[unit]	N	N	D		(UNIT (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+zu2-lum	zulum[date]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+sag	sag[head]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+gur-ra	gur[unit]-ak	V	NF.V.PT	D		(UNIT (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*
+gu2	gun[unit]	N	N	D	I-COUNT	*
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+ma-na	mana[unit]	N	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+siki	siki[wool][-'a]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D		(PRODUCT_PARAM (word *))))
+hal-la-tum-bi		N	N	POS		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ma-na-ta		N	N	POS		(UNKNOWN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+i3-nun	inun[ghee]	PN	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+e2-kiszib3-ba-ka		TN	TN	POS		(CITY (word *))
+ku4-ra	kur[enter]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+zu2-lum	zulum[date]	N	N	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+i3	i[oil]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+siki	siki[wool][-'a]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *)))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+lu-lu-bu	Lulubu[1][-ø]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*))
+1(disz)-kam-asz		NU	NU.GEN.COP-3-SG.TERM	Iab	B-COUNT	(NUMBER (COUNT *))
+ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(PERSON (PN (word *))))))
+

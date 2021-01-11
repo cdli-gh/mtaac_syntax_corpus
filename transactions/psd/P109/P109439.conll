@@ -1,0 +1,67 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P109/P109439.conll #
+##############################################################################################
+
+#new_text=P109439
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ki-su7-ra		N	N.GEN.GEN.ABS	Iabcdefg		(UNKNOWN (word *))
+an-za-gar3		N	N	POS		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+la2-mah	Lamah[1]	FN	FN	D		(CITY (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ki-su7-ra		N	N.GEN.GEN.ABS	Iabcdefg		(UNKNOWN (word *))
+a2-te-na		N	N	POS		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ki-su7-ra		N	N.GEN.GEN.ABS	Iabcdefg		(UNKNOWN (word *))
+du6-an-ur3-ra		FN	FN	POS		(CITY (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ki-su7	kisur[threshing_floor]	N	N	D		(UNKNOWN (word *))
+i3-szum2		V	V	POS		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))
+ra-ra		PN	PN	POS		(PN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+de2-a	de[pour]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+ki-su7	kisur[threshing_floor]	N	N	D		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+i7-pa-e3	Ipa'e[1][-ø]	PN	PN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D		(NUMBER (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOBNAME (word *))
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D		(PN (word *))
+mu-dim2		V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-e11-e	Ure'e[1][-ak]	PN	PN	D		(PN (word *))
+szusz3	kusz[cattle_manager][-ak]	N	N.GEN	D		(JOBNAME (word *))))
+

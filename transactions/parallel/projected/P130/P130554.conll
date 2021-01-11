@@ -1,0 +1,46 @@
+# train/P130554.atf
+						
+
+# tr.en: workmen for days flour loaded in barge flour unloaded from barge workmen for days offerings placed in barge for temple administrators workmen for days reed carried read of tow-boat foreman Lugalmu-manag under seal of Abbagina year Amar-Suen king destroyed Urbilum Abbagina scribe son of Lugal-magure
+1	6(disz)	_	,	24	nummod	
+2	gurusz	workmen	NNS	24	nsubj	
+3	u4	for days	NNS	2	nmod:for	
+4	5(disz)-sze3	_	_	0	nummod	
+5	zi3	flour	NN	24	ccomp	
+6	ma2-a	barge	NN	7	nmod:in	
+7	si-ga	loaded in	VBN	5	acl	
+8	zi3	flour	NN	24	nsubj	
+9	ma2-ta	unloaded from	JJ	8	amod	
+10	ba-al	barge	NN	9	nmod:from	
+11	5(disz)	_	,	8	nummod	
+12	gurusz	workmen	NNS	8	appos	
+13	u4	for days	NNS	12	nmod:for	
+14	6(disz)-sze3	_	_	0	nummod	
+15	nig2	_	,	8	_	
+16	siskur2-ra	offerings	NNS	8	appos	
+17	ma2-a	barge	NN	18	nmod:in	
+18	{ga2}gar	placed in	VBN	16	acl	
+19	sanga-ne-sze3	for temple administrators	NNS	8	nmod:for	
+20	6(disz)	_	,	19	nummod	
+21	gurusz-sze3	workmen	NNS	19	appos	
+22	u4	for days	NNS	21	nmod:for	
+23	2(disz)-sze3	_	_	0	nummod	
+24	gi	reed	VBD	0	root	
+25	il2-la	carried	VBN	24	dobj	
+26	gi	_	,	29	_	
+27	ma2-da-la2	read of tow-boat	NN	25	conj	
+28	ugula	foreman	NN	27	appos	
+29	lugal-mu-ma-an-ag2	Lugalmu-manag	NN	25	_	
+30	kiszib3	under seal	NN	29	nmod:under	
+31	ab-ba-gi-na	Abbagina	NNP	30	nmod:of	
+32	mu	year	NN	35	nmod:tmod	
+33	{d}amar-{d}suen	Amar-Suen	NNP	35	nsubj	
+34	lugal-e	king	NN	33	appos	
+35	ur-bi2-i3-lum{ki}	destroyed Urbilum	VBD	29	parataxis	
+36	mu-hul	_	.	24	_	
+37	ab-ba-gi-na	Abbagina	NNP	24	dobj	
+38	dub-sar	scribe	NN	37	appos	
+39	dumu	son	NN	37	appos	
+40	lugal-ma2-gur8-re	of Lugal-magure	NN	39	nmod:of
+	
+

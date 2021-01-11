@@ -1,0 +1,134 @@
+# dev/P416415.atf
+						
+
+# tr.en: sheep barley-fed for dais of An sheep barley-fed of rd grade sheep barley-fed of th grade for Nanna buck barley-fed of th grade for Dublama sheep barley-fed bucks barley-fed following oxen Festival of An sheep barley-fed of th grade for Mound of Roof sheep barley-fed of rd grade sheep barley-fed of th grade for Nungal sheep barley-fed for Dublama sheep barley-fed following oxen for ANdur sheep barley-fed for Szulgi n for Dandanda n for Ningal n following oxen for Ninuri n Szu-Suen-kiag n for sheep barley-fed for -kalla sheep barley-fed for Ninkununa sheep barley-fed of nd grade for Gula sheep barley-fed lamb for Nin-egal via Suen-abuu cup-bearer the th day booked out from Aba-Enlilgin in Ur via Ur-Szulgi arabdu month Ubi feast year Szu-Suen king of Ur grand-stele for Enlil Ninlil erected
+1	1(disz)	_	,	4	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	barley-fed	JJ	2	amod	
+4	bara2-an-na	for dais An	NN	2	nmod:for	
+5	2(disz)	_	_	0	nummod	
+6	udu	sheep	NN	1	root	
+7	niga	barley-fed	JJ	6	amod	
+8	3(disz)-kam	_	_	0	nummod	
+9	us2	rd grade	NN	6	nmod:of	
+10	3(disz)	_	_	0	nummod	
+11	udu	sheep	NN	6	conj	
+12	niga	barley-fed	JJ	6	amod	
+13	4(disz)-kam	_	_	0	nummod	
+14	us2	grade th	NN	6	nmod:of	
+15	{d}nanna	for Nanna	NNP	14	nmod:for	
+16	1(disz)	_	_	0	nummod	
+17	masz2-gal	buck	NN	6	_	
+18	niga	barley-fed	JJ	17	amod	
+19	4(disz)-kam	_	CD	24	nummod	
+20	us2	th grade	NN	17	nmod:of	
+21	dub-la2-mah	for Dublama	IN	22	nmod:for	
+22	uzu-a-bala	for Dublama	NNP	20	nmod:for	
+23	2(disz)	_	,	32	nummod	
+24	udu	sheep	NN	17	_	
+25	niga	barley-fed	JJ	24	amod	
+26	2(disz)	_	''	32	nummod	
+27	masz2-gal	bucks	NNS	24	appos	
+28	niga	barley-fed	JJ	24	appos	
+29	gu4-e-us2-sa	following oxen	NNS	24	root	
+30	ezem-an-na	Festival	NNP	32	compound	
+31	2(disz)	_	:	36	nummod	
+32	udu	sheep	NN	29	_	
+33	niga	barley-fed	JJ	32	_	
+34	4(disz)-kam	_	''	36	nummod	
+35	us2	th grade	NN	29	nmod:of	
+36	du6-ur3	for Mound Roof	NN	29	root	
+37	2(disz)	_	,	38	nummod	
+38	udu	sheep	NN	36	_	
+39	niga	barley-fed	JJ	38	amod	
+40	3(disz)-kam	_	_	0	nummod	
+41	us2	rd grade	NN	38	nmod:of	
+42	2(disz)	_	_	0	nummod	
+43	udu	sheep	NN	38	conj	
+44	niga	barley-fed	JJ	38	amod	
+45	n-kam	_	_	0	_	
+46	us2	grade th	NN	38	nmod:of	
+47	{d}nun-gal	for Nungal	NNP	38	nmod:for	
+48	1(disz)	_	:	49	nummod	
+49	udu	sheep	NN	38	_	
+50	niga	barley-fed	JJ	49	amod	
+51	dub-la2-mah	for Dublama	NNP	49	nmod:for	
+52	1(disz)	_	:	49	nummod	
+53	udu	sheep	NN	49	_	
+54	niga	barley-fed	JJ	53	amod	
+55	gu4-e-us2-sa	following oxen	NNS	53	nmod:follow	
+56	AN-dur	for ANdur	NN	53	nmod:for	
+57	1(disz)	_	NN	58	nummod	
+58	udu	sheep	NN	49	_	
+59	niga	barley-fed	JJ	58	amod	
+60	...	_	_	0	dep	
+61	{d}szul-gi	Szulgi	NNP	57	compound	
+62	TUR	for	IN	57	nmod:for	
+63	...	_	_	0	dep	
+64	n	_	:	58	_	
+65	...	_	_	0	dep	
+66	da-an-da-an-da	for Dandanda	NNP	58	nmod:for	
+67	n	_	:	58	_	
+68	...	_	NN	58	nmod:for	
+69	{d}nin-gal	for Ningal	IN	68	nmod:for	
+70	...	for Ningal	JJ	68	dep	
+71	n	_	:	58	_	
+72	gu4-e-us2-sa	following oxen	NNS	58	conj	
+73	{d}nin-uri5{ki}	for Ninuri	NNP	72	nmod:for	
+74	n	_	:	58	_	
+75	...	_	_	0	dep	
+76	{d}szu-{d}suen-ki-ag2-...	Szu-Suen-kiag	NNP	58	nmod:poss	
+77	n	n	POS	76	nmod:'	
+78	...	_	_	0	dep	
+79	{d}...	for	IN	128	nmod:for	
+80	...	_	:	58	dep	
+81	...	_	_	0	dep	
+82	1(disz)	_	_	0	nummod	
+83	udu	sheep	NN	78	_	
+84	niga	barley-fed	JJ	83	amod	
+85	...-kal-la	for -kalla	NN	83	nmod:for	
+86	2(disz)	_	:	58	nummod	
+87	udu	sheep	NN	58	_	
+88	niga	barley-fed	JJ	87	amod	
+89	...	_	CD	92	dep	
+90	{d}nin-ku3-nun-na	for Ninkununa	NNP	87	nmod:for	
+91	2(disz)	_	:	92	nummod	
+92	udu	sheep	NN	58	_	
+93	niga	barley-fed	JJ	92	amod	
+94	2(disz)-kam	_	CD	98	nummod	
+95	us2	nd grade	NN	92	nmod:of	
+96	{d}gu-la	for Gula	NNP	92	nmod:for	
+97	1(disz)	_	:	58	nummod	
+98	udu	sheep	NN	92	_	
+99	niga	barley-fed	JJ	98	amod	
+100	1(disz)	_	_	0	nummod	
+101	sila4	lamb	NN	98	appos	
+102	{d}nin-e2-gal	for Nin-egal	JJ	98	nmod:for	
+103	giri3	via	IN	104	nmod:via	
+104	{d}suen-a-bu-szu	Suen-abuu cup-bearer	NN	58	nmod:via	
+105	sagi	_	,	104	_	
+106	u4	the th day	NN	104	appos	
+107	2(u)	_	,	104	nummod	
+108	8(disz)-kam	_	_	107	nummod	
+109	ki	from	IN	110	nmod:from	
+110	a-ba-{d}en-lil2-gin7-ta	Aba-Enlilgin	NNP	111	nmod:from	
+111	ba-zi	booked out	VBN	104	acl	
+112	sza3	in	IN	113	nmod:in	
+113	uri5{ki}-ma	Ur	NNP	104	nmod:in	
+114	giri3	via	IN	115	nmod:via	
+115	ur-{d}szul-gi-ra	Ur-Szulgi	NNP	104	nmod:via	
+116	szar2-ra-ab-du	arabdu	NN	115	appos	
+117	iti	month	NN	118	compound	
+118	u5-bi2-gu7	Ubi feast	NN	38	_	
+119	mu	year	NN	118	_	
+120	{d}szu-{d}suen	Szu-Suen	NNP	119	root	
+121	lugal	king	NN	120	appos	
+122	uri5{ki}-ma-ke4	Ur	NN	121	nmod:of	
+123	na-ru2-a-mah	grand-stele	NN	126	nsubj	
+124	{d}en-lil2	for Enlil	IN	125	nmod:for	
+125	{d}nin-lil2-ra	Ninlil	NNP	123	nmod:for	
+126	mu-ne-du3	erected	VBD	120	acl:relcl	
+127	4(u)	_	IN	122	nummod	
+128	 	_	_	0	_
+	
+

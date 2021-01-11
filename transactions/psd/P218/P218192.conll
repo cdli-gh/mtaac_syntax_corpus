@@ -1,0 +1,54 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P218/P218192.conll #
+##############################################################################################
+
+#new_text=P218192
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT_NAME (word *))
+id-gur2(MUNU4)		NU	NU	POS		(NUMBER (word *))
+a-hu-ni	Ahuni[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOBNAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT_NAME (word *))
+id-gur2(MUNU4)		NU	NU	POS		(NUMBER (word *))
+bi2-bi2	Bibi[1]	PN	PN	D		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOBNAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))
+id-gur2(MUNU4)		NU	NU	POS		(NUMBER (word *))
+{d}...	_[1][-'a]	MN	DN.GEN	D		(MONTH_NAME (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOBNAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+id-gur2	idgurum[ladle]	N	N	D		(UNKNOWN (word *))
+da-da-a	Dadaya[1][-ak]	PN	PN	D		(PN (word *))
+an-sza-an{ki}-ta	Anszan[1]-ta	SN	GN.ABL	D		(CITY (word *))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))))
+

@@ -1,0 +1,36 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P209/P209624.conll #
+##############################################################################################
+
+#new_text=P209624
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}kaskal	kaskal[travel_basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ba-an-si		V	V	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+a-gu-ta	Agu[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+min-esz3	Minesz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	D		(CITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-du10-ga	Luduga[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+lu2-{d}szara2	Luszara[1][-ak]	PN	PN	D		(PERSON (PN (word *)))))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))))
+

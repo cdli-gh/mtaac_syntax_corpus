@@ -1,0 +1,32 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P105/P105816.conll #
+##############################################################################################
+
+#new_text=P105816
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ta2-din-esz18-dar-sze3		PN	PN.GEN.TERM	Iabcdef		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+{d}szul-gi-a-a-mu-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PN (word *))
+ur-esz3-lil2-la2		PN	PN.GEN.ABS	Iabcdefgh		(PN (word *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+si-mu-ru{ki}		SN	SN	Ia		(CITY|NATIONALITY (word *))
+lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*))
+1(disz)-kam-asz		NU	NU.GEN.COP-3-SG.TERM	Iab	B-COUNT	(NUMBER (COUNT *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

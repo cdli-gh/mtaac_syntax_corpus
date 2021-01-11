@@ -1,0 +1,41 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P104/P104915.conll #
+#########################################################################################
+
+#new_text=P104915
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+zabar-dab5	zabardab[official][-e]	N	N	D		(UNKNOWN (word *))
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+ur-gi7		N	N.GEN	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+sipa-bi		PN	PN	POS		(PN (word *))
+da-na-pu2		PN	PN	POS		(PERSON (PN (word *))
+sipa	sipa[shepherd]	N	N	D		(JOB (JOBNAME (word *))))
+ur-ra		PN	PN.GEN.ABL	Iabcdefgh	B-COM	(PRODUCT_NAME (COM *)))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+puzur4-{d}inanna		PN	PN.GEN.ABL	Iabcdefgh		(AGENT (PERSON (PN (word *))))
+i3-du8	idu[doorkeeper][-ø]	PN	N.GEN.ABS	D		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+pa-x		PN	PN	POS		(PN (word *))
+x-x-x	_[1]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{gesz}gu-za	guza[chair]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D		(GOD|GOD_NAME (word *))
+ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

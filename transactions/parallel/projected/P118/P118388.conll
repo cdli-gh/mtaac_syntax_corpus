@@ -1,0 +1,518 @@
+# dev/P118388.atf
+						
+
+# tr.en: gur barig ban shekels butter oil gur ban sila shekels kak cheese debits of year Amar-Suen king destroyed Urbilum gur barig ban sila butter oil gur ban sila kak cheese from Lu-Zabala barig butter oil barig kak cheese from Ur-Mami gur sila butter oil gur barig ban sila kak cheese from Ur-nigar ban butter oil barig ban sila kak cheese from Duge ban butter oil barig kak cheese from Szara-amu ban butter oil barig kak cheese from Lugal-unire barig ban sila butter oil gur sila kak cheese from Szekala barig sila butter oil barig ban sila kak cheese from Ur-Suda barig ban butter oil barig ban sila kak cheese from Guzana ban butter oil barig ban sila kak cheese from Budu barig ban sila butter oil barig ban sila kak cheese from Albanidu barig ban sila butter oil barig sila kak cheese from USz ban butter oil ban kak cheese from Akiar its uGIR barig ban sila ban sila oil for Barge total gur barig ban sila shekels butter oil total gur barig ban sila shekels kak cheese therefrom barig sila butter oil ban sila sumac-cheese barig ban sila kak cheese via Ur-Szakkan gur barig ban sila yellowed milk via Kas booked out of bala of year Amar-Suen king destroyed Urbilum barig ban sila butter oil ban sila sumac-cheese barig ban sila kak cheese via Ur-Szakkan gur barig sila yellowed milk ban sila kak cheese via Kas booked out of bala of year silvery chair of Enlil was fashioned mana shekel silver the first time mana shekels silver the second time via Lukala shekels silver via Ur-Szara chief accountant shekels grains silver via Lu-Zabala its stone overhead shekel grains silver its butter oil gur barig ban sila shekels ban sila butter oil ban sila yellowed milk first sadu-allotment sila butter oil second sadu-allotment barig yellowed milk beer festival when king went to Umma their sealed documents to be entered to debit account of Lukala barig ban sila butter oil barig sila kak cheese sila yellowed milk under seal of Lukala to be entered to debit account of Ur-ee gur barig ban sila shekels butter oil gur barig ban sila sumac-cheese gur barig ban sila kak cheese gur barig ban yellowed milk under seal of Ur-Szulpae total gur barig ban sila shekels butter oil total gur sila shekels sumac-cheese its kak cheese gur ban sila shekels total gur barig ban sila kak cheese total gur barig ban sila yellowed milk its butter oil barig ban sila shekels its kak cheese barig ban sila shekels total gur ban sila shekels butter oil total gur barig ban sila shekels kak cheese booked out the deficit gur barig ban sila shekels butter oil gur barig ban sila shekels kak cheese are deficit account of butter oil and kak cheese of Atu chief cattle manager year silver-chair of Enlil was fashioned
+1	6(asz)	_	,	8	nummod	
+2	1(barig)	_	CD	19	nummod	
+3	5(ban2)	_	_	0	nummod	
+4	1(u)	_	_	3	nummod	
+5	7(disz)	barig ban	NN	3	nummod	
+6	1/2(disz)	barig ban	NN	8	nummod	
+7	gin2	shekels	NNS	8	compound	
+8	i3-nun	butter oil	NN	5	_	
+9	gur	gur	NN	5	compound	
+10	1(u)	_	,	18	nummod	
+11	3(asz)	_	_	10	nummod	
+12	1(ban2)	_	_	10	nummod	
+13	8(disz)	_	_	10	nummod	
+14	2/3(disz)	ban	NN	19	nummod	
+15	sila3	sila	NN	17	compound	
+16	8(disz)	_	_	0	nummod	
+17	gin2	shekels	NNS	14	_	
+18	ga-UD@g	kak cheese	NN	17	_	
+19	gur	gur	NN	8	appos	
+20	si-i3-tum	debits	NNS	18	appos	
+21	mu	year	NN	20	nmod:of	
+22	{d}amar-{d}suen	Amar-Suen	NNP	25	nsubj	
+23	lugal-e	king	NN	22	appos	
+24	ur-bi2-lum{ki}	Urbilum	NN	25	dobj	
+25	mu-hul	destroyed	VBD	18	acl	
+26	1(asz)	_	,	32	nummod	
+27	1(barig)	_	CD	39	nummod	
+28	5(ban2)	_	_	27	nummod	
+29	5(disz)	barig ban	NN	32	nummod	
+30	sila3	sila	NN	31	compound	
+31	i3-nun	butter oil	NN	29	_	
+32	gur	gur	NN	5	_	
+33	2(asz)	_	,	32	nummod	
+34	2(ban2)	_	_	33	nummod	
+35	2(disz)	_	_	33	nummod	
+36	1/2(disz)	ban	NN	38	nummod	
+37	sila3	sila	NN	38	compound	
+38	ga-UD@g	kak cheese	NN	39	_	
+39	gur	gur	NN	32	appos	
+40	ki	from	IN	41	nmod:from	
+41	lu2-zabala3{ki}-ta	Lu-Zabala	NNP	32	nmod:from	
+42	2(barig)	barig	NN	43	nummod	
+43	i3-nun	butter oil	NN	32	conj	
+44	3(barig)	barig	NN	45	nummod	
+45	ga-UD@g	kak cheese	NN	43	appos	
+46	ki	from	IN	47	nmod:from	
+47	ur-{d}ma-mi-ta	Ur-Mami	NNP	43	nmod:from	
+48	1(asz)	_	,	51	nummod	
+49	5(disz)	_	CD	59	nummod	
+50	sila3	sila	NN	51	compound	
+51	i3-nun	butter oil	NN	43	conj	
+52	gur	gur	NN	51	compound	
+53	1(asz)	_	,	51	nummod	
+54	2(barig)	_	_	53	nummod	
+55	3(ban2)	_	_	53	nummod	
+56	7(disz)	barig ban	NN	59	nummod	
+57	sila3	sila	NN	58	compound	
+58	ga-UD@g	kak cheese	NN	56	_	
+59	gur	gur	NN	51	appos	
+60	ki	from	IN	61	nmod:from	
+61	ur-nigar{gar}-ta	Ur-nigar	NN	51	nmod:from	
+62	5(ban2)	ban	NN	63	nummod	
+63	i3-nun	butter oil	NN	43	conj	
+64	1(barig)	_	,	63	nummod	
+65	1(ban2)	_	_	64	nummod	
+66	5(disz)	barig ban	NN	63	nummod	
+67	sila3	sila	NN	68	compound	
+68	ga-UD@g	kak cheese	NN	66	_	
+69	ki	from	IN	70	nmod:from	
+70	du11-ge-ta	Duge	NNP	63	nmod:from	
+71	4(ban2)	ban	NN	72	nummod	
+72	i3-nun	butter oil	NN	43	conj	
+73	1(barig)	barig	NN	74	nummod	
+74	ga-UD@g	kak cheese	NN	72	appos	
+75	ki	from	IN	76	nmod:from	
+76	{d}szara2-a-mu-ta	Szara-amu	NN	72	nmod:from	
+77	4(ban2)	ban	NN	78	nummod	
+78	i3-nun	butter oil	NN	43	conj	
+79	1(barig)	barig	NN	80	nummod	
+80	ga-UD@g	kak cheese	NN	78	appos	
+81	ki	from	IN	82	nmod:from	
+82	lugal-szu-nir-re-ta	Lugal-unire	NN	78	nmod:from	
+83	3(barig)	_	,	78	nummod	
+84	2(ban2)	_	CD	92	nummod	
+85	5(disz)	barig ban	NN	78	nummod	
+86	sila3	sila	NN	87	compound	
+87	i3-nun	butter oil	NN	85	_	
+88	1(asz)	_	,	78	nummod	
+89	7(disz)	_	_	88	nummod	
+90	1/2(disz)	_	_	88	nummod	
+91	sila3	sila	NN	92	compound	
+92	ga-UD@g	kak cheese	NN	78	appos	
+93	gur	gur	NN	92	compound	
+94	ki	from	IN	95	nmod:from	
+95	szesz-kal-la-ta	Szekala	NNP	78	nmod:from	
+96	1(barig)	_	,	99	nummod	
+97	5(disz)	barig	NN	96	nummod	
+98	sila3	sila	NN	99	compound	
+99	i3-nun	butter oil	NN	43	conj	
+100	1(barig)	_	,	99	nummod	
+101	3(ban2)	_	_	100	nummod	
+102	7(disz)	_	_	100	nummod	
+103	1/2(disz)	barig ban	NN	99	nummod	
+104	sila3	sila	NN	105	compound	
+105	ga-UD@g	kak cheese	NN	103	_	
+106	ki	from	IN	107	nmod:from	
+107	ur-{d}su4-da-ta	Ur-Suda	NNP	99	nmod:from	
+108	1(barig)	_	,	110	nummod	
+109	1(ban2)	barig ban	NN	108	nummod	
+110	i3-nun	butter oil	NN	43	conj	
+111	1(barig)	_	,	110	nummod	
+112	4(ban2)	_	_	111	nummod	
+113	5(disz)	barig ban	NN	110	nummod	
+114	sila3	sila	NN	115	compound	
+115	ga-UD@g	kak cheese	NN	113	_	
+116	ki	from	IN	117	nmod:from	
+117	gu-za-<na>-ta	Guzana	NNP	110	nmod:from	
+118	5(ban2)	ban	NN	119	nummod	
+119	i3-nun	butter oil	NN	43	conj	
+120	1(barig)	_	,	119	nummod	
+121	1(ban2)!	_	_	120	nummod	
+122	5(disz)	barig ban	NN	119	nummod	
+123	sila3	sila	NN	124	compound	
+124	ga-UD@g	kak cheese	NN	122	_	
+125	ki	from	IN	126	nmod:from	
+126	bu3-du-ta	Budu	NNP	119	nmod:from	
+127	1(barig)	_	,	129	nummod	
+128	1(ban2)	_	CD	135	nummod	
+129	5(disz)	barig ban	NN	43	nummod	
+130	sila3	sila	NN	131	compound	
+131	i3-nun	butter oil	NN	129	_	
+132	1(barig)	_	,	129	nummod	
+133	5(ban2)	_	_	129	nummod	
+134	2(disz)	_	_	129	nummod	
+135	1/2(disz)	barig ban	NN	129	nummod	
+136	sila3	sila	NN	137	compound	
+137	ga-UD@g	kak cheese	NN	135	_	
+138	ki	from	IN	139	nmod:from	
+139	al-ba-ni-du11-ta	Albanidu	NNP	129	nmod:from	
+140	1(barig)	_	,	142	nummod	
+141	2(ban2)	_	CD	148	nummod	
+142	5(disz)	barig ban	NN	43	nummod	
+143	sila3	sila	NN	144	compound	
+144	i3-nun	butter oil	NN	142	_	
+145	2(barig)	_	,	142	nummod	
+146	7(disz)	barig	NN	148	nummod	
+147	sila3	sila	NN	148	compound	
+148	ga-UD@g	kak cheese	NN	142	appos	
+149	ki	from	IN	150	nmod:from	
+150	USZ-ta	USz	NN	142	nmod:from	
+151	2(ban2)	ban	NN	152	nummod	
+152	i3-nun	butter oil	NN	43	conj	
+153	3(ban2)	ban	NN	154	nummod	
+154	ga-UD@g	kak cheese	NN	152	appos	
+155	ki	from	IN	156	nmod:from	
+156	a-ki-szar-ta	Akiar	NNP	152	nmod:from	
+157	szu-GIR2@g-bi	its uGIR	NNP	43	conj	
+158	1(barig)	_	:	43	nummod	
+159	4(ban2)	_	CD	167	nummod	
+160	2(disz)	_	_	159	nummod	
+161	2/3(disz)	barig ban	NN	157	nummod	
+162	sila3	sila	NN	161	_	
+163	2(ban2)	_	NN	167	nummod	
+164	2(disz)	ban	NN	163	nummod	
+165	1/2(disz)	_	:	43	nummod	
+166	sila3	sila	NN	167	compound	
+167	i3	oil	NN	43	conj	
+168	ma2-gur8-ra	for	IN	163	nmod:for	
+169	szunigin	total	NN	43	_	
+170	1(u)	_	,	169	nummod	
+171	1(asz)	_	_	170	nummod	
+172	4(barig)	_	_	170	nummod	
+173	3(ban2)	_	_	170	nummod	
+174	5(disz)	_	_	170	nummod	
+175	1/3(disz)	barig ban	NN	181	nummod	
+176	sila3	sila	NN	180	compound	
+177	7(disz)	_	_	0	nummod	
+178	1/2(disz)	_	_	177	nummod	
+179	gin2	shekels	NNS	180	compound	
+180	i3-nun	butter oil	NN	175	_	
+181	gur	gur	NN	169	_	
+182	szunigin	total	NN	169	appos	
+183	2(u)	_	,	192	nummod	
+184	3(barig)	_	_	183	nummod	
+185	4(ban2)	_	_	183	nummod	
+186	8(disz)	_	_	183	nummod	
+187	2/3(disz)	barig ban	NN	192	nummod	
+188	sila3	sila	NN	190	compound	
+189	8(disz)	_	_	0	nummod	
+190	gin2	shekels	NNS	187	_	
+191	ga-UD@g	kak cheese	NN	190	_	
+192	gur	gur	NN	169	_	
+193	sza3-bi-ta	therefrom	RB	192	advmod	
+194	3(barig)	_	,	197	nummod	
+195	4(disz)	barig	NN	194	nummod	
+196	sila3	sila	NN	197	compound	
+197	i3-nun	butter oil	NN	192	_	
+198	2(ban2)	_	,	197	nummod	
+199	9(disz)	ban	NN	202	nummod	
+200	sila3	sila	NN	202	compound	
+201	ga	_	CD	205	nummod	
+202	gazi	sumac-cheese	NN	197	conj	
+203	2(barig)	_	,	197	nummod	
+204	4(ban2)	_	_	203	nummod	
+205	4(disz)	barig ban	NN	197	nummod	
+206	sila3	sila	NN	207	compound	
+207	ga-UD@g	kak cheese	NN	205	_	
+208	giri3	via	IN	209	nmod:via	
+209	ur-{d}szakkan	Ur-Szakkan	NNP	197	nmod:via	
+210	1(asz)	_	,	216	nummod	
+211	3(barig)	_	_	210	nummod	
+212	2(ban2)	_	_	210	nummod	
+213	8(disz)	barig ban	NN	216	nummod	
+214	sila3	sila	NN	215	compound	
+215	ga-szex(SIG7)-a	yellowed milk	NN	213	_	
+216	gur	gur	NN	197	conj	
+217	giri3	via	IN	218	nmod:via	
+218	kas4	Kas	NNP	216	nmod:via	
+219	zi-ga	booked out	VBN	197	acl	
+220	bala-a	bala	NN	219	nmod:out.of	
+221	mu	year	NN	220	nmod:of	
+222	{d}amar-{d}suen	Amar-Suen	NNP	225	nsubj	
+223	lugal-e	king	NN	222	appos	
+224	ur-bi2-lum{ki}	Urbilum	NN	225	dobj	
+225	mu-hul	destroyed	VBD	197	acl	
+226	2(barig)	_	,	229	nummod	
+227	3(ban2)	_	CD	234	nummod	
+228	8(disz)	_	_	227	nummod	
+229	1/3(disz)	barig ban	NN	32	nummod	
+230	sila3	sila	NN	232	compound	
+231	i3-nun	butter oil	NN	232	compound	
+232	4(ban2)	butter oil	NN	229	nummod	
+233	6(disz)	_	,	229	nummod	
+234	1/3(disz)	ban	NN	229	nummod	
+235	sila3	sila	NN	237	compound	
+236	ga	_	_	0	_	
+237	gazi	sumac-cheese	NN	234	_	
+238	1(barig)	_	,	229	nummod	
+239	1(ban2)	_	_	229	nummod	
+240	2(disz)	barig ban	NN	229	nummod	
+241	sila3	sila	NN	242	compound	
+242	ga-UD@g	kak cheese	NN	240	_	
+243	giri3	via	IN	244	nmod:via	
+244	ur-{d}szakkan	Ur-Szakkan	NNP	229	nmod:via	
+245	1(asz)	_	,	250	nummod	
+246	3(barig)	_	CD	254	nummod	
+247	8(disz)	barig	NN	249	nummod	
+248	sila3	sila	NN	249	compound	
+249	ga-szex(SIG7)-a	yellowed milk	NN	250	_	
+250	gur	gur	NN	32	conj	
+251	5(ban2)	_	,	250	nummod	
+252	4(disz)	ban	NN	254	nummod	
+253	sila3	sila	NN	254	compound	
+254	ga-UD@g	kak cheese	NN	250	appos	
+255	giri3	via	IN	256	nmod:via	
+256	kas4	Kas	NNP	250	nmod:via	
+257	zi-ga	booked out	VBN	32	acl	
+258	<bala-a>	bala	NN	257	nmod:out.of	
+259	mu	year	NN	258	nmod:of	
+260	ku3	silvery	JJ	261	amod	
+261	gu-za	chair	NN	263	nsubjpass	
+262	{d}en-lil2-la2	Enlil	NNP	261	nmod:of	
+263	ba-dim2	was fashioned	VBN	32	acl	
+264	1/3(disz)	_	_	0	nummod	
+265	ma-na	mana	NN	268	compound	
+266	1(disz)	_	_	0	nummod	
+267	gin2	shekel	NN	268	compound	
+268	ku3-babbar	silver	NN	5	_	
+269	a-ra2	the first time	DT	268	det	
+270	1(disz)-kam	the first time	JJ	268	nummod	
+271	2/3(disz)	_	,	268	nummod	
+272	ma-na	mana	NN	275	compound	
+273	8(disz)	_	_	0	nummod	
+274	1/2(disz)	_	_	273	nummod	
+275	gin2	shekels	NNS	268	appos	
+276	ku3	silver	NN	275	amod	
+277	a-ra2	the second time	NN	276	_	
+278	2(disz)-kam	_	,	268	nummod	
+279	giri3	via	IN	280	nmod:via	
+280	lu2-kal-la	Lukala	NNP	268	nmod:via	
+281	9(disz)	_	,	268	nummod	
+282	gin2	shekels	NNS	280	appos	
+283	ku3	silver	NN	282	amod	
+284	giri3	via	IN	285	nmod:via	
+285	ur-{d}szara2	Ur-Szara	NNP	268	nmod:via	
+286	sza13-dub-ba	chief accountant	NN	285	_	
+287	9(disz)	_	_	0	nummod	
+288	2/3(disz)	_	_	287	nummod	
+289	gin2	shekels	NNS	293	nmod:npmod	
+290	1(u)	_	_	0	nummod	
+291	5(disz)	_	_	290	nummod	
+292	sze	grains	NNS	293	nmod:npmod	
+293	ku3	silver	JJ	268	amod	
+294	giri3	via	IN	295	nmod:via	
+295	lu2-zabala3{ki}	Lu-Zabala	NNP	293	nmod:via	
+296	sag	its	PRP$	297	nmod:poss	
+297	na4-bi	stone overhead	NN	268	appos	
+298	1(disz)	_	,	302	nummod	
+299	1/3(disz)	_	_	298	nummod	
+300	gin2	shekel	NN	302	compound	
+301	2/3(disz)	_	_	0	nummod	
+302	sze	grains	NNS	268	_	
+303	ku3	silver	NN	302	amod	
+304	i3-nun-bi	its butter oil	NN	302	appos	
+305	2(asz)	_	:	302	nummod	
+306	4(barig)	_	CD	318	nummod	
+307	5(ban2)	_	_	306	nummod	
+308	5(disz)	_	_	306	nummod	
+309	2/3(disz)	barig ban	NN	314	nummod	
+310	sila3	sila	NN	309	_	
+311	1(u)	_	_	0	nummod	
+312	2(disz)	_	_	311	nummod	
+313	gin2	shekels	NNS	310	_	
+314	gur	gur	NN	302	_	
+315	1(ban2)	_	,	318	nummod	
+316	4(disz)	ban	NN	315	nummod	
+317	sila3	sila	NN	318	compound	
+318	i3-nun	butter oil	NN	302	_	
+319	2(ban2)	_	,	318	nummod	
+320	2(disz)	ban	NN	322	nummod	
+321	sila3	sila	NN	322	compound	
+322	ga-szex(SIG7)-a	yellowed milk	NN	318	conj	
+323	sa2-du11	sadu-allotment	NN	318	conj	
+324	a-ra2	first	JJ	323	amod	
+325	1(disz)-kam	_	,	318	nummod	
+326	3(disz)	_	,	325	nummod	
+327	sila3	sila	NN	328	compound	
+328	i3-nun	butter oil	NN	318	conj	
+329	sa2-du11	sadu-allotment	NN	318	conj	
+330	a-ra2	second	JJ	329	amod	
+331	2(disz)-kam	_	,	318	nummod	
+332	1(barig)	_	NN	331	nummod	
+333	ga-szex(SIG7)-a	yellowed milk	JJ	332	amod	
+334	gibil-sze3	barig	NN	332	compound	
+335	kasz-de2-a	beer festival when	NN	318	appos	
+336	lugal	king	NN	338	nsubj	
+337	umma{ki}-sze3	to Umma	NNP	338	nmod:to	
+338	gen-na	went	VBD	335	acl:relcl	
+339	kiszib3-bi	their sealed documents	NNS	318	appos	
+340	4(disz)-am3	_	:	318	nummod	
+341	ugu2	_	:	302	_	
+342	lu2-kal-la	Lukala	NNP	318	nmod:of	
+343	ga2-ga2-dam	to be entered to debit account	TO	318	mark	
+344	1(barig)	to be entered to debit account	VB	318	nummod	
+345	1(ban2)	to be entered to debit account	NN	318	nummod	
+346	8(disz)	_	,	302	nummod	
+347	1/2(disz)	_	CD	354	nummod	
+348	sila3	sila	NN	350	compound	
+349	i3-nun	butter oil	NN	350	compound	
+350	3(barig)	butter oil	NN	302	nummod	
+351	5(disz)	_	,	350	nummod	
+352	2/3(disz)	_	CD	357	nummod	
+353	sila3	sila	NN	354	compound	
+354	ga-UD@g	kak cheese	NN	302	conj	
+355	7(disz)	_	,	302	nummod	
+356	sila3	sila	NN	357	compound	
+357	ga-szex(SIG7)-a	yellowed milk	NN	302	conj	
+358	kiszib3	under seal	NN	302	nmod:under	
+359	lu2-kal-la	Lukala	NNP	358	nmod:of	
+360	ugu2	_	``	372	_	
+361	ur-e11-e	Ur-ee	JJ	372	amod	
+362	ga2-ga2-dam	to be entered to debit account	VBN	302	acl	
+363	3(asz)	_	,	372	nummod	
+364	1(barig)	_	CD	381	nummod	
+365	3(ban2)	_	_	364	nummod	
+366	3(disz)	barig ban	NN	372	nummod	
+367	sila3	sila	NN	371	compound	
+368	2(disz)	_	_	0	nummod	
+369	1/2(disz)	_	_	368	nummod	
+370	gin2	shekels	NNS	371	compound	
+371	i3-nun	butter oil	NN	366	_	
+372	gur	gur	NN	362	nmod:of	
+373	1(asz)	_	,	372	nummod	
+374	3(barig)	_	CD	389	nummod	
+375	5(ban2)	_	_	374	nummod	
+376	2(disz)	_	_	374	nummod	
+377	5/6(disz)	barig ban	NN	381	nummod	
+378	sila3	sila	NN	380	compound	
+379	ga	_	_	0	_	
+380	gazi	sumac-cheese	NN	377	_	
+381	gur	gur	NN	372	conj	
+382	4(asz)	_	,	372	nummod	
+383	3(barig)	_	CD	394	nummod	
+384	2(ban2)	_	_	383	nummod	
+385	3(disz)	_	_	383	nummod	
+386	1/3(disz)	barig ban	NN	389	nummod	
+387	sila3	sila	NN	388	compound	
+388	ga-UD@g	kak cheese	NN	386	_	
+389	gur	gur	NN	372	conj	
+390	3(asz)	_	,	372	nummod	
+391	3(barig)	_	_	390	nummod	
+392	5(ban2)	barig ban	NN	393	nummod	
+393	ga-szex(SIG7)-a	yellowed milk	NN	394	_	
+394	gur	gur	NN	372	appos	
+395	kiszib3	under seal	NN	362	nmod:under	
+396	ur-{d}szul-pa-e3	Ur-Szulpae	NNP	395	nmod:of	
+397	szunigin	total	NN	302	_	
+398	7(asz)	_	,	302	nummod	
+399	3(barig)	_	_	398	nummod	
+400	4(ban2)	_	_	398	nummod	
+401	6(disz)	_	_	398	nummod	
+402	2/3(disz)	barig ban	NN	408	nummod	
+403	sila3	sila	NN	402	_	
+404	4(disz)	_	_	0	nummod	
+405	1/2(disz)	_	_	404	nummod	
+406	gin2	shekels	NNS	407	compound	
+407	i3-nun	butter oil	NN	403	_	
+408	gur	gur	NN	397	_	
+409	szunigin	total	NN	302	appos	
+410	2(asz)	_	,	417	nummod	
+411	8(disz)	_	_	410	nummod	
+412	sila3	sila	NN	414	compound	
+413	1(u)	_	_	0	nummod	
+414	gin2	shekels	NNS	417	_	
+415	ga	_	_	0	_	
+416	gazi	sumac-cheese	JJ	414	amod	
+417	gur	gur	NN	302	_	
+418	ga-UD@g-bi	its kak cheese	NN	417	appos	
+419	3(asz)	_	,	421	nummod	
+420	1(ban2)	_	_	419	nummod	
+421	2(disz)	gur ban	NN	417	nummod	
+422	sila3	sila	NN	421	_	
+423	1(u)	_	_	0	nummod	
+424	5(disz)	_	_	423	nummod	
+425	gin2	shekels	NNS	422	_	
+426	szunigin	total	NN	421	appos	
+427	6(asz)	_	,	432	nummod	
+428	1(barig)	_	_	427	nummod	
+429	1(ban2)	_	_	427	nummod	
+430	9(disz)	barig ban	NN	432	nummod	
+431	ga-UD@g	sila kak cheese	NN	430	_	
+432	gur	gur	NN	421	_	
+433	szunigin	total	JJ	432	amod	
+434	7(asz)	_	,	432	nummod	
+435	1(barig)	_	_	434	nummod	
+436	5(ban2)	_	_	434	nummod	
+437	5(disz)	barig ban	NN	440	nummod	
+438	sila3	sila	NN	439	compound	
+439	ga-szex(SIG7)-a	yellowed milk	NN	437	_	
+440	gur	gur	NN	433	_	
+441	i3-nun-bi	its butter oil	PRP$	432	nmod:poss	
+442	1(barig)	its butter oil	NN	432	nummod	
+443	5(ban2)	_	,	432	nummod	
+444	2/3(disz)	_	_	443	nummod	
+445	sila3	sila	NN	432	_	
+446	5(disz)	_	_	0	nummod	
+447	gin2	shekels	NNS	445	_	
+448	ga-UD@g-bi	its kak cheese	PRP$	432	nmod:poss	
+449	2(barig)	its kak cheese	NN	432	nummod	
+450	4(ban2)	_	:	302	nummod	
+451	6(disz)	_	_	450	nummod	
+452	sila3	sila	NN	432	_	
+453	7(disz)	_	_	0	nummod	
+454	1/2(disz)	_	_	453	nummod	
+455	gin2	shekels	NNS	452	_	
+456	szunigin	total	NN	302	_	
+457	8(asz)	_	,	302	nummod	
+458	3(ban2)	_	_	457	nummod	
+459	7(disz)	_	_	457	nummod	
+460	1/3(disz)	ban	NN	466	nummod	
+461	sila3	sila	NN	465	compound	
+462	9(disz)	_	_	0	nummod	
+463	1/2(disz)	_	_	462	nummod	
+464	gin2	shekels	NNS	465	compound	
+465	i3-nun	butter oil	NN	460	_	
+466	gur	gur	NN	456	_	
+467	szunigin	total	NN	302	appos	
+468	9(asz)	_	,	478	nummod	
+469	4(barig)	_	_	468	nummod	
+470	1(ban2)	_	_	468	nummod	
+471	7(disz)	_	_	468	nummod	
+472	1/3(disz)	barig ban	NN	478	nummod	
+473	sila3	sila	NN	476	compound	
+474	2(disz)	_	_	0	nummod	
+475	1/2(disz)	_	_	474	nummod	
+476	gin2	shekels	NNS	472	_	
+477	ga-UD@g	kak cheese	NN	476	_	
+478	gur	gur	NN	302	_	
+479	zi-ga-am3	booked out	VBN	478	acl	
+480	la2-ia3	the deficit	NN	478	_	
+481	3(asz)	_	,	490	nummod	
+482	3(barig)	_	CD	501	nummod	
+483	5(ban2)	_	_	482	nummod	
+484	7(disz)	_	_	482	nummod	
+485	5/6(disz)	barig ban	NN	490	nummod	
+486	sila3	sila	NN	489	compound	
+487	8(disz)	_	_	0	nummod	
+488	gin2	shekels	NNS	489	compound	
+489	i3-nun	butter oil	NN	485	_	
+490	gur	gur	NN	502	nsubj	
+491	1(u)	_	,	490	nummod	
+492	4(barig)	_	_	491	nummod	
+493	3(ban2)	_	_	491	nummod	
+494	1(disz)	_	_	491	nummod	
+495	1/3(disz)	barig ban	NN	501	nummod	
+496	sila3	sila	NN	499	compound	
+497	5(disz)	_	_	0	nummod	
+498	1/2(disz)	_	_	497	nummod	
+499	gin2	shekels	NNS	495	_	
+500	ga-UD@g	kak cheese	NN	499	_	
+501	gur	gur	NN	490	appos	
+502	la2-ia3-am3	are deficit	NN	480	_	
+503	nig2-ka9-ak	account	NN	502	conj	
+504	i3-nun	butter oil	NN	503	nmod:of	
+505	ga-ar3	and kak cheese	CC	504	cc	
+506	a-tu	Atu	NNP	504	nmod:of	
+507	szusz3	chief cattle manager	NN	503	appos	
+508	mu	year	NN	502	conj	
+509	ku3	_	.	5	_	
+510	gu-za	silver-chair	NN	512	nsubjpass	
+511	{d}en-lil2-la2	Enlil	NNP	510	nmod:of	
+512	ba-dim2	was fashioned	VBN	502	parataxis
+	
+

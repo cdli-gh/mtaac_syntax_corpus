@@ -1,0 +1,105 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P104/P104201.conll #
+#########################################################################################
+
+#new_text=P104201
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2	ab[cow][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dusu2-munus		N	N	Ia		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+sila4	sila[lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+u8	u[ewe]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+kir11	kir[female_lamb]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+ud5	uzud[goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *))))
+nu-a		V	V	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+ud5	uzud[goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{munus}asz2-gar3	aszgar[female_kid]	PN	N	D		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dusu2		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *)))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *)))
+9(gesz2)	9(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *)))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+bala	bala[turn][-'a]	N	N.L1	D		(BALA (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD|GOD_NAME (word *))
+bala	bala[turn][-'a]	N	N.L1	D	B-COM	(PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+bala	bala[turn][-'a]	N	N.L1	D	B-COM	(PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+{d}nin-gal	Ningal[1]	DN	DN	D		(GOD|GOD_NAME (word *))
+bala	bala[turn][-'a]	N	N.L1	D	B-COM	(PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+szabra	szabra[chief_administrator][-ak]	N	N	D		(JOBNAME (word *))
+an-na	An[1][-ak][-ak][sze]	PN	DN.GEN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))))
+

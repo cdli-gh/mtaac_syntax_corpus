@@ -1,0 +1,31 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P103/P103595.conll #
+##############################################################################################
+
+#new_text=P103595
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *)))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+gal	gal[big][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+szu-gid2	szugid[animal_designation][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-ba-{d}en-lil2-gin7-ta	Aba'enlilgin[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+gaba-ri	gabari[copy]	N	N	D		(GABARI (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ab-ba-kal-la	Abbakala[1][-ak][-ak]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}i-bi2-{d}suen	Ibbisuen[1]	RN	RN	D		(PN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *)))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))))
+

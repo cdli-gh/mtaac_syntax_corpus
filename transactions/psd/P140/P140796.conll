@@ -1,0 +1,53 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P140/P140796.conll #
+##############################################################################################
+
+#new_text=P140796
+5(bur3)	5(bur)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+1/2(iku)	1/2(iku)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+tug2-gur10	tuggur[plow][-ø]	V	N.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+5(iku)	5(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gesz-ur3-ra-ta		FN	FN	POS		(CITY (word *))
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D		(UNKNOWN (word *))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+tug2-gur10	tuggur[plow][-ø]	V	N.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1/2(iku)	1/2(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+gesz-ur3-ra	geszur[harrow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+5(iku)	5(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *))
+GAN2-ta	gana[field]-ta	N	N.ABL	D		(PRODUCT_NAME (word *))
+szuku	szukur[prebend_land]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2-gu2-gal	Szaragugal[1][-ak][-'a]	FN	PN.GEN.L1	D		(CITY (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+gu2-tar		PN	PN.GEN	Iabcdefgh		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+a-gu-gu	Agugu[1][-ak]	PN	PN.GEN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+da-da	Dada[1][-ak]	PN	PN	D		(PN (word *))))
+

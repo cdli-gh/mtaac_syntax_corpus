@@ -1,0 +1,37 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P378/P378545.conll #
+#########################################################################################
+
+#new_text=P378545
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+ud5	uzud[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+masz2	masz[goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+ga	ga[milk]	N	N	D		(PRODUCT_NAME (word *)))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *))
+e-sze-...		PN	PN.DAT-H	Iab		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+na4-ku-ru-da-ne		N	N	POS		(UNKNOWN (word *))
+ud5	uzud[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+masz2-nita2	masznita[male_goat][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+ud5	uzud[goat]	N	N	D		(PRODUCT_NAME (word *))
+si-il6-la		V	V	POS		(UNKNOWN (word *))
+szesz-szesz	Szeszszesz[1][-ak]	PN	PN.GEN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+masz-da3	maszda[gazelle][-ø]	N	N	D		(UNKNOWN (word *))
+gu7		V	NF.V.PF.F.3-SG-H-POSS.L1	Iabcdefg		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

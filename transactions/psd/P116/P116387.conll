@@ -1,0 +1,33 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P116/P116387.conll #
+##############################################################################################
+
+#new_text=P116387
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+lugal	lugal[king]	N	N	D		(PRODUCT_PARAM (word *)))))
+za-na-wi-li-ir		PN	PN.DAT-H	Iabcdef		(AGENT (PERSON (PN (word *)))))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+{d}szul-gi-en-szu-ba-ak		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ha-na-gu-ni-ir		PN	PN.DAT-H	Iabcdef		(AGENT (PERSON (PN (word *)))))
+sa12-rig7		N	N	Ia		(UNKNOWN (word *))
+gu-muszen-na-me-me		V	V	POS		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+{d}szul-gi-kalam-ma-me-te-bi		PN	PN.GEN.ABS	Iabcdef		(PERSON (PN (word *))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+{d}szul-gi-ur-szu-ru-uk		PN	PN	Ia		(PERSON (PN (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ur-{d}ig-alim-ta		PN	PN.GEN.GEN.ABL	Iab		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY (word *))))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+na-mu		PN	PN.GEN.ABS	D		(PERSON (PN (word *))))))))
+

@@ -1,0 +1,248 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P102/P102561.conll #
+#########################################################################################
+
+#new_text=P102561
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+8(bur3)	8(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+2(iku)	2(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+lugal-im-nun-e		N	N	POS		(UNKNOWN (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *)))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+nin-amasz-zi		FN	FN	POS		(CITY (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+8(bur3)	8(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+ur-e2-an-na		PN	PN	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-a2-gal		FN	FN	POS		(CITY (word *))
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D		(UNKNOWN (word *))
+ulu3-di		N	N	POS		(UNKNOWN (word *))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+7(bur3)		NU	NU.GEN	Iabcdef	B-COUNT	(NUMBER (COUNT *
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+x-la		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ARAD2-mu	Aradmu[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *))))))
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D		(UNKNOWN (word *))
+ku-li	Kuli[1]	PN	PN	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a-gesztin-na-GAN2-pa3-a		FN	FN	POS		(CITY (word *))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+8(asz)	8(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+7(bur3)		NU	NU.GEN	Iabcdef	B-COUNT	(NUMBER (COUNT *
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	D		(AGENT (PERSON (PN (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *))))))
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D		(UNKNOWN (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+da-ze2		FN	FN	POS		(CITY (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+8(bur3)	8(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D		(PN (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+e2-lugal-ku3-ga		FN	FN	POS		(CITY (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*))
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+9(bur3)	9(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*)))
+9(asz)	9(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-{d}nin-dar-a	Lunindara[1]	PN	PN	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a-|LAGABxX|-tur		FN	FN	POS		(CITY (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+8(bur3)	8(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+5(iku)	5(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+3(asz)	3(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ki-sza-ra		N	N	Ia		(UNKNOWN (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *)))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+du6-ge6		FN	FN	POS		(CITY (word *))
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D		(UNKNOWN (word *))
+lugal-me3		PN	PN.GEN.GEN	Iabcdef		(PN (word *))
+6(gesz2)	6(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+7(bur3)		NU	NU.GEN	Iabcdef	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+4(iku)	4(iku)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+mun-gazi		N	N	Ia		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *)))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+6(bur3)	6(bur)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *)
+n	_(_)[_]	NU	NU	D		(word *))
+GAN2	gana[field]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+7(asz)	7(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+dumu-da-ba		N	N	Ia		(UNKNOWN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dumu-gu4-gur	dumugugur[worker][-ak]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ma2-gur8-re	Magure[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *))))))
+GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	D		(UNKNOWN (word *))
+lu2-{d}ha-ia3	Luha'ia[1]	PN	PN	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+du6-ge6		FN	FN	POS		(CITY (word *))
+5(gesz2)	5(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+ur-e2-babbar2		PN	PN.GEN.ABS	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+e2-lugal-...		FN	FN	POS		(CITY (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+lugal-iri-da	Lugalirida[1][-e]	PN	PN.ERG	D		(PN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))))
+e3-a	e[leave]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+lugal-iri-da	Lugalirida[1][-e]	PN	PN.ERG	D		(PN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-dar-a		DN	DN	D		(GOD (word *))
+ur-{d}lamma	Urlamma[1]	PN	PN	D		(PERSON (PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOB (JOBNAME (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOB (JOBNAME (word *))
+{d}nanna	Nanna[1][-ak]	DN	DN	D		(GOD (word *)))
+masz-e	masz[goat]-e	N	N.L3-NH	D		(PRODUCT_NAME (word *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *))))
+

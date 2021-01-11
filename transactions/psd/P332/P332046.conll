@@ -1,0 +1,53 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P332/P332046.conll #
+#########################################################################################
+
+#new_text=P332046
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+gu2	gun[unit]	N	N	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*))
+sa	sa[bundle]	N	N	D		(UNIT (word *)))
+szum2-sikil		V	V	POS		(UNKNOWN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+igi-sag	igisag[choose][-a]	N	NF.V.PT	D		(UNKNOWN (word *))
+szum2-sikil		V	V	POS	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+en-du8-du		FN	FN	POS		(CITY (word *))
+...	_[_]	PN	N	D		(PN (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gu2	gun[unit]	N	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+sa	sa[bundle]	N	N	D		(UNIT (word *)))
+szum2-sikil		V	V	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *)))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sze-lu2		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	*))
+igi-sag	igisag[choose][-a]	N	NF.V.PT	D		(UNKNOWN (word *))
+ri		V	NF.V.PT.ABS	Iabcdef		(UNKNOWN (word *)))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+szum2	szum[garlic]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+tu-da		PN	NF.V.SUB	D		(PN (word *))
+szum2	szum[garlic]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+sikil		V	NF.V.3-SG-NH-POSS.GEN.DAT-H	Iabcdefg		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+sa6-ga		PN	NF.V.SUB	D		(PN (word *))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D		(PN (word *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

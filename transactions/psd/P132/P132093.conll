@@ -1,0 +1,37 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P132/P132093.conll #
+##############################################################################################
+
+#new_text=P132093
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+kal		V	V	POS		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+al-dab5-ba-ne		V	V	POS		(UNKNOWN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ab-ti	ba-b-teg[accept][-ø]	V	MID.3-SG-NH-A.V.3-SG-P	D		(UNKNOWN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	PN	D		(PN (word *))
+ma2-lah5	malah[sailor]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+lugal-tuku-a		PN	PN	POS		(PN (word *))
+{gesz}tukul-gu-la	tukulgal[big_weapon_carrier][-ra]	N	N.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+a-kal-la	Akala[1]	PN	PN	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+lu2-{d}nin-sun2		PN	PN	Iabcdefgh		(PN (word *))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *))
+sipa-inim-gi-na		PN	PN	POS		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	(PRODUCT_NAME (COM *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-e2-...		PN	PN.GEN.ABS	Iab		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))))
+

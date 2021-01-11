@@ -1,0 +1,45 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P200/P200842.conll #
+##############################################################################################
+
+#new_text=P200842
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+sze	sze[barley]	N	N	D		(UNIT (word *)))
+gur10-a	gur[reap]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+zar3	zar[sheaf]	N	N	D		(UNKNOWN (word *))
+tab-ba	tab[grasp]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ki-su7	kisur[threshing_floor]	N	N	D		(UNKNOWN (word *))
+sahar-u2-u2	Saharu'u[1][-ak][-'a]	GN	SN.GEN.L1	D		(CITY (word *))
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+ki-su7	kisur[threshing_floor]	N	N	D		(UNKNOWN (word *))
+kam-sal4-la		V	V	POS		(UNKNOWN (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *)))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+buru14		N	N	Ia		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+ur-{d}en-lil2-la2	Urenlilak[1][-ak][-'a]	PN	PN.DAT-H	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+da-a-gi	Dayagi[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+amar-{gesz}kiszi17		FN	FN	POS	B-COM	(PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+{d}amar-{d}suen	Amarsuen[1]	RN	RN	D		(PN (word *))
+lugal-e	lugal[king]-e	N	N.ERG	D		(JOBNAME (word *))
+ur-bi2-i3-lum{ki}		GN	GN	POS		(CITY|NATIONALITY (word *))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+da-a-gi	Dayagi[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))))
+

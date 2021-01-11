@@ -1,0 +1,32 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128499.conll #
+#########################################################################################
+
+#new_text=P128499
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+{d}nanna-dalla		DN	DN	POS		(PURPOSE (GOD (word *)))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+dur-ra-i3-li2		PN	PN	POS		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))))))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ar-szi-ah	Arsziah[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+i3-li2-ki-ah		PN	PN	Iabcde		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))
+an-sza-an{ki}-ta	Anszan[1]-ta	SN	GN.ABL	D		(CITY (word *))))))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+uri2{ki}-sze3		SN	SN.GEN.GEN.TERM	Iabcdefg		(CITY (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))))
+

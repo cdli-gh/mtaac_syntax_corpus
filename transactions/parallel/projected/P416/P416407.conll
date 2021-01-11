@@ -1,0 +1,35 @@
+# test/P416407.atf
+						
+
+# tr.en: gur barig of dabin-flour royal wage of laborer at sila its laborers workdays wages of hirelings from Ur-saga Szu-Edar received month Festival of Mekigal year Szaru was destroyed
+1	1(asz)	barig	NN	4	nummod	
+2	3(barig)	_	,	3	nummod	
+3	dabin	dabin-flour	NN	1	nmod:of	
+4	gur	gur	NN	0	root	
+5	lugal	royal	NN	3	conj	
+6	a2	wage	NN	3	conj	
+7	1(disz)	_	,	3	nummod	
+8	gurusz	laborer	NN	6	nmod:of	
+9	5(disz)	_	_	0	nummod	
+10	sila3-ta	at sila	NN	6	nmod:at	
+11	gurusz-bi	its laborers	PRP$	12	nmod:poss	
+12	1(gesz2)	its laborers	NNS	3	nummod	
+13	3(u)	_	:	15	nummod	
+14	6(disz)	_	_	13	nummod	
+15	u4	workdays	NNS	4	_	
+16	1(disz)-sze3	_	_	0	nummod	
+17	a2	_	,	19	_	
+18	lu2	_	_	0	_	
+19	hun-ga	wages hirelings	NNS	15	_	
+20	ki	from	IN	22	nmod:from	
+21	ur-sa6-ga-ta	Ur-saga	JJ	22	amod	
+22	szu-esz18-dar	Szu-Edar	JJ	19	nmod:from	
+23	szu	_	:	4	_	
+24	ba-ti	received	VBN	22	acl	
+25	iti	month	NN	27	_	
+26	ezem-me-ki-gal2	Festival Mekigal	NNP	27	_	
+27	mu	year	NN	4	_	
+28	sza-asz-ru{ki}	_	``	27	_	
+29	ba-hul	was destroyed	VBN	27	acl
+	
+

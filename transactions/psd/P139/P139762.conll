@@ -1,0 +1,51 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P139/P139762.conll #
+##############################################################################################
+
+#new_text=P139762
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+a	a[water][-ø]	N	N.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+du11-ga	dug[irrigate]-a	V	PN	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{u2}har-an	haran[plant]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *)))))
+ur-gu-ta		PN	PN.GEN.ABL	Iab		(AGENT (PERSON (PN (word *)))))
+dub-la2-{d}utu-sze3		N	N	POS		(UNKNOWN (word *))
+ga6-ga2	gag[carry]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+5(disz)-sze3	5(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+kab2-ku5	kabkul[water_installation]	N	N	D		(UNKNOWN (word *))
+dub-la2-{d}utu-ka		FN	FN	POS		(CITY (word *))
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+si-ga	sig[load]-a	N	NF.V.PT	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+{gi}gil		N	N	Ia		(UNKNOWN (word *))
+sur-ra		V	NF.V.RDP.ABS.GEN.GEN.ABL	Iabcdefghi		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))
+lu2-bala-saga		PN	PN	Ia		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+{d}szu-{d}suen	Szusuen[1]	RN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))
+a-szi-an	Aszi'an[1][-ak]	PN	PN.GEN	D		(PN (word *))
+ARAD2	arad[slave]	N	N	D		(UNKNOWN (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))))
+

@@ -1,0 +1,90 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P130/P130164.conll #
+##############################################################################################
+
+#new_text=P130164
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gub		V	NF.V.PT	Iabcdefgh		(UNKNOWN (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	*
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ARAD2-{d}suen		PN	PN.GEN	Iabcde		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+mar2-ad-da{ki}		SN	SN.GEN.GEN.ABS	Ia		(CITY|NATIONALITY (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+ninda	ninda[bread]	N	N	D	I-COUNT	*))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+szu-{d}nisaba		PN	PN.GEN	Iab		(PERSON (PN (word *)))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+sze-lu2		N	N	POS	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-nigar{gar}	Urnigar[1]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+babila-ma{ki}-me		SN	SN.GEN.ABS.COP-3-PL	Iab		(CITY|NATIONALITY (word *)))
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+a-da-na-ah		N	PN	D		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+asz2-nun{ki}		SN	SN	POS		(CITY|NATIONALITY (word *))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+ninda	ninda[bread]	N	N	D	I-COUNT	*))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+5(asz)	5(asz)[one]	NU	NU	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(UNKNOWN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ensi2	ensik[ruler]	N	N	D		(JOBNAME (word *))
+babila-ma{ki}		SN	SN.GEN.ERG	Iab		(CITY|NATIONALITY (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+bi2-du11-ga	Biduga[1][-ak]	PN	PN.GEN	D		(PN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+lu2-kal-la-ta	Lukala[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+ur-{d}nun-gal-ke4		PN	PN	Iabcdefgh		(PN (word *))
+ba-an-dab		PN	PN	POS		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

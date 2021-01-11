@@ -1,0 +1,121 @@
+# dev/P108651.atf
+						
+
+# tr.en: gur rough flour royal gur dabin-flour under seal of Uludi gur barig sila dabin-flour under seal of Lu-Ninmar son of Duga total its barley gur barig sila its labor workdays female laborers therefrom gur emmer under seal of Lu-Utu foremen of mill gur ban barley under seal of Ur-Igalim foreman of mill via Lu-Ninmar son of Duga gur less ban sila barley under seal of Ur-nigar gur barley Annebadu cantor in Nippur gur barley under seal of Szekalla in Girsu total gur less sila barley and emmer booked out the deficit gur barig sila barley the deficit shekels less grains silver labor of flour account of KAlaa Uludi son of abanzizi year after house Puzris-Dagan was erected
+1	2(asz)	_	CD	7	nummod	
+2	zi3	flour	NN	0	root	
+3	sig15	rough	JJ	2	amod	
+4	gur	gur	NN	2	compound	
+5	lugal	royal	NN	2	appos	
+6	3(u)	_	,	2	nummod	
+7	dabin	dabin-flour	NN	2	appos	
+8	gur	gur	NN	7	compound	
+9	kiszib3	under seal	NN	2	nmod:under	
+10	ulu3-di	Uludi	NNP	9	nmod:of	
+11	9(asz)	_	,	16	nummod	
+12	3(barig)	_	_	11	nummod	
+13	2(disz)	barig	NN	15	nummod	
+14	sila3	sila	NN	15	compound	
+15	dabin	dabin-flour	NN	16	_	
+16	gur	gur	NN	2	conj	
+17	kiszib3	under seal	NN	16	nmod:under	
+18	lu2-{d}nin-mar{ki}	Lu-Ninmar	NNP	17	nmod:of	
+19	dumu	son	NN	16	appos	
+20	du10-ga	Duga	NNP	19	nmod:of	
+21	szunigin	total	NN	2	_	
+22	sze-bi	its barley	NN	21	appos	
+23	4(u)	_	,	28	nummod	
+24	3(asz)	_	_	23	nummod	
+25	3(barig)	_	_	23	nummod	
+26	2(disz)	barig	NN	28	nummod	
+27	sila3	sila	NN	26	_	
+28	gur	gur	NN	21	_	
+29	a2-bi	its labor	PRP$	30	nmod:poss	
+30	2(gesz'u)	its labor	NN	28	nummod	
+31	4(u)	_	:	34	nummod	
+32	8(disz)	_	_	31	nummod	
+33	geme2	female laborers	NNS	34	appos	
+34	u4	workdays	NNS	28	_	
+35	1(disz)-sze3	_	_	0	nummod	
+36	sza3-bi-ta	therefrom	RB	38	_	
+37	1(u)	_	:	38	nummod	
+38	ziz2	emmer	NN	34	_	
+39	gur	gur	NN	38	compound	
+40	kiszib3	under seal	NN	38	nmod:under	
+41	lu2-{d}utu	Lu-Utu	NN	40	nmod:of	
+42	ugula	foremen	NNS	38	appos	
+43	kikken	of mill	NN	42	nmod:of	
+44	9(asz)	_	:	34	nummod	
+45	3(ban2)	ban	NN	46	nummod	
+46	sze	barley	NN	47	_	
+47	gur	gur	NN	38	_	
+48	kiszib3	under seal	NN	38	nmod:under	
+49	ur-{d}ig-alim	Ur-Igalim	NNP	48	nmod:of	
+50	ugula	foreman	NN	48	appos	
+51	kikken2	mill	NN	50	nmod:of	
+52	giri3	via	IN	53	nmod:via	
+53	lu2-{d}nin-mar{ki}	Lu-Ninmar	NNP	34	nmod:via	
+54	dumu	son	NN	53	appos	
+55	du10-ga	Duga	NNP	54	nmod:of	
+56	1(u)	_	,	53	nummod	
+57	la2	less	RBR	61	advmod	
+58	3(ban2)	_	_	57	nummod	
+59	5(disz)	ban	NN	61	nummod	
+60	sila3	sila	NN	61	compound	
+61	sze	barley	NN	62	_	
+62	gur	gur	NN	53	_	
+63	kiszib3	under seal	NN	53	nmod:under	
+64	ur-nigar{gar}	Ur-nigar	NN	63	nmod:of	
+65	2(asz)	_	,	66	nummod	
+66	sze	barley	NN	53	_	
+67	gur	gur	NN	66	compound	
+68	an-ne2-ba-du7	Annebadu	NNP	66	appos	
+69	nar	cantor	NN	66	appos	
+70	sza3	in	IN	71	nmod:in	
+71	nibru{ki}	Nippur	NNP	66	nmod:in	
+72	6(asz)	_	,	53	nummod	
+73	sze	barley	NN	53	_	
+74	gur	gur	NN	73	compound	
+75	kiszib3	under seal	NN	53	nmod:under	
+76	szesz-kal-la	Szekalla	NNP	75	nmod:of	
+77	sza3	in	IN	78	nmod:in	
+78	gir2-su{ki}	Girsu	NNP	53	nmod:in	
+79	szunigin	total	NN	53	_	
+80	3(u)	_	_	0	nummod	
+81	7(asz)	_	_	80	nummod	
+82	la2	less	RBR	85	advmod	
+83	5(disz)	_	_	82	nummod	
+84	sila3	sila	NN	85	compound	
+85	sze	barley	NN	87	_	
+86	ziz2	and emmer	CC	85	cc	
+87	gur	gur	NN	88	nsubj	
+88	zi-ga	booked out	VBD	79	acl	
+89	la2-ia3	the deficit	NN	88	dobj	
+90	6(asz)	_	,	95	nummod	
+91	3(barig)	_	_	90	nummod	
+92	7(disz)	barig	NN	94	nummod	
+93	sila3	sila	NN	94	compound	
+94	sze	barley	NN	95	_	
+95	gur	gur	NN	89	_	
+96	la2-ia3	the deficit	NN	95	appos	
+97	7(disz)	_	:	95	nummod	
+98	gin2	shekels	NNS	95	_	
+99	la2	less	RBR	103	advmod	
+100	1(u)	_	_	99	nummod	
+101	2(disz)	_	_	100	nummod	
+102	sze	grains	NNS	103	compound	
+103	ku3	silver	NN	98	_	
+104	a2	labor	NN	103	appos	
+105	zi3-da-ka	flour	NN	104	nmod:of	
+106	nig2-ka9-ak	account	NN	95	_	
+107	ka-la2-a	KAlaa	NNP	106	nmod:of	
+108	ulu3-di	Uludi	NNP	95	_	
+109	dumu	son	NN	108	appos	
+110	ha-ba-an-zi-zi	abanzizi	NNP	109	nmod:of	
+111	mu	year	NN	108	_	
+112	us2-sa	after	IN	111	nmod:after	
+113	e2	house	NN	114	compound	
+114	puzur4-isz-{d}da-gan	Puzris-Dagan	NN	115	nsubjpass	
+115	ba-du3	was erected	VBN	111	acl
+	
+

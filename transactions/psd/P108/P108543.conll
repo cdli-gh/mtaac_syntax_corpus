@@ -1,0 +1,91 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P108/P108543.conll #
+##############################################################################################
+
+#new_text=P108543	?	?	?	?	B-COUNT	l	0.0009259259259259259	"dry	*	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sze	sze[barley]	N	N	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+lu2-giri17-zal	Lugirizal[1][-ra]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ha-li2-li2		PN	PN	D		(PN (word *))
+ha-za-num2		PN	PN	Ia		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gir2-nun-ta		PN	PN	POS		(PN (word *))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+e2-udu-ta		PN	PN	POS		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ka-tar-{d}ba-ba6-ta		PN	PN.GEN.ABL	Iab		(PN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(PN (word *)))
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+4(barig)-ta		NU	NU	POS	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ur-esz3-lil2-la2		PN	PN.GEN.ABS	Iabcdefgh		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *)))
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+4(barig)-ta		NU	NU	POS	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	D		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gir2-nun		FN	FN	POS		(CITY (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+uru4-a	uru[sow]-a	V	NF.V.PT	D	B-COM	(PRODUCT_NAME (COM *))
+inim	inim[word]	N	N	D		(UNKNOWN (word *))
+du-du-ta		V	V	POS		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+6(bur3)	6(bur)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(barig)-ta		NU	NU	POS	I-COUNT	*))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	*
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+uru4-a	uru[sow]-a	V	NF.V.PT	D	B-COM	(PRODUCT_NAME (COM *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *)))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+nig2-ka9-ak	nigSZID[account]	N	N	D		(UNKNOWN (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+uru4-a	uru[sow]-a	V	NF.V.PT	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *)))
+gir2-nun		FN	FN	POS		(CITY (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+ur-nig2		PN	PN	Iabcde		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PERSON (PN (word *))))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-dun	Urdun[1]	PN	PN	D		(PERSON (PN (word *))))))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-mu-ur4-ru{ki}		GN	GN	POS		(CITY (word *)))
+ki	ki[place]	N	N	D		(LOCATION (KI (word *))
+lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	D		(CITY (word *)))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*))
+1(disz)-kam-asz		NU	NU.GEN.COP-3-SG.TERM	Iab	B-COUNT	(FRAG (NUMBER (COUNT *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

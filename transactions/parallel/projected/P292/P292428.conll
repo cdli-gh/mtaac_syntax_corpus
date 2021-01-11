@@ -1,0 +1,58 @@
+# train/P292428.atf
+						
+
+# tr.en: male laborers male laborer male laborers for months the labor workdays Mumu potter for months the labor days mana silver the labor workdays gur barley the labor workdays account of Lugal-ezem from Ur-Szara year Nanna of Karzida
+1	1(u)	_	,	3	nummod	
+2	1(disz)	_	CD	5	nummod	
+3	gurusz	male laborers	NNS	0	root	
+4	1(disz)	_	,	5	nummod	
+5	gurusz	male laborer	NN	3	appos	
+6	a2	_	CD	5	appos	
+7	1/2(disz)	_	,	5	nummod	
+8	2(disz)	_	,	7	nummod	
+9	gurusz	male laborers	NNS	5	appos	
+10	a2	_	CD	5	appos	
+11	2/3(disz)	_	,	5	nummod	
+12	iti	months	NNS	5	nmod:for	
+13	1(u)	_	,	5	nummod	
+14	3(disz)-sze3	_	_	13	nummod	
+15	a2-bi	the labor	NN	5	appos	
+16	1(szar2)	_	:	3	nummod	
+17	2(gesz'u)	_	CD	16	nummod	
+18	3(gesz2)	_	:	16	nummod	
+19	2(u)	_	_	16	nummod	
+20	5(disz)	_	_	16	nummod	
+21	u4	workdays	NNS	5	_	
+22	1(disz)-sze3	_	_	0	nummod	
+23	1(disz)	_	,	24	nummod	
+24	mu-mu	Mumu	NNP	17	_	
+25	bahar3	potter	NN	24	appos	
+26	iti	months	NNS	24	nmod:for	
+27	4(disz)-sze3	_	,	24	nummod	
+28	a2-bi	the labor	NN	24	appos	
+29	u4	days	NNS	28	_	
+30	2(gesz2)	_	:	24	nummod	
+31	2/3(disz)	_	,	33	nummod	
+32	ma-na	mana	NN	33	compound	
+33	ku3-babbar	silver	NN	24	_	
+34	a2-bi	the labor	NN	33	appos	
+35	4(gesz'u)	_	:	36	nummod	
+36	u4	workdays	NNS	33	_	
+37	1(disz)-sze3	_	CD	39	nummod	
+38	3(u)	_	,	37	nummod	
+39	sze	barley	NN	36	_	
+40	gur	gur	NN	39	compound	
+41	a2-bi	the labor	NN	39	appos	
+42	1(gesz'u)	_	:	44	nummod	
+43	5(gesz2)	_	_	42	nummod	
+44	u4	workdays	NNS	39	_	
+45	1(disz)-sze3	_	_	0	nummod	
+46	nig2-ka9-ak	account	NN	44	_	
+47	lugal-ezem	Lugal-ezem	NN	46	nmod:of	
+48	ki	from	IN	49	nmod:from	
+49	ur-{d}szara2-ta	Ur-Szara	NNP	46	nmod:from	
+50	mu	year	NN	51	_	
+51	{d}nanna	Nanna	NNP	44	_	
+52	kar-zi-da	Karzida	NNP	51	nmod:of
+	
+

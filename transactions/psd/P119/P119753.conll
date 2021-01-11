@@ -1,0 +1,75 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P119/P119753.conll #
+#########################################################################################
+
+#new_text=P119753
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+...	_[_]	PN	N	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+...	_[_]	PN	N	D		(PN (word *))
+sa6		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+NE	ne[unknown]	MN	MN	POS	B-COM	(PRODUCT_NAME (COM *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D		(DEAD (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-mes	Urmes[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-{d}asznan-ta		PN	PN.GEN.GEN.ABL	Iabcdefg		(PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+ur-si-gar		PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-nir-gal2		PN	PN	D		(PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+{d}szara2-i3-zu		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-am3-ma	Uramma[1][-ak]	PN	PN	D		(PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+lu2-{d}nin-ur4-ra	Luninura[1][-ak]	PN	PN.GEN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+AN-AN-ka-ka-TAR		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ab-ba-gi-na	Abbagina[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-saga-ta		PN	PN	Iabcdefgh		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gi	gi[reed][-ø]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+bar	bar[unknown]	N	N.ABS	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+NI		PN	PN	POS		(PN (word *))
+ba	ba[animal][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+a-du-du	Adudu[1]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szesz-a-ni	Szeszani[1][-ak]	PN	PN	D		(PN (word *))
+ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	D	B-COM	(PRODUCT_NAME (COM *))
+...-x-tum		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+lugal-...	_[1][-ra]	PN	PN	D		(PN (word *))))
+

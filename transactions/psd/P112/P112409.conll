@@ -1,0 +1,55 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P112/P112409.conll #
+#########################################################################################
+
+#new_text=P112409
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+8(asz)	8(asz)[one]	NU	NU	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-hur-sag-ka-ta		DN	DN.GEN.GEN.ABL	Iabcd		(GOD|GOD_NAME (word *))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+du6-ku3-sig17-ta	Dukusig[1][-ak]-ta	PN	FN.GEN.ABL	D		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ad-da-ta	Adda[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+lu2-giri17-zal-ta	Lugirizal[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *)))))
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+ziz2	ziz[emmer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+kiszib3-bi	kiszib[seal]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(UNKNOWN (word *)))
+2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+ki	ki[place]	N	N	D		(KI (word *))
+ARAD2-ta	Arad[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+ba-a-a-ti		PN	PN	Ia		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+sa2-du11	sadug[offerings]	N	N	D		(UNKNOWN (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY|NATIONALITY (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+{d}nin-ildu3-ma	Ninilduma[1][-ak]	DN	PN.GEN	D		(GOD|GOD_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sig4-u3-szub-ba-ga2-ra-ta		MN	MN.ABL	Iab		(MONTH_NAME (word *)))))
+

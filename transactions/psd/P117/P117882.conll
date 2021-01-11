@@ -1,0 +1,55 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P117/P117882.conll #
+#########################################################################################
+
+#new_text=P117882
+7(bur3)		NU	NU.GEN	Iabcdef	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gir4-u		FN	FN	POS		(CITY (word *))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+6(bur3)	6(bur)[unit]	NU	N	D	I-COUNT	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a-uh3-a		FN	FN.GEN.ABL	Iabcdefgh		(CITY (word *))
+2(bur'u)		NU	NU	POS	B-COUNT	(NUMBER (COUNT *
+3(bur3)	3(bur)[unit]	NU	N	D	I-COUNT	*
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(PN (word *))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+8(bur3)	8(bur)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D		(PN (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+ur-{gesz}gigir	Urgigir[1]	PN	PN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+hun-ga2-ta		V	NF.V.PT.GEN.ABL	Iabcdefg		(UNKNOWN (word *))
+uru4-a	uru[sow]-a	V	NF.V.PT	D		(PRODUCT_PARAM (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+bar-ra-kar-ra		N	N.GEN	Iabcde		(UNKNOWN (word *))
+gu3-de2-a	Gude'a[1][-ra]	PN	PN	D		(PN (word *))
+2(bur'u)		NU	NU	POS	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(bur3)	3(bur)[unit]	NU	N	D	I-COUNT	*
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+uru4-a	uru[sow]-a	V	NF.V.PT	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+bad3	bad[wall]	N	N	D		(UNKNOWN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

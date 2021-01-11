@@ -1,0 +1,58 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P104/P104173.conll #
+#########################################################################################
+
+#new_text=P104173
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+nig2-ka9-ak	nigSZID[account]	N	N	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+ku3-sig17-sze3		N	N.3-SG-H-POSS.TERM	Iabcdef		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ka5-a-mu	Kayamu[1][-ak]	PN	PN.GEN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+ab2	ab[cow][-ø]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	D		(UNKNOWN (word *))
+sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	D		(PN (word *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+dusu2		N	N	POS		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+nig2-ka9-ak	nigSZID[account]	N	N	D		(UNKNOWN (word *))
+{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	D		(GOD (word *))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY (word *)))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	D		(CITY (word *))
+ba-hul-a	ba-hulu[destroy][-ø]-a	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))
+gi-ne2-dam		PN	PN.GEN	Iab		(PN (word *)))))
+

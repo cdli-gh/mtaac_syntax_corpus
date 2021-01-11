@@ -1,0 +1,45 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P101/P101064.conll #
+#########################################################################################
+
+#new_text=P101064
+x	_[_]	N	N	D		(DOC (FRAG (UNKNOWN (word *))
+gurusz	gurusz[male]	N	N	D		(PRODUCT_PARAM (word *))
+sza3-sahar-ra		N	N.GEN.GEN.L1	Iabcdef		(UNKNOWN (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+{d}nin-ur4-ra	Ninura[1][-ak]	DN	DN.GEN	D		(GOD (word *))
+szu-luh	szuluh[ritual_cleansing][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+{u2}kiszi17	kiszig[acacia]	FN	N	D		(CITY (word *))
+ku5	ku[fish]	N	N	D		(PRODUCT_NAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+al	al[hoeing]	N	N	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+a2(DA)		NU	NU	POS		(NUMBER (word *))
+sza3-sahar	szagsahar[earth_worker][-ak][-ak]	N	N.GEN.GEN	D		(UNKNOWN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D		(PN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+a-kal-la	Akala[1]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	B-COM	(PRODUCT_NAME (COM *))))
+

@@ -1,0 +1,41 @@
+# train/P382201.atf
+						
+
+# tr.en: workmen for days its labor worker its labor of workmen free days days to reservoir of transversal canal the area between outlets to explore sent back out of Kuli booked year after
+1	1(u)	_	_	0	nummod	
+2	4(disz)	_	_	1	nummod	
+3	gurusz	workmen	NNS	0	root	
+4	u4	for days	NNS	3	nmod:for	
+5	1(u)	_	_	0	nummod	
+6	5(disz)-sze3	_	_	5	nummod	
+7	a2-bi	its labor	NN	4	_	
+8	3(gesz2)	_	:	7	nummod	
+9	3(u)	_	_	8	nummod	
+10	gurusz	worker	NN	7	_	
+11	a2	labor	NN	7	_	
+12	gurusz	_	:	7	_	
+13	u4-du8-a-bi	its workmen free	PRP$	11	nmod:poss	
+14	2(u)	_	_	0	nummod	
+15	1(disz)	_	_	14	nummod	
+16	u4	days days	NNS	11	appos	
+17	1(disz)-sze3	_	_	0	nummod	
+18	kun-zi-da	to reservoir	NN	7	nmod:to	
+19	i7	_	_	0	_	
+20	pa2-ri2-ik-tum-ma	transversal canal	NN	18	nmod:of	
+21	a-sza3	the	DT	22	det	
+22	dal-ba-na	area	NN	20	_	
+23	kun	_	:	7	_	
+24	zu-de3	to explore	VB	22	acl	
+25	ba-gi4	between outlets sent back	NNS	22	nmod:between	
+26	ki	_	_	0	_	
+27	ku-li-ta	out Kuli	IN	7	advmod	
+28	ba-zi	booked	_	0	_	
+29	...	_	_	0	dep	
+30	mu	year	NN	28	appos	
+31	us2-sa	after	IN	30	nmod:after	
+32	...	_	_	0	dep	
+33	x	_	:	28	dep	
+34	ti	_	''	28	_	
+35	...	_	.	3	dep
+	
+

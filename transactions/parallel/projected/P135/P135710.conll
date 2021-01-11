@@ -1,0 +1,172 @@
+# train/P135710.atf
+						
+
+# tr.en: shekels silver into palace brought via Alla son of Lu-Uru n shekels silver from Alla fattener in Ur the sealed document is to be delivered booked out the deficit mana shekels Alla son of Lugal-erin male laborers for months male laborer for months its silver mana shekels therefrom shekels silver into palace brought via Alla son of Lu-Uru shekels from Alla fattener in Ur the sealed document is to be delivered booked out the deficit mana shekels silver Lu- foreman male laborers for months its silver mana shekels silver therefrom shekels silver into palace brought via Alla son of Lu-Uru shekels silver from Alla fattener in Ur the sealed document is to be delivered booked out the deficit mana shekels Lubimu male laborers for months male laborer for months male laborer for months ist silver mana shekels therefrom the deficit mana shekels Urtur total mana shekels silver via Alla son of Lu-Uru total shekels from Alla fattener the sealed document is to be destroyed shekel
+1	...	_	,	166	dep	
+2	1(u)	_	_	0	nummod	
+3	7(disz)	_	_	2	nummod	
+4	gin2	shekels	NNS	166	_	
+5	ku3-babbar	silver	NN	4	amod	
+6	e2-gal-la	into	IN	7	nmod:into	
+7	ba-an-kux(KWU147)	palace brought	NN	166	nmod:into	
+8	giri3	via	IN	9	nmod:via	
+9	al-la	Alla	NNP	166	nmod:via	
+10	dumu	son	NN	9	appos	
+11	lu2-uru11{ki}	Lu-Uru	NN	10	nmod:of	
+12	n	_	:	166	_	
+13	gin2	shekels	NNS	14	amod	
+14	ku3-babbar	silver	NN	20	nsubj	
+15	al-la	from Alla	NNP	14	nmod:from	
+16	kuruszda	fattener in	NN	14	appos	
+17	uri5{ki}-ma	Ur	NNP	16	nmod:in	
+18	...-ti	_	_	0	_	
+19	kiszib3-bi	the sealed	DT	14	det	
+20	tum3-dam	document is to be delivered	VBZ	166	parataxis	
+21	zi-ga	booked out	VBN	20	conj	
+22	la2-ia3	the deficit	NN	20	_	
+23	1/2(disz)	_	:	24	nummod	
+24	ma-na	mana	NN	22	_	
+25	7(disz)	_	_	0	nummod	
+26	gin2	shekels	NNS	24	_	
+27	al-la	Alla	NNP	24	_	
+28	dumu	son	NN	27	appos	
+29	lugal-erin2	Lugal-erin	NN	28	nmod:of	
+30	7(disz)	_	,	31	nummod	
+31	gurusz	male laborers for	NNS	27	_	
+32	iti	months	NNS	31	nmod:for	
+33	1(u)	_	CD	36	nummod	
+34	4(disz)-sze3	_	_	33	nummod	
+35	1(disz)	_	,	31	nummod	
+36	gurusz	male laborer for	NN	31	appos	
+37	iti	months	NNS	31	nmod:for	
+38	6(disz)-sze3	_	_	0	nummod	
+39	ku3-bi	its silver	NN	31	appos	
+40	1(disz)	_	:	24	nummod	
+41	ma-na	mana	NN	27	_	
+42	1(u)	_	RB	24	nummod	
+43	8(disz)	_	:	42	nummod	
+44	gin2	shekels	NNS	41	_	
+45	ku3-babbar	_	NNS	43	root	
+46	sza3-bi-ta	therefrom	_	0	_	
+47	1(u)	_	,	45	nummod	
+48	2(disz)	_	_	47	nummod	
+49	1/2(disz)	_	_	47	nummod	
+50	gin2	shekels	_	0	_	
+51	ku3-babbar	silver	NN	45	amod	
+52	e2-gal-la	into	IN	53	nmod:into	
+53	ba-an-kux(KWU147)	palace brought	NN	45	nmod:into	
+54	giri3	via	IN	55	nmod:via	
+55	al-la	Alla	NNP	45	nmod:via	
+56	dumu	son	NN	55	appos	
+57	lu2-uru11{ki}	Lu-Uru	NN	56	nmod:of	
+58	3(disz)	_	,	60	nummod	
+59	gin2	shekels	NNS	55	appos	
+60	al-la	from Alla	NNP	64	nmod:from	
+61	kuruszda	fattener in	NN	60	appos	
+62	uri5{ki}-ma	Ur	NNP	60	nmod:in	
+63	kiszib3-bi	the sealed	DT	64	det	
+64	tum3-dam	document is to be delivered	VBZ	59	acl:relcl	
+65	zi-ga	booked out	VBN	45	acl	
+66	la2-ia3	the deficit	NN	65	_	
+67	1(disz)	_	:	72	nummod	
+68	ma-na	mana	NN	72	compound	
+69	2(disz)	_	NN	72	nummod	
+70	1/2(disz)	_	,	69	nummod	
+71	gin2	shekels	NNS	72	compound	
+72	ku3	silver	NN	66	_	
+73	lu2-x-...-x	Lu-	DT	74	det	
+74	ugula	foreman	NN	69	appos	
+75	1(u)	_	,	77	nummod	
+76	1(disz)	_	_	75	nummod	
+77	gurusz	male laborers for	NNS	69	_	
+78	iti	months	NNS	77	nmod:for	
+79	1(u)	_	_	0	nummod	
+80	4(disz)-sze3	_	_	79	nummod	
+81	ku3-bi	its silver	NN	77	appos	
+82	1(disz)	_	:	72	nummod	
+83	5/6(disz)	_	_	82	nummod	
+84	ma-na	mana	NN	88	compound	
+85	5(disz)	_	_	0	nummod	
+86	1/2(disz)	_	_	85	nummod	
+87	gin2	shekels	NNS	88	compound	
+88	ku3-babbar	silver	NN	77	_	
+89	sza3-bi-ta	therefrom	RB	93	_	
+90	9(disz)	_	_	0	nummod	
+91	gin2	shekels	NNS	93	compound	
+92	2/3(|NINDA2x(SZE.2(ASZ))|)	_	_	0	nummod	
+93	ku3	silver	NN	72	_	
+94	e2-gal-la	into	IN	95	nmod:into	
+95	ba-an-kux(KWU147)	palace brought	NN	93	nmod:into	
+96	giri3	via	IN	97	nmod:via	
+97	al-la	Alla	NNP	93	nmod:via	
+98	dumu	son	NN	97	appos	
+99	lu2-uru11{ki}	Lu-Uru	NN	98	nmod:of	
+100	3(disz)	_	,	105	nummod	
+101	gin2	shekels	NNS	102	compound	
+102	ku3	silver	NN	93	conj	
+103	al-la	from Alla	NNP	102	nmod:from	
+104	kuruszda	fattener in	NN	102	appos	
+105	uri5{ki}-ma	Ur	NNP	107	nmod:in	
+106	kiszib3-bi	the sealed	DT	107	det	
+107	tum3-dam	document is to be delivered	VBZ	104	acl:relcl	
+108	zi-ga	booked out	VBN	93	conj	
+109	la2-ia3	the deficit	NN	93	conj	
+110	1(disz)	_	:	109	nummod	
+111	2/3(disz)	_	_	110	nummod	
+112	ma-na	mana	NN	109	_	
+113	2(disz)	_	_	0	nummod	
+114	5/6(disz)	_	_	113	nummod	
+115	gin2	shekels	NNS	112	_	
+116	lu2-bi-mu	Lubimu	NN	109	_	
+117	3(disz)	_	,	118	nummod	
+118	gurusz	male laborers for	NNS	116	_	
+119	iti	months	NNS	118	nmod:for	
+120	1(u)	_	CD	123	nummod	
+121	4(disz)-sze3	_	_	120	nummod	
+122	1(disz)	_	,	118	nummod	
+123	gurusz	male laborer for	NN	118	appos	
+124	iti	months	NNS	118	nmod:for	
+125	6(disz)-sze3	_	CD	127	nummod	
+126	1(disz)	_	,	118	nummod	
+127	gurusz	male laborer for	NN	118	appos	
+128	iti	months	NNS	118	nmod:for	
+129	3(disz)-sze3	_	_	0	nummod	
+130	ku3-bi	ist silver	NN	118	appos	
+131	1/2(disz)	_	:	93	nummod	
+132	ma-na	mana	NN	116	_	
+133	8(disz)	_	_	0	nummod	
+134	gin2	shekels	NNS	132	_	
+135	igi-4(disz)-gal2	_	_	0	_	
+136	sza3-bi-ta	therefrom	RB	93	_	
+137	la2-ia3	the deficit	NN	136	root	
+138	1/2(disz)	_	:	139	nummod	
+139	ma-na	mana	NN	137	_	
+140	8(disz)	_	_	0	nummod	
+141	gin2	shekels	NNS	139	_	
+142	igi-4(disz)-gal2	_	_	0	_	
+143	ur-tur	Urtur	NN	139	_	
+144	szunigin	total	NN	137	_	
+145	1/2(disz)	_	,	144	nummod	
+146	ma-na	mana	NN	144	_	
+147	9(disz)	_	_	0	nummod	
+148	gin2	shekels	NNS	146	_	
+149	igi-6(disz)-gal2	_	_	0	_	
+150	ku3	silver	NN	148	_	
+151	giri3	via	IN	152	nmod:via	
+152	al-la	Alla	NNP	144	nmod:via	
+153	dumu	son	NN	144	appos	
+154	lu2-uru11{ki}	Lu-Uru	NN	153	nmod:of	
+155	szunigin	total	NN	137	_	
+156	n	_	,	157	_	
+157	gin2	shekels	NNS	155	_	
+158	...	_	,	159	dep	
+159	al-la	from Alla	NNP	157	nmod:from	
+160	kuruszda	fattener	NN	159	appos	
+161	kiszib3	_	NN	164	compound	
+162	zi-re-dam	the sealed document is to be destroyed	DT	157	det	
+163	...	the sealed document is to be destroyed	VBN	157	dep	
+164	gin2	shekel	NN	157	_	
+165	igi-4(disz)-gal2	_	NN	164	appos	
+166	...	_	NN	0	root
+	
+

@@ -1,0 +1,35 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128251.conll #
+#########################################################################################
+
+#new_text=P128251
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D		(PRODUCT_NAME (word *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME (word *))
+hi-a	hi[mix]-a[-ø]	V	NF.V.PT	D		(PRODUCT_PARAM (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+bar-dul5		N	N	Ia		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+nig2-ba-ra		DET	DET	POS		(UNKNOWN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ha-bu-um		PN	PN	Ia		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+|NIG2.SAG.LAL.MUNUS|		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+su-sin2		N	N	POS		(UNKNOWN (word *))
+su3	sug[empty][-ø]	V	NF.V.ABS.ABS	D		(PRODUCT_PARAM (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+{kusz}du10-gan	duggan[leather_bag]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+su3	sug[empty][-ø]	V	NF.V.ABS.ABS	D		(PRODUCT_PARAM (word *))))
+nig2-gur11	nigGA[property]	N	N	D		(UNKNOWN (word *))
+lugal-ki-ag2		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *)))))
+

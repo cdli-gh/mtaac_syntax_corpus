@@ -1,0 +1,53 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P123/P123060.conll #
+##############################################################################################
+
+#new_text=P123060
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+na-ba-sa6	Nabasa[1][-ak]	PN	PN.GEN	D		(PN (word *))
+mar-tu	Martu[1][-ø]	EN	EN.ABS	D		(NATIONALITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ma2-sag-ga2-ke4-ne-sze3		N	N.PL.GEN.TERM	Iabcde		(UNKNOWN (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D		(AGENT (PERSON (PN (word *)))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D		(UNKNOWN (word *))
+lugal-i3-li2		PN	PN	Iabc		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+kas4	kas[runner][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+szuszin{ki}-sze3	Szuszin[1]-sze	SN	SN.TERM	D		(CITY (word *))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lu2-banda3{da}	Lubanda[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dabin	dabin[semolina]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+lugal	lugal[king]	N	N	D		(PRODUCT_PARAM (word *)))))
+sze-le-bu-um		PN	PN	Ia		(AGENT (PERSON (PN (word *))
+ensi2	ensik[ruler]	N	N	D		(JOB (JOBNAME (word *))
+sa-bu-um{ki}-ta	Sabum[1]-ta	SN	SN.ABL	D		(CITY (word *))))))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-banda3{da}	Lubanda[1]	PN	PN	D		(PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3-gu	zidgu[flour_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+a2-bi2-la-num2		PN	PN.GEN	Iabcde		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *))
+szuszin{ki}-ta	Szuszin[1]-ta	SN	SN.ABL	D		(CITY (word *))))))
+du-ni	du[go][-ed]-ani[-'a]	V	NF.V.PF.F.3-SG-H-POSS.L1	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}dumu-zi-da		MN	MN.ABS	Iabcd		(MONTH_NAME (word *))))))
+

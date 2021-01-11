@@ -1,0 +1,35 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P116/P116927.conll #
+##############################################################################################
+
+#new_text=P116927
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+IL2		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+szer7-ru-um	szerrum[mat]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+sar	sar[unit]	N	N	D	I-COUNT	*))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ba-a-dul9		V	V	POS		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+i3-kal-la	Ikala[1][-ak]	PN	PN	D		(PN (word *))
+tum3-da-sze3		V	V	POS		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+a-gu	Agu[1][-ak]	PN	PN	D		(PN (word *))
+i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+na-mah	namah[magnificent_stone][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+a-gu	Agu[1][-ak]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-e2-mah-e	Lugalemahe[1]	N	PN	D		(UNKNOWN (word *))))
+

@@ -1,0 +1,43 @@
+# train/P416452.atf
+						
+
+# tr.en: ugid-sheep ugid-ewes n semi-weaned lamb of royal bucks for House Day of month day elapsed from Nalu Nasa accepted month Festival of Ninazu year Simurum and Lulubu for th time were destroyed
+1	3(u)	_	,	4	nummod	
+2	3(disz)	_	CD	8	nummod	
+3	udu	_	_	0	_	
+4	szu-gid2	ugid-sheep	NN	29	_	
+5	1(u)	_	_	0	nummod	
+6	1(disz)	_	_	5	nummod	
+7	u8	_	_	0	_	
+8	szu-gid2	ugid-ewes	NNS	4	appos	
+9	...	n	CD	10	dep	
+10	sila4	lamb	NN	8	_	
+11	gaba	semi-weaned	JJ	10	amod	
+12	lugal	royal	NN	10	nmod:of	
+13	4(disz)	_	,	4	nummod	
+14	masz2	_	_	0	_	
+15	szu-gid2	bucks	NNS	4	appos	
+16	e2-u4-1(u)	for House Day	NNP	4	nmod:for	
+17	5(disz)	_	CD	16	nummod	
+18	iti	month	NN	19	compound	
+19	u4	day	NN	4	nmod:of	
+20	1(u)	_	,	19	nummod	
+21	2(disz)	_	_	20	nummod	
+22	ba-zal	elapsed	VBN	19	acl	
+23	ki	from	IN	24	nmod:from	
+24	na-lu5-ta	Nalu	NNP	19	nmod:from	
+25	na-sa6	Nasa	NNP	26	nsubj	
+26	i3-dab5	accepted	VBD	19	acl:relcl	
+27	iti	month	NN	29	_	
+28	ezem-{d}nin-a-zu	Festival Ninazu	NNP	29	_	
+29	mu	year	NN	0	root	
+30	si-mu-ru-um{ki}	Simurum	NNP	37	nsubjpass	
+31	u3	and	CC	30	cc	
+32	lu-lu-bu{ki}	Lulubu	NNP	30	conj	
+33	a-ra2	for th time	NN	30	nmod:for	
+34	1(u)	_	.	29	nummod	
+35	la2	_	''	34	_	
+36	1(disz@t)-kam	_	_	35	nummod	
+37	ba-hul	were destroyed	VBN	29	parataxis
+	
+

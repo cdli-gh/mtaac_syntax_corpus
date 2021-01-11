@@ -1,0 +1,48 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128503.conll #
+#########################################################################################
+
+#new_text=P128503
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-{d}da-mu	Ludamu[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+e2-udu-ka-sze3		WN	WN	POS		(UNKNOWN (word *))
+im-szi-gen-na		V	NF.V.PT	Iabcde		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e3-dar-ki-ni		PN	PN	POS		(PN (word *))
+egir		N	N.ABS	D		(UNKNOWN (word *))
+nin-u3-kul-e-ki-ag2-a-sze3		N	N	POS		(UNKNOWN (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+a-hu-ni	Ahuni[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+a-na-a-a		PN	PN	Iabcdefgh		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+szuszin{ki}-ta-me		SN	SN.GEN.ABS.COP-3-PL	Iabcdefg		(CITY|NATIONALITY (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+da-a-a		PN	PN	Ia		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOBNAME (word *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+gal-gal-ke4-ne-sze3		V	NF.V.3-SG-NH-POSS.GEN.GEN.TERM	Iabcdefg		(UNKNOWN (word *))
+im-szi-gen-na		V	NF.V.PT	Iabcde		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+{d}szul-gi-{d}en-lil2-la2		PN	PN	Iabcde		(PN (word *))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ensi2-ka-sze3	ensik[ruler]-ak-sze	N	N.GEN.TERM	D		(JOBNAME (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+szu-numun	Szunumun[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+

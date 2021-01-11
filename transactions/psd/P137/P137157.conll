@@ -1,0 +1,30 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137157.conll #
+#########################################################################################
+
+#new_text=P137157
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gesz	gesz[tree]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}apin	apin[plow]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}x		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}e2-da		PN	PN	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+a-gid2		V	V	POS		(UNKNOWN (word *))))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}u3-suh5	usuh[tree]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+{gesz}sag-ga2-ra		PN	PN	POS		(PN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+{gesz}bar-da		N	N	POS		(UNKNOWN (word *))
+gag		N	N	Ia		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+{gesz}ig	ig[door]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+dab		V	V	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))))
+

@@ -1,0 +1,53 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P126/P126341.conll #
+##############################################################################################
+
+#new_text=P126341
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ba-tab		V	V	POS		(UNKNOWN (word *))
+duh-hu-um		N	N	Ia		(UNKNOWN (word *))
+saga(PI)		V	NF.V.ABS.GEN	Iabcdef		(UNKNOWN (word *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+szar3	szar[cloth_designation][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	D		(NUMBER (word *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME (word *))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+ba-tab		V	V	POS		(UNKNOWN (word *))
+duh-hu-um		N	N	Ia		(UNKNOWN (word *))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+nig2-lam2	niglam[ceremonial_garment][-ak]	N	N.GEN	D		(PRODUCT_NAME (word *)))))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+guz-za	guz[tufted]-a	V	NF.V.PT	D		(PRODUCT_NAME (word *)))))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+tug2	tug[textile]	N	N	D		(PRODUCT_NAME (word *))
+sa-gi4-a	sagi[prepare]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D		(AGENT (MUDU (word *))
+na-bi2-{d}suen		PN	PN	Iabcdefgh		(PERSON (PN (word *))))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+azlag2	azlag[fuller][-ra]	N	N.DAT-H	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY (word *))))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*))
+1(disz)-kam-asz		NU	NU.GEN.COP-3-SG.TERM	Iab	B-COUNT	(NUMBER (COUNT *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

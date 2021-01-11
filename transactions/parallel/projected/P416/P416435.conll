@@ -1,0 +1,52 @@
+# train/P416435.atf
+						
+
+# tr.en: sheep barley-fed for Amur-il messenger of Libanug-aba governor of Marhai via Lu-Damu messenger buck barley-fed for Guraya a man from Uru sheep barley-fed for Eum a man from Mari via Bilila messenger ARADmu responsible official of month day elapsed from Szulgi-ayamu booked out month Ubi feast year after throne of Enlil was fashioned small cattle
+1	1(disz)	_	_	0	nummod	
+2	udu	sheep	NN	0	root	
+3	niga	barley-fed	JJ	2	amod	
+4	a-mur-dingir	for Amur-il	IN	6	nmod:for	
+5	lu2	_	,	2	_	
+6	kin-gi4-a	messenger	NN	2	nmod:for	
+7	li-ba-nu-ug-sza-ba-asz	of Libanug-aba	NN	6	nmod:of	
+8	ensi2	governor	NN	2	appos	
+9	mar-ha-szi{ki}	Marhai	NNP	8	nmod:of	
+10	giri3	via	IN	11	nmod:via	
+11	lu2-{d}da-mu	Lu-Damu	NNP	2	nmod:via	
+12	sukkal	messenger	NN	11	appos	
+13	1(disz)	_	,	18	nummod	
+14	masz2-gal	buck	NN	11	_	
+15	niga	barley-fed	JJ	14	amod	
+16	gu-ra-a	for Guraya	NNP	14	nmod:for	
+17	lu2	a	DT	18	det	
+18	ur-szu{ki}	man from Uru	NN	16	appos	
+19	1(disz)	_	,	18	nummod	
+20	udu	sheep	NN	18	appos	
+21	niga	barley-fed	JJ	18	appos	
+22	e2-um	for	IN	18	nmod:for	
+23	lu2	a man	NN	18	appos	
+24	ma-ri2{ki}	from Mari	NNP	23	nmod:from	
+25	giri3	via	IN	26	nmod:via	
+26	bi2-li2-a	Bilila	NNP	18	nmod:via	
+27	sukkal	messenger	NN	18	appos	
+28	ARAD2-mu	ARADmu	NNP	11	_	
+29	maszkim	responsible official	NN	28	appos	
+30	iti	month	NN	11	nmod:of	
+31	u4	day	NN	30	appos	
+32	1(u)	_	,	11	nummod	
+33	6(disz)	_	_	32	nummod	
+34	ba-zal	elapsed	VBN	30	acl	
+35	ki	from	IN	36	nmod:from	
+36	{d}szul-gi-a-a-mu-ta	Szulgi-ayamu	NN	11	nmod:from	
+37	ba-zi	booked out	VBN	36	acl	
+38	iti	month	NN	39	compound	
+39	u5-bi2-gu7	Ubi feast	NN	2	_	
+40	mu	year	NN	39	advmod	
+41	us2-sa	after	IN	40	nmod:after	
+42	gu-za	throne	NN	44	nsubjpass	
+43	{d}en-lil2-la2	Enlil	NNP	42	nmod:of	
+44	ba-dim2	was fashioned	VBN	39	ccomp	
+45	3(disz)	_	.	2	nummod	
+46	udu	small cattle	NNS	2	_
+	
+

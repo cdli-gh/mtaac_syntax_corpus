@@ -1,0 +1,36 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P273/P273493.conll #
+#########################################################################################
+
+#new_text=P273493
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}pisan	bisag[basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+dusu	dusu[donkey]	N	N	D		(PRODUCT_NAME (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}kid	kid[mat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+szer7-ru-um	szerrum[mat]	N	N	D		(PRODUCT_NAME (word *))
+ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(PRODUCT_PARAM (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*))
+e2-gal-sze3		N	N	POS		(UNKNOWN (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ba-a-dul9		V	V	POS		(UNKNOWN (word *))
+...-ta	_[_]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+nam-sza3-tam	namszatam[administration]	N	N	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+i3-kal-la	Ikala[1][-ak]	PN	PN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+i3-kal-la	Ikala[1][-ak]	PN	PN	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))))
+

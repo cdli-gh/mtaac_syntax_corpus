@@ -1,0 +1,391 @@
+# train/P142850.atf
+						
+
+# tr.en: sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays less sar hoed at sar its labor workdays sar acacia cut at sar its labor workdays male laborer workdays from furrows clods struck down labor of plow assistants sar hoed at sar its labor less workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar pulled out at sar its labor workdays sar acacia cut at sar its labor workdays sar acacia cut at sar its labor less workdays male laborer workdays from furrows clods struck down male laborer workdays set sar loosened out at sar its labor workdays sar loosened at sar its labor workdays labor of hired men field Urgu sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays sar hoed at sar its labor workdays male laborer workdays from furrows clods struck down labor of hired men sar hoed at sar its labor less workdays less male laborer workdays from furrows clods struck down labor of plow assistants field Muru sar hoed at sar its labor workdays labor of plow assistants sar hoed at sar its labor workdays male laborer workdays from furrows clods struck down labor of hired men field Herder sar bush flatted at sar its labor workdays field Lama labor of hired men sila fieldwork foreman Lugal-nesage under seal of Lu-balasaga year Simanum was destroyed Lu-balasaga scribe son of Dingira
+1	7(gesz2)	_	,	5	nummod	
+2	2(u)	_	_	1	nummod	
+3	2(disz)	_	_	1	nummod	
+4	1/2(disz)	_	_	1	nummod	
+5	sar	sar	NN	0	root	
+6	al	hoed	VBD	5	acl	
+7	5(disz)	_	_	0	nummod	
+8	sar-ta	at sar	NN	6	nmod:at	
+9	a2-bi	its labor	NN	5	appos	
+10	u4	workdays	NNS	9	_	
+11	1(gesz2)	_	:	5	nummod	
+12	2(u)	_	CD	17	nummod	
+13	4(disz)	_	_	12	nummod	
+14	1/2(disz)	_	_	12	nummod	
+15	1(u)	_	,	17	nummod	
+16	6(disz)	_	_	15	nummod	
+17	sar	sar	NN	5	_	
+18	al	hoed	VBD	17	acl	
+19	4(disz)	_	_	0	nummod	
+20	sar-ta	at sar	NN	18	nmod:at	
+21	a2-bi	its labor	NN	17	appos	
+22	u4	workdays	NNS	17	_	
+23	4(disz)	_	:	22	nummod	
+24	3(gesz2)	_	,	31	nummod	
+25	4(u)	_	_	24	nummod	
+26	1/2(disz)	_	_	24	nummod	
+27	sar	sar	NN	22	_	
+28	al	hoed	VBD	22	acl	
+29	3(disz)	_	_	0	nummod	
+30	1/2(disz)	_	_	29	nummod	
+31	sar-ta	at sar	NN	28	nmod:at	
+32	a2-bi	its labor	NN	31	appos	
+33	u4	workdays	NNS	22	_	
+34	1(gesz2)	_	:	33	nummod	
+35	3(disz)	_	CD	40	nummod	
+36	1(gesz2)	_	,	33	nummod	
+37	4(u)	_	_	36	nummod	
+38	la2	less	JJR	40	advmod	
+39	1(disz)	_	_	38	nummod	
+40	sar	sar	NN	33	_	
+41	al	hoed	VBD	33	acl	
+42	3(disz)	_	_	0	nummod	
+43	sar-ta	at sar	NN	41	nmod:at	
+44	a2-bi	its labor	NN	33	appos	
+45	u4	workdays	NNS	33	_	
+46	3(u)	_	:	45	nummod	
+47	3(disz)	_	CD	52	nummod	
+48	1(gesz'u)	_	,	47	nummod	
+49	5(gesz2)	_	_	47	nummod	
+50	4(u)	_	_	47	nummod	
+51	5(disz)	_	_	47	nummod	
+52	sar	sar	NN	45	_	
+53	{u2}kiszi17	acacia	NN	54	compound	
+54	ku5-ra2	cut	NN	52	appos	
+55	1(u)	_	_	0	nummod	
+56	5(disz)	_	_	55	nummod	
+57	sar-ta	at sar	NN	54	nmod:at	
+58	a2-bi	its labor	NN	52	appos	
+59	u4	workdays	NNS	52	_	
+60	1(gesz2)	_	:	59	nummod	
+61	3(disz)	_	CD	65	nummod	
+62	1(u)	_	,	61	nummod	
+63	7(disz)	_	_	61	nummod	
+64	gurusz	male laborer	JJ	65	amod	
+65	u4	workdays	NNS	69	nsubj	
+66	1(disz)-sze3	_	_	0	nummod	
+67	ab-sin2-ta	from	IN	65	nmod:from	
+68	la-ag	furrows	VBZ	65	amod	
+69	ri-ri-ga	clods struck down	VBD	59	acl	
+70	a2	labor	NN	69	dobj	
+71	sza3-gu4-ka	plow assistants	VB	72	amod	
+72	2(gesz2)	plow assistants	NNS	70	nummod	
+73	4(u)	_	,	75	nummod	
+74	8(disz)	_	_	73	nummod	
+75	sar	sar	NN	69	_	
+76	al	hoed	VBD	75	acl	
+77	6(disz)	_	_	0	nummod	
+78	sar-ta	at sar	NN	76	nmod:at	
+79	a2-bi	its labor	NN	75	appos	
+80	u4	workdays	NNS	79	_	
+81	3(u)	_	:	75	nummod	
+82	la2	less	JJR	80	_	
+83	1(disz@t)	_	CD	88	nummod	
+84	1(gesz'u)	_	,	83	nummod	
+85	2(gesz2)	_	_	83	nummod	
+86	7(disz)	_	_	83	nummod	
+87	1/2(disz)	_	_	83	nummod	
+88	sar	sar	NN	75	_	
+89	al	hoed	VBD	88	acl	
+90	5(disz)	_	_	0	nummod	
+91	sar-ta	at sar	NN	89	nmod:at	
+92	a2-bi	its labor	NN	88	appos	
+93	u4	workdays	NNS	88	_	
+94	2(gesz2)	_	:	93	nummod	
+95	2(u)	_	CD	101	nummod	
+96	5(disz)	_	_	95	nummod	
+97	1/2(disz)	_	_	95	nummod	
+98	4(gesz2)	_	,	93	nummod	
+99	5(u)	_	_	98	nummod	
+100	2(disz)	_	_	98	nummod	
+101	sar	sar	NN	93	_	
+102	al	hoed	VBD	93	acl	
+103	4(disz)	_	_	0	nummod	
+104	sar-ta	at sar	NN	102	nmod:at	
+105	a2-bi	its labor	NN	93	appos	
+106	u4	workdays	NNS	93	_	
+107	1(gesz2)	_	_	0	nummod	
+108	1(u)	_	:	106	nummod	
+109	3(disz)	_	CD	114	nummod	
+110	1(gesz2)	_	,	118	nummod	
+111	1(u)	_	_	110	nummod	
+112	3(disz)	_	_	110	nummod	
+113	1/2(disz)	_	_	110	nummod	
+114	sar	sar	NN	106	_	
+115	al	hoed	VBD	106	acl	
+116	3(disz)	_	_	0	nummod	
+117	1/2(disz)	_	_	116	nummod	
+118	sar-ta	at sar	NN	115	nmod:at	
+119	a2-bi	its labor	NN	118	appos	
+120	u4	workdays	NNS	106	_	
+121	2(u)	_	:	120	nummod	
+122	1(disz)	_	CD	126	nummod	
+123	5(gesz2)	_	,	120	nummod	
+124	3(u)	_	_	123	nummod	
+125	1(disz)	_	_	123	nummod	
+126	sar	sar	NN	120	_	
+127	al	hoed	VBD	120	acl	
+128	3(disz)	_	_	0	nummod	
+129	sar-ta	at sar	NN	127	nmod:at	
+130	a2-bi	its labor	NN	120	appos	
+131	u4	workdays	NNS	120	_	
+132	1(gesz2)	_	:	131	nummod	
+133	5(u)	_	CD	136	nummod	
+134	1/3(disz)!	_	_	133	nummod	
+135	1(u)	_	,	131	nummod	
+136	sar	sar	NN	131	_	
+137	al	hoed	VBD	131	acl	
+138	2(disz)	_	_	0	nummod	
+139	sar-ta	at sar	NN	137	nmod:at	
+140	a2-bi	its labor	NN	131	appos	
+141	u4	workdays	NNS	146	nsubj	
+142	5(disz)	_	:	141	nummod	
+143	1(gesz'u)	_	,	146	nummod	
+144	6(gesz2)	_	_	143	nummod	
+145	sar	sar	NN	141	_	
+146	al	hoed	VBD	131	acl	
+147	du3	at	IN	149	nmod:at	
+148	1(u)	_	_	0	nummod	
+149	sar-ta	sar	NN	146	nmod:at	
+150	a2-bi	its labor	NN	146	dobj	
+151	u4	workdays	NNS	150	_	
+152	1(gesz2)	_	:	151	nummod	
+153	3(u)	_	CD	156	nummod	
+154	6(disz)	_	_	153	nummod	
+155	3(gesz2)	_	,	156	nummod	
+156	sar	sar	NN	151	_	
+157	{u2}|ZI&amp;ZI|-sze3	pulled out	VBD	156	acl:relcl	
+158	zex(SIG7)-a	_	_	0	_	
+159	1(u)	_	_	0	nummod	
+160	sar-ta	at sar	NN	157	nmod:at	
+161	a2-bi	its labor	NN	156	appos	
+162	u4	workdays	NNS	161	_	
+163	1(u)	_	:	156	nummod	
+164	8(disz)	_	CD	169	nummod	
+165	1(gesz'u)	_	,	164	nummod	
+166	3(gesz2)	_	_	164	nummod	
+167	1(u)	_	_	164	nummod	
+168	5(disz)	_	_	164	nummod	
+169	sar	sar	NN	156	_	
+170	{u2}kiszi17	acacia	NN	171	compound	
+171	ku5-ra2	cut	NN	169	appos	
+172	1(u)	_	_	0	nummod	
+173	5(disz)	_	_	172	nummod	
+174	sar-ta	at sar	NN	171	nmod:at	
+175	a2-bi	its labor	NN	169	appos	
+176	u4	workdays	NNS	169	_	
+177	5(u)	_	:	176	nummod	
+178	3(disz)	_	CD	181	nummod	
+179	3(gesz2)	_	,	178	nummod	
+180	1(u)	_	_	178	nummod	
+181	sar	sar	NN	176	_	
+182	{u2}kiszi17	acacia	NN	183	compound	
+183	ku5-ra2	cut	NN	181	appos	
+184	1(u)	_	_	0	nummod	
+185	sar-ta	at sar	NN	183	nmod:at	
+186	a2-bi	its labor	NN	181	appos	
+187	u4	workdays	NNS	181	_	
+188	2(u)	_	:	187	nummod	
+189	la2	less	JJR	188	_	
+190	1(disz@t)	_	CD	194	nummod	
+191	1(gesz2)	_	,	190	nummod	
+192	5(disz)	_	_	190	nummod	
+193	gurusz	male laborer	JJ	194	amod	
+194	u4	workdays	NNS	198	nsubj	
+195	1(disz)-sze3	_	_	0	nummod	
+196	ab-sin2-ta	from	IN	194	nmod:from	
+197	la-ag	furrows	VBZ	194	amod	
+198	ri-ri-ga	clods struck down	VBD	187	acl	
+199	4(u)	_	,	202	nummod	
+200	4(disz)	_	_	199	nummod	
+201	gurusz	male laborer	JJ	202	amod	
+202	u4	workdays	NNS	198	dobj	
+203	1(disz)-sze3	_	NN	202	nummod	
+204	ka-us2-sa	set	VBN	203	acl	
+205	ga2-ra	_	:	187	_	
+206	2(gesz2)	_	,	207	nummod	
+207	sar	sar	NN	187	_	
+208	{u2}har-an	loosened	VBD	207	acl:relcl	
+209	bu3-ra	out	RP	208	compound:prt	
+210	1(u)	_	_	0	nummod	
+211	sar-ta	at sar	NN	208	nmod:at	
+212	a2-bi	its labor	NN	207	appos	
+213	u4	workdays	NNS	207	_	
+214	1(u)	_	:	213	nummod	
+215	2(disz)	_	CD	219	nummod	
+216	3(gesz2)	_	,	215	nummod	
+217	3(u)	_	_	215	nummod	
+218	6(disz)	_	_	215	nummod	
+219	sar	sar	NN	213	_	
+220	{u2}har-an	loosened	VBD	219	acl:relcl	
+221	bu3-ra	_	_	0	_	
+222	6(disz)	_	_	0	nummod	
+223	sar-ta	at sar	NN	220	nmod:at	
+224	a2-bi	its labor	NN	219	appos	
+225	u4	_	:	219	_	
+226	3(u)	_	NNS	219	nummod	
+227	6(disz)	_	NN	239	nummod	
+228	a2	labor	_	0	_	
+229	lu2	_	,	227	_	
+230	hun-ga2	hired men	NNS	227	nmod:of	
+231	a-sza3	field	NN	232	compound	
+232	ur-gu	Urgu	NNP	227	appos	
+233	1(gesz'u)	_	,	239	nummod	
+234	1(gesz2)	_	_	233	nummod	
+235	5(u)	_	_	233	nummod	
+236	2(disz)	_	_	233	nummod	
+237	1/2(disz)	_	_	233	nummod	
+238	sar	sar	NN	227	_	
+239	al	hoed	VBD	226	acl	
+240	5(disz)	_	_	0	nummod	
+241	sar-ta	at sar	NN	239	nmod:at	
+242	a2-bi	its labor	NN	239	dobj	
+243	u4	workdays	NNS	242	_	
+244	2(gesz2)	_	:	243	nummod	
+245	2(u)	_	CD	249	nummod	
+246	2(disz)	_	_	245	nummod	
+247	1/2(disz)-kam	_	_	245	nummod	
+248	2(u)	_	,	243	nummod	
+249	sar	sar	NN	243	_	
+250	al	hoed	VBD	243	acl	
+251	4(disz)	_	_	0	nummod	
+252	sar-ta	at sar	NN	250	nmod:at	
+253	a2-bi	its labor	NN	243	appos	
+254	u4	workdays	NNS	259	nsubj	
+255	5(disz)	_	:	254	nummod	
+256	1(gesz'u)	_	,	259	nummod	
+257	2(gesz2)	_	_	256	nummod	
+258	sar	sar	NN	254	_	
+259	al	hoed	VBD	243	acl	
+260	du3	at	IN	262	nmod:at	
+261	2(u)	_	_	0	nummod	
+262	sar-ta	sar	NN	259	nmod:at	
+263	a2-bi	its labor	NN	259	dobj	
+264	u4	workdays	NNS	272	nsubj	
+265	3(u)	_	:	264	nummod	
+266	6(disz)	_	CD	271	nummod	
+267	1(gesz'u)	_	,	272	nummod	
+268	2(gesz2)	_	_	267	nummod	
+269	5(u)	_	_	267	nummod	
+270	5(disz)	_	_	267	nummod	
+271	sar	sar	NN	264	_	
+272	al	hoed	VBD	263	acl	
+273	du3	at	IN	275	nmod:at	
+274	1(u)	_	_	0	nummod	
+275	sar-ta	sar	NN	272	nmod:at	
+276	a2-bi	its labor	NN	272	dobj	
+277	u4	workdays	NNS	276	_	
+278	1(gesz2)	_	_	0	nummod	
+279	1(u)	_	_	278	nummod	
+280	7(disz)	_	:	277	nummod	
+281	1/2(disz)	_	CD	286	nummod	
+282	1(gesz2)	_	,	281	nummod	
+283	7(disz)	_	_	281	nummod	
+284	1/2(disz)	_	_	281	nummod	
+285	gurusz	male laborer	JJ	286	amod	
+286	u4	workdays	NNS	290	nsubj	
+287	1(disz)-sze3	_	_	0	nummod	
+288	ab-sin2-ta	from	IN	286	nmod:from	
+289	la-ag	furrows	VBZ	286	amod	
+290	ri-ri-ga	clods struck down	VBD	277	acl	
+291	a2	labor	NN	290	dobj	
+292	lu2	_	:	290	_	
+293	hun-ga2	hired men	VBN	294	amod	
+294	1(gesz2)	hired men	NNS	291	nummod	
+295	3(u)	_	,	297	nummod	
+296	5(disz)	_	_	295	nummod	
+297	sar	sar	NN	290	_	
+298	al	hoed	VBD	297	acl	
+299	5(disz)	_	_	0	nummod	
+300	sar-ta	at sar	NN	298	nmod:at	
+301	a2-bi	its labor	NN	297	appos	
+302	u4	workdays	NNS	301	_	
+303	2(u)	_	:	302	nummod	
+304	la2	less	JJR	303	_	
+305	1(disz@t)	_	CD	310	nummod	
+306	5(u)	_	,	305	nummod	
+307	la2	less	JJR	305	advmod	
+308	1(disz@t)	_	_	307	nummod	
+309	gurusz	male laborer	NN	310	compound	
+310	u4	workdays	NNS	314	nsubj	
+311	1(disz)-sze3	_	_	0	nummod	
+312	ab-sin2-ta	from	IN	310	nmod:from	
+313	la-ag	furrows	VBZ	310	amod	
+314	ri-ri-ga	clods struck down	VBD	302	acl	
+315	a2	labor	NN	314	dobj	
+316	sza3-gu4-ka	plow assistants	NNS	315	nmod:of	
+317	a-sza3	field	NN	318	compound	
+318	muru13	Muru	NNP	316	appos	
+319	4(u)	_	,	320	nummod	
+320	sar	sar	NN	314	_	
+321	al	hoed	VBD	320	acl	
+322	du3	at	IN	324	nmod:at	
+323	1(u)	_	_	0	nummod	
+324	sar-ta	sar	NN	321	nmod:at	
+325	a2-bi	its labor	NN	320	appos	
+326	u4	workdays	NNS	333	nsubj	
+327	4(disz)	_	NN	326	nummod	
+328	a2	labor	_	0	_	
+329	sza3-gu4-ka	plow assistants	VB	330	amod	
+330	7(gesz2)	plow assistants	NNS	327	nummod	
+331	3(u)	_	,	333	nummod	
+332	sar	sar	NN	326	_	
+333	al	hoed	VBD	320	acl	
+334	du3	at	IN	336	nmod:at	
+335	1(u)	_	_	0	nummod	
+336	sar-ta	sar	NN	333	nmod:at	
+337	a2-bi	its labor	NN	333	dobj	
+338	u4	workdays	NNS	337	_	
+339	4(u)	_	:	338	nummod	
+340	5(disz)	_	CD	345	nummod	
+341	3(u)	_	,	340	nummod	
+342	3(disz)	_	_	340	nummod	
+343	1/2(disz)	_	_	340	nummod	
+344	gurusz	male laborer	JJ	345	amod	
+345	u4	workdays	NNS	349	nsubj	
+346	1(disz)-sze3	_	_	0	nummod	
+347	ab-sin2-ta	from	IN	345	nmod:from	
+348	la-ag	furrows	VBZ	345	amod	
+349	ri-ri-ga	clods struck down	VBD	338	acl	
+350	a2	labor	NN	349	dobj	
+351	lu2	_	,	352	_	
+352	hun-ga2	hired men	NNS	350	nmod:of	
+353	a-sza3	field	NN	354	compound	
+354	sipa-da	Herder	NN	352	appos	
+355	1(gesz'u)	_	,	357	nummod	
+356	2(gesz2)	_	_	355	nummod	
+357	sar	sar	NN	349	_	
+358	gesz-gaz	bush flatted	VBD	357	acl:relcl	
+359	4(u)	_	_	0	nummod	
+360	sar-ta	at sar	NN	358	nmod:at	
+361	a2-bi	its labor	NN	357	appos	
+362	u4	workdays	NNS	361	_	
+363	1(u)	_	:	357	nummod	
+364	8(disz)	_	_	363	nummod	
+365	a-sza3	field	NN	366	compound	
+366	la2-mah	Lama	NN	357	_	
+367	a2	labor	NN	381	_	
+368	lu2	_	,	367	_	
+369	hun-ga2	hired men	NNS	367	nmod:of	
+370	6(disz)	_	_	0	nummod	
+371	sila3-ta	sila	NN	367	conj	
+372	a-sza3-ge	fieldwork	NN	367	conj	
+373	kin	_	:	367	_	
+374	ak	_	_	0	_	
+375	ugula	foreman	NN	376	compound	
+376	lugal-nesag-e	Lugal-nesage	NN	367	conj	
+377	kiszib3	under seal	NN	367	conj	
+378	lu2-bala-saga	Lu-balasaga	NN	377	nmod:of	
+379	mu	year	NN	381	_	
+380	si-ma-num2{ki}	Simanum	NNP	381	nsubjpass	
+381	ba-hul	was destroyed	VBN	366	parataxis	
+382	lu2-bala-sa6-ga	Lu-balasaga	NN	239	dobj	
+383	dub-sar	scribe	NN	382	conj	
+384	dumu	son	NN	382	appos	
+385	dingir-ra	Dingira	NNP	384	nmod:of
+	
+

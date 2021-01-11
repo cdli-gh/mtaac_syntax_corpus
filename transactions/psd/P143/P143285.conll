@@ -1,0 +1,39 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P143/P143285.conll #
+##############################################################################################
+
+#new_text=P143285
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+lugal-{gesz}gigir-re	Lugalgigire[1][-ra]	PN	PN.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+la-ni-mu	Lanimu[1]	PN	PN	D		(PN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ki	ki[place]	N	N	D		(KI (word *))
+lu2-banda3{da}	Lubanda[1]	PN	PN	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sig4-{gesz}i3-szub-ba-ga2-ra		MN	MN.L1	Iabcdefgh	B-COM	(PRODUCT_NAME (COM *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+lugal-{gesz}gigir-re-ta		PN	PN.GEN.ABL	Iabcdefg	B-COM	(PRODUCT_NAME (COM *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+lu2-banda3{da}-ta		PN	PN.GEN.ABL	Iabcdef		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-kar-gal2-la		MN	MN.L1	Ia		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER (COUNT *))
+si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D	B-COM	(PRODUCT_NAME (COM *))))
+

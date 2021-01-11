@@ -1,0 +1,66 @@
+# train/P249089.atf
+						
+
+# tr.en: gur flour royal gur rough-ground flour gur sprouted malt gur SzIM regular gur SzIM high from Adda did Lu-duga receive month mine gur flour royal gur rough-ground flour gur SzIM regular gur sprouted malt gur SzIM high from Adda did Lu-duga receive under seal of Lu-duga month mine Lu-duga the scribe son of Duga
+1	5(asz)	_	,	2	nummod	
+2	dabin	flour	NN	25	nsubj	
+3	gur	gur	NN	2	compound	
+4	lugal	royal	NN	2	appos	
+5	3(asz)	_	,	6	nummod	
+6	zi3	flour	NN	25	_	
+7	sig15	rough-ground	JJ	6	amod	
+8	gur	gur	NN	6	compound	
+9	5(asz)	_	,	6	nummod	
+10	munu4	sprouted	VBN	11	amod	
+11	si-e3	malt	NN	12	_	
+12	gur	gur	NN	6	appos	
+13	3(asz)	_	,	6	nummod	
+14	SZIM	SzIM	NN	6	conj	
+15	du	regular	JJ	6	amod	
+16	gur	gur	NN	14	compound	
+17	2(asz)	_	,	6	nummod	
+18	SZIM	SzIM high	NN	6	conj	
+19	saga	_	_	0	_	
+20	gur	gur	NN	18	compound	
+21	ki	from	IN	22	nmod:from	
+22	ad-da-ta	Adda	NNP	6	nmod:from	
+23	lu2-du10-ga	Lu-duga	JJ	25	nsubj	
+24	szu	did	VBD	25	aux	
+25	ba-ti	receive	VBP	52	acl	
+26	iti	month	NN	25	_	
+27	min-esz3	_	``	25	_	
+28	5(asz)	_	,	29	nummod	
+29	dabin	flour	NN	52	nsubj	
+30	gur	gur	NN	29	compound	
+31	lugal	royal	NN	29	conj	
+32	3(asz)	_	,	29	nummod	
+33	zi3	flour	NN	29	conj	
+34	sig15	rough-ground	JJ	33	amod	
+35	gur	gur	NN	37	compound	
+36	3(asz)	_	CD	43	nummod	
+37	szim	SzIM	NN	29	conj	
+38	du	regular	JJ	29	conj	
+39	gur	gur	NN	33	compound	
+40	5(asz)	_	,	29	nummod	
+41	munu4	sprouted	VBN	42	amod	
+42	si-e3	malt	NN	43	_	
+43	gur	gur	NN	29	conj	
+44	2(asz)	_	_	0	nummod	
+45	szim	SzIM high	NN	29	conj	
+46	saga	_	_	0	_	
+47	gur	gur	NN	45	compound	
+48	ki	from	IN	49	nmod:from	
+49	ad-da-ta	Adda	NNP	29	nmod:from	
+50	lu2-du10-ga	Lu-duga	JJ	52	nsubj	
+51	szu	did	VBD	52	aux	
+52	ba-ti	receive	VBP	0	root	
+53	kiszib3	under seal	NN	52	nmod:under	
+54	lu2-du10-ga	Lu-duga	NN	53	nmod:of	
+55	iti	month	NN	56	_	
+56	min-esz3	mine	NN	53	_	
+57	lu2-du10-ga	Lu-duga	NN	52	dobj	
+58	dub-sar	the scribe	NN	57	appos	
+59	dumu	son	NN	57	appos	
+60	du11-ga	Duga	NNP	59	nmod:of
+	
+

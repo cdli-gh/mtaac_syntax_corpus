@@ -1,0 +1,59 @@
+# train/P101257.atf
+						
+
+# tr.en: sila fine beer sila bread shekels oil shekels alkali plant fish bundle onions for Lu-Nanna sila beer sila bread shekels oil shekels alkali-plant fish bundle onions for Ur-Nanna ban bread ban common beer sila sesame oil provisions for messengers via Ur-Nanna st day month Bricks cast in moulds
+1	5(disz)	_	,	3	nummod	
+2	sila3	sila	NN	3	compound	
+3	kasz	beer	NN	0	root	
+4	saga	fine	JJ	3	amod	
+5	2(disz)	_	CD	10	nummod	
+6	sila3	sila	NN	7	compound	
+7	ninda	bread	NN	3	conj	
+8	2(disz)	_	,	3	nummod	
+9	gin2	shekels	NNS	10	compound	
+10	i3	oil	NN	3	conj	
+11	2(disz)	_	CD	15	nummod	
+12	gin2	shekels	NNS	13	compound	
+13	naga	alkali plant	NN	3	conj	
+14	1(disz)	_	,	3	nummod	
+15	ku6	fish	NN	3	conj	
+16	1(disz)	_	_	0	nummod	
+17	sa	bundle	NN	18	compound	
+18	szum2	onions	NNS	3	conj	
+19	lu2-{d}nanna	for Lu-Nanna	NNP	3	nmod:for	
+20	5(disz)	_	,	22	nummod	
+21	sila3	sila	NN	22	compound	
+22	kasz	beer	NN	3	conj	
+23	3(disz)	_	CD	28	nummod	
+24	sila3	sila	NN	25	compound	
+25	ninda	bread	NN	22	conj	
+26	2(disz)	_	,	22	nummod	
+27	gin2	shekels	NNS	28	compound	
+28	i3	oil	NN	22	conj	
+29	2(disz)	_	,	22	nummod	
+30	gin2	shekels	NNS	31	nmod:npmod	
+31	naga	alkali-plant	JJ	22	amod	
+32	1(disz)	_	,	22	nummod	
+33	ku6	fish	NN	22	appos	
+34	1(disz)	_	_	0	nummod	
+35	sa	bundle	NN	36	compound	
+36	szum2	onions	NNS	22	appos	
+37	ur-{d}nanna	for Ur-Nanna	NNP	22	nmod:for	
+38	3(ban2)	ban	NN	39	nummod	
+39	ninda	bread	NN	3	conj	
+40	3(ban2)	ban	NN	41	nummod	
+41	kasz	beer	NN	39	conj	
+42	du	common	JJ	41	amod	
+43	1/2(disz)	_	,	39	nummod	
+44	sila3	sila	NN	45	compound	
+45	i3-gesz	sesame oil	NN	39	conj	
+46	sza3-gal	for	IN	47	nmod:for	
+47	kas4-e-ne	provisions messengers	NNS	39	conj	
+48	giri3	via	IN	49	nmod:via	
+49	ur-{d}nanna	Ur-Nanna	NNP	39	nmod:via	
+50	u4	st day	NN	53	nmod:tmod	
+51	1(disz)-kam	_	,	50	nummod	
+52	iti	month	NN	50	appos	
+53	sig4-{gesz}i3-szub-ba-gar	Bricks cast in moulds	VBD	3	parataxis
+	
+

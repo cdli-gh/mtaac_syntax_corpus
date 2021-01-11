@@ -1,0 +1,153 @@
+# test/P101218.atf
+						
+
+# tr.en: sila fine beer sila large bread shekels onions shekels oil shekels alkali-plant for Au-Wer sila fine beer sila large bread shekels onions shekels oil shekels alkali-plant for Auuni sila fine beer sila bread shekels onions shekels oil shekels alkali-plant for Lugalanisa sila beer sila bread shekels onions shekels oil shekels alkali-plant for Nanna- sila beer sila bread shekels onions shekels oil shekels alkali-plant for Baba-isa sila beer sila bread shekels onions shekels oil shekels alkali-plant for Allamu total ban sila fine beer total sila large bread total ban less sila common beer total ban sila bread total sila onions total shekels oil total shekels alkali-plant month mine th day year Sz-Suen king great stele for Enlil and Ninlil erected
+1	5(disz)	_	,	7	nummod	
+2	sila3	sila	NN	3	compound	
+3	kasz	beer	NN	0	root	
+4	saga	fine	JJ	3	amod	
+5	5(disz)	_	_	0	nummod	
+6	sila3	sila	NN	3	appos	
+7	ninda	bread	NN	6	_	
+8	gal	large	JJ	7	amod	
+9	5(disz)	_	_	0	nummod	
+10	gin2	shekels	NNS	11	compound	
+11	szum2	onions	NNS	7	conj	
+12	3(disz)	_	_	0	nummod	
+13	gin2	shekels	NNS	14	compound	
+14	i3	oil	NN	7	conj	
+15	2(disz)	_	_	0	nummod	
+16	gin2	shekels	NNS	17	nmod:npmod	
+17	naga	alkali-plant	JJ	7	amod	
+18	a-hu-we-er	for Au-Wer	NNP	7	nmod:for	
+19	5(disz)	_	,	25	nummod	
+20	sila3	sila	NN	21	compound	
+21	kasz	beer	NN	7	_	
+22	saga	fine	JJ	21	amod	
+23	2(disz)	_	_	0	nummod	
+24	sila3	sila	NN	21	appos	
+25	ninda	bread	NN	24	_	
+26	gal	large	JJ	25	amod	
+27	5(disz)	_	_	0	nummod	
+28	gin2	shekels	NNS	29	compound	
+29	szum2	onions	NNS	25	conj	
+30	3(disz)	_	_	0	nummod	
+31	gin2	shekels	NNS	32	compound	
+32	i3	oil	NN	25	conj	
+33	2(disz)	_	_	0	nummod	
+34	gin2	shekels	NNS	35	nmod:npmod	
+35	naga	alkali-plant	JJ	25	amod	
+36	a-hu-szu-ni	for	IN	25	nmod:for	
+37	5(disz)	_	,	39	nummod	
+38	sila3	sila	NN	39	compound	
+39	kasz	beer	NN	25	conj	
+40	saga	fine	JJ	39	amod	
+41	5(disz)	_	_	0	nummod	
+42	sila3	sila	NN	43	compound	
+43	ninda	bread	NN	39	conj	
+44	5(disz)	_	_	0	nummod	
+45	gin2	shekels	NNS	46	compound	
+46	szum2	onions	NNS	39	conj	
+47	3(disz)	_	_	0	nummod	
+48	gin2	shekels	NNS	49	compound	
+49	i3	oil	NN	39	conj	
+50	2(disz)	_	_	0	nummod	
+51	gin2	shekels	NNS	52	nmod:npmod	
+52	naga	alkali-plant	JJ	39	amod	
+53	lugal-a-ni-sa6	for Lugalanisa	NNP	39	nmod:for	
+54	3(disz)	_	,	56	nummod	
+55	sila3	sila	NN	56	compound	
+56	kasz	beer	NN	25	conj	
+57	2(disz)	_	_	0	nummod	
+58	sila3	sila	NN	59	compound	
+59	ninda	bread	NN	56	conj	
+60	5(disz)	_	_	0	nummod	
+61	gin2	shekels	NNS	62	compound	
+62	szum2	onions	NNS	56	conj	
+63	3(disz)	_	_	0	nummod	
+64	gin2	shekels	NNS	65	compound	
+65	i3	oil	NN	56	conj	
+66	2(disz)	_	_	0	nummod	
+67	gin2	shekels	NNS	68	nmod:npmod	
+68	naga	alkali-plant	JJ	56	amod	
+69	{d}nanna-...	for Nanna-	JJ	56	nmod:for	
+70	3(disz)	_	,	69	nummod	
+71	sila3	sila	NN	69	compound	
+72	2(disz)	_	_	0	nummod	
+73	sila3	sila	NN	74	compound	
+74	ninda	bread	NN	69	conj	
+75	5(disz)	_	_	0	nummod	
+76	gin2	shekels	NNS	77	compound	
+77	szum2	onions	NNS	69	conj	
+78	3(disz)	_	_	0	nummod	
+79	gin2	shekels	NNS	80	compound	
+80	i3	oil	NN	69	conj	
+81	2(disz)	_	_	0	nummod	
+82	gin2	shekels	NNS	83	nmod:npmod	
+83	naga	alkali-plant	JJ	69	amod	
+84	{d}ba-ba6-i3-sa6	for Baba-isa	NN	69	nmod:for	
+85	3(disz)	_	,	87	nummod	
+86	sila3	sila	NN	87	compound	
+87	kasz	beer	NN	138	_	
+88	2(disz)	_	_	0	nummod	
+89	sila3	sila	NN	90	compound	
+90	ninda	bread	NN	87	conj	
+91	5(disz)	_	_	0	nummod	
+92	gin2	shekels	NNS	93	compound	
+93	szum2	onions	NNS	87	conj	
+94	3(disz)	_	_	0	nummod	
+95	gin2	shekels	NNS	96	compound	
+96	i3	oil	NN	87	conj	
+97	2(disz)	_	_	0	nummod	
+98	gin2	shekels	NNS	99	nmod:npmod	
+99	naga	alkali-plant	JJ	87	amod	
+100	al-la-mu	for Allamu	NNP	87	nmod:for	
+101	szunigin	total	NN	87	_	
+102	1(ban2)	_	:	87	nummod	
+103	5(disz)	ban	NN	105	nummod	
+104	sila3	sila	NN	105	compound	
+105	kasz	beer	NN	101	_	
+106	saga	fine	JJ	105	amod	
+107	szunigin	total	NN	87	_	
+108	7(disz)	_	''	87	nummod	
+109	sila3	sila	NN	107	_	
+110	ninda	bread	NN	109	_	
+111	gal	large	JJ	110	amod	
+112	szunigin	total	NN	138	_	
+113	1(ban2)	ban	NN	112	nummod	
+114	la2	less	JJR	117	advmod	
+115	1(disz@t)	_	:	112	nummod	
+116	sila3	sila	NN	117	compound	
+117	kasz	beer	NN	113	_	
+118	du	common	JJ	117	amod	
+119	szunigin	total	NN	112	_	
+120	1(ban2)	ban sila	NN	122	nummod	
+121	1(disz)	_	_	0	nummod	
+122	ninda	bread	NN	119	_	
+123	szunigin	total	NN	112	_	
+124	1/2(disz)	_	:	112	nummod	
+125	sila3	sila	NN	126	compound	
+126	szum2	onions	NNS	123	_	
+127	szunigin	total	NN	112	_	
+128	1(u)	_	_	0	nummod	
+129	8(disz)	_	_	128	nummod	
+130	gin2	shekels	NNS	131	compound	
+131	i3	oil	NN	127	_	
+132	szunigin	total	NN	112	_	
+133	1(u)	_	_	0	nummod	
+134	2(disz)	_	_	133	nummod	
+135	gin2	shekels	NNS	136	nmod:npmod	
+136	naga	alkali-plant	JJ	132	_	
+137	iti	month	NN	112	_	
+138	min3-esz3	mine	NN	69	_	
+139	u4	th day	NN	138	_	
+140	6(disz)-kam	_	,	138	nummod	
+141	mu	year	NN	138	appos	
+142	{d}szu-{d}suen	Sz-Suen	NNP	138	_	
+143	lugal-e	king	NN	142	appos	
+144	na-ru2-a-mah	great stele	NN	142	appos	
+145	{d}en-lil2	for Enlil	NNP	144	nmod:for	
+146	{d}nin-lil2-ra	and Ninlil	CC	145	cc	
+147	mu-ne-du3	erected	VBN	142	acl
+	
+

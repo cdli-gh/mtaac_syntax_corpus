@@ -1,0 +1,32 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P292/P292427.conll #
+##############################################################################################
+
+#new_text=P292427
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+sila3-ta	sila[unit]-ta	N	N.ABL	D		(UNIT (word *))
+ma2-lah5-bi		N	N.ABS	Iabcdef	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+i3-ib2-u3		V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	Iabcdefghi		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+2(u)-sze3		NU	NU.TERM	Iab	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	*
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+inim-{d}szara2	Inimszara[1][-ak][-ra]	PN	PN	D		(PN (word *))
+lunga	lungak[brewer][-ak]	N	N.GEN	D		(UNKNOWN (word *))
+bala-sze3		N	N	POS		(UNKNOWN (word *))
+zi3	zid[flour]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+munu4	munu[malt]	N	N	D		(UNKNOWN (word *))
+ba-a-gar	ba-e-gar[place][-ø]	V	MID.L2.V.3-SG-S	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

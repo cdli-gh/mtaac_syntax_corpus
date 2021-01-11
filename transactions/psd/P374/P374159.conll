@@ -1,0 +1,61 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P374/P374159.conll #
+##############################################################################################
+
+#new_text=P374159
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *)))))
+ma2-gid2		PN	PN	POS		(AGENT (PERSON (PN (word *))))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ma-an-szum2-ta	Manszum[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(AGENT (PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+da-da	Dada[1][-ak]	PN	PN	D		(PERSON (PN (word *)))))))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+gu4-ra2-bi2-mu2		MN	MN.L1	Ia		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY (word *))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+he2-dab5	hedab[worker]	V	N.DAT-H	D	B-COM	(PRODUCT_NAME (COM *))
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *))
+ma2-gid2		PN	PN	POS		(PN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ma-an-szum2-ta	Manszum[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+da-da	Dada[1][-ak]	PN	PN	D		(PERSON (PN (word *))))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+GAN2-masz	GANmasz[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+gu4-ra2-bi2-mu2-mu2	Gurabimumu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY (word *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+da-da	Dada[1][-ak]	PN	PN	D		(PERSON (PN (word *)))))))
+

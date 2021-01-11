@@ -1,0 +1,30 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P139/P139225.conll #
+##############################################################################################
+
+#new_text=P139225
+n	_(_)[_]	NU	NU	D		(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (word *))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *)
+n	_(_)[_]	NU	NU	D		(word *))
+gu4-gesz	gudgesz[draught_ox]	N	N.ABS	D		(UNKNOWN (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER_PRODUCT (NUMBER (word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *)
+n	_(_)[_]	NU	NU	D		(word *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(asz)	1(asz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+amar-ga		N	N	POS		(UNKNOWN (word *))
+x-ti-lum		PN	PN	Ia		(PERSON (PN (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *))))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+eme6		N	N.ABS	Iabcdefghij		(UNKNOWN (word *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+dur3		N	N	POS		(UNKNOWN (word *))
+gesz	gesz[tree]	N	N	D		(PRODUCT_NAME (word *))))
+

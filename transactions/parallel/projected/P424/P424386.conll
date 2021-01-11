@@ -1,0 +1,35 @@
+# train/P424386.atf
+						
+
+# tr.en: bull one year sheep ewe lamb slaughtered on st day from Duudu Szulgi-irimu has received month Eating Ubi-birds year Szu-Suen king of Ur erected Amorite wall Muriq-tidnim
+1	1(disz)	_	,	2	nummod	
+2	gu4	bull	NN	11	nsubj	
+3	mu	year	NN	2	nmod:npmod	
+4	1(asz)	one	CD	3	nummod	
+5	5(disz)	_	,	2	nummod	
+6	udu	sheep	NN	2	appos	
+7	1(disz)	_	,	2	nummod	
+8	u8	ewe	NN	2	appos	
+9	1(disz)	_	,	2	nummod	
+10	sila4	lamb	NN	2	appos	
+11	ba-usz2	slaughtered on	VBN	0	root	
+12	u4	st day	NN	11	nmod:on	
+13	2(u)	_	:	11	nummod	
+14	1(disz)-kam	_	_	13	nummod	
+15	ki	from	IN	17	nmod:from	
+16	du-u2-du-ta	Duudu	NN	17	compound	
+17	{d}szul-gi-iri-mu	Szulgi-irimu	NN	11	nmod:from	
+18	szu	has	VBZ	19	aux	
+19	ba-ti	received	VBN	17	acl	
+20	iti	month	NN	11	_	
+21	u5-bi2-gu7	Eating Ubi-birds	NNPS	20	_	
+22	mu	year	NN	21	_	
+23	{d}szu-{d}suen	Szu-Suen	NNP	29	nsubj	
+24	lugal	king	NN	23	appos	
+25	uri5{ki}-ma-ke4	Ur	NN	24	nmod:of	
+26	bad3	_	.	11	_	
+27	mar-tu	Amorite wall	NNP	28	compound	
+28	mu-ri-iq-ti-id-ni-im	Muriq-tidnim	NN	29	dobj	
+29	mu-du3	erected	VBD	21	acl
+	
+

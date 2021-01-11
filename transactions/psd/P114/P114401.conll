@@ -1,0 +1,89 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P114/P114401.conll #
+#########################################################################################
+
+#new_text=P114401
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+he2-dab5-sze3		N	N.COM.GEN.ABS	Iabcdefg		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+nam-zi-tar-ra		PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PERSON (PN (word *))))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lugal-uszumgal		PN	PN.GEN.ABS	D		(PERSON (PN (word *)))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+9(asz)	9(asz)[one]	NU	NU	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+bala	bala[turn][-'a]	N	N.L1	D		(BALA (word *))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D		(UNKNOWN (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD|GOD_NAME (word *))
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D		(UNKNOWN (word *)))
+7(asz)	7(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT_NAME (word *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+gur	gur[unit]	N	N	D		(UNIT (word *))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+he2-dab5-sze3		N	N.COM.GEN.ABS	Iabcdefg		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *)))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+geme2	geme[female_worker]	N	N	D		(PRODUCT_NAME (word *))
+kikken2-sze3		N	N.GEN.GEN.TERM	Iabcdefg		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-nig2		PN	PN	Iabcde		(PERSON (PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOB (JOBNAME (word *)))))
+kikken2		N	N.GEN.GEN.ABS	D		(UNKNOWN (word *)))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *))
+sig15	sig[flour_type]	V	N	D		(PRODUCT_NAME (word *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *)))
+gur	gur[unit]	N	N	D		(UNIT (word *)))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *))
+geme2	geme[female_worker]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+i3	i[oil]	N	N	D		(PRODUCT_NAME (word *)))
+sur-sze3		V	NF.V.RDP.PF.TERM	Iabcdefg		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+ur-ab-ba	Urabba[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+sza3-da		PN	PN	POS		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PERSON (PN (word *)))))))))
+

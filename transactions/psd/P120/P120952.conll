@@ -1,0 +1,64 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P120/P120952.conll #
+#########################################################################################
+
+#new_text=P120952
+4(ban2)	4(ban)[unit]	NU	N	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+x-...	_[_]	PN	PN	D		(AGENT (PERSON (PN (word *))))
+NI		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+3(ban2)	3(ban)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+igi	igi[eye][-ø]	N	N	D		(UNKNOWN (word *))
+lu2-...	_[1][-ra]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+gan-gan-e3		PN	PN	POS		(PN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))
+DU-am		PN	PN	POS		(PN (word *))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+sze-lu2		N	N	POS	B-COM	(PRODUCT_NAME (COM *))
+e2-a	e[house][-ak]-'a	GN	N.L1	D		(CITY|NATIONALITY (word *))
+5(ban2)	5(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+gu-da		PN	PN.ERG	Iab		(PN (word *))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur-{d}szu-mah		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+da-ni		PN	PN	Ia	B-COM	(PRODUCT_NAME (COM *))
+4(ban2)	4(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+lugal-u4		PN	PN	Iabcde		(PN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur-{d}da-mu	Urdamu[1]	PN	PN	D		(PN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur-{d}en-lil2		PN	PN	Iabcde		(PN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ur-tum		PN	PN	Ia		(PN (word *))
+2(ban2)	2(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+a2-ba-ba		N	N	POS		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+2(asz)	2(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*))
+szunigin	szunigin[total]	N	N	D		(SZUNIGIN (word *))))
+

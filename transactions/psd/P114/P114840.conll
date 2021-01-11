@@ -1,0 +1,36 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P114/P114840.conll #
+#########################################################################################
+
+#new_text=P114840
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *))
+ma2-lah5	malah[sailor]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*))
+lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	D		(JOBNAME (word *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+2(asz)	2(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-{d}hendur-sag-ta		PN	PN	Iabcdefgh		(PN (word *))
+ku5-da	kuda[1]	PN	PN	D		(PN (word *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+gesz-i3-ka		N	N.3-SG-NH-POSS.ABS.COP-3-PL.SUB.ABS	Iabcdefg		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+amar-a-a-si	Amarayasi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+szuszin{ki}		SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+kar2-har{ki}		GN	SN.GEN	D		(CITY|NATIONALITY (word *))
+a-ra2	ara[times]	N	N	D		(UNKNOWN (word *))
+3(disz)-kam-asz	3(disz)[one]-ak-am-sze	NU	NU.GEN.COP-3-SG.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

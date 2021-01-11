@@ -1,0 +1,51 @@
+# train/P416449.atf
+						
+
+# tr.en: ox ewes because of soldiers who for lustration ceremony the palace entered ewes grass-fed because of soldiers the Kitchen Nanna-kam messenger responsible official the th day from Ur-kununa booked out via Nanna-maba scribe month ki-siki of Ninazu year Szu-Suen king of Ur western wall muriq-tidnim erected ox small cattle
+1	1(disz)	_	NN	0	nummod	
+2	gu4	ox	NN	1	compound	
+3	mu	_	,	1	_	
+4	...	_	NN	6	dep	
+5	8(disz)	_	_	0	nummod	
+6	u8	ewes	NNS	1	appos	
+7	...	_	,	1	dep	
+8	mu	_	_	0	_	
+9	aga3-us2	because	IN	10	nmod:because	
+10	a-tu5-a-ka	soldiers who for lustration ceremony	NNS	1	nmod:because	
+11	e2-gal-la	palace	NN	12	nsubj	
+12	kux(KWU636)-ra-ne-sze3	the entered	VBD	10	acl:relcl	
+13	8(disz)	_	,	14	nummod	
+14	u8	ewes	NNS	10	conj	
+15	u2	grass-fed	JJ	14	amod	
+16	mu	_	NNS	14	nmod:because	
+17	aga3-us2-e-ne-sze3	because soldiers	IN	16	nmod:because	
+18	e2-muhaldim	the Kitchen	NN	14	appos	
+19	{d}nanna-kam	Nanna-kam	NN	10	conj	
+20	sukkal	messenger	NN	19	appos	
+21	maszkim	responsible official	NN	19	appos	
+22	u4	the th day	NN	10	conj	
+23	2(u)	_	,	22	nummod	
+24	6(disz)-kam	_	_	23	nummod	
+25	ki	from	IN	26	nmod:from	
+26	ur-ku3-nun-na-ta	Ur-kununa	NN	22	nmod:from	
+27	ba-zi	booked out	VBN	26	acl	
+28	giri3	via	IN	29	nmod:via	
+29	{d}nanna-ma-ba	Nanna-maba	NN	22	nmod:via	
+30	dub-sar	scribe	NN	22	appos	
+31	iti	month	NN	10	conj	
+32	ki-siki-{d}nin-a-zu	ki-siki Ninazu	NN	10	_	
+33	mu	year	NN	32	_	
+34	{d}szu-{d}suen	Szu-Suen	NNP	32	_	
+35	lugal	king	NN	34	appos	
+36	uri5{ki}-ma-ke4	Ur	NN	35	nmod:of	
+37	bad3	_	:	10	_	
+38	mar-tu	western wall	JJ	39	amod	
+39	mu-ri-iq-ti-id-ni-im	muriq-tidnim	NN	34	appos	
+40	mu-du3	erected	VBN	39	acl	
+41	1(disz)	_	.	1	nummod	
+42	gu4	ox	NN	10	_	
+43	1(u)	_	_	0	nummod	
+44	6(disz)	_	_	43	nummod	
+45	udu	small cattle	NNS	42	appos
+	
+

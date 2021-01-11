@@ -1,0 +1,191 @@
+# test/P381724.atf
+						
+
+# tr.en: workmen supervisor Ur-gigir supervisor Igizubara supervisor Ur-Nigar supervisor Lu-Baba Together workmen Therefrom royal entourage uzga house slaughterhouse chaff carriers of royal barge of grooms kitchen with Ur-nigar kitchen with Ur-Nane brewery with Lugal-anatum brewery with Ur-mes household of Ur-Namma in Sagdana flour carrier with Ur-Baba flour carrier with Namma flour carrier with Kugal-inimgi clay carriers in storage house stationed scribe of labor scribe of oil and dates scribe of -straw scribe of arzana scribe of flour groats spelt scribe of fish and vegetables Ur-Ninazu Ursaga with Namma Ur-Baba mouth of palace hung boat to reeds of Uruk boat of willow boat of household of governor reed carriers in Nippur boat of Isin Ki-Suen pise plasterers sick Alla sick Lu-Ea gudu-priest of Meslamtaea Total workers on hand out of town supervisor Igizubara out of town deficit supervisor Ur-gigir th day month Festival of Lisi
+1	1(gesz2)	_	,	4	nummod	
+2	3(u)	_	DT	10	nummod	
+3	7(disz)	_	_	2	nummod	
+4	gurusz	workmen	NNS	0	root	
+5	nu-banda3	supervisor	_	0	_	
+6	ur-{gesz}gigir	Ur-gigir	_	0	_	
+7	1(gesz2)	_	:	11	nummod	
+8	la2	_	CD	7	_	
+9	2(disz@t)	_	,	8	nummod	
+10	nu-banda3	supervisor	NN	4	appos	
+11	igi-zu-bar-ra	Igizubara	NN	4	_	
+12	3(u)	_	:	15	nummod	
+13	6(disz)	_	CD	12	nummod	
+14	nu-banda3	supervisor	NN	8	appos	
+15	ur-nigar{gar}	Ur-Nigar	NN	8	_	
+16	6(disz)	_	:	23	nummod	
+17	nu-banda3	supervisor	NN	13	appos	
+18	lu2-{d}ba-ba6	Lu-Baba	NNP	23	_	
+19	szunigin	Together	RB	23	_	
+20	3(gesz2)	_	.	23	nummod	
+21	1(u)	_	_	20	nummod	
+22	7(disz)	_	_	20	nummod	
+23	gurusz	workmen	NNS	13	_	
+24	sza3-bi-ta	Therefrom	NNP	23	_	
+25	3(u)	_	:	24	nummod	
+26	lugal-ra-us2-sa	royal entourage	NN	24	appos	
+27	1(u)	_	:	28	nummod	
+28	e2-uz-ga	uzga house	NN	24	_	
+29	5(disz)	_	:	28	nummod	
+30	e2-gu4-gaz	slaughterhouse	NN	28	appos	
+31	5(disz)	_	CD	32	nummod	
+32	duh-IL2	chaff carriers	NNS	28	_	
+33	5(disz)	_	CD	31	nummod	
+34	gu2	_	NN	33	appos	
+35	gir	of	IN	39	nmod:of	
+36	5(disz)	_	_	0	nummod	
+37	gu2	_	_	0	_	
+38	gir	_	_	0	_	
+39	ma2	barge	NN	31	nmod:of	
+40	lugal	royal	JJ	39	amod	
+41	5(asz)	_	DT	42	nummod	
+42	gu2	_	NN	34	nmod:of	
+43	gir	of	IN	42	nmod:of	
+44	murgu2	_	CD	48	nummod	
+45	gur8	_	,	48	_	
+46	3(disz)	_	:	48	nummod	
+47	sipa	_	CD	48	_	
+48	{ansze}si2-si2	grooms	NNS	33	_	
+49	2(u)	_	:	47	nummod	
+50	la2	_	CD	58	nummod	
+51	2(disz@t)	_	,	50	nummod	
+52	<e2>-muhaldim	kitchen with	NN	47	appos	
+53	ki	_	_	0	_	
+54	ur-nigar{gar}	Ur-nigar	NN	47	nmod:with	
+55	2(u)	_	:	47	nummod	
+56	la2	_	CD	62	nummod	
+57	2(disz@t)	_	,	56	nummod	
+58	<e2>-muhaldim	kitchen with	NN	47	conj	
+59	ki	_	_	0	_	
+60	ur-{d}nansze	Ur-Nane	NN	58	nmod:with	
+61	5(disz)	_	:	47	nummod	
+62	e2-lunga	brewery	NN	47	conj	
+63	ki	with	IN	64	nmod:with	
+64	lugal-an-na-tum2	Lugal-anatum	NN	62	nmod:with	
+65	2(disz)	_	:	47	nummod	
+66	e2-lunga	brewery with	NN	47	conj	
+67	ki	_	CD	47	_	
+68	ur-mes	Ur-mes	NNS	66	nmod:with	
+69	1(disz)	_	CD	70	nummod	
+70	e2	household	NN	67	root	
+71	ur-{d}namma	Ur-Namma	NN	70	nmod:of	
+72	1(disz)	_	,	75	nummod	
+73	gu2	_	CD	75	amod	
+74	tul2	_	,	75	_	
+75	sag-da-na	in Sagdana	NNP	69	nmod:in	
+76	1(disz)	_	:	79	nummod	
+77	zi3-IL2	flour carrier	NN	75	appos	
+78	ki	with	IN	79	nmod:with	
+79	ur-{d}ba-ba6	Ur-Baba	NN	69	nmod:with	
+80	1(disz)	_	:	81	nummod	
+81	zi3-IL2	flour carrier	NN	79	_	
+82	ki	with	IN	83	nmod:with	
+83	nam-mah	Namma	NN	81	nmod:with	
+84	1(disz)	_	:	85	nummod	
+85	zi3-IL2	flour carrier	NN	81	_	
+86	ki	with	IN	87	nmod:with	
+87	lugal-inim-gi	Kugal-inimgi	NN	85	nmod:with	
+88	2(disz)	_	:	89	nummod	
+89	im-IL2	clay carriers	NNS	130	nsubj	
+90	2(disz)	_	:	89	nummod	
+91	ga2-nun-da	in storage house stationed	NN	89	nmod:in	
+92	tusz-a	_	CD	89	_	
+93	1(disz)	_	:	89	nummod	
+94	dub-sar	scribe	NN	92	appos	
+95	gesz-kin-ti	labor	NN	94	nmod:of	
+96	1(disz)	_	:	89	nummod	
+97	dub-sar	scribe	NN	89	appos	
+98	i3	oil	NN	97	nmod:of	
+99	zu2-lum	and dates	CC	98	cc	
+100	1(disz)	_	:	89	nummod	
+101	dub-sar	scribe	NN	89	appos	
+102	in-bul5-bul5	-straw	NN	101	nmod:of	
+103	1(disz)	_	CD	89	nummod	
+104	dub-sar	scribe	NN	89	appos	
+105	ar-za-na	arzana	NN	104	nmod:of	
+106	1(disz)	_	:	89	nummod	
+107	dub-sar	scribe	NN	103	appos	
+108	zi3	flour	NN	107	nmod:of	
+109	nig2-ar-ra	groats	NNS	108	conj	
+110	imgaga3	spelt	VBN	108	acl	
+111	1(disz)	_	:	89	nummod	
+112	dub-sar	scribe	NN	89	appos	
+113	ku6	fish	NN	112	nmod:of	
+114	nisi	and vegetables	CC	113	cc	
+115	1(disz)	_	:	89	nummod	
+116	ur-{d}nin-a-zu	Ur-Ninazu	NNP	89	appos	
+117	1(disz)	_	NN	89	nummod	
+118	ur-sa6-ga	_	CD	89	_	
+119	durunx(|KU.KU|)	Ursaga	NNP	117	compound	
+120	1(disz)	_	:	89	nummod	
+121	ki	with	IN	122	nmod:with	
+122	nam-mah	Namma	NN	118	nmod:with	
+123	1(disz)	_	NN	89	nummod	
+124	ur-{d}ba-ba6	Ur-Baba	NNP	123	compound	
+125	gaba-ta	_	CD	89	_	
+126	1(disz)	_	:	89	nummod	
+127	ka	mouth	NN	125	appos	
+128	e2-gal	palace	NN	127	nmod:of	
+129	2(disz)	_	:	85	nummod	
+130	ma2-la2-a	hung boat to	VBD	85	parataxis	
+131	gi	reeds	NNS	130	nmod:to	
+132	unu{ki}-sze3	Uruk	NNP	131	nmod:of	
+133	5(disz)	_	:	134	nummod	
+134	ma2	boat	NN	85	root	
+135	{gesz}ma-nu	willow	NN	134	nmod:of	
+136	1(u)	_	CD	137	nummod	
+137	ma2	boat	NN	134	_	
+138	gi-la2	of	IN	137	nmod:of	
+139	1(u)	_	:	140	nummod	
+140	e2	household	NN	136	root	
+141	ensi2	governor	NN	140	nmod:of	
+142	3(disz)	_	:	140	nummod	
+143	gi-IL2	reed carriers	NNS	140	conj	
+144	sza3	in	IN	145	nmod:in	
+145	nibru{ki}	Nippur	NNP	143	nmod:in	
+146	3(disz)	_	CD	147	nummod	
+147	ma2	boat	NN	140	root	
+148	i3-si-in{ki}	Isin	NN	147	nmod:of	
+149	7(disz)	_	:	146	nummod	
+150	|ZI&amp;ZI|-sze3	Ki-Suen	NNP	146	appos	
+151	ki-{d}suen	_	CD	155	nummod	
+152	2(u)	_	:	146	nummod	
+153	la2	_	CD	157	compound	
+154	3(disz@t)	_	,	153	nummod	
+155	im-du8-a	pise plasterers	NNS	146	_	
+156	1(disz)	_	:	146	nummod	
+157	tu	sick	JJ	146	_	
+158	al-la	Alla	NNP	157	appos	
+159	1(disz)	_	:	146	nummod	
+160	tu	sick	JJ	161	amod	
+161	lu2-e2-a	Lu-Ea	NN	146	_	
+162	1(disz)	_	:	163	nummod	
+163	gudu4	gudu-priest	NN	178	_	
+164	{d}mes-lam-ta-e3-a	Meslamtaea	NN	163	nmod:of	
+165	szunigin	Total	NNP	163	_	
+166	3(gesz2)	_	:	165	nummod	
+167	8(disz)	_	CD	166	nummod	
+168	gurusz	workers	NNS	165	_	
+169	gub-ba	on hand	NN	168	nmod:on	
+170	4(disz)	_	:	163	nummod	
+171	iri-ta	out town	NN	167	nmod:out.of	
+172	nu-banda3	supervisor	NN	165	_	
+173	igi-zu-bar-ra	Igizubara	NN	165	_	
+174	3(disz)	_	:	180	nummod	
+175	iri-ta	out town	NN	163	nmod:out.of	
+176	la2-ia3	deficit	NN	175	appos	
+177	2(disz)	_	_	0	nummod	
+178	nu-banda3	supervisor	NN	146	_	
+179	ur-{gesz}gigir	Ur-gigir	NN	180	compound	
+180	u4	th day	NN	178	_	
+181	3(u)	_	,	180	nummod	
+182	la2	_	_	181	_	
+183	1(disz@t)-kam	_	_	182	nummod	
+184	iti	month	NN	180	appos	
+185	ezem-{d}li9-si4	Festival Lisi	NNP	180	root
+	
+

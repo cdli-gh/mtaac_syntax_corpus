@@ -1,0 +1,197 @@
+# train/P108485.atf
+						
+
+# tr.en: shekels silver remainder gur barig ban dates royal its silver shekels less grains the household manager shekels silver because of field of bur surface area from Ur-gigir trade agent total mana shekels less grains silver consitute debits therefrom mana shekels copper it silver shekels grains mana less shekels sue its silver shekels grains ban sila plant oil for oiling garments Il trade agent its silver shekels ban plant oil oiling garments via Ur-Damu foremen of weavers its silver shekel grains ban sila EA-bitumen for basket of inscribed tablets its silver barig dates via Intila ban sila dates via Giri-Baba-idab its silver grains talents of plaster its silver grains via Lu-Gebare pine planks udim for barges its silver grains sila lard its silver grains porters via Ezimu pigskins it silver less grains total mana grains silver deliveries the deficit shekels grain silver done account of Ikur trade agent from month Amar-ayasi year Sasrum was destroyed to month Amar-ayasi year high-priestess of nanna was named
+1	5(disz)	_	,	4	nummod	
+2	gin2	shekels	NNS	4	compound	
+3	2/3(|NINDA2x(SZE.2(ASZ))|)	_	_	0	nummod	
+4	ku3-babbar	silver	NN	0	root	
+5	si-i3-tum	remainder	NN	4	appos	
+6	2(u)	_	,	11	nummod	
+7	7(asz)	_	_	6	nummod	
+8	1(barig)	_	_	6	nummod	
+9	3(ban2)	barig ban	NN	10	nummod	
+10	zu2-lum	dates	NNS	11	_	
+11	gur	gur	NN	4	_	
+12	lugal	royal	NN	11	appos	
+13	ku3-bi	its silver	NN	11	appos	
+14	1/3(disz){sza}	_	,	16	nummod	
+15	7(disz)	_	_	14	nummod	
+16	gin2	shekels	NNS	11	_	
+17	igi-3(disz)-gal2	_	_	0	_	
+18	la2	less	RBR	20	advmod	
+19	6(disz)	_	_	18	nummod	
+20	sze	grains	NNS	16	_	
+21	ki	_	:	16	_	
+22	szabra-ta	the household manager	NN	16	appos	
+23	1(u)	_	,	25	nummod	
+24	gin2	shekels	NNS	25	compound	
+25	ku3-babbar	silver	NN	16	_	
+26	mu	_	,	25	_	
+27	a-sza3	field	NN	25	nmod:because	
+28	1(bur3)	_	_	0	nummod	
+29	GAN2-sze3	because bur surface area	IN	27	nmod:because	
+30	ki	from	IN	31	nmod:from	
+31	ur-{gesz}gigir	Ur-gigir	NN	25	nmod:from	
+32	dam-gar3-ta	trade agent	NN	25	appos	
+33	szunigin	total	NN	25	_	
+34	2/3(disz)	_	,	33	nummod	
+35	ma-na	mana	NN	33	_	
+36	3(disz)	_	_	0	nummod	
+37	gin2	shekels	NNS	35	_	
+38	la2	less	RBR	41	advmod	
+39	6(disz)	_	_	38	nummod	
+40	sze	grains	NNS	41	compound	
+41	ku3-babbar	silver	NN	37	_	
+42	sag-nig2-gur11-ra-kam	consitute debits	VB	33	acl	
+43	sza3-bi-ta	therefrom	RB	50	_	
+44	5(u)	_	,	50	nummod	
+45	1(disz)	_	_	44	nummod	
+46	1/2(disz)	_	_	44	nummod	
+47	ma-na	mana	NN	50	compound	
+48	5(disz)	_	_	0	nummod	
+49	gin2	shekels	NNS	50	compound	
+50	uruda	copper	NN	25	_	
+51	ku3-bi	it silver	PRP	50	appos	
+52	1/3(disz){sza}	_	:	51	nummod	
+53	2(disz)	_	CD	58	nummod	
+54	gin2	shekels	NNS	51	_	
+55	2(u)	_	_	0	nummod	
+56	sze	grains	NNS	54	nmod:npmod	
+57	5/6(disz)	_	NN	58	nummod	
+58	ma-na	mana	NN	51	_	
+59	2(disz)	_	,	58	nummod	
+60	gin2	shekels	NNS	58	_	
+61	la2	less	JJR	60	advmod	
+62	igi-6(disz)-gal2	_	_	0	_	
+63	su3-he2	_	,	58	_	
+64	ku3-bi	its silver	NN	58	appos	
+65	1(disz)	_	:	51	nummod	
+66	gin2	shekels	NNS	51	_	
+67	2/3(|NINDA2x(SZE.2(ASZ))|)	_	CD	73	nummod	
+68	1(u)	_	_	67	nummod	
+69	sze	grains	NNS	66	_	
+70	2(ban2)	_	,	73	nummod	
+71	4(disz)	ban	NN	70	nummod	
+72	sila3	sila	NN	73	compound	
+73	i3-gesz	plant oil	NN	51	_	
+74	mu	_	,	77	_	
+75	i3	_	,	77	_	
+76	tug2-ge2	for	IN	77	nmod:for	
+77	ak-da-sze3	oiling garments	NNS	73	nmod:for	
+78	i3-li2	Il trade	DT	79	det	
+79	dam-gar3	agent	NN	77	conj	
+80	ku3-bi	its silver	NN	77	appos	
+81	2(disz)	_	:	51	nummod	
+82	gin2	shekels	NNS	51	_	
+83	2/3(|NINDA2x(SZE.2(ASZ))|)	_	CD	85	nummod	
+84	1(ban2)	ban	NN	83	nummod	
+85	i3-gesz	plant oil	NN	51	conj	
+86	tug2-ge	oiling	VBG	87	compound	
+87	ak-de3	garments	NNS	85	appos	
+88	giri3	via	IN	89	nmod:via	
+89	ur-{d}da-mu	Ur-Damu	NNP	85	nmod:via	
+90	ugula	foremen	NNS	89	appos	
+91	usz-bar	weavers	NNS	90	nmod:of	
+92	ku3-bi	its silver	NN	89	appos	
+93	1(disz)	_	:	51	nummod	
+94	gin2	shekel	NN	89	_	
+95	2(u)	_	CD	100	nummod	
+96	sze	grains	NNS	94	_	
+97	2(ban2)	_	,	100	nummod	
+98	5(disz)	ban	NN	97	nummod	
+99	sila3	sila	NN	100	compound	
+100	esir2	EA-bitumen	NNS	51	conj	
+101	E2-A	_	_	0	_	
+102	pisan	basket	NN	100	nmod:for	
+103	im	tablets	NNS	102	nmod:of	
+104	sar-ra-sze3	for inscribed	IN	102	nmod:for	
+105	ku3-bi	its silver	NN	100	appos	
+106	igi-3(disz)-gal2	_	:	105	_	
+107	2(barig)	_	,	108	nummod	
+108	zu2-lum	barig dates	NNS	51	conj	
+109	giri3	via	IN	110	nmod:via	
+110	in-ti-la	Intila	NNP	108	nmod:via	
+111	1(ban2)	_	,	110	nummod	
+112	5(disz)	ban	NN	114	nummod	
+113	sila3	sila	NN	114	compound	
+114	zu2-lum	dates	NNS	110	appos	
+115	giri3	via	IN	116	nmod:via	
+116	giri3-{d}ba-ba6-i3-dab5	Giri-Baba-idab	NNP	110	nmod:via	
+117	ku3-bi	its silver	NN	116	appos	
+118	igi-3(disz)-gal2	_	,	121	_	
+119	1(u)	_	CD	123	nummod	
+120	1(disz)	_	_	119	nummod	
+121	sze	grains	NNS	116	_	
+122	2(asz)	_	,	121	nummod	
+123	gu2	talents	NNS	121	appos	
+124	im-babbar2	plaster	NN	123	nmod:of	
+125	ku3-bi	its silver	NN	121	appos	
+126	igi-6(disz)-gal2	_	,	121	_	
+127	6(disz)	_	_	0	nummod	
+128	sze	grains	NNS	121	_	
+129	giri3	via	IN	130	nmod:via	
+130	lu2-{d}gesz-bar-e3	Lu-Gebare	NNP	121	nmod:via	
+131	3(disz)	_	,	133	nummod	
+132	{gesz}u3-suh5	pine	VBP	133	amod	
+133	{gesz}szu-dim2	planks udim	NNS	121	_	
+134	ma2-sze3	for barges	NNS	133	nmod:for	
+135	ku3-bi	its silver	NN	133	appos	
+136	igi-3(disz)-gal2	_	:	141	_	
+137	x	_	CD	144	dep	
+138	sze	_	_	0	_	
+139	1(u)	_	_	0	nummod	
+140	2(disz)	_	_	139	nummod	
+141	sze	grains	NNS	133	_	
+142	2(disz)	_	,	144	nummod	
+143	<sila3>	sila	NN	144	compound	
+144	i3-szah2	lard	NN	141	_	
+145	ku3-bi	its silver	PRP$	148	nmod:poss	
+146	igi-6(disz)-gal2	_	,	144	_	
+147	6(disz)	_	DT	149	nummod	
+148	sze	grains	NNS	144	conj	
+149	ug3-IL2-me	porters	NNS	144	conj	
+150	giri3	via	IN	151	nmod:via	
+151	e2-zi-mu	Ezimu	NNP	144	nmod:via	
+152	3(disz)	_	,	154	nummod	
+153	kusz	_	_	0	_	
+154	szah2	pigskins	NNS	144	_	
+155	ku3-bi	it silver	NN	154	appos	
+156	2(u)	_	:	141	nummod	
+157	la2	less	RBR	159	advmod	
+158	2(disz)	_	_	157	nummod	
+159	sze	grains	NNS	154	_	
+160	szunigin	total	NN	141	_	
+161	1/2(disz)	_	,	167	nummod	
+162	ma-na	mana	NN	160	_	
+163	igi-6(disz)-gal2	grains	NNS	167	compound	
+164	2(u)	_	_	0	nummod	
+165	3(disz)	_	_	164	nummod	
+166	sze	_	_	0	_	
+167	ku3-babbar	silver	NN	162	_	
+168	mu-kux(DU)	deliveries	NN	167	appos	
+169	la2-ia3	the deficit	NN	141	_	
+170	1(u)	_	:	172	nummod	
+171	2(disz)	_	_	170	nummod	
+172	gin2	shekels	NNS	169	_	
+173	2/3(|NINDA2x(SZE.2(ASZ))|)	_	_	0	nummod	
+174	1(disz)	_	_	173	nummod	
+175	sze	grain	NN	176	compound	
+176	ku3-babbar	silver	NN	172	appos	
+177	nig2-ka9-ak	done account	NN	172	_	
+178	ik-s,ur2	Ikur	NNP	177	nmod:of	
+179	dam-gar3	trade agent	NN	177	appos	
+180	iti	month	NN	177	nmod:from	
+181	amar-a-a-si	from Amar-ayasi	IN	180	nmod:from	
+182	mu	year	NN	177	_	
+183	sza-asz-ru-um{ki}	Sasrum	FW	184	nsubjpass	
+184	ba-hul-ta	was destroyed	VBN	177	parataxis	
+185	iti	month	NN	177	nmod:to	
+186	amar-a-a-si	to Amar-ayasi	TO	185	nmod:to	
+187	mu	year	NN	177	_	
+188	en	high-priestess	NN	191	nsubjpass	
+189	{d}nanna	_	.	4	_	
+190	masz-e	_	''	4	_	
+191	i3-pa3-sze3	nanna was named	VBN	177	ccomp
+	
+

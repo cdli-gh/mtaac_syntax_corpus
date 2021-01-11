@@ -1,0 +1,51 @@
+# project: etcsri 
+# textid: Q000842 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000842.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	ri2-mu-uc	ri2-mu-uc	1	N1=NAME	RN	0	_	
+2	lugal	lugal	king	N1=STEM	N	1	appos	
+3	kic	kic	totality	N1=STEM.N5=GEN.N5=ABS	N	2	GEN	
+4	ud	ud	sun	N1=STEM	N	0	_	
+5	ul-li2-a-ta	ul-li2	distant	NV2=STEM.NV4=SUB.N5=ABL	V/i	4	amod	
+6	{d}en-lil2-ra	{d}en-lil2	1	N1=NAME.N5=DAT-H	DN	0	_	
+7	lu2	lu2	person	N1=STEM	N	0	_	
+8	na-me	na-me	somebody	N1=STEM.N5=ERG	XP	0	_	
+9	alan	alan	statue	N1=STEM	N	11	ABS	
+10	an-na	an-na	metal	N1=STEM.N5=ABS	N	9	appos	
+11	nu-ta-dim2	dim2	create	V1=NEG.V5=3-NH.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+12	ri2-mu-uc	ri2-mu-uc	1	N1=NAME	RN	17	ERG	
+13	lugal	lugal	king	N1=STEM	N	12	appos	
+14	kic	kic	totality	N1=STEM.N5=GEN.N5=ERG	N	13	GEN	
+15	alan-na-ni	alan	statue	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	17	ABS	
+16	an-na-kam	an-na	metal	N1=STEM.N5=ABS.N6=COP-3-SG	N	17	ABS.	
+17	i3-dim2	dim2	create	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	V/t	0	_	
+18	igi	igi	face	N1=STEM	N	20	TERM	
+19	{d}en-lil2-la2-ce3	{d}en-lil2	1	N1=NAME.N5=GEN.N5=TERM	DN	18	GEN	
+20	i3-gub	gub	stand	V2=FIN.V11=3-SG-H-A.V12=gub.V14=3-SG-P	V/i	0	_	
+21	mu5-ru5	mu5-ru5	middle	N1=STEM	N	24	L1	
+22	dijir-re-ne-ka	dijir	deity	N1=STEM.N4=PL.N5=GEN.N5=L1	N	21	GEN	
+23	me-te-ni	me-te	self	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	24	ABS	
+24	ni-cid	cid	count	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG.P	V/t	0	_	
+25	lu2	lu2	person	N1=STEM	N	27	ABS	
+26	im-sar-ra-e	im-sar-ra	inscription	N1=STEM.N2=DEM1.N5=ABS	N	25	appos	
+27	ab-ha-lam-me-a	ha-lam	forsake	V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=GEN	V/t	31	GEN	
+28	{d}en-lil2	{d}en-lil2	1	N1=NAME	DN	31	ERG	
+29	{d}utu-be2	{d}utu	1	N1=NAME.N3=DEM2.N5=ERG	DN	28	appos	
+30	suhuc-a-ni	suhuc	foundation	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	31	ABS	
+31	he2-burₓ(PAD)-re6-ne	burₓ(PAD)	tear	V1=MOD1.V2=FIN.V12=STEM.V14=3-PL-A	V/t	0	_	
+32	numun-na-ni	numun	seed	N1=STEM.N3=3-SG-H-POSS.N5=ABS	N	33	ABS	
+33	he2-degₓ(RI)-degₓ(RI)-ge-ne	degₓ(RI)-degₓ(RI)	collect	V1=MOD1.V2=FIN.V12=STEM-RDP.V14=3-PL-A	V/t	0	_	
+34	mu-sar-ra	mu-sar-ra	inscription	N1=STEM	N	0	_	
+35	{urud}cen	{urud}cen	cauldron	N1=STEM	N	34	appos	
+36	za-hum	za-hum	basin	N1=STEM.N5=GEN.N5=ABS	N	35	GEN	
+37	mu-sar-ra	mu-sar-ra	inscription	N1=STEM.N5=ABS	N	0	_	
+38	ti-x-bi-ni	_	_	_	u	0	_	
+39	ri2-mu-uc-kam	ri2-mu-uc	1	N1=NAME	RN	0	_	

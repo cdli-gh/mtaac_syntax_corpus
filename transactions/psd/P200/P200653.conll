@@ -1,0 +1,45 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P200/P200653.conll #
+##############################################################################################
+
+#new_text=P200653
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+nu	nu[not][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+ab2-mah2	abmah[mature_cow]	N	N	D		(PRODUCT_NAME (word *))
+usz-gi-na		PN	PN	Iabcdefgh		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+nu	nu[not][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *)))))
+ur-{d}nin-su		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+nu	nu[not][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *)))))
+ur-ki-gu-la		PN	PN.GEN.ABS	D		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+nu	nu[not][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+lugal-{d}utu	Lugalutu[1]	PN	PN	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+gu4	gud[ox]	N	N	D		(PRODUCT_NAME (word *))
+libir		V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcdefghi		(UNKNOWN (word *))
+si-im-da		N	N	Ia		(UNKNOWN (word *))
+nu-ak		V	V	POS		(UNKNOWN (word *))
+inim	inim[word]	N	N	D		(UNKNOWN (word *))
+lu2-{d}szul-gi-ta		PN	PN	Iabcdefgh		(PN (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+ur-zigum-ma		PN	PN.GEN.GEN.ABS	Iabcdefg		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+ur-{d}lamma	Urlamma[1]	PN	PN	D		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))))
+

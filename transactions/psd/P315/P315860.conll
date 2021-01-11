@@ -1,0 +1,56 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P315/P315860.conll #
+##############################################################################################
+
+#new_text=P315860
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+lugal	lugal[king]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D		(UNKNOWN (word *)))
+1/3(disz)	1/3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+i3-gesz	igesz[oil]	V	N	D		(PRODUCT_NAME (word *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+du8-du8-li2{ki}		SN	GN	D		(CITY|NATIONALITY (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ninda	ninda[bread]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+lu2-{d}nanna	Lunanna[1]	PN	PN	D		(AGENT (PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *)))))
+lugal	lugal[king]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))
+elam-da		GN	GN.GEN	Iabcde		(CITY (word *))))))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(CITY (SZA3 (word *))
+ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	SN.GEN.L1	D		(word *))
+3(disz)	3(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+dabin	dabin[semolina]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D		(UNKNOWN (word *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+du8-du8-li2{ki}		SN	GN	D		(CITY (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-{d}nanna	Lunanna[1]	PN	PN	D		(PERSON (PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOB (JOBNAME (word *)))))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ACCOUNTING (ZIGA (word *))
+a-kal-la	Akala[1]	PN	PN	D		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+en-unu6-gal-an-na		PN	PN.ABS	Ia		(PERSON (PN (word *))
+en	en[priest]	N	N	D		(JOB (JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD (word *)))))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

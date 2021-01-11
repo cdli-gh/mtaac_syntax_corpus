@@ -1,0 +1,61 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P337/P337818.conll #
+##############################################################################################
+
+#new_text=P337818
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gi}pisan	bisag[basket]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+kid	kid[mat]	N	N	D		(PRODUCT_NAME (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)-ta	2(disz)[one]-ta	NU	NU.ABL	D	I-COUNT	*))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}pisan	bisag[basket]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+kid	kid[mat]	N	N	D		(PRODUCT_NAME (word *))
+8(disz)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}su7-su7	susu[reed_type]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}ma-an-sim	mansim[sieve]	N	N	D		(UNKNOWN (word *))
+zi3-gu	zidgu[flour_type]	N	N	D		(PRODUCT_NAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}ma-an-sim	mansim[sieve]	N	N	D		(UNKNOWN (word *))
+nig2-har-ra		N	N.GEN.L1	Iabcdefg		(UNKNOWN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gi}gur	gur[measuring_vessel]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+zi3	zid[flour]	N	N	D		(PRODUCT_NAME (word *)))))
+IL2		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+n	_(_)[_]	NU	NU	D		(NUMBER (word *))
+...	_[_]	PN	N	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *)))
+4(u)	4(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+ARAD2-...		PN	PN	Iabcde		(PN (word *)))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+a	a[water][-ø]	N	N.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+ba-dul9		V	MID.V.3-SG-S	Iabcdefgh		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(AGENT (KISZIB (word *))
+lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))
+lugal-si-NE-e	Lugalsine'e[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(PERSON (JOB (JOBNAME (word *)))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+lugal-sa6-ga	Lugalsaga[1][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))))))))
+

@@ -1,0 +1,100 @@
+# project: etcsri 
+# textid: Q000613 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000613.U0 
+# bracketing_level: 0 
+# m/@k=subgenre : Royal justice 
+# m/@k=genre : Literary 
+# m/@k=period : Old Babylonian 
+# ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE CF_MWE GW_MWE SENSE_MWE POS_MWE EPOS_MWE
+# ID OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE HEAD EDGE
+# ID	WORD	BASE	GW	MORPH2	POS	HEAD	EDGE	
+1	ud	ud	sun	N1=STEM	N	0	_	
+2	an	an	1	N1=NAME	DN	1	appos	
+3	gal	gal	big	NV2=STEM	V/i	2	amod	
+4	a-a	a-a	father	N1=STEM	N	1	appos	
+5	dijir-re-ne-ke4	dijir	deity	N1=STEM.N4=PL.N5=GEN.N5=ERG	N	4	GEN	
+6	{d}en-lil2	{d}en-lil2	1	N1=NAME	DN	10	ERG	
+7	lugal	lugal	king	N1=STEM	N	6	appos	
+8	kur-kur-ra-ke4	kur-kur	mountain	N1=STEM-RDP.N5=GEN.N5=ERG	N	7	GEN	
+9	nam	nam	fate	N1=STEM.N5=ABS	N	10	ABS	
+10	tar-tar-re-de3	tar-tar	cut	NV2=STEM-RDP.NV3=PF.N5=ERG	V/t	21	ERG	
+11	{d}nin-i3-si-na	{d}nin-i3-si-na	1	N1=NAME	DN	21	DAT-H	
+12	dumu	dumu	child	N1=STEM	N	11	appos	
+13	an-na-ra	an	1	N1=NAME.N5=GEN.N5=DAT-H	DN	12	GEN	
+14	nin	nin	lady	N1=STEM	N	21	GEN	
+15	sun5-na	sun5	humble	NV2=STEM.NV4=SUB.N5=GEN	V/i	14	amod	
+16	nam-nir-jal2-la-ni-ce3	nam-nir-jal2	authority	N1=STEM.N3=3-SG-H-POSS.N5=TERM	N	14	GEN	
+17	igi	igi	eye	N1=STEM	N	21	TERM	
+18	hul2-la	hul2	rejoice	NV2=STEM.NV4=SUB	V/i	17	amod	
+19	saj-ki	saj-ki	forehead	N1=STEM	N	17	appos	
+20	zalag-ga-ni-ce3	zalag	shine	NV2=STEM.N3=3-SG-H-POSS.N5=TERM	V/i	19	amod	
+21	mu-un-ci-in-bar-re-ec-a	bar	cvve	V4=VEN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-PL.V15=SUB	V/t	25	ERG	
+22	i3-si-in{ki}	i3-si-in{ki}	1	N1=NAME	SN	21	appos	
+23	in-dub-ba	in-dub-ba	boundary	N1=STEM	N	21	appos	
+24	an-ne2	an	1	N1=NAME.N5=ERG	DN	21	appos	
+25	jar-ra-na	jar	place	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=L1-OB	V/t	26	L1-OB	
+26	bala	bala	turn	NV2=STEM	V/t	0	_	
+27	sag9-ga	sag9	good	NV2=STEM.NV4=SUB	V/i	26	appos	
+28	nam-lugal	nam-lugal	kingship	N1=STEM	N	31	ABS	
+29	ki-en-gi	ki-en-gi	1	N1=NAME	GN	28	appos	
+30	ki-uri	ki-uri	1	N1=NAME.N5=GEN.N5=ABS	GN	29	GEN	
+31	im-ma-an-cum2-mu-uc-a	cum2	give	V2=FIN.V4=VEN.V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-PL.V15=SUB.N5=L1	V/t	26	appos	
+32	ud-ba	ud	sun	N1=STEM.N3=DEM2.N5=L1	N	38	L1	
+33	{d}li-pi2-it-ec4-tar2	{d}li-pi2-it-ec4-tar2	1	N2=NAME	RN	38	ABS	
+34	sipad	sipad	shepherd	N1=STEM	N	36	ABS	
+35	jec	jec	tree	N1=STEM.N5=ABS	N	34	appos	
+36	tuku	tuku	acquire	NV2=STEM	V/t	33	amod	
+37	mu	mu	name	N1=STEM.N5=ABS	N	36	appos	
+38	pad3-da	pad3	find	NV2=STEM.NV4=SUB	V/t	0	_	
+39	{d}nu-nam-nir-ra	{d}nu-nam-nir	1	N1=NAME.N5=GEN.N5=ABS	DN	38	GEN	
+40	nij2-si-sa2	nij2-si-sa2	justice	N1=STEM.N5=ABS	N	42	ABS	
+41	kalam-ma	kalam	land	N1=STEM.N5=L1	N	42	L1	
+42	ja2-ja2-de3	ja2-ja2	place	NV2=STEM-PF.NV4=PF.N5=DAT-NH	V/t	0	_	
+43	i-{d}utu	i-{d}utu	complaint	N1=STEM.N5=ABS	N	0	_	
+44	ka-ta	ka	mouth	N1=STEM.N5=ABS	N	45	ABS	
+45	ha-lam-e-de3	ha-lam	forsake	NV2=STEM.NV4=ed.N5=DAT-NH	V/t	0	_	
+46	nij2-erim2	nij2-erim2	evil	N1=STEM	N	0	_	
+47	nij2-a2-zig3	nij2-a2-zig3	violence	N1=STEM.N5=ABS	N	46	appos	
+48	{jec}tukul	{jec}tukul	weapon	N1=STEM.N5=ABS	N	49	ABS	
+49	gi4-gi4-de3	gi4-gi4	turn	NV2=STEM-PF.NV3=PF.N5=DAT-NH	V/i	53	DAT-NH	
+50	ki-en-gi	ki-en-gi	1	N1=NAME	GN	53	ABS	
+51	ki-uri	ki-uri	1	N1=NAME.N5=ABS	GN	50	appos	
+52	su-ba	su	flesh	N1=STEM.N3=3-SG-NH-POSS.N5=L1	N	53	L1	
+53	dug3-ge-de3	dug3	good	NV2=STEM.NV4=PF.N5=DAT-NH	V/i	0	_	
+54	an-ne2	an	1	N1=NAME.N5=ERG	DN	0	_	
+55	{d}en-lil2-le	{d}en-lil2	1	N1=NAME.N5=ERG	DN	59	ERG	
+56	{d}li-pi2-it-ec4-tar2	{d}li-pi2-it-ec4-tar2	1	N2=NAME.N5=ABS	RN	59	ABS	
+57	nam-nun	nam-nun	magnificence	N1=STEM	N	59	TERM	
+58	kalam-ma-ce3	kalam	land	N1=STEM.N5=GEN.N5=TERM	N	57	GEN	
+59	mu-un-pad3-de3-ec-a-ba	pad3	find	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-PL.V15=SUB.N3=DEM2.N5=L1	V/t	0	_	
+60	ud-ba	ud	sun	N1=STEM.N3=DEM2.N5=L1	N	0	_	
+61	{d}li-pi2-it-ec4-tar2	{d}li-pi2-it-ec4-tar2	1	N2=NAME	RN	0	_	
+62	sipad	sipad	shepherd	N1=STEM	N	80	L3-NH	
+63	sun5-na	sun5	humble	NV2=STEM.NV4=SUB	V/i	62	amod	
+64	nibru{ki}	nibru{ki}	1	N1=NAME.N5=GEN	SN	62	GEN	
+65	engar	engar	farmer	N1=STEM	N	69	ABS	
+66	zid	zid	right	NV2=STEM	V/i	65	amod	
+67	urim2{ki}-ma	urim2{ki}	1	N1=NAME.N5=GEN	SN	65	GEN	
+68	muc3	muc3	face	N1=STEM.N5=ABS	N	65	appos	
+69	nu-tum2-mu	tum2	lead	NV1=NEG.NV2=STEM.NV3=PF	V/t	62	amod	
+70	eridug{ki}-ga	eridug{ki}	1	N1=Eridug.N5=GEN	SN	69	GEN	
+71	en	en	priest	N1=STEM	N	62	appos	
+72	me-te	me-te	appropriate thing	N1=STEM	N	62	appos	
+73	unug{ki}-ga	unug{ki}	1	N1=NAME.N5=GEN	SN	72	GEN	
+74	lugal	lugal	king	N1=STEM	N	62	appos	
+75	i3-si-in{ki}-na	i3-si-in{ki}	1	N1=NAME.N5=GEN	SN	74	GEN	
+76	lugal	lugal	king	N1=STEM	N	62	appos	
+77	ki-en-gi	ki-en-gi	1	N1=NAME	GN	76	GEN	
+78	ki-uri	ki-uri	1	N1=NAME.N5=GEN	GN	77	appos	
+79	cag4-ge	cag4	heart	N1=STEM.N5=L3-NH	N	76	appos	
+80	de6-a	de6	bring	NV2=STEM.NV4=SUB	V/t	87	ABS.	
+81	{d}inana-ka-me-en	{d}inana	1	N1=NAME.N5=GEN.N5=ABS.N6=COP-1-SG	DN	80	GEN	
+82	inim	inim	word	N1=STEM	N	87	ABL	
+83	{d}en-lil2-la2-ta	{d}en-lil2	1	N1=NAME.N5=GEN.N5=ABL	DN	82	GEN	
+84	nij2-si-sa2	nij2-si-sa2	justice	N1=STEM.N5=ABS	N	87	ABS	
+85	ki-en-gi	ki-en-gi	1	N1=NAME	GN	87	L1	
+86	ki-uri	ki-uri	1	N1=NAME.N5=L1	GN	85	appos	
+87	mu-ni-jar-ra-ac	jar	place	V4=VEN.V10=L1.V11=1-SG-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=TERM	V/t	61	amod	

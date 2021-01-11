@@ -1,0 +1,73 @@
+# train/P393067.atf
+						
+
+# tr.en: n garment guz-za good quality garment double-threaded good quality garment outer-cover good quality units of outer-cover garments gu-e garments gu-e regular quality less garments guz-zaf regular quality one garment soft garments of garments native aktum garments Elamite garments bar-si gu-e linens good quality linens a-ga-du linens head from galla-gal Dingira received month Festival of first-fruits
+1	n	n	CD	3	nummod	
+2	1(disz)	_	,	3	nummod	
+3	tug2	garment	NN	0	root	
+4	guz-za	guz-za good	NN	3	appos	
+5	saga	quality	NN	3	appos	
+6	1(disz)	_	,	7	nummod	
+7	tug2	garment	NN	3	appos	
+8	tab-ba	double-threaded	JJ	7	amod	
+9	saga	good quality	NN	7	appos	
+10	1(disz)	_	,	7	nummod	
+11	tug2	garment	NN	7	appos	
+12	bar-dul5	outer-cover good	NN	7	appos	
+13	saga	quality	NN	7	appos	
+14	3(disz)	_	NN	17	nummod	
+15	tug2	_	,	7	_	
+16	bar-dul5	outer-cover	JJ	14	amod	
+17	gu2-tar	units	NNS	7	appos	
+18	5(disz)	_	NN	19	nummod	
+19	tug2	garments	NNS	7	appos	
+20	gu2-e3	gu-e	JJ	18	amod	
+21	...	_	,	18	dep	
+22	5(disz)	_	_	0	nummod	
+23	tug2	garments	NNS	18	conj	
+24	gu2-e3	gu-e quality	NN	18	conj	
+25	du	regular	JJ	18	amod	
+26	2(u)	_	,	18	nummod	
+27	la2	less	JJR	29	advmod	
+28	3(disz@t)	_	_	27	nummod	
+29	tug2	garments	NNS	18	conj	
+30	guz-za	guz-zaf regular quality	NN	18	conj	
+31	du	_	_	0	_	
+32	1(disz)	_	,	18	nummod	
+33	tug2	_	CD	36	nummod	
+34	ha-bu-um	one garment soft	NN	18	conj	
+35	4(disz)	_	NN	36	nummod	
+36	tug2	garments	NNS	18	conj	
+37	x	_	,	18	dep	
+38	x	_	_	0	dep	
+39	gal	_	CD	41	nummod	
+40	6(disz)	_	,	18	nummod	
+41	tug2	garments	NNS	18	conj	
+42	aktum	native aktum	NN	18	conj	
+43	gi	_	CD	45	nummod	
+44	7(disz)	_	,	18	nummod	
+45	tug2	garments	NNS	18	conj	
+46	elam	Elamite	NN	18	conj	
+47	5(disz)	_	,	18	nummod	
+48	tug2	_	CD	52	nummod	
+49	bar-si	garments bar-si	NNS	18	conj	
+50	gu2-e3	gu-e	NN	18	conj	
+51	6(disz)	_	,	18	nummod	
+52	gada	linens	NNS	18	conj	
+53	gal	good	JJ	54	amod	
+54	saga	quality	NN	18	conj	
+55	8(disz)	_	,	18	nummod	
+56	gada	linens	NNS	18	conj	
+57	sza3-ga-du3	a-ga-du	NN	18	conj	
+58	3(disz)	_	,	18	nummod	
+59	gada	linens	NNS	18	conj	
+60	sag	head	NN	18	appos	
+61	ki	from	IN	63	nmod:from	
+62	gal5-la2-gal-ta	galla-gal	JJ	63	amod	
+63	dingir-ra-ke4	Dingira	NNP	18	nmod:from	
+64	szu	_	:	3	_	
+65	ba-ti	received	VBD	63	acl	
+66	iti	month	NN	67	compound	
+67	ezem-nesag	Festival of first-fruits	NNP	3	_
+	
+

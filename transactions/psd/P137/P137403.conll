@@ -1,0 +1,59 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137403.conll #
+#########################################################################################
+
+#new_text=P137403
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*))
+ku6	kud[fish]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+a-a-kal-la	Ayakala[1]	PN	PN	D		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+sze-ba-me		V	V	POS		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))))
+sze-ba	szeba[ration]	N	N	D		(UNKNOWN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*))
+ku6-sze6-ta		N	N	POS		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(FRAG (SZUNIGIN (word *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT_NAME (COM *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *)))
+szunigin	szunigin[total]	N	N	D		(FRAG (SZUNIGIN (word *))
+ku6-sze6-bi		N	N.3-SG-NH-POSS.ABS	Iabcde		(UNKNOWN (word *)))
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*))
+ki	ki[place]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+sza3-gal	szaggal[food]	N	N	D		(PRODUCT_NAME (word *))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(PN (word *))
+sza3-sahar-ra-ke4-ne		N	N.GEN.GEN.PL	Iabcdef		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *)))
+5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+kun-zi-da	kunzida[weir]	N	N	D		(UNKNOWN (word *))
+ka	kag[mouth]	N	N	D		(UNKNOWN (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+{d}isztaran-si-sa2		WN	WN	POS		(UNKNOWN (word *))
+gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	D		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+szu-na-mu-gi4		PN	PN.GEN.ABL	Iabcdefgh		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+en-mu-du10-x-...		PN	PN	Iabcde		(PERSON (PN (word *))))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+...	_[_]	PN	N	D		(PN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *)))))
+

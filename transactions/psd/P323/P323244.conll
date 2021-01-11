@@ -1,0 +1,41 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P323/P323244.conll #
+##############################################################################################
+
+#new_text=P323244
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+me-e2-a		V	V	POS		(UNKNOWN (word *)))
+5(u)	5(u)[ten]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ugula	ugula[overseer][-ø]	N	N	D		(AGENT (PERSON (JOB (JOBNAME (word *))))))
+za-la-a		N	N	POS		(UNKNOWN (word *)))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ugula	ugula[overseer][-ø]	N	N	D		(JOBNAME (word *))
+ib-ni-dingir		PN	PN	Ia		(PN (word *))
+sahar	sahar[earth][-ø]	N	N.GEN	D		(PRODUCT_NAME (word *))
+zi-ga	zig[expend]-a	V	NF.V.PT	D		(ZIGA (word *))
+in-la2	i-n-la[weigh][-esz]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+du5-la2		V	V	POS		(UNKNOWN (word *))
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D		(UNKNOWN (word *))
+zabala4{ki}		GN	GN	POS		(CITY|NATIONALITY (word *))
+gurum2	gurum[inspection]	N	N	D		(UNKNOWN (word *))
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szu-{d}suen		MN	MN	POS		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ma-da	mada[land][-ak][-ø]	N	N	D		(UNKNOWN (word *))
+za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *))
+mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *)))))
+

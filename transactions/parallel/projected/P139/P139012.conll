@@ -1,0 +1,479 @@
+# train/P139012.atf
+						
+
+# tr.en: mina silver gur barig ban sila sesame oil of shekel sila each gur dates of shekel ban each gur barig of dates of shekel ban sila each its silver minas grains total minas shekel grains of silver therefrom rams billy goats shekels each month Gazelle-Feast rams billy goats shekels each month ubi-Feast rams billy goats shekels each month kisiki-Ninazu rams billy goats shekels each month Festival-of-Ninazu rams lambs billy goats shekels each month Akitu rams billy goats mina each month Festival-of-Szulgi rams billy goats mina shekels each month uea rams billy goats mina each month Great-Festival total rams billy goats mixed total silver talent minas shekels mina silver nose rings for oxen for festivals Akitu and Sowing surplus minas shekels grains silver Ur-Bagara mina silver gur barig ban sila sesame oil gur dates ban each gur barig dates sila each the silver minas shekels grains total minas shekels grains therefrom rams billy goat shekels each month Gazelle-Feast rams billy goats shekels each month ubi-Feast rams billy goats shekels each month kisiki-Ninazu rams billy goats shekels each Nanna-dalla took in possession lamb shekels in palace delivered via Nur- n rams shekels each under seal of Szu-Ea chief minister month Festival-of-Ninazu rams billy goats shekels each month Akitu rams billy goat shekels each month Festival-of-Szulgi rams n billy goats shekels each month uea n rams lamb billy goats mana each month Great-Festival total rams billy goats mixed total silver mina silver nose ring for oxen deficit minas n shekels silver for Boat-of-Heaven mina of silver gur barig ban sila of sesame oil gur dates ban each gur barig dates sila each the silver minas shekels grains total minas shekels grains of silver therefrom n month kisiki-Ninazu rams billy goats shekels each month Festival-of-Ninazu rams n billy goats shekels each month Akitu n rams n billy goats shekels each month Festival-of-Szulgi rams billy goats shekels each month uea rams billy goats mina each deliveries the deficit minas n shekels n grains of silver account of merchants from month Gazelle-Feast to month Great-Festival its months year following Ibbi-Suen king of Ur at Nippur Ur great walls built
+1	1(disz)	_	,	3	nummod	
+2	ma-na	mina	NN	3	compound	
+3	ku3-babbar	silver	NN	0	root	
+4	2(u)	_	,	3	nummod	
+5	5(asz)	_	_	4	nummod	
+6	4(barig)	_	_	4	nummod	
+7	4(ban2)	_	_	4	nummod	
+8	6(disz)	barig ban	NN	11	nummod	
+9	sila3	sila	NN	10	compound	
+10	i3-gesz	sesame oil	NN	8	_	
+11	gur	gur	NN	3	appos	
+12	1(disz)	_	:	16	nummod	
+13	gin-a	shekel	NN	3	nmod:of	
+14	2(disz)	_	CD	18	nummod	
+15	1/2(disz)	_	_	14	nummod	
+16	sila3-ta	sila each	NN	3	_	
+17	2(asz)	_	_	0	nummod	
+18	zu2-lum	dates	NNS	16	_	
+19	gur	gur	NN	18	compound	
+20	1(disz)	_	:	22	nummod	
+21	gin2-a	shekel	NN	18	nmod:of	
+22	2(ban2)-ta	ban each	NN	18	nummod	
+23	2(asz)	barig	NN	26	nummod	
+24	4(barig)	_	_	23	nummod	
+25	zu2-lum	dates	NNS	23	nmod:of	
+26	gur	gur	NN	22	_	
+27	1(disz)	_	:	22	nummod	
+28	gin2-a	shekel ban sila each	NN	25	nmod:of	
+29	1(ban2)	_	_	0	nummod	
+30	5(disz)-ta	_	_	29	nummod	
+31	ku3-bi	its silver	NN	22	_	
+32	5(u)	_	,	31	nummod	
+33	3(disz)	_	_	32	nummod	
+34	1/3(disz)	_	_	32	nummod	
+35	ma-na	minas	NNS	31	_	
+36	igi-3(disz)-gal2	_	_	0	_	
+37	1(u)	_	_	0	nummod	
+38	2(disz)	_	_	37	nummod	
+39	sze	grains	NNS	35	_	
+40	szunigin	total	NN	31	appos	
+41	5(u)	_	:	22	nummod	
+42	4(disz)	_	_	22	nummod	
+43	1/3(disz)	_	_	22	nummod	
+44	ma-na	minas	NNS	31	_	
+45	igi-3(disz)-gal2	shekel	NN	44	_	
+46	1(u)	_	_	0	nummod	
+47	2(disz)	_	_	46	nummod	
+48	sze	grains	NNS	45	_	
+49	ku3-babbar	silver	NN	48	nmod:of	
+50	sza3-bi-ta	therefrom	RB	52	_	
+51	5(disz)	_	,	52	nummod	
+52	udu	rams	NNS	22	_	
+53	5(disz)	_	CD	57	nummod	
+54	masz2	billy goats	NNS	52	conj	
+55	1(u)	_	,	52	nummod	
+56	4(disz)	_	_	55	nummod	
+57	gin2-ta	shekels each	NNS	52	conj	
+58	iti	month	NN	59	compound	
+59	masz-ku3-gu7	Gazelle-Feast	NNP	52	conj	
+60	1(u)	_	,	52	nummod	
+61	5(disz)	_	_	60	nummod	
+62	udu	rams	NNS	52	_	
+63	4(disz)	_	_	0	nummod	
+64	masz2	billy goats	NNS	52	_	
+65	1(u)	_	_	0	nummod	
+66	4(disz)	_	_	65	nummod	
+67	gin2-ta	shekels each	NNS	52	_	
+68	iti	month	NN	69	_	
+69	u5-bi2{muszen}-gu7	ubi-Feast	JJ	52	_	
+70	8(disz)	_	_	0	nummod	
+71	udu	rams	NNS	16	_	
+72	6(disz)	_	_	0	nummod	
+73	masz2	billy goats	NNS	16	conj	
+74	1(u)	_	_	0	nummod	
+75	4(disz)	_	_	74	nummod	
+76	gin2-ta	shekels each	NNS	16	appos	
+77	iti	month	NN	76	nmod:npmod	
+78	ki-siki-{d}nin-a-zu	kisiki-Ninazu	NN	76	_	
+79	1(u)	_	,	80	nummod	
+80	udu	rams	NNS	16	_	
+81	1(u)	_	_	0	nummod	
+82	masz2	billy goats	NNS	80	conj	
+83	1(u)	_	_	0	nummod	
+84	4(disz)	_	_	83	nummod	
+85	gin2-ta	shekels each	NNS	80	conj	
+86	iti	month	NN	87	compound	
+87	ezem-{d}nin-a-zu	Festival-of-Ninazu	NNP	80	appos	
+88	3(u)	_	,	16	nummod	
+89	la2	_	CD	98	nummod	
+90	1(disz)	_	_	89	nummod	
+91	udu	rams	NNS	16	_	
+92	2(disz)	_	_	0	nummod	
+93	sila4	lambs	NNS	16	appos	
+94	5(disz)	_	_	0	nummod	
+95	masz2	billy goats	NNS	16	appos	
+96	1(u)	_	,	16	nummod	
+97	7(disz)	_	_	96	nummod	
+98	gin2-ta	shekels each	NNS	16	appos	
+99	iti	month	NN	16	compound	
+100	a2-ki-ti	_	``	16	_	
+101	2(u)	_	,	103	nummod	
+102	2(disz)	_	_	101	nummod	
+103	udu	rams	NNS	16	_	
+104	1(u)	_	_	0	nummod	
+105	la2	_	_	104	_	
+106	1(disz)	_	_	105	nummod	
+107	masz2	billy goats	NNS	103	conj	
+108	1/3(disz)	_	_	0	nummod	
+109	ma-na-ta	mina each	NN	103	appos	
+110	iti	month	NN	111	compound	
+111	ezem-{d}szul-gi	Festival-of-Szulgi	NNP	103	appos	
+112	1(u)	_	,	16	nummod	
+113	7(disz)	_	_	112	nummod	
+114	udu	rams	NNS	16	_	
+115	1(u)	_	_	0	nummod	
+116	2(disz)	_	_	115	nummod	
+117	masz2	billy goats	NNS	16	conj	
+118	1/3(disz)	_	_	0	nummod	
+119	ma-na	mina	NN	16	conj	
+120	5(disz)	_	_	0	nummod	
+121	gin2-ta	shekels each	NNS	16	conj	
+122	iti	month	NN	16	compound	
+123	szu-esz5-sza	uea	CD	126	nummod	
+124	3(u)	_	_	0	nummod	
+125	5(disz)	_	_	124	nummod	
+126	udu	rams	NNS	16	conj	
+127	8(disz)	_	_	0	nummod	
+128	masz2	billy goats	NNS	126	conj	
+129	1/2(disz)	_	_	0	nummod	
+130	ma-na-ta	mina each	NN	126	appos	
+131	iti	month	NN	130	nmod:npmod	
+132	ezem-mah	Great-Festival	NNP	130	_	
+133	szunigin	total	NN	16	_	
+134	3(gesz2)	_	,	133	nummod	
+135	2(u)	_	_	134	nummod	
+136	2(disz)	_	_	134	nummod	
+137	udu	rams	NNS	133	_	
+138	masz2	billy goats	NNS	133	conj	
+139	hi-a	mixed	JJ	133	conj	
+140	szunigin	total	JJ	133	conj	
+141	ku3-bi	silver	NN	133	appos	
+142	1(asz)	_	:	16	nummod	
+143	gu2	talent	NN	133	_	
+144	8(disz)	_	CD	151	nummod	
+145	2/3(disz)	_	_	144	nummod	
+146	ma-na	minas	NNS	143	_	
+147	9(disz)	_	_	0	nummod	
+148	gin2	shekels	NNS	146	_	
+149	1(disz)	_	,	151	nummod	
+150	ma-na	mina	NN	151	compound	
+151	ku3-babbar	silver	NN	16	_	
+152	har	nose	NN	153	compound	
+153	giri17	rings for	NNS	151	appos	
+154	gu4	oxen	NNS	153	nmod:for	
+155	ezem	for festivals	IN	156	nmod:for	
+156	a2-ki-ti	Akitu	NNP	151	nmod:for	
+157	szu-numun-na-sze3	and Sowing	CC	156	cc	
+158	diri!	surplus	NN	16	_	
+159	1(u)	_	,	169	nummod	
+160	4(disz)	_	_	159	nummod	
+161	1/3(disz)	_	_	159	nummod	
+162	ma-na	minas	NNS	158	_	
+163	8(disz)	_	_	0	nummod	
+164	gin2	shekels	NNS	162	_	
+165	2/3(|NINDA2x(SZE.2(ASZ))|)	_	_	0	nummod	
+166	1(u)	_	_	165	nummod	
+167	2(disz)	_	_	165	nummod	
+168	sze	grains	NNS	164	_	
+169	ku3	silver	NN	168	_	
+170	ur-ba-gara2	Ur-Bagara	NN	169	appos	
+171	1(disz)	_	CD	177	nummod	
+172	ma-na	mina	NN	169	_	
+173	ku3-babbar	silver	NN	172	root	
+174	1(u)	_	CD	182	nummod	
+175	1(asz)	_	_	174	nummod	
+176	3(barig)	_	_	174	nummod	
+177	4(ban2)	gur barig	NN	173	nummod	
+178	9(disz)	ban	NN	182	nummod	
+179	sila3	sila	NN	182	compound	
+180	i3-gesz	sesame oil	NN	182	compound	
+181	2(asz)	_	,	173	nummod	
+182	zu2-lum	dates	NNS	177	_	
+183	gur	gur	NN	182	compound	
+184	2(ban2)-ta	ban each	NN	173	nummod	
+185	1(asz)	_	,	173	nummod	
+186	4(barig)	_	_	185	nummod	
+187	zu2-lum	barig dates	NNS	173	appos	
+188	gur	gur	NN	187	compound	
+189	1(ban2)	_	_	0	nummod	
+190	5(disz)	_	_	189	nummod	
+191	sila3-ta	sila each	NN	173	appos	
+192	ku3-bi	the silver	NN	173	appos	
+193	2(u)	_	,	196	nummod	
+194	4(disz)	_	_	193	nummod	
+195	1/2(disz)	_	_	193	nummod	
+196	ma-na	minas	NNS	173	_	
+197	7(disz)	_	_	0	nummod	
+198	1/2(disz)	_	_	197	nummod	
+199	gin2	shekels	NNS	196	_	
+200	1(u)	_	_	0	nummod	
+201	8(disz)	_	_	200	nummod	
+202	sze	grains	NNS	196	appos	
+203	szunigin	total	NN	196	appos	
+204	2(u)	_	:	207	nummod	
+205	5(disz)	_	_	204	nummod	
+206	1/2(disz)	_	_	204	nummod	
+207	ma-na	minas	NNS	196	_	
+208	7(disz)	_	_	0	nummod	
+209	1/2(disz)	_	_	208	nummod	
+210	gin2	shekels	NNS	207	_	
+211	1(u)	_	_	0	nummod	
+212	8(disz)	_	_	211	nummod	
+213	sze	grains	NNS	207	appos	
+214	sza3-bi-ta	therefrom	RB	216	_	
+215	7(disz)	_	,	216	nummod	
+216	udu	rams	NNS	207	_	
+217	2(disz)	_	_	0	nummod	
+218	masz2	billy goat	NN	216	conj	
+219	1(u)	_	_	0	nummod	
+220	4(disz)	_	_	219	nummod	
+221	gin2-ta	shekels each	NNS	216	conj	
+222	iti	month	NN	223	compound	
+223	masz-ku3-gu7	Gazelle-Feast	NNP	216	conj	
+224	1(u)	_	,	216	nummod	
+225	5(disz)	_	_	224	nummod	
+226	udu	rams	NNS	216	_	
+227	4(disz)	_	_	0	nummod	
+228	masz2	billy goats	NNS	216	_	
+229	1(u)	_	_	0	nummod	
+230	4(disz)	_	_	229	nummod	
+231	gin2-ta	shekels each	NNS	216	_	
+232	iti	month	NN	233	_	
+233	u5-bi2{muszen}-gu7	ubi-Feast	JJ	216	_	
+234	2(disz)	_	,	207	nummod	
+235	udu	rams	NNS	207	_	
+236	3(disz)	_	_	0	nummod	
+237	masz2	billy goats	NNS	207	conj	
+238	1(u)	_	_	0	nummod	
+239	4(disz)	_	_	238	nummod	
+240	gin2-ta	shekels each	NNS	207	conj	
+241	iti	month	NN	242	compound	
+242	ki-siki-{d}nin-a-zu	kisiki-Ninazu	NN	207	conj	
+243	6(disz)	_	,	207	nummod	
+244	udu	rams	NNS	207	_	
+245	5(disz)	_	_	0	nummod	
+246	masz2	billy goats	NNS	207	conj	
+247	1(u)	_	_	0	nummod	
+248	4(disz)	_	_	247	nummod	
+249	gin2-ta	shekels each	NNS	207	conj	
+250	{d}nanna-dalla	Nanna-dalla in possession	NN	251	nsubj	
+251	i3-dab5	took	VBD	207	acl:relcl	
+252	1(disz)	_	,	253	nummod	
+253	sila4	lamb	NN	207	_	
+254	1(u)	_	_	0	nummod	
+255	4(disz)	_	_	254	nummod	
+256	gin2	shekels	NNS	253	_	
+257	e2-gal-la	palace	NN	253	nmod:in	
+258	kux(KWU636)-ra	in delivered	IN	257	nmod:in	
+259	giri3	via	IN	253	nmod:via	
+260	nu-ur2!-...	_	:	253	_	
+261	n	n	NN	263	compound	
+262	1(disz)	_	,	253	nummod	
+263	udu	rams	NNS	253	_	
+264	1(u)	_	_	0	nummod	
+265	4(disz)	_	_	264	nummod	
+266	gin2-ta	shekels each	NNS	253	appos	
+267	kiszib3	under seal	NN	253	nmod:under	
+268	szu-e2-a	Szu-Ea chief	NN	267	nmod:of	
+269	sukkal-mah	minister	NN	253	appos	
+270	iti	month	NN	273	_	
+271	ezem-{d}nin-a-zu	Festival-of-Ninazu	NNP	273	compound	
+272	2(disz)	_	,	273	nummod	
+273	udu	rams	NNS	253	appos	
+274	8(disz)	_	_	0	nummod	
+275	masz2	billy goats	NNS	273	conj	
+276	1(u)	_	_	0	nummod	
+277	7(disz)	_	_	276	nummod	
+278	gin2-ta	shekels each	NNS	273	conj	
+279	iti	month	NN	273	compound	
+280	a2-ki-ti	_	``	273	_	
+281	1(u)	_	,	273	nummod	
+282	1(disz)	_	_	281	nummod	
+283	udu	rams	NNS	273	_	
+284	1(disz)	_	_	0	nummod	
+285	masz2	billy goat	NN	273	_	
+286	1/3(disz)	_	_	0	nummod	
+287	ma-na-ta	shekels each	NNS	273	_	
+288	iti	month	NN	289	compound	
+289	ezem-{d}szul-gi	Festival-of-Szulgi	NNP	273	_	
+290	1(u)	_	,	289	nummod	
+291	2(disz)	_	_	290	nummod	
+292	n	_	_	0	_	
+293	udu	rams	NNS	289	conj	
+294	n	_	,	289	_	
+295	masz2	billy goats	NNS	289	_	
+296	1/3(disz)	_	_	0	nummod	
+297	ma-na	_	_	0	_	
+298	5(disz)	_	_	0	nummod	
+299	gin2-ta	shekels each	NNS	289	_	
+300	iti	month	NN	289	compound	
+301	szu-esz5-sza	_	``	289	_	
+302	n	_	:	289	_	
+303	udu	rams	NNS	289	_	
+304	1(disz)	_	,	289	nummod	
+305	sila4	lamb	NN	289	_	
+306	2(disz)	_	_	0	nummod	
+307	masz2	billy goats	NNS	289	_	
+308	1/2(disz)	_	_	0	nummod	
+309	ma-na-ta	mana each	NN	289	_	
+310	iti	month	NN	311	compound	
+311	ezem-mah	Great-Festival	NNP	289	appos	
+312	szunigin	total	NN	289	_	
+313	2(gesz2)	_	:	273	nummod	
+314	3(u)	_	_	313	nummod	
+315	2(disz)	_	_	313	nummod	
+316	udu	rams	NNS	289	_	
+317	masz2	billy goats	NNS	316	appos	
+318	hi-a	mixed	JJ	316	amod	
+319	szunigin	total	NN	273	_	
+320	ku3-bi	silver	NN	319	appos	
+321	2(u)	_	:	273	nummod	
+322	8(disz)	_	_	321	nummod	
+323	...	_	CD	273	dep	
+324	1(disz)	_	,	329	nummod	
+325	ma-na	mina	NN	326	compound	
+326	ku3-babbar	silver	NN	273	_	
+327	har	nose	NN	328	compound	
+328	giri17	ring for	NN	273	appos	
+329	gu4	oxen	NNS	328	nmod:for	
+330	la2-ia3	deficit	NN	329	appos	
+331	3(disz)	_	,	253	nummod	
+332	1/2(disz)	_	_	331	nummod	
+333	ma-na	minas	NNS	273	_	
+334	n	n	CD	336	nummod	
+335	gin2	shekels	NNS	336	compound	
+336	ku3-babbar	silver	NN	333	_	
+337	ma2	_	:	253	_	
+338	an-na-sze3	for Boat-of-Heaven	NNP	253	nmod:for	
+339	1(disz)	_	,	253	nummod	
+340	ma-na	mina	NN	253	_	
+341	ku3-babbar	silver	NN	340	nmod:of	
+342	1(u)	_	,	253	nummod	
+343	1(asz)	_	CD	351	nummod	
+344	3(barig)	_	_	343	nummod	
+345	4(ban2)	_	_	343	nummod	
+346	9(disz)	barig ban	NN	349	nummod	
+347	sila3	sila	NN	346	_	
+348	i3-gesz	sesame oil	NN	347	nmod:of	
+349	gur	gur	NN	253	appos	
+350	2(asz)	_	,	353	nummod	
+351	zu2-lum	dates	NNS	253	appos	
+352	gur	gur	NN	351	compound	
+353	2(ban2)-ta	ban each	NN	253	nummod	
+354	1(asz)	_	,	356	nummod	
+355	4(barig)	_	_	354	nummod	
+356	zu2-lum	barig dates	NNS	350	root	
+357	gur	gur	NN	356	compound	
+358	1(ban2)	_	_	0	nummod	
+359	5(disz)	_	_	358	nummod	
+360	sila3-ta	sila each	NN	356	appos	
+361	ku3-bi	the silver	NN	356	appos	
+362	2(u)	_	:	356	nummod	
+363	4(disz)	_	_	362	nummod	
+364	1/2(disz)	_	_	362	nummod	
+365	ma-na	minas	NNS	361	_	
+366	7(disz)	_	_	0	nummod	
+367	1/2(disz)	_	_	366	nummod	
+368	gin2	shekels	NNS	365	_	
+369	1(u)	_	_	0	nummod	
+370	8(disz)	_	_	369	nummod	
+371	sze	grains	NNS	368	_	
+372	szunigin	total	NN	356	_	
+373	2(u)	_	:	356	nummod	
+374	5(disz)	_	RB	378	nummod	
+375	1/2(disz)	_	_	374	nummod	
+376	ma-na	minas	NNS	372	_	
+377	7(disz)	_	_	0	nummod	
+378	1/2(disz)	_	_	377	nummod	
+379	gin2	shekels	NNS	376	_	
+380	1(u)	_	_	0	nummod	
+381	8(disz)	_	_	380	nummod	
+382	sze	grains	NNS	379	_	
+383	ku3-babbar	silver	NN	382	nmod:of	
+384	sza3-bi-ta	therefrom	_	0	_	
+385	5(disz)	_	NN	0	nummod	
+386	...	_	``	76	dep	
+387	...	_	CD	143	dep	
+388	...	_	``	233	dep	
+389	...	_	:	207	dep	
+390	n	n	CD	384	nummod	
+391	...	_	-RRB-	384	dep	
+392	iti	month	NN	393	compound	
+393	ki-siki-{d}nin-a-zu	kisiki-Ninazu	NN	378	_	
+394	1(u)	_	,	396	nummod	
+395	4(disz)	_	_	394	nummod	
+396	udu	rams	NNS	356	_	
+397	2(disz)	_	_	0	nummod	
+398	n	_	_	0	_	
+399	masz2	billy goats	RB	400	conj	
+400	...	billy goats	NNS	396	conj	
+401	1(u)	_	_	0	nummod	
+402	4(disz)	_	_	401	nummod	
+403	gin2-ta	shekels each	NNS	396	conj	
+404	iti	month	NN	408	compound	
+405	ezem-{d}nin-a-zu	Festival-of-Ninazu	NNP	408	compound	
+406	1(u)	_	,	396	nummod	
+407	1(disz)	_	_	406	nummod	
+408	udu	rams	NNS	396	conj	
+409	n	_	,	396	_	
+410	masz2	billy goats	NNS	396	conj	
+411	1(u)	_	_	0	nummod	
+412	7(disz)	_	_	411	nummod	
+413	gin2-ta	shekels each	NNS	396	conj	
+414	iti	month	NN	415	compound	
+415	a2-ki-ti	Akitu	NNP	396	conj	
+416	n	n	NN	418	compound	
+417	2(disz)	_	,	418	nummod	
+418	udu	rams	NNS	396	_	
+419	n	_	,	418	_	
+420	masz2	billy goats	NNS	418	conj	
+421	1/3(disz)	_	_	0	nummod	
+422	ma-na	_	_	0	_	
+423	gin2-ta	shekels each	NNS	418	conj	
+424	iti	month	NN	425	_	
+425	ezem-{d}szul-gi	Festival-of-Szulgi	NN	418	appos	
+426	8(disz)	_	,	427	nummod	
+427	udu	rams	NNS	356	_	
+428	3(disz)	_	_	0	nummod	
+429	n	_	_	0	_	
+430	masz2	billy goats	NNS	427	conj	
+431	1/3(disz)	_	_	0	nummod	
+432	5(disz)	_	_	431	nummod	
+433	gin2-ta	shekels each	NNS	427	conj	
+434	iti	month	NN	427	compound	
+435	szu-esz5-sza	_	``	427	_	
+436	6(disz)	_	,	427	nummod	
+437	udu	rams	NNS	427	_	
+438	4(disz)	_	_	0	nummod	
+439	masz2	billy goats	NNS	427	conj	
+440	1/2(disz)	_	_	0	nummod	
+441	ma-na-ta	mina each	NN	427	conj	
+442	mu-kux(DU)	deliveries	NNS	427	appos	
+443	la2-ia3	the deficit	NN	442	dobj	
+444	3(u)	_	:	443	nummod	
+445	3(disz)	_	_	444	nummod	
+446	1/2(disz)	_	_	444	nummod	
+447	ma-na	minas	NNS	443	_	
+448	n	n	CD	449	nummod	
+449	gin2	shekels	NNS	447	_	
+450	igi-6(disz)-gal2	_	_	0	_	
+451	n	n	CD	452	nummod	
+452	sze	grains	NNS	449	_	
+453	ku3-babbar	silver	NN	452	nmod:of	
+454	nig2-ka9-ak	account	NN	457	_	
+455	dam-gar3-ne	merchants	NNS	454	nmod:of	
+456	iti	month	NN	454	nmod:from	
+457	masz-ku3-gu7-ta	from Gazelle-Feast	NNP	443	_	
+458	iti	month	NN	457	nmod:to	
+459	ezem-mah-sze3	to Great-Festival	TO	458	nmod:to	
+460	iti-bi	its	PRP$	461	nmod:poss	
+461	iti	months	NNS	443	_	
+462	1(u)	_	:	443	nummod	
+463	la2	_	CD	462	_	
+464	1(disz)-am3	_	:	463	nummod	
+465	mu	year	NN	443	_	
+466	us2-sa	following	VBG	465	acl	
+467	{d}i-bi2-{d}suen	Ibbi-Suen	NNP	466	root	
+468	lugal	king	NN	467	appos	
+469	uri5{ki}-ma-ke4	Ur	NN	468	nmod:of	
+470	nibru{ki}	Nippur	NNP	467	nmod:at	
+471	uri5{ki}-ma	Ur	NNP	470	appos	
+472	bad3-gal-bi	great walls at	IN	470	nmod:at	
+473	mu-du3	built	VBN	470	acl
+	
+

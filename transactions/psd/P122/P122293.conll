@@ -1,0 +1,34 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P122/P122293.conll #
+##############################################################################################
+
+#new_text=P122293
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gin2	gig[unit]	N	N	D	I-COUNT	(NUMBER (COUNT *))
+ku3-babbar	kugbabbar[silver]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+ur5-sze3	urra[loan]-sze	PN	N.TERM	D		(PN (word *))
+masz2	masz[goat]	N	N	D		(PRODUCT_NAME (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gin2-ta	gig[unit]-ta	N	N.ABL	D		(UNIT (word *))
+ki	ki[place]	N	N	D		(KI (word *))
+ur-{d}szul-pa-e3-ta	Urszulpa'e[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+i-di3-dingir	Ididingir[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+gu4-si-su		MN	MN	POS		(MONTH_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+8(disz)	8(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+i-bi2-{d}suen	Ibi.Suen[1]	PN	RN	D		(PERSON (PN (word *))
+lugal	lugal[king]	N	N	D		(JOB (JOBNAME (word *)))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+egir		N	N.ABS	D		(UNKNOWN (word *))
+us2-a-bi		V	NF.V.PT.3-SG-NH-POSS	Iabcdef	B-COM	(PRODUCT_NAME (COM *))
+i-di3-dingir	Ididingir[1][-ra]	PN	PN.DAT-H	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+szu-i3-li2	Szu'ili[1]	PN	PN	D		(PERSON (PN (word *)))))))
+

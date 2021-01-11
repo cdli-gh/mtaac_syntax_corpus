@@ -1,0 +1,62 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P134/P134141.conll #
+##############################################################################################
+
+#new_text=P134141
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*)))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+{gesz}dih3		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}har-an		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *))
+tug2-gur10	tuggur[plow][-ø]	V	N.ABS	D		(UNKNOWN (word *))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+al	al[hoeing]	N	N	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+3(iku)	3(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+2(u)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*))
+sar-ta	sar[unit]-ta	PN	N.ABL	D		(PN (word *))
+al	al[hoeing]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+{gesz}gigir-re	Gigire[1][-ak]	N	PN.GEN	D		(UNKNOWN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*)))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+dih3		V	V	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+2(iku)	2(iku)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+3(disz)-ta		NU	NU.ABL	Iab	B-COUNT	(NUMBER (COUNT *))
+al	al[hoeing]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+4(iku)	4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*))
+{gesz}dih3		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))))
+

@@ -1,0 +1,76 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P411/P411980.conll #
+#########################################################################################
+
+#new_text=P411980
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+GAN2	gana[field]	N	N	D	I-COUNT	(NUMBER (COUNT *))
+sze	sze[barley]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(iku)	4(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+gu2-tur		PN	PN	POS		(PN (word *))
+6(asz)	6(asz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+gu2-tur		PN	PN	POS		(PN (word *))
+sze-numun	szenumun[seed]	N	N	D		(PRODUCT_NAME (word *))
+mur-gu4-kam		N	N	POS		(UNKNOWN (word *))
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gur	gur[unit]	N	N	D	I-COUNT	*))
+a2	a[time]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+al	al[hoeing]	N	N	D	B-COM	(PRODUCT_NAME (COM *))))
+ak	ak[excavate][-a][-ak]	V	NF.V.PT	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+ze2-a	ze[cut]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+szu-{d}isz-ha-ra		PN	PN	Iabcde		(PERSON (PN (word *))
+engar	engar[farmer]	N	N	D		(JOB (JOBNAME (word *))))
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+a-hu-du10		PN	PN	D		(AGENT (PERSON (PN (word *))))
+sza3-gu4	szagu[ox-driver]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+u2-tul2-ma-ma		PN	PN	Iabcde		(PN (word *)))
+5(ban2)	5(ban)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *))
+a-li-a		PN	PN	Iabcde		(PN (word *)))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+szu-{d}isz-ha-ra		PN	PN	Iabcde		(PN (word *))
+engar	engar[farmer]	N	N	D		(JOBNAME (word *)))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(ban2)	2(ban)[unit]	NU	N	D	I-COUNT	*))
+sze-ba	szeba[ration]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+iti	iti[month]	N	N	D		(ITI (word *)))
+1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szul-gi-ra-ta		MN	MN.ABL	Iabcd		(MONTH_NAME (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	D		(MONTH_NAME (word *))
+iti-bi	iti[month]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D		(UNKNOWN (word *))))
+6(disz)-am3		NU	NU.ABS.COP-3-SG	Iab	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+4(asz)	4(asz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gur-am3		V	NF.V.ABS.ABS.COP-3-SG.DAT-H	Iabcde		(UNKNOWN (word *)))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+3(asz)	3(asz)[one]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*))
+gu2-tur		PN	PN	POS	B-COM	(PRODUCT_NAME (COM *))
+ki	ki[place]	N	N	D		(KI (word *))
+lal3-li2-a-ta		PN	PN.GEN.ABL	Iabcdefg		(PN (word *))
+ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	D		(PN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+masz-kan2	Maszkan[1]	N	SN	D		(UNKNOWN (word *))
+kul2-li2-zum{ki}		SN	SN	POS		(CITY|NATIONALITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+ma2-dara3-abzu	Madara'abzu[1]	ON	ON	D		(UNKNOWN (word *))
+{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	D		(GOD|GOD_NAME (word *))
+ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	D		(UNKNOWN (word *)))))
+

@@ -1,0 +1,42 @@
+# train/P105269.atf
+						
+
+# tr.en: male laborers labor of day rushes bales each total bales being labor of days they are debits therefrom bales did Ur-ee receive Madaga month paue year Simurrum was destroyed
+1	1(u)	_	,	7	nummod	
+2	5(disz)	_	_	1	nummod	
+3	gurusz	male laborers	NNS	0	root	
+4	a2	labor	NN	3	appos	
+5	u4	day	NN	4	nmod:of	
+6	1(disz)-bi	each	DT	8	nummod	
+7	{u2}|ZI&amp;ZI|-a	rushes	VBZ	3	acl	
+8	gu-nigin2	bales	NNS	7	conj	
+9	3(disz)-ta-am3	_	_	0	nummod	
+10	szunigin	total	NN	7	conj	
+11	1(gesz'u)	_	,	15	nummod	
+12	2(gesz2)	_	_	11	nummod	
+13	4(u)	_	_	11	nummod	
+14	5(disz)	_	_	11	nummod	
+15	gu-nigin2-am3	bales	NNS	7	_	
+16	a2	being labor	NN	15	appos	
+17	u4	days	NNS	16	nmod:of	
+18	1(u)	_	,	15	nummod	
+19	7(disz)-bi-im	_	_	18	nummod	
+20	sag-nig2-gur11-ra-kam	they are debits	NNS	15	acl:relcl	
+21	sza3-bi-ta	therefrom	RB	26	advmod	
+22	1(gesz'u)	_	,	26	nummod	
+23	2(gesz2)	_	_	22	nummod	
+24	4(u)	_	_	22	nummod	
+25	5(disz)	_	_	22	nummod	
+26	gu-nigin2-am3	bales	NNS	15	_	
+27	ur-e11-e	did Ur-ee	VBD	28	aux	
+28	i3-dab5	receive	VB	26	acl	
+29	dab5-bi	_	NN	26	_	
+30	ma2-da-ga-ke4	Madaga	NNP	29	compound	
+31	e11	_	,	29	_	
+32	iti	month	NN	33	_	
+33	pa5-u2-e	paue	NN	36	_	
+34	mu	year	NN	36	_	
+35	si-mu-ru-um{ki}	Simurrum	NNP	36	nsubjpass	
+36	ba-hul	was destroyed	VBN	29	acl
+	
+

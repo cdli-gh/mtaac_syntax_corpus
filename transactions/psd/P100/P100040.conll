@@ -1,0 +1,39 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P100/P100040.conll #
+#########################################################################################
+
+#new_text=P100040
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+lugal-ti-da		PN	PN	Iabcdefgh		(AGENT (PERSON (PN (word *)))))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ur-dun	Urdun[1]	PN	PN	D		(AGENT (PERSON (PN (word *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+ur-e2-nun		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+hu-wa-wa	Huwawa[1][-ak]	DN	PN.GEN	D		(PURPOSE (GOD (word *))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+ur-tesz2		PN	PN.GEN.ABS	D		(AGENT (PERSON (PN (word *)))))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-{d}nin-szubur	Luninszubur[1][-ra]	PN	PN	D		(PN (word *))
+udu	udu[sheep]	N	N	D		(PRODUCT_NAME (word *))
+dab5-ba	dab[seize]-a	V	N	D		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+banszur-ka		PN	PN	POS		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	D		(NUMBER (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))))
+4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))))
+

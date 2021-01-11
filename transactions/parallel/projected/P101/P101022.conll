@@ -1,0 +1,48 @@
+# train/P101022.atf
+						
+
+# tr.en: barig wages of hirelings of Sz-Mama gur barig Igi-Sasa grain of Puzri-Suen barig fodder for sheep Igisasa barig barley for birds Adda-bani barig barley for sheep Zani gur its goat is house of Na-silim fuller barig um-bani are from Tummal month Great festival it will be added
+1	2(barig)	barig	NN	0	nummod	
+2	a2	_	:	3	_	
+3	hun-ga2	wages hirelings	NNS	1	_	
+4	szu-ma-ma	Sz-Mama	NN	3	nmod:of	
+5	1(asz)	_	:	3	nummod	
+6	1(barig)	_	CD	12	nummod	
+7	gur	gur	NN	3	_	
+8	igi-sa6-sa6	barig Igi-Sasa	NN	7	_	
+9	sze	grain	NN	3	appos	
+10	puzur4-{d}suen	Puzri-Suen	NNP	9	nmod:of	
+11	2(barig)	_	:	3	nummod	
+12	sza3-gal	barig fodder for	NN	3	_	
+13	udu	sheep	NN	12	nmod:for	
+14	igi-sa6-sa6	Igisasa	NN	3	_	
+15	1(barig)	barig	NN	16	nummod	
+16	sze	barley	NN	3	_	
+17	muszen	birds	NNS	16	nmod:for	
+18	{d}iszkur-ba-ni	for Adda-bani	IN	17	nmod:for	
+19	1(barig)	barig	NN	20	nummod	
+20	sze	barley	NN	3	_	
+21	udu	sheep	NN	20	nmod:for	
+22	za-ni	Zani	NNP	3	_	
+23	1(asz)	_	NN	27	nummod	
+24	gur	gur	NN	3	_	
+25	masz2-bi	its goat is	NN	3	nsubj	
+26	1(disz)-kam	_	:	23	nummod	
+27	e2	house	NN	3	_	
+28	na-silim	_	CD	33	nummod	
+29	azlag2	fuller	JJR	23	amod	
+30	asz	Na-silim	NN	27	nmod:of	
+31	1(barig)	_	IN	30	nummod	
+32	...	_	NN	36	nsubj	
+33	x-um-ba-ni	barig um-bani	NN	23	_	
+34	...-x{ki}	barig um-bani	NN	32	compound	
+35	ka-lu	are	VBP	36	cop	
+36	1(gesz2)	_	CD	23	nummod	
+37	3(u)-am3	_	:	23	nummod	
+38	tum-ma-al-ta	Tummal	JJ	40	amod	
+39	i3-dub	from	IN	40	nmod:from	
+40	iti	month	NN	23	nmod:from	
+41	ezem-mah	Great	JJ	42	amod	
+42	e-dah-he	festival it will be added	NN	23	_
+	
+

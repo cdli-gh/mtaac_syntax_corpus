@@ -1,0 +1,33 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128509.conll #
+#########################################################################################
+
+#new_text=P128509
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz	kasz[beer]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *)))))
+bu3-u2-a		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+aga3-us2-gal	aga'usgal[head_soldier][-ra]	N	N	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+kasz-ta		PN	PN	POS		(PN (word *))
+sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+dug	dug[pot]	N	N	D	I-COUNT	*))
+dida	dida[sweet_wort]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+du	gin[quality_designation][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+kaskal-sze3	kaskal[journey]-sze	N	N.TERM	D		(UNKNOWN (word *))
+elam	Elam[1][-ak]	EN	GN.GEN	D		(NATIONALITY (word *))
+an-sza-an{ki}-me		GN	GN	POS		(CITY|NATIONALITY (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+bu3-u2-a		PN	PN	Iabcde		(PN (word *))
+aga3-us2-gal	aga'usgal[head_soldier][-ra]	N	N	D		(UNKNOWN (word *))
+an-sza-an{ki}-ta	Anszan[1]-ta	SN	GN.ABL	D		(CITY|NATIONALITY (word *))
+du-ne-ne		V	NF.V.PF.F.3-SG-H-POSS.L1	Iabcdefg		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))))
+

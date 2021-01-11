@@ -1,0 +1,37 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P121/P121133.conll #
+##############################################################################################
+
+#new_text=P121133
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	(DOC (FRAG (NUMBER (COUNT *
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+ur5-sze3	urra[loan]-sze	PN	N.TERM	D		(PN (word *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(ban2)-ta-am3		NU	NU	POS	I-COUNT	*))
+ki	ki[place]	N	N	D		(KI (word *))
+lugal-a2-zi-da-ta	Lugalazida[1][-ak]-ta	PN	PN.GEN.ABL	D		(PN (word *))
+lu2-{d}inanna-ke4		PN	PN.GEN.ERG	Iabcdefg		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D	B-COM	(PRODUCT_NAME (COM *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+sig4-ga	Sigga[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+gi4-gi4-dam		V	V	POS		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+zi-ni		PN	PN	POS		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	D		(PN (word *))
+lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	N.3-SG-NH-POSS.ABS.COP-3-PL	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ku3-SZIM		MN	MN	POS		(MONTH_NAME (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+zal-la	zal[pass]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D		(PN (word *))
+ba-hun-ga2	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+lu2-{d}inanna	Lu'inanna[1]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-ba-ba		PN	PN	Ia		(PERSON (PN (word *)))))))
+

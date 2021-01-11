@@ -1,0 +1,24 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P100/P100270.conll #
+#########################################################################################
+
+#new_text=P100270
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+me-esz18-dar		PN	PN.DAT-H	Iabcdefgh		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2	masz[goat]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+a2-bi2-li2		PN	PN	Ia		(AGENT (PERSON (PN (word *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+sila4	sila[lamb]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+ku-ru-ub-er3-ra		PN	PN	Ia		(AGENT (PERSON (PN (word *))))
+mu-kux(DU)	mukur[delivery][-ø]	N	N	D		(AGENT (MUDU (word *))
+{d}szul-gi-si2-im-tum	Szulgisi'imtum[1][-ra]	PN	PN.DAT-H	D		(PERSON (PN (word *))))
+ur-{d}lugal-edin-na		PN	PN	Ia		(AGENT (PERSON (PN (word *)))))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(DATE (MONTH (ITI (word *))
+ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(YEAR (MU (word *))
+ki-masz{ki}	Kimasz[1]	SN	SN.ABS	D		(CITY (word *))))
+ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

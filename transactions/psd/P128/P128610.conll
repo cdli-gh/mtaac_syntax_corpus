@@ -1,0 +1,51 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P128/P128610.conll #
+#########################################################################################
+
+#new_text=P128610
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+niga	niga[fattened][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+ab2	ab[cow][-ø]	N	N	D		(PRODUCT_NAME (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ta-ki-is-ga2-ga2		PN	PN	POS		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gu4	gud[ox]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+ab2-sze3		N	N.TERM	Iabcde		(UNKNOWN (word *)))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(u)	2(u)[ten]	NU	NU	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+udu	udu[sheep]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+engar-sze3		PN	PN	POS		(PERSON (PN (word *)))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+udu	udu[sheep]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	D		(PRODUCT_NAME (word *)))))
+mu	mu[year]	N	N	D		(AGENT (MU (word *))
+gu-sze3		PN	PN.GEN.TERM	Iab		(PERSON (PN (word *)))))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+masz2-gal	maszgal[billy_goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+{munus}asz2-gar3-sze3		N	N.TERM	Iabcde		(UNKNOWN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+masz2-gal	maszgal[billy_goat]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	D		(PRODUCT_NAME (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))))
+{munus}asz2-gar3-sze3		N	N.TERM	Iabcde		(UNKNOWN (word *))
+szu-la2-a		PN	PN	POS		(PN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+be-li2-a-zu	Beli’azu[1][-e]	PN	PN.ERG	D		(PN (word *))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOB (JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD (word *))
+unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	D		(CITY (word *)))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

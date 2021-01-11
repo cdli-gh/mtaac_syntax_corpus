@@ -1,0 +1,303 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P114/P114915.conll #
+#########################################################################################
+
+#new_text=P114915
+...	_[_]	PN	N	D		(DOC (FRAG (PN (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+a-uri3		FN	FN	POS		(CITY (word *))
+1(bur'u)	1(bur'u)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(bur3)	2(bur)[unit]	NU	N	D	I-COUNT	*
+2(iku)	2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+3(bur3)	3(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+2(iku)	2(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+hul-tag		V	NF.V.RDP.PT.ABS	Iab		(UNKNOWN (word *))
+1(iku)	1(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+e	eg[levee]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+lugal-du10-ga		PN	PN	Iabcde		(PN (word *))
+sukkal	sukkal[secretary][-ak][-ra]	N	N	D		(JOBNAME (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+sahar	sahar[earth][-ø]	N	N.GEN	D		(PRODUCT_NAME (word *))
+sur		N	N	POS		(UNKNOWN (word *))
+AB		PN	PN	Iabcdefgh		(PN (word *))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+u6-ni-kal-la		PN	PN	POS		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+igi	igi[eye][-ø]	N	N	D		(UNKNOWN (word *))
+2(iku)	2(iku)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+e	eg[levee]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+5(iku)	5(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+a2	a[time]	N	N	D		(PRODUCT_NAME (word *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+lu2-nigin6{ki}		PN	PN.GEN.ERG	Iabcdefgh		(PN (word *))
+nar		N	N	POS		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+GAN2-{gesz}szinig-pa5		FN	FN	POS	B-COM	(PRODUCT_NAME (COM *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+hul		V	NF.V.ABS	Iabcdef		(UNKNOWN (word *))
+ka-giri3		N	N	Ia		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+tu		PN	PN	POS		(PN (word *))
+igi	igi[eye][-ø]	N	N	D		(UNKNOWN (word *))
+{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+sanga	sagga[temple_administrator]	N	N	D		(UNKNOWN (word *))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+hul		V	NF.V.ABS	Iabcdef		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+GAN2-ku-mul		FN	FN	POS		(CITY (word *))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+1(asz)	1(asz)[one]	NU	NU	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+hul-tag		V	NF.V.RDP.PT.ABS	Iab		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a-ambar-es3-sa2		FN	FN	POS		(CITY (word *))
+egir		N	N.ABS	D		(UNKNOWN (word *))
+e2-ta-du		PN	PN	POS		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(iku)	1(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *))
+gaba	gaba[frontier][-ak]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+...-la		PN	PN	Iabcde		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gu2	gun[unit]	N	N	D		(UNIT (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+idigna	Idigna[1][-ak]	N	WN.GEN	D		(UNKNOWN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+{d}nanna-gu2-gal-sze3	Nannagugal[1][-ak]-sze	WN	WN.GEN.TERM	D		(UNKNOWN (word *))
+i7	id[river]	N	N	D		(UNKNOWN (word *))
+{d}ba-ba6-he2-gal2-ta		DN	DN	POS		(GOD|GOD_NAME (word *))
+a-lu-x-ki-du		N	N	POS		(UNKNOWN (word *))
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+n(esze3)	_(esze)[unit]	N	N	D		(UNIT (word *))))
+5(iku)	5(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+ki-sumun		N	N	POS		(UNKNOWN (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+a	a[water][-ø]	N	N.ABS	D	B-COM	(PRODUCT_NAME (COM *))
+zi-ri2-gum2		V	NF.V.F	Iabcdefgh		(UNKNOWN (word *))
+5(iku)	5(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+ki-sumun		N	N	POS		(UNKNOWN (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(iku)	2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+{gesz}gesztin		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+lu-a-ka		V	V	POS	B-COM	(PRODUCT_NAME (COM *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+ambar-lagasz{ki}-ka		FN	FN	POS		(CITY (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+hul-tag		V	NF.V.RDP.PT.ABS	Iab		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+lugal-sukkal		PN	PN	Iabcde		(PN (word *))
+ur-{d}su4-an-na	Ursu'anak[1][-ra]	PN	PN.DAT-H	D		(PERSON (PN (word *))
+sipa	sipa[shepherd]	N	N	D		(JOB (JOBNAME (word *))))
+i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+ki-sumun		N	N	POS		(UNKNOWN (word *))
+1(esze3)	1(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+su3	sug[empty][-ø]	V	NF.V.ABS.ABS	D		(PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+NE-NE-lu-kar2-ba-na-kar2		FN	FN	POS		(CITY (word *))
+5(iku)	5(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+2(iku)	2(iku)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+nam-ha-ni	Namhani[1]	N	PN	D		(UNKNOWN (word *))
+gudu4	gudug[priest]	N	N	D		(JOBNAME (word *))
+{d}asar-lu2-hi		DN	DN	POS		(GOD|GOD_NAME (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(iku)	2(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+ur-{d}lamma	Urlamma[1]	PN	PN	D		(PN (word *))
+lu2-esz3-gal		N	N	POS		(UNKNOWN (word *))
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+la-za-wi-gu-la		FN	FN	POS		(CITY (word *))
+...	_[_]	PN	N	D		(PN (word *))
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+...	_[_]	PN	N	D		(PN (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+sanga	sagga[temple_administrator]	N	N	D		(UNKNOWN (word *))
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+4(bur'u)	4(bur'u)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+7(bur3)		NU	NU.GEN	Iabcdef	I-COUNT	*
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+a-ta	a[water]-ta	N	N.ABL	D	B-COM	(PRODUCT_NAME (COM *))
+de6		V	NF.V.PT	Iabcdefgh		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gi-du10		FN	FN	POS		(CITY (word *))
+4(bur3)	4(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+2(esze3)	2(esze)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+illu		FN	FN	POS		(CITY (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+es3-sa2-la-x		FN	FN	POS		(CITY (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(esze3)	1(esze)[unit]	NU	N	D	I-COUNT	*
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+murgu2	murgu[back]	N	N	D		(PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+nin-dingir		PN	N	D		(PN (word *))
+{d}hendur-sag	Hendursag[1]	PN	DN	D		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+hul-tag		V	NF.V.RDP.PT.ABS	Iab		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D		(PN (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+x	_[_]	N	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+...	_[_]	PN	N	D	I-COUNT	*))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x-x	_[_]	PN	N.2-SG-POSS.ABS	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+lu2-esz3-gal		N	N	POS		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+u-bar	Ubar[1]	PN	PN	D		(PN (word *))
+...-gal2-la		PN	PN.GEN.ABS	Iab		(PN (word *))
+lu2	lu[person]	N	N	D		(PRODUCT_NAME (word *))
+esz2		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+{d}szara2-kam	Szarakam[1]	PN	PN	D		(PN (word *))
+i3-gid2		V	V	POS		(UNKNOWN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+a-tu	Atu[1][-ak]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+sa12-du5	sagDUN[land_recorder][-ak]	N	N	D		(UNKNOWN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+GAN2-{gesz}ab-ki-szah2		FN	FN	POS		(CITY (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+5(iku)	5(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+1/4(iku)	1/4(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+hul		V	NF.V.ABS	Iabcdef		(UNKNOWN (word *))
+saga	saga[good][-ø]	V	NF.V.ABS	D		(PRODUCT_PARAM (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+a	a[water][-ø]	N	N.ABS	D	B-COM	(PRODUCT_NAME (COM *)))
+zi-ri2-gum2		V	NF.V.F	Iabcdefgh		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+GAN2	gana[field]	N	N	D		(PRODUCT_NAME (word *))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+a	a[water][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+zi-ri2-gum2		V	NF.V.F	Iabcdefgh		(UNKNOWN (word *))))
+

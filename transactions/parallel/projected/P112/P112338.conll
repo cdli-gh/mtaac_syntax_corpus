@@ -1,0 +1,536 @@
+# train/P112338.atf
+						
+
+# tr.en: workdays female workers remaining of year Simanum was destroyed female workers ban months its labor days from month Harvest through month Dumuzi female workers for days its labor days female bara-kara workers total minus workdays are debit therefrom gur barig ban sila sig-flour gur barig ban ea flour gur barig ban fine pea flour barig fine ground ninda flour gur barig ban sila shekels flour its labor days shekels labor of free days involved days from grain account workdays harvested and shocks laid workdays at river lagoon of Idena stationed workdays at kiBAD reservoir stationed workdays at river lagoon of Lumah village stationed sealed tablet of Lu-gina workdays at sluice of division box of Agam-gula stationed workdays to E-ane canal grass carried and earth filled in workdays acacia cut at long field and land of Agugu workdays at field Ninnudu second land of Lu-Szara workdays at new field Oxen-boot and Udu-Lusaga fields land of Lu-Szara second sealed tablet of Lu-egal son of Ur-Utu workdays acacia cut at sar in Auda field workdays at new field workdays at field erected wall workdays at field iib-priests workdays at field Oxen-boot workdays at field Ninnudu acacia cut at sar under seal of Daaga workdays at sluice of field before Ema stationed under seal of Akalla n workdays female laborers at reservoirs of fields and under seal of n workdays female laborers shocks laid in field muru under seal of Lu-kuzu courrier workdays female laborers at reservoir of Szulpae canal workdays at reservoir of Nin-ura canal reservoir of Dukuge reservoir of Abu and reservoir of Naram-Suen workdays at Lugal-tuma-gara bridge of Naram-Suen grass carried earth excavated under seal of Lugal-egal workdays flour ground workdays stationed at river lagoon of Idena two sealed tablets of Lu-aya workdays threshing at workdays from Luma village to silo of Apisal barley winnowed and mua-grain winnowed under seal of Gududu workdays at reservoir of Udu- workdays at reservoir of erected wall and workdays at reservoir of Nin-azu haran-grass carried under seal of Nabasa workdays at reservoir of Auda stationed under seal of Lugal-inim-gina workdays at reservoir of Agam-gula stationed workdays at sadu stationed workdays at sadura ditch before calf-house under seal of Agugu female workers for days its labor days to bala traveled from bala returned workdays labor of free days total workdays booked out the deficit workdays shekels account of labor of female workers foreman year Szu-Suen king Amorite wall muriq-tidnim erected
+1	1(szar2)	_	,	6	nummod	
+2	5(gesz'u)	_	_	1	nummod	
+3	2(gesz2)	_	_	1	nummod	
+4	4(u)	_	_	1	nummod	
+5	geme2	female workers	NNS	6	appos	
+6	u4	workdays	NNS	0	root	
+7	1(disz)-sze3	_	_	0	nummod	
+8	si-i3-tum	remaining	VBG	6	acl	
+9	mu	year	NN	8	nmod:of	
+10	si-ma-num2{ki}	Simanum	NNP	11	nsubjpass	
+11	ba-hul	was destroyed	VBN	8	ccomp	
+12	3(u)	_	CD	16	nummod	
+13	7(disz)	_	_	12	nummod	
+14	geme2	female workers	NNS	6	_	
+15	3(ban2)	ban	NN	14	nummod	
+16	iti	months	NNS	15	nmod:npmod	
+17	1(u)	_	,	14	nummod	
+18	2(disz)-sze3	_	_	17	nummod	
+19	a2-bi	its labor	NN	14	appos	
+20	u4	_	,	21	_	
+21	<3(szar2)>	days	NNS	14	_	
+22	4(gesz'u)	_	_	0	nummod	
+23	2(gesz2)	_	_	22	nummod	
+24	iti	month	NN	21	nmod:from	
+25	sze-sag11-ku5-ta	from Harvest	IN	24	nmod:from	
+26	iti	month	NN	21	nmod:through	
+27	{d}dumu-zi-sze3	through Dumuzi	IN	26	nmod:through	
+28	3(disz)	_	,	34	nummod	
+29	geme2	female workers	NNS	21	_	
+30	u4	for days	NNS	29	nmod:for	
+31	3(u)	_	_	0	nummod	
+32	3(disz)-sze3	_	_	31	nummod	
+33	a2-bi	its labor	NN	21	root	
+34	u4	days	NNS	33	_	
+35	1(gesz2)	_	_	0	nummod	
+36	3(u)	_	_	35	nummod	
+37	9(disz)	_	_	35	nummod	
+38	geme2	female	JJ	39	amod	
+39	bar-ra-kar-ra	bara-kara workers	NNS	28	root	
+40	szunigin	total	NN	39	_	
+41	5(szar2)	_	_	0	nummod	
+42	3(gesz'u)	_	_	41	nummod	
+43	6(gesz2)	_	_	41	nummod	
+44	2(u)	_	_	41	nummod	
+45	la2	minus	CC	48	cc	
+46	1(disz)	_	_	45	nummod	
+47	geme2	_	_	0	_	
+48	u4	workdays	NNS	50	nsubj	
+49	1(disz)-sze3	_	_	0	nummod	
+50	sag-nig2-gur11-ra-kam	are debit	NN	40	_	
+51	sza3-bi-ta	therefrom	RB	59	_	
+52	8(asz)	_	,	59	nummod	
+53	1(barig)	_	CD	64	nummod	
+54	2(ban2)	_	_	53	nummod	
+55	1(disz)	barig ban	NN	59	nummod	
+56	sila3	sila	NN	58	compound	
+57	zi3	_	_	0	_	
+58	sig15	sig-flour	NN	59	conj	
+59	gur	gur	NN	39	_	
+60	2(asz)	_	,	59	nummod	
+61	4(barig)	_	CD	71	nummod	
+62	2(ban2)	barig ban	NN	59	nummod	
+63	esza	ea flour	NN	59	conj	
+64	gur	gur	NN	59	conj	
+65	1(u)	_	,	59	nummod	
+66	8(asz)	_	CD	73	nummod	
+67	4(barig)	_	_	66	nummod	
+68	2(ban2)	barig ban	NN	59	nummod	
+69	zi3-gu	pea flour	NN	59	conj	
+70	saga	fine	JJ	69	amod	
+71	gur	gur	NN	59	conj	
+72	2(barig)	barig	NN	73	nummod	
+73	nig2-ar3-ra	ground ninda flour	NN	59	conj	
+74	saga	fine	NN	73	compound	
+75	2(gesz2)	_	,	59	nummod	
+76	4(u)	_	_	75	nummod	
+77	1(asz)	_	_	75	nummod	
+78	2(gesz2)	_	_	75	nummod	
+79	4(barig)	_	_	75	nummod	
+80	3(ban2)	_	_	75	nummod	
+81	4(disz)	barig ban	NN	59	nummod	
+82	sila3	sila	NN	83	compound	
+83	gin2	shekels	NNS	84	compound	
+84	dabin	flour	NN	59	conj	
+85	gur	gur	NN	59	conj	
+86	a2-bi	its labor	NN	59	conj	
+87	u4	days	_	0	_	
+88	1(szar2)	_	NNS	59	nummod	
+89	3(gesz'u)	_	,	88	nummod	
+90	9(gesz2)	_	CD	88	nummod	
+91	4(u)	_	NNS	88	nummod	
+92	6(disz)	_	,	88	nummod	
+93	1(u)	_	NN	88	nummod	
+94	gin2	_	:	59	_	
+95	a2	labor	_	0	_	
+96	u4-du8-a-bi	free days involved	NNS	93	nmod:of	
+97	u4	days	NNS	108	nmod:tmod	
+98	($	_	,	108	_	
+99	blank	_	_	0	_	
+100	space	_	_	0	_	
+101	$)	_	_	0	_	
+102	nig2-ka9	from	IN	103	nmod:from	
+103	sze-ta	grain account	NN	108	nmod:from	
+104	1(gesz'u)	_	,	108	nummod	
+105	8(gesz2)	_	CD	116	nummod	
+106	5(u)	_	_	105	nummod	
+107	geme2	_	_	0	_	
+108	u4	workdays	NNS	258	_	
+109	1(disz)-sze3	_	_	0	nummod	
+110	gur10-a	harvested and shocks laid	VBN	108	conj	
+111	zar3	_	_	0	_	
+112	tab-ba	_	_	0	_	
+113	2(gesz2)	_	,	121	nummod	
+114	2(u)	_	CD	125	nummod	
+115	geme2	_	_	0	_	
+116	u4	workdays	NNS	108	conj	
+117	1(disz)-sze3	_	_	0	nummod	
+118	kun-zi-da	at	IN	120	nmod:at	
+119	i7	river	NN	120	compound	
+120	de3-na	lagoon	NN	108	nmod:at	
+121	gub-ba	stationed	VBN	120	acl	
+122	2(u)	_	,	108	nummod	
+123	5(disz)	_	CD	133	nummod	
+124	geme2	_	_	0	_	
+125	u4	workdays	NNS	121	appos	
+126	1(disz)-sze3	_	_	0	nummod	
+127	kab2-ku5	at	IN	128	nmod:at	
+128	ki-BAD	kiBAD reservoir	NN	121	nmod:at	
+129	gub-ba	stationed	VBN	128	acl	
+130	1(gesz2)	_	,	108	nummod	
+131	3(u)	_	_	130	nummod	
+132	geme2	_	_	0	_	
+133	u4	workdays	NNS	108	appos	
+134	1(disz)-sze3	_	_	0	nummod	
+135	kun-zi-da	at	IN	136	nmod:at	
+136	e2-duru5-lu2-mah	river lagoon Lumah village	NN	108	nmod:at	
+137	gub-ba	stationed	VBN	136	acl	
+138	kiszib3	sealed tablet	NN	108	appos	
+139	lu2-gi-na	Lu-gina	NN	138	nmod:of	
+140	5(gesz2)	_	IN	139	nummod	
+141	3(u)	_	:	108	nummod	
+142	8(disz)	_	CD	155	nummod	
+143	geme2	_	_	0	_	
+144	u4	workdays	NNS	108	conj	
+145	1(disz)-sze3	_	_	0	nummod	
+146	a-e3-a	sluice	NN	144	nmod:at	
+147	bar-la2	at	IN	146	nmod:at	
+148	a-ga-am	division Agam-gula	NN	149	compound	
+149	gu-la	box	NN	146	nmod:of	
+150	gub-ba	stationed	VBN	149	acl	
+151	3(gesz2)	_	IN	149	nummod	
+152	4(u)	_	:	108	nummod	
+153	2(disz)	_	NNP	164	nummod	
+154	geme2	_	_	0	_	
+155	u4	workdays	NNS	108	conj	
+156	1(disz)-sze3	_	_	0	nummod	
+157	i7	_	_	0	_	
+158	e2-ansze-sze3	to E-ane canal	TO	159	nmod:to	
+159	u2	grass	NN	108	nmod:to	
+160	ga6-ga2	carried	VBD	159	acl	
+161	u3	and	CC	160	cc	
+162	sahar	earth	NN	160	conj	
+163	si-ga	in filled	VBN	160	acl	
+164	($	workdays	NNS	108	conj	
+165	blank	_	NN	172	dobj	
+166	space	_	,	172	_	
+167	$)	_	_	0	_	
+168	geme2	_	_	0	_	
+169	u4	_	_	0	_	
+170	1(disz)-sze3	_	_	0	nummod	
+171	{u2}kiszi17	acacia	NN	172	nsubj	
+172	ku5-ra2	cut	VBD	164	acl:relcl	
+173	...	_	_	0	dep	
+174	a-sza3	field	NN	172	nmod:at	
+175	gid2-da	_	NN	174	conj	
+176	u3	and	CC	174	cc	
+177	ugur2-tur-tur	at long	IN	174	nmod:at	
+178	ga	_	,	164	_	
+179	GAN2	_	:	108	_	
+180	a-gu-gu	land Agugu	NN	164	appos	
+181	($	workdays	NNS	108	conj	
+182	blank	at	IN	188	nmod:at	
+183	space	_	,	258	_	
+184	$)	_	_	0	_	
+185	geme2	_	_	0	_	
+186	u4	_	_	0	_	
+187	1(disz)-sze3	_	_	0	nummod	
+188	a-sza3	field	NN	181	nmod:at	
+189	nin10-nu-du3	Ninnudu	NNP	188	_	
+190	a-ra2	second	JJ	108	_	
+191	2(disz)-kam	_	_	0	nummod	
+192	GAN2	_	:	193	_	
+193	lu2-{d}szara2	land Lu-Szara	NN	258	_	
+194	($	workdays	NNS	193	conj	
+195	blank	at	IN	205	nmod:at	
+196	space	_	,	206	_	
+197	$)	_	_	0	_	
+198	1(u)	_	_	0	nummod	
+199	4(disz)	_	_	198	nummod	
+200	geme2	_	_	0	_	
+201	u4	_	_	0	_	
+202	1(disz)-sze3	_	_	0	nummod	
+203	a-sza3	_	_	0	_	
+204	gibil	new	JJ	205	amod	
+205	a-sza3	field	NN	194	nmod:at	
+206	gu4-suhub2	Oxen-boot	NN	194	appos	
+207	u3	and	CC	206	cc	
+208	u2-du-lu2-saga	Udu-Lusaga fields	NNP	206	conj	
+209	GAN2	_	,	213	_	
+210	lu2-{d}szara2	land Lu-Szara	NN	206	conj	
+211	a-ra2	second	JJ	213	amod	
+212	2(disz)-kam	_	_	0	nummod	
+213	kiszib3	sealed tablet	NN	210	appos	
+214	lu2-he2-gal2	Lu-egal	JJ	213	nmod:of	
+215	dumu	son	NN	210	appos	
+216	ur-{d}utu	Ur-Utu	NN	215	nmod:of	
+217	($	workdays	NNS	206	conj	
+218	blank	_	:	206	_	
+219	space	_	NNP	230	compound	
+220	$)	_	_	0	_	
+221	geme2	_	_	0	_	
+222	u4	_	_	0	_	
+223	1(disz)-sze3	_	_	0	nummod	
+224	{u2}kiszi17	acacia	NN	225	compound	
+225	ku5-ra2	cut	NN	206	conj	
+226	1(u)	_	_	0	nummod	
+227	sar-ta	at sar	NN	225	nmod:at	
+228	a-sza3	field	NN	227	nmod:in	
+229	a-u2-da	in Auda	IN	228	nmod:in	
+230	($	workdays	NNS	206	conj	
+231	blank	at	IN	237	nmod:at	
+232	space	_	:	206	_	
+233	$)	_	NNP	239	compound	
+234	geme2	_	_	0	_	
+235	u4	_	_	0	_	
+236	1(disz)-sze3	_	_	0	nummod	
+237	a-sza3	field	NN	206	conj	
+238	gibil	new	JJ	237	amod	
+239	($	workdays	NNS	206	conj	
+240	blank	at	IN	246	nmod:at	
+241	space	_	:	206	_	
+242	$)	_	''	206	_	
+243	geme2	_	NNP	249	compound	
+244	u4	_	_	0	_	
+245	1(disz)-sze3	_	_	0	nummod	
+246	a-sza3	field	NN	239	nmod:at	
+247	bad3	wall	NN	239	_	
+248	du3-a	erected	VBD	247	amod	
+249	($	workdays	NNS	206	_	
+250	blank	at	IN	256	nmod:at	
+251	space	_	:	193	_	
+252	$)	_	''	258	_	
+253	geme2	_	NNP	258	compound	
+254	u4	_	_	0	_	
+255	1(disz)-sze3	_	_	0	nummod	
+256	a-sza3	field	NN	206	nmod:at	
+257	iszib-e-ne	iib-priests	NNS	256	_	
+258	($	workdays	NNS	88	_	
+259	blank	at	IN	265	nmod:at	
+260	space	_	:	258	_	
+261	$)	_	''	258	_	
+262	geme2	_	_	0	_	
+263	u4	_	_	0	_	
+264	1(disz)-sze3	_	_	0	nummod	
+265	a-sza3	field	NN	258	nmod:at	
+266	gu4-suhub2	Oxen-boot	NN	265	_	
+267	($	workdays	NNS	258	_	
+268	blank	at	IN	274	nmod:at	
+269	space	_	_	0	_	
+270	$)	_	_	0	_	
+271	geme2	_	,	258	_	
+272	u4	_	''	258	_	
+273	1(disz)-sze3	_	_	0	nummod	
+274	a-sza3	field	NN	258	nmod:at	
+275	nin10-nu-du3	Ninnudu	NNP	274	_	
+276	{u2}kiszi17	acacia	NN	277	compound	
+277	ku5-ra2	cut	NN	258	_	
+278	1(u)	_	:	258	nummod	
+279	sar-ta	at sar	NN	277	nmod:at	
+280	kiszib3	under seal	NN	258	nmod:under	
+281	da-a-ga	Daaga	NN	280	nmod:of	
+282	5(gesz2)	_	IN	281	nummod	
+283	1(u)	_	,	291	nummod	
+284	4(disz)	_	_	283	nummod	
+285	geme2	_	_	0	_	
+286	u4	workdays	NNS	258	conj	
+287	1(disz)-sze3	_	_	0	nummod	
+288	a-e3-a	at sluice	NN	286	nmod:at	
+289	a-sza3	field	NN	288	nmod:of	
+290	igi-e2-mah-sze3	before Ema	IN	291	mark	
+291	gub-ba	stationed	VBD	288	acl	
+292	kiszib3	under seal	NN	291	nmod:under	
+293	a-kal-la	Akalla	NNP	292	nmod:of	
+294	n	_	:	258	_	
+295	geme2	female laborers	NNS	302	appos	
+296	u4	_	NN	303	conj	
+297	1(disz)-sze3	_	:	258	nummod	
+298	kab2-ku5	at reservoirs	NNS	302	nmod:at	
+299	a-sza3	_	_	0	_	
+300	x	_	_	0	dep	
+301	u3	and	CC	303	cc	
+302	kab2-ku5	workdays fields	NNS	258	conj	
+303	...	workdays fields	NNS	298	nmod:of	
+304	kiszib3	under seal	NN	258	conj	
+305	x-{d}x	of	IN	304	nmod:of	
+306	n	_	:	258	_	
+307	geme2	female laborers	NNS	308	conj	
+308	u4	workdays	NNS	258	conj	
+309	1(disz)-sze3	_	FW	308	nummod	
+310	zar3	_	,	308	_	
+311	tab-ba	in	IN	312	nmod:in	
+312	a-sza3	field	NN	313	nmod:in	
+313	muru13	shocks laid	NNS	308	conj	
+314	kiszib3	under seal	NN	308	nmod:under	
+315	lu2-ku3-zu	Lu-kuzu	NN	314	nmod:of	
+316	sukkal	courrier	NN	315	appos	
+317	1(gesz2)	_	IN	315	nummod	
+318	5(u)	_	:	258	nummod	
+319	5(disz)	_	CD	332	nummod	
+320	geme2	female laborers	NNS	321	appos	
+321	u4	workdays	NNS	258	conj	
+322	1(disz)-sze3	_	_	0	nummod	
+323	kab2-ku5	at reservoir	NN	321	nmod:at	
+324	i7	canal	NN	323	nmod:of	
+325	{d}szul-pa-e3	Szulpae	NN	324	compound	
+326	6(gesz2)	_	IN	324	nummod	
+327	1(u)	_	NN	341	nummod	
+328	5(disz)	_	:	327	nummod	
+329	geme2	_	_	0	_	
+330	u4	_	_	0	_	
+331	1(disz)-sze3	_	_	0	nummod	
+332	kab2-ku5	workdays	NNS	258	conj	
+333	i7	_	_	0	_	
+334	{d}nin-ur4-ra	_	CD	349	nummod	
+335	u3	_	_	0	_	
+336	kab2-ku5	at	IN	338	nmod:at	
+337	du6-ku3-sig17	_	_	0	_	
+338	kab2-ku5	reservoir	NN	332	nmod:at	
+339	a-bu3	Abu	NNP	332	nmod:of	
+340	u3	and	CC	258	cc	
+341	kab2-ku5	reservoir	NN	258	conj	
+342	na-ra-am-{d}suen	Naram-Suen	NNP	327	compound	
+343	u2	_	_	0	_	
+344	na	reservoir Nin-ura canal reservoir Dukuge	NN	338	nmod:of	
+345	du	_	_	0	_	
+346	3(gesz2)	_	IN	344	nummod	
+347	4(u)	_	:	88	nummod	
+348	geme2	_	_	0	_	
+349	u4	workdays	NNS	341	_	
+350	1(disz)-sze3	_	_	0	nummod	
+351	u3	_	_	0	_	
+352	lugal	_	_	0	_	
+353	tum-ma-gar-ra	Lugal-tuma-gara bridge earth	NN	349	nmod:at	
+354	na-ra-am-{d}suen	at Naram-Suen	IN	353	nmod:at	
+355	u2	grass	NN	356	nsubj	
+356	ga6-ga2	carried	VBD	341	acl:relcl	
+357	sahar	excavated	VBN	356	acl	
+358	zi-ga	_	_	0	_	
+359	kiszib3	under seal	NN	88	_	
+360	lugal-he2-gal2	Lugal-egal	JJ	359	nmod:of	
+361	2(gesz2)	_	IN	360	nummod	
+362	4(u)	_	:	88	nummod	
+363	5(disz)	_	CD	372	nummod	
+364	geme2	_	_	0	_	
+365	u4	workdays	NNS	88	_	
+366	1(disz)-sze3	_	_	0	nummod	
+367	zi3	flour	NN	368	compound	
+368	ar3	ground	NN	365	appos	
+369	1(gesz2)	_	NNP	376	nummod	
+370	8(disz)	_	:	39	nummod	
+371	geme2	_	''	39	_	
+372	u4	workdays	NNS	88	_	
+373	1(disz)-sze3	_	_	0	nummod	
+374	kun-zi-da	at	IN	376	nmod:at	
+375	i7	river	NN	376	compound	
+376	de3-na	lagoon	NN	377	nmod:at	
+377	gub-ba	stationed	VBN	372	acl	
+378	kiszib3	_	:	39	_	
+379	2(disz)	_	CD	384	nummod	
+380	lu2-{d}ha-ia3	two sealed tablets Lu-aya	CD	39	nummod	
+381	6(gesz2)	two sealed tablets Lu-aya	JJ	39	nummod	
+382	3(disz)	_	CD	386	nummod	
+383	geme2	_	_	0	_	
+384	u4	workdays	NNS	39	_	
+385	1(disz)-sze3	_	CD	391	nummod	
+386	ki-su7	threshing at	VBG	384	acl	
+387	2(asz)-ta	_	_	0	nummod	
+388	2(gesz2)	_	_	387	nummod	
+389	5(disz)	_	_	387	nummod	
+390	geme2	_	_	0	_	
+391	u4	workdays	NNS	386	conj	
+392	1(disz)-sze3	_	_	0	nummod	
+393	e2-duru5	from	IN	394	nmod:from	
+394	lu2-mah-ta	Luma village	NN	391	nmod:from	
+395	guru7	silo	NN	394	nmod:to	
+396	a-pi4-sal4{ki}-sze3	to Apisal	TO	395	nmod:to	
+397	sze	barley	NN	398	nsubj	
+398	zi-ga	winnowed	VBD	391	acl:relcl	
+399	u3	and	CC	398	cc	
+400	sze	_	:	386	_	
+401	mu-sza	mua-grain	JJ	402	amod	
+402	zi-ga	winnowed	VBN	398	conj	
+403	kiszib3	under seal	NN	386	conj	
+404	gu-du-du	Gududu	NNP	403	nmod:of	
+405	1(gesz2)	_	CD	418	nummod	
+406	1(u)	_	_	405	nummod	
+407	la2	_	_	405	_	
+408	1(disz@t)	_	_	407	nummod	
+409	geme2	_	_	0	_	
+410	u4	workdays	NNS	386	conj	
+411	1(disz)-sze3	_	_	0	nummod	
+412	kab2-ku5	at reservoir	NN	410	nmod:at	
+413	u2-du-...	_	:	386	_	
+414	2(gesz2)	_	IN	412	nummod	
+415	1(u)	_	DT	420	nummod	
+416	8(disz)	_	_	415	nummod	
+417	geme2	_	:	386	_	
+418	u4	workdays	NNS	386	conj	
+419	1(disz)-sze3	_	CD	431	nummod	
+420	kab2-ku5	at reservoir	NN	418	nmod:at	
+421	bad3	wall	NN	420	nmod:of	
+422	du3-a	erected	VBN	421	amod	
+423	u3	and	CC	420	cc	
+424	a	_	_	0	_	
+425	x	_	_	0	dep	
+426	x	_	_	0	dep	
+427	1(gesz2)	_	IN	421	nummod	
+428	5(u)	_	NN	433	nummod	
+429	5(disz)	_	,	431	nummod	
+430	geme2	_	_	0	_	
+431	u4	workdays	NNS	386	conj	
+432	1(disz)-sze3	_	_	0	nummod	
+433	kab2-ku5	at reservoir	NN	431	nmod:at	
+434	{d}nin-a-zu	Nin-azu	NN	428	compound	
+435	{u2}har-an	haran-grass	NN	436	nsubj	
+436	ga6-ga2	carried	VBD	431	acl:relcl	
+437	kiszib3	under seal	NN	386	conj	
+438	na-ba-sa6	Nabasa	NN	437	nmod:of	
+439	1(gesz2)	_	IN	438	nummod	
+440	5(u)	_	,	443	nummod	
+441	5(disz)	_	_	440	nummod	
+442	geme2	_	_	0	_	
+443	u4	workdays	NNS	386	conj	
+444	1(disz)-sze3	_	_	0	nummod	
+445	kab2-ku5	at reservoir	NN	443	nmod:at	
+446	a-u2-da	Auda	NNP	445	compound	
+447	...-hal	_	:	386	_	
+448	gub-ba	stationed	VBN	445	acl	
+449	kiszib3	under seal	NN	386	conj	
+450	lugal-inim-gi-na	Lugal-inim-gina	NN	449	nmod:of	
+451	2(gesz2)	_	:	386	nummod	
+452	geme2	_	CD	461	nummod	
+453	u4	workdays	NNS	386	conj	
+454	1(disz)-sze3	_	_	0	nummod	
+455	kab2-ku5	at reservoir	NN	453	nmod:at	
+456	a-ga-am-gu-la	Agam-gula	JJ	457	amod	
+457	gub-ba	stationed	VBN	455	nmod:of	
+458	1(gesz2)	_	:	386	nummod	
+459	2(u)	_	CD	469	nummod	
+460	geme2	_	_	0	_	
+461	u4	workdays	NNS	386	conj	
+462	1(disz)-sze3	_	_	0	nummod	
+463	sa-du8	at sadu	IN	461	nmod:at	
+464	u3	_	_	0	_	
+465	bar	_	_	0	_	
+466	gub-ba	stationed	VBN	461	acl	
+467	1(gesz2)	_	:	386	nummod	
+468	geme2	_	_	0	_	
+469	u4	workdays	NNS	386	conj	
+470	1(disz)-sze3	_	_	0	nummod	
+471	e	_	_	0	_	
+472	sa-dur2-ra	at sadura ditch	NN	469	nmod:at	
+473	igi	before	IN	474	nmod:before	
+474	e2-amar-ra	calf-house	NN	472	nmod:before	
+475	kiszib3	under seal	NN	386	conj	
+476	a-gu-gu	Agugu	NNP	475	nmod:of	
+477	3(u)	_	,	478	nummod	
+478	geme2	female workers	NNS	386	_	
+479	u4	for days	NNS	478	nmod:for	
+480	1(u)-sze3	_	_	0	nummod	
+481	a2-bi	its labor	NN	478	appos	
+482	u4	days	NNS	478	_	
+483	5(gesz2)-kam	_	:	482	nummod	
+484	bala-sze3	bala	NN	482	nmod:to	
+485	gen-na	to	TO	484	nmod:to	
+486	bala-ta	traveled bala	VBD	484	acl	
+487	gur-ra	from returned	IN	484	nmod:from	
+488	3(gesz'u)	from returned	VBD	484	nummod	
+489	3(gesz2)	_	,	494	nummod	
+490	1(u)	_	_	489	nummod	
+491	2(disz)	_	_	489	nummod	
+492	2/3(disz)	_	_	489	nummod	
+493	geme2	_	_	0	_	
+494	u4	workdays	NNS	484	_	
+495	1(disz)-sze3	_	_	0	nummod	
+496	a2	labor	NN	494	appos	
+497	u4-du8-a	free days	NNS	496	nmod:of	
+498	szunigin	total	NN	484	_	
+499	3(szar2)	_	_	0	nummod	
+500	3(gesz'u)	_	_	499	nummod	
+501	2(gesz2)	_	_	499	nummod	
+502	3(u)	_	_	499	nummod	
+503	8(disz)	_	_	499	nummod	
+504	5/6(disz)	_	_	499	nummod	
+505	geme2	_	_	0	_	
+506	u4	workdays	NNS	498	_	
+507	1(disz)-sze3	_	_	0	nummod	
+508	zi-ga-am3	booked out	VBN	506	acl	
+509	la2-ia3	the deficit	DT	510	det	
+510	2(szar2)	the deficit	NN	484	nummod	
+511	3(gesz2)	_	,	517	nummod	
+512	4(u)	_	_	511	nummod	
+513	2(disz)	_	_	511	nummod	
+514	1(u)	_	_	0	nummod	
+515	gin2	shekels	NNS	517	appos	
+516	geme2	_	_	0	_	
+517	u4	workdays	NNS	510	_	
+518	1(disz)-sze3	_	_	0	nummod	
+519	nig2-ka9-ak	account	NN	517	appos	
+520	a2	labor	NN	519	nmod:of	
+521	geme2	female workers	NNS	520	nmod:of	
+522	ugula	foreman	NN	520	appos	
+523	...-x	_	NN	524	dep	
+524	mu	year	NN	517	_	
+525	{d}szu-{d}suen	Szu-Suen	NNP	524	_	
+526	lugal	king	NN	525	appos	
+527	bad3	_	.	39	_	
+528	mar-tu	Amorite wall	NNP	529	compound	
+529	mu-ri-iq-ti-id-ni-im	muriq-tidnim	NN	525	appos	
+530	mu-du3	erected	VBN	529	amod
+	
+

@@ -1,0 +1,62 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P104/P104807.conll #
+#########################################################################################
+
+#new_text=P104807
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+...	_[_]	PN	N	D	I-COUNT	(NUMBER (COUNT *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szah2-gur4-munus-gesz-gi		PN	PN	POS		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+szah2-gur4-nita2-gesz-gi		PN	PN	POS		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+szah2-szaganx(AMA){gan}		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+szah2-gur4-munus-gesz-gi		PN	PN	POS		(PN (word *))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+szah2-NE-gur4-munus-gesz-gi		N	N	Ia		(UNKNOWN (word *))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+szah2-nita2-gesz-gi		N	N	Ia		(UNKNOWN (word *))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+szah2-gur4-nita2-gesz-gi		PN	PN	POS		(PN (word *))
+u2	u[grass]	N	N	D	B-COM	(PRODUCT_NAME (COM *)))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+szah2-NE-tur-nita2-gesz-gi		PN	PN	POS		(PN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+szah2-szaganx(AMA){gan}		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+iri	iri[city]	N	N	D		(UNKNOWN (word *)))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *))
+szah2-nita2	szahnita[male_pig]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))))
+iri	iri[city]	N	N	D		(UNKNOWN (word *)))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+szah2-NE-tur-munus		N	N	Ia		(UNKNOWN (word *))
+iri	iri[city]	N	N	D		(UNKNOWN (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *))
+szah2-NE-tur-nita2		N	N	POS		(UNKNOWN (word *))
+iri	iri[city]	N	N	D		(UNKNOWN (word *))))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+u5{muszen}		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+uz-tur		PN	PN	POS		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+uz{muszen}		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+ir7{muszen}		N	N	Ia		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+tu-gur4{muszen}		PN	PN	Iabcde		(PN (word *))
+...	_[_]	PN	N	D		(PN (word *))))
+

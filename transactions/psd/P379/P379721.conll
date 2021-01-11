@@ -1,0 +1,37 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P379/P379721.conll #
+#########################################################################################
+
+#new_text=P379721
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+{gesz}mar	mar[shovel]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+gag		N	N	Ia		(UNKNOWN (word *))
+sal4		V	V	POS		(UNKNOWN (word *))
+szu-du7-a	szudu[complete]-a[-ø]	N	NF.V.PT.ABS	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}apin	apin[plow]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gesz}ud5		N	N	Ia		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}gu-za	guza[chair]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}tab-ba		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+sumun	sumun[old][-ø]	N	NF.V.ABS	D		(PRODUCT_PARAM (word *))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}silig		N	N	Ia	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gesz}kid		N	N	Ia		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gesz}si-ig-hul2-gesz		N	N	Ia		(UNKNOWN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+{gi}gurdub		N	N	Ia		(UNKNOWN (word *))
+siki	siki[wool][-'a]	N	N	D		(PRODUCT_NAME (word *))
+e2-du6-la		N	N	Ia		(UNKNOWN (word *))
+lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ur-im-nun		PN	PN.GEN.ABL	Iabcdefgh		(PERSON (PN (word *)))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	N.ABS	D		(PN (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D	B-COM	(PRODUCT_NAME (COM *))))
+

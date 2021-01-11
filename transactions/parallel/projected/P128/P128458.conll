@@ -1,0 +1,319 @@
+# train/P128458.atf
+						
+
+# tr.en: gur barig sila bran royal workdays female laborers talents mana willow bundles of reed the remainder month Akitu of year Simurrum Lullubum for th time were destroyed gur barley gur wheat fodder of oxen sheep goats and equids gur barig barley rations of Martu month Harvest gur barley gur wheat fodder of oxen sheep goats and equids gur barig barley rations of Martu month extra Harvest exchange good for oxen sheep gur barig ban sila barley beer bread bundles of reed talents willow Nabdanum not fed and to day stretched one workday gur barig bran its bran of bala month Harvest and month extra Harvest total silo gur ban sila barley Szulgi total gur wheat its barley silo gur ban sila total gur barig sila bran total workdays female laborers total talents mana willow total bundles of reed is debits therefrom gur barig ban sila barley surplus of account month Akitu year Simurrum Lullubum for th time were destroyed gur barig ban sila wheat into sealed house brought via Lu-Utu foreman of mill gur ban bran Szulgi-ayamu n gur bran delivery deficit gur barig ban sila barley gur barig ban sila bran workdays female laborers talents mana willow bundles of reed are deficit account of the bala of Ur-Lamma governor of Girsu month Harvest month extra Harvest of two months bala year Simurrum Lullubum for th time were destroyed
+1	1(gesz'u)	_	_	0	nummod	
+2	2(gesz2)	barig	NN	9	nummod	
+3	2(u)	_	_	2	nummod	
+4	7(asz)	_	,	9	nummod	
+5	2(barig)	_	CD	17	nummod	
+6	3(disz)	_	_	5	nummod	
+7	2/3(disz)	_	_	5	nummod	
+8	sila3	sila	NN	9	compound	
+9	duh	bran	NN	10	_	
+10	gur	gur	NN	0	root	
+11	lugal	royal	NN	9	appos	
+12	2(szar2)	_	,	9	nummod	
+13	9(gesz2)	_	CD	20	nummod	
+14	6(disz)	_	_	13	nummod	
+15	5/6(disz)	_	_	13	nummod	
+16	geme2	female laborers	NNS	9	appos	
+17	u4	workdays	NNS	9	appos	
+18	1(disz)-sze3	_	_	0	nummod	
+19	3(u)	_	,	9	nummod	
+20	gu2	talents	NNS	9	appos	
+21	2(u)	_	CD	28	nummod	
+22	6(disz)	_	_	21	nummod	
+23	ma-na	mana	NN	24	compound	
+24	{gesz}ma-nu	willow	NN	20	_	
+25	3(szar2)	_	,	9	nummod	
+26	4(gesz'u)	_	_	25	nummod	
+27	2(u)	_	_	25	nummod	
+28	sa	bundles	NNS	9	appos	
+29	gi	reed	NN	28	nmod:of	
+30	si-i3-tum	the remainder	NN	9	appos	
+31	iti	month	NN	313	compound	
+32	a2-ki-ti	_	``	313	_	
+33	mu	year	NN	313	nmod:of	
+34	si-mu-ru-um{ki}	Simurrum	NNP	40	nsubjpass	
+35	lu-lu-bu-um{ki}	Lullubum th	NNP	34	appos	
+36	a-ra2	for	IN	35	nmod:for	
+37	1(u)	_	:	10	nummod	
+38	la2	_	''	37	_	
+39	1(disz)-kam-asz	_	CD	42	nummod	
+40	ba-hul-a	time were destroyed	VBN	313	acl	
+41	3(gesz'u)	_	,	42	nummod	
+42	sze	barley	NN	10	_	
+43	gur	gur	NN	42	compound	
+44	4(u)	_	,	42	nummod	
+45	gig	wheat	NN	42	appos	
+46	gur	gur	NN	45	compound	
+47	sza3-gal	fodder	NN	42	appos	
+48	gu4	oxen	NN	47	nmod:of	
+49	udu	sheep	NN	48	conj	
+50	masz	goats	NNS	48	conj	
+51	ansze	and equids	CC	48	cc	
+52	1(asz)	_	,	55	nummod	
+53	3(barig)	_	_	52	nummod	
+54	gur	gur barig	NN	55	compound	
+55	sze-ba	barley rations	NNS	42	_	
+56	mar-tu-ne	Martu	NNP	55	nmod:of	
+57	iti	month	NN	55	appos	
+58	sze-sag11-ku5	Harvest	NN	55	_	
+59	3(gesz'u)	_	,	60	nummod	
+60	sze	barley	NN	42	_	
+61	gur	gur	NN	60	compound	
+62	4(u)	_	,	60	nummod	
+63	gig	wheat	NN	60	appos	
+64	gur	gur	NN	63	compound	
+65	sza3-gal	fodder	NN	60	appos	
+66	gu4	oxen	NN	65	nmod:of	
+67	udu	sheep	NN	66	conj	
+68	masz	goats	NNS	66	conj	
+69	ansze	and equids	CC	66	cc	
+70	1(asz)	_	,	73	nummod	
+71	3(barig)	_	_	70	nummod	
+72	gur	gur barig	NN	73	compound	
+73	sze-ba	barley rations	NNS	10	_	
+74	mar-tu-ne	Martu	NNP	73	nmod:of	
+75	iti	month	NN	76	nmod:npmod	
+76	diri	extra	JJ	73	amod	
+77	sze-sag11-ku5	Harvest	NN	73	_	
+78	x	_	_	0	dep	
+79	...	_	_	0	dep	
+80	da	_	_	0	_	
+81	x	_	_	0	dep	
+82	...	_	_	0	dep	
+83	sze	_	_	0	_	
+84	x	_	_	0	dep	
+85	...	_	_	0	dep	
+86	nig2-sa10	exchange	NN	10	_	
+87	gu4	oxen	NNS	86	nmod:for	
+88	udu	sheep	NN	87	conj	
+89	x	_	,	87	dep	
+90	x-a-ka	good for	JJ	86	amod	
+91	3(gesz2)	good for	IN	87	nummod	
+92	3(u)	_	:	98	nummod	
+93	1(asz)	_	CD	107	nummod	
+94	4(barig)	_	_	93	nummod	
+95	3(ban2)	barig ban	NN	98	nummod	
+96	3(disz)	_	_	0	nummod	
+97	sila3	sila	NN	99	compound	
+98	gur	gur	NN	87	_	
+99	sze	barley	NN	95	_	
+100	kasz	beer	NN	98	conj	
+101	ninda	bread	NN	98	conj	
+102	1(szar2)	_	_	0	nummod	
+103	1(gesz'u)	_	_	102	nummod	
+104	2(gesz2)	_	:	98	nummod	
+105	3(u)	_	CD	112	nummod	
+106	1(disz)	_	_	105	nummod	
+107	sa	bundles	NNS	98	conj	
+108	gi	reed	NN	107	nmod:of	
+109	1(u)	_	:	98	nummod	
+110	2(asz)	_	_	109	nummod	
+111	2/3(asz)	_	_	109	nummod	
+112	gu2	talents	NNS	98	conj	
+113	{gesz}ma-nu	willow	NN	112	appos	
+114	na-ap-ta2-num2	Nabdanum fed stretched one workday	NN	98	conj	
+115	nu-gu7-a	not	RB	114	neg	
+116	u3	and	CC	114	cc	
+117	u4-de3	to	TO	119	nmod:to	
+118	gid2-da	_	:	98	_	
+119	u4	day	NN	114	conj	
+120	1(disz)-kam	_	CD	126	nummod	
+121	1(gesz'u)	_	,	120	nummod	
+122	7(gesz2)	_	_	120	nummod	
+123	2(u)	_	_	120	nummod	
+124	9(asz)	_	_	120	nummod	
+125	1(barig)	barig	NN	126	nummod	
+126	duh	bran	NN	98	conj	
+127	gur	gur	NN	126	compound	
+128	duh-bi	its bran	NN	126	appos	
+129	bala-ka	bala	NN	128	nmod:of	
+130	iti	month	NN	131	compound	
+131	sze-sag11-ku5	Harvest	NNP	197	nsubj	
+132	u3	and	CC	131	cc	
+133	iti	month	NN	134	nmod:npmod	
+134	diri	extra	JJ	131	conj	
+135	sze-sag11-ku5	Harvest	NN	131	_	
+136	szunigin	total	NN	131	_	
+137	1(asz)	_	,	131	nummod	
+138	guru7	silo	NN	136	_	
+139	3(gesz2)	_	_	0	nummod	
+140	3(u)	_	_	139	nummod	
+141	5(asz)	_	_	139	nummod	
+142	3(ban2)	_	_	139	nummod	
+143	3(disz)	ban	NN	145	nummod	
+144	sila3	sila	NN	145	compound	
+145	sze	barley	NN	146	_	
+146	gur	gur	NN	138	_	
+147	{d}szul-gi-ra	Szulgi	NN	138	appos	
+148	szunigin	total	NN	131	_	
+149	1(gesz2)	_	,	131	nummod	
+150	2(u)	_	_	149	nummod	
+151	gig	wheat	NN	148	_	
+152	gur	gur	NN	151	compound	
+153	sze-bi	its barley	NN	131	appos	
+154	1(asz)	_	:	131	nummod	
+155	guru7	silo	NN	153	_	
+156	6(gesz2)	_	_	0	nummod	
+157	1(u)	_	_	156	nummod	
+158	5(asz)	_	_	156	nummod	
+159	3(ban2)	_	_	156	nummod	
+160	3(disz)	ban	NN	162	nummod	
+161	sila3	sila	NN	160	_	
+162	gur	gur	NN	155	_	
+163	szunigin	total	NN	131	_	
+164	2(gesz'u)	_	:	131	nummod	
+165	9(gesz2)	_	_	164	nummod	
+166	5(u)	_	_	164	nummod	
+167	6(asz)	_	_	164	nummod	
+168	3(barig)	_	_	164	nummod	
+169	3(disz)	_	_	164	nummod	
+170	2/3(disz)	barig	NN	172	nummod	
+171	sila3	sila	NN	172	compound	
+172	duh	bran	NN	173	_	
+173	gur	gur	NN	163	_	
+174	szunigin	total	NN	131	_	
+175	2(szar2)	_	:	131	nummod	
+176	9(gesz2)	_	_	175	nummod	
+177	6(disz)	_	_	175	nummod	
+178	5/6(disz)	_	_	175	nummod	
+179	geme2	female laborers	NNS	180	appos	
+180	u4	workdays	NNS	174	_	
+181	1(disz)-sze3	_	_	0	nummod	
+182	szunigin	total	NN	131	_	
+183	4(u)	_	:	131	nummod	
+184	3(asz)	_	_	183	nummod	
+185	gu2	talents	NNS	182	_	
+186	6(disz)	_	_	0	nummod	
+187	ma-na	mana	NN	188	compound	
+188	{gesz}ma-nu	willow	NN	185	_	
+189	szunigin	total	NN	131	_	
+190	4(szar2)	_	:	131	nummod	
+191	5(gesz'u)	_	_	190	nummod	
+192	2(gesz2)	_	_	190	nummod	
+193	5(u)	_	_	190	nummod	
+194	1(disz)	_	_	190	nummod	
+195	sa	bundles	NNS	189	_	
+196	gi	reed	NN	195	nmod:of	
+197	sag-nig2-gur11-ra-kam	is debits	NNS	98	_	
+198	sza3-bi-ta	therefrom	RB	10	_	
+199	4(gesz'u)	_	,	205	nummod	
+200	5(gesz2)	_	_	199	nummod	
+201	5(u)	_	_	200	nummod	
+202	1(barig)	_	_	201	nummod	
+203	1(ban2)	_	_	202	nummod	
+204	6(disz)	_	_	203	nummod	
+205	2/3(disz)	barig ban	NN	198	nummod	
+206	sila3	sila	NN	207	compound	
+207	sze	barley	NN	205	_	
+208	gur	gur	NN	205	compound	
+209	diri	surplus	NN	205	appos	
+210	nig2-ka9-ak	account	NN	209	nmod:of	
+211	iti	month	NN	205	appos	
+212	a2-ki-ti	Akitu	NNP	205	_	
+213	mu	year	NN	212	appos	
+214	si-mu-ru-um{ki}	Simurrum	NNP	220	nsubjpass	
+215	lu-lu-bu-um{ki}	Lullubum	NNP	214	appos	
+216	a-ra2	for th time	NN	215	nmod:for	
+217	1(u)	_	:	205	nummod	
+218	la2	_	''	205	_	
+219	1(disz)-kam-asz	_	CD	227	nummod	
+220	ba-hul	were destroyed	VBN	212	acl	
+221	3(asz)	_	,	205	nummod	
+222	3(barig)	_	_	205	nummod	
+223	5(ban2)	_	_	205	nummod	
+224	5(disz)	barig ban	NN	227	nummod	
+225	sila3	sila	NN	226	compound	
+226	gig	wheat	NN	224	_	
+227	gur	gur	NN	205	_	
+228	e2-kiszib3-ba-ka	into sealed house	NN	205	nmod:into	
+229	ba-an-kux(KWU147)	brought	VBD	228	acl	
+230	giri3	via	IN	231	nmod:via	
+231	lu2-{d}utu	Lu-Utu	NN	205	nmod:via	
+232	ugula	foreman	NN	231	appos	
+233	kikken	of mill	IN	234	nmod:of	
+234	4(gesz2)	of mill	NN	232	nummod	
+235	1(u)	_	,	238	nummod	
+236	2(asz)	_	_	235	nummod	
+237	2(ban2)	_	_	235	nummod	
+238	duh	bran	NN	205	conj	
+239	gur	gur	NN	238	compound	
+240	{d}szul-gi-a-a-mu	Szulgi-ayamu	NN	238	appos	
+241	x	_	_	0	dep	
+242	...	_	_	0	dep	
+243	n	n	CD	244	nummod	
+244	duh	bran	NN	205	conj	
+245	gur	gur	NN	244	compound	
+246	mu-kux(DU)	delivery	NN	244	appos	
+247	la2-ia3	deficit	NN	288	nsubj	
+248	2(gesz'u)	_	:	247	nummod	
+249	1(u)	_	CD	267	nummod	
+250	7(asz)	_	_	249	nummod	
+251	1(barig)	_	_	249	nummod	
+252	2(ban2)	_	_	249	nummod	
+253	6(disz)	_	_	249	nummod	
+254	1/3(disz)	barig ban	NN	257	nummod	
+255	sila3	sila	NN	256	compound	
+256	sze	barley	NN	254	_	
+257	gur	gur	NN	247	_	
+258	2(gesz'u)	_	:	247	nummod	
+259	5(gesz2)	_	CD	273	nummod	
+260	5(u)	_	_	259	nummod	
+261	4(asz)	_	_	259	nummod	
+262	2(barig)	_	_	259	nummod	
+263	4(ban2)	_	_	259	nummod	
+264	3(disz)	_	_	259	nummod	
+265	2/3(disz)	barig ban	NN	267	nummod	
+266	duh	sila bran	NN	265	_	
+267	gur	gur	NN	247	_	
+268	2(szar2)	_	:	247	nummod	
+269	9(gesz2)	_	CD	277	nummod	
+270	6(disz)	_	_	269	nummod	
+271	5/6(disz)	_	_	269	nummod	
+272	geme2	female laborers	NNS	273	appos	
+273	u4	workdays	NNS	247	_	
+274	1(disz)-sze3	_	_	0	nummod	
+275	4(u)	_	:	247	nummod	
+276	3(asz)	_	CD	286	nummod	
+277	gu2	talents	NNS	247	_	
+278	6(disz)	_	_	0	nummod	
+279	ma-na	mana	NN	280	compound	
+280	{gesz}ma-nu	willow	NN	277	_	
+281	2(szar2)	_	:	247	nummod	
+282	5(gesz'u)	_	_	281	nummod	
+283	2(gesz2)	_	_	281	nummod	
+284	5(u)	_	_	281	nummod	
+285	1(disz)	_	_	281	nummod	
+286	sa	bundles	NNS	247	_	
+287	gi	reed	NN	286	nmod:of	
+288	la2-ia3-am3	are deficit	NN	205	parataxis	
+289	nig2-ka9-ak	account	NN	288	_	
+290	bala	the bala	NN	289	nmod:of	
+291	ur-{d}lamma	Ur-Lamma	NNP	290	nmod:of	
+292	ensi2	governor	NN	291	appos	
+293	gir2-su{ki}	Girsu	NNP	292	nmod:of	
+294	iti	month	NN	288	_	
+295	sze-sag11-ku5-ta	Harvest	NNP	288	_	
+296	iti	month	NN	297	nmod:npmod	
+297	diri	extra	JJ	295	amod	
+298	sze-sag11-ku5-sze3	Harvest	NN	295	_	
+299	iti	months	NNS	295	nmod:of	
+300	2(disz)-kam	two	CD	299	nummod	
+301	bala	bala	NN	303	compound	
+302	...	_	NN	303	dep	
+303	mu	year	NN	295	_	
+304	si-mu-ru-um{ki}	Simurrum	NNP	310	_	
+305	lu-lu-bu-um{ki}	Lullubum	NNP	310	nsubjpass	
+306	a-ra2	for th time	NN	305	nmod:for	
+307	1(u)	_	.	205	nummod	
+308	la2	_	''	205	_	
+309	1(disz)-kam-asz	_	_	308	nummod	
+310	ba-hul	were destroyed	VBN	303	acl	
+311	 	_	NN	0	root	
+312	 	_	.	311	_	
+313	 	_	NNP	312	_
+	
+

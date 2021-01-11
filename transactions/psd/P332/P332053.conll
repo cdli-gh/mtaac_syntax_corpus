@@ -1,0 +1,28 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P332/P332053.conll #
+#########################################################################################
+
+#new_text=P332053
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	(NUMBER (COUNT *
+4(asz)	4(asz)[one]	NU	NU	D	I-COUNT	*
+2(barig)	2(bariga)[unit]	NU	N	D	I-COUNT	*
+3(ban2)	3(ban)[unit]	NU	N	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*
+gur	gur[unit]	N	N	D	I-COUNT	*))
+lugal	lugal[king]	N	N	D		(JOBNAME|PRODUCT_PARAM (word *))
+mur		N	N	Ia	B-COM	(PRODUCT_NAME (COM *))
+sze	sze[barley]	N	N	D		(PRODUCT_NAME|UNIT (word *))
+numun-sze3		N	N.3-SG-H-POSS.TERM	Iabcdef		(UNKNOWN (word *))
+gu4-bi		N	N.ABS	Iabcdef		(UNKNOWN (word *)))
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+{gesz}apin	apin[plow]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+...	_[_]	PN	N	D		(AGENT (PERSON (PN (word *)))))
+3(u)-ta-am3		NU	NU.ABS.COP-3-SG	Iabcdefg	B-COUNT	(FRAG (NUMBER (COUNT *))
+...	_[_]	PN	N	D		(PN (word *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+a2-uz-um		FN	FN	POS		(CITY (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))))
+3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+us2	us[follow][-ø]	V	NF.V.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))))
+

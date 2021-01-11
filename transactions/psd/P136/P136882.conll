@@ -1,0 +1,38 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P136/P136882.conll #
+#########################################################################################
+
+#new_text=P136882
+9(disz)	9(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+gin2	gig[unit]	N	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+7(disz)	7(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sze	sze[barley]	N	N	D	I-COUNT	*))
+ku3-sig17	kugsig[gold]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+si-sa2		V	V	POS		(UNKNOWN (word *))
+{gesz}tukul	tukul[weapon][-'a]	N	N	D		(UNKNOWN (word *))
+ga-li2:a-tum		N	N	POS		(UNKNOWN (word *))
+1(disz)-a		NU	NU.L1	Iab	B-COUNT	(NUMBER (COUNT *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+gin2	gig[unit]	N	N	D	I-COUNT	*))
+ku3-sig17	kugsig[gold]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+si-sa2		V	V	POS		(UNKNOWN (word *))
+{gesz}ilar		N	N	Ia		(UNKNOWN (word *))
+ku3-babbar	kugbabbar[silver]	N	N	D		(PRODUCT_NAME (word *))
+szub-ba		N	NF.V.SUB.ABS	D		(UNKNOWN (word *))
+1(disz)-a		NU	NU.L1	Iab	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+alan	alan[statue]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+lugal-ba		PN	PN	Iabcde	B-COM	(PRODUCT_NAME (COM *))))
+ga2-ga2-de3		V	NF.V.ABS.GEN.GEN	Iabcdefg		(UNKNOWN (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+ARAD2-{d}nanna-ta		PN	PN.GEN.GEN.ABL	Iabcdef		(PERSON (PN (word *))))
+a-hu-wa-qar	Ahuwaqar[1][-e]	PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+iti	iti[month]	N	N	D		(MONTH (ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *)))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+i3-li2-an-dul3		PN	PN.GEN.DAT-H	Iabcdefg		(PN (word *))))
+

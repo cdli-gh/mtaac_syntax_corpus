@@ -1,0 +1,54 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P208/P208718.conll #
+#########################################################################################
+
+#new_text=P208718
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME (word *))))
+zu2		N	N	Ia		(UNKNOWN (word *))
+uh		N	N	POS		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(u)	3(u)[ten]	NU	NU	D	I-COUNT	*
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))))
+kal		V	V	POS		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))
+muru13	Muru[1]	FN	FN	D		(CITY (word *))
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u2	u[grass]	N	N	D		(PRODUCT_NAME (word *))))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mug	mug[inferior_wool]	N	N	D		(PRODUCT_NAME (word *))))
+kal		V	V	POS		(UNKNOWN (word *))
+2(u)	2(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+mug	mug[inferior_wool]	N	N	D		(PRODUCT_NAME (word *))))
+tur	Tur[1]	V	NF.V.ABS	D		(UNKNOWN (word *))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+gu2-ansze		PN	PN	POS		(AGENT (PERSON (PN (word *)))))
+tug2-ba		N	N	Ia		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(CITY (SZA3 (word *))
+a-pi4-sal4{ki}	Apisal[1][-ak]	GN	FN.L1	D		(word *))
+gu2-de3-na	Gudena[1][-ak]	PN	PN.GEN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D		(CONJ (word *))
+musz-bi-an-na	Muszbi'anna[1][-ak]	FN	FN.L1	D		(CITY (word *))
+ki	ki[place]	N	N	D		(AGENT (KI (word *))
+i3-kal-la-ta	Ikala[1][-ak]-ta	PN	PN.GEN.ABL	D		(PERSON (PN (word *))))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+szesz-sa6-ga		PN	PN	Iabc		(PERSON (PN (word *))))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+en-mah-gal-an-na	Enmahgalana[1]	PN	PN	D		(PN (word *))
+ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

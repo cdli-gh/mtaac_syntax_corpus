@@ -1,0 +1,42 @@
+# train/P416463.atf
+						
+
+# tr.en: oxen barley-fed top grade oxen barley-fed siskur-offerings of NENEgar and ee-celebration House Day of month day elapsed from Szulgi-ayamu Nasa accepted month Festival of Ninazu year Simurum and Lulubu for th time were destroyed
+1	7(disz)	_	,	2	nummod	
+2	gu4	oxen	NN	25	nsubj	
+3	niga	barley-fed	JJ	2	amod	
+4	sag-gu4	top grade	NN	2	appos	
+5	1(u)	_	NN	25	nummod	
+6	gu4	oxen	NNS	2	appos	
+7	niga	barley-fed	JJ	25	_	
+8	...	_	,	5	dep	
+9	siskur2	siskur-offerings	NNS	5	appos	
+10	NE-NE-gar	NENEgar	NN	9	nmod:of	
+11	u3	and	CC	10	cc	
+12	esz3-esz3	ee-celebration House Day	NN	10	conj	
+13	e2	_	CD	10	nummod	
+14	u4	_	:	5	_	
+15	1(u)	_	_	0	nummod	
+16	5(disz)	_	''	25	nummod	
+17	iti	month	NN	18	compound	
+18	u4	day	NN	25	nmod:of	
+19	1(u)	_	,	25	nummod	
+20	2(disz)	_	_	19	nummod	
+21	ba-zal	elapsed	VBN	18	acl	
+22	ki	from	IN	23	nmod:from	
+23	{d}szul-gi-a-a-mu-ta	Szulgi-ayamu	NN	25	nmod:from	
+24	na-sa6	Nasa	NNP	25	nsubj	
+25	i3-dab5	accepted	VBD	0	root	
+26	iti	month	NN	25	nmod:tmod	
+27	ezem-{d}nin-a-zu	Festival Ninazu	NNP	28	compound	
+28	mu	year	NN	25	dobj	
+29	si-mu-ru-um{ki}	Simurum	NNP	36	nsubjpass	
+30	u3	and	CC	29	cc	
+31	lu-lu-bu{ki}	Lulubu	NNP	29	conj	
+32	a-ra2	for th time	NN	29	nmod:for	
+33	1(u)	_	.	25	nummod	
+34	la2	_	''	33	_	
+35	1(disz@t)-kam-asz	_	_	34	nummod	
+36	ba-hul	were destroyed	VBN	28	acl
+	
+

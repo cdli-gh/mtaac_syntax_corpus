@@ -1,0 +1,46 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P137/P137688.conll #
+#########################################################################################
+
+#new_text=P137688
+1(bur3)	1(bur)[unit]	NU	N	D	B-COUNT	(DOC (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER (COUNT *))
+GAN2	gana[field]	N	N	D	I-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *)))))
+{d}szul-gi-re-pa3-da		DN	DN	POS		(PURPOSE (GOD (word *))))
+2(esze3)	2(esze)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER (COUNT *
+3(iku)	3(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+gesz-gi-gal		FN	FN	Iabcde		(CITY (word *)))
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*
+sar	sar[unit]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+du6-...		FN	FN	POS		(CITY (word *)))
+2(gesz2)	2(gesz)[sixty]	NU	NU	D	B-COUNT	(FRAG (NUMBER (COUNT *
+5(u)	5(u)[ten]	NU	NU	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+a-sza3	aszag[field]	N	N	D		(PRODUCT_NAME (word *))
+edin		FN	FN	POS		(CITY (word *))
+masz	masz[interest]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))))
+szunigin	szunigin[total]	N	N	D		(EPILOG (SZUNIGIN (word *))
+2(bur3)	2(bur)[unit]	NU	N	D	B-COUNT	(FRAG (NUMBER_PRODUCT (NUMBER (COUNT *
+1(iku)	1(iku)[unit]	NU	N	D	I-COUNT	*
+1/2(iku)	1/2(iku)[unit]	NU	N	D	I-COUNT	*
+GAN2	gana[field]	N	N	D	I-COUNT	*))
+sahar	sahar[earth][-ø]	N	N.GEN	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))))
+zi-zi		V	NEG.NF.V.RDP.PT.ABS	Iabcde		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+da-da	Dada[1][-ak]	PN	PN	D		(PN (word *))
+gala		V	NF.V.3-SG-NH-POSS.GEN	Iabcdef		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(PRODUCT_PARAM (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(PURPOSE (GOD (word *))
+umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	D		(CITY (word *)))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *)))))
+

@@ -1,0 +1,116 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P312/P312546.conll #
+#########################################################################################
+
+#new_text=P312546
+2(szar'u)		NU	NU.GEN	Iabcdef	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+1(szar2)	1(szar)[unit]	NU	N	D	I-COUNT	(NUMBER (COUNT *
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	*))
+sig4	szeg[brick]	N	N	D		(UNKNOWN (word *))
+gal	gal[big][-ø]	V	NF.V.ABS	D		(UNKNOWN (word *))
+1(szar2)	1(szar)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	D	I-COUNT	*
+4(gesz2)	4(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*))
+sig4	szeg[brick]	N	N	D		(UNKNOWN (word *))
+2/3(disz)	2/3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+7(gesz2)	7(gesz)[sixty]	NU	NU	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+sig4	szeg[brick]	N	N	D		(UNKNOWN (word *))
+1/2(disz)	1/2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz-bi	gurusz[male]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+3(gesz'u)	3(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	I-COUNT	*
+la2	la[hang][-ø]	V	NF.V.ABS	D	I-COUNT	*
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D		(PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+3(gesz2)	3(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+4(u)	4(u)[ten]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+pisan	bisag[basket]	N	N	D		(PRODUCT (PRODUCT_NAME (word *))
+{gesz}i3-szub-ba		N	N	POS	B-COM	(PRODUCT_NAME (COM *))))
+se3-ga	sig[equal]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *
+gi	gi[reed][-ø]	N	N	D	I-COUNT	*))
+du3-a	du[build]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(u)	1(u)[ten]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D		(PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+in-u-da		N	N	POS	B-COM	(PRODUCT_NAME (COM *))
+ib2-gid2	i-b-gid[survey][-ø]	V	FIN.3-SG-NH-L3.V.3-SG-S	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D		(PRODUCT_PARAM (word *))
+szitim		N	N	Ia		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(gesz2)	1(gesz)[sixty]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+2(disz)	2(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+szitim		N	N	Ia		(UNKNOWN (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+nig2		N	N	D		(UNKNOWN (word *))
+gu2-na	gun[tax]-ak[-ø]	N	N.GEN	D	B-COM	(PRODUCT_NAME (COM *))
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+3(u)	3(u)[ten]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT (NUMBER (COUNT *
+3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	D	I-COUNT	*))
+in-u-da		N	N	POS	B-COM	(PRODUCT (PRODUCT_NAME (COM *))))
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+sag-te-na{ki}-ta		SN	SN.GEN.ABL	Iabcdefgh		(CITY|NATIONALITY (word *))
+umma{ki}-sze3		SN	SN.GEN.TERM	Iabcd		(CITY|NATIONALITY (word *))
+giri3-a		N	N	POS		(UNKNOWN (word *))
+gen-na	gen[go]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM (word *)))))
+2(u)-sze3		NU	NU.TERM	Iab	B-COUNT	(NUMBER (COUNT *))
+ma2	ma[ship]	N	N	D		(UNKNOWN (word *))
+a-ab-ba		PN	PN	Iabcde		(PN (word *))
+tusz-a	tusz[dewell]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+gurusz	gurusz[male]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+4(gesz'u)	4(gesz'u)[six_hundred]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+gurusz	gurusz[male]	N	N	D		(PRODUCT_PARAM (word *))
+u4	ud[day]	N	N	D		(PRODUCT_PARAM|U4 (word *))
+1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	D	B-COUNT	(NUMBER (COUNT *))
+erin2	erin[people]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+diri	diri[intercalary_month]	N	N	D		(ITI (word *))
+sig4	szeg[brick]	N	N	D		(UNKNOWN (word *))
+du8-a	du[spread][-a][-ø]	V	NF.V.PT.ABS	D		(UNKNOWN (word *))
+kiszib3	kiszib[seal]	N	N	D		(KISZIB (word *))
+ur-{d}szara2	Urszara[1]	PN	PN	D		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa	us[follow]-a	V	NF.V.PT	D		(UNKNOWN (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+puzur4-{d}da-gan	Puzurdagan[1][-ø]	SN	SN.ABS	D		(CITY|NATIONALITY (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+us2-sa-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	D		(UNKNOWN (word *))
+ur-{d}szara2	Urszara[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	D		(PN (word *))
+nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	N	D		(JOBNAME (word *))
+{d}szara2	Szara[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))))
+

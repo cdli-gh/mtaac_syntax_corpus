@@ -1,0 +1,41 @@
+#########################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P138/P138373.conll #
+#########################################################################################
+
+#new_text=P138373
+5(disz)	5(disz)[one]	NU	NU	D	B-COUNT	(DOC (FRAG (NUMBER_PRODUCT_LIST (NUMBER (COUNT *)))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+usz-bar	uszbar[weaver][-ak]	N	N	D		(PRODUCT_NAME (word *)))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ur-{d}sahar-{d}ba-ba6		PN	PN	Iabcde		(PN (word *))
+1(u)	1(u)[ten]	NU	NU	D	B-COUNT	(NUMBER (COUNT *
+1(disz)	1(disz)[one]	NU	NU	D	I-COUNT	*))
+lugal-ezem	Lugalezem[1]	PN	PN	D		(PN (word *))
+u3	u[and]	CNJ	CNJ	D	B-COM	(PRODUCT_NAME (COM *))
+lu2-{d}isin2{si}-na		PN	PN.GEN.GEN	Iabcdef		(PN (word *))
+3(disz)	3(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+qur-da-szu		PN	PN	Iabcdefgh		(PN (word *))
+4(disz)	4(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+puzur4-ma-ma		PN	PN	Iabcde		(PN (word *))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ARAD2-{d}nanna	Aradnanna[1]	PN	PN	D		(PN (word *))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(NUMBER (COUNT *))
+ur-{d}...	_[1][-ra]	PN	PN.GEN	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+...	_[_]	PN	N	D		(PN (word *))
+tug2	tug[textile]	N	N	D	B-COM	(PRODUCT_NAME (COM *))
+...	_[_]	PN	N	D		(PN (word *))
+ur-{d}szul-gi-ra		PN	PN	D		(PN (word *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+ba-an-ti	ba-n-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	D		(UNKNOWN (word *))
+la2-ia3	la'u[arrears]	N	N	D		(PRODUCT_NAME (word *))
+ur-{d}nin-mug	Urninmug[1][-ø]	PN	PN.ABS	D		(PN (word *))
+iti	iti[month]	N	N	D		(ITI (word *))
+ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+bad3-gal	badgal[great_wall][-ø]	N	N.ABS	D		(UNKNOWN (word *))
+ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	D		(UNKNOWN (word *))))
+

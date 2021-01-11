@@ -1,0 +1,141 @@
+##############################################################################################
+# /home/chiarcos/cdli-gh/mtaac_syntax_corpus/transactions/comm_conll/P509/P205/P205920.conll #
+##############################################################################################
+
+#new_text=P205920
+4(barig)	4(bariga)[unit]	NU	N	D	I-COUNT	(DOC (FRAG (TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *))
+erin2	erin[people]	N	N	D		(PRODUCT_NAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *)))))
+{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	DN	D		(PURPOSE (GOD (word *)))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lugal-da-ga		PN	PN	Iabcde		(PERSON (PN (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}ba-ba6		DN	DN	D		(PURPOSE (GOD (word *))))
+8(disz)	8(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}gesz-bar-e3		DN	DN	Iabcde		(PURPOSE (GOD (word *)))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-{d}nin-gir2-su	Luningirsu[1]	PN	PN	D		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+ni-da		PN	PN.GEN.ABS	Iabcdefgh		(PERSON (PN (word *)))))))
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+ba-gara2		PN	PN	Iabcde		(AGENT (PERSON (PN (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+ur-{d}ga2-tum3-du10		PN	PN	POS		(PN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+nam-mah	Nammah[1]	PN	PN	D		(PN (word *))
+dub-sar	dubsar[scribe]	N	N	D		(JOBNAME (word *)))
+4(disz)	4(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+1/3(disz)	1/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(PURPOSE (GOD (word *)))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-i5-gar-sa6-ga		PN	PN	Iabcde		(PERSON (PN (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+uru11{ki}		SN	SN.GEN.ABS	D		(CITY|NATIONALITY (word *)))
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	(FRAG (NUMBER (COUNT *
+5/6(disz)	5/6(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-sun2	Ninsun[1][-ra]	FN	DN	D		(CITY (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+{d}mes-lam-ma		DN	DN	Iabcdefgh		(GOD|GOD_NAME (word *)))
+1(disz)	1(disz)[one]	NU	NU	D	B-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}ig-alim		DN	DN	D		(PURPOSE (GOD (word *))))
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	D		(PURPOSE (GOD (word *)))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lugal-bad3	Lugalbad[1][-ra]	PN	PN.DAT-H	D		(PERSON (PN (word *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}nansze	Nansze[1]	DN	DN	D		(PURPOSE (GOD (word *)))
+giri3	giri[foot]	N	N	D		(AGENT (GIRI3 (word *))
+lu2-{d}dumu-zi		PN	PN.GEN.TERM	Iabcdefg		(PERSON (PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION (FILIATION_EXP (word *))
+al-la-mu	Allamu[1][-e]	PN	PN	D		(PERSON (PN (word *)))))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+6(disz)	6(disz)[one][-sze]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}nin-dar-a		DN	DN	D		(GOD|GOD_NAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+szesz-kal-la	Szeszkala[1][-ra]	PN	PN	D		(PN (word *))
+dumu	dumu[child]	N	N	D		(FILIATION_EXP (word *))
+ur-{d}ba-ba6	Urbaba[1]	PN	PN	D		(PN (word *))))
+1(barig)	1(bariga)[unit]	NU	N	D	I-COUNT	(NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT (PRODUCT_NAME (COM *)))))
+1(barig)	1(bariga)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+4(ban2)	4(ban)[unit]	NU	N	D	I-COUNT	*
+x	_[_]	N	N	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+i3-dub	idub[granary]	N	N	D		(UNKNOWN (word *))
+{d}dumu-zi-ta		MN	MN	POS		(MONTH_NAME (word *))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	D		(MONTH_NAME (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+x-{d}ba-ba6		PN	PN.DAT-H	Iabcdefgh		(PN (word *))
+4(ban2)	4(ban)[unit]	NU	N	D	B-COUNT	(NUMBER (COUNT *
+5(disz)	5(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*
+...	_[_]	PN	N	D	I-COUNT	*))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+lu2-...-x		FN	FN	POS		(CITY (word *))
+...	_[_]	PN	N	D		(PN (word *)))
+1(ban2)	1(ban)[unit]	NU	N	D	I-COUNT	(TRANSACTIONS (TRANSACTION (NUMBER_PRODUCT_LIST (NUMBER_PRODUCT (NUMBER (COUNT *
+2(disz)	2(disz)[one]	NU	NU	D	I-COUNT	*
+1/2(disz)	1/2(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT (PRODUCT_NAME (word *)))))
+{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	DN	D		(PURPOSE (GOD (word *))))
+3(barig)	3(bariga)[unit]	NU	N	D	I-COUNT	(FRAG (NUMBER (COUNT *
+9(disz)	9(disz)[one]	NU	NU	D	I-COUNT	*
+2/3(disz)	2/3(disz)[one]	NU	NU	D	I-COUNT	*
+sila3	sila[unit]	N	N	D	I-COUNT	*))
+e2	e[house]	N	N	D		(PRODUCT_NAME (word *))
+{d}szul-gi	Szulgir[1]	RN	RN	D		(PN (word *))
+giri3	giri[foot]	N	N	D		(GIRI3 (word *))
+...	_[_]	PN	N	D		(PN (word *))
+i3-gesz	igesz[oil]	V	N	D	B-COM	(PRODUCT_NAME (COM *))
+szu	szu[hand][-e]	N	N.L3-NH	D		(UNKNOWN (word *))
+nu-ti-a		V	V	POS		(UNKNOWN (word *))
+sza3	szag[heart]	N	N	D		(SZA3 (word *))
+x	_[_]	N	N	D		(UNKNOWN (word *))
+ISZ	isz[flour_type]	N	N	D		(PRODUCT_NAME|PRODUCT_PARAM (word *))
+ra		V	V	POS		(UNKNOWN (word *))
+HU	_[_]	PN	PN	POS		(PN (word *))
+mu	mu[year]	N	N	D		(MU|PRODUCT_PARAM (word *))
+en	en[priest]	N	N	D		(JOBNAME (word *))
+{d}inanna	Inanna[1][-ak]	DN	DN	D		(GOD|GOD_NAME (word *))
+masz-e	masz[goat]-e	N	N.L3-NH	D		(PRODUCT_NAME (word *))
+i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	D		(UNKNOWN (word *)))))
+
