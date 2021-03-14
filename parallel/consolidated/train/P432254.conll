@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: for life of Szulgi -saga the orchardman dedicated to him
+# train/P432254.atf new_text=P432254
+# train/P432254.atf						#new_text=P432254
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	_	
+2	nam-ti	namtil[life]	PN	N	0	root	_	
+3	'.	_	_	_	2	_	_	
+4	{d}szul-gi-sze3	_[of.Szulgi]	DN	RN.GEN.TERM	2	GEN	_	
+5	'.	_	_	_	0	_	_	
+6	x-sa6-ga	_[-saga]	PN	PN	8	acl	_	
+7	'.	_	_	_	8	_	heuristic: before verbal head	
+8	nu-kiri6	_[the.orchardman]	V	N.ERG	0	_	detached for projectivity	
+9	'.	_	_	_	8	_	_	
+10	a	a[water][-ø]	N	N.ABS	11	_	heuristic: before verb	
+11	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	8	acl	_
+	
+

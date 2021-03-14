@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P200395.atf
+# tr.en: gur barig of barley its workmen five days for harvesting barley its sag will be brought in from S shepherd Zumakum ploughman has received Instead of Zumakum sealed tablet of Beli-rei ploughman Antalu Ur-Szulpae leatherworker Adalal are its witnesses Year Szu-Suen king of Ur destroyed lands of Zabali
+1	1(asz)	1(asz)	NU	NU	0	nummod	_	
+2	3(barig)	3(barig)	NU	NU	4	nummod	_	
+3	sze	sze	sze[barley]	N	2	GEN	_	
+4	gur	gur	gur[unit]	N	0	root	_	
+5	gurusz-bi	gurusz-bi	gurusz[male]-bi[-ø]	N	4	_	heuristic: attach to last	
+6	5(disz)	5(disz)	NU	NU	4	nummod	_	
+7	u4	u4	ud[day]	N	6	_	heuristic: attach to last	
+8	1(disz)-sze3	1(disz)-sze3	NU	NU	10	nummod	heuristic: NU premodifying; projectivity violation	
+9	sze	sze	sze[barley]	N	10	ABS	_	
+10	gur10-de3	gur10-de3	_	V	4	acl	projectivity violation	
+11	sag-bi	sag-bi	_	N	12	nmod	_	
+12	gi4-gi4-dam	gi4-gi4-dam	_	V	9	acl	_	
+13	ki	ki	ki[place]	N	14	ABL	_	
+14	SI-A-a	SI-A-a	SI'Aya[1][-ak]	PN	12	ABL	_	
+15	na-gada-ta	na-gada-ta	_	V	19	ERG	_	
+16	zu-ma-ku-um	zu-ma-ku-um	_	PN	15	appos	_	
+17	engar	engar	engar[farmer]	N	15	appos	_	
+18	szu	szu	szu[hand][-e]	N	19	_	_	
+19	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	14	acl	_	
+20	mu	mu	mu[year]	N	19	_	_	
+21	zu-ma-ku-um-sze3	zu-ma-ku-um-sze3	_	PN	19	_	_	
+22	kiszib3	kiszib3	kiszib[seal]	N	19	ABS	_	
+23	be-li2-sipa	be-li2-sipa	_	PN	22	GEN	_	
+24	engar	engar	engar[farmer]	N	29	ABS	_	
+25	an-ta-lu2	an-ta-lu2	_	V	24	_	_	
+26	ur-{d}szul-pa-e3	ur-{d}szul-pa-e3	Urszulpa'e[1]	PN	24	appos	_	
+27	aszgab	aszgab	aszgab[leatherworker]	N	24	appos	_	
+28	a-da-lal3	a-da-lal3	Adalal[1][-ra]	N	24	appos	_	
+29	lu2-inim-ma-bi-me	lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	23	acl	_	
+30	mu	mu	mu[year]	N	29	_	_	
+31	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	36	ERG	_	
+32	lugal	lugal	lugal[king]	N	31	appos	_	
+33	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	32	GEN	_	
+34	ma-da	ma-da	mada[land][-ak][-ø]	N	36	ABS	_	
+35	za-ab-sza-li-im	za-ab-sza-li-im	_	DET	34	GEN	_	
+36	mu-hul-a	_[destroyed]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	4	acl	_
+	
+

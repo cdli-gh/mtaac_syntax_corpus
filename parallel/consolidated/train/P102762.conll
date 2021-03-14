@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets estates of the governors and their sons the chief house and temple administrators are here year chair of Enlil was fashioned
+# train/P102762.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	e2-du6-la	e2-du6-la	_	N	9	ABS	_	
+3	ensi2	ensi2	ensik[ruler]	N	2	GEN	_	
+4	u3	u3	u[and]	CNJ	2	appos	_	
+5	dumu-ne-ne	dumu-ne-ne	_	N	2	appos	_	
+6	lu2	lu2	lu[person]	N	5	_	_	
+7	szabra	szabra	szabra[chief_administrator][-ak]	N	8	nmod	_	
+8	sanga-ne	sanga-ne	_	V	5	appos	_	
+9	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+10	mu	mu	mu[year]	N	13	_	_	
+11	{gesz}gu-za	{gesz}gu-za	guza[chair]	N	13	ABS	_	
+12	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	11	GEN	_	
+13	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	9	parataxis	_
+	
+

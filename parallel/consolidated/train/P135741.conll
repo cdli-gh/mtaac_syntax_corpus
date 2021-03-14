@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P135741.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
+3	didli	didli	didli[several][-ø][-ak]	V	1	_	heuristic: attach to head	
+4	sze	sze	sze[barley]	N	1	_	heuristic: attach to head	
+5	szuku-ra	szuku-ra	szukur[ration]-ak	N	1	_	_	
+6	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	10	nmod	_	
+7	ki	ki	ki[place]	N	10	_	heuristic: attach to head	
+8	...{ki}	...{ki}	_[1][-ø]	SN	10	nmod	_	
+9	mu	mu	mu[year]	N	10	_	_	
+10	na-ru2-a-mah	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	1	_	_	
+11	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

@@ -1,0 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P273416.atf
+# tr.en: Six old small weaver garments two old agadu garments weavers small weaver garments weaver garment moth-eaten year Amar-Suen king destroyed Urbilum from governor under seal of Ikalla Ur-Szara assumed administrative responsibility for Ur-Szara scribe son of Lugal-uur
+1	6(disz)	6(disz)	NU	NU	2	nummod	_	
+2	tug2	tug2	tug[textile]	N	0	root	_	
+3	usz-bar	usz-bar	uszbar[weaver][-ak]	N	2	appos	_	
+4	tur	tur	Tur[1]	V	2	acl	_	
+5	sumun	sumun	sumun[old][-ø]	N	2	nummod	_	
+6	2(disz)	2(disz)	NU	NU	2	nummod	_	
+7	tug2	tug2	tug[textile]	N	11	nmod	projectivity violation	
+8	sza3-ga-du3	sza3-ga-du3	_	N	2	appos	_	
+9	sumun	sumun	sumun[old][-ø]	N	8	acl	_	
+10	mu	mu	mu[year]	N	11	_	heuristic: attach to head	
+11	usz-bar	usz-bar	uszbar[weaver][-ak]	N	2	appos	_	
+12	x	x	_[_]	N	14	dep	_	
+13	2(disz)	2(disz)	NU	NU	14	nummod	_	
+14	tug2	tug2	tug[textile]	N	2	appos	_	
+15	usz-bar	usz-bar	uszbar[weaver][-ak]	N	14	appos	_	
+16	tur	tur	Tur[1]	V	14	acl	_	
+17	1(disz)	1(disz)	NU	NU	20	nummod	_	
+18	tug2	tug2	tug[textile]	N	20	_	heuristic: attach to head	
+19	usz-bar	usz-bar	uszbar[weaver][-ak]	N	20	nmod	_	
+20	zu2	zu2	_	N	14	appos	_	
+21	uh	uh	_	N	20	acl	_	
+22	mu	mu	mu[year]	N	20	_	_	
+23	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	25	ABS	_	
+24	lugal-e	lugal-e	lugal[king]-e	N	23	appos	_	
+25	ur-bi2-lum	ur-bi2-lum	_	GN	20	acl	_	
+26	mu-hul	mu-hul	mu[-n]-hulu[destroy][-ø]	V	2	_	_	
+27	ki	ki	ki[place]	N	28	ABL	_	
+28	ensi2-ka-ta	ensi2-ka-ta	ensik[ruler]-ak-ta	N	2	ABL	_	
+29	kiszib3	kiszib3	kiszib[seal]	N	2	LOC	_	
+30	i3-kal-la	i3-kal-la	Ikala[1][-ak]	PN	29	GEN	_	
+31	ur-{d}szara2-ke4	ur-{d}szara2-ke4	_	RN	32	ABS	_	
+32	ba-an-dabx(U8)	ba-an-dabx(U8)	_	V	2	acl	_	
+33	ur-{d}szara2	ur-{d}szara2	Urszara[1]	PN	32	DAT	_	
+34	dub-sar	dub-sar	dubsar[scribe]	N	33	appos	_	
+35	dumu	dumu	dumu[child]	N	33	appos	_	
+36	lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	35	GEN	_
+	
+

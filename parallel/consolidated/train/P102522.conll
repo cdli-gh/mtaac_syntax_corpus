@@ -1,0 +1,133 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: mana shekel grains of silver remaining through month nesag sacrifice shekels from Lu-Inanna Therefrom mana sue its silver equivalent shekels barig sila garlic of poor appearance its silver equivalent shekels grains sealed tablet of Lukalla barig ban of coriander its silver equivalent shekels grains barig ban sila of raisins their silver equivalent shekels grains nigdab of Holy Hill sealed tablet of Lugal-niglagar-e talents n of dried bitumen its silver equivalent shekels n sealed tablet of Adumu mana of copper its silver equivalent shekels grains shekels of suhe its silver equivalent minus grains sealed document of Lu-Enlila Total mana shekels grains of silver booked out Deficit mana shekels grains of silver Account of Pada Month mine year Szu-Suen is king
+# train/P102522.atf
+1	1(disz)	1(disz)	NU	NU	3	nummod	_	
+2	1/3(disz)	1/3(disz)	NU	NU	1	nummod	_	
+3	ma-na	ma-na	mana[unit]	N	0	root	_	
+4	1(disz)	1(disz)	NU	NU	5	nummod	heuristic: NU premodifying	
+5	gin2	gin2	gig[unit]	N	3	appos	_	
+6	2(u)	2(u)	NU	NU	7	nummod	heuristic: NU premodifying	
+7	sze	sze	sze[barley]	N	3	appos	_	
+8	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	7	GEN	_	
+9	si-i3-tum	si-i3-tum	situm[balance]	N	3	acl	_	
+10	iti	iti	iti[month]	N	9	TERM	_	
+11	sze-sag11-ku5-ta	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	10	_	heuristic: attach to head	
+12	iti	iti	iti[month]	N	10	_	heuristic: attach to head	
+13	nesag-sze3	nesag-sze3	nesag[first_fruit_offering]-sze	MN	10	TERM	_	
+14	6(disz)	6(disz)	NU	NU	0	nummod	_	
+15	1/3(disz)	1/3(disz)	NU	NU	14	nummod	_	
+16	gin2	gin2	gig[unit]	N	10	_	_	
+17	ki	ki	ki[place]	N	19	ABL	_	
+18	lu2-{d}inanna-ta	lu2-{d}inanna-ta	Lu'inanna[1][-ak]-ta	PN	19	nmod	_	
+19	sza3-bi-ta	sza3-bi-ta	szag[heart]-bi-ta	PN	16	ABL	_	
+20	1(disz)	1(disz)	NU	NU	10	nummod	_	
+21	1/3(disz)	1/3(disz)	NU	NU	20	nummod	_	
+22	ma-na	ma-na	mana[unit]	N	20	appos	_	
+23	su-he2	su-he2	_	N	20	_	heuristic: attach to head	
+24	ku3-bi	ku3-bi	kug[silver]-bi[-ø]	N	20	appos	_	
+25	1(disz)	1(disz)	NU	NU	27	nummod	projectivity violation	
+26	1/3(disz)	1/3(disz)	NU	NU	31	nummod	projectivity violation	
+27	gin2	gin2	gig[unit]	N	0	_	detached for projectivity	
+28	4(barig)	4(barig)	NU	NU	27	nummod	_	
+29	5(disz)	5(disz)	NU	NU	31	nummod	_	
+30	sila3	sila3	sila[unit]	N	31	nmod	_	
+31	szum2-sikil	szum2-sikil	_	V	27	appos	_	
+32	igi	igi	igi[eye][-ø]	N	31	_	heuristic: attach to last	
+33	nu-saga	nu-saga	_	V	31	GEN	_	
+34	ku3-bi	ku3-bi	kug[silver]-bi[-ø]	N	27	appos	_	
+35	4(disz)	4(disz)	NU	NU	36	nummod	_	
+36	gin2	gin2	gig[unit]	N	0	_	detached for projectivity	
+37	1(u)	1(u)	NU	NU	0	nummod	_	
+38	5(disz)	5(disz)	NU	NU	37	nummod	_	
+39	sze	sze	sze[barley]	N	36	_	_	
+40	kiszib3	kiszib3	kiszib[seal]	N	36	appos	_	
+41	lu2-kal-la	lu2-kal-la	Lukala[1][-ra]	PN	40	GEN	_	
+42	2(barig)	2(barig)	NU	NU	43	nummod	_	
+43	5(ban2)	5(ban2)	NU	NU	36	nummod	_	
+44	sze-lu2	sze-lu2	_	N	43	GEN	_	
+45	ku3-bi	ku3-bi	kug[silver]-bi[-ø]	N	43	appos	_	
+46	1(disz)	1(disz)	NU	NU	48	nummod	projectivity violation	
+47	2/3(disz)	2/3(disz)	NU	NU	54	nummod	projectivity violation	
+48	gin2	gin2	gig[unit]	N	0	_	detached for projectivity	
+49	6(disz)	6(disz)	NU	NU	50	nummod	heuristic: NU premodifying	
+50	sze	sze	sze[barley]	N	48	appos	_	
+51	1(barig)	1(barig)	NU	NU	48	nummod	_	
+52	1(ban2)	1(ban2)	NU	NU	51	nummod	_	
+53	8(disz)	8(disz)	NU	NU	51	nummod	_	
+54	2/3(disz)	2/3(disz)	NU	NU	48	nummod	_	
+55	sila3	sila3	sila[unit]	N	48	appos	_	
+56	gesztin	gesztin	gesztin[vine]	N	55	GEN	_	
+57	had2	had2	had[pure][-ø]	V	58	_	heuristic: attach to head	
+58	ku3-bi	ku3-bi	kug[silver]-bi[-ø]	N	48	appos	_	
+59	1(disz)	1(disz)	NU	NU	61	nummod	_	
+60	2/3(disz)	2/3(disz)	NU	NU	59	nummod	_	
+61	gin2	gin2	gig[unit]	N	0	_	detached for projectivity	
+62	1(u)	1(u)	NU	NU	0	nummod	_	
+63	4(disz)	4(disz)	NU	NU	62	nummod	_	
+64	2/3(disz)	2/3(disz)	NU	NU	62	nummod	_	
+65	sze	sze	sze[barley]	N	61	appos	_	
+66	nig2-dab5	nig2-dab5	nigdab[requisitions]	N	61	appos	_	
+67	du6-<ku3>-ga	du6-ku3-ga	dukug[locus]-ak	PN	66	GEN	_	
+68	kiszib3	kiszib3	kiszib[seal]	N	67	_	_	
+69	lugal-nig2-lagar-e	lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	68	GEN	_	
+70	1(gesz2)	1(gesz2)	NU	NU	69	nummod	_	
+71	3(u)	3(u)	NU	NU	74	nummod	_	
+72	8(asz)	8(asz)	NU	NU	71	nummod	_	
+73	gu2	gu2	gun[unit]	N	0	_	detached for projectivity	
+74	esir2	esir2	esir[bitumen]	N	73	_	_	
+75	had2	had2	had[pure][-ø]	V	74	acl	_	
+76	ku3-bi	ku3-bi	kug[silver]-bi[-ø]	N	82	_	heuristic: attach to head	
+77	9(disz)	9(disz)	NU	NU	79	nummod	_	
+78	gin2	gin2	gig[unit]	N	0	_	detached for projectivity	
+79	n	n	_(_)[_]	NU	78	appos	_	
+80	kiszib3	kiszib3	kiszib[seal]	N	0	_	detached for projectivity	
+81	a-du-mu	a-du-mu	Adumu[1][-ra]	PN	80	GEN	_	
+82	9(disz)	9(disz)	NU	NU	36	nummod	_	
+83	5/6(disz)	5/6(disz)	NU	NU	82	nummod	_	
+84	ma-na	ma-na	mana[unit]	N	36	_	_	
+85	uruda	uruda	urud[copper][-ak]	N	84	GEN	_	
+86	ku3-bi	ku3-bi	kug[silver]-bi[-ø]	N	36	appos	_	
+87	5(disz)	5(disz)	NU	NU	88	nummod	_	
+88	1/3(disz)	1/3(disz)	NU	NU	89	nummod	_	
+89	gin2	gin2	gig[unit]	N	36	_	_	
+90	6(disz)	6(disz)	NU	NU	89	nummod	_	
+91	sze	sze	sze[barley]	N	90	_	heuristic: attach to last	
+92	1(u)	1(u)	NU	NU	89	nummod	projectivity violation	
+93	4(disz)	4(disz)	NU	NU	92	nummod	_	
+94	gin2	gin2	gig[unit]	N	93	_	heuristic: attach to last	
+95	su-he2	su-he2	_	N	90	GEN	_	
+96	ku3-bi	ku3-bi	kug[silver]-bi[-ø]	N	97	nmod	_	
+97	igi-4(disz)-gal2	igi-4(disz)-gal2	igi4(disz)[one]gal[fraction]	NU	89	appos	_	
+98	la2	la2	la[hang][-ø]	V	100	_	_	
+99	3(disz)	3(disz)	NU	NU	98	nummod	_	
+100	sze	sze	sze[barley]	N	89	_	_	
+101	kiszib3	kiszib3	kiszib[seal]	N	100	appos	_	
+102	lu2-{d}en-lil2-la2	lu2-{d}en-lil2-la2	Lu'enlila[1]	PN	101	GEN	_	
+103	szunigin	szunigin	szunigin[total]	N	102	_	_	
+104	1/3(disz)	1/3(disz)	NU	NU	105	nummod	heuristic: NU premodifying	
+105	ma-na	ma-na	mana[unit]	N	100	_	_	
+106	3(disz)	3(disz)	NU	NU	0	nummod	_	
+107	1/3(disz)	1/3(disz)	NU	NU	106	nummod	_	
+108	gin2	gin2	gig[unit]	N	105	appos	_	
+109	7(disz)	7(disz)	NU	NU	110	nummod	heuristic: NU premodifying	
+110	sze	sze	sze[barley]	N	105	appos	_	
+111	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	110	GEN	_	
+112	zi-ga-am3	zi-ga-am3	zig[expend]-a[-ø]-am	N	110	acl	_	
+113	la2-ia3	la2-ia3	la'u[arrears]	N	112	_	_	
+114	1(disz)	1(disz)	NU	NU	115	nummod	_	
+115	ma-na	ma-na	mana[unit]	N	113	_	_	
+116	4(disz)	4(disz)	NU	NU	117	nummod	heuristic: NU premodifying	
+117	gin2	gin2	gig[unit]	N	115	appos	_	
+118	1(u)	1(u)	NU	NU	0	nummod	_	
+119	3(disz)	3(disz)	NU	NU	118	nummod	_	
+120	sze	sze	sze[barley]	N	115	appos	_	
+121	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	120	GEN	_	
+122	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	124	_	_	
+123	pa3-da	pa3-da	Pada[1]	PN	122	GEN	_	
+124	iti	iti	iti[month]	N	115	_	_	
+125	min-esz3	min-esz3	Minesz[1][-'a]	MN	124	_	_	
+126	mu	mu	mu[year]	N	124	_	_	
+127	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	128	ABS	_	
+128	lugal	lugal[king]	N	N	124	parataxis	_
+	
+

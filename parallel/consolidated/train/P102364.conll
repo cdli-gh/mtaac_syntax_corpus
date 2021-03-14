@@ -1,0 +1,99 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102364.atf
+# tr.en: butter oil royal n talents ma-na goat hair received butter oil big-cheese talent mana wool Inim- received n sila butter oil barig ban n big-cheese talent mana wool Lugal-inim- received sila butter oil n less sila big-cheese n mana wool received sila butter oil n sila big-cheese mana wool Ur-susu received deficit year Accounts of hoes year after
+1	1(gesz2)	1(gesz2)	NU	NU	0	nummod	_	
+2	1(u)	1(u)	NU	NU	1	nummod	_	
+3	1(barig)	1(barig)	NU	NU	1	nummod	_	
+4	n	n	_(_)[_]	NU	0	_	_	
+5	i3-nun	i3-nun	inun[ghee]	PN	0	root	_	
+6	lugal	lugal	lugal[king]	N	5	appos	_	
+7	x	x	_[_]	N	0	dep	_	
+8	x	x	_[_]	N	7	dep	_	
+9	...	...	_[_]	PN	7	dep	_	
+10	lugal	lugal	lugal[king]	N	5	_	heuristic: attach to head	
+11	n	n	_(_)[_]	NU	12	nummod	_	
+12	gu2	gu2	gun[unit]	N	5	appos	_	
+13	5(disz)	5(disz)	NU	NU	5	nummod	_	
+14	ma-na	ma-na	mana[unit]	N	5	appos	_	
+15	siki-ud5	siki-ud5	siki'ud[goat_wool]	N	14	_	heuristic: attach to head	
+16	...-x-a-mu	...-x-a-mu	_	PN	14	acl	_	
+17	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	20	nmod	projectivity violation	
+18	1(u)	1(u)	NU	NU	20	nummod	projectivity violation	
+19	n	n	_(_)[_]	NU	24	nmod	projectivity violation	
+20	i3-nun	i3-nun	inun[ghee]	PN	0	_	detached for projectivity	
+21	1(u)	1(u)	NU	NU	20	nummod	_	
+22	n	n	_(_)[_]	NU	31	nummod	projectivity violation	
+23	ga	ga	ga[milk]	N	24	_	heuristic: attach to head	
+24	gal-gal	gal-gal	_	V	20	appos	_	
+25	1(asz)	1(asz)	NU	NU	20	nummod	_	
+26	gu2	gu2	gun[unit]	N	31	nmod	_	
+27	5(u)	5(u)	NU	NU	0	nummod	_	
+28	8(disz)	8(disz)	NU	NU	27	nummod	_	
+29	1/3(disz)	1/3(disz)	NU	NU	27	nummod	_	
+30	ma-na	ma-na	mana[unit]	N	31	nmod	_	
+31	siki	siki	siki[wool][-'a]	N	20	appos	_	
+32	inim-{d}x-x	inim-{d}x-x	_	PN	33	_	_	
+33	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	20	acl	_	
+34	3(u)	3(u)	NU	NU	38	nummod	projectivity violation	
+35	n	n	_(_)[_]	NU	34	_	heuristic: attach to last	
+36	1(disz)	1(disz)	NU	NU	40	nummod	projectivity violation	
+37	sila3	sila3	sila[unit]	N	38	nmod	_	
+38	i3-nun	i3-nun	inun[ghee]	PN	20	appos	_	
+39	1(barig)	1(barig)	NU	NU	38	nummod	_	
+40	4(ban2)	4(ban2)	NU	NU	39	nummod	_	
+41	n(disz)	n(disz)	_	N	44	nummod	projectivity violation	
+42	sila3	sila3	sila[unit]	N	51	nummod	projectivity violation	
+43	ga	ga	ga[milk]	N	44	_	heuristic: attach to head	
+44	gal	gal	gal[big][-ø]	V	0	_	detached for projectivity	
+45	1(asz)	1(asz)	NU	NU	38	nummod	_	
+46	gu2	gu2	gun[unit]	N	51	nmod	_	
+47	2(u)	2(u)	NU	NU	0	nummod	_	
+48	1(disz)	1(disz)	NU	NU	47	nummod	_	
+49	1/3(disz)	1/3(disz)	NU	NU	47	nummod	_	
+50	ma-na	ma-na	mana[unit]	N	51	nmod	_	
+51	siki	siki	siki[wool][-'a]	N	38	appos	_	
+52	lugal-inim-x	lugal-inim-x	_	PN	53	_	_	
+53	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	38	acl	_	
+54	n	n	_(_)[_]	NU	53	_	heuristic: attach to last	
+55	x	x	_[_]	N	54	dep	heuristic: attach to last	
+56	1(u)	1(u)	NU	NU	0	nummod	_	
+57	4(disz)	4(disz)	NU	NU	56	nummod	_	
+58	sila3	sila3	sila[unit]	N	60	nmod	_	
+59	i3-nun	i3-nun	inun[ghee]	PN	60	nmod	_	
+60	...	...	_[_]	PN	20	dep	_	
+61	n	n	_(_)[_]	NU	60	_	_	
+62	la2	la2	la[hang][-ø]	V	66	_	_	
+63	2(asz@45)	2(asz@45)	NU	NU	62	nummod	_	
+64	sila3	sila3	sila[unit]	N	66	nmod	_	
+65	ga	ga	ga[milk]	N	66	_	heuristic: attach to head	
+66	gal	gal	gal[big][-ø]	V	60	_	_	
+67	...	...	_[_]	PN	20	dep	projectivity violation	
+68	n	n	_(_)[_]	NU	67	_	heuristic: attach to last	
+69	ma-na	ma-na	mana[unit]	N	70	nmod	_	
+70	siki	siki	siki[wool][-'a]	N	60	appos	projectivity violation	
+71	...	...	_[_]	PN	70	dep	heuristic: attach to last	
+72	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	67	acl	_	
+73	...	...	_[_]	PN	0	dep	_	
+74	n	n	_(_)[_]	NU	0	_	_	
+75	1/2(disz)	1/2(disz)	NU	NU	0	nummod	_	
+76	sila3	sila3	sila[unit]	N	77	nmod	_	
+77	i3-nun	i3-nun	inun[ghee]	PN	0	_	detached for projectivity	
+78	n	n	_(_)[_]	NU	77	_	_	
+79	4(disz)	4(disz)	NU	NU	77	nummod	_	
+80	sila3	sila3	sila[unit]	N	82	nmod	projectivity violation	
+81	ga	ga	ga[milk]	N	86	nummod	projectivity violation	
+82	gal	gal	gal[big][-ø]	V	77	appos	_	
+83	8(disz)	8(disz)	NU	NU	77	nummod	_	
+84	1/3(disz)	1/3(disz)	NU	NU	83	nummod	_	
+85	ma-na	ma-na	mana[unit]	N	86	nmod	_	
+86	siki	siki	siki[wool][-'a]	N	77	appos	_	
+87	ur-su4-su4	ur-su4-su4	_	PN	88	ABS	_	
+88	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	77	acl	_	
+89	la2-ia3-am3	la2-ia3-am3	_	V	0	_	detached for projectivity	
+90	mu	mu	mu[year]	N	0	_	detached for projectivity	
+91	nig2-ka9	nig2-ka9	nigSZID[account]	N	93	ABS	_	
+92	al-la	al-la	Alla[1]	PN	91	_	heuristic: attach to last	
+93	mu	mu	mu[year]	N	0	_	detached for projectivity	
+94	us2-a-bi	_[hoes.after]	V	NF.V.PT.3-SG-NH-POSS	91	GEN	_
+	
+

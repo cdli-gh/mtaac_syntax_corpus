@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P465383.atf new_text=P465383
+# tr.en: Assorted into booty I made king of into captivity I took and I did not let him escape my hand A person who order of a wicked thing shall issue against it
+# dev/P465383.atf						#new_text=P465383
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	root	_	
+2	x	_[_]	N	N	5	dep	heuristic: before verb	
+3	x	_[_]	N	N	5	dep	heuristic: before verb	
+4	x	_[_]	N	N	5	dep	heuristic: before verb	
+5	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	1	acl	_	
+6	'.	_	_	_	5	_	heuristic: attach to last	
+7	nam-ra-asz	_[into.booty]	N	N.ADV	1	TERM	_	
+8	'.	_	N	N	1	appos	projectivity violation	
+9	ha-da-ak	_[I.made]	PN	MOD1.MID.3-SG-H-A.stem.3-SG-P	7	acl	projectivity violation	
+10	'.	_	_	_	9	_	heuristic: attach to last	
+11	NE-ESZ2	_	PN	RN	10	_	heuristic: attach to last	
+12	lugal	lugal[king]	N	N	8	appos	_	
+13	'.	_	N	N	12	GEN	_	
+14	x-x{ki}	_[of]	SN	GN.GEN.ABS	13	GEN	_	
+15	'.	_	_	_	12	_	heuristic: after nominal head	
+16	szaga-a	_[into.captivity]	N	V.L1	12	TERM	_	
+17	'.	_	_	_	16	_	heuristic: attach to last	
+18	he2-ni-dab5	_[I.took]	V	MOD1.L1.1-SG-A.V.3-SG-P	16	acl	_	
+19	'.	_	_	_	12	_	heuristic: after nominal head	
+20	szu-mu	_[and.I]	PN	N.1-SG-POSS.ABL	12	appos	_	
+21	ba-ra-ba-ta-e3	_[did.not.let.him.escape.my.hand]	V	MOD4.MID.ABL.V.3-SG-S	12	acl	_	
+22	'.	_	_	_	24	_	heuristic: before verb	
+23	lu2	lu[person]	N	N	24	_	heuristic: before verb	
+24	hul-	_[A.person.who.order.a.wicked.thing]	V	NF.V.ABS	1	appos	_	
+25	'.	_	_	_	24	_	heuristic: attach to head	
+26	ib2-szi-ag2-ge26-a	_[shall.issue.against.it]	PN	FIN.3-NH.TERM.V.3-SG-A.SUB	24	acl	_
+	
+

@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: for life of Szulgi the mighty man king of Ur
+# test/P432252.atf new_text=P432252
+# test/P432252.atf						#new_text=P432252
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	_	
+2	...	_[_]	PN	N	0	dep	_	
+3	x	_[_]	N	N	0	dep	_	
+4	...	_[_]	PN	N	0	dep	_	
+5	'.	_	_	_	0	_	_	
+

@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets long-tablets barley of takers are here year
+# train/P203595.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	dub	dub	dub[tablet]	N	7	ABS	_	
+3	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	2	_	_	
+4	sze	sze	sze[barley]	N	2	appos	_	
+5	lu2	lu2	lu[person]	N	4	_	heuristic: attach to head	
+6	nig2-dab5-ke4-ne	nig2-dab5-ke4-ne	_	N	4	GEN	_	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+8	mu	mu[year]	N	N	7	appos	_
+	
+

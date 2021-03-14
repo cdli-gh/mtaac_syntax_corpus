@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections personnel of plow oxen of the house of Szulgi foreman Ur-ugalama and Alla are here year chair of Enlil was fashioned
+# train/P105744.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	3	nmod	_	
+3	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	13	ABS	_	
+4	gu4	gu4	gud[ox]	N	5	acl	_	
+5	apin	apin	apin[plow]	N	3	acl	_	
+6	1(disz)-kam	1(disz)-kam	NU	NU	7	nummod	heuristic: NU premodifying	
+7	e2	e2	e[house]	N	5	GEN	_	
+8	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	7	GEN	_	
+9	ugula	ugula	ugula[overseer][-ø]	N	10	nmod	_	
+10	ur-szu-ga-lam-ma	ur-szu-ga-lam-ma	_	N	8	appos	_	
+11	u3	u3	u[and]	CNJ	8	appos	_	
+12	al-la	al-la	Alla[1]	PN	8	appos	_	
+13	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+14	mu	mu	mu[year]	N	17	_	_	
+15	gu-za	gu-za	guza[chair][-ø]	N	17	ABS	_	
+16	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	15	GEN	_	
+17	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	13	parataxis	_
+	
+

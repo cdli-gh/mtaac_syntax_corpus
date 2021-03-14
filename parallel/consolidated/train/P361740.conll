@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P361740.atf
+# tr.en: gur barig ban emmer royal gur barig ban wheat royal from Lu-igimae under seal of Ur-Lamma son Ur-Baba depot of field Aratia-Nin-dar-a month Festival of Szulgi year Simurum and Lullubum for th time were destroyed Ur-Lamma scribe son Ur-Baba
+1	5(asz)	5(asz)	NU	NU	4	nummod	projectivity violation	
+2	3(barig)	3(barig)	NU	NU	13	nummod	projectivity violation	
+3	5(ban2)	5(ban2)	NU	NU	4	nummod	_	
+4	ziz2	ziz2	ziz[emmer]	N	5	_	_	
+5	gur	gur	gur[unit]	N	0	root	_	
+6	lugal	lugal	lugal[king]	N	4	appos	projectivity violation	
+7	3(u)	3(u)	NU	NU	4	nummod	projectivity violation	
+8	2(asz)	2(asz)	NU	NU	7	nummod	_	
+9	4(barig)	4(barig)	NU	NU	7	nummod	_	
+10	1(ban2)	1(ban2)	NU	NU	7	nummod	_	
+11	...	...	_[_]	PN	12	dep	_	
+12	gig	gig	gig[resin_type]	N	13	_	_	
+13	gur	gur	gur[unit]	N	4	appos	projectivity violation	
+14	lugal	lugal	lugal[king]	N	4	appos	projectivity violation	
+15	ki	ki	ki[place]	N	16	ABL	_	
+16	lu2-{d}igi-ma-sze3-ta	lu2-{d}igi-ma-sze3-ta	_	PN	4	ABL	projectivity violation	
+17	kiszib3	kiszib3	kiszib[seal]	N	4	LOC	projectivity violation	
+18	ur-{d}lamma	ur-{d}lamma	Urlamma[1]	PN	17	GEN	_	
+19	dumu	dumu	dumu[child]	N	20	nmod	_	
+20	ur-{d}ba-ba6	ur-{d}ba-ba6	Urbaba[1]	PN	4	appos	projectivity violation	
+21	i3-dub	i3-dub	idub[granary]	N	4	appos	projectivity violation	
+22	a-sza3	a-sza3	aszag[field]	N	23	nmod	_	
+23	ar-sza-ti-a-{d}nin-dar-a-ta	ar-sza-ti-a-{d}nin-dar-a-ta	_	PN	21	GEN	_	
+24	iti	iti	iti[month]	N	25	nmod	_	
+25	ezem-{d}szul-gi	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	0	_	detached for projectivity	
+26	mu	mu	mu[year]	N	27	nmod	_	
+27	si-mu-ur4-um{ki}	si-mu-ur4-um{ki}	_	GN	34	ABS	projectivity violation	
+28	u3	u3	u[and]	CNJ	27	appos	_	
+29	lu-lu-bu-um{ki}	lu-lu-bu-um{ki}	Lulubum[1][-ø]	SN	27	appos	_	
+30	a-ra2	a-ra2	ara[times]	N	27	DAT	_	
+31	1(u)	1(u)	NU	NU	5	nummod	_	
+32	la2	la2	la[hang][-ø]	V	31	_	_	
+33	1(disz@t)-kam-asz	1(disz)-kam-asz	NU	NU	32	nummod	_	
+34	ba-hul-a	ba-hul-a	ba-hulu[destroy][-ø]-a	V	5	parataxis	_	
+35	ur-{d}lamma	ur-{d}lamma	Urlamma[1]	PN	0	_	detached for projectivity	
+36	dub-sar	dub-sar	dubsar[scribe]	N	35	appos	_	
+37	dumu	dumu	dumu[child]	N	38	nmod	_	
+38	ur-{d}ba-ba6	Urbaba[1]	PN	PN	35	appos	_
+	
+

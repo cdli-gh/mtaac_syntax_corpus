@@ -1,0 +1,104 @@
+# consolidate annotation projection (conll:EN_EDGE) with conll:MORPH
+# to be applied after dependency normalization
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# copy conll:EN_EDGE to conll:EDGE
+INSERT {
+	?w conll:EDGE ?e
+} WHERE {
+	?w conll:EN_EDGE ?e
+	MINUS { ?w conll:EDGE ?e }
+};
+
+# use conll:MORPH to disambiguate EDGE
+# transitive subj => ERG/ABS
+DELETE {
+	?w conll:EDGE "nsubj"
+} INSERT {
+	?w conll:EDGE ?new
+} WHERE {
+	?w conll:EDGE "nsubj".
+	?w conll:MORPH ?morph.
+	BIND(if(regex("[1-3][^\\.]*\\.V\\.[^\\.]*[1-3]",?morph),	# transitive verb
+		"ERG", "ABS") AS ?new)
+	MINUS { ?w conll:HEAD/^conll:HEAD [ conll:EDGE ?new ] }	# but only if that doesn't exist, yet
+};
+
+# if MORPH isn't reliable: use ERG if an ABS does exist
+DELETE {
+	?w conll:EDGE "nsubj"
+} INSERT {
+	?w conll:EDGE ?new
+} WHERE {
+	?w conll:EDGE "nsubj".
+	?w conll:HEAD/^conll:HEAD [ conll:EDGE "ABS" ]
+	MINUS { ?w 	conll:HEAD/^conll:HEAD [ conll:EDGE "ERG" ] }
+	BIND("ERG" as ?new)
+};
+
+# fallback: nsubj => ABS
+DELETE {
+	?w conll:EDGE "nsubj"
+} INSERT {
+	?w conll:EDGE "ABS"
+} WHERE {
+	?w conll:EDGE "nsubj".
+};
+
+# any verb that has a nominal head becomes acl
+DELETE {
+	?w conll:EDGE ?e
+} INSERT {
+	?w conll:EDGE "acl".
+} WHERE {
+	?w conll:POS "V".
+	?w conll:EDGE ?e.
+	?w conll:HEAD/conll:POS ?hpos.
+	filter(contains(?hpos,'N'))
+};
+
+# any acl without dependents becomes amod
+DELETE {
+	?w conll:EDGE "acl"
+} INSERT {
+	?w conll:EDGE "amod"
+} WHERE {
+	?w conll:EDGE "acl".
+	MINUS { [] conll:HEAD ?w. }
+};
+
+# any amod with dependents becomes acl
+DELETE {
+	?w conll:EDGE "amod".
+} INSERT {
+	?w conll:EDGE "acl".
+} WHERE {
+	?w conll:EDGE "amod".
+	[] conll:HEAD ?amod
+};
+
+# any root that is not root is dropped
+DELETE {
+	?w conll:EDGE "root"
+} WHERE {
+	?w conll:EDGE "root".
+	?w conll:HEAD/a nif:Word.
+};
+
+# unanalyzed noun depending on another noun becomes appos
+INSERT {
+	?w conll:EDGE "appos"
+} WHERE {
+	?w conll:POS ?pos.
+	MINUS { ?w conll:EDGE [] }
+	FILTER(contains(?pos,"N"))
+	?w conll:HEAD/nif:nextWord+ ?w.	# following its head	
+};

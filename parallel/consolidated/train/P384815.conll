@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P384815.atf
+# tr.en: Dada speak bundles of reed Nanna-kiag Szulgi strong man king of Ur king of four quarters
+1	da-da	da-da	Dada[1][-ak]	PN	2	ABS	_	
+2	u3-na-a-du11	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	0	root	_	
+3	5(gesz2)	5(gesz2)	NU	NU	4	nummod	heuristic: NU premodifying	
+4	sa	sa	sa[bundle]	N	2	_	_	
+5	gi	gi	gi[reed][-ø]	N	6	nmod	_	
+6	{d}nanna-ki-ag2	{d}nanna-ki-ag2	Nannaki'ag[1]	PN	4	GEN	_	
+7	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	4	_	_	
+8	nita	nita	nita[male]	N	7	_	_	
+9	kal-ga	kal-ga	kalag[strong]-a	V	7	appos	_	
+10	lugal	lugal	lugal[king]	N	7	appos	_	
+11	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	10	GEN	_	
+12	lugal	lugal	lugal[king]	N	7	appos	_	
+13	an-ub-da	an-ub-da	anubda[quarter]	N	14	nummod	_	
+14	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	12	nummod	_
+	
+

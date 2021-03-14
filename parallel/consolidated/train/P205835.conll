@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P205835.atf
+# tr.en: Basket-of-tablets flour in city set iku fields gur each from Girsu to Guabba are here bala of head-jugs year Simurum was destroyed
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	zi3	zi3	zid[flour]	N	3	nmod	_	
+3	KA	KA	ka[mouth]	N	12	ABS	_	
+4	iri-a	iri-a	_	N	5	LOC	_	
+5	gar-ra	gar-ra	_	V	3	LOC	_	
+6	1(iku)	1(iku)	NU	NU	3	nummod	_	
+7	GAN2	GAN2	gana[field]	N	3	appos	_	
+8	1(asz)	1(asz)	NU	NU	3	nummod	_	
+9	gur-ta	gur-ta	gur[unit]-ta	PN	3	appos	_	
+10	gir2-su{ki}-ta	gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	3	ABL	_	
+11	gu2-ab-ba{ki}-sze3	gu2-ab-ba{ki}-sze3	_	SN	10	LOC	_	
+12	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+13	bala	bala	bala[turn][-'a]	N	18	_	_	
+14	dug	dug	dug[pot]	N	13	_	_	
+15	sag	sag	sag[head]	N	13	GEN	_	
+16	mu	mu	mu[year]	N	13	appos	_	
+17	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	18	ABS	_	
+18	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	12	parataxis	_
+	
+

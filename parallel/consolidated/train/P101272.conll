@@ -1,0 +1,108 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P101272.atf
+# tr.en: sila beer sila bread bundles onions shekels oil shekels alkali-plant for Titi sila beer sila bread bundles onions shekels oil shekels alkali-plant for Kaamu ban beer ban bread bundles onions sila oil shekels alkali-plant for Lugal-Lammamu sila beer sila bread bundles onions shekels oil shekels alkali-plant for Inhan sila beer sila bread bundles onions shekels oil shekels alkali-plant for Szulgi-il total ban sila beer ban sila bread bundles onions sila less shekels oil shekels alkali-plant th day month House-month-
+1	5(disz)	5(disz)	NU	NU	2	nummod	_	
+2	sila3	sila3	sila[unit]	N	3	nmod	_	
+3	kasz	kasz	kasz[beer]	N	0	_	_	
+4	5(disz)	5(disz)	NU	NU	12	nummod	projectivity violation	
+5	sila3	sila3	sila[unit]	N	2	appos	_	
+6	ninda	ninda	ninda[bread]	N	2	appos	_	
+7	2(disz)	2(disz)	NU	NU	9	nummod	heuristic: NU premodifying	
+8	sa	sa	sa[bundle]	N	9	nmod	_	
+9	szum2	szum2	szum[garlic]	N	2	appos	_	
+10	3(disz)	3(disz)	NU	NU	2	nummod	_	
+11	gin2	gin2	gig[unit]	N	12	nmod	_	
+12	i3	i3	i[oil]	N	2	appos	_	
+13	2(disz)	2(disz)	NU	NU	15	nummod	heuristic: NU premodifying	
+14	gin2	gin2	gig[unit]	N	15	nmod	_	
+15	naga	naga	naga[potash]	N	2	acl	_	
+16	ti-ti	ti-ti	Titi[1][-ra]	PN	2	DAT	_	
+17	5(disz)	5(disz)	NU	NU	19	nummod	_	
+18	sila3	sila3	sila[unit]	N	19	nmod	_	
+19	kasz	kasz	kasz[beer]	N	2	_	_	
+20	5(disz)	5(disz)	NU	NU	28	nummod	projectivity violation	
+21	sila3	sila3	sila[unit]	N	22	nmod	_	
+22	ninda	ninda	ninda[bread]	N	19	appos	_	
+23	2(disz)	2(disz)	NU	NU	25	nummod	heuristic: NU premodifying	
+24	sa	sa	sa[bundle]	N	25	nmod	_	
+25	szum2	szum2	szum[garlic]	N	19	appos	_	
+26	3(disz)	3(disz)	NU	NU	19	nummod	_	
+27	gin2	gin2	gig[unit]	N	28	nmod	_	
+28	i3	i3	i[oil]	N	19	appos	_	
+29	2(disz)	2(disz)	NU	NU	31	nummod	heuristic: NU premodifying	
+30	gin2	gin2	gig[unit]	N	31	nmod	_	
+31	naga	naga	naga[potash]	N	19	acl	_	
+32	ka5-a-mu	ka5-a-mu	Kayamu[1][-ak]	PN	19	DAT	_	
+33	3(ban2)	3(ban2)	NU	NU	34	nummod	_	
+34	kasz	kasz	kasz[beer]	N	19	appos	_	
+35	3(ban2)	3(ban2)	NU	NU	36	nummod	_	
+36	ninda	ninda	ninda[bread]	N	34	appos	_	
+37	2(disz)	2(disz)	NU	NU	34	nummod	_	
+38	sa	sa	sa[bundle]	N	39	nmod	_	
+39	szum2	szum2	szum[garlic]	N	34	appos	_	
+40	1/2(disz)	1/2(disz)	NU	NU	34	nummod	_	
+41	sila3	sila3	sila[unit]	N	42	nmod	_	
+42	i3	i3	i[oil]	N	34	appos	_	
+43	2(disz)	2(disz)	NU	NU	45	nummod	heuristic: NU premodifying	
+44	gin2	gin2	gig[unit]	N	45	nmod	_	
+45	naga	naga	naga[potash]	N	34	acl	_	
+46	lugal-{d}lamma-mu	lugal-{d}lamma-mu	_	PN	34	DAT	_	
+47	5(disz)	5(disz)	NU	NU	49	nummod	_	
+48	sila3	sila3	sila[unit]	N	49	nmod	_	
+49	kasz	kasz	kasz[beer]	N	19	appos	_	
+50	5(disz)	5(disz)	NU	NU	58	nummod	projectivity violation	
+51	sila3	sila3	sila[unit]	N	52	nmod	_	
+52	ninda	ninda	ninda[bread]	N	49	appos	_	
+53	2(disz)	2(disz)	NU	NU	55	nummod	heuristic: NU premodifying	
+54	sa	sa	sa[bundle]	N	55	nmod	_	
+55	szum2	szum2	szum[garlic]	N	49	appos	_	
+56	5(disz)	5(disz)	NU	NU	49	nummod	_	
+57	gin2	gin2	gig[unit]	N	58	nmod	_	
+58	i3	i3	i[oil]	N	49	appos	_	
+59	2(disz)	2(disz)	NU	NU	61	nummod	heuristic: NU premodifying	
+60	gin2	gin2	gig[unit]	N	61	nmod	_	
+61	naga	naga	naga[potash]	N	49	acl	_	
+62	in-ha-an	in-ha-an	_	PN	49	DAT	_	
+63	3(disz)	3(disz)	NU	NU	65	nummod	_	
+64	sila3	sila3	sila[unit]	N	65	nmod	_	
+65	kasz	kasz	kasz[beer]	N	19	appos	_	
+66	2(disz)	2(disz)	NU	NU	74	nummod	projectivity violation	
+67	sila3	sila3	sila[unit]	N	68	nmod	_	
+68	ninda	ninda	ninda[bread]	N	65	appos	_	
+69	2(disz)	2(disz)	NU	NU	71	nummod	heuristic: NU premodifying	
+70	sa	sa	sa[bundle]	N	71	nmod	_	
+71	szum2	szum2	szum[garlic]	N	65	appos	_	
+72	3(disz)	3(disz)	NU	NU	65	nummod	_	
+73	gin2	gin2	gig[unit]	N	74	nmod	_	
+74	i3	i3	i[oil]	N	65	appos	_	
+75	2(disz)	2(disz)	NU	NU	77	nummod	heuristic: NU premodifying	
+76	gin2	gin2	gig[unit]	N	77	nmod	_	
+77	naga	naga	naga[potash]	N	65	acl	_	
+78	{d}szul-gi-i3-li2!(il)	{d}szul-gi-i3-li2(il)	_	NU	65	DAT	_	
+79	szunigin	szunigin	szunigin[total]	N	19	_	_	
+80	4(ban2)	4(ban2)	NU	NU	19	nummod	_	
+81	8(disz)	8(disz)	NU	NU	83	nummod	_	
+82	sila3	sila3	sila[unit]	N	83	nmod	_	
+83	kasz	kasz	kasz[beer]	N	0	_	detached for projectivity	
+84	4(ban2)	4(ban2)	NU	NU	92	nummod	projectivity violation	
+85	7(disz)	7(disz)	NU	NU	87	nummod	_	
+86	sila3	sila3	sila[unit]	N	87	nmod	_	
+87	ninda	ninda	ninda[bread]	N	0	_	detached for projectivity	
+88	1(u)	1(u)	NU	NU	92	nummod	heuristic: NU premodifying; projectivity violation	
+89	sa	sa	sa[bundle]	N	90	nmod	_	
+90	szum2	szum2	szum[garlic]	N	0	_	detached for projectivity	
+91	2(disz)	2(disz)	NU	NU	96	nummod	_	
+92	sila3	sila3	sila[unit]	N	0	_	detached for projectivity	
+93	la2	la2	la[hang][-ø]	V	96	_	_	
+94	1(disz)	1(disz)	NU	NU	93	nummod	_	
+95	gin2	gin2	gig[unit]	N	96	nmod	_	
+96	i3	i3	i[oil]	N	92	_	_	
+97	2(u)	2(u)	NU	NU	99	nummod	heuristic: NU premodifying	
+98	gin2	gin2	gig[unit]	N	99	nmod	_	
+99	naga	naga	naga[potash]	N	96	_	_	
+100	u4	u4	ud[day]	N	96	_	_	
+101	7(disz)-kam	7(disz)-kam	NU	NU	100	nummod	_	
+102	iti	iti	iti[month]	N	100	appos	_	
+103	e2-iti-6(disz)	E'iti6[1][-'a]	NU	MN.L1	96	nummod	_
+	
+

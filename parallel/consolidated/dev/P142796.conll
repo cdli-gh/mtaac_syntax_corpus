@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections of shepherds and cowherds of Kinunir Nigin Guabba and head-plowmen of house of Ninursag are here year ari Kima were destroyed
+# dev/P142796.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	16	ABS	_	
+3	sipa	sipa	sipa[shepherd]	N	2	GEN	_	
+4	unu3	unu3	_	GN	3	appos	_	
+5	ki-nu-nir{ki}	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	3	GEN	_	
+6	nigin6{ki}	nigin6{ki}	_	SN	5	appos	_	
+7	gu2-ab-ba{ki}	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	5	appos	_	
+8	...	...	_[_]	PN	7	dep	heuristic: attach to last	
+9	x	x	_[_]	N	8	dep	heuristic: attach to last	
+10	x	x	_[_]	N	9	dep	heuristic: attach to last	
+11	...	...	_[_]	PN	10	dep	heuristic: attach to last	
+12	u3	u3	u[and]	CNJ	5	appos	_	
+13	sag-apin	sag-apin	_	N	5	appos	_	
+14	e2	e2	e[house]	N	13	GEN	_	
+15	{d}nin-hur-sag	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	14	GEN	_	
+16	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+17	mu	mu	mu[year]	N	20	_	_	
+18	ha-ar-szi{ki}	ha-ar-szi{ki}	Harszi[1]	SN	20	_	_	
+19	ki-masz	ki-masz	_	PN	20	ABS	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	16	parataxis	_
+	
+

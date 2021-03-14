@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P405991.atf
+# tr.en: gur barig barley royal deficit repaid from Luu cook Lukalla received month amar-ayasi year Enmagal of Nanna was installed
+1	1(gesz2)	1(gesz2)	NU	NU	5	nummod	projectivity violation	
+2	2(barig)	2(barig)	NU	NU	3	nummod	_	
+3	sze	sze	sze[barley]	N	0	root	_	
+4	gur	gur	gur[unit]	N	3	appos	_	
+5	lugal	lugal	lugal[king]	N	3	appos	_	
+6	la2-ia3	la2-ia3	la'u[arrears]	N	5	appos	_	
+7	su-ga	su-ga	sug[repay]-a	V	5	acl	_	
+8	ki	ki	ki[place]	N	9	ABL	_	
+9	lu2-u18	lu2-u18	_	PN	5	ABL	_	
+10	muhaldim-ta	muhaldim-ta	_	N	3	appos	_	
+11	lu2-kal-la	lu2-kal-la	Lukala[1][-ra]	PN	13	ABS	_	
+12	szu	szu	szu[hand][-e]	N	11	_	heuristic: attach to last	
+13	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	3	acl	_	
+14	iti	iti	iti[month]	N	15	nmod	_	
+15	amar-a-a-si	amar-a-a-si	Amarayasi[1][-'a]	MN	19	_	_	
+16	mu	mu	mu[year]	N	19	_	_	
+17	en-mah-gal	en-mah-gal	_	PN	19	ABS	_	
+18	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	17	GEN	_	
+19	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	3	parataxis	_
+	
+

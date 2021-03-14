@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P432167.atf						#new_text=P432167
+# tr.en: For Ninmu butcher of Ekur temple Szulgi the mighty man king of Ur and king of Sumer and Akkad her temple he built for her
+# test/P432167.atf new_text=P432167
+1	{d}nin-mu2	_[For.Ninmu]	PN	DN	0	root	_	
+

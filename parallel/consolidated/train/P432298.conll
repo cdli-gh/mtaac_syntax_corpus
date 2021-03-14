@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Sin the beloved of Enlil the king whom Enlil
+# train/P432298.atf new_text=P432298
+# train/P432298.atf						#new_text=P432298
+1	{d}szu-{d}suen	Szusuen[1]	RN	RN	6	_	_	
+2	ki-ag2	ki'ag[love][-ø]	V	NF.V	6	appos	_	
+3	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	2	GEN	_	
+4	lugal	lugal[king]	N	N	6	appos	_	
+5	{d}en-lil2-le	_[the.whom.Enlil]	DN	DN.ERG	4	appos	_
+	
+

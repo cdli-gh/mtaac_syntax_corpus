@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416470.atf
+# tr.en: lamb of governor of Girsu lamb of Idnin-Suen th day
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	sila4	sila4	sila[lamb]	N	0	root	_	
+3	ensi2	ensi2	ensik[ruler]	N	2	GEN	_	
+4	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	3	GEN	_	
+5	1(disz)	1(disz)	NU	NU	6	nummod	_	
+6	sila4	sila4	sila[lamb]	N	2	_	_	
+7	id-ni-in-{d}suen	id-ni-in-{d}suen	_	PN	6	GEN	_	
+8	u4	u4	ud[day]	N	6	_	_	
+9	2(u)	2(u)	NU	NU	2	nummod	_	
+10	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	9	nummod	_
+	
+

@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Suen in Nippur by Enlil chosen headrest of house of Enlil strong king king of Ur king of four corners Adalal is your servant
+# train/P430114.atf
+1	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	0	root	_	
+2	nibru{ki}-a	nibru{ki}-a	_	SN	1	LOC	_	
+3	{d}en-lil2-le	{d}en-lil2-le	_	DN	2	ERG	_	
+4	mu	mu	mu[year]	N	3	_	heuristic: attach to last	
+5	pa3-da	pa3-da	Pada[1]	PN	3	acl	_	
+6	sag-us2	sag-us2	_	N	1	appos	_	
+7	e2	e2	e[house]	N	6	GEN	_	
+8	{d}en-lil2-ka	{d}en-lil2-ka	_	DN	7	GEN	_	
+9	lugal	lugal	lugal[king]	N	1	appos	_	
+10	kal-ga	kal-ga	kalag[strong]-a	V	9	acl	_	
+11	lugal	lugal	lugal[king]	N	1	appos	_	
+12	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	11	GEN	_	
+13	lugal	lugal	lugal[king]	N	1	appos	_	
+14	an	an	An[1][-ra]	N	16	nummod	_	
+15	ub-da	ub-da	_	N	16	_	heuristic: attach to head	
+16	limmu2-ba	limmu2-ba	limmu[four]-bi-ak[-ø]	V	13	GEN	_	
+17	a-da-lal3	a-da-lal3	Adalal[1][-ra]	N	18	ABS	_	
+18	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	1	appos	_
+	
+

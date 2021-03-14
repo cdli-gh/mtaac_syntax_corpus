@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432163.atf new_text=P432163
+# tr.en: Puzur-Sin farmer of Tarm-Uram
+# train/P432163.atf						#new_text=P432163
+1	puzur4-{d}suen	Puzursuen[1][-ra]	PN	PN.DAT-H	0	root	_	
+2	-3.	_[farmer]	N	N	1	appos	_	
+3	engar	engar[farmer]	N	N	2	_	heuristic: after nominal head	
+4	da-ra-am-uri5{ki}	_[of.Tarm-Uram]	GN	Taramurim.GEN.ABS	2	GEN	_
+	
+

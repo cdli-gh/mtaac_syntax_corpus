@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P320163.atf
+# tr.en: Basket-of-tablets years of rations personnel of Ugnim are here year Kima
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	mu	mu	mu[year]	N	7	ABS	_	
+3	2(disz)	2(disz)	NU	NU	2	nummod	_	
+4	sze-ba	sze-ba	szeba[ration]	N	2	GEN	_	
+5	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	2	appos	_	
+6	ugnim{ki}	ugnim{ki}	_	GN	5	GEN	_	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+8	mu	mu	mu[year]	N	9	_	_	
+9	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	7	parataxis	_
+	
+

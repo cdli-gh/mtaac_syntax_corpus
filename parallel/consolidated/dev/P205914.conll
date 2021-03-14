@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts barley of distribution plowmen young oxen turners of Abbamu an Ur-Lamma are here year en- of Inanna by goat was found
+# dev/P205914.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	10	ABS	_	
+3	sze	sze	sze[barley]	N	2	appos	_	
+4	szuku-ra	szuku-ra	szukur[ration]-ak	N	3	GEN	_	
+5	engar	engar	engar[farmer]	N	4	appos	_	
+6	dumu-gu4-gur	dumu-gu4-gur	dumugugur[worker][-ak]	N	4	appos	_	
+7	ab-ba-mu	ab-ba-mu	Abbamu[1][-ak][-ak]	PN	4	GEN	_	
+8	u3	u3	u[and]	CNJ	10	_	heuristic: attach to head	
+9	ur-{d}lamma	ur-{d}lamma	Urlamma[1]	PN	10	_	heuristic: attach to head	
+10	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+11	mu	mu	mu[year]	N	15	date	_	
+12	en	en	en[priest]	N	13	_	_	
+13	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	15	ABS	_	
+14	masz-e	masz-e	masz[goat]-e	N	13	ERG	_	
+15	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	10	parataxis	_
+	
+

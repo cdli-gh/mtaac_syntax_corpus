@@ -1,0 +1,65 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: talent-pounds of wool geese dates sila of lard sila shekels of -oil ban ban from Ur-kuga did Ur-ubur receive Therefrom gur barley remaining account deficit Before Zuzu foreman of Tabbani Ur-Szumah -zu -la Month Set for bricks Year en of Inanna was chosen by means of omens
+# train/P235699.atf
+1	1(gesz2)	1(gesz2)	NU	NU	5	nummod	projectivity violation	
+2	5(u)	5(u)	NU	NU	8	nummod	projectivity violation	
+3	3(asz)	3(asz)	NU	NU	2	nummod	_	
+4	gu2	gu2	gun[unit]	N	5	_	heuristic: attach to head	
+5	ma-na	ma-na	mana[unit]	N	0	root	_	
+6	siki	siki	siki[wool][-'a]	N	5	GEN	_	
+7	4(disz)	4(disz)	NU	NU	5	nummod	_	
+8	ku-gi4{muszen}	ku-gi4{muszen}	_	PN	5	appos	_	
+9	2(barig)	2(barig)	NU	NU	5	nummod	_	
+10	zu2-lum	zu2-lum	zulum[date]	N	5	appos	_	
+11	2(disz)	2(disz)	NU	NU	5	nummod	_	
+12	sila3	sila3	sila[unit]	N	5	appos	_	
+13	i3-szah2	i3-szah2	iszah[lard][-ø]	N	12	GEN	_	
+14	2(disz)	2(disz)	NU	NU	5	nummod	_	
+15	sila3	sila3	sila[unit]	N	5	appos	_	
+16	1(u)	1(u)	NU	NU	22	nummod	projectivity violation	
+17	5(disz)	5(disz)	NU	NU	16	nummod	_	
+18	gin2	gin2	gig[unit]	N	0	_	detached for projectivity	
+19	i3	i3	i[oil]	N	18	GEN	_	
+20	...	...	_[_]	PN	31	dep	projectivity violation	
+21	1(ban2)	1(ban2)	NU	NU	22	nummod	heuristic: NU premodifying	
+22	lu2-hu-a	lu2-hu-a	_	PN	5	appos	projectivity violation	
+23	4(ban2)	4(ban2)	NU	NU	20	nummod	_	
+24	gesz	gesz	gesz[tree]	N	23	_	_	
+25	x	x	_[_]	N	24	dep	heuristic: attach to head	
+26	x	x	_[_]	N	24	dep	heuristic: attach to head	
+27	ki	ki	ki[place]	N	28	ABL	_	
+28	ur-ku3-ga-ta	ur-ku3-ga-ta	_	PN	24	ABL	_	
+29	ur-szubur	ur-szubur	_	PN	31	_	_	
+30	szu	szu	szu[hand][-e]	N	31	_	_	
+31	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	0	_	detached for projectivity	
+32	sza3-bi-ta	sza3-bi-ta	szag[heart]-bi-ta	PN	31	_	_	
+33	1(asz)	1(asz)	NU	NU	38	nummod	_	
+34	2(barig)	2(barig)	NU	NU	33	nummod	_	
+35	sze	sze	sze[barley]	N	36	_	_	
+36	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+37	si-i3-tum	si-i3-tum	situm[balance]	N	38	acl	_	
+38	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	36	appos	_	
+39	la2-ia3	la2-ia3	la'u[arrears]	N	38	appos	_	
+40	igi	igi	igi[eye][-ø]	N	43	nmod	projectivity violation	
+41	zu-zu	zu-zu	_	PN	0	_	detached for projectivity	
+42	ugula	ugula	ugula[overseer][-ø]	N	41	_	_	
+43	x	x	_[_]	N	42	dep	_	
+44	x	x	_[_]	N	43	dep	heuristic: attach to last	
+45	1(disz)	1(disz)	NU	NU	46	nummod	_	
+46	tab-ba-a-ni	tab-ba-a-ni	_	PN	42	appos	_	
+47	1(disz)	1(disz)	NU	NU	51	nummod	projectivity violation	
+48	ur-{d}szu-mah	ur-{d}szu-mah	_	PN	46	appos	_	
+49	1(disz)	1(disz)	NU	NU	46	nummod	_	
+50	x	x	_[_]	N	46	dep	_	
+51	x-zu	x-zu	_	PN	46	appos	_	
+52	1(disz)	1(disz)	NU	NU	46	nummod	_	
+53	x-la	x-la	_	PN	52	_	heuristic: attach to last	
+54	iti	iti	iti[month]	N	46	appos	_	
+55	sig4-sze3-ba-gar	sig4-sze3-ba-gar	_	MN	42	acl	_	
+56	mu	mu	mu[year]	N	55	acl	_	
+57	en	en	en[priest]	N	60	ABS	_	
+58	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	57	GEN	_	
+59	masz2-e	masz2-e	masz[goat]-e	N	60	_	_	
+60	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	56	acl	_
+	
+

@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432302.atf						#new_text=P432302
+# train/P432302.atf new_text=P432302
+# tr.en: Timat-bt the beloved lukur-priestess of Sz-Sin king of Ur
+1	a-ab-ba-ba-asz2-ti	_[Timat-bt]	PN	PN	7	appos	_	
+2	_lukur	lukur[priestess]	N	N	3	nmod	_	
+3	ki-ag2_	ki'ag[love][-ø]	V	NF.V	1	acl	_	
+4	{d}szu-{d}suen	Szusuen[1]	RN	RN	1	appos	_	
+5	_lugal_	lugal[king]	N	N	1	appos	_	
+6	uri5{ki}-ma-ka	_[Ur]	GN	SN.GEN.GEN.ABS	5	GEN	_
+	
+

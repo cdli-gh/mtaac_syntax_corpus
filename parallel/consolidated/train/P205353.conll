@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P205353.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	1	_	heuristic: attach to head	
+3	dib-ba	dib-ba	_	V	1	_	_	
+4	ma2-lah4	ma2-lah4	_	PN	3	_	heuristic: attach to last	
+5	lu2	lu2	lu[person]	N	4	_	heuristic: attach to last	
+6	mar-sa	mar-sa	marsa[shipyard]	PN	5	_	heuristic: attach to last	
+7	gaszam	gaszam	_	N	6	_	heuristic: attach to last	
+8	dam-gar3	dam-gar3	damgar[merchant][-ak]	N	7	_	heuristic: attach to last	
+9	erin2	erin2	erin[people]	N	15	_	heuristic: attach to head	
+10	aga3-usz	aga3-usz	_	N	15	_	_	
+11	ma2-u4-zal-la	ma2-u4-zal-la	_	PN	15	_	_	
+12	e2	e2	e[house]	N	15	_	heuristic: attach to head	
+13	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	15	nmod	_	
+14	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	15	nmod	_	
+15	mu	mu[year]	N	N	1	appos	_
+	
+

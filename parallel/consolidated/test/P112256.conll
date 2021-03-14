@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: nannies of sukkalma via Szekalla household manager booked out year Szarum was destroyed
+# test/P112256.atf
+1	2(disz)	2(disz)	NU	NU	2	nummod	_	
+2	ud5	ud5	uzud[goat]	N	0	root	_	
+3	nig2-ka-a	nig2-ka-a	_	N	4	GEN	_	
+4	sukkal-mah	sukkal-mah	_	PN	1	GEN	projectivity violation	
+5	giri3	giri3	giri[foot]	N	6	via	_	
+6	szesz-kal-la	szesz-kal-la	Szeszkala[1][-ra]	PN	2	via	_	
+7	szabra	szabra	szabra[chief_administrator][-ak]	N	6	appos	_	
+8	zi-ga	zi-ga	zig[expend]-a	V	6	acl	_	
+9	mu	mu	mu[year]	N	6	_	_	
+10	sza-asz-ru-um{ki}	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	6	_	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	6	acl	_
+	
+

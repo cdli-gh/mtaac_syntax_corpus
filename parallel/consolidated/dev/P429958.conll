@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# dev/P429958.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+4	egir	egir	_	N	1	_	heuristic: attach to head	
+5	...-x{ki}-x	...-x{ki}-x	_	PN	1	_	heuristic: attach to head	
+6	...	...	_[_]	PN	1	dep	heuristic: attach to head	
+7	...	...	_[_]	PN	1	dep	heuristic: attach to head	
+8	...	...	_[_]	PN	1	dep	heuristic: attach to head	
+9	x	x	_[_]	N	1	dep	heuristic: attach to head	
+10	szu	szu	szu[hand][-e]	N	1	_	heuristic: attach to head	
+11	x	x	_[_]	N	1	dep	heuristic: attach to head	
+12	x	x	_[_]	N	1	dep	heuristic: attach to head	
+13	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	19	nmod	_	
+14	x	x	_[_]	N	19	dep	heuristic: attach to head	
+15	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	19	nmod	_	
+16	mu	mu	mu[year]	N	19	_	heuristic: attach to head	
+17	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	19	_	heuristic: attach to head	
+18	lugal	lugal	lugal[king]	N	19	_	heuristic: attach to head	
+19	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	1	_	_	
+20	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+	
+

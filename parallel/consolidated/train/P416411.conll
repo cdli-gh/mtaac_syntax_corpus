@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: laborer workdays at Eitimgubba storehouse stationed foreman ARAD under seal of Lu-aya year high-priestess of Gae was hired Lu-aya scribe son of Ur-ee chief livestock manager
+# train/P416411.atf
+1	5(u)	5(u)	NU	NU	9	nummod	_	
+2	1(disz)	1(disz)	NU	NU	1	nummod	_	
+3	1/2(disz)	1/2(disz)	NU	NU	1	nummod	_	
+4	gurusz	gurusz	gurusz[male]	N	9	ABS	_	
+5	u4	u4	ud[day]	N	9	_	heuristic: attach to head	
+6	1(disz)-sze3	1(disz)-sze3	NU	NU	9	nummod	heuristic: NU premodifying	
+7	e2-szitim-gub-ba	e2-szitim-gub-ba	_	FN	9	LOC	_	
+8	e2-szu-tum-ka	e2-szu-tum-ka	_	FN	9	ABS	_	
+9	gub-ba	gub-ba	gub[assigned]-a[-ak][-ø]	V	0	root	_	
+10	ugula	ugula	ugula[overseer][-ø]	N	9	_	_	
+11	ARAD2	ARAD2	arad[slave]	N	10	_	_	
+12	kiszib3	kiszib3	kiszib[seal]	N	10	LOC	_	
+13	lu2-{d}ha-ia3	lu2-{d}ha-ia3	Luha'ia[1]	PN	12	GEN	_	
+14	mu	mu	mu[year]	N	10	_	_	
+15	en	en	en[priest]	N	17	ABS	_	
+16	ga-esz{ki}	ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	15	GEN	_	
+17	ba-hun	ba-hun	ba-hug[hire][-ø]	V	14	acl	_	
+18	lu2-{d}ha-ia3	lu2-{d}ha-ia3	Luha'ia[1]	PN	17	ERG	_	
+19	dub-sar	dub-sar	dubsar[scribe]	N	18	appos	_	
+20	dumu	dumu	dumu[child]	N	18	appos	_	
+21	ur-e11-e	ur-e11-e	Ure'e[1][-ak]	PN	20	GEN	_	
+22	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	17	ABS	_
+	
+

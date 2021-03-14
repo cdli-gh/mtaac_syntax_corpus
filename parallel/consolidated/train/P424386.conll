@@ -1,0 +1,34 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P424386.atf
+# tr.en: bull one year sheep ewe lamb slaughtered on st day from Duudu Szulgi-irimu has received month Eating Ubi-birds year Szu-Suen king of Ur erected Amorite wall Muriq-tidnim
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	gu4	gu4	gud[ox]	N	11	ABS	_	
+3	mu	mu	mu[year]	N	2	appos	_	
+4	1(asz)	1(asz)	NU	NU	3	nummod	_	
+5	5(disz)	5(disz)	NU	NU	2	nummod	_	
+6	udu	udu	udu[sheep]	N	2	appos	_	
+7	1(disz)	1(disz)	NU	NU	2	nummod	_	
+8	u8	u8	u[ewe]	N	2	appos	_	
+9	1(disz)	1(disz)	NU	NU	2	nummod	_	
+10	sila4	sila4	sila[lamb]	N	2	appos	_	
+11	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	0	root	_	
+12	u4	u4	ud[day]	N	11	LOC	_	
+13	2(u)	2(u)	NU	NU	11	nummod	_	
+14	1(disz)-kam	1(disz)-kam	NU	NU	13	nummod	_	
+15	ki	ki	ki[place]	N	17	ABL	_	
+16	du-u2-du-ta	du-u2-du-ta	_	PN	17	nmod	_	
+17	{d}szul-gi-iri-mu	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	11	ABL	_	
+18	szu	szu	szu[hand][-e]	N	19	_	_	
+19	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	17	acl	_	
+20	iti	iti	iti[month]	N	11	_	_	
+21	u5-bi2-gu7	u5-bi2-gu7	Ubigu[1][-'a]	MN	20	_	_	
+22	mu	mu	mu[year]	N	21	_	_	
+23	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	29	ERG	_	
+24	lugal	lugal	lugal[king]	N	23	appos	_	
+25	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	24	GEN	_	
+26	bad3	bad3	bad[wall]	N	29	_	heuristic: before verbal head	
+27	mar-tu	mar-tu	Martu[1][-ø]	EN	28	nmod	_	
+28	mu-ri-iq-ti-id-ni-im	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	29	ABS	_	
+29	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	21	acl	_
+	
+

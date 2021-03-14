@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P107364.atf
+# tr.en: Basket-of-tablets barley threshed oxen fields and barley plowed distributed are here year following Szu-Suen king Amorite wall erected
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sze	sze	sze[barley]	N	4	ABS	_	
+3	gesz	gesz	gesz[tree]	N	4	_	_	
+4	e3-a	e3-a	e[leave]-a	V	1	acl	_	
+5	GAN2-gu4	GAN2-gu4	GANAgud[1][-ak]	N	4	appos	_	
+6	u3	u3	u[and]	CNJ	4	appos	_	
+7	sze	sze	sze[barley]	N	8	ABS	_	
+8	apin-la2-da	apin-la2-da	_	N	4	appos	_	
+9	ba-a	ba-a	ba[allot]-a	PN	4	_	_	
+10	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	4	_	_	
+11	mu	mu	mu[year]	N	4	_	_	
+12	us2-sa	us2-sa	us[follow]-a	V	11	acl	_	
+13	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	11	_	_	
+14	lugal-e	lugal-e	lugal[king]-e	N	13	appos	_	
+15	bad3	bad3	bad[wall]	N	17	_	heuristic: before verb	
+16	mar-tu	mar-tu	Martu[1][-ø]	EN	17	ABS	_	
+17	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	13	acl	_
+	
+

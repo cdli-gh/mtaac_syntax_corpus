@@ -1,0 +1,52 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416442.atf
+# tr.en: minas of copper weight of old sickles from Kuli mina of copper weight of old sickles from Lugina minas of copper weight of old sickles from -lu n shekels of copper weight of old sickles from -idim to warehouse brought year after Kima was destroyed
+1	1(u)	1(u)	NU	NU	4	nummod	_	
+2	2(disz)	2(disz)	NU	NU	1	nummod	_	
+3	1/3(disz)	1/3(disz)	NU	NU	1	nummod	_	
+4	ma-na	ma-na	mana[unit]	N	0	root	_	
+5	uruda	uruda	urud[copper][-ak]	N	4	GEN	_	
+6	ki-la2	ki-la2	kila[weight][-ø]	N	4	appos	_	
+7	{uruda}gur10	{uruda}gur10	_	N	6	GEN	_	
+8	sumun	sumun	sumun[old][-ø]	N	7	acl	_	
+9	1(gesz2)	1(gesz2)	NU	NU	4	nummod	_	
+10	5(u)	5(u)	NU	NU	9	nummod	_	
+11	4(disz)-kam	4(disz)-kam	NU	NU	9	nummod	_	
+12	ki	ki	ki[place]	N	13	ABL	_	
+13	ku-li-ta	ku-li-ta	_	PN	4	ABL	_	
+14	1/2(disz)	1/2(disz)	NU	NU	15	nummod	_	
+15	ma-na	ma-na	mana[unit]	N	13	_	_	
+16	uruda	uruda	urud[copper][-ak]	N	15	GEN	_	
+17	ki-la2	ki-la2	kila[weight][-ø]	N	15	appos	_	
+18	{uruda}gur10	{uruda}gur10	_	N	17	GEN	_	
+19	sumun	sumun	sumun[old][-ø]	N	18	acl	_	
+20	4(disz)-kam	4(disz)-kam	NU	NU	15	nummod	_	
+21	ki	ki	ki[place]	N	22	ABL	_	
+22	lu2-gi-na-ta	lu2-gi-na-ta	Lugina[1][-ak]-ta	PN	15	ABL	_	
+23	3(disz)	3(disz)	NU	NU	24	nummod	_	
+24	ma-na	ma-na	mana[unit]	N	13	_	_	
+25	uruda	uruda	urud[copper][-ak]	N	24	GEN	_	
+26	ki-la2	ki-la2	kila[weight][-ø]	N	24	appos	_	
+27	{uruda}gur10	{uruda}gur10	_	N	26	GEN	_	
+28	sumun	sumun	sumun[old][-ø]	N	27	acl	_	
+29	2(u)-kam	2(u)-kam	NU	NU	24	nummod	_	
+30	ki	ki	ki[place]	N	24	ABL	_	
+31	...-lu5-ta	...-lu5-ta	_	PN	13	_	_	
+32	n	n	_(_)[_]	NU	33	nummod	_	
+33	gin2	gin2	gig[unit]	N	13	_	_	
+34	uruda	uruda	urud[copper][-ak]	N	33	GEN	_	
+35	ki-la2	ki-la2	kila[weight][-ø]	N	33	appos	_	
+36	{uruda}gur10	{uruda}gur10	_	N	35	GEN	_	
+37	sumun	sumun	sumun[old][-ø]	N	36	acl	_	
+38	1(u)	1(u)	NU	NU	33	nummod	_	
+39	4(disz)-kam	4(disz)-kam	NU	NU	38	nummod	_	
+40	ki	ki	ki[place]	N	41	ABL	_	
+41	...-{d}idim-ta	...-{d}idim-ta	_	PN	33	ABL	_	
+42	e2-kiszib3-ba-sze3	e2-kiszib3-ba-sze3	ekiszibak[storeroom]-sze	TN	13	LOC	_	
+43	ba-an-kux(KWU147)	ba-an-kux(KWU147)	_	V	42	acl	_	
+44	mu	mu	mu[year]	N	47	_	_	
+45	us2-sa	us2-sa	us[follow]-a	V	44	LOC	_	
+46	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	44	_	_	
+47	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	13	parataxis	_
+	
+

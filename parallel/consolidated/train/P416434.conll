@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416434.atf
+# tr.en: sheep barley-fed of Szulgi- lamb of Szarru- male calf of a gazelle of Ibni-Szulgi the th day delivery for king Intaea accepted via Nr-Suen month Harvest year after Szu-Sin king Simanum destroyed small cattle gazelle
+1	4(disz)	4(disz)	NU	NU	2	nummod	_	
+2	udu	udu	udu[sheep]	N	0	root	_	
+3	niga	niga	niga[fattened][-ø]	V	2	acl	_	
+4	1(disz)	1(disz)	NU	NU	6	nummod	heuristic: NU premodifying	
+5	...	...	_[_]	PN	6	dep	heuristic: attach to head	
+6	{d}szul-gi-...	{d}szul-gi-...	_	PN	2	GEN	_	
+7	1(disz)	1(disz)	NU	NU	2	nummod	_	
+8	sila4	sila4	sila[lamb]	N	2	_	_	
+9	szar-ru-...	szar-ru-...	_	PN	8	GEN	_	
+10	1(disz)	1(disz)	NU	NU	11	nummod	heuristic: NU premodifying	
+11	amar	amar	amar[calf][-ak]	N	2	_	_	
+12	masz-da3	masz-da3	maszda[gazelle][-ø]	N	11	GEN	_	
+13	nita2	nita2	_	N	11	appos	projectivity violation	
+14	ib-ni-{d}szul-gi	ib-ni-{d}szul-gi	Ibniszulgir[1]	PN	12	GEN	_	
+15	u4	u4	ud[day]	N	2	_	_	
+16	2(u)	2(u)	NU	NU	15	nummod	_	
+17	8(disz)-kam	8(disz)-kam	NU	NU	16	nummod	_	
+18	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	15	appos	_	
+19	lugal	lugal	lugal[king]	N	18	DAT	_	
+20	in-ta-e3-a	in-ta-e3-a	Inta'e'a[1][-e]	PN	15	appos	_	
+21	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	15	acl	_	
+22	giri3	giri3	giri[foot]	N	23	via	_	
+23	nu-ur2-{d}suen	nu-ur2-{d}suen	_	PN	2	via	_	
+24	iti	iti	iti[month]	N	25	nmod	_	
+25	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	2	_	_	
+26	mu	mu	mu[year]	N	25	_	_	
+27	us2-sa	us2-sa	us[follow]-a	V	26	LOC	_	
+28	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	25	_	_	
+29	lugal-e	lugal-e	lugal[king]-e	N	28	appos	_	
+30	si-ma-num2{ki}	si-ma-num2{ki}	Simanum[1][-ø]	GN	31	ABS	_	
+31	mu-hul	mu-hul	mu[-n]-hulu[destroy][-ø]	V	28	acl	_	
+32	6(disz)	6(disz)	NU	NU	2	nummod	projectivity violation	
+33	udu	udu	udu[sheep]	N	35	acl	_	
+34	1(disz)	1(disz)	NU	NU	35	nummod	heuristic: NU premodifying	
+35	masz-da3	maszda[gazelle][-ø]	N	N	25	appos	_
+	
+

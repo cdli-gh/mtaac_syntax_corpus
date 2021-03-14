@@ -1,0 +1,34 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gur of barley in royal measure with Lu-Inanna-ka the wages of day-laborers Abi-ati received Month kisiki-Ninazu gur of barley in royal measure with Lu-Inanna-ka the wages of day-laborers Abi-ati received Abi-ati son of
+# train/P413901.atf
+1	4(asz)	4(asz)	NU	NU	3	nummod	_	
+2	sze	sze	sze[barley]	N	3	GEN	_	
+3	gur	gur	gur[unit]	N	0	root	_	
+4	lugal	lugal	lugal[king]	N	3	appos	_	
+5	ki	ki	ki[place]	N	3	_	_	
+6	lu2-{d}inanna-ka	lu2-{d}inanna-ka	_	PN	3	COM	_	
+7	a2	a2	a[time]	N	9	nmod	_	
+8	lu2	lu2	lu[person]	N	9	_	_	
+9	hun-ga2	hun-ga2	hug[hire]-a	V	3	appos	_	
+10	a-bi2-a-ti	a-bi2-a-ti	_	PN	14	_	_	
+11	szu	szu	szu[hand][-e]	N	14	_	_	
+12	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	14	acl	_	
+13	iti	iti	iti[month]	N	14	_	_	
+14	ki-siki-{d}nin-a-zu	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	9	appos	_	
+15	4(asz)	4(asz)	NU	NU	3	nummod	_	
+16	sze	sze	sze[barley]	N	17	GEN	_	
+17	gur	gur	gur[unit]	N	3	_	_	
+18	lugal	lugal	lugal[king]	N	17	appos	_	
+19	ki	ki	ki[place]	N	20	_	_	
+20	lu2-{d}inanna-ka	lu2-{d}inanna-ka	_	PN	3	COM	_	
+21	a2	a2	a[time]	N	23	nmod	_	
+22	lu2	lu2	lu[person]	N	23	_	_	
+23	hun-ga2	hun-ga2	hug[hire]-a	V	20	appos	_	
+24	a-bi2-a-ti	a-bi2-a-ti	_	PN	28	acl	_	
+25	szu	szu	szu[hand][-e]	N	28	_	_	
+26	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	28	acl	_	
+27	a-bi2-a-ti	a-bi2-a-ti	_	PN	28	acl	_	
+28	dumu	dumu	dumu[child]	N	23	appos	_	
+29	x-x-x	_[1]	PN	PN	20	dep	_
+	
+

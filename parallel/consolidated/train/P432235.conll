@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432235.atf
+# tr.en: To Guardian Angel of Tarsirsira temple mother Baba his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad Hala-Lamma daughter of Lu-girizal the governor of Laga
+1	{d}lamma	{d}lamma	_	N	2	LOC	_	
+2	tar-sir2-sir2-ra	tar-sir2-sir2-ra	_	V	0	root	_	
+3	ama	ama	_	N	4	nmod	_	
+4	{d}ba-ba6	{d}ba-ba6	_	DN	2	_	_	
+5	nin-a-ni	nin-a-ni	nin[lady]-ani[-ra]	PN	4	appos	_	
+6	nam-ti	nam-ti	namtil[life]	PN	4	DAT	_	
+7	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	6	GEN	_	
+8	nita	nita	nita[male]	N	9	nmod	_	
+9	kal-ga	kal-ga	kalag[strong]-a	V	4	appos	_	
+10	lugal	lugal	lugal[king]	N	4	appos	_	
+11	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	10	GEN	_	
+12	lugal	lugal	lugal[king]	N	10	appos	_	
+13	ki-en-<gi>	ki-en-gi	ki'engi[1]	GN	12	GEN	_	
+14	ki-uri-ka-sze3	ki-uri-ka-sze3	_	GN	10	appos	projectivity violation	
+15	ha-la-{d}lamma	ha-la-{d}lamma	_	PN	13	appos	_	
+16	dumu	dumu	dumu[child]	N	13	appos	_	
+17	lu2-giri17-zal	lu2-giri17-zal	Lugirizal[1][-ra]	PN	16	GEN	_	
+18	ensi2	ensi2	ensik[ruler]	N	4	_	_	
+19	lagasz{ki}-ka-ke4	_[of.Laga]	SN	SN.GEN.GEN.ERG	18	GEN	_
+	
+

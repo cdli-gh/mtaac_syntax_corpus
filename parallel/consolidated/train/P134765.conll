@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P134765.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gu4	gu4	gud[ox]	N	1	_	_	
+3	udu	udu	udu[sheep]	N	1	_	heuristic: attach to head	
+4	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	1	_	heuristic: attach to head	
+5	zi-ga	zi-ga	zig[expend]-a	V	4	_	heuristic: attach to last	
+6	sipa	sipa	sipa[shepherd]	N	5	_	heuristic: attach to last	
+7	unu3-e-ne	unu3-e-ne	_	PN	6	_	heuristic: attach to last	
+8	kiszib3	kiszib3	kiszib[seal]	N	7	_	heuristic: attach to last	
+9	na-ra-am-i3-li2	na-ra-am-i3-li2	Naramili[1]	PN	8	_	heuristic: attach to last	
+10	mu	mu	mu[year]	N	9	_	heuristic: attach to last	
+11	a-ra2	a-ra2	ara[times]	N	20	_	heuristic: attach to head	
+12	2(disz)-kam-asz	2(disz)-kam-asz	NU	NU	20	nummod	heuristic: NU premodifying	
+13	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	20	nmod	_	
+14	ba-hul-ta	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	20	_	heuristic: attach to head	
+15	mu	mu	mu[year]	N	20	_	heuristic: attach to head	
+16	us2-sa	us2-sa	us[follow]-a	V	20	_	heuristic: attach to head	
+17	bad3	bad3	bad[wall]	N	20	_	heuristic: attach to head	
+18	ma-da	ma-da	mada[land][-ak][-ø]	N	20	_	heuristic: attach to head	
+19	ba-du3-sze3	ba-du3-sze3	_	V	20	nmod	_	
+20	mu	mu	mu[year]	N	1	_	_	
+21	1(u)	1(u)	NU	NU	1	nummod	_	
+22	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	21	nummod	_
+	
+

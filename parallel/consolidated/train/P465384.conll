@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: of Dawa- governor of Zaul governor of Hunuri -mat governor of -laka -a military governor of -al Sabum
+# train/P465384.atf new_text=P465384
+# train/P465384.atf						#new_text=P465384
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	_	
+2	x	_[_]	N	N	0	dep	_	
+3	...	_[_]	PN	N	0	dep	_	
+

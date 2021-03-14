@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: To Baba his mistress for life of Ibbi-Sin Aman-il the wife of Ir-Nanna the governor of Laga dedicated to him
+# train/P432312.atf
+1	{d}ba-ba6	{d}ba-ba6	_	DN	0	root	_	
+2	nin-a-ni-ir	nin-a-ni-ir	_	PN	1	ABS	_	
+3	nam-ti	nam-ti	namtil[life]	PN	1	DAT	_	
+4	{d}i-bi2-{d}suen-ka!-sze3!	{d}i-bi2-{d}suen-ka-sze3	_	DN	3	GEN	_	
+5	e2-ma-an-i3-li2	e2-ma-an-i3-li2	_	PN	4	_	_	
+6	dam	dam	dam[spouse]	N	4	appos	_	
+7	ARAD2-{d}nanna	ARAD2-{d}nanna	Aradnanna[1]	PN	6	GEN	_	
+8	ensi2	ensi2	ensik[ruler]	N	4	appos	_	
+9	lagasz{ki}-ka!-ke4!	lagasz{ki}-ka-ke4	_	SN	8	GEN	_	
+10	a	a	a[water][-ø]	N	11	_	heuristic: before verb	
+11	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	4	acl	_
+	
+

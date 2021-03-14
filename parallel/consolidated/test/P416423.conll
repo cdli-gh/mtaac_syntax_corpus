@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: suckling lambs suckling ewe lamb newborns th day Szulgi-ayamu accepted month Festival of Szulgi year King Amar-Sin Urbilum destroyed
+# test/P416423.atf
+1	3(disz)	3(disz)	NU	NU	2	nummod	_	
+2	sila4	sila4	sila[lamb]	N	0	root	_	
+3	ga	ga	ga[milk]	N	2	appos	_	
+4	1(disz)	1(disz)	NU	NU	2	nummod	_	
+5	kir11	kir11	kir[female_lamb]	N	2	appos	_	
+6	ga	ga	ga[milk]	N	5	appos	_	
+7	u3-tu-da	u3-tu-da	_	PN	2	appos	_	
+8	u4	u4	ud[day]	N	2	_	_	
+9	1(u)	1(u)	NU	NU	2	nummod	_	
+10	1(disz)-kam	1(disz)-kam	NU	NU	9	nummod	_	
+11	{d}szul-gi-a-a-mu	{d}szul-gi-a-a-mu	Szulgirayamu[1][-e]	PN	2	_	_	
+12	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	11	acl	_	
+13	iti	iti	iti[month]	N	15	_	_	
+14	ezem-{d}szul-gi	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	15	_	_	
+15	mu	mu	mu[year]	N	2	_	_	
+16	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	18	nmod	_	
+17	lugal-e	lugal-e	lugal[king]-e	N	18	nmod	_	
+18	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	19	ABS	_	
+19	mu-hul	mu-hul	mu[-n]-hulu[destroy][-ø]	V	15	acl	_	
+20	4(disz)	4(disz)[one]	NU	NU	0	nummod	_
+	
+

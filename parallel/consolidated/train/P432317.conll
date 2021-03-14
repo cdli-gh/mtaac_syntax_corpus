@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432317.atf new_text=P432317
+# tr.en: king of Ur and king of four world quarters hisher beloved temple he built for himher
+# train/P432317.atf						#new_text=P432317
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	_	
+2	lugal	lugal[king]	N	N	0	root	_	
+3	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	2	GEN	_	
+4	'.	_	_	_	3	_	heuristic: attach to last	
+5	lugal	lugal[king]	N	N	3	appos	_	
+6	ki-en-gi	ki'engi[1]	GN	GN	3	nummod	_	
+7	ki-uri-ke4	_[and.world.quarters]	GN	GN.GEN.ERG	3	appos	_	
+8	'.	_	_	_	2	_	heuristic: after nominal head	
+9	e2-gal	egal[palace][-ak][-'a]	N	N	10	acl	_	
+10	ki-ag2-ga2-ni	_[beloved.temple]	N	NF.V.3-SG-H-POSS.ABS	2	appos	_	
+11	'.	_	_	_	10	_	heuristic: after nominal head	
+12	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	10	acl	_
+	
+

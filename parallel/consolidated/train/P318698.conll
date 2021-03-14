@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections chambers of head-plowmen troops porters house of Ninmar are here year
+# train/P318698.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	9	ABS	_	
+3	e2-tum	e2-tum	bitum[administrative_term]	PN	2	appos	_	
+4	sag-apin	sag-apin	_	N	5	acl	_	
+5	erin2	erin2	erin[people]	N	3	GEN	_	
+6	ug3-IL2	ug3-IL2	uggaga[porter]	N	2	appos	_	
+7	e2	e2	e[house]	N	2	appos	_	
+8	{d}nin-mar{ki}	{d}nin-mar{ki}	_	DN	7	GEN	_	
+9	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+10	mu	mu[year]	N	N	9	appos	_
+	
+

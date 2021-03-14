@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P388024.atf
+# tr.en: barig beer barig bread men of Simakum when to Simakum they went via Saaga royal messenger when sealed document of Grand-chancellor from city to city they carried booked out extra month Harvest year Ibbi-Suen is king Szu-Suen strong king king of Ur Saaga messenger son of I- your servant
+1	1(barig)	1(barig)	NU	NU	2	nummod	_	
+2	kasz	kasz	kasz[beer]	N	0	root	_	
+3	1(barig)	1(barig)	NU	NU	4	nummod	_	
+4	ninda	ninda	ninda[bread]	N	2	appos	_	
+5	lu2	lu2	lu[person]	N	2	_	_	
+6	si-masz-ku-um{ki}-me	si-masz-ku-um{ki}-me	_	SN	2	appos	_	
+7	u4	u4	ud[day]	N	9	_	_	
+8	si-masz-ku-um{ki}-sze3	si-masz-ku-um{ki}-sze3	_	SN	9	_	_	
+9	ba-e-re-sza-a	ba-e-re-sza-a	_	V	2	acl	_	
+10	giri3	giri3	giri[foot]	N	11	via	_	
+11	sa6-a-ga	sa6-a-ga	_	PN	9	via	_	
+12	lu2	lu2	lu[person]	N	13	_	_	
+13	kin-gi4-a	kin-gi4-a	kiggia[messenger]	N	9	ABS	_	
+14	lugal	lugal	lugal[king]	N	13	acl	_	
+15	<u4>	u4	ud[day]	N	21	_	_	
+16	kiszib3	kiszib3	kiszib[seal]	N	18	_	_	
+17	sukkal-mah	sukkal-mah	_	PN	18	_	heuristic: attach to head	
+18	iri{ki}-ta	iri{ki}-ta	_	N	21	ABS	_	
+19	iri{ki}-sze3	iri{ki}-sze3	_	N	20	ABL	_	
+20	mu-de6-sza-a	mu-de6-sza-a	_	V	18	ABL	_	
+21	zi-ga	zi-ga	zig[expend]-a	V	13	acl	_	
+22	iti	iti	iti[month]	N	24	_	_	
+23	diri	diri	diri[intercalary_month]	N	22	acl	_	
+24	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	27	_	_	
+25	mu	mu	mu[year]	N	27	_	_	
+26	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	27	ABS	_	
+27	lugal	lugal	lugal[king]	N	9	parataxis	_	
+28	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	9	_	_	
+29	lugal	lugal	lugal[king]	N	28	appos	_	
+30	kal-ga	kal-ga	kalag[strong]-a	V	29	acl	_	
+31	lugal	lugal	lugal[king]	N	28	appos	_	
+32	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	31	GEN	_	
+33	sa3-a-ga	sa3-a-ga	_	PN	28	_	_	
+34	lu2	lu2	lu[person]	N	33	_	_	
+35	kas4	kas4	kas[runner][-ra]	N	33	appos	_	
+36	dumu	dumu	dumu[child]	N	33	appos	_	
+37	i-...	i-...	_	PN	33	_	_	
+38	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	33	appos	_
+	
+

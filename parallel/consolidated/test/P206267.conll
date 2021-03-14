@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P206267.atf
+# tr.en: Basket-of-tablets accounts of Ur-Ningezida smith are here
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	5	ABS	_	
+3	ur-{d}nin-gesz-zi-da	ur-{d}nin-gesz-zi-da	_	PN	2	GEN	_	
+4	simug	simug	simug[smith][-ra]	N	3	appos	_	
+5	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

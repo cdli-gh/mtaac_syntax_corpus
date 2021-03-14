@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P112563.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	e2-kikken	e2-kikken	_	TN	6	nmod	_	
+4	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	6	nmod	_	
+5	mu	mu	mu[year]	N	6	_	_	
+6	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	1	appos	_
+	
+

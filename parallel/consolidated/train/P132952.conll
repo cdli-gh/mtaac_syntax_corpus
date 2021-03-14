@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P132952.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	dub	dub	dub[tablet]	N	1	_	_	
+3	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	17	_	heuristic: before verb	
+4	{uruda}gur10	{uruda}gur10	_	N	17	_	heuristic: before verb	
+5	{uruda}ha-bu3-da	{uruda}ha-bu3-da	habuda[hoe]	N	17	_	heuristic: before verb	
+6	ur-{d}nin-gesz-zi-da	ur-{d}nin-gesz-zi-da	_	PN	17	_	heuristic: before verb	
+7	na-ba-sa6	na-ba-sa6	Nabasa[1][-ak]	PN	17	nmod	_	
+8	u3	u3	u[and]	CNJ	17	_	heuristic: before verbal head	
+9	ur-szu-ga-lam-ma	ur-szu-ga-lam-ma	_	N	17	nmod	_	
+10	mu	mu	mu[year]	N	17	_	heuristic: before verbal head	
+11	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	17	_	heuristic: before verbal head	
+12	lugal	lugal	lugal[king]	N	17	_	heuristic: before verbal head	
+13	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	17	_	heuristic: before verbal head	
+14	bad3	bad3	bad[wall]	N	17	_	heuristic: before verbal head	
+15	mar-tu	mar-tu	Martu[1][-ø]	EN	17	_	heuristic: before verbal head	
+16	mu-ri-iq-ti-id-ni-im	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	17	_	heuristic: before verbal head	
+17	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	1	_	_
+	
+

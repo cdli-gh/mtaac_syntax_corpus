@@ -1,0 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P414545.atf
+# tr.en: plow-oxen mature cow from Dage the oxen are property of incantation priest of Szulgi Lugal-egal took to field of Ur-galama month Harvest year Ibbi-Suen is king plow-oxen mature cow from Dage the oxen are property of incantation priest of Szulgi Lugal-egal took to field of Ur-galama month Harvest year Ibbi-Suen is king Lugal-egal manager of Lugal-magure son of Sagazu
+1	9(disz)	9(disz)	NU	NU	2	nummod	_	
+2	gu4-gesz	gu4-gesz	gudgesz[draught_ox]	N	0	root	_	
+3	1(disz)	1(disz)	NU	NU	2	nummod	_	
+4	ab2-mah2	ab2-mah2	abmah[mature_cow]	N	2	appos	_	
+5	ki	ki	ki[place]	N	6	ABL	_	
+6	da-ge-ta	da-ge-ta	_	PN	2	ABL	_	
+7	gu4	gu4	gud[ox]	N	8	ABS	_	
+8	nig2-gur11	nig2-gur11	nigGA[property]	N	2	parataxis	_	
+9	iszib	iszib	iszib[priest]	N	8	GEN	_	
+10	{d}szul-gi-ra	{d}szul-gi-ra	Szulgir[1]-ak	DN	9	GEN	_	
+11	lugal-he2-gal2	lugal-he2-gal2	Lugalhegal[1]	PN	12	_	_	
+12	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	8	appos	_	
+13	a-sza3	a-sza3	aszag[field]	N	8	appos	_	
+14	ur-ga-la-ma{ki}-sze3	ur-ga-la-ma{ki}-sze3	_	SN	13	LOC	_	
+15	iti	iti	iti[month]	N	8	appos	_	
+16	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	17	nmod	_	
+17	mu	mu	mu[year]	N	19	date	_	
+18	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	19	ABS	_	
+19	lugal	lugal	lugal[king]	N	8	parataxis	_	
+20	9(disz)	9(disz)	NU	NU	21	nummod	_	
+21	gu4-gesz	gu4-gesz	gudgesz[draught_ox]	N	8	_	_	
+22	1(disz)	1(disz)	NU	NU	21	nummod	_	
+23	ab2-mah2	ab2-mah2	abmah[mature_cow]	N	21	appos	_	
+24	ki	ki	ki[place]	N	25	ABL	_	
+25	da-ge-ta	da-ge-ta	_	PN	21	ABL	_	
+26	gu4	gu4	gud[ox]	N	27	ABS	_	
+27	nig2-gur11	nig2-gur11	nigGA[property]	N	2	parataxis	_	
+28	iszib	iszib	iszib[priest]	N	27	GEN	_	
+29	{d}szul-gi-ra	{d}szul-gi-ra	Szulgir[1]-ak	DN	28	GEN	_	
+30	lugal-he2-gal2	lugal-he2-gal2	Lugalhegal[1]	PN	31	ABS	_	
+31	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	2	parataxis	_	
+32	a-sza3	a-sza3	aszag[field]	N	31	LOC	_	
+33	ur-ga-la-ma{ki}-sze3	ur-ga-la-ma{ki}-sze3	_	SN	32	LOC	_	
+34	iti	iti	iti[month]	N	36	nmod	_	
+35	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	34	_	_	
+36	mu	mu	mu[year]	N	31	_	_	
+37	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	38	ABS	_	
+38	lugal	lugal	lugal[king]	N	36	_	_	
+39	lugal-he2-gal2	lugal-he2-gal2	Lugalhegal[1]	PN	2	_	_	
+40	szabra	szabra	szabra[chief_administrator][-ak]	N	39	_	_	
+41	lugal-ma2-gur8-re	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	40	GEN	_	
+42	dumu	dumu	dumu[child]	N	40	appos	_	
+43	sa6-ga-zu	_[Sagazu]	PN	PN	42	GEN	_
+	
+

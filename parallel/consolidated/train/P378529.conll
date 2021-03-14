@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P378529.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sze	sze	sze[barley]	N	1	_	_	
+3	al-la	al-la	Alla[1]	PN	12	_	heuristic: before verb	
+4	u3	u3	u[and]	CNJ	12	_	heuristic: before verb	
+5	sze	sze	sze[barley]	N	12	_	heuristic: before verb	
+6	szakir{ki}	szakir{ki}	_	SN	12	_	heuristic: before verb	
+7	nin9-kal-la	nin9-kal-la	Ninkala[1]	PN	12	nmod	_	
+8	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	12	nmod	_	
+9	mu	mu	mu[year]	N	12	_	heuristic: before verbal head	
+10	us2-sa	us2-sa	us[follow]-a	V	12	_	heuristic: before verbal head	
+11	mu	mu	mu[year]	N	12	_	heuristic: before verbal head	
+12	us2-sa-a-bi	us[follow]-a-bi	V	NF.V.PT.3-SG-NH-POSS	1	_	_
+	
+

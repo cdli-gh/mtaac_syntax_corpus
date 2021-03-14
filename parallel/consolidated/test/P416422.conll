@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P416422.atf
+# tr.en: hybrid goat nann goats wild suckling lamb of a hybrid mouflon gazelles gazelle fawn slaughtered th day from Lu-dingira Ur-nigar received month Gazelle feast year after Kima and urti were destroyed
+1	1(disz)	1(disz)	NU	NU	3	nummod	projectivity violation	
+2	masz2	masz2	masz[goat]	N	5	nummod	_	
+3	a-dara4	a-dara4	_	N	0	root	_	
+4	4(disz)	4(disz)	NU	NU	3	nummod	_	
+5	ud5	ud5	uzud[goat]	N	3	appos	_	
+6	dara4	dara4	_	V	5	appos	_	
+7	1(disz)	1(disz)	NU	NU	8	nummod	_	
+8	sila4	sila4	sila[lamb]	N	0	_	detached for projectivity	
+9	ga	ga	ga[milk]	N	8	appos	_	
+10	a-udu	a-udu	_	N	11	nmod	_	
+11	hur-sag	hur-sag	_	N	8	GEN	_	
+12	3(disz)	3(disz)	NU	NU	8	nummod	_	
+13	masz-da3	masz-da3	maszda[gazelle][-ø]	N	8	appos	_	
+14	1(disz)	1(disz)	NU	NU	8	nummod	_	
+15	amar	amar	amar[calf][-ak]	N	8	_	heuristic: attach to head	
+16	masz-da3	masz-da3	maszda[gazelle][-ø]	N	8	appos	_	
+17	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	8	acl	_	
+18	u4	u4	ud[day]	N	8	appos	_	
+19	1(u)	1(u)	NU	NU	0	nummod	_	
+20	6(disz)-kam	6(disz)-kam	NU	NU	19	nummod	_	
+21	ki	ki	ki[place]	N	25	ABL	_	
+22	lu2-dingir-ra-ta	lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	25	_	heuristic: attach to head	
+23	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	25	_	heuristic: attach to head	
+24	szu	szu	szu[hand][-e]	N	25	_	heuristic: attach to head	
+25	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	18	acl	_	
+26	iti	iti	iti[month]	N	27	nmod	_	
+27	masz-da3-gu7	masz-da3-gu7	Maszdagu[1][-'a]	MN	8	_	_	
+28	mu	mu	mu[year]	N	27	_	_	
+29	us2-sa	us2-sa	us[follow]-a	V	28	LOC	_	
+30	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	27	_	_	
+31	u3	u3	u[and]	CNJ	33	nmod	_	
+32	hu-ur5-ti{ki}	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	33	nmod	_	
+33	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	27	parataxis	_
+	
+

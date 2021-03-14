@@ -1,0 +1,91 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P113918.atf
+# tr.en: bur ee iku field surface its barley gur barig the deficit gur barig field Dalbana bur ee iku field surface its barley gur the surplus gur field before E-amar bur ee iku field surface its barley gur barig ban the deficit gur barig ban field Village-bazi GAN its barley gur barig ban the surplus gur barig ban field Ab-illa total bur field surface total its barley barig ban deliveries total gur ban are deficit foreman Szu-Ea year
+1	5(bur3)	5(bur3)	NU	NU	4	nummod	_	
+2	1(esze3)	1(esze3)	NU	NU	1	nummod	_	
+3	3(iku)	3(iku)	NU	NU	1	nummod	_	
+4	GAN2	GAN2	gana[field]	N	0	root	_	
+5	sze-bi	sze-bi	sze[barley]-bi[-ø]	N	4	appos	_	
+6	4(u)	4(u)	NU	NU	9	nummod	_	
+7	8(asz)	8(asz)	NU	NU	6	nummod	_	
+8	2(barig)	2(barig)	NU	NU	9	nummod	_	
+9	gur	gur	gur[unit]	N	4	_	_	
+10	la2-ia3	la2-ia3	la'u[arrears]	N	11	nmod	_	
+11	1(gesz2)	1(gesz2)	NU	NU	9	nummod	_	
+12	1(asz)	1(asz)	NU	NU	15	nummod	_	
+13	3(barig)	3(barig)	NU	NU	12	nummod	_	
+14	sze	sze	sze[barley]	N	15	_	heuristic: attach to head	
+15	gur	gur	gur[unit]	N	11	_	_	
+16	a-sza3	a-sza3	aszag[field]	N	17	nmod	_	
+17	dal-ba-na	dal-ba-na	Dalbana[1]	FN	15	appos	_	
+18	2(bur3)	2(bur3)	NU	NU	21	nummod	_	
+19	1(esze3)	1(esze3)	NU	NU	18	nummod	_	
+20	3(iku)	3(iku)	NU	NU	18	nummod	_	
+21	GAN2	GAN2	gana[field]	N	15	_	_	
+22	sze-bi	sze-bi	sze[barley]-bi[-ø]	N	21	appos	_	
+23	5(u)	5(u)	NU	NU	25	nummod	_	
+24	6(asz)	6(asz)	NU	NU	23	nummod	_	
+25	gur	gur	gur[unit]	N	21	_	_	
+26	diri	diri	diri[intercalary_month]	N	25	appos	_	
+27	6(asz)	6(asz)	NU	NU	29	nummod	heuristic: NU premodifying	
+28	gur	gur	gur[unit]	N	29	nmod	_	
+29	a-sza3	a-sza3	aszag[field]	N	25	_	_	
+30	igi	igi	igi[eye][-ø]	N	31	LOC	_	
+31	e2-amar	e2-amar	_	N	29	LOC	_	
+32	3(bur3)	3(bur3)	NU	NU	35	nummod	_	
+33	1(esze3)	1(esze3)	NU	NU	32	nummod	_	
+34	3(iku)	3(iku)	NU	NU	32	nummod	_	
+35	GAN2	GAN2	gana[field]	N	29	_	_	
+36	sze-bi	sze-bi	sze[barley]-bi[-ø]	N	35	appos	_	
+37	1(gesz2)	1(gesz2)	NU	NU	41	nummod	_	
+38	8(asz)	8(asz)	NU	NU	37	nummod	_	
+39	1(barig)	1(barig)	NU	NU	37	nummod	_	
+40	2(ban2)	2(ban2)	NU	NU	41	nummod	_	
+41	gur	gur	gur[unit]	N	35	_	_	
+42	la2-ia3	la2-ia3	la'u[arrears]	N	41	appos	_	
+43	1(asz)	1(asz)	NU	NU	0	nummod	_	
+44	3(barig)	3(barig)	NU	NU	43	nummod	_	
+45	4(ban2)	4(ban2)	NU	NU	48	nummod	projectivity violation	
+46	gur	gur	gur[unit]	N	82	ABS	_	
+47	a-sza3	a-sza3	aszag[field]	N	48	nmod	_	
+48	e2-duru5-ba-zi	e2-duru5-ba-zi	_	FN	46	_	_	
+49	1(esze3)	1(esze3)	NU	NU	0	nummod	_	
+50	3(iku)	3(iku)	NU	NU	49	nummod	_	
+51	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+52	sze-bi	sze-bi	sze[barley]-bi[-ø]	N	51	_	_	
+53	1(u)	1(u)	NU	NU	57	nummod	_	
+54	4(asz)	4(asz)	NU	NU	53	nummod	_	
+55	1(barig)	1(barig)	NU	NU	53	nummod	_	
+56	2(ban2)	2(ban2)	NU	NU	57	nummod	_	
+57	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+58	diri	diri	diri[intercalary_month]	N	57	appos	_	
+59	4(asz)	4(asz)	NU	NU	64	nummod	_	
+60	1(barig)	1(barig)	NU	NU	59	nummod	_	
+61	2(ban2)	2(ban2)	NU	NU	64	nummod	_	
+62	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+63	a-sza3	a-sza3	aszag[field]	N	64	nmod	_	
+64	ab-il2-la	ab-il2-la	_	FN	62	_	_	
+65	szunigin	szunigin	szunigin[total]	N	0	_	detached for projectivity	
+66	1(bur'u)	1(bur'u)	NU	NU	68	nummod	_	
+67	2(bur3)	2(bur3)	NU	NU	66	nummod	_	
+68	GAN2	GAN2	gana[field]	N	65	_	_	
+69	szunigin	szunigin	szunigin[total]	N	68	appos	_	
+70	sze-bi	sze-bi	sze[barley]-bi[-ø]	N	71	nmod	_	
+71	3(gesz2)	3(gesz2)	NU	NU	68	nummod	_	
+72	6(asz)	6(asz)	NU	NU	74	nummod	_	
+73	4(barig)	4(barig)	NU	NU	72	nummod	_	
+74	4(ban2)	4(ban2)	NU	NU	68	nummod	_	
+75	gur	gur	gur[unit]	N	74	appos	_	
+76	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	74	appos	_	
+77	szunigin	szunigin	szunigin[total]	N	76	_	heuristic: attach to last	
+78	5(u)	5(u)	NU	NU	46	nummod	_	
+79	3(asz)	3(asz)	NU	NU	78	nummod	_	
+80	2(ban2)	2(ban2)	NU	NU	81	nummod	_	
+81	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+82	la2-ia3-am3	la2-ia3-am3	_	V	41	_	_	
+83	ugula	ugula	ugula[overseer][-ø]	N	82	_	_	
+84	szu-e2-a	szu-e2-a	Szuea[1]	PN	83	_	_	
+85	mu	mu	mu[year]	N	82	appos	_	
+86	...	_[_]	PN	N	82	dep	_
+	
+

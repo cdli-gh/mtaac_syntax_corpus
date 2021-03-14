@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx
+# train/P121775.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to last	
+3	dab-ba	dab-ba	dab[seize]-a	V	2	_	heuristic: attach to last	
+4	a2	a2	a[time]	N	3	_	heuristic: attach to last	
+5	erin2-na-ka	erin2-na-ka	erin[people]-ak-ak	N	4	_	heuristic: attach to last	
+6	i7-pa-e3	i7-pa-e3	Ipa'e[1][-ø]	PN	22	_	heuristic: before verb	
+7	u3	u3	u[and]	CNJ	22	_	heuristic: before verb	
+8	ur-{d}nin-su	ur-{d}nin-su	_	PN	22	_	heuristic: before verb	
+9	iti	iti	iti[month]	N	22	_	heuristic: before verb	
+10	1(u)	1(u)	NU	NU	0	nummod	_	
+11	2(disz)-kam	2(disz)-kam	NU	NU	10	nummod	_	
+12	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	22	_	heuristic: before verb	
+13	iti	iti	iti[month]	N	22	nmod	_	
+14	sze-sag11-ku5-ta	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	22	_	heuristic: before verbal head	
+15	iti	iti	iti[month]	N	22	_	heuristic: before verbal head	
+16	{d}dumu-zi-sze3	{d}dumu-zi-sze3	_	MN	22	nmod	_	
+17	mu	mu	mu[year]	N	22	_	heuristic: before verbal head	
+18	us2-sa	us2-sa	us[follow]-a	V	22	_	heuristic: before verbal head	
+19	bad3	bad3	bad[wall]	N	22	_	heuristic: before verbal head	
+20	mar-tu	mar-tu	Martu[1][-ø]	EN	22	_	heuristic: before verbal head	
+21	mu-ri-iq-ti-id-ni-im	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	22	_	heuristic: before verbal head	
+22	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	1	_	_
+	
+

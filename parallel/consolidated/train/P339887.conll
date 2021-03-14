@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets sealed documents of dab copper of and trade agents from Dadaga year are here year ari Kima were destroyed
+# train/P339887.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	12	ABS	_	
+3	dabx(U8)-ba	dabx(U8)-ba	dab[seize]-a	PN	2	GEN	_	
+4	uruda	uruda	urud[copper][-ak]	N	3	appos	_	
+5	nig2-sziti-ma	nig2-sziti-ma	_	N	4	GEN	_	
+6	u3	u3	u[and]	CNJ	3	appos	_	
+7	dam-gar3	dam-gar3	damgar[merchant][-ak]	N	3	appos	_	
+8	ki	ki	ki[place]	N	9	ABL	_	
+9	da-da-ga-ta	da-da-ga-ta	Dadaga[1][-ak]-ta	PN	2	ABL	_	
+10	mu	mu	mu[year]	N	9	appos	_	
+11	1(disz)-a-kam	1(disz)-a-kam	NU	NU	12	nummod	_	
+12	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+13	mu	mu	mu[year]	N	16	_	_	
+14	ha-ar-szi{ki}	ha-ar-szi{ki}	Harszi[1]	SN	16	_	_	
+15	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	16	ABS	_	
+16	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	12	parataxis	_
+	
+

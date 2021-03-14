@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P203171.atf
+# tr.en: Basket-of-tablets inspections of shepherds cowherds in Kinunir Kiea houses of gods in shrine of offerings of Szulgi in Kinunir are here year Urbilum was destroyed
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	15	ABS	_	
+3	sipa	sipa	sipa[shepherd]	N	2	GEN	_	
+4	unu3	unu3	_	GN	2	appos	_	
+5	sza3	sza3	szag[heart]	N	6	LOC	_	
+6	ki-nu-nir{ki}	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	4	LOC	_	
+7	ki-es3-sa2{ki}	ki-es3-sa2{ki}	_	GN	6	_	_	
+8	e2	e2	e[house]	N	6	_	_	
+9	dingir-re-ne	dingir-re-ne	_	PN	6	appos	_	
+10	sza3	sza3	szag[heart]	N	11	LOC	_	
+11	esz3	esz3	esz[shrine]	N	2	LOC	_	
+12	sa2-du11	sa2-du11	sadug[offerings]	N	11	GEN	_	
+13	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	12	GEN	_	
+14	ki-nu-nir{ki}	ki-nu-nir{ki}	Kinunir[1][-ak][-'a]	GN	13	LOC	_	
+15	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+16	mu	mu	mu[year]	N	18	_	_	
+17	ur-bi2-lum	ur-bi2-lum	_	GN	18	ABS	_	
+18	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	parataxis	_
+	
+

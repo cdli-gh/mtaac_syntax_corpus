@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P465387.atf						#new_text=P465387
+# tr.en: Ninkala a citizen of Nippur his beloved a statue of him she fashioned shoulder of Szulgi
+# train/P465387.atf new_text=P465387
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	_	_	
+2	nin9-kal-la	Ninkala[1]	PN	PN	0	root	_	
+3	'.	_	_	_	2	_	_	
+4	dumu	dumu[child]	N	N	2	_	heuristic: after nominal head	
+5	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	2	appos	_	
+6	'.	_	_	_	7	_	_	
+7	ki-ag2-ga2-ni	_[his.beloved]	N	NF.V.3-SG-H-POSS.ABS	2	appos	_	
+8	'.	_	_	_	7	_	heuristic: attach to last	
+9	alan-na-ni	_[a.statue.him]	N	N.3-SG-H-POSS.ABS	7	appos	_	
+10	'.	_	_	_	9	_	heuristic: attach to last	
+11	mu-dim2	_[she.fashioned]	V	VEN.3-SG-H-A.V.3-SG-P	9	acl	_	
+12	'.	_	_	_	2	_	_	
+13	murgu	_[shoulder]	N	N	2	appos	_	
+14	szul-gi	Szulgir[1]	RN	RN	13	GEN	_
+	
+

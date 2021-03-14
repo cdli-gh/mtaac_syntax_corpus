@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P382201.atf
+# tr.en: workmen for days its labor worker its labor of workmen free days days to reservoir of transversal canal the area between outlets to explore sent back out of Kuli booked year after
+1	1(u)	1(u)	NU	NU	0	nummod	_	
+2	4(disz)	4(disz)	NU	NU	1	nummod	_	
+3	gurusz	gurusz	gurusz[male]	N	0	root	_	
+4	u4	u4	ud[day]	N	3	DAT	_	
+5	1(u)	1(u)	NU	NU	0	nummod	_	
+6	5(disz)-sze3	5(disz)-sze3	NU	NU	5	nummod	_	
+7	a2-bi	a2-bi	a[labor]-bi	N	4	_	_	
+8	3(gesz2)	3(gesz2)	NU	NU	7	nummod	_	
+9	3(u)	3(u)	NU	NU	8	nummod	_	
+10	gurusz	gurusz	gurusz[male]	N	7	_	_	
+11	a2	a2	a[time]	N	7	_	_	
+12	gurusz	gurusz	gurusz[male]	N	11	_	heuristic: attach to last	
+13	u4-du8-a-bi	u4-du8-a-bi	_	N	11	appos	_	
+14	2(u)	2(u)	NU	NU	0	nummod	_	
+15	1(disz)	1(disz)	NU	NU	14	nummod	_	
+16	u4	u4	ud[day]	N	11	appos	_	
+17	1(disz)-sze3	1(disz)-sze3	NU	NU	18	nummod	heuristic: NU premodifying	
+18	kun-zi-da	kun-zi-da	kunzida[weir]	N	7	LOC	_	
+19	i7	i7	id[river]	N	18	_	heuristic: attach to head	
+20	pa2-ri2-ik-tum-ma	pa2-ri2-ik-tum-ma	_	WN	18	GEN	_	
+21	a-sza3	a-sza3	aszag[field]	N	22	nmod	_	
+22	dal-ba-na	dal-ba-na	Dalbana[1]	FN	20	_	_	
+23	kun	kun	_	WN	22	_	heuristic: attach to head	
+24	zu-de3	zu-de3	_	V	22	acl	_	
+25	ba-gi4	ba-gi4	_	PN	22	LOC	_	
+26	ki	ki	ki[place]	N	27	_	heuristic: attach to head	
+27	ku-li-ta	ku-li-ta	_	PN	0	_	_	
+28	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	0	_	_	
+29	...	...	_[_]	PN	28	dep	heuristic: attach to head	
+30	mu	mu	mu[year]	N	28	appos	_	
+31	us2-sa	us2-sa	us[follow]-a	V	30	LOC	_	
+32	...	...	_[_]	PN	31	dep	heuristic: attach to last	
+33	x	x	_[_]	N	32	dep	heuristic: attach to last	
+34	ti	ti	_	N	33	_	heuristic: attach to last	
+35	...	_[_]	PN	N	3	dep	_
+	
+

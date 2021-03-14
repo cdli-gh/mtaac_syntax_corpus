@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szu-Sin chosen by nsme by An beloved of Enlil the king by Enlil chosen by his sacred heart for shepherdship of country and of four quarters of world strong king king of Ur and king of four quarters of world his god Itura governor of Enunna his servant his temple he built for him
+# train/P432285.atf
+1	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	0	root	_	
+2	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
+3	pa3-da	pa3-da	Pada[1]	PN	1	acl	_	
+4	an-na	an-na	An[1][-ak][-ak][sze]	PN	3	ERG	_	
+5	ki-ag2	ki-ag2	ki'ag[love][-ø]	V	4	acl	_	
+6	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	5	GEN	_	
+7	lugal	lugal	lugal[king]	N	4	appos	_	
+8	{d}en-lil2-le	{d}en-lil2-le	_	DN	7	appos	_	
+9	sza3	sza3	szag[heart]	N	7	_	heuristic: attach to head	
+10	ku3-ge	ku3-ge	_	V	7	acl	_	
+11	pa3-da	pa3-da	Pada[1]	PN	10	ERG	_	
+12	nam-sipa	nam-sipa	_	N	10	DAT	_	
+13	kalam-ma	kalam-ma	_	N	12	GEN	_	
+14	u3	u3	u[and]	CNJ	12	appos	_	
+15	an	an	An[1][-ra]	N	17	nummod	_	
+16	ub-da	ub-da	_	N	17	_	_	
+17	limmu2-ba-sze3	limmu2-ba-sze3	_	PN	12	appos	_	
+18	lugal	lugal	lugal[king]	N	17	appos	_	
+19	kal-ga	kal-ga	kalag[strong]-a	V	18	acl	_	
+20	lugal	lugal	lugal[king]	N	17	appos	_	
+21	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	20	GEN	_	
+22	lugal	lugal	lugal[king]	N	20	appos	_	
+23	an	an	An[1][-ra]	N	25	nummod	projectivity violation	
+24	ub-da	ub-da	_	N	20	appos	projectivity violation	
+25	limmu2-ba	limmu2-ba	limmu[four]-bi-ak[-ø]	V	22	GEN	_	
+26	dingir-ra-ni-ir	dingir-ra-ni-ir	_	PN	17	appos	_	
+27	i-tu-ri-a	i-tu-ri-a	_	PN	26	_	_	
+28	ensi2	ensi2	ensik[ruler]	N	26	appos	_	
+29	asz2-nun-na{ki}-ka	asz2-nun-na{ki}-ka	_	GN	28	GEN	_	
+30	ARAD2-da-ni-e	ARAD2-da-ni-e	_	PN	17	appos	_	
+31	e2-a-ni	e2-a-ni	_	TN	17	appos	_	
+32	mu-na-an-du3	_[he.built.for.him]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	31	acl	_
+	
+

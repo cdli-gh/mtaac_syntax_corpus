@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: long-fleeced sheep Lugal-magure Uta-miaram responsible official bear cubs for Euzga house Ayakala responsible official ox Szimakian sheep for Ur-Ningubalag cantor from deliveries the th day from Abbasaga month Grand Festival year en-priest of Inanna was hired
+# train/P416447.atf
+1	5(disz)	5(disz)	NU	NU	0	nummod	_	
+2	udu	udu	udu[sheep]	N	4	nmod	_	
+3	a-lum	a-lum	aslum[sheep_type]	N	4	acl	_	
+4	lugal-ma2-gur8-re	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	0	root	_	
+5	u2-ta2-mi-szar-ra-am	u2-ta2-mi-szar-ra-am	Utamiszaram[1][-ak]	PN	4	appos	_	
+6	maszkim	maszkim	maszkim[administrator]	N	4	appos	_	
+7	2(disz)	2(disz)	NU	NU	9	nummod	heuristic: NU premodifying	
+8	amar	amar	amar[calf][-ak]	N	9	_	heuristic: attach to head	
+9	az	az	_	N	4	_	_	
+10	e2-uz-ga	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	9	DAT	_	
+11	a-a-kal-la	a-a-kal-la	Ayakala[1]	PN	9	appos	_	
+12	maszkim	maszkim	maszkim[administrator]	N	9	appos	_	
+13	1(disz)	1(disz)	NU	NU	14	nummod	_	
+14	gu4	gu4	gud[ox]	N	9	appos	_	
+15	1(u)	1(u)	NU	NU	16	nummod	heuristic: NU premodifying	
+16	udu	udu	udu[sheep]	N	14	appos	_	
+17	szimaszgi	szimaszgi	szimaszigi[sheep_designation][-ø]	N	16	acl	_	
+18	ur-{d}nin-gubalag	ur-{d}nin-gubalag	_	PN	14	DAT	_	
+19	nar	nar	_	N	14	appos	_	
+20	sza3	sza3	szag[heart]	N	21	_	_	
+21	mu-kux(DU)-ra-ta	mu-kux(DU)-ra-ta	_	N	14	ABL	_	
+22	u4	u4	ud[day]	N	21	appos	_	
+23	1(u)	1(u)	NU	NU	21	nummod	_	
+24	la2	la2	la[hang][-ø]	V	23	_	_	
+25	1(disz@t)-kam	1(disz)-kam	NU	NU	24	nummod	_	
+26	ki	ki	ki[place]	N	27	ABL	_	
+27	ab-ba-sa6-ga-ta	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	21	ABL	_	
+28	iti	iti	iti[month]	N	29	nmod	_	
+29	ezem-mah	ezem-mah	Ezemmah[1][-'a]	MN	9	appos	_	
+30	mu	mu	mu[year]	N	29	_	_	
+31	en	en	en[priest]	N	34	ABS	projectivity violation	
+32	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	31	GEN	_	
+33	ba-hun	ba-hun	ba-hug[hire][-ø]	V	34	_	_	
+34	1(u)	1(u)	NU	NU	29	nummod	projectivity violation	
+35	8(disz)	8(disz)[one]	NU	NU	32	nummod	_
+	
+

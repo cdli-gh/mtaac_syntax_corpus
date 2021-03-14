@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P134738.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	szabra	szabra	szabra[chief_administrator][-ak]	N	1	_	heuristic: attach to head	
+3	ib2-dab5	ib2-dab5	_	V	1	_	_	
+4	zi-ga	zi-ga	zig[expend]-a	V	1	_	heuristic: attach to head	
+5	lugal	lugal	lugal[king]	N	1	_	heuristic: attach to head	
+6	kuruszda-e	kuruszda-e	_	N	1	_	heuristic: attach to head	
+7	ib2-dab5	ib2-dab5	_	V	1	_	heuristic: attach to head	
+8	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+9	{kusz}du10-gan-na	{kusz}du10-gan-na	duggan[leather_bag]-ak[-'a]	N	1	_	heuristic: attach to head	
+10	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+11	lugal-iti-da	lugal-iti-da	Lugalitida[1]	PN	1	_	heuristic: attach to head	
+12	ki	ki	ki[place]	N	1	_	heuristic: attach to head	
+13	ab-ba-sa6-ga-ta	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	1	_	heuristic: attach to head	
+14	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	1	_	heuristic: attach to head	
+15	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+16	masz-da3-gu7-ta	masz-da3-gu7-ta	Maszdagu[1]-ta	MN	1	_	heuristic: attach to head	
+17	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+18	sze-sag11-ku5-sze3	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	23	nmod	_	
+19	iti	iti	iti[month]	N	23	nmod	_	
+20	1(u)	1(u)	NU	NU	0	nummod	_	
+21	2(disz)-kam	2(disz)-kam	NU	NU	20	nummod	_	
+22	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+23	hu-uh2-<nu>-ri{ki}	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	1	_	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

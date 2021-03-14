@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P111714.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	...-sze3	...-sze3	_	PN	34	_	heuristic: before verb	
+4	dumu	dumu	dumu[child]	N	34	_	heuristic: before verb	
+5	lugal-gaba	lugal-gaba	Lugalgaba[1]	PN	34	_	_	
+6	sza3	sza3	szag[heart]	N	34	_	heuristic: before verbal head	
+7	nigin6{ki}	nigin6{ki}	_	SN	34	_	_	
+8	e2-usz-bar	e2-usz-bar	_	N	34	_	heuristic: before verbal head	
+9	{d}lamma-{d}szu-{d}suen	{d}lamma-{d}szu-{d}suen	_	DN	34	_	_	
+10	iti	iti	iti[month]	N	34	_	heuristic: before verbal head	
+11	GAN2-masz	GAN2-masz	GANmasz[1][-'a]	MN	34	_	_	
+12	mu	mu	mu[year]	N	34	_	heuristic: before verbal head	
+13	us2-sa	us2-sa	us[follow]-a	V	34	_	heuristic: before verbal head	
+14	bad3	bad3	bad[wall]	N	34	_	heuristic: before verbal head	
+15	mar-tu	mar-tu	Martu[1][-ø]	EN	34	_	heuristic: before verbal head	
+16	ba-du3-ta	ba-du3-ta	ba-du[build][-ø]-ta	V	34	_	_	
+17	iti	iti	iti[month]	N	34	_	heuristic: before verbal head	
+18	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	34	_	_	
+19	u4	u4	ud[day]	N	34	_	heuristic: before verbal head	
+20	2(u)	2(u)	NU	NU	0	nummod	_	
+21	6(disz)-kam	6(disz)-kam	NU	NU	20	nummod	_	
+22	mu	mu	mu[year]	N	34	_	heuristic: before verbal head	
+23	e2	e2	e[house]	N	34	_	heuristic: before verbal head	
+24	{d}szara2	{d}szara2	Szara[1][-ak]	DN	34	_	heuristic: before verbal head	
+25	ba-du3-sze3	ba-du3-sze3	_	V	34	_	_	
+26	iti	iti	iti[month]	N	34	nmod	_	
+27	5(u)	5(u)	NU	NU	0	nummod	_	
+28	9(disz)-kam	9(disz)-kam	NU	NU	27	nummod	_	
+29	iti	iti	iti[month]	N	34	_	heuristic: before verbal head	
+30	diri	diri	diri[intercalary_month]	N	34	_	heuristic: before verbal head	
+31	1(disz)-am3	1(disz)-am3	NU	NU	34	nummod	heuristic: NU premodifying	
+32	sza3-ba	sza3-ba	szag[heart]-bi-'a	N	34	_	heuristic: before verbal head	
+33	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	34	nmod	_	
+34	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

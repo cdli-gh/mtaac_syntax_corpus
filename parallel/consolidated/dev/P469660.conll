@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: female kid grain-fed fine second sheep nanny lambs from Szu-Mama did Szulgi-irimu receive month Piglet-feast year unuri was destroyed
+# dev/P469660.atf
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	{munus}asz2-gar3	{munus}asz2-gar3	aszgar[female_kid]	PN	0	root	_	
+3	niga	niga	niga[fattened][-ø]	V	2	acl	_	
+4	saga	saga	saga[good][-ø]	V	3	appos	_	
+5	us2	us2	us[follow][-ø]	V	3	appos	_	
+6	2(disz)	2(disz)	NU	NU	0	nummod	_	
+7	udu	udu	udu[sheep]	N	0	root	_	
+8	1(disz)	1(disz)	NU	NU	0	nummod	_	
+9	ud5	ud5	uzud[goat]	N	0	root	_	
+10	4(disz)	4(disz)	NU	NU	0	nummod	_	
+11	sila4	sila4	sila[lamb]	N	0	root	_	
+12	ki	ki	ki[place]	N	11	ABL	_	
+13	szu-ma-ma-ta	szu-ma-ma-ta	_	PN	0	root	_	
+14	{d}szul-gi-iri-mu	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	0	root	_	
+15	szu	szu	szu[hand][-e]	N	0	_	_	
+16	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	0	root	_	
+17	iti	iti	iti[month]	N	0	root	_	
+18	ses-da-gu7	ses-da-gu7	Sesdagu[1][-'a]	MN	17	_	_	
+19	mu	mu	mu[year]	N	22	_	_	
+20	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	22	ABS	_	
+21	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	22	_	_	
+22	8(disz)	8(disz)[one]	NU	NU	0	nummod	_
+	
+

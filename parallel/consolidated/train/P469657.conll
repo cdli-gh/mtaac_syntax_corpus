@@ -1,0 +1,87 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sila beer sila bread shekels oil shekels alkali-plant bundel onions Szu-Mama kausa sila beer sila bread shekels oil shekels alkali-plant bundel onions Habad gaba-ta sila beer sila bread shekels oil shekels alkali-plant bundel onions Kurbilak kausa total ban less sila beer total sila bread total ban less sila beer total shekels alkali-plant total bundles onions th day month Harvest year after Martu-Wall was erected
+# train/P469657.atf
+1	3(disz)	3(disz)	NU	NU	2	nummod	_	
+2	sila3	sila3	sila[unit]	N	3	nmod	_	
+3	kasz	kasz	kasz[beer]	N	0	_	_	
+4	2(disz)	2(disz)	NU	NU	9	nummod	projectivity violation	
+5	sila3	sila3	sila[unit]	N	2	appos	_	
+6	ninda	ninda	ninda[bread]	N	2	appos	_	
+7	2(disz)	2(disz)	NU	NU	2	nummod	_	
+8	gin2	gin2	gig[unit]	N	9	nmod	_	
+9	i3	i3	i[oil]	N	2	appos	_	
+10	2(disz)	2(disz)	NU	NU	15	nummod	projectivity violation	
+11	gin2	gin2	gig[unit]	N	12	nmod	_	
+12	naga	naga	naga[potash]	N	2	acl	_	
+13	1(disz)	1(disz)	NU	NU	2	nummod	_	
+14	sa	sa	sa[bundle]	N	15	nmod	_	
+15	szum2	szum2	szum[garlic]	N	2	appos	_	
+16	szu-ma-ma	szu-ma-ma	Szumama[1][-e]	PN	2	_	_	
+17	ka-us2-sa2	ka-us2-sa2	ka'usa[profession_type]	N	16	appos	_	
+18	3(disz)	3(disz)	NU	NU	20	nummod	_	
+19	sila3	sila3	sila[unit]	N	20	nmod	_	
+20	kasz	kasz	kasz[beer]	N	16	_	_	
+21	2(disz)	2(disz)	NU	NU	26	nummod	projectivity violation	
+22	sila3	sila3	sila[unit]	N	23	nmod	_	
+23	ninda	ninda	ninda[bread]	N	20	appos	_	
+24	2(disz)	2(disz)	NU	NU	20	nummod	_	
+25	gin2	gin2	gig[unit]	N	26	nmod	_	
+26	i3	i3	i[oil]	N	20	appos	_	
+27	2(disz)	2(disz)	NU	NU	32	nummod	projectivity violation	
+28	gin2	gin2	gig[unit]	N	29	nmod	_	
+29	naga	naga	naga[potash]	N	20	acl	_	
+30	1(disz)	1(disz)	NU	NU	16	nummod	projectivity violation	
+31	sa	sa	sa[bundle]	N	32	nmod	_	
+32	szum2	szum2	szum[garlic]	N	20	appos	_	
+33	ha-ba-ad	ha-ba-ad	_	PN	16	_	_	
+34	gaba-ta	gaba-ta	gaba[frontier]-ta	N	33	appos	_	
+35	3(disz)	3(disz)	NU	NU	37	nummod	_	
+36	sila3	sila3	sila[unit]	N	37	nmod	_	
+37	kasz	kasz	kasz[beer]	N	16	_	_	
+38	2(disz)	2(disz)	NU	NU	43	nummod	projectivity violation	
+39	sila3	sila3	sila[unit]	N	40	nmod	_	
+40	ninda	ninda	ninda[bread]	N	37	appos	_	
+41	2(disz)	2(disz)	NU	NU	37	nummod	_	
+42	gin2	gin2	gig[unit]	N	43	nmod	_	
+43	i3	i3	i[oil]	N	37	appos	_	
+44	2(disz)	2(disz)	NU	NU	49	nummod	projectivity violation	
+45	gin2	gin2	gig[unit]	N	46	nmod	_	
+46	naga	naga	naga[potash]	N	37	acl	_	
+47	1(disz)	1(disz)	NU	NU	16	nummod	projectivity violation	
+48	sa	sa	sa[bundle]	N	49	nmod	_	
+49	szum2	szum2	szum[garlic]	N	37	appos	_	
+50	kur-bi-la-ak	kur-bi-la-ak	Kurbilak[1][-ra]	PN	16	_	_	
+51	ka-us2-sa2	ka-us2-sa2	ka'usa[profession_type]	N	50	appos	_	
+52	szunigin	szunigin	szunigin[total]	N	2	_	_	
+53	1(ban2)	1(ban2)	NU	NU	52	nummod	_	
+54	la2	la2	la[hang][-ø]	V	0	_	detached for projectivity	
+55	1(disz)	1(disz)	NU	NU	61	nummod	_	
+56	sila3	sila3	sila[unit]	N	57	nmod	_	
+57	kasz	kasz	kasz[beer]	N	0	_	detached for projectivity	
+58	szunigin	szunigin	szunigin[total]	N	57	appos	_	
+59	6(disz)	6(disz)	NU	NU	61	nummod	heuristic: NU premodifying	
+60	sila3	sila3	sila[unit]	N	61	nmod	_	
+61	ninda	ninda	ninda[bread]	N	57	_	_	
+62	szunigin	szunigin	szunigin[total]	N	61	appos	_	
+63	6(disz)	6(disz)	NU	NU	61	nummod	_	
+64	gin2	gin2	gig[unit]	N	63	_	heuristic: attach to head	
+65	i3	i3	i[oil]	N	63	_	heuristic: attach to head	
+66	szunigin	szunigin	szunigin[total]	N	63	appos	_	
+67	6(disz)	6(disz)	NU	NU	69	nummod	heuristic: NU premodifying	
+68	gin2	gin2	gig[unit]	N	69	nmod	_	
+69	naga	naga	naga[potash]	N	63	_	_	
+70	szunigin	szunigin	szunigin[total]	N	69	_	_	
+71	3(disz)	3(disz)	NU	NU	69	nummod	_	
+72	sa	sa	sa[bundle]	N	73	nmod	_	
+73	szum2	szum2	szum[garlic]	N	69	_	_	
+74	u4	u4	ud[day]	N	69	_	_	
+75	2(u)-kam	2(u)-kam	NU	NU	74	nummod	_	
+76	iti	iti	iti[month]	N	74	appos	_	
+77	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	63	_	_	
+78	mu	mu	mu[year]	N	77	_	_	
+79	us2-sa	us2-sa	us[follow]-a	V	78	LOC	_	
+80	bad3	bad3	bad[wall]	N	82	_	heuristic: before verb	
+81	mar-tu	mar-tu	Martu[1][-ø]	EN	82	ABS	_	
+82	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	77	acl	_
+	
+

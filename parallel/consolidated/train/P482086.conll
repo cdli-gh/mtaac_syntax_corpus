@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P482086.atf
+# tr.en: Ebarad king of Anshan and Susa Silaa Grand-Regent Addau Anshan and Susa did Addauu Regent and in Susa son of sister of Silaa the house of build
+1	e-ba-ra-ad	e-ba-ra-ad	_	PN	0	root	_	
+2	lugal	lugal	lugal[king]	N	1	appos	_	
+3	an-sza-an	an-sza-an	_	GN	2	GEN	_	
+4	u3	u3	u[and]	CNJ	3	appos	_	
+5	szuszin	szuszin	_	GN	3	appos	_	
+6	si-il-ha-ha	si-il-ha-ha	_	V	7	nmod	_	
+7	sukkal-mah	sukkal-mah	_	PN	12	ERG	_	
+8	ad-da-szu-x	ad-da-szu-x	_	PN	9	nmod	_	
+9	an-sza-an	an-sza-an	_	GN	7	appos	_	
+10	u3	u3	u[and]	CNJ	7	appos	_	
+11	szuszin-am3	szuszin-am3	_	PN	7	appos	_	
+12	ad-da-hu-szu	ad-da-hu-szu	_	PN	1	appos	_	
+13	sukkal	sukkal	sukkal[secretary][-ak][-ra]	N	12	_	heuristic: attach to head	
+14	u3	u3	u[and]	CNJ	12	_	heuristic: attach to head	
+15	ip-pi2-ir	ip-pi2-ir	_	PN	12	ABS	_	
+16	sza3	sza3	szag[heart]	N	17	LOC	_	
+17	szuszin	szuszin	_	GN	15	LOC	_	
+18	dumu	dumu	dumu[child]	N	17	appos	_	
+19	nin9	nin9	_	N	18	GEN	_	
+20	si-il-ha-ha	si-il-ha-ha	_	V	19	GEN	_	
+21	e2	e2	e[house]	N	23	ABS	_	
+22	{d}|ENxKUR|	{d}|ENxKUR|	_	DN	21	appos	_	
+23	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	19	acl	_
+	
+

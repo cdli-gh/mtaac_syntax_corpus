@@ -1,0 +1,77 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P427679.atf
+# tr.en: sheep billy goat foreman Ahuni cattle manager sheep herders of Uruk sheep foreman Namhani cattle manager sheep billiy goats foreman Ur-nigar cattle manager sheep billy goat foreman Iphur cattle manager sheep billy goat foreman Szu-Ea cattle manager sheep herder of Umma billy goat foreman Imid-Itar cattle manager billy goat foreman Ur-Baba cattle manager Total sheep billy goats as m-offering of herders the delivery taken over by Nasa month Festival of An year ari and Kima were destroyed
+1	2(u)	2(u)	NU	NU	3	nummod	_	
+2	5(disz)	5(disz)	NU	NU	1	nummod	_	
+3	udu	udu	udu[sheep]	N	0	root	_	
+4	1(disz)	1(disz)	NU	NU	5	nummod	heuristic: NU premodifying	
+5	masz2	masz2	masz[goat]	N	3	appos	_	
+6	ugula	ugula	ugula[overseer][-ø]	N	3	appos	_	
+7	a-hu-ni	a-hu-ni	Ahuni[1][-ra]	PN	3	_	_	
+8	szusz3	szusz3	kusz[cattle_manager][-ak]	N	7	appos	_	
+9	2(disz)	2(disz)	NU	NU	10	nummod	_	
+10	udu	udu	udu[sheep]	N	7	_	_	
+11	sipa	sipa	sipa[shepherd]	N	10	_	heuristic: attach to last	
+12	unu{ki}-ga-me	unu{ki}-ga-me	_	SN	10	appos	_	
+13	6(disz)	6(disz)	NU	NU	16	nummod	projectivity violation	
+14	udu	udu	udu[sheep]	N	13	_	heuristic: attach to last	
+15	ugula	ugula	ugula[overseer][-ø]	N	7	appos	_	
+16	nam-ha-ni	nam-ha-ni	Namhani[1]	N	15	appos	_	
+17	szusz3	szusz3	kusz[cattle_manager][-ak]	N	16	appos	_	
+18	1(u)	1(u)	NU	NU	21	nummod	projectivity violation	
+19	la2	la2	la[hang][-ø]	V	23	nummod	projectivity violation	
+20	1(disz@t)	1(disz)	NU	NU	19	nummod	_	
+21	udu	udu	udu[sheep]	N	0	_	detached for projectivity	
+22	3(disz)	3(disz)	NU	NU	21	nummod	_	
+23	masz2	masz2	masz[goat]	N	21	appos	_	
+24	ugula	ugula	ugula[overseer][-ø]	N	21	appos	_	
+25	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	16	_	_	
+26	szusz3	szusz3	kusz[cattle_manager][-ak]	N	25	_	_	
+27	3(disz)	3(disz)	NU	NU	28	nummod	_	
+28	udu	udu	udu[sheep]	N	26	_	_	
+29	1(disz)	1(disz)	NU	NU	28	nummod	_	
+30	masz2	masz2	masz[goat]	N	28	appos	_	
+31	ugula	ugula	ugula[overseer][-ø]	N	28	appos	_	
+32	ip-hur	ip-hur	_	PN	26	_	_	
+33	szusz3	szusz3	kusz[cattle_manager][-ak]	N	32	appos	_	
+34	7(disz)	7(disz)	NU	NU	35	nummod	_	
+35	udu	udu	udu[sheep]	N	32	_	_	
+36	1(disz)	1(disz)	NU	NU	37	nummod	heuristic: NU premodifying	
+37	masz2	masz2	masz[goat]	N	35	appos	_	
+38	ugula	ugula	ugula[overseer][-ø]	N	35	appos	_	
+39	szu-e2-a	szu-e2-a	Szuea[1]	PN	32	_	_	
+40	szusz3	szusz3	kusz[cattle_manager][-ak]	N	39	_	_	
+41	1(disz)	1(disz)	NU	NU	40	nummod	_	
+42	udu	udu	udu[sheep]	N	40	_	_	
+43	sipa	sipa	sipa[shepherd]	N	42	appos	_	
+44	umma{ki}	umma{ki}	Umma[1][-ak][-ø]	SN	43	GEN	_	
+45	1(disz)	1(disz)	NU	NU	48	nummod	_	
+46	masz2	masz2	masz[goat]	N	0	_	detached for projectivity	
+47	ugula	ugula	ugula[overseer][-ø]	N	46	appos	_	
+48	i-mi-id-esz18-dar	i-mi-id-esz18-dar	_	PN	40	_	_	
+49	szusz3	szusz3	kusz[cattle_manager][-ak]	N	48	appos	_	
+50	1(disz)	1(disz)	NU	NU	40	nummod	_	
+51	masz2	masz2	masz[goat]	N	0	_	detached for projectivity	
+52	ugula	ugula	ugula[overseer][-ø]	N	51	appos	_	
+53	ur-{d}ba-ba6	ur-{d}ba-ba6	Urbaba[1]	PN	0	_	detached for projectivity	
+54	szusz3	szusz3	kusz[cattle_manager][-ak]	N	53	appos	_	
+55	szunigin	szunigin	szunigin[total]	N	40	_	_	
+56	5(u)	5(u)	NU	NU	58	nummod	_	
+57	3(disz)	3(disz)	NU	NU	56	nummod	_	
+58	udu	udu	udu[sheep]	N	55	_	_	
+59	8(disz)	8(disz)	NU	NU	60	nummod	heuristic: NU premodifying	
+60	masz2	masz2	masz[goat]	N	58	appos	_	
+61	masz2-da-re-a	masz2-da-re-a	_	PN	58	LOC	_	
+62	sipa-ke4-ne	sipa-ke4-ne	_	N	61	GEN	_	
+63	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	58	appos	_	
+64	na-sa6	na-sa6	Nasa[1][-e]	PN	63	acl	_	
+65	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	63	appos	_	
+66	iti	iti	iti[month]	N	68	_	_	
+67	ezem-an-na	ezem-an-na	Ezemanna[1][-'a]	MN	68	ABS	_	
+68	mu	mu	mu[year]	N	40	parataxis	_	
+69	ha-ar-szi{ki}	ha-ar-szi{ki}	Harszi[1]	SN	68	_	_	
+70	u3	u3	u[and]	CNJ	72	nmod	_	
+71	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	72	nmod	_	
+72	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	68	parataxis	_
+	
+

@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P111491.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gu4	gu4	gud[ox]	N	1	_	_	
+3	apin	apin	apin[plow]	N	1	_	heuristic: attach to head	
+4	gub	gub	_	V	1	_	heuristic: attach to head	
+5	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+6	{d}nin-mar{ki}	{d}nin-mar{ki}	_	DN	1	_	heuristic: attach to head	
+7	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+8	{d}dumu-zi	{d}dumu-zi	Dumuzi[1][-'a]	MN	1	_	heuristic: attach to head	
+9	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+10	{d}nin-dar-a	{d}nin-dar-a	_	DN	1	_	heuristic: attach to head	
+11	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+12	ba-gara2	ba-gara2	_	PN	1	_	heuristic: attach to head	
+13	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+14	{d}ga2-tum3-du10	{d}ga2-tum3-du10	_	DN	1	_	heuristic: attach to head	
+15	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+16	{d}nansze	{d}nansze	Nansze[1]	DN	1	_	heuristic: attach to head	
+17	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+18	{d}nin-gesz-zi-da	{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	1	_	heuristic: attach to head	
+19	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+20	uru11{ki}	uru11{ki}	_	SN	1	_	heuristic: attach to head	
+21	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+22	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	1	_	heuristic: attach to head	
+23	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+24	gu4	gu4	gud[ox]	N	28	nmod	_	
+25	...	...	_[_]	PN	28	dep	heuristic: attach to head	
+26	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	28	nmod	_	
+27	mu	mu	mu[year]	N	28	_	heuristic: attach to head	
+28	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	1	appos	_
+	
+

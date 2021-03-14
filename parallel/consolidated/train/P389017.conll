@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx
+# train/P389017.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	im	im	im[clay][-ø]	N	1	_	heuristic: attach to last	
+3	a2	a2	a[time]	N	2	_	heuristic: attach to last	
+4	u4-da	u4-da	ud[day]-ak[-'a]	N	3	_	heuristic: attach to last	
+5	he2-dab5	he2-dab5	hedab[worker]	V	19	_	heuristic: before verb	
+6	sza3	sza3	szag[heart]	N	19	_	heuristic: before verb	
+7	sag-da-na-ka	sag-da-na-ka	_	N	19	_	heuristic: before verb	
+8	iti	iti	iti[month]	N	19	_	heuristic: before verb	
+9	szu-numun	szu-numun	Szunumun[1][-'a]	MN	19	_	heuristic: before verb	
+10	iti	iti	iti[month]	N	19	_	heuristic: before verb	
+11	munu4-gu7	munu4-gu7	Munugu[1][-'a]	MN	19	_	heuristic: before verb	
+12	iti	iti	iti[month]	N	19	_	heuristic: before verb	
+13	ezem-{d}dumu-zi	ezem-{d}dumu-zi	Ezemdumuzi[1][-'a]	MN	19	nmod	_	
+14	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	19	nmod	_	
+15	mu	mu	mu[year]	N	19	_	heuristic: before verbal head	
+16	en	en	en[priest]	N	19	_	heuristic: before verbal head	
+17	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	19	_	heuristic: before verbal head	
+18	kar-zi-da	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	19	_	heuristic: before verbal head	
+19	ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	1	_	_
+	
+

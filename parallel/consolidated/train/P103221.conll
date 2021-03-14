@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P103221.atf
+# tr.en: rams regular offerings of Gula rams ewes billy goats slaughtered because of dogs Il-bani received booked out from Ur-kununa month Festival-of-Szulgi year after Kima was destroyed
+1	3(u)	3(u)	NU	NU	2	nummod	_	
+2	udu	udu	udu[sheep]	N	0	root	_	
+3	sa2-du11	sa2-du11	sadug[offerings]	N	2	appos	_	
+4	{d}gu-la	{d}gu-la	Gula[1][-ak][-ra]	DN	3	GEN	_	
+5	1(u)	1(u)	NU	NU	7	nummod	projectivity violation	
+6	3(disz)	3(disz)	NU	NU	10	nummod	projectivity violation	
+7	udu	udu	udu[sheep]	N	0	_	detached for projectivity	
+8	1(u)	1(u)	NU	NU	7	nummod	_	
+9	2(disz)	2(disz)	NU	NU	12	nummod	projectivity violation	
+10	u8	u8	u[ewe]	N	7	appos	_	
+11	4(disz)	4(disz)	NU	NU	7	nummod	_	
+12	masz2	masz2	masz[goat]	N	7	appos	_	
+13	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	7	acl	_	
+14	mu	mu	mu[year]	N	13	_	heuristic: attach to last	
+15	ur-gi7	ur-gi7	_	N	7	GEN.TERM	_	
+16	dingir-ba-ni	dingir-ba-ni	_	PN	18	_	_	
+17	szu	szu	szu[hand][-e]	N	18	_	_	
+18	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	7	acl	_	
+19	zi-ga	zi-ga	zig[expend]-a	V	18	appos	_	
+20	ki	ki	ki[place]	N	21	ABL	_	
+21	ur-ku3-nun-na	ur-ku3-nun-na	Urkununa[1][-e]	PN	19	ABL	_	
+22	iti	iti	iti[month]	N	18	appos	_	
+23	ezem-{d}szul-gi	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	18	_	_	
+24	mu	mu	mu[year]	N	23	_	_	
+25	us2-sa	us2-sa	us[follow]-a	V	24	LOC	_	
+26	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	23	_	_	
+27	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	23	acl	_
+	
+

@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: jenny full-grown mountain goat young female mountain goat slaughtered th day from Lu-dingira did Ur-nigar receive month Festival of Ninazu year after Kima urti were destroyed
+# train/P470065.atf
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	eme6	eme6	_	N	0	root	_	
+3	1(disz)	1(disz)	NU	NU	2	nummod	_	
+4	masz2-gal	masz2-gal	maszgal[billy_goat]	N	5	acl	_	
+5	a-dara4	a-dara4	_	N	2	appos	_	
+6	1(disz)	1(disz)	NU	NU	2	nummod	_	
+7	{munus}asz2-gar3	{munus}asz2-gar3	aszgar[female_kid]	PN	8	acl	_	
+8	a-dara4	a-dara4	_	N	2	appos	_	
+9	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	2	acl	_	
+10	u4	u4	ud[day]	N	9	date	_	
+11	8(disz)-kam	8(disz)-kam	NU	NU	9	nummod	_	
+12	ki	ki	ki[place]	N	13	ABL	_	
+13	lu2-dingir-ra-ta	lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	16	ABL	_	
+14	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	13	_	heuristic: attach to last	
+15	szu	szu	szu[hand][-e]	N	14	_	heuristic: attach to last	
+16	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	9	parataxis	_	
+17	iti	iti	iti[month]	N	23	_	_	
+18	ezem-{d}nin-a-zu	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	17	_	_	
+19	mu	mu	mu[year]	N	17	_	_	
+20	us2-sa	us2-sa	us[follow]-a	V	19	_	_	
+21	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	17	_	_	
+22	hu-ur5-ti{ki}	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	23	ABS	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	9	parataxis	_
+	
+

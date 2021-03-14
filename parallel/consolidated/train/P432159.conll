@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432159.atf new_text=P432159
+# train/P432159.atf						#new_text=P432159
+# tr.en: his mistress Ur-Namma the mighty man king of Ur
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	_	_	
+2	nin-a-ni	nin[lady]-ani[-ra]	PN	N.3-SG-H-POSS.DAT-H	0	root	_	
+3	'.	_	_	_	2	_	_	
+4	ur-{d}namma	Urnamma[1]	RN	RN	2	appos	_	
+5	'.	_	_	_	2	_	_	
+6	nita	nita[male]	N	N	7	nmod	_	
+7	kal-ga	kalag[strong]-a	V	NF.V.SUB	2	acl	_	
+8	'.	_	N	N	2	appos	_	
+9	lugal	lugal[king]	N	N	2	appos	_	
+10	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	9	GEN	_	
+11	'.	_	N	N	10	GEN	_	
+12	...	_[_]	PN	N	0	dep	_	
+13	x	_[_]	N	N	12	dep	_	
+14	...	_[_]	PN	N	12	dep	_
+	
+

@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets sealed documents of Szarayamu are here and from debts year Big-Stele was erected
+# test/P290857.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	3	acl	_	
+3	dab-ba	dab-ba	dab[seize]-a	V	5	ERG	_	
+4	{d}szara2-a-mu	{d}szara2-a-mu	Szara'amu[1]	PN	3	GEN	_	
+5	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+6	u3	u3	u[and]	CNJ	5	appos	_	
+7	...	...	_[_]	PN	8	dep	_	
+8	la2-ia3-ta	la2-ia3-ta	la'u[arrears]-ta	N	5	appos	_	
+9	mu	mu	mu[year]	N	8	appos	_	
+10	na-ru2-a-mah	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	11	ABS	_	
+11	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	1	acl	_
+	
+

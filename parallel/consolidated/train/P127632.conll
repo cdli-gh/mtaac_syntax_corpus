@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: axes their weight is mina and gin plough sickles each their weight is mina and gin Finished tools From Lu-Ibgal Ur-Szara weighed Month harvest year Amar-Suen king Ur-Szara the scribe son of Lugal-usur
+# train/P127632.atf
+1	3(u)	3(u)	NU	NU	6	nummod	projectivity violation	
+2	1(disz)	1(disz)	NU	NU	1	nummod	_	
+3	{uruda}ha-bu3-da	{uruda}ha-bu3-da	habuda[hoe]	N	0	root	_	
+4	ki-la2-bi	ki-la2-bi	kila[weight]-bi[-ø]	N	6	ABS	_	
+5	2(u)	2(u)	NU	NU	6	nummod	_	
+6	ma-na	ma-na	mana[unit]	N	3	_	_	
+7	1(u)	1(u)	NU	NU	11	nummod	projectivity violation	
+8	gin2	gin2	gig[unit]	N	6	appos	_	
+9	5(u)	5(u)	NU	NU	11	nummod	_	
+10	8(disz)	8(disz)	NU	NU	9	nummod	_	
+11	{uruda}gur10	{uruda}gur10	_	N	18	ABS	projectivity violation	
+12	1(u)	1(u)	NU	NU	0	nummod	_	
+13	5(disz)	5(disz)	NU	NU	12	nummod	_	
+14	gin2-ta	gin2-ta	gig[unit]-ta	N	11	appos	_	
+15	ki-la2-bi	ki-la2-bi	kila[weight]-bi[-ø]	N	11	appos	_	
+16	1(u)	1(u)	NU	NU	3	nummod	_	
+17	4(disz)	4(disz)	NU	NU	16	nummod	_	
+18	ma-na	ma-na	mana[unit]	N	0	_	detached for projectivity	
+19	4(disz)	4(disz)	NU	NU	20	nummod	heuristic: NU premodifying	
+20	gin2	gin2	gig[unit]	N	18	appos	_	
+21	kin	kin	kig[work]	N	22	acl	_	
+22	til-la	til-la	til[complete]-a	V	0	_	detached for projectivity	
+23	ki	ki	ki[place]	N	24	_	_	
+24	lu2-eb-gal-ta	lu2-eb-gal-ta	_	PN	3	ABL	_	
+25	ur-{d}szara2-ke4	ur-{d}szara2-ke4	_	RN	26	ABS	_	
+26	in-la2	in-la2	i-n-la[weigh][-esz]	V	24	acl	_	
+27	iti	iti	iti[month]	N	28	nmod	_	
+28	szu-numun	szu-numun	Szunumun[1][-'a]	MN	0	_	detached for projectivity	
+29	mu	mu	mu[year]	N	31	_	_	
+30	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	31	acl	_	
+31	lugal	lugal	lugal[king]	N	28	parataxis	_	
+32	ur-{d}szara2	ur-{d}szara2	Urszara[1]	PN	28	_	_	
+33	dub-sar	dub-sar	dubsar[scribe]	N	32	appos	_	
+34	dumu	dumu	dumu[child]	N	32	appos	_	
+35	lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	34	GEN	_
+	
+

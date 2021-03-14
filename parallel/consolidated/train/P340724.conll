@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets debits therefroms restitutions deliveries to Szara of Apisal via Szakuge sealed documents offerings are here year Amorite wall was erected
+# train/P340724.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sag-nig2-gur11-ra	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	12	ABS	_	
+3	sza3-bi	sza3-bi	szag[heart]-bi[-ta]	N	2	appos	_	
+4	su-ga	su-ga	sug[repay]-a	V	2	appos	_	
+5	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	2	appos	_	
+6	{d}szara2	{d}szara2	Szara[1][-ak]	DN	5	LOC	_	
+7	a-pi4-sal4{ki}	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	6	GEN	_	
+8	giri3	giri3	giri[foot]	N	10	via	_	
+9	sza3-ku3-ge	sza3-ku3-ge	Szakuge[1][-e]	PN	10	nmod	_	
+10	kiszib3	kiszib3	kiszib[seal]	N	2	via	_	
+11	a-ru-a	a-ru-a	_	GN	10	appos	_	
+12	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+13	mu	mu	mu[year]	N	16	_	heuristic: before verb	
+14	bad3	bad3	bad[wall]	N	16	_	heuristic: before verb	
+15	mar-tu	mar-tu	Martu[1][-ø]	EN	16	ABS	_	
+16	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	12	parataxis	_
+	
+

@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: millstone of high-quality black basalt Lugal-itida millstone of black basalt Akalla leatherworker millstone Umu millstone Akadani millstone Szara-zame from Adu the sealed tablet of Ur-Numushda Year after king Szu-Suen erected Amorite wall
+# dev/P345966.atf
+1	1(disz)	1(disz)	NU	NU	0	nummod	_	
+2	kikken	kikken	_	N	0	root	_	
+3	a2-da-bar	a2-da-bar	_	N	5	acl	_	
+4	saga	saga	saga[good][-ø]	V	3	_	heuristic: attach to last	
+5	lugal-iti-da	lugal-iti-da	Lugalitida[1]	PN	2	GEN	_	
+6	1(disz)	1(disz)	NU	NU	7	nummod	heuristic: NU premodifying	
+7	kikken	kikken	_	N	5	_	_	
+8	a2-da-bar	a2-da-bar	_	N	9	acl	_	
+9	a-kal-la	a-kal-la	Akala[1]	PN	5	GEN	_	
+10	aszgab	aszgab	aszgab[leatherworker]	N	2	appos	_	
+11	1(disz)	1(disz)	NU	NU	13	nummod	_	
+12	kikken	kikken	_	N	13	nmod	_	
+13	usz-mu	usz-mu	Uszmu[1]	PN	31	ERG	_	
+14	x	x	_[_]	N	13	dep	heuristic: attach to last	
+15	1(disz)	1(disz)	NU	NU	13	nummod	_	
+16	kikken	kikken	_	N	17	nmod	_	
+17	a-ka3-da-ni	a-ka3-da-ni	_	PN	13	appos	_	
+18	1(disz)	1(disz)	NU	NU	13	nummod	_	
+19	kikken	kikken	_	N	20	nmod	_	
+20	{d}szara2-za-me	{d}szara2-za-me	Szarazame[1][-ak]	PN	13	appos	_	
+21	ki	ki	ki[place]	N	22	ABL	_	
+22	a-du-ta	a-du-ta	_	PN	13	ABL	_	
+23	kiszib3	kiszib3	kiszib[seal]	N	22	_	heuristic: attach to last	
+24	ur-{d}nu-musz-da	ur-{d}nu-musz-da	Urnumuszda[1][-ak][-ra]	PN	13	appos	_	
+25	mu	mu	mu[year]	N	31	_	heuristic: before verbal head	
+26	us2-sa	us2-sa	us[follow]-a	V	31	_	heuristic: before verbal head	
+27	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	31	ERG	_	
+28	lugal-e	lugal-e	lugal[king]-e	N	27	appos	_	
+29	bad3	bad3	bad[wall]	N	31	_	heuristic: before verbal head	
+30	mar-tu	mar-tu	Martu[1][-ø]	EN	31	ABS	_	
+31	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	2	parataxis	_
+	
+

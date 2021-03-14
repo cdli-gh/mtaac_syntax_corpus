@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P392635.atf
+# tr.en: nua ewes and lambs nua female and male goats of Abi-Ebih ewes female goats of Ur-nigar butcher from Intaea Ur-kunna took into his command Month Akiti year Szarum was destroyed
+1	1(u)	1(u)	NU	NU	2	nummod	_	
+2	u8	u8	u[ewe]	N	0	root	_	
+3	sila4	sila4	sila[lamb]	N	2	appos	_	
+4	nu-a	nu-a	_	V	2	appos	_	
+5	1(u)	1(u)	NU	NU	2	nummod	_	
+6	ud5	ud5	uzud[goat]	N	2	_	heuristic: attach to head	
+7	masz2	masz2	masz[goat]	N	2	appos	_	
+8	nu-a	nu-a	_	V	2	appos	_	
+9	a-bi-a-bi-ih	a-bi-a-bi-ih	_	PN	2	GEN	_	
+10	1(u)	1(u)	NU	NU	11	nummod	_	
+11	u8	u8	u[ewe]	N	2	appos	_	
+12	1(u)	1(u)	NU	NU	11	nummod	_	
+13	ud5	ud5	uzud[goat]	N	11	appos	_	
+14	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	15	acl	_	
+15	ab2-rig5-e	ab2-rig5-e	_	N	11	GEN	_	
+16	ki	ki	ki[place]	N	17	ABL	_	
+17	in-ta-e3-a-ta	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	2	ABL	_	
+18	ur-ku3-nun-na	ur-ku3-nun-na	Urkununa[1][-e]	PN	19	ABS	_	
+19	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	17	acl	_	
+20	iti	iti	iti[month]	N	22	nmod	_	
+21	a2-ki-ti	a2-ki-ti	Akiti[1][-'a]	N	20	_	_	
+22	mu	mu	mu[year]	N	17	_	_	
+23	sza-asz-ru{ki}	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	22	_	_	
+24	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	25	_	_	
+25	4(u)	4(u)[ten]	NU	NU	22	nummod	_
+	
+

@@ -1,0 +1,114 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102300.atf
+# tr.en: ee field area barley rations and beer gur Lugal-nig-lagare gudu iku field area barig wife of Ayakalla bur iku field area barig ban Ur-limu ee field area gur Abbagina field area gur barig ban n ee iku field area gur royal iku field area gur ee field area gur barig ban Ur-lugal iku field area ban Ermu enforcer iku field area barig harvested at field -new n bur field area Daaga iku field area Lu-duga ee field area barig Igihu ee field area Inzua in front of abaluge field up against cultivation n iku field area Lu-duga up against field of Oxen-boot field measured harvest-time in Apisal year Szu-Suen king had Great-barge for Enlil and Ninlil fashioned
+1	2(esze3)	2(esze3)	NU	NU	3	nummod	_	
+2	GAN2	GAN2	gana[field]	N	0	root	_	
+3	sze-ba	sze-ba	szeba[ration]	N	2	_	_	
+4	u3	u3	u[and]	CNJ	3	appos	_	
+5	kasz	kasz	kasz[beer]	N	3	appos	_	
+6	5(asz)	5(asz)	NU	NU	7	nummod	heuristic: NU premodifying	
+7	gur	gur	gur[unit]	N	3	appos	_	
+8	lugal-nig2-lagar-e	lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	3	appos	_	
+9	gudu4	gudu4	gudug[priest]	N	3	appos	_	
+10	1/4(iku)	1/4(iku)	NU	NU	12	nummod	_	
+11	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+12	2(barig)	2(barig)	NU	NU	11	nummod	_	
+13	dam	dam	dam[spouse]	N	12	appos	_	
+14	a-a-kal-la	a-a-kal-la	Ayakala[1]	PN	13	GEN	_	
+15	1(bur3)	1(bur3)	NU	NU	20	nummod	projectivity violation	
+16	1/4(iku)	1/4(iku)	NU	NU	22	nummod	projectivity violation	
+17	GAN2	GAN2	gana[field]	N	20	nmod	_	
+18	1(barig)	1(barig)	NU	NU	0	nummod	_	
+19	3(ban2)	3(ban2)	NU	NU	18	nummod	_	
+20	ur-li-mu	ur-li-mu	_	PN	0	_	detached for projectivity	
+21	2(esze3)	2(esze3)	NU	NU	22	nummod	_	
+22	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+23	8(asz)	8(asz)	NU	NU	21	nummod	_	
+24	gur	gur	gur[unit]	N	21	appos	_	
+25	...	...	_[_]	PN	24	dep	heuristic: attach to last	
+26	ab-ba-gi-na	ab-ba-gi-na	Abbagina[1]	PN	27	nmod	_	
+27	x	x	_[_]	N	21	dep	_	
+28	...	...	_[_]	PN	0	dep	detached for projectivity	
+29	n	n	_(_)[_]	NU	0	_	detached for projectivity	
+30	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+31	1(asz)	1(asz)	NU	NU	0	nummod	_	
+32	2(barig)	2(barig)	NU	NU	36	nummod	_	
+33	3(ban2)	3(ban2)	NU	NU	36	nummod	heuristic: NU premodifying	
+34	x	x	_[_]	N	36	dep	heuristic: attach to head	
+35	x	x	_[_]	N	36	dep	heuristic: attach to head	
+36	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+37	n	n	_(_)[_]	NU	0	_	detached for projectivity	
+38	n(esze3)	n(esze3)	_(esze)[unit]	N	40	nmod	projectivity violation	
+39	3(iku)	3(iku)	NU	NU	41	nummod	_	
+40	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+41	lugal	lugal	lugal[king]	N	40	_	_	
+42	gur	gur	gur[unit]	N	41	appos	_	
+43	4(iku)	4(iku)	NU	NU	41	nummod	_	
+44	GAN2	GAN2	gana[field]	N	41	appos	projectivity violation	
+45	4(asz)	4(asz)	NU	NU	43	nummod	_	
+46	gur	gur	gur[unit]	N	43	appos	_	
+47	...	...	_[_]	PN	0	dep	detached for projectivity	
+48	1(esze3)	1(esze3)	NU	NU	0	nummod	_	
+49	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+50	4(asz)	4(asz)	NU	NU	56	nummod	projectivity violation	
+51	2(barig)	2(barig)	NU	NU	50	nummod	_	
+52	3(ban2)	3(ban2)	NU	NU	54	nummod	_	
+53	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+54	ur-lugal	ur-lugal	Urlugal[1]	PN	53	_	_	
+55	1(iku)	1(iku)	NU	NU	58	nummod	projectivity violation	
+56	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+57	3(ban2)	3(ban2)	NU	NU	61	nummod	_	
+58	er3-mu	er3-mu	_	PN	0	_	detached for projectivity	
+59	maszkim	maszkim	maszkim[administrator]	N	58	appos	_	
+60	2(iku)	2(iku)	NU	NU	61	nummod	heuristic: NU premodifying	
+61	GAN2	GAN2	gana[field]	N	58	_	_	
+62	5(barig)	5(barig)	NU	NU	63	nummod	heuristic: NU premodifying	
+63	gurx(|SZE.KIN|)	gurx(|SZE.KIN|)	_	V	61	_	_	
+64	a-sza3	a-sza3	aszag[field]	N	63	LOC	_	
+65	x-gibil	x-gibil	_	FN	64	LOC	_	
+66	5(iku)	5(iku)	NU	NU	68	nummod	heuristic: NU premodifying	
+67	1/2(iku)	1/2(iku)	NU	NU	68	nummod	_	
+68	GAN2	GAN2	gana[field]	N	63	_	_	
+69	3(asz)	3(asz)	NU	NU	73	nummod	projectivity violation	
+70	da-a-ga	da-a-ga	_	PN	69	_	heuristic: attach to last	
+71	1(iku)	1(iku)	NU	NU	73	nummod	projectivity violation	
+72	1/4(iku)	1/4(iku)	NU	NU	79	nummod	projectivity violation	
+73	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+74	2(asz)	2(asz)	NU	NU	75	nummod	heuristic: NU premodifying	
+75	lu2-du10-ga	lu2-du10-ga	Luduga[1]	PN	73	appos	_	
+76	1(esze3)	1(esze3)	NU	NU	79	nummod	projectivity violation	
+77	GAN2	GAN2	gana[field]	N	81	nummod	projectivity violation	
+78	4(barig)	4(barig)	NU	NU	79	nummod	heuristic: NU premodifying	
+79	igi-husz	igi-husz	_	PN	0	_	detached for projectivity	
+80	2(esze3)	2(esze3)	NU	NU	83	nummod	_	
+81	GAN2	GAN2	gana[field]	N	0	_	detached for projectivity	
+82	8(asz)	8(asz)	NU	NU	83	nummod	heuristic: NU premodifying	
+83	in-zu-a	in-zu-a	_	V	81	_	_	
+84	igi-sze3	igi-sze3	igi[eye]-sze	N	83	LOC	_	
+85	ha-ba-lu5-ge2	ha-ba-lu5-ge2	Habaluge[1][-ra]	PN	84	GEN	_	
+86	a-sza3	a-sza3	aszag[field]	N	83	_	_	
+87	gaba	gaba	gaba[frontier][-ak]	N	86	LOC	_	
+88	x-x-dingir	x-x-dingir	_	DN	86	_	_	
+89	apin-la2-am3	apin-la2-am3	_	N	83	_	_	
+90	n(iku)	n(iku)	_(iku)[unit]	N	83	_	_	
+91	GAN2	GAN2	gana[field]	N	83	_	heuristic: attach to head	
+92	n(asz)	n(asz)	_	N	93	nmod	_	
+93	...	...	_[_]	PN	83	dep	_	
+94	lu2-du10-ga	lu2-du10-ga	Luduga[1]	PN	93	appos	_	
+95	gaba	gaba	gaba[frontier][-ak]	N	96	LOC	_	
+96	a-sza3	a-sza3	aszag[field]	N	94	TERM	_	
+97	gu4-suhub2	gu4-suhub2	Gusuhub[1][-ak][-sze]	N	96	GEN	_	
+98	a-sza3	a-sza3	aszag[field]	N	100	nmod	_	
+99	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	100	_	_	
+100	buru14	buru14	_	N	93	_	_	
+101	sza3	sza3	szag[heart]	N	102	LOC	_	
+102	a-pi4-sal4{ki}	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	100	LOC	_	
+103	mu	mu	mu[year]	N	100	_	_	
+104	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	106	ABS	_	
+105	lugal-e	lugal-e	lugal[king]-e	N	104	appos	_	
+106	ma2-gur8-mah	ma2-gur8-mah	magurmah[great_barge][-ø]	N	93	acl	_	
+107	{d}en-lil2-x	{d}en-lil2-x	_	DN	109	DAT	_	
+108	{d}nin-lil2-ra	{d}nin-lil2-ra	Ninlil[1]-ra	DN	107	appos	_	
+109	mu-ne-dim2	mu-nnee[-a][-n]-dim[create][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	106	parataxis	_
+	
+

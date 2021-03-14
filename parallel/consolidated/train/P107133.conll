@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts men of nigdab of Ugnim year Kima
+# train/P107133.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	4	nmod	_	
+3	lu2	lu2	lu[person]	N	4	_	heuristic: attach to head	
+4	nig2-dab5	nig2-dab5	nigdab[requisitions]	N	1	_	_	
+5	ugnim-ke4-ne	ugnim-ke4-ne	_	N	4	GEN	_	
+6	mu	mu	mu[year]	N	5	appos	_	
+7	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	4	appos	_
+	
+

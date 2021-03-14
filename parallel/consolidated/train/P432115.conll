@@ -1,0 +1,7 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For An king of gods his master Ur-Namma king of Ur a large garden he set up for him and a dais on a pure place he built for him
+# train/P432115.atf						#new_text=P432115
+# train/P432115.atf new_text=P432115
+1	an	An[1][-ra]	N	N	0	root	_	
+3	dingir-re-ne	_[For.gods]	PN	N.PL.GEN	1	DAT	projectivity violation	
+

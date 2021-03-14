@@ -1,0 +1,58 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P273892.atf
+# tr.en: enuru The snake from snake mountain indeed called The lizard of heaven and of earth licked The sons of lizard heaven and earth are The well like wind it made Water like wind he poured out Grass like wind its right encircled Its grass his left it tore out Then his held firm fang may he bind The incantations of Abzu of Eridu of Asalluhi son of Eridu may they not be undone Nisaba the righteous woman the beautiful woman Addakala the scribe wrote in your eyes he indeed pleased Good bala
+1	enerux(|AN.U|){+ex(DAG)-nu-ru}	enerux(|AN.U|){+ex(DAG)-nu-ru}	_	PN	0	root	_	
+2	musz-e	musz-e	_	N	3	nmod	_	
+3	kur-musz-ta	kur-musz-ta	_	N	5	ABS	_	
+4	KA	KA	ka[mouth]	N	3	ABL	_	
+5	nam-gi4	nam-gi4	_	V	1	acl	_	
+6	me-TAR	me-TAR	_	N	10	ABS	_	
+7	an	an	An[1][-ra]	N	6	_	heuristic: attach to last	
+8	ki-ka	ki-ka	_	PN	6	GEN	_	
+9	eme!	eme	_	N	10	_	_	
+10	ba-ni-ak	ba-ni-ak	_	V	5	parataxis	_	
+11	dumu	dumu	dumu[child]	N	10	parataxis	_	
+12	me-TAR	me-TAR	_	N	11	ABS	_	
+13	an	an	An[1][-ra]	N	12	appos	_	
+14	ki	ki	ki[place]	N	13	_	heuristic: attach to last	
+15	7(disz)-a-ne-ne	7(disz)-a-ne-ne	NU	NU	16	nummod	heuristic: NU premodifying	
+16	pu2	pu2	_	N	0	_	_	
+17	lil2-am3	lil2-am3	_	N	16	EQU	_	
+18	i3-du3	i3-du3	_	V	17	acl	_	
+19	a	a	a[water][-ø]	N	20	_	_	
+20	lil2-am3	lil2-am3	_	N	17	_	_	
+21	i3-in-de2	i3-in-de2	_	V	20	acl	_	
+22	gugx(|A.ZI.ZI.A|)	gugx(|A.ZI.ZI.A|)	_	N	25	ERG	_	
+23	lil2-am3	lil2-am3	_	N	22	EQU	_	
+24	za3-bi	za3-bi	_	N	25	nmod	_	
+25	ib2-dab6	ib2-dab6	_	V	20	acl	_	
+26	gugx(|A.ZI.ZI.A|)-bi	gugx(|A.ZI.ZI.A|)-bi	_	N	27	nmod	_	
+27	ga-bu-ni	ga-bu-ni	_	V	25	ABS	_	
+28	mu-ub-ze2	mu-ub-ze2	_	V	27	acl	_	
+29	...-ni	...-ni	_	PN	28	_	heuristic: attach to last	
+30	szu	szu	szu[hand][-e]	N	0	_	_	
+31	um-ma-gi	um-ma-gi	_	V	30	_	heuristic: attach to last	
+32	...	...	_[_]	PN	31	dep	heuristic: attach to last	
+33	x-a	x-a	_[_]	DN	32	_	heuristic: attach to last	
+34	zu2	zu2	_	N	35	ABS	_	
+35	he2-la2-e	he2-la2-e	_	V	30	acl	_	
+36	tu6-tu6	tu6-tu6	_	N	0	_	_	
+37	abzu	abzu	_	PN	36	GEN	_	
+38	eridu{ki}-ga	eridu{ki}-ga	Eridug[1]-ak[-ø]	SN	37	GEN	_	
+39	{d}asar-lu2-hi	{d}asar-lu2-hi	_	DN	38	GEN	_	
+40	dumu	dumu	dumu[child]	N	39	appos	_	
+41	eridu{ki}-ke4	eridu{ki}-ke4	_	SN	40	GEN	_	
+42	nam-mu-da-bur2-re	nam-mu-da-bur2-re	_	PN	1	acl	_	
+43	{d}nisaba	{d}nisaba	_	DN	42	_	_	
+44	munus-zi	munus-zi	_	PN	43	appos	_	
+45	munus	munus	munus[woman]	N	46	nmod	_	
+46	sa6-ga	sa6-ga	_	PN	43	appos	_	
+47	ad-da-kal-la	ad-da-kal-la	Addakala[1][-ra]	PN	49	ABS	_	
+48	dub-sar-e	dub-sar-e	_	N	47	appos	_	
+49	mu-sar	mu-sar	_	N	43	acl	_	
+50	igi-za	igi-za	_	N	51	LOC	_	
+51	he2-en-sa6	he2-en-sa6	_	PN	49	parataxis	_	
+52	bala	bala	bala[turn][-'a]	N	51	_	_	
+53	saga	saga[good][-ø]	V	NF.V.ABS	1	_	_
+	
+

@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P204031.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+3	{kusz}du10-gan	{kusz}du10-gan	duggan[leather_bag]	N	1	_	_	
+4	kasz	kasz	kasz[beer]	N	1	_	heuristic: attach to head	
+5	zi3	zi3	zid[flour]	N	1	_	heuristic: attach to head	
+6	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+7	i3-gesz	i3-gesz	igesz[oil]	V	1	_	heuristic: attach to head	
+8	giri3	giri3	giri[foot]	N	1	_	heuristic: attach to head	
+9	kas4-ke4-ne	kas4-ke4-ne	kasz[runner]-ak-ene	PN	1	_	heuristic: attach to head	
+10	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+11	GAN2-masz-ta	GAN2-masz-ta	Ganmasz[1][-ak]-ta	MN	1	_	heuristic: attach to head	
+12	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+13	sze-sag11-ku5-sze3	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	1	_	heuristic: attach to head	
+14	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+15	1(u)	1(u)	NU	NU	0	nummod	_	
+16	1(disz)-kam	1(disz)-kam	NU	NU	15	nummod	_	
+17	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+18	hu-rim3{ki}	hu-rim3{ki}	_	FN	21	nmod	_	
+19	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	21	nmod	_	
+20	mu	mu	mu[year]	N	21	_	heuristic: attach to head	
+21	ha-ar-szi{ki}	ha-ar-szi{ki}	Harszi[1]	SN	1	_	_	
+22	hu-ur5-ti{ki}	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	0	_	_	
+23	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

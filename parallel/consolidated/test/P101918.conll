@@ -1,0 +1,56 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P101918.atf
+# tr.en: gur barig salt the barig reduced by sila its struck head gur barig ban sila gur ban sumac the barig reduced by ban its struck head gur sila barig ban sila x-plant its struck head ban sila goods on hand from Ka-ana via ARADdani month Festival of Lisi
+1	1(gesz2)	1(gesz2)	NU	NU	5	nummod	_	
+2	2(u)	2(u)	NU	NU	1	nummod	_	
+3	7(asz)	7(asz)	NU	NU	1	nummod	_	
+4	1(barig)	1(barig)	NU	NU	5	nummod	_	
+5	mun	mun	mun[salt]	N	0	root	_	
+6	gur	gur	gur[unit]	N	5	appos	_	
+7	lugal	lugal	lugal[king]	N	5	_	heuristic: attach to head	
+8	ba-ri2	ba-ri2	_	PN	5	appos	_	
+9	6(disz)	6(disz)	NU	NU	5	nummod	projectivity violation	
+10	sila3	sila3	sila[unit]	N	11	ERG	_	
+11	im-tur	im-tur	_	PN	8	acl	_	
+12	sag	sag	sag[head]	N	13	nmod	_	
+13	sag3-ga-bi	sag3-ga-bi	_	V	5	appos	_	
+14	8(asz)	8(asz)	NU	NU	19	nummod	projectivity violation	
+15	3(barig)	3(barig)	NU	NU	22	nummod	_	
+16	2(ban2)	2(ban2)	NU	NU	15	nummod	_	
+17	8(disz)	8(disz)	NU	NU	19	nummod	_	
+18	sila3	sila3	sila[unit]	N	17	_	_	
+19	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+20	6(asz)	6(asz)	NU	NU	22	nummod	_	
+21	1(ban2)	1(ban2)	NU	NU	20	nummod	_	
+22	gazi	gazi	gazi[condiment]	N	19	_	_	
+23	gur	gur	gur[unit]	N	22	appos	_	
+24	ba-ri2-ga	ba-ri2-ga	_	V	22	appos	_	
+25	2(ban2)	2(ban2)	NU	NU	22	nummod	projectivity violation	
+26	im-tur	im-tur	_	PN	24	ERG	_	
+27	sag	sag	sag[head]	N	28	nmod	_	
+28	sag3-ga-bi	sag3-ga-bi	_	V	22	appos	_	
+29	2(asz)	2(asz)	NU	NU	33	nummod	projectivity violation	
+30	3(disz)	3(disz)	NU	NU	36	nummod	_	
+31	1/3(disz)	1/3(disz)	NU	NU	30	nummod	_	
+32	sila3	sila3	sila[unit]	N	33	_	_	
+33	gur	gur	gur[unit]	N	0	_	detached for projectivity	
+34	1(barig)	1(barig)	NU	NU	36	nummod	_	
+35	3(ban2)	3(ban2)	NU	NU	34	nummod	_	
+36	3(disz)	3(disz)	NU	NU	33	nummod	_	
+37	sila3	sila3	sila[unit]	N	38	nmod	_	
+38	{u2}x	{u2}x	_	PN	36	_	_	
+39	sag	sag	sag[head]	N	41	nmod	_	
+40	sag3-ga-bi	sag3-ga-bi	_	V	41	acl	_	
+41	3(ban2)	3(ban2)	NU	NU	36	nummod	_	
+42	9(disz)	9(disz)	NU	NU	36	nummod	_	
+43	1/2(disz)	1/2(disz)	NU	NU	36	nummod	_	
+44	sila3	sila3	sila[unit]	N	43	_	_	
+45	nig2-gal2-la	nig2-gal2-la	niggala[possessions]	N	43	_	_	
+46	ki	ki	ki[place]	N	47	ABL	_	
+47	ka-a2-na	ka-a2-na	_	PN	45	ABL	_	
+48	giri3	giri3	giri[foot]	N	49	via	_	
+49	ARAD2-da-ni	ARAD2-da-ni	_	PN	45	via	_	
+50	iti	iti	iti[month]	N	51	nmod	_	
+51	ezem-{d}li9-si4	_[Festival.Lisi]	MN	MN	43	appos	_
+	
+

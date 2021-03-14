@@ -1,0 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P459085.atf
+# tr.en: n jugs of good quality wort each ban n jugs of ordinary wort each ban ban good quality pea-flour barig semolina barig dates rams billy sila good sesame oil sila sesame oil gurdub Nui-ilum of Elam received month Dumuzi year after Szu-Suen king Amorite wall erected
+1	n	n	_(_)[_]	NU	2	nummod	_	
+2	dug	dug	dug[pot]	N	0	root	_	
+3	dida	dida	dida[sweet_wort]	N	2	GEN	_	
+4	saga	saga	saga[good][-ø]	V	3	acl	_	
+5	2(ban2)	2(ban2)	NU	NU	34	nummod	_	
+6	n	n	_(_)[_]	NU	5	_	_	
+7	dug	dug	dug[pot]	N	5	appos	_	
+8	dida	dida	dida[sweet_wort]	N	7	GEN	_	
+9	du	du	gin[quality_designation][-ø]	V	8	acl	_	
+10	3(ban2)	3(ban2)	NU	NU	5	nummod	_	
+11	2(ban2)	2(ban2)	NU	NU	12	nummod	_	
+12	zi3-gu	zi3-gu	zidgu[flour_type]	N	5	appos	_	
+13	saga	saga	saga[good][-ø]	V	12	appos	_	
+14	2(barig)	2(barig)	NU	NU	15	nummod	_	
+15	dabin	dabin	dabin[semolina]	N	5	appos	_	
+16	1(barig)	1(barig)	NU	NU	5	nummod	_	
+17	zu2-lum	zu2-lum	zulum[date]	N	5	appos	_	
+18	2(disz)	2(disz)	NU	NU	5	nummod	_	
+19	udu	udu	udu[sheep]	N	5	appos	_	
+20	1(disz)	1(disz)	NU	NU	24	nummod	projectivity violation	
+21	masz2	masz2	masz[goat]	N	5	appos	_	
+22	1(disz)	1(disz)	NU	NU	5	nummod	_	
+23	sila3	sila3	sila[unit]	N	24	nmod	_	
+24	i3-gesz	i3-gesz	igesz[oil]	V	5	appos	_	
+25	du10-ga	du10-ga	dug[good]-a	V	24	acl	_	
+26	5(disz)	5(disz)	NU	NU	5	nummod	_	
+27	sila3	sila3	sila[unit]	N	28	nmod	_	
+28	i3-gesz	i3-gesz	igesz[oil]	V	5	appos	_	
+29	3(disz)	3(disz)	NU	NU	5	nummod	_	
+30	{gi}gur-dub	{gi}gur-dub	gurdub[basket_type]	N	5	appos	_	
+31	nu-hi-lum	nu-hi-lum	Nuhilum[1]	PN	5	appos	_	
+32	elam	elam	Elam[1][-ak]	EN	31	GEN	_	
+33	szu	szu	szu[hand][-e]	N	34	_	_	
+34	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	2	acl	_	
+35	iti	iti	iti[month]	N	34	date	_	
+36	{d}dumu-zi	{d}dumu-zi	Dumuzi[1][-'a]	MN	35	_	_	
+37	mu	mu	mu[year]	N	35	_	_	
+38	us2-sa	us2-sa	us[follow]-a	V	37	_	_	
+39	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	2	_	_	
+40	lugal-e	lugal-e	lugal[king]-e	N	39	appos	_	
+41	bad3	bad3	bad[wall]	N	43	_	heuristic: before verb	
+42	mar-tu	mar-tu	Martu[1][-ø]	EN	43	ABS	_	
+43	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	39	acl	_
+	
+

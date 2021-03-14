@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets pouch therefroms repayments credits of Kas in Umma year following house of Puzri was built
+# train/P337588.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	{kusz}du10-gan	{kusz}du10-gan	duggan[leather_bag]	N	1	_	_	
+3	sza3-bi	sza3-bi	szag[heart]-bi[-ta]	N	2	appos	_	
+4	su-ga	su-ga	sug[repay]-a	V	2	appos	_	
+5	zi-ga	zi-ga	zig[expend]-a	V	2	appos	_	
+6	kas4	kas4	kas[runner][-ra]	N	5	GEN	_	
+7	sza3	sza3	szag[heart]	N	8	LOC	_	
+8	umma{ki}	umma{ki}	Umma[1][-ak][-ø]	SN	2	LOC	_	
+9	mu	mu	mu[year]	N	10	nmod	_	
+10	us2-sa	us2-sa	us[follow]-a	V	2	acl	_	
+11	e2	e2	e[house]	N	13	ABS	_	
+12	puzur4	puzur4	_	N	11	GEN	_	
+13	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	2	parataxis	_
+	
+

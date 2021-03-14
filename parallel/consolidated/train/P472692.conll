@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P472692.atf
+# tr.en: For Baba his lady did -Rim-Sin son of foreman of traders dedicate this
+1	{d}ba-ba6	{d}ba-ba6	_	DN	0	root	_	
+2	nin-a-ni-ir	nin-a-ni-ir	_	PN	1	appos	_	
+3	x-ri-im-{d}suen	x-ri-im-{d}suen	_	PN	0	root	_	
+4	dumu	dumu	dumu[child]	N	0	root	_	
+5	x	x	_[_]	N	4	dep	heuristic: attach to head	
+6	x	x	_[_]	N	4	dep	heuristic: attach to head	
+7	x	x	_[_]	N	4	dep	heuristic: attach to head	
+8	ugula	ugula	ugula[overseer][-ø]	N	4	appos	_	
+9	dam-gar3	dam-gar3	damgar[merchant][-ak]	N	8	GEN	_	
+10	a	a	a[water][-ø]	N	0	root	_	
+11	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	10	ABS	_
+	
+

@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets sealed documents seized in and of Lu-aya are here year en of Inanna in Uruk by goat was found
+# train/P211701.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	9	ABS	_	
+3	dab-ba	dab-ba	dab[seize]-a	V	2	appos	_	
+4	sza3	sza3	szag[heart]	N	5	LOC	_	
+5	ze2	ze2	_	N	2	LOC	_	
+6	u3	u3	u[and]	CNJ	5	appos	_	
+7	...	...	_[_]	PN	5	dep	_	
+8	lu2-{d}ha-ia3	lu2-{d}ha-ia3	Luha'ia[1]	PN	5	GEN	_	
+9	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+10	mu	mu	mu[year]	N	15	date	_	
+11	en	en	en[priest]	N	15	ABS	_	
+12	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	11	GEN	_	
+13	unu{ki}	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	11	LOC	_	
+14	masz-e	masz-e	masz[goat]-e	N	11	ERG	_	
+15	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	9	parataxis	_
+	
+

@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: mana shekel grains silver mana resin of Ninebtum the remainder of year after wall of land was erected barig barley royal remainder of year high-priestess of Nanna under seal of Ur-saga manager to be repaid the trade agents will confirm year Amar-Suen king Ur-saga manager of throne bearers
+# test/P116018.atf
+1	3(disz)	3(disz)	NU	NU	0	nummod	_	
+2	ma-na	ma-na	mana[unit]	N	5	nmod	projectivity violation	
+3	1(disz)	1(disz)	NU	NU	5	nummod	heuristic: NU premodifying; projectivity violation	
+4	1/2(disz)	1/2(disz)	NU	NU	9	nummod	projectivity violation	
+5	gin2	gin2	gig[unit]	N	0	root	_	
+6	1(u)	1(u)	NU	NU	14	nummod	projectivity violation	
+7	5(disz)	5(disz)	NU	NU	6	nummod	_	
+8	sze	sze	sze[barley]	N	0	_	detached for projectivity	
+9	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	8	_	_	
+10	4(disz)	4(disz)	NU	NU	9	nummod	_	
+11	2/3(disz)	2/3(disz)	NU	NU	10	nummod	_	
+12	ma-na	ma-na	mana[unit]	N	14	nmod	_	
+13	SZIM	SZIM	szim[beer_malt]	N	14	_	heuristic: attach to head	
+14	{d}nin-eb-tum	{d}nin-eb-tum	_	DN	9	appos	_	
+15	si-i3-tum	si-i3-tum	situm[balance]	N	9	appos	_	
+16	mu	mu	mu[year]	N	15	GEN	_	
+17	us2-sa	us2-sa	us[follow]-a	V	20	_	_	
+18	bad3	bad3	bad[wall]	N	20	ABS	_	
+19	ma-da	ma-da	mada[land][-ak][-ø]	N	18	GEN	_	
+20	ba-du3	ba-du3	ba-du[build][-ø]	V	15	acl	_	
+21	2(barig)	2(barig)	NU	NU	22	nummod	_	
+22	sze	sze	sze[barley]	N	0	_	detached for projectivity	
+23	lugal	lugal	lugal[king]	N	22	appos	_	
+24	si-i3-tum	si-i3-tum	situm[balance]	N	22	appos	_	
+25	mu	mu	mu[year]	N	24	GEN	_	
+26	en	en	en[priest]	N	0	_	detached for projectivity	
+27	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	26	GEN	_	
+28	kiszib3	kiszib3	kiszib[seal]	N	5	LOC	_	
+29	ur-sa6-ga	ur-sa6-ga	Ursaga[1][-ak]	PN	28	GEN	_	
+30	nu-banda3	nu-banda3	nubanda[overseer][-ø]	N	29	appos	_	
+31	su-su-dam	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	5	acl	_	
+32	dam-gar3-ne-bi	dam-gar3-ne-bi	_	N	33	nmod	_	
+33	gi-ne2-dam	gi-ne2-dam	_	PN	5	parataxis	_	
+34	mu	mu	mu[year]	N	36	_	_	
+35	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	36	acl	_	
+36	lugal	lugal	lugal[king]	N	5	parataxis	_	
+37	ur-sa6-ga	ur-sa6-ga	Ursaga[1][-ak]	PN	38	nmod	_	
+38	nu-banda3	nu-banda3	nubanda[overseer][-ø]	N	0	_	detached for projectivity	
+39	gu-za-la2	guzala[throne_bearer]	N	N	38	GEN	_
+	
+

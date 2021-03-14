@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: cows ewes sheep female goats gazelles from street to be sent out under seal of various men Ur-nigar received month Festival of Ninazu year en-priestess of Nanna by means of extispicy was chosen
+# dev/P416408.atf
+1	4(u)	4(u)	NU	NU	3	nummod	projectivity violation	
+2	2(disz)	2(disz)	NU	NU	7	nummod	projectivity violation	
+3	ab2	ab2	ab[cow][-ø]	N	0	root	_	
+4	6(gesz2)	6(gesz2)	NU	NU	3	nummod	_	
+5	1(u)	1(u)	NU	NU	10	nummod	projectivity violation	
+6	2(disz)	2(disz)	NU	NU	5	nummod	_	
+7	u8	u8	u[ewe]	N	3	appos	_	
+8	2(u)	2(u)	NU	NU	3	nummod	_	
+9	5(disz)	5(disz)	NU	NU	14	nummod	projectivity violation	
+10	udu	udu	udu[sheep]	N	3	appos	_	
+11	1(gesz2)	1(gesz2)	NU	NU	3	nummod	_	
+12	5(u)	5(u)	NU	NU	17	nummod	projectivity violation	
+13	1(disz)	1(disz)	NU	NU	12	nummod	_	
+14	ud5	ud5	uzud[goat]	N	3	appos	_	
+15	2(u)	2(u)	NU	NU	3	nummod	_	
+16	5(disz)	5(disz)	NU	NU	15	nummod	_	
+17	masz-da3	masz-da3	maszda[gazelle][-ø]	N	3	appos	_	
+18	sila-ta	sila-ta	_	N	3	ABL	_	
+19	e3-e3-de3	e3-e3-de3	_	V	18	acl	_	
+20	kiszib3	kiszib3	kiszib[seal]	N	0	_	detached for projectivity	
+21	lu2	lu2	lu[person]	N	20	_	_	
+22	didli-ne	didli-ne	_	V	20	GEN	_	
+23	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	22	_	heuristic: attach to last	
+24	szu	szu	szu[hand][-e]	N	23	_	heuristic: attach to last	
+25	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	20	acl	_	
+26	iti	iti	iti[month]	N	25	_	heuristic: attach to last	
+27	ezem-{d}nin-a-zu	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	26	_	heuristic: attach to last	
+28	mu	mu	mu[year]	N	27	_	heuristic: attach to last	
+29	en	en	en[priest]	N	32	ABS	_	
+30	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	29	GEN	_	
+31	masz-e	masz-e	masz[goat]-e	N	29	ERG	_	
+32	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	20	acl	_
+	
+

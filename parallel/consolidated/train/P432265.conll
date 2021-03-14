@@ -1,0 +1,44 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432265.atf
+# tr.en: Amar-Suena whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the mighty king king of Ur and king of four world quarters of this statue Amar-Suena is Beloved of Ur is its name Of this statue a person who its standing-place shall change and its socle shall rip out may Nanna the king of Ur and Ningal the mother of Ur curse him and his seed may they bring to an end
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	30	ERG	_	
+2	nibru{ki}-a	nibru{ki}-a	_	SN	21	ABS	_	
+3	{d}en-lil2-le	{d}en-lil2-le	_	DN	21	LOC	_	
+4	mu	mu	mu[year]	N	3	_	_	
+5	pa3-da	pa3-da	Pada[1]	PN	3	acl	_	
+6	sag-us2	sag-us2	_	N	3	appos	_	
+7	e2	e2	e[house]	N	8	_	_	
+8	{d}en-lil2-ka	{d}en-lil2-ka	_	DN	6	GEN	_	
+9	lugal	lugal	lugal[king]	N	8	appos	_	
+10	kal-ga	kal-ga	kalag[strong]-a	V	9	appos	_	
+11	lugal	lugal	lugal[king]	N	8	appos	_	
+12	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	11	GEN	_	
+13	lugal	lugal	lugal[king]	N	8	appos	_	
+14	an	an	An[1][-ra]	N	8	nummod	_	
+15	ub-da	ub-da	_	N	8	appos	_	
+16	limmu2-ba-me	limmu2-ba-me	_	V	8	appos	_	
+17	alan-ba	alan-ba	_	N	3	GEN	_	
+18	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	19	ABS	_	
+19	ki-ag2	ki-ag2	ki'ag[love][-ø]	V	21	ccomp 	_	
+20	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	19	GEN	_	
+21	mu-bi-im	mu-bi-im	_	N	1	acl	_	
+22	alan-ba	alan-ba	_	N	1	GEN	_	
+23	lu2	lu2	lu[person]	N	25	nmod	_	
+24	ki	ki	ki[place]	N	25	_	heuristic: attach to head	
+25	gub-ba-bi	gub-ba-bi	_	V	22	appos	_	
+26	ib2-da-ab-kur2-re-a	ib2-da-ab-kur2-re-a	_	PN	25	acl	_	
+27	bara2	bara2	_	N	22	appos	_	
+28	si-ga-bi	si-ga-bi	_	N	22	appos	_	
+29	i3-bu3-re-a	i3-bu3-re-a	_	PN	22	acl	_	
+30	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	0	root	_	
+31	lugal	lugal	lugal[king]	N	30	ABS	_	
+32	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	31	GEN	_	
+33	{d}nin-gal	{d}nin-gal	Ningal[1]	DN	30	appos	_	
+34	ama	ama	_	N	30	appos	_	
+35	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	36	nmod	_	
+36	nam!	nam	_	N	34	GEN	_	
+37	ha-ba-an-da-ku5-ne	ha-ba-an-da-ku5-ne	_	V	36	appos	_	
+38	numun-na-ni	numun-na-ni	_	N	34	appos	_	
+39	he2-eb-til-le-ne	_[may.they.bring.to.an.end]	V	V	34	acl	_
+	
+

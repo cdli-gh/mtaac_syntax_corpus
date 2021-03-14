@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P111219.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	di	di	did[lawsuit]	N	1	_	heuristic: attach to last	
+3	til-la	til-la	til[complete]-a	V	2	_	heuristic: attach to last	
+4	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	25	_	heuristic: before verb	
+5	ARAD2-{d}nanna	ARAD2-{d}nanna	Aradnanna[1]	PN	25	_	heuristic: before verb	
+6	sukkal-mah	sukkal-mah	_	PN	25	_	heuristic: before verb	
+7	ensi2	ensi2	ensik[ruler]	N	25	_	heuristic: before verb	
+8	giri3	giri3	giri[foot]	N	25	_	heuristic: before verb	
+9	lu2-{d}szara2	lu2-{d}szara2	Luszara[1][-ak]	PN	25	_	heuristic: before verb	
+10	lu2-eb-gal	lu2-eb-gal	Lu'ebgal[1]	PN	25	_	heuristic: before verb	
+11	ur-{d}isztaran	ur-{d}isztaran	Urisztaran[1]	PN	25	_	heuristic: before verb	
+12	lu2-dingir-ra	lu2-dingir-ra	Ludingira[1][-ra]	PN	25	_	heuristic: before verb	
+13	di-ku5-bi-me	di-ku5-bi-me	dikud[judge]-bi[-ø]-mesz	N	25	nmod	_	
+14	mu	mu	mu[year]	N	25	nmod	_	
+15	bad3	bad3	bad[wall]	N	25	_	heuristic: before verbal head	
+16	mar-tu	mar-tu	Martu[1][-ø]	EN	25	_	heuristic: before verbal head	
+17	ba-du3	ba-du3	ba-du[build][-ø]	V	25	_	heuristic: before verbal head	
+18	u3	u3	u[and]	CNJ	25	_	heuristic: before verbal head	
+19	mu	mu	mu[year]	N	25	_	heuristic: before verbal head	
+20	us2-sa	us2-sa	us[follow]-a	V	25	_	heuristic: before verbal head	
+21	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	25	_	heuristic: before verbal head	
+22	lugal-e	lugal-e	lugal[king]-e	N	25	_	heuristic: before verbal head	
+23	bad3	bad3	bad[wall]	N	25	_	heuristic: before verbal head	
+24	mar-tu	mar-tu	Martu[1][-ø]	EN	25	_	heuristic: before verbal head	
+25	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	1	_	_
+	
+

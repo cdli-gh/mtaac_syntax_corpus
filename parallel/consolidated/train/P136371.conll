@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx
+# train/P136371.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	ugula	ugula	ugula[overseer][-ø]	N	1	_	heuristic: attach to head	
+4	usz-bar-ra	usz-bar-ra	_	N	1	_	heuristic: attach to head	
+5	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+6	lu2	lu2	lu[person]	N	1	_	heuristic: attach to head	
+7	azlag2-e-ne	azlag2-e-ne	_	N	1	_	heuristic: attach to head	
+8	sza3-iri	sza3-iri	Sza'iri[1][-ra]	PN	1	_	heuristic: attach to head	
+9	bar-ra	bar-ra	bar[outside]-ak	V	1	_	heuristic: attach to head	
+10	i3-in-gal2	i3-in-gal2	_	V	18	nmod	_	
+11	iti	iti	iti[month]	N	18	nmod	_	
+12	1(u)	1(u)	NU	NU	0	nummod	_	
+13	2(disz)-kam	2(disz)-kam	NU	NU	12	nummod	_	
+14	mu	mu	mu[year]	N	18	_	heuristic: attach to head	
+15	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	18	_	heuristic: attach to head	
+16	lugal	lugal	lugal[king]	N	18	_	heuristic: attach to head	
+17	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	18	_	heuristic: attach to head	
+18	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	1	_	_	
+19	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	0	_	_
+	
+

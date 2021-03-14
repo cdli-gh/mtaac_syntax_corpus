@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: young female gazelle Dada governor lamb Uumu lamb Szeshkalla on th day delivery Intaea has accepted via Nur-Suen scribe month Harvest year Szu-Suen became king
+# dev/P424387.atf
+1	1(disz)	1(disz)	NU	NU	0	nummod	_	
+2	amar	amar	amar[calf][-ak]	N	0	_	_	
+3	masz-da3-munus	masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	4	acl	_	
+4	da-da	da-da	Dada[1][-ak]	PN	0	root	_	
+5	ensi2	ensi2	ensik[ruler]	N	4	appos	_	
+6	1(disz)	1(disz)	NU	NU	8	nummod	_	
+7	sila4	sila4	sila[lamb]	N	8	nmod	_	
+8	u2-u2-mu	u2-u2-mu	_	PN	4	_	_	
+9	1(disz)	1(disz)	NU	NU	8	nummod	_	
+10	sila4	sila4	sila[lamb]	N	11	nmod	_	
+11	szesz-kal-la	szesz-kal-la	Szeszkala[1][-ra]	PN	8	_	_	
+12	u4	u4	ud[day]	N	18	LOC	_	
+13	2(u)	2(u)	NU	NU	18	nummod	_	
+14	la2	la2	la[hang][-ø]	V	13	_	_	
+15	1(disz@t)-kam	1(disz)-kam	NU	NU	14	nummod	_	
+16	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	18	_	_	
+17	in-ta-e3-a	in-ta-e3-a	Inta'e'a[1][-e]	PN	18	ABS	_	
+18	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	8	acl	_	
+19	giri3	giri3	giri[foot]	N	20	via	_	
+20	nu-ur2-{d}suen	nu-ur2-{d}suen	_	PN	18	via	_	
+21	dub-sar	dub-sar	dubsar[scribe]	N	20	appos	_	
+22	iti	iti	iti[month]	N	23	nmod	_	
+23	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	8	_	_	
+24	mu	mu	mu[year]	N	23	_	_	
+25	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	23	acl	_	
+26	lugal	lugal[king]	N	N	25	acl	_
+	
+

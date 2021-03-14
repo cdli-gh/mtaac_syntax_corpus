@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P139617.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+3	dabx(U8)-ba	dabx(U8)-ba	dab[seize]-a	PN	1	_	heuristic: attach to head	
+4	lu2	lu2	lu[person]	N	1	_	heuristic: attach to head	
+5	nig2-dab5-ba-ke4-ne	nig2-dab5-ba-ke4-ne	nigdab[requisitions]-ak-ene[-ø]	N	1	_	_	
+6	a-sza3	a-sza3	aszag[field]	N	1	_	heuristic: attach to head	
+7	gu2-edin-na	gu2-edin-na	Gu'edina[1][-ak][-'a]	SN	1	_	heuristic: attach to head	
+8	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+9	musz-bi-an-na	musz-bi-an-na	Muszbi'anna[1][-ak]	FN	1	_	heuristic: attach to head	
+10	guru7-ta	guru7-ta	_	N	1	_	heuristic: attach to head	
+11	e3-a	e3-a	e[leave]-a	V	1	_	heuristic: attach to head	
+12	giri3	giri3	giri[foot]	N	1	_	heuristic: attach to head	
+13	ensi2	ensi2	ensik[ruler]	N	1	_	heuristic: attach to head	
+14	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+15	na-bi2-{d}en-lil2-la2	na-bi2-{d}en-lil2-la2	_	PN	1	_	heuristic: attach to head	
+16	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	heuristic: attach to head	
+17	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
+18	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	1	_	heuristic: attach to head	
+19	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	1	_	heuristic: attach to head	
+20	lu2-{d}szara2	lu2-{d}szara2	Luszara[1][-ak]	PN	23	nmod	_	
+21	dub-sar	dub-sar	dubsar[scribe]	N	23	nmod	_	
+22	dumu	dumu	dumu[child]	N	23	_	heuristic: attach to head	
+23	lugal-en-nun	Lugalennun[1][-ak]	PN	PN.GEN	1	appos	_
+	
+

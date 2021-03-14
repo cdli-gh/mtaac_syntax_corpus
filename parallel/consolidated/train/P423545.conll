@@ -1,0 +1,35 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sila of plant oil from Szara-kam sealed tablet of governor Month nesag offering year after Amorite wall was built year after Szu-Suen strong king king of Ur king of four corners Ayakalla governor of Umma is your servant
+# train/P423545.atf
+1	1(disz)	1(disz)	NU	NU	3	nummod	_	
+2	1/2(disz)	1/2(disz)	NU	NU	1	nummod	_	
+3	sila3	sila3	sila[unit]	N	0	root	_	
+4	i3-gesz	i3-gesz	igesz[oil]	V	3	GEN	_	
+5	ki	ki	ki[place]	N	6	ABL	_	
+6	{d}szara2-kam-ta	{d}szara2-kam-ta	Szarakam[1][-ak]-ta	PN	3	ABL	_	
+7	kiszib3	kiszib3	kiszib[seal]	N	3	appos	_	
+8	ensi2	ensi2	ensik[ruler]	N	7	GEN	_	
+9	iti	iti	iti[month]	N	3	appos	_	
+10	nesag	nesag	Nesag[1][-'a]	N	9	appos	_	
+11	mu	mu	mu[year]	N	9	_	_	
+12	us2-sa	us2-sa	us[follow]-a	V	11	LOC	_	
+13	bad3	bad3	bad[wall]	N	15	_	_	
+14	mar-tu	mar-tu	Martu[1][-ø]	EN	15	ABS	_	
+15	ba-du3	ba-du3	ba-du[build][-ø]	V	3	parataxis	_	
+16	mu	mu	mu[year]	N	15	_	_	
+17	us2-sa-a-bi	us2-sa-a-bi	us[follow]-a-bi	V	16	LOC	_	
+18	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	19	nmod	_	
+19	lugal	lugal	lugal[king]	N	15	_	_	
+20	kal-ga	kal-ga	kalag[strong]-a	V	19	acl	_	
+21	lugal	lugal	lugal[king]	N	19	appos	_	
+22	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	21	GEN	_	
+23	lugal	lugal	lugal[king]	N	19	appos	_	
+24	an	an	An[1][-ra]	N	26	nummod	_	
+25	ub-da	ub-da	_	N	26	_	heuristic: attach to head	
+26	limmu2-ba	limmu2-ba	limmu[four]-bi-ak[-ø]	V	23	GEN	_	
+27	a-a-kal-la	a-a-kal-la	Ayakala[1]	PN	30	ABS	_	
+28	ensi2	ensi2	ensik[ruler]	N	27	appos	_	
+29	umma{ki}	umma{ki}	Umma[1][-ak][-ø]	SN	28	GEN	_	
+30	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	19	appos	_
+	
+

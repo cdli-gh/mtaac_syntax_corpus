@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts of nigdab men of borderlands bala after are here year Urbilum was destroyed
+# train/P203207.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	lu2	lu2	lu[person]	N	2	_	heuristic: attach to head	
+4	nig2-dab5	nig2-dab5	nigdab[requisitions]	N	2	_	heuristic: attach to head	
+5	ki-sur-ra-ke4	ki-sur-ra-ke4	_	N	2	GEN	_	
+6	bala	bala	bala[turn][-'a]	N	5	GEN	_	
+7	egir	egir	_	N	8	_	_	
+8	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	2	acl	_	
+9	mu	mu	mu[year]	N	8	_	_	
+10	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	11	ABS	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	9	acl	_
+	
+

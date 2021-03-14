@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx
+# train/P139618.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2	gurum2	gurum[inspection]	N	1	_	heuristic: attach to head	
+3	ak	ak	ak[excavate][-a][-ak]	V	1	_	heuristic: attach to head	
+4	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	1	_	heuristic: attach to head	
+5	{d}szara2	{d}szara2	Szara[1][-ak]	DN	1	_	heuristic: attach to head	
+6	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	1	_	heuristic: attach to head	
+7	dingir-re-ne	dingir-re-ne	_	PN	1	_	_	
+8	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	1	_	heuristic: attach to head	
+9	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+10	iri-ka	iri-ka	_	PN	1	_	heuristic: attach to head	
+11	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+12	nig2-diri	nig2-diri	_	N	1	_	heuristic: attach to head	
+13	da-umma{ki}	da-umma{ki}	Da'umma[1][-ak]	SN	1	_	heuristic: attach to head	
+14	erin2	erin2	erin[people]	N	1	_	heuristic: attach to head	
+15	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	1	_	heuristic: attach to head	
+16	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
+17	gurum2	gurum2	gurum[inspection]	N	1	_	heuristic: attach to head	
+18	lu2-du10-ga	lu2-du10-ga	Luduga[1]	PN	23	nmod	_	
+19	KA	KA	ka[mouth]	N	23	_	heuristic: attach to head	
+20	u2-sa	u2-sa	_	N	23	_	heuristic: attach to head	
+21	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	23	nmod	_	
+22	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+23	sza-asz-ru{ki}	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	1	_	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P129708.atf
+# tr.en: mana shekels less grains silver remainder of account against ubidam trade agent exists it is to be repaid via Ki-tulu scribe and Sipa-inimgina year For rd time Simuurrum was destroyed
+1	2(disz)	2(disz)	NU	NU	10	nummod	projectivity violation	
+2	1/2(disz)	1/2(disz)	NU	NU	1	nummod	_	
+3	ma-na	ma-na	mana[unit]	N	0	root	_	
+4	4(disz)	4(disz)	NU	NU	5	nummod	heuristic: NU premodifying	
+5	gin2	gin2	gig[unit]	N	3	_	_	
+6	la2	la2	la[hang][-ø]	V	10	_	_	
+7	1(u)	1(u)	NU	NU	6	nummod	_	
+8	5(disz)	5(disz)	NU	NU	7	nummod	_	
+9	sze	sze	sze[barley]	N	10	nmod	_	
+10	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	15	ABS	_	
+11	si-i3-tum	si-i3-tum	situm[balance]	N	10	appos	_	
+12	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	11	GEN	_	
+13	hu-bi2-dam	hu-bi2-dam	_	PN	10	LOC	_	
+14	dam-gar3	dam-gar3	damgar[merchant][-ak]	N	10	appos	_	
+15	in-da-gal2	in-da-gal2	i-n-da-gal[be][-ø]	V	5	acl	_	
+16	su-su-dam	su-su-dam	sug-sug[repay]-ed[-ø]-am	PN	3	parataxis	_	
+17	giri3	giri3	giri[foot]	N	18	via	_	
+18	ki-tusz-lu2	ki-tusz-lu2	Kituszlu[1][-ra]	PN	27	via	projectivity violation	
+19	dub-sar	dub-sar	dubsar[scribe]	N	18	appos	_	
+20	u3	u3	u[and]	CNJ	19	appos	_	
+21	sipa-inim-gi-na	sipa-inim-gi-na	_	PN	19	appos	_	
+22	mu	mu	mu[year]	N	21	_	heuristic: attach to last	
+23	us2-sa	us2-sa	us[follow]-a	V	22	_	heuristic: attach to last	
+24	a-ra2	a-ra2	ara[times]	N	23	_	heuristic: attach to last	
+25	3(disz)-kam	3(disz)-kam	NU	NU	3	nummod	projectivity violation	
+26	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	27	ABS	_	
+27	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	16	parataxis	_
+	
+

@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For goddess DN her mistress Tarm-Uram daughter of Apil-kn the king of Mari bride of Ur-Namma king of Ur
+# dev/P432162.atf new_text=P432162
+# dev/P432162.atf						#new_text=P432162
+1	'.	SEGM	XPOSTAG	XPOSTAG	3	_	_	
+2	x	_[_]	N	N	1	dep	heuristic: attach to head	
+3	x	_[_]	N	N	0	dep	_	
+4	'.	_	_	_	5	_	_	
+5	nin-a-ni-ir	_[her.mistress]	PN	N.3-SG-H-POSS.DAT-H	1	appos	_	
+6	'.	_	_	_	5	_	_	
+7	da-ra-am-uri5{ki}-am	_[Tarm-Uram]	PN	PN	5	appos	_	
+8	'.	_	_	_	5	_	heuristic: after nominal head	
+9	dumu-munus	dumumunus[daughter]	N	N	5	appos	_	
+10	a-pil-ki-in	_[Apil-kn]	PN	RN	9	GEN	_	
+11	'.	_[the]	_	_	12	nmod	_	
+12	lugal	lugal[king]	N	N	9	appos	_	
+13	ma-ri2{ki}-ka	_[Mari]	SN	SN.GEN.GEN	12	GEN	_	
+14	'.	_	_	_	13	_	heuristic: after nominal head	
+15	e2-gi4-a	_[bride]	N	N	13	appos	_	
+16	'.	_	_	_	15	_	heuristic: attach to last	
+17	ur-{d}namma	Urnamma[1]	RN	RN	15	GEN	_	
+18	'.	_	_	_	13	_	heuristic: after nominal head	
+19	lugal	lugal[king]	N	N	13	appos	_	
+20	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	19	GEN	_
+	
+

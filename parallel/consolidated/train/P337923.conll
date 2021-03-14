@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P337923.atf
+# tr.en: Basket-of-tablets Accounts of men accepting rations of balas are here year Szaru was destroyed
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9	nig2-ka9	nigSZID[account]	N	7	ABS	_	
+3	lu2	lu2	lu[person]	N	2	GEN	_	
+4	szuku	szuku	szukur[prebend_land]	N	3	_	heuristic: attach to last	
+5	dab5-ba	dab5-ba	dab[seize]-a	V	4	_	heuristic: attach to last	
+6	bala-a-ke4-ne	bala-a-ke4-ne	_	N	2	GEN	_	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+8	mu	mu	mu[year]	N	10	_	_	
+9	sza-asz-ru{ki}	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	10	_	_	
+10	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	7	parataxis	_
+	
+

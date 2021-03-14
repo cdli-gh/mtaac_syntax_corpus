@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx in basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P141095.atf
+1	1(u)	1(u)	NU	NU	0	nummod	_	
+2	gin2	gin2	gig[unit]	N	0	_	_	
+3	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	23	nmod	_	
+4	la2-ia3	la2-ia3	la'u[arrears]	N	23	_	heuristic: attach to head	
+5	su-ga	su-ga	sug[repay]-a	V	23	nmod	_	
+6	tug2	tug2	tug[textile]	N	23	_	heuristic: attach to head	
+7	usz-bar-bi	usz-bar-bi	_	N	23	nmod	_	
+8	2(u)-kam	2(u)-kam	NU	NU	23	nummod	heuristic: NU premodifying	
+9	giri3	giri3	giri[foot]	N	23	_	heuristic: attach to head	
+10	i3-kal-la	i3-kal-la	Ikala[1][-ak]	PN	23	nmod	_	
+11	nig2!-ka9	nig2-ka9	nigSZID[account]	N	23	nmod	_	
+12	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+13	ma-da	ma-da	mada[land][-ak][-ø]	N	23	_	heuristic: attach to head	
+14	za-ab-sza-li{ki}-ka	za-ab-sza-li{ki}-ka	_	GN	23	nmod	_	
+15	ugu2	ugu2	ugu[capital]	N	23	_	heuristic: attach to head	
+16	gu-du-du	gu-du-du	Gududu[1]	PN	23	nmod	_	
+17	ba-a-gar	ba-a-gar	ba-e-gar[place][-ø]	V	23	_	heuristic: attach to head	
+18	nig2-ka9	nig2-ka9	nigSZID[account]	N	23	nmod	_	
+19	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+20	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	23	_	heuristic: attach to head	
+21	lugal-ka	lugal-ka	_	DN	23	nmod	_	
+22	i3-kal-la	i3-kal-la	Ikala[1][-ak]	PN	23	_	heuristic: attach to head	
+23	nig2-ka9-a	nig2-ka9-a	_	N	0	root	_	
+24	ba-an-ak	ba-an-ak	_	V	23	_	heuristic: attach to head	
+25	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+26	kiszib3	kiszib3	kiszib[seal]	N	23	_	heuristic: attach to head	
+27	ugu2-a	ugu2-a	ugu[capital]-'a	N	23	_	heuristic: attach to head	
+28	ga2-ra	ga2-ra	_	V	23	_	heuristic: attach to head	
+29	pisan-dub-ba-ka	pisan-dub-ba-ka	_	N	23	LOC	_	
+30	ki	ki	ki[place]	N	23	_	heuristic: attach to head	
+31	gu-du-du-ta	gu-du-du-ta	_	PN	23	_	heuristic: attach to head	
+32	tum3-da-sze3	tum3-da-sze3	_	V	23	_	_	
+33	kiszib3	kiszib3	kiszib[seal]	N	23	_	heuristic: attach to head	
+34	i3-kal-la	i3-kal-la	Ikala[1][-ak]	PN	41	_	_	
+35	mu	mu	mu[year]	N	41	_	heuristic: attach to head	
+36	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	41	_	_	
+37	lugal	lugal	lugal[king]	N	41	_	heuristic: attach to head	
+38	i3-kal-la	i3-kal-la	Ikala[1][-ak]	PN	41	nmod	_	
+39	dub-sar	dub-sar	dubsar[scribe]	N	41	nmod	_	
+40	dumu	dumu	dumu[child]	N	41	_	_	
+41	lu2-sa6-ga	_[xxx]	PN	PN	23	appos	_
+	
+

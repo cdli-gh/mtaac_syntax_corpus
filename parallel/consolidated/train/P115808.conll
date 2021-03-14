@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P115808.atf
+# tr.en: Basket-of-tablets sheep fat-tailed sheep stationed Abi-simti foreman Sziaya cattle manager sheep k of queen foreman Izu-arik cattle manager sheep of palace foreman Nawer-ili Namani cattle manager are here in Girsu year following Szu-Suen king of Ur Martu wall muriq-tidnim erected
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	udu	udu	udu[sheep]	N	21	ABS	_	
+3	gukkal	gukkal	gukkal[fat-tailed_sheep]	N	2	appos	_	
+4	gub-ba	gub-ba	gub[assigned]-a[-ak][-ø]	V	3	acl	_	
+5	a-bi2-si2-im-ti	a-bi2-si2-im-ti	Abisimti[1][-ak]	PN	7	acl	_	
+6	ugula	ugula	ugula[overseer][-ø]	N	7	nmod	_	
+7	szi-a-a	szi-a-a	_	PN	2	appos	_	
+8	szusz3	szusz3	kusz[cattle_manager][-ak]	N	2	appos	_	
+9	udu	udu	udu[sheep]	N	10	nmod	_	
+10	ku-ba-tum	ku-ba-tum	Kubatum[1][-ak][-'a]	PN	2	appos	_	
+11	nin	nin	_	N	10	GEN	_	
+12	ugula	ugula	ugula[overseer][-ø]	N	13	nmod	_	
+13	i-zu-a-ri2-ik	i-zu-a-ri2-ik	_	PN	2	appos	_	
+14	szusz3	szusz3	kusz[cattle_manager][-ak]	N	2	appos	_	
+15	udu	udu	udu[sheep]	N	2	appos	_	
+16	e2-gal	e2-gal	egal[palace][-ak][-'a]	N	15	GEN	_	
+17	ugula	ugula	ugula[overseer][-ø]	N	18	nmod	_	
+18	na-we-er-dingir	na-we-er-dingir	_	PN	2	appos	_	
+19	nam-ha-ni	nam-ha-ni	Namhani[1]	N	2	appos	_	
+20	szusz3	szusz3	kusz[cattle_manager][-ak]	N	2	appos	_	
+21	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+22	sza3	sza3	szag[heart]	N	23	LOC	_	
+23	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	21	LOC	_	
+24	mu	mu	mu[year]	N	25	nmod	_	
+25	us2-sa	us2-sa	us[follow]-a	V	23	appos	_	
+26	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	25	_	_	
+27	lugal	lugal	lugal[king]	N	26	appos	_	
+28	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	27	GEN	_	
+29	bad3	bad3	bad[wall]	N	26	_	_	
+30	mar-tu	mar-tu	Martu[1][-ø]	EN	31	nmod	_	
+31	mu-ri-iq-ti-id-ni-im	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	26	appos	_	
+32	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	31	acl	_
+	
+

@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P332522.atf
+# tr.en: gur barig barley surplus of account of year house of Szara was built Lu-Nanna
+1	5(u)	5(u)	NU	NU	4	nummod	_	
+2	5(asz)	5(asz)	NU	NU	1	nummod	_	
+3	1(barig)	1(barig)	NU	NU	4	nummod	_	
+4	sze	sze	sze[barley]	N	0	root	_	
+5	gur	gur	gur[unit]	N	4	appos	_	
+6	diri	diri	diri[intercalary_month]	N	4	appos	_	
+7	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	6	GEN	_	
+8	mu	mu	mu[year]	N	7	GEN	_	
+9	e2	e2	e[house]	N	11	ABS	_	
+10	{d}szara2	{d}szara2	Szara[1][-ak]	DN	9	GEN	_	
+11	ba-du3	ba-du3	ba-du[build][-ø]	V	4	acl	_	
+12	lu2-{d}nanna	Lunanna[1]	PN	PN	11	acl	_
+	
+

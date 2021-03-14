@@ -1,0 +1,33 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P212348.atf
+# tr.en: mana of silver for Nanna mana of silver for Ningal-enuna royal offerings Out of Lu-dingira booked In Ur Month Akitu year Bitum-rabium Iabru with its territories and Huhnuri were destroyed
+1	n	n	_(_)[_]	NU	10	_	_	
+2	ma-na	ma-na	mana[unit]	N	10	ABS	_	
+3	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	2	GEN	_	
+4	...	...	_[_]	PN	3	dep	_	
+5	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	10	DAT	_	
+6	n	n	_(_)[_]	NU	10	_	_	
+7	ma-na	ma-na	mana[unit]	N	10	ABS	_	
+8	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	7	GEN	_	
+9	{d}nin-gal-e2-nun-na	{d}nin-gal-e2-nun-na	_	PN	10	DAT	_	
+10	a-ru-a	a-ru-a	_	GN	0	root	_	
+11	lugal	lugal	lugal[king]	N	10	acl	_	
+12	ki	ki	ki[place]	N	10	_	heuristic: attach to head	
+13	lu2-dingir-ra-ta	lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	10	_	_	
+14	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	13	acl	_	
+15	sza3	sza3	szag[heart]	N	16	LOC	_	
+16	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	14	LOC	_	
+17	iti	iti	iti[month]	N	10	appos	_	
+18	a2-ki-ti	a2-ki-ti	Akiti[1][-'a]	N	10	_	_	
+19	mu	mu	mu[year]	N	10	_	_	
+20	bi2-tum-ra-bi2-um	bi2-tum-ra-bi2-um	_	PN	10	acl	_	
+21	ki	ki	ki[place]	N	23	COM	_	
+22	i3-ab-ru{ki}	i3-ab-ru{ki}	_	GN	23	nmod	_	
+23	ma-da{ki}-bi	ma-da{ki}-bi	_	GN	10	COM	_	
+24	u3	u3	u[and]	CNJ	10	appos	_	
+25	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	10	appos	_	
+26	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	27	_	_	
+27	...	...	_[_]	PN	10	dep	_	
+28	ma-na	mana[unit]	N	N	0	root	_
+	
+

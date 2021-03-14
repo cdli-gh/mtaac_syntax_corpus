@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king whom Enlil as beloved in his heart did choose as shepherd of his country the strong king
+# train/P432305.atf new_text=P432305
+# train/P432305.atf						#new_text=P432305
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	nmod	_	
+2	lugal	lugal[king]	N	N	0	root	_	
+3	{d}en-lil2-le	_[whom.Enlil]	DN	DN.ERG	9	ABS	_	
+4	'.	_	_	_	3	_	heuristic: attach to last	
+5	ki-ag2	ki'ag[love][-ø]	V	NF.V	9	acl	_	
+6	'.	_	_	_	5	_	heuristic: attach to last	
+7	sza3-ga-na	Szagana[1]	N	N.3-SG-H-POSS.L1	5	LOC	_	
+8	'.	_	_	_	7	_	heuristic: attach to last	
+9	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	2	acl	_	
+10	'.	_	_	_	9	_	heuristic: attach to last	
+11	sipa	sipa[shepherd]	N	N	10	_	heuristic: attach to last	
+12	kalam-ma-sze3	_[as.shepherd.his.country]	N	N.3-SG-H-POSS.GEN.GEN.TERM	9	LOC	_	
+13	'.	_[the]	_	_	14	nmod	_	
+14	lugal	lugal[king]	N	N	2	appos	_	
+15	kal-ga	kalag[strong]-a	V	NF.V.SUB	14	acl	_
+	
+

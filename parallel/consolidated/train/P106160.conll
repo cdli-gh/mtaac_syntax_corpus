@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets debits and credits goods from Intaea from month Gazelle-feast to extra month Festival-of-Mekigal following one months year Simanum was destroyed are here
+# train/P106160.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sag-nig2-gur11-ra	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	1	_	_	
+3	u3	u3	u[and]	CNJ	2	appos	_	
+4	zi-ga	zi-ga	zig[expend]-a	V	2	appos	_	
+5	gur11-gur11-ra-a	gur11-gur11-ra-a	_	V	2	appos	_	
+6	ki	ki	ki[place]	N	7	ABL	_	
+7	in-ta-e3-a-<ta>	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	2	ABL	_	
+8	iti	iti	iti[month]	N	2	ABL	_	
+9	masz-da3-gu7-ta	masz-da3-gu7-ta	Maszdagu[1]-ta	MN	8	ABL	_	
+10	iti	iti	iti[month]	N	2	LOC	_	
+11	diri	diri	diri[intercalary_month]	N	10	acl	_	
+12	ezem-me-ki-gal2-e	ezem-me-ki-gal2-e	_	N	10	LOC	_	
+13	us2-sa-sze3	us2-sa-sze3	_	V	2	_	_	
+14	iti	iti	iti[month]	N	2	appos	_	
+15	1(u)	1(u)	NU	NU	2	nummod	_	
+16	2(disz)-kam	2(disz)-kam	NU	NU	15	nummod	_	
+17	mu	mu	mu[year]	N	2	appos	_	
+18	si-ma-num2{ki}	si-ma-num2{ki}	Simanum[1][-ø]	GN	19	ABS	_	
+19	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	2	acl	_	
+20	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	19	_	_
+	
+

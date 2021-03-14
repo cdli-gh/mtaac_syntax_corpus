@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# test/P121773.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sag-nig2-gur11-ra	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	1	_	_	
+3	gi	gi	gi[reed][-ø]	N	17	_	heuristic: before verb	
+4	szesz-a-ni	szesz-a-ni	Szeszani[1][-ak]	PN	17	_	heuristic: before verb	
+5	mu	mu	mu[year]	N	17	_	heuristic: before verb	
+6	6(disz)-kam	6(disz)-kam	NU	NU	17	nummod	heuristic: NU premodifying	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	17	nmod	_	
+8	mu	mu	mu[year]	N	17	_	heuristic: before verbal head	
+9	us2-sa	us2-sa	us[follow]-a	V	17	_	heuristic: before verbal head	
+10	a-ra2	a-ra2	ara[times]	N	17	_	heuristic: before verbal head	
+11	3(disz)-kam	3(disz)-kam	NU	NU	17	nummod	heuristic: NU premodifying	
+12	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	17	nmod	_	
+13	ba-hul-ta	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	17	_	heuristic: before verbal head	
+14	mu	mu	mu[year]	N	17	_	heuristic: before verbal head	
+15	us2-sa	us2-sa	us[follow]-a	V	17	_	heuristic: before verbal head	
+16	bad3	bad3	bad[wall]	N	17	_	heuristic: before verbal head	
+17	ba-du3-sze3	_[xxx]	V	V	1	_	_
+	
+

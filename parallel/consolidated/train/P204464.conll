@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P204464.atf
+# tr.en: Basket-of-tablets inspections via Aga boatmen harbor laborers and from Girsu to Guabba are here year chair of Enlil was fashioned
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	11	ABS	_	
+3	giri3	giri3	giri[foot]	N	6	via	_	
+4	a-ga	a-ga	_	N	6	nmod	_	
+5	ma2-lah4	ma2-lah4	_	PN	6	nmod	_	
+6	x	x	_[_]	N	2	dep	_	
+7	x	x	_[_]	N	2	dep	_	
+8	x	x	_[_]	N	11	dep	heuristic: attach to head	
+9	x	x	_[_]	N	11	dep	heuristic: attach to head	
+10	lu2	lu2	lu[person]	N	11	_	_	
+11	mar-sa-ke4-ne	mar-sa-ke4-ne	_	PN	1	acl	_	
+12	u3	u3	u[and]	CNJ	16	ABS	projectivity violation	
+13	bur2-bi	bur2-bi	_	V	11	appos	projectivity violation	
+14	gir2-su{ki}-ta	gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	12	ABL	_	
+15	gu2-ab-ba{ki}-sze3	gu2-ab-ba{ki}-sze3	_	SN	14	LOC	_	
+16	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	11	appos	_	
+17	mu	mu	mu[year]	N	11	_	_	
+18	{gesz}gu-za	{gesz}gu-za	guza[chair]	N	20	ABS	_	
+19	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	18	GEN	_	
+20	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	17	acl	_
+	
+

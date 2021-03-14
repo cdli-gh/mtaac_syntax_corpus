@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P482024.atf
+# tr.en: male laborers labor for years they being fishermen from year following For rd time Simurrum was destroyed to year following wall was erected mana silver silver of fisheries-tithe under seal of Umani
+1	4(u)	4(u)	NU	NU	2	nummod	_	
+2	gurusz	gurusz	gurusz[male]	N	0	root	_	
+3	a2	a2	a[time]	N	2	appos	_	
+4	1/2(disz)	1/2(disz)	NU	NU	5	nummod	heuristic: NU premodifying	
+5	mu	mu	mu[year]	N	2	DAT	_	
+6	6(disz)-sze3	6(disz)-sze3	NU	NU	2	nummod	_	
+7	szu-ku6-me	szu-ku6-me	_	N	2	acl	_	
+8	mu	mu	mu[year]	N	2	ABL	_	
+9	us2-sa	us2-sa	us[follow]-a	V	8	acl	_	
+10	a-ra2	a-ra2	ara[times]	N	8	_	_	
+11	3(disz@t)-kam	3(disz)-kam	NU	NU	8	nummod	_	
+12	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	8	ABS	_	
+13	ba-hul-ta	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	8	ABL	_	
+14	mu	mu	mu[year]	N	8	LOC	_	
+15	us2-sa	us2-sa	us[follow]-a	V	14	acl	_	
+16	bad3	bad3	bad[wall]	N	2	ABS	projectivity violation	
+17	ba-du3-sze3	ba-du3-sze3	_	V	14	LOC	_	
+18	4(disz)	4(disz)	NU	NU	20	nummod	_	
+19	ma-na	ma-na	mana[unit]	N	20	nmod	_	
+20	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	2	ABS	projectivity violation	
+21	ku3	ku3	kug[silver]	N	20	_	heuristic: attach to last	
+22	nam-enku	nam-enku	_	N	18	GEN	_	
+23	kiszib3	kiszib3	kiszib[seal]	N	2	LOC	_	
+24	u3-ma-ni	Umani[1]	V	PN	23	GEN	_
+	
+

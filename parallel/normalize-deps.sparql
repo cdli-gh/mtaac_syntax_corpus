@@ -1,0 +1,130 @@
+# normalize dependency labels from conll:EN_EDGE (annotation projection)
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# normalize projected annotations
+DELETE {
+	?w conll:EN_EDGE ?old
+} INSERT {
+	?w conll:EN_EDGE ?new
+} WHERE {
+	?w conll:EN_EDGE ?old.
+	VALUES (?old ?new) {
+		("nmod:'" 	"nmod:of")
+		("nmod:of.'s"	"nmod:of.of")
+		("nmod:'s"	"nmod:of")
+	}
+};
+
+# approximative mapping from UD v.1 / Stanford labels to MTAAC labels
+DELETE {
+	?w conll:EN_EDGE ?ud
+} INSERT {
+	?w conll:EN_EDGE ?mtaac
+} WHERE {
+	?w conll:EN_EDGE ?ud.
+	VALUES (?ud ?mtaac) {
+		# "regular" MTAAC dependencies, partially inherited from royal
+		("acl"	"acl")
+		("acl:relcl"	"acl")
+		("advcl"	"acl.ADV")
+		("advmod"	"_")
+		("amod"	"amod")
+		("appos"	"appos")
+		("aux"	"_")
+		("auxpass"	"_")
+		("cc"	"appos")
+		("ccomp"	"parataxis")
+		("compound"	"appos")
+		("compound:prt"	"_")
+		("conj"	"appos")
+		("cop"	"_")
+		("csubj"	"ccomp ")
+		("csubjpass"	"ccomp ")
+		("dep"	"_")
+		("det"	"appos")
+		("det:predet"	"_")
+		("dobj"	"ABS")
+		("expl"	"_")
+		("iobj"	"DAT")
+		("mark"	"_")
+		("neg"	"_")
+		("nmod"	"dep")
+		("nmod:'"	"GEN")
+		("nmod:above"	"LOC")
+		("nmod:accord"	"TERM")
+		("nmod:after"	"LOC")
+		("nmod:against"	"LOC")
+		("nmod:among"	"LOC")
+		("nmod:as"	"LOC")
+		("nmod:as.by"	"EQU")
+		("nmod:as.en"	"EQU")
+		("nmod:at"	"LOC")
+		("nmod:because"	"GEN.TERM")
+		("nmod:before"	"LOC")
+		("nmod:behind"	"LOC")
+		("nmod:below"	"LOC")
+		("nmod:beside"	"LOC")
+		("nmod:between"	"LOC")
+		("nmod:by"	"ERG")
+		("nmod:concern"	"GEN.ABS")
+		("nmod:follow"	"amod")
+		("nmod:for"	"DAT")
+		("nmod:for.of"	"DAT")
+		("nmod:from"	"ABL")
+		("nmod:from.across"	"ABL")
+		("nmod:from.among"	"ABL")
+		("nmod:from.within"	"ABL")
+		("nmod:give"	"GEN")
+		("nmod:in"	"LOC")
+		("nmod:in.of"	"LOC")
+		("nmod:inside"	"LOC")
+		("nmod:instead"	"TERM")
+		("nmod:into"	"TERM")
+		("nmod:like"	"EQU")
+		("nmod:npmod"	"appos")
+		("nmod:of"	"GEN")
+		("nmod:of.of"	"GEN.GEN")
+		("nmod:of.'s"	"GEN.GEN")
+		("nmod:off.to"	"TERM")
+		("nmod:on"	"LOC")
+		("nmod:onto"	"TERM")
+		("nmod:out"	"ABL")
+		("nmod:out.of"	"ABL")
+		("nmod:over"	"LOC")
+		("nmod:per"	"LOC")
+		("nmod:poss"	"appos")
+		("nmod:'s"	"GEN")
+		("nmod:since"	"LOC")
+		("nmod:than"	"acl")
+		("nmod:through"	"TERM")
+		("nmod:tmod"	"date")
+		("nmod:to"	"LOC")
+		("nmod:towards"	"TERM")
+		("nmod:under"	"LOC")
+		("nmod:until"	"TERM")
+		("nmod:up"	"LOC")
+		("nmod:up.against"	"TERM")
+		("nmod:upon"	"TERM")
+		("nmod:via"	"via")
+		("nmod:with"	"COM")
+		("nmod:within"	"LOC")
+		("nmod:without"	"amod")
+		("nsubjpass"	"ABS")
+		("nummod"	"nummod")
+		("parataxis"	"parataxis")
+		("root"	"root")
+		("xcomp"	"acl")
+		
+		# left for subsequent disambiguation (after phrases are established): map to ERG is another ABS argument is found, map to ABS otherwise
+		("nsubj"	"nsubj")
+		
+	}
+};	

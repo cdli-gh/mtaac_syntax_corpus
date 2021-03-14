@@ -1,0 +1,34 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P320284.atf
+# tr.en: gur barig of barley royal Barley loan for plowmen of oxen overseer from warehouse of Ninhursag from Bazi instead of Manum under seal of Namani his brother household of Namani month Amar-ayasi year Kima was destroyed Namani scribe
+1	1(u)	1(u)	NU	NU	4	nummod	projectivity violation	
+2	3(asz)	3(asz)	NU	NU	1	nummod	_	
+3	4(barig)	4(barig)	NU	NU	5	nummod	projectivity violation	
+4	sze	sze	sze[barley]	N	3	GEN	_	
+5	gur	gur	gur[unit]	N	0	root	_	
+6	lugal	lugal	lugal[king]	N	4	appos	projectivity violation	
+7	sze	sze	sze[barley]	N	6	_	heuristic: attach to last	
+8	ur5-ra	ur5-ra	urra[loan]	N	4	appos	projectivity violation	
+9	engar	engar	engar[farmer]	N	8	_	heuristic: attach to last	
+10	nu-banda3-	nu-banda3-	_	N	8	appos	_	
+11	i3-dub	i3-dub	idub[granary]	N	12	ABL	_	
+12	{d}nin-hur-sag-ta	{d}nin-hur-sag-ta	_	DN	8	ABL	_	
+13	ki	ki	ki[place]	N	14	ABL	_	
+14	ba-zi-ta	ba-zi-ta	_	PN	4	ABL	projectivity violation	
+15	mu	mu	mu[year]	N	14	_	heuristic: attach to last	
+16	ma-an-szum2-	ma-an-szum2-	_	PN	4	TERM	projectivity violation	
+17	kiszib3	kiszib3	kiszib[seal]	N	16	LOC	_	
+18	nam-ha-ni	nam-ha-ni	Namhani[1]	N	17	GEN	_	
+19	szesz-a-na	szesz-a-na	_	N	5	appos	_	
+20	e2	e2	e[house]	N	0	_	detached for projectivity	
+21	nam-ha-ni	nam-ha-ni	Namhani[1]	N	20	GEN	_	
+22	iti	iti	iti[month]	N	23	_	_	
+23	amar-a-a-si	amar-a-a-si	Amarayasi[1][-'a]	MN	0	_	detached for projectivity	
+24	mu	mu	mu[year]	N	23	_	_	
+25	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	24	_	heuristic: attach to last	
+26	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	5	acl	_	
+27	nam-ha-ni	nam-ha-ni	Namhani[1]	N	5	appos	_	
+28	dub-sar	dub-sar	dubsar[scribe]	N	27	appos	_	
+29	...	_[_]	PN	N	0	dep	_
+	
+

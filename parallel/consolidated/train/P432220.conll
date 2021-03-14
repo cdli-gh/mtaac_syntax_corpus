@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432220.atf
+# tr.en: To Ninlil his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad for his life he dedicated to her
+1	{d}nin-lil2	{d}nin-lil2	Ninlil[1][-ra]	DN	0	root	_	
+2	nin-a-ni	nin-a-ni	nin[lady]-ani[-ra]	PN	1	ABS	_	
+3	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	2	appos	_	
+4	nita	nita	nita[male]	N	5	nmod	_	
+5	kal-ga	kal-ga	kalag[strong]-a	V	1	_	_	
+6	lugal	lugal	lugal[king]	N	5	appos	_	
+7	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	6	GEN	_	
+8	lugal	lugal	lugal[king]	N	5	appos	_	
+9	ki-en-gi	ki-en-gi	ki'engi[1]	GN	8	GEN	_	
+10	ki-uri-ke4	ki-uri-ke4	_	GN	5	appos	_	
+11	nam-ti-la-ni-sze3	nam-ti-la-ni-sze3	_	N	5	DAT	_	
+12	a	a	a[water][-ø]	N	13	ABS	_	
+13	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	11	acl	_
+	
+

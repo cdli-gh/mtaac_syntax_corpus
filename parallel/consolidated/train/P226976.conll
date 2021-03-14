@@ -1,0 +1,10 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ti-atal king of Karaar Maiam-Edar is your servant
+# train/P226976.atf
+1	{d}ti4!-sa-a-tal	{d}ti4-sa-a-tal	_	PN	0	_	_	
+2	_lugal_	lugal	lugal[king]	N	0	root	_	
+3	kar2-har{ki}	kar2-har{ki}	_	GN	2	GEN	_	
+4	ma-s,i-am-esz18-dar	ma-si-am-esz18-dar	_	PN	3	root	heuristic: attach to head	
+5	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	3	_	_
+	
+

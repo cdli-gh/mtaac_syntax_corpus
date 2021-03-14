@@ -1,0 +1,31 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male suckling lambs suckling ewe lambs newborns in nakabtum th day Szulgi-ayagu received month Great Festival second year high-priestess of Nanna was hired sheep
+# train/P127515.atf
+1	1(u)	1(u)	NU	NU	4	nummod	projectivity violation	
+2	8(disz)	8(disz)	NU	NU	7	nummod	projectivity violation	
+3	sila4	sila4	sila[lamb]	N	4	acl	_	
+4	ga	ga	ga[milk]	N	0	root	_	
+5	1(u)	1(u)	NU	NU	4	nummod	_	
+6	6(disz)	6(disz)	NU	NU	5	nummod	_	
+7	kir11	kir11	kir[female_lamb]	N	4	appos	_	
+8	ga	ga	ga[milk]	N	7	appos	_	
+9	u3-tu-da	u3-tu-da	_	PN	4	appos	_	
+10	sza3	sza3	szag[heart]	N	11	LOC	_	
+11	na-gab2-tum	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	4	LOC	_	
+12	u4	u4	ud[day]	N	11	appos	_	
+13	2(u)	2(u)	NU	NU	4	nummod	_	
+14	4(disz)-kam	4(disz)-kam	NU	NU	13	nummod	_	
+15	{d}szul-gi-a-a-mu	{d}szul-gi-a-a-mu	Szulgirayamu[1][-e]	PN	16	ABS	_	
+16	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	4	parataxis	_	
+17	iti	iti	iti[month]	N	19	_	_	
+18	ezem-mah	ezem-mah	Ezemmah[1][-'a]	MN	19	nmod	_	
+19	min3-kam	min3-kam	_	NU	16	parataxis	_	
+20	mu	mu	mu[year]	N	19	_	_	
+21	en	en	en[priest]	N	23	ABS	_	
+22	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	21	GEN	_	
+23	ba-hun	ba-hun	ba-hug[hire][-ø]	V	19	parataxis	_	
+24	3(u)	3(u)	NU	NU	4	nummod	projectivity violation	
+25	4(disz)	4(disz)	NU	NU	24	nummod	_	
+26	udu	udu[sheep]	N	N	23	appos	_
+	
+

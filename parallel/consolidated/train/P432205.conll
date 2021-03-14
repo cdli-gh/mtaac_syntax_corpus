@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Szulgi the mighty man king of Ur and king
+# train/P432205.atf new_text=P432205
+# train/P432205.atf						#new_text=P432205
+1	{d}szul-gi	Szulgir[1]	RN	RN	0	root	_	
+2	nita	nita[male]	N	N	3	nmod	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	acl	_	
+

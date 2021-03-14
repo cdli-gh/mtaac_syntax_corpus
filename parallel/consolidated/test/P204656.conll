@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P204656.atf
+# tr.en: Basket-of-tablets long-tablets Ur-Enlil Akalla son of Ursaga Ur-Baba son of Ur-iedina Ur-Nane son of Ur-Eanna Ur-Lamma son of Urnig and Iddina son of Lu-girizal are here year Enmagalann was hired
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	dub-gid2-da	dub-gid2-da	_	N	20	ABS	_	
+3	ur-{d}en-lil2	ur-{d}en-lil2	_	PN	2	appos	_	
+4	a-kal-la	a-kal-la	Akala[1]	PN	2	appos	_	
+5	dumu	dumu	dumu[child]	N	2	appos	_	
+6	ur-sa6-ga	ur-sa6-ga	Ursaga[1][-ak]	PN	5	GEN	_	
+7	ur-{d}ba-ba6	ur-{d}ba-ba6	Urbaba[1]	PN	6	appos	_	
+8	dumu	dumu	dumu[child]	N	6	appos	_	
+9	ur-i7-edin-na	ur-i7-edin-na	_	PN	8	GEN	_	
+10	ur-{d}nansze	ur-{d}nansze	Urnansze[1]	PN	9	appos	_	
+11	dumu	dumu	dumu[child]	N	9	appos	_	
+12	ur-e2-an-na	ur-e2-an-na	_	PN	11	GEN	_	
+13	ur-{d}lamma	ur-{d}lamma	Urlamma[1]	PN	12	appos	_	
+14	dumu	dumu	dumu[child]	N	12	appos	_	
+15	ur-nig2	ur-nig2	_	PN	14	GEN	_	
+16	u3	u3	u[and]	CNJ	12	appos	_	
+17	ma-an-szum2-na	ma-an-szum2-na	_	PN	12	appos	_	
+18	dumu	dumu	dumu[child]	N	17	appos	_	
+19	lu2-giri17-zal	lu2-giri17-zal	Lugirizal[1][-ra]	PN	18	GEN	_	
+20	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+21	mu	mu	mu[year]	N	23	_	_	
+22	en-mah-gal-an-na	en-mah-gal-an-na	Enmahgalana[1]	PN	23	ABS	_	
+23	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	20	parataxis	_
+	
+

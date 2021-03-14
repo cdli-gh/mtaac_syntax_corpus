@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts of ARADmu son of Lugal-nemur in Girsu are here year
+# train/P202827.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	8	ABS	_	
+3	ARAD2-mu	ARAD2-mu	Aradmu[1]	PN	4	nmod	_	
+4	dumu	dumu	dumu[child]	N	2	GEN	_	
+5	lugal-nemurx(|PIRIG.TUR|)	lugal-nemurx(|PIRIG.TUR|)	_	PN	4	GEN	_	
+6	sza3	sza3	szag[heart]	N	7	LOC	_	
+7	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	2	LOC	_	
+8	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+9	mu	mu[year]	N	N	8	appos	_
+	
+

@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx
+# dev/P202818.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	ab2	ab2	ab[cow][-ø]	N	1	_	heuristic: attach to head	
+3	ud5	ud5	uzud[goat]	N	1	_	heuristic: attach to head	
+4	dab5-ba	dab5-ba	dab[seize]-a	V	1	_	_	
+5	gir2-su{ki}-ta	gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	1	_	heuristic: attach to head	
+6	gu2-ab-ba{ki}-sze3	gu2-ab-ba{ki}-sze3	_	SN	9	nmod	_	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	9	nmod	_	
+8	mu	mu	mu[year]	N	9	_	heuristic: attach to head	
+9	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	1	appos	_
+	
+

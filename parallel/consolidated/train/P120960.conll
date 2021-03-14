@@ -1,0 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: shekels silver labor of Ur-dukuga in one year from PAu did Ur-dukuga recieve if for day he does not work that ban barley for each will be weighed out the royal name he invoked PAda Ur-Tummal chief surveyor Szekalla son of Dudu are witnesses from month NENEgar th day completed year Simurrum was destroyed
+# train/P120960.atf
+1	1(u)	1(u)	NU	NU	3	nummod	_	
+2	gin2	gin2	gig[unit]	N	3	nmod	_	
+3	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	11	ERG	_	
+4	a2	a2	a[time]	N	3	appos	_	
+5	ur-du6-ku3-ga-x	ur-du6-ku3-ga-x	_	PN	4	GEN	_	
+6	mu	mu	mu[year]	N	3	_	heuristic: attach to head	
+7	1(disz)-am3	1(disz)-am3	NU	NU	3	nummod	_	
+8	an-na-DU	an-na-DU	_	PN	3	LOC	_	
+9	ki	ki	ki[place]	N	10	ABL	_	
+10	PA-u2-ta	PA-u2-ta	_	PN	3	ABL	_	
+11	ur-du6-ku3-ga-ke4	ur-du6-ku3-ga-ke4	_	PN	0	root	_	
+12	szu	szu	szu[hand][-e]	N	11	_	_	
+13	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	11	ABS	_	
+14	tukum-bi	tukum-bi	tukumbi[if]	CNJ	17	_	_	
+15	u4	u4	ud[day]	N	17	DAT	_	
+16	1(disz)-am3	1(disz)-am3	NU	NU	17	nummod	_	
+17	ga2-la	ga2-la	_	N	11	parataxis	_	
+18	in-dag	in-dag	_	V	17	_	_	
+19	sze	sze	sze[barley]	N	21	ABS	projectivity violation	
+20	3(ban2)-ta	3(ban2)-ta	NU	NU	17	nummod	_	
+21	ag2-e-da	ag2-e-da	_	V	17	parataxis	_	
+22	mu	mu	mu[year]	N	23	_	_	
+23	lugal-bi	lugal-bi	_	N	0	_	detached for projectivity	
+24	in-pa3	in-pa3	i-n-pad[name][-ø]	V	26	nummod	_	
+25	1(disz)	1(disz)	NU	NU	26	nummod	_	
+26	PA-da	PA-da	_	PN	34	ABS	_	
+27	1(disz)	1(disz)	NU	NU	26	nummod	_	
+28	ur-tum-al	ur-tum-al	_	PN	29	acl	_	
+29	sa12-du5	sa12-du5	sagDUN[land_recorder][-ak]	N	26	appos	_	
+30	1(disz)	1(disz)	NU	NU	26	nummod	_	
+31	szesz-kal-la	szesz-kal-la	Szeszkala[1][-ra]	PN	26	appos	_	
+32	dumu	dumu	dumu[child]	N	26	appos	_	
+33	du-du	du-du	Dudu[1]	PN	32	GEN	_	
+34	lu2-inim-ma-bi-me	lu2-inim-ma-bi-me	lu'inimak[witness]-bi[-ø]-mesz	N	23	parataxis	_	
+35	iti	iti	iti[month]	N	34	ABL	_	
+36	NE-NE-gar	NE-NE-gar	_	PN	35	ABL	_	
+37	u4	u4	ud[day]	N	34	_	_	
+38	1(u)	1(u)	NU	NU	34	nummod	projectivity violation	
+39	5(disz)	5(disz)	NU	NU	38	nummod	_	
+40	ba-zal-ta	ba-zal-ta	_	V	37	acl	_	
+41	mu	mu	mu[year]	N	34	appos	_	
+42	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	43	ABS	_	
+43	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	34	acl	_
+	
+

@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P333744.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	i-pa2-li2-is	i-pa2-li2-is	_	PN	2	_	heuristic: attach to last	
+4	dub-sar	dub-sar	dubsar[scribe]	N	3	_	heuristic: attach to last	
+5	{uruda}gur10	{uruda}gur10	_	N	4	_	heuristic: attach to last	
+6	{uruda}ha-bu3-da	{uruda}ha-bu3-da	habuda[hoe]	N	5	_	heuristic: attach to last	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	6	_	heuristic: attach to last	
+8	iti	iti	iti[month]	N	7	_	heuristic: attach to last	
+9	ezem-{d}szul-gi	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	8	_	heuristic: attach to last	
+10	mu	mu	mu[year]	N	9	_	heuristic: attach to last	
+11	hu-uh2-nu-ri{ki}	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	20	_	heuristic: attach to head	
+12	ba-hul-ta	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	20	_	_	
+13	iti	iti	iti[month]	N	20	_	heuristic: attach to head	
+14	szu-gar-gal	szu-gar-gal	Szugargal[1][-'a]	MN	20	nmod	_	
+15	mu	mu	mu[year]	N	20	_	heuristic: attach to head	
+16	en	en	en[priest]	N	20	_	heuristic: attach to head	
+17	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	20	_	heuristic: attach to head	
+18	kar-zi-da	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	20	_	heuristic: attach to head	
+19	ba-hun-sze3	ba-hun-sze3	_	V	20	nmod	_	
+20	mu-bi	mu-bi	mu[name]-bi[-ø]	N	1	_	_	
+21	mu	mu	mu[year]	N	1	_	_	
+22	3(disz)-am3	3(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	0	nummod	_
+	
+

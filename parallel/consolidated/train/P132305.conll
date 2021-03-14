@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P132305.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nigin-ba	nigin-ba	_	N	1	_	_	
+3	zi-ga	zi-ga	zig[expend]-a	V	14	_	heuristic: before verb	
+4	lugal	lugal	lugal[king]	N	14	_	heuristic: before verb	
+5	gaba-ri	gaba-ri	gabari[copy]	N	14	_	heuristic: before verb	
+6	kiszib3-ba-ka	kiszib3-ba-ka	_	V	14	nmod	_	
+7	mu	mu	mu[year]	N	14	_	heuristic: before verbal head	
+8	hu-hu-nu-ri{ki}	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	14	nmod	_	
+9	ba-hul-ta	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	14	_	heuristic: before verbal head	
+10	mu	mu	mu[year]	N	14	_	_	
+11	en	en	en[priest]	N	14	_	heuristic: before verbal head	
+12	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	14	_	heuristic: before verbal head	
+13	kar-zi-da	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	14	_	heuristic: before verbal head	
+14	ba-hun-sze3	_[xxx]	V	MID.V.3-SG-S.TERM	1	_	_
+	
+

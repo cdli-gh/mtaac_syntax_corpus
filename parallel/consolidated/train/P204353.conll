@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets grasped personnel inspections of sailers xxx xxx xxx xxx are here year xxx
+# train/P204353.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	1	_	_	
+3	dab-ba	dab-ba	dab[seize]-a	V	2	_	heuristic: attach to head	
+4	ma2-lah4	ma2-lah4	_	PN	2	GEN	_	
+5	lu2	lu2	lu[person]	N	2	appos	_	
+6	mar-sa	mar-sa	marsa[shipyard]	PN	2	_	_	
+7	gaszam	gaszam	_	N	0	root	_	
+8	dam-gar3	dam-gar3	damgar[merchant][-ak]	N	7	appos	_	
+9	dam-gar3	dam-gar3	damgar[merchant][-ak]	N	2	_	heuristic: attach to head	
+10	erin2	erin2	erin[people]	N	2	_	heuristic: attach to head	
+11	aga3-usz	aga3-usz	_	N	2	ABS	_	
+12	ma2	ma2	ma[ship]	N	0	_	_	
+13	u4	u4	ud[day]	N	0	_	_	
+14	zal-la	zal-la	zal[pass]-a	V	0	_	_	
+15	e2	e2	e[house]	N	0	_	_	
+16	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	0	_	_	
+17	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	0	root	_	
+18	mu	mu	mu[year]	N	20	_	_	
+19	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	20	_	_	
+20	lugal-e	lugal-e	lugal[king]-e	N	17	parataxis	_	
+21	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	20	_	_	
+22	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	17	_	_
+	
+

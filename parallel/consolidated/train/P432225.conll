@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432225.atf
+# tr.en: To Inanna her mistress for life of Szulgi the mighty man king of Ur Diritum his
+1	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	0	root	_	
+2	nin-a-ni	nin-a-ni	nin[lady]-ani[-ra]	PN	1	ABS	_	
+3	nam-ti	nam-ti	namtil[life]	PN	1	DAT	_	
+4	szul-gi	szul-gi	Szulgir[1]	RN	3	GEN	_	
+5	nita	nita	nita[male]	N	6	nmod	_	
+6	kal-ga	kal-ga	kalag[strong]-a	V	4	appos	_	
+7	lugal	lugal	lugal[king]	N	4	appos	_	
+8	uri5{ki}-ma-ka-sze3	uri5{ki}-ma-ka-sze3	Urim[1]-ak-ak-sze	SN	7	GEN	_	
+9	diri-tum	diri-tum	DIRI.tum[1][-ra]	PN	8	appos	_	
+10	x	x	_[_]	N	8	dep	_	
+11	x	x	_[_]	N	10	dep	heuristic: attach to head	
+12	ni	ni[self][-ø]	N	N.ABS	10	appos	_
+	
+

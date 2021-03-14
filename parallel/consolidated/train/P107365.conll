@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P107365.atf
+# tr.en: Basket-of-tablets pouches credits sealed documents of Lugal-itida with Abbasaga from month Gazelle-feast to month Harvest months year Amar-Suen king Szaru destroyed
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	{kusz}du10-gan	{kusz}du10-gan	duggan[leather_bag]	N	1	_	_	
+3	zi-ga	zi-ga	zig[expend]-a	V	2	appos	_	
+4	kiszib3	kiszib3	kiszib[seal]	N	2	appos	_	
+5	lugal-iti-da	lugal-iti-da	Lugalitida[1]	PN	4	GEN	_	
+6	ki	ki	ki[place]	N	7	COM	_	
+7	ab-ba-sa6-ga	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	2	COM	_	
+8	iti	iti	iti[month]	N	2	ABL	_	
+9	masz-da3-gu7-ta	masz-da3-gu7-ta	Maszdagu[1]-ta	MN	8	ABL	_	
+10	iti	iti	iti[month]	N	2	LOC	_	
+11	sze-sag11-ku5-sze3	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	10	LOC	_	
+12	iti	iti	iti[month]	N	2	_	_	
+13	1(u)	1(u)	NU	NU	2	nummod	_	
+14	2(disz)-kam	2(disz)-kam	NU	NU	13	nummod	_	
+15	mu	mu	mu[year]	N	2	_	_	
+16	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	2	_	_	
+17	lugal-e	lugal-e	lugal[king]-e	N	16	appos	_	
+18	sza-asz-ru{ki}	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	19	ABS	_	
+19	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	16	acl	_
+	
+

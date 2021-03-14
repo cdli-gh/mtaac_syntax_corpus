@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P135143.atf
+# tr.en: male laborer tablet-head male laborer labor male laborers labor shekels they are ox-drivers male laborers from month Festival of Szulgi to month Harvest the labor male laborer workdays of months barley rations added delivered Kuli accepted year En-unugal of Inanna in Uruk was hired
+1	1(disz)	1(disz)	NU	NU	3	nummod	_	
+2	gurusz	gurusz	gurusz[male]	N	3	acl	_	
+3	sag-dub	sag-dub	_	N	0	root	_	
+4	1(disz)	1(disz)	NU	NU	5	nummod	_	
+5	gurusz	gurusz	gurusz[male]	N	3	_	_	
+6	a2	a2	a[time]	N	5	appos	_	
+7	1/2(disz)	1/2(disz)	NU	NU	5	nummod	_	
+8	2(disz)	2(disz)	NU	NU	3	nummod	_	
+9	gurusz	gurusz	gurusz[male]	N	8	_	heuristic: attach to last	
+10	a2	a2	a[time]	N	12	nmod	_	
+11	1(u)	1(u)	NU	NU	12	nummod	heuristic: NU premodifying	
+12	gin2	gin2	gig[unit]	N	0	_	detached for projectivity	
+13	sza3-gu4-me	sza3-gu4-me	szagud[ox_driver][-ø]-mesz	N	3	parataxis	_	
+14	1(disz)	1(disz)	NU	NU	16	nummod	_	
+15	5/6(disz)	5/6(disz)	NU	NU	14	nummod	_	
+16	gurusz	gurusz	gurusz[male]	N	13	appos	_	
+17	iti	iti	iti[month]	N	16	ABL	_	
+18	ezem-{d}szul-gi-ta	ezem-{d}szul-gi-ta	Ezemszulgir[1]-ta	MN	17	ABL	_	
+19	iti	iti	iti[month]	N	16	LOC	_	
+20	sze-sag11-ku5-sze3	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	19	LOC	_	
+21	a2-bi	a2-bi	a[labor]-bi	N	13	_	_	
+22	5(gesz2)	5(gesz2)	NU	NU	25	nummod	_	
+23	3(u)	3(u)	NU	NU	22	nummod	_	
+24	gurusz	gurusz	gurusz[male]	N	25	acl	_	
+25	u4	u4	ud[day]	N	33	_	_	
+26	1(disz)-sze3	1(disz)-sze3	NU	NU	27	nummod	heuristic: NU premodifying	
+27	iti	iti	iti[month]	N	25	GEN	_	
+28	6(disz)-kam	6(disz)-kam	NU	NU	25	nummod	_	
+29	sze-ba	sze-ba	szeba[ration]	N	25	appos	_	
+30	dah-hu-a	dah-hu-a	_	PN	33	acl	_	
+31	de6-a	de6-a	de[bring]-a	V	30	appos	_	
+32	ku-li	ku-li	Kuli[1]	PN	33	ABS	_	
+33	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	21	acl	_	
+34	mu	mu	mu[year]	N	38	_	_	
+35	en-unu6-gal	en-unu6-gal	Enunugal[1]	PN	38	ABS	_	
+36	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	35	GEN	_	
+37	unu{ki}	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	35	LOC	_	
+38	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	3	parataxis	_
+	
+

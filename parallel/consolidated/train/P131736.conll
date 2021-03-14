@@ -1,0 +1,139 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: female laborers for months labor involved workdays from month Harvest to month Extra gur ban sila dabin flour labor involved its th included from ARAD gur of barley labor involved workdays from grain account of Lugal-ezem female laborers for months days labor involved workdays female laborers to bala-service gone female laborer days labor of flour milling its th female laborer days labor booked out various from Lugal-niglagare foreman of weavers regular guzza-garments labor involved workdays gur barig ban dabin flour labor involved workdays its th included burden set in Umma and in Apisal year Nanna of Karzida was for second time brought into Eanna
+# train/P131736.atf
+1	2(gesz2)	2(gesz2)	NU	NU	0	nummod	_	
+2	2(u)	2(u)	NU	NU	1	nummod	_	
+3	1(disz)	1(disz)	NU	NU	1	nummod	_	
+4	1/3(disz)	1/3(disz)	NU	NU	1	nummod	_	
+5	geme2	geme2	geme[female_worker]	N	0	root	_	
+6	iti	iti	iti[month]	N	5	DAT	_	
+7	1(u)	1(u)	NU	NU	5	nummod	_	
+8	3(disz)-sze3	3(disz)-sze3	NU	NU	7	nummod	_	
+9	a2-bi	a2-bi	a[labor]-bi	N	5	appos	_	
+10	u4	u4	ud[day]	N	5	_	_	
+11	1(szar'u)	1(szar'u)	NU	NU	10	nummod	_	
+12	5(szar2)	5(szar2)	NU	NU	11	nummod	_	
+13	1(gesz'u)	1(gesz'u)	NU	NU	11	nummod	_	
+14	8(gesz2)	8(gesz2)	NU	NU	11	nummod	_	
+15	4(u)	4(u)	NU	NU	11	nummod	_	
+16	iti	iti	iti[month]	N	17	nmod	_	
+17	sze-sag11-ku5-ta	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	10	ABL	_	
+18	iti	iti	iti[month]	N	10	LOC	_	
+19	diri-sze3	diri-sze3	diri[intercalary_month]-sze	V	18	LOC	_	
+20	3(gesz2)	3(gesz2)	NU	NU	27	nummod	_	
+21	5(u)	5(u)	NU	NU	20	nummod	_	
+22	7(asz)	7(asz)	NU	NU	20	nummod	_	
+23	4(ban2)	4(ban2)	NU	NU	20	nummod	_	
+24	1(disz)	1(disz)	NU	NU	20	nummod	_	
+25	sila3	sila3	sila[unit]	N	26	nmod	_	
+26	dabin	dabin	dabin[semolina]	N	27	nmod	_	
+27	gur	gur	gur[unit]	N	10	_	_	
+28	a2-bi	a2-bi	a[labor]-bi	N	27	appos	_	
+29	u4	u4	ud[day]	N	36	_	_	
+30	2(szar2)	2(szar2)	NU	NU	0	nummod	_	
+31	1(gesz'u)	1(gesz'u)	NU	NU	30	nummod	_	
+32	8(gesz2)	8(gesz2)	NU	NU	30	nummod	_	
+33	2(u)	2(u)	NU	NU	30	nummod	_	
+34	igi	igi	igi[eye][-ø]	N	36	nmod	_	
+35	6(disz)-gal2-bi	6(disz)-gal2-bi	NU	NU	36	nummod	heuristic: NU premodifying	
+36	i3-ib2-gar	i3-ib2-gar	_	V	27	acl	_	
+37	ki	ki	ki[place]	N	38	ABL	_	
+38	ARAD2-ta	ARAD2-ta	Arad[1][-ak]-ta	PN	36	ABL	_	
+39	1(gesz2)	1(gesz2)	NU	NU	41	nummod	_	
+40	sze	sze	sze[barley]	N	41	GEN	_	
+41	gur	gur	gur[unit]	N	38	appos	_	
+42	a2-bi	a2-bi	a[labor]-bi	N	41	appos	_	
+43	u4	u4	ud[day]	N	38	_	_	
+44	1(szar2)	1(szar2)	NU	NU	38	nummod	_	
+45	2(gesz'u)	2(gesz'u)	NU	NU	44	nummod	_	
+46	7(gesz2)	7(gesz2)	NU	NU	44	nummod	_	
+47	3(u)	3(u)	NU	NU	44	nummod	_	
+48	nig2-ka9	nig2-ka9	nigSZID[account]	N	50	ABL	_	
+49	sze	sze	sze[barley]	N	50	nmod	_	
+50	lugal-ezem-ta	lugal-ezem-ta	Lugalezem[1][-ak]-ta	PN	38	ABL	_	
+51	2(u)	2(u)	NU	NU	52	nummod	_	
+52	geme2	geme2	geme[female_worker]	N	38	appos	_	
+53	iti	iti	iti[month]	N	52	DAT	_	
+54	4(disz)	4(disz)	NU	NU	55	nummod	heuristic: NU premodifying	
+55	u4	u4	ud[day]	N	53	DAT	_	
+56	1(u)	1(u)	NU	NU	0	nummod	_	
+57	8(disz)-sze3	8(disz)-sze3	NU	NU	56	nummod	_	
+58	a2-bi	a2-bi	a[labor]-bi	N	52	appos	_	
+59	u4	u4	ud[day]	N	38	_	_	
+60	4(gesz'u)	4(gesz'u)	NU	NU	59	nummod	_	
+61	6(gesz2)	6(gesz2)	NU	NU	60	nummod	_	
+62	geme2	geme2	geme[female_worker]	N	59	_	_	
+63	bala-sze3	bala-sze3	_	N	65	acl	_	
+64	gen-na	gen-na	gen[go]-a	V	65	LOC	_	
+65	5(gesz'u)	5(gesz'u)	NU	NU	62	nummod	_	
+66	5(gesz2)	5(gesz2)	NU	NU	70	nummod	_	
+67	4(u)	4(u)	NU	NU	66	nummod	_	
+68	4(disz)	4(disz)	NU	NU	66	nummod	_	
+69	geme2	geme2	geme[female_worker]	N	70	acl	_	
+70	u4	u4	ud[day]	N	59	_	_	
+71	1(disz)-sze3	1(disz)-sze3	NU	NU	72	nummod	heuristic: NU premodifying	
+72	a2	a2	a[time]	N	70	appos	_	
+73	zi3	zi3	zid[flour]	N	74	nmod	_	
+74	ar3-a	ar3-a	_	PN	72	GEN	_	
+75	igi	igi	igi[eye][-ø]	N	76	nmod	_	
+76	6(disz)-gal2-bi	6(disz)-gal2-bi	NU	NU	70	nummod	_	
+77	9(gesz2)	9(gesz2)	NU	NU	76	nummod	_	
+78	1(u)	1(u)	NU	NU	84	nummod	projectivity violation	
+79	7(disz)	7(disz)	NU	NU	78	nummod	_	
+80	1/3(disz)	1/3(disz)	NU	NU	78	nummod	_	
+81	6(gesz2)	6(gesz2)	NU	NU	59	nummod	_	
+82	3(disz)	3(disz)	NU	NU	81	nummod	_	
+83	geme2	geme2	geme[female_worker]	N	84	acl	_	
+84	u4	u4	ud[day]	N	0	_	detached for projectivity	
+85	1(disz)-sze3	1(disz)-sze3	NU	NU	87	nummod	heuristic: NU premodifying	
+86	a2	a2	a[time]	N	87	ABS	_	
+87	zi-ga	zi-ga	zig[expend]-a	V	59	acl	_	
+88	didli	didli	didli[several][-ø][-ak]	V	87	_	_	
+89	ki	ki	ki[place]	N	90	ABL	_	
+90	lugal-nig2-lagar-e	lugal-nig2-lagar-e	Lugalniglagare[1][-ak]	PN	87	ABL	_	
+91	ugula	ugula	ugula[overseer][-ø]	N	90	appos	_	
+92	usz-bar-ta	usz-bar-ta	_	N	91	GEN	_	
+93	3(gesz2)	3(gesz2)	NU	NU	92	nummod	_	
+94	2(u)	2(u)	NU	NU	97	nummod	_	
+95	6(disz)	6(disz)	NU	NU	94	nummod	_	
+96	tug2	tug2	tug[textile]	N	97	_	heuristic: attach to head	
+97	guz-za	guz-za	guz[tufted]-a	V	59	_	_	
+98	du	du	gin[quality_designation][-ø]	V	97	_	heuristic: attach to head	
+99	a2-bi	a2-bi	a[labor]-bi	N	97	appos	_	
+100	u4	u4	ud[day]	N	97	_	_	
+101	5(szar2)	5(szar2)	NU	NU	100	nummod	_	
+102	9(gesz2)	9(gesz2)	NU	NU	109	nummod	_	
+103	8(gesz2)	8(gesz2)	NU	NU	102	nummod	_	
+104	1(u)	1(u)	NU	NU	102	nummod	_	
+105	4(asz)	4(asz)	NU	NU	102	nummod	_	
+106	3(barig)	3(barig)	NU	NU	102	nummod	_	
+107	3(ban2)	3(ban2)	NU	NU	109	nummod	_	
+108	dabin	dabin	dabin[semolina]	N	109	nmod	_	
+109	gur	gur	gur[unit]	N	100	_	_	
+110	a2-bi	a2-bi	a[labor]-bi	N	109	appos	_	
+111	u4	u4	ud[day]	N	109	_	_	
+112	4(szar2)	4(szar2)	NU	NU	111	nummod	_	
+113	4(gesz'u)	4(gesz'u)	NU	NU	112	nummod	_	
+114	8(gesz2)	8(gesz2)	NU	NU	112	nummod	_	
+115	3(u)	3(u)	NU	NU	112	nummod	_	
+116	4(disz)	4(disz)	NU	NU	112	nummod	_	
+117	1/2(disz)	1/2(disz)	NU	NU	112	nummod	_	
+118	igi	igi	igi[eye][-ø]	N	120	nmod	projectivity violation	
+119	6(disz)-gal2-bi	6(disz)-gal2-bi	NU	NU	111	nummod	_	
+120	i3-ib2-gar	i3-ib2-gar	_	V	111	acl	_	
+121	gu2	gu2	gun[unit]	N	111	_	heuristic: attach to head	
+122	ga2-ra	ga2-ra	_	V	111	_	_	
+123	sza3	sza3	szag[heart]	N	124	LOC	_	
+124	umma{ki}	umma{ki}	Umma[1][-ak][-ø]	SN	122	LOC	_	
+125	u3	u3	u[and]	CNJ	124	appos	_	
+126	sza3	sza3	szag[heart]	N	127	LOC	_	
+127	a-pi4-sal4{ki}	a-pi4-sal4{ki}	Apisal[1][-ak]	GN	124	appos	_	
+128	mu	mu	mu[year]	N	111	_	_	
+129	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	131	ABS	_	
+130	kar-zi-da	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	129	GEN	_	
+131	a-ra2	a-ra2	ara[times]	N	111	_	_	
+132	2(disz@t)-kam	2(disz)-kam	NU	NU	131	nummod	_	
+133	e2-an-na	e2-an-na	_	N	134	TERM	_	
+134	ba-an-kux(KWU147)	_[into.brought]	V	MID.L1-SYN.V.3-SG-S	131	acl	_
+	
+

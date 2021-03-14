@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Sz-Sin the beloved of Enlil the king whom Enlil as one beloved in his heart did choose the strong king king of Ur and king of four world quarters his god Szekala the military governor his servant his temple he built for him
+# train/P432287.atf						#new_text=P432287
+# train/P432287.atf new_text=P432287
+1	{d}szu-{d}suen	Szusuen[1]	RN	RN	23	_	_	
+10	kal-ga	kalag[strong]-a	V	NF.V.SUB	9	acl	_	
+11	lugal	lugal[king]	N	N	23	appos	_	
+12	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	11	GEN	_	
+13	lugal	lugal[king]	N	N	11	appos	_	
+14	an	An[1][-ra]	N	N	16	nummod	_	
+15	ub-da	_[world]	N	N	16	nmod	_	
+16	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	13	nummod	_	
+17	dingir-ra-ni-ir	_[his.god]	PN	N.3-SG-H-POSS.DAT-H	23	appos	_	
+18	szesz-kal!-la	Szeszkala[1][-ra]	PN	PN	23	appos	_	
+19	szagina	szakkanak[governor][-ak]	N	N	23	appos	_	
+2	ki-ag2	ki'ag[love][-ø]	V	NF.V	23	appos	_	
+20	ARAD2-da-ne2	_[his.servant]	PN	N.3-SG-H-POSS.ERG	23	appos	_	
+21	e2-a-ni	_[his.temple]	TN	N.3-SG-H-POSS.ABS	23	appos	_	
+22	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	21	acl	_
+	
+3	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	2	GEN	_	
+4	lugal	lugal[king]	N	N	23	appos	_	
+5	{d}en-lil2-le	_[the.whom.Enlil]	DN	DN.ERG	4	appos	_	
+6	ki-ag2	ki'ag[love][-ø]	V	NF.V	8	LOC	_	
+7	sza3-ga-na	Szagana[1]	N	N.3-SG-H-POSS.L1	6	LOC	_	
+8	in-pa3	i-n-pad[name][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	4	acl	_	
+9	lugal	lugal[king]	N	N	23	appos	_	
+

@@ -1,0 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Hunuri x-rini Szipara Szimaki and also Sabum Kima Duduli land of Anan
+# train/P432328.atf						#new_text=P432328
+# train/P432328.atf new_text=P432328
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	nmod	_	
+2	...{ki}	_[1][-ø]	SN	SN.ABS	0	root	_	
+3	x	_[_]	N	N	0	dep	_	
+4	x	_[_]	N	N	0	dep	_	
+5	...	_[_]	PN	N	0	dep	_	
+6	'.	_	_	_	0	_	_	
+7	...{ki}	_[1][-ø]	SN	SN.ABS	0	_	_	
+8	hu-uh2-nu-ri{ki}	Huhnuri[1][-ø]	GN	SN.ABS	0	_	_	
+9	x	_[_]	N	N	0	dep	_	
+10	...	_[_]	PN	N	0	dep	_	
+11	'.	_	_	_	0	_	_	
+12	...	_[_]	PN	N	0	dep	_	
+13	x-ri-ni{ki}	_[Szipara]	GN	GN	0	appos	_	
+14	szi-pa-ra{ki}	_[x-rini]	GN	GN.ABS	0	appos	_	
+15	mu-x	_	PN	PN.DAT-H	0	_	_	
+16	...	_[_]	PN	N	0	dep	_	
+17	'.	_	_	_	0	_	detached for projectivity	
+18	szi-masz-gi5{ki}	_[Szimaki]	GN	GN	0	appos	_	
+19	sa-bu-um{ki}	_[and]	GN	SN	0	appos	_	
+20	bi-da-...	_[also.Sabum]	PN	PN	0	appos	_	
+21	'.	_	_	_	21	_	_	
+22	...	_[_]	PN	N	21	dep	_	
+23	x{ki}	_[1][-sze]	SN	GN	21	appos	_	
+24	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	21	appos	_	
+25	du8-du8-li2{ki}	_[Duduli]	SN	GN	21	appos	_	
+26	...	_[_]	PN	N	21	dep	heuristic: after nominal head	
+27	'.	_	N	N	29	nmod	_	
+28	...	_[_]	PN	N	0	dep	_	
+29	ma-da	mada[land][-ak][-ø]	N	N	21	appos	_	
+30	an-sza4-an{ki}	_[Anan]	GN	SN	30	GEN	_	
+31	...	_[_]	PN	N	0	dep	_	
+32	'.	_	_	_	0	_	_	
+33	...{ki}	_[1][-ø]	SN	SN.ABS	0	_	_	
+34	x	_[_]	N	N	0	dep	detached for projectivity	
+35	x	_[_]	N	N	0	dep	detached for projectivity	
+36	x	_[_]	N	N	0	dep	_	
+37	...	_[_]	PN	N	0	dep	_
+	
+

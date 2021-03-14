@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P453834.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	siki	siki	siki[wool][-'a]	N	1	_	heuristic: attach to head	
+4	geme2	geme2	geme[female_worker]	N	1	_	heuristic: attach to head	
+5	usz-bar	usz-bar	uszbar[weaver][-ak]	N	1	_	heuristic: attach to head	
+6	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+7	lu2	lu2	lu[person]	N	1	_	heuristic: attach to head	
+8	hun-ga2-ne	hun-ga2-ne	_	V	7	_	heuristic: attach to last	
+9	mu	mu	mu[year]	N	8	_	heuristic: attach to last	
+10	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	9	_	heuristic: attach to last	
+11	lugal	lugal	lugal[king]	N	10	_	heuristic: attach to last	
+12	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	22	_	heuristic: attach to head	
+13	na-ru2-a-mah	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	22	_	heuristic: attach to head	
+14	{d}en-lil2	{d}en-lil2	Enlil[1]	DN	22	_	heuristic: attach to head	
+15	{d}nin-lil2-ra	{d}nin-lil2-ra	Ninlil[1]-ra	DN	22	_	heuristic: attach to head	
+16	mu-ne-du3-ta	mu-ne-du3-ta	_	V	22	_	_	
+17	mu	mu	mu[year]	N	22	_	heuristic: attach to head	
+18	za-ab-sza-li{ki}-sze3	za-ab-sza-li{ki}-sze3	_	SN	22	nmod	_	
+19	mu-bi	mu-bi	mu[name]-bi[-ø]	N	22	nmod	_	
+20	mu	mu	mu[year]	N	22	_	heuristic: attach to head	
+21	2(disz)-am3	2(disz)-am3	NU	NU	22	nummod	heuristic: NU premodifying	
+22	iti-bi	iti-bi	iti[month]-bi[-ø]	N	1	_	_	
+23	iti	iti	iti[month]	N	1	_	_	
+24	2(u)	2(u)	NU	NU	0	nummod	_	
+25	4(disz)-am3	4(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	24	nummod	_
+	
+

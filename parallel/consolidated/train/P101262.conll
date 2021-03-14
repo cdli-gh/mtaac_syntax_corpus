@@ -1,0 +1,87 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: jug of wort ban bread shekels oil shekels alkali-plant bundles onions for Sz-Mama messenger to frontier sila beer sila bread shekels oil shekels alkali-plant bundle onions for Iar-il from frontier sila beer sila bread shekels oil shekels alkali-plant bundle onions for Sz-Utu kausa total jug of common wort ban total sila beer total sila bread total shekels oil total shekels alkali-plant total bundles onions nth day month
+# train/P101262.atf
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	dug	dug	dug[pot]	N	0	root	_	
+3	dida	dida	dida[sweet_wort]	N	1	appos	projectivity violation	
+4	...	...	_[_]	PN	6	dep	_	
+5	1(ban2)	1(ban2)	NU	NU	6	nummod	heuristic: NU premodifying	
+6	ninda	ninda	ninda[bread]	N	0	_	detached for projectivity	
+7	2(disz)	2(disz)	NU	NU	6	nummod	_	
+8	gin2	gin2	gig[unit]	N	9	nmod	_	
+9	i3	i3	i[oil]	N	6	appos	_	
+10	2(disz)	2(disz)	NU	NU	15	nummod	projectivity violation	
+11	gin2	gin2	gig[unit]	N	12	nmod	_	
+12	naga	naga	naga[potash]	N	6	acl	_	
+13	3(disz)	3(disz)	NU	NU	6	nummod	_	
+14	sa	sa	sa[bundle]	N	15	nmod	_	
+15	szum2	szum2	szum[garlic]	N	6	appos	_	
+16	szu-ma-ma	szu-ma-ma	Szumama[1][-e]	PN	1	DAT	projectivity violation	
+17	sukkal	sukkal	sukkal[secretary][-ak][-ra]	N	2	appos	_	
+18	gaba-asz	gaba-asz	gaba[frontier]-sze	N	2	LOC	_	
+19	3(disz)	3(disz)	NU	NU	21	nummod	_	
+20	sila3	sila3	sila[unit]	N	21	nmod	_	
+21	kasz	kasz	kasz[beer]	N	0	_	detached for projectivity	
+22	2(disz)	2(disz)	NU	NU	27	nummod	projectivity violation	
+23	sila3	sila3	sila[unit]	N	24	nmod	_	
+24	ninda	ninda	ninda[bread]	N	21	appos	_	
+25	2(disz)	2(disz)	NU	NU	21	nummod	_	
+26	gin2	gin2	gig[unit]	N	27	nmod	_	
+27	i3	i3	i[oil]	N	21	appos	_	
+28	2(disz)	2(disz)	NU	NU	33	nummod	projectivity violation	
+29	gin2	gin2	gig[unit]	N	30	nmod	_	
+30	naga	naga	naga[potash]	N	21	acl	_	
+31	1(disz)	1(disz)	NU	NU	21	nummod	_	
+32	sa	sa	sa[bundle]	N	33	nmod	_	
+33	szum2	szum2	szum[garlic]	N	21	appos	_	
+34	i-szar-i3-li2	i-szar-i3-li2	_	PN	21	DAT	_	
+35	gaba-ta	gaba-ta	gaba[frontier]-ta	N	21	ABL	_	
+36	3(disz)	3(disz)	NU	NU	38	nummod	_	
+37	sila3	sila3	sila[unit]	N	38	nmod	_	
+38	kasz	kasz	kasz[beer]	N	21	_	_	
+39	2(disz)	2(disz)	NU	NU	43	nummod	projectivity violation	
+40	sila3	sila3	sila[unit]	N	41	nmod	_	
+41	ninda	ninda	ninda[bread]	N	38	appos	_	
+42	2(gin2)	2(gin2)	NU	NU	38	nummod	_	
+43	i3	i3	i[oil]	N	38	appos	_	
+44	2(disz)	2(disz)	NU	NU	49	nummod	projectivity violation	
+45	gin2	gin2	gig[unit]	N	46	nmod	_	
+46	naga	naga	naga[potash]	N	38	acl	_	
+47	1(disz)	1(disz)	NU	NU	38	nummod	_	
+48	sa	sa	sa[bundle]	N	49	nmod	_	
+49	szum2	szum2	szum[garlic]	N	38	appos	_	
+50	szu-{d}utu	szu-{d}utu	Szu'utu[1]	PN	38	DAT	_	
+51	ka-us2-sa2	ka-us2-sa2	ka'usa[profession_type]	N	38	appos	_	
+52	szunigin	szunigin	szunigin[total]	N	64	_	heuristic: attach to head	
+53	1(disz)	1(disz)	NU	NU	59	nummod	_	
+54	dug	dug	dug[pot]	N	0	_	detached for projectivity	
+55	dida	dida	dida[sweet_wort]	N	54	GEN	_	
+56	du	du	gin[quality_designation][-ø]	V	55	acl	_	
+57	1(ban2)	1(ban2)	NU	NU	58	nummod	heuristic: NU premodifying	
+58	...	...	_[_]	PN	54	dep	_	
+59	szunigin	szunigin	szunigin[total]	N	0	_	detached for projectivity	
+60	6(disz)	6(disz)	NU	NU	62	nummod	heuristic: NU premodifying	
+61	sila3	sila3	sila[unit]	N	62	nmod	_	
+62	kasz	kasz	kasz[beer]	N	59	_	_	
+63	szunigin	szunigin	szunigin[total]	N	64	_	heuristic: attach to head	
+64	1(ban2)	1(ban2)	NU	NU	2	nummod	_	
+65	4(disz)	4(disz)	NU	NU	64	nummod	_	
+66	sila3	sila3	sila[unit]	N	67	nmod	_	
+67	ninda	ninda	ninda[bread]	N	0	_	detached for projectivity	
+68	szunigin	szunigin	szunigin[total]	N	77	_	heuristic: attach to head	
+69	6(disz)	6(disz)	NU	NU	77	nummod	heuristic: NU premodifying	
+70	gin2	gin2	gig[unit]	N	72	nmod	_	
+71	szunigin	szunigin	szunigin[total]	N	72	_	heuristic: attach to head	
+72	i3	i3	i[oil]	N	0	_	detached for projectivity	
+73	6(disz)	6(disz)	NU	NU	77	nummod	heuristic: NU premodifying	
+74	gin2	gin2	gig[unit]	N	75	nmod	_	
+75	naga	naga	naga[potash]	N	0	_	detached for projectivity	
+76	szunigin	szunigin	szunigin[total]	N	77	_	heuristic: attach to head	
+77	5(disz)	5(disz)	NU	NU	2	nummod	_	
+78	sa	sa	sa[bundle]	N	0	_	detached for projectivity	
+79	szum2	szum2	szum[garlic]	N	80	acl	_	
+80	...-kam	...-kam	_(_)[_]-ak-am	PN	78	_	_	
+81	iti	iti	iti[month]	N	2	appos	_	
+82	...	_[_]	PN	N	0	dep	_
+	
+

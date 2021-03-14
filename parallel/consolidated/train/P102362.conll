@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102362.atf
+# tr.en: talent mana wool from storage facility in Nippur Dudu received month Festival of Ninazu year after For rd time Simurrum was destroyed
+1	1(asz)	1(asz)	NU	NU	2	nummod	_	
+2	gu2	gu2	gun[unit]	N	0	root	_	
+3	3(u)	3(u)	NU	NU	0	nummod	_	
+4	6(disz)	6(disz)	NU	NU	3	nummod	_	
+5	ma-na	ma-na	mana[unit]	N	6	nmod	_	
+6	siki	siki	siki[wool][-'a]	N	2	_	_	
+7	e2-kiszib3-ba	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	9	nmod	_	
+8	sza3	sza3	szag[heart]	N	9	LOC	_	
+9	nibru{ki}-ta	nibru{ki}-ta	Nibru[1]-ta	SN	2	ABL	_	
+10	du-du	du-du	Dudu[1]	PN	12	ABS	_	
+11	szu	szu	szu[hand][-e]	N	12	_	heuristic: attach to head	
+12	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	2	acl	_	
+13	iti	iti	iti[month]	N	15	_	_	
+14	ezem-{d}nin-a-zu	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	15	ABS	_	
+15	mu	mu	mu[year]	N	2	_	_	
+16	us2-sa	us2-sa	us[follow]-a	V	15	_	_	
+17	a-ra2	a-ra2	ara[times]	N	15	_	_	
+18	3(disz@t)-kam-asz	3(disz)-kam-asz	NU	NU	2	nummod	projectivity violation	
+19	si-mu-ru-um{ki}	si-mu-ru-um{ki}	Simurrum[1]	SN	20	ABS	_	
+20	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	acl	_
+	
+

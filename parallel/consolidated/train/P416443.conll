@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416443.atf
+# tr.en: sheep grass-fed bucks grass-fed lambs kids slaughtered th day from Ur-kununa Szulgi-irimu received via Nanna-maba and Lu-alim month Festival of An year Szu-Suen king of Ur house of Szara in Umma erected small cattle
+1	5(disz)	5(disz)	NU	NU	2	nummod	_	
+2	udu	udu	udu[sheep]	N	0	root	_	
+3	u2	u2	u[grass]	N	2	_	heuristic: attach to head	
+4	7(disz)	7(disz)	NU	NU	2	nummod	_	
+5	masz2-gal	masz2-gal	maszgal[billy_goat]	N	2	_	heuristic: attach to head	
+6	u2	u2	u[grass]	N	2	acl	_	
+7	8(disz)	8(disz)	NU	NU	8	nummod	_	
+8	sila4	sila4	sila[lamb]	N	18	ABS	_	
+9	2(disz)	2(disz)	NU	NU	8	nummod	_	
+10	masz2	masz2	masz[goat]	N	8	appos	_	
+11	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	8	acl	_	
+12	u4	u4	ud[day]	N	8	_	_	
+13	5(disz)-kam	5(disz)-kam	NU	NU	8	nummod	_	
+14	ki	ki	ki[place]	N	16	ABL	_	
+15	ur-ku3-nun-na-ta	ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN	16	nmod	_	
+16	{d}szul-gi-iri-mu	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	8	ABL	_	
+17	szu	szu	szu[hand][-e]	N	18	_	heuristic: attach to head	
+18	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	2	acl	_	
+19	giri3	giri3	giri[foot]	N	20	via	_	
+20	{d}nanna-ma-ba	{d}nanna-ma-ba	Nannamaba[1]	PN	2	via	_	
+21	u3	u3	u[and]	CNJ	20	appos	_	
+22	lu2-sza-lim	lu2-sza-lim	Luszalim[1]	PN	20	appos	_	
+23	iti	iti	iti[month]	N	25	_	_	
+24	ezem-an-na	ezem-an-na	Ezemanna[1][-'a]	MN	25	ABS	_	
+25	mu	mu	mu[year]	N	2	parataxis	_	
+26	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	25	_	_	
+27	lugal	lugal	lugal[king]	N	26	appos	_	
+28	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	27	GEN	_	
+29	e2	e2	e[house]	N	32	ABS	_	
+30	{d}szara2	{d}szara2	Szara[1][-ak]	DN	29	GEN	_	
+31	umma{ki}-ka	umma{ki}-ka	Umma[1]-ak-ak[-ø]	FN	29	LOC	_	
+32	mu-du3	mu-du3	mu[-n]-du[build][-ø]	V	26	acl	_	
+33	2(u)	2(u)	NU	NU	2	nummod	projectivity violation	
+34	2(disz)	2(disz)	NU	NU	33	nummod	_	
+35	udu	udu[sheep]	N	N	25	appos	_
+	
+

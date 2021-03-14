@@ -1,0 +1,22 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: barig flour from Lugal-nirgal under seal of Aramu month Barley at quay year Lullubum Simurrum were destroyed Ur-Suen scribe son of Ur-gigir official
+# train/P393092.atf
+1	2(barig)	2(barig)	NU	NU	2	nummod	_	
+2	dabin	dabin	dabin[semolina]	N	0	root	_	
+3	ki	ki	ki[place]	N	4	ABL	_	
+4	lugal-nir-gal2-ta	lugal-nir-gal2-ta	_	PN	2	ABL	_	
+5	kiszib3	kiszib3	kiszib[seal]	N	2	LOC	_	
+6	a-du-mu	a-du-mu	Adumu[1][-ra]	PN	5	GEN	_	
+7	iti	iti	iti[month]	N	9	_	_	
+8	sze-kar-gal2-la	sze-kar-gal2-la	_	MN	9	_	_	
+9	mu	mu	mu[year]	N	2	_	_	
+10	lu-lu-bum2	lu-lu-bum2	_	PN	11	nmod	_	
+11	si-mu-ru-um	si-mu-ru-um	Simurum[1]	GN	12	ABS	_	
+12	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	9	acl	_	
+13	ur-{d}suen	ur-{d}suen	Ursuen[1]	PN	14	acl	_	
+14	dub-sar	dub-sar	dubsar[scribe]	N	2	_	_	
+15	dumu	dumu	dumu[child]	N	14	appos	_	
+16	ur-{gesz}gigir	ur-{gesz}gigir	Urgigir[1]	PN	15	GEN	_	
+17	sza3-tam	_[official]	N	N.ABS	16	appos	_
+	
+

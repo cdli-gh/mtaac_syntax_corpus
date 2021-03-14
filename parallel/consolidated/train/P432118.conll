@@ -1,0 +1,12 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Ur-Namma king of Ur the person who temple of Ninunu built
+# train/P432118.atf
+1	ur-{d}namma	ur-{d}namma	Urnamma[1]	RN	0	root	_	
+2	lugal	lugal	lugal[king]	N	1	appos	_	
+3	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	2	GEN	_	
+4	lu2	lu2	lu[person]	N	1	_	heuristic: attach to head	
+5	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+6	{d}nin-unu3-ka	{d}nin-unu3-ka	_	DN	1	appos	_	
+7	in-du3-a	i-n-du[build][-ø]-a	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	6	acl	_
+	
+

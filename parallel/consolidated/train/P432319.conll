@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: king of Ur and king of four world quarters the man who temple of Ulmatum
+# train/P432319.atf new_text=P432319
+# train/P432319.atf						#new_text=P432319
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	_	
+2	lugal	lugal[king]	N	N	0	root	_	
+3	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	2	GEN	_	
+4	'.	_[and]	N	N	3	appos	_	
+5	lugal	lugal[king]	N	N	3	appos	_	
+6	an	An[1][-ra]	N	N	8	nummod	_	
+7	ub-da	_[world]	N	N	8	nmod	_	
+8	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	3	nummod	_	
+

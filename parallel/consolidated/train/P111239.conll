@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P111239.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sa2-du11	sa2-du11	sadug[offerings]	N	1	_	heuristic: attach to head	
+3	dingir-re-ne	dingir-re-ne	_	PN	1	_	_	
+4	{d}nansze	{d}nansze	Nansze[1]	DN	1	_	heuristic: attach to head	
+5	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	1	_	heuristic: attach to head	
+6	{d}nin-mar{ki}	{d}nin-mar{ki}	_	DN	1	_	heuristic: attach to head	
+7	munus-sa	munus-sa	_	N	1	_	heuristic: attach to head	
+8	szu	szu	szu[hand][-e]	N	1	_	heuristic: attach to head	
+9	dul4-la	dul4-la	_	PN	1	_	heuristic: attach to head	
+10	dingir-re-ne	dingir-re-ne	_	PN	1	_	heuristic: attach to head	
+11	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+12	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	1	_	heuristic: attach to head	
+13	...	...	_[_]	PN	1	dep	heuristic: attach to head	
+14	{d}nin-mar{ki}-asz	{d}nin-mar{ki}-asz	_	DN	1	_	heuristic: attach to head	
+15	dam	dam	dam[spouse]	N	1	_	heuristic: attach to head	
+16	ur-{d}ba-ba6	ur-{d}ba-ba6	Urbaba[1]	PN	1	_	heuristic: attach to head	
+17	dam	dam	dam[spouse]	N	1	_	heuristic: attach to head	
+18	gu3-de2-a	gu3-de2-a	Gude'a[1][-ra]	PN	1	_	heuristic: attach to head	
+19	dam	dam	dam[spouse]	N	1	_	heuristic: attach to head	
+20	lu2-giri17-zal	lu2-giri17-zal	Lugirizal[1][-ra]	PN	23	nmod	_	
+21	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	23	nmod	_	
+22	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+23	hu-uh2!(UD)-nu-ri{ki}	hu-uh2(UD)-nu-ri{ki}	_	NU	1	_	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

@@ -1,0 +1,8 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: he standardized for him	*RETOK*-lugal-a-ni	_	_	_	_	lugal-a-ni	_	PN	N.3-SG-H-POSS.DAT-H	D
+# train/P432212.atf new_text=P432212
+# train/P432212.atf						#new_text=P432212
+# tr.en: he standardized for him *RETOK*-lugal-a-ni _ _ _ _ lugal-a-ni _ PN N.3-SG-H-POSS.DAT-H D
+1	mu-na-gi-in	_[he.standardized.for.him]	PN	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	0	root	_
+	
+

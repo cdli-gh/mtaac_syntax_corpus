@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P127377.atf
+# tr.en: fat-tailed ewe male suckling lambs suckling ewe lambs slaughtered rd day from Lu-dingira Ur-nigar received month Festival of An year Amar-Suen king
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	|U8+HUL2|	|U8+HUL2|	_	PN	0	root	_	
+3	3(disz)	3(disz)	NU	NU	2	nummod	_	
+4	sila4	sila4	sila[lamb]	N	5	acl	_	
+5	ga	ga	ga[milk]	N	2	appos	_	
+6	2(disz)	2(disz)	NU	NU	2	nummod	_	
+7	kir11	kir11	kir[female_lamb]	N	2	appos	_	
+8	ga	ga	ga[milk]	N	7	appos	_	
+9	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	19	acl	_	
+10	u4	u4	ud[day]	N	9	date	_	
+11	3(disz)-kam	3(disz)-kam	NU	NU	9	nummod	_	
+12	ki	ki	ki[place]	N	16	ABL	_	
+13	lu2-dingir-ra-ta	lu2-dingir-ra-ta	Ludingira[1][-ak]-ta	PN	16	_	heuristic: attach to head	
+14	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	16	_	heuristic: attach to head	
+15	szu	szu	szu[hand][-e]	N	16	_	heuristic: attach to head	
+16	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	9	appos	_	
+17	iti	iti	iti[month]	N	9	appos	_	
+18	ezem-an-na	ezem-an-na	Ezemanna[1][-'a]	MN	17	_	_	
+19	mu	mu	mu[year]	N	2	appos	_	
+20	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	21	acl	_	
+21	lugal	lugal	lugal[king]	N	2	_	_	
+22	6(disz)	6(disz)[one][-sze]	NU	NU	0	nummod	_
+	
+

@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets therefroms replaced debits and lifted outs of Basa August-scribe the rd year are here from year following house of Puzris-Dagan year after to year
+# train/P211699.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sza3-bi	sza3-bi	szag[heart]-bi[-ta]	N	11	ABS	_	
+3	su-ga	su-ga	sug[repay]-a	V	2	appos	_	
+4	sag-nig2-gur11-ra	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	2	appos	_	
+5	u3	u3	u[and]	CNJ	2	appos	_	
+6	zi-ga	zi-ga	zig[expend]-a	V	2	appos	_	
+7	ba-sa6	ba-sa6	Basa[1][-ak]	PN	6	GEN	_	
+8	dub-sar-mah	dub-sar-mah	_	PN	7	appos	_	
+9	mu	mu	mu[year]	N	6	date	_	
+10	3(disz)-kam	3(disz)-kam	NU	NU	9	nummod	_	
+11	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+12	mu	mu	mu[year]	N	11	ABL	_	
+13	us2-sa	us2-sa	us[follow]-a	V	12	acl	_	
+14	e2	e2	e[house]	N	0	_	detached for projectivity	
+15	puzur4-isz-{d}da-gan	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	14	GEN	_	
+16	mu	mu	mu[year]	N	11	date	projectivity violation	
+17	us2-sa-ta	us2-sa-ta	_	V	12	ABL	_	
+18	mu	mu	mu[year]	N	11	LOC	_	
+19	...-sze3	_[to]	PN	PN.GEN.TERM	18	LOC	_
+	
+

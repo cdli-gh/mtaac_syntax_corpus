@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416451.atf
+# tr.en: n suckling male equids suckling female equid newborns via Bululu delivery Nasa accepted year urti and ari were destroyed
+1	n	n	_(_)[_]	NU	2	nummod	_	
+2	dusu2-nita2	dusu2-nita2	_	PN	0	root	_	
+3	amar	amar	amar[calf][-ak]	N	2	_	_	
+4	ga	ga	ga[milk]	N	2	acl	_	
+5	1(disz)	1(disz)	NU	NU	6	nummod	_	
+6	dusu2-munus	dusu2-munus	_	N	8	acl	_	
+7	amar	amar	amar[calf][-ak]	N	6	_	heuristic: attach to last	
+8	ga	ga	ga[milk]	N	0	_	detached for projectivity	
+9	u3-tu-da	u3-tu-da	_	PN	6	appos	_	
+10	giri3	giri3	giri[foot]	N	11	via	_	
+11	bu3-lu5-lu5	bu3-lu5-lu5	_	PN	6	via	_	
+12	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	11	appos	_	
+13	na-sa6	na-sa6	Nasa[1][-e]	PN	14	ABS	_	
+14	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	11	acl	_	
+15	mu	mu	mu[year]	N	14	date	_	
+16	hu-ur5-ti{ki}	hu-ur5-ti{ki}	Hurti[1][-ø]	GN	19	_	heuristic: before verb	
+17	u3	u3	u[and]	CNJ	19	nmod	_	
+18	ha-ar-szi{ki}	ha-ar-szi{ki}	Harszi[1]	SN	19	nmod	_	
+19	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	6	parataxis	_
+	
+

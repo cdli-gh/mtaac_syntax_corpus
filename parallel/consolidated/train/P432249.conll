@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: queen of his mistress for life of Szulgi the mighty man king of Ur and king of Sumer and Akkad PN
+# train/P432249.atf new_text=P432249
+# train/P432249.atf						#new_text=P432249
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	GEN	_	
+2	nin	_[queen]	N	N	0	root	_	
+3	x	_[_]	N	N	2	dep	_	
+4	x	_[_]	N	N	2	dep	heuristic: after nominal head	
+5	x	_[_]	N	N	2	dep	heuristic: after nominal head	
+6	'.	_	_	_	2	_	_	
+7	nin-a-ni	nin[lady]-ani[-ra]	PN	N.3-SG-H-POSS.DAT-H	2	appos	_	
+8	'.	_	_	_	2	_	heuristic: after nominal head	
+9	nam-ti	namtil[life]	PN	N	2	TERM	_	
+10	'.	_	_	_	11	_	_	
+11	{d}szul-gi	Szulgir[1]	RN	RN	9	GEN	_	
+12	'.	_	_	_	11	_	_	
+13	nita	nita[male]	N	N	14	nmod	_	
+14	kal-ga	kalag[strong]-a	V	NF.V.SUB	11	acl	_	
+15	'.	_	_	_	14	_	heuristic: attach to last	
+16	lugal	lugal[king]	N	N	11	appos	_	
+17	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	16	GEN	_	
+18	'.	_	_	_	17	_	heuristic: attach to last	
+19	lugal	lugal[king]	N	N	16	appos	_	
+20	ki-en-gi	ki'engi[1]	GN	GN	19	GEN	_	
+21	ki-uri-ka-sze3	_[and.and.Akkad]	GN	GN.GEN.GEN.TERM	16	appos	_	
+22	'.	_	_	_	2	_	heuristic: after nominal head	
+23	AN	_[_]	PN	PN.DAT-H	2	_	heuristic: after nominal head	
+24	zi	_	N	NF.V	2	_	heuristic: after nominal head	
+25	gi4	gi[repay][-ø]	V	PN	2	acl	_	
+26	...	_[_]	PN	N	0	dep	_
+	
+

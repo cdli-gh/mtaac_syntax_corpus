@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102345.atf
+# tr.en: billy goats full-grown grain-fed female kids grain-fed lamb female kid Nanna delivery of Lugal-magure zabardab was enforcer ox cows lambs male goats ugid for kitchen th day from Abbasaga booked out month Festival of An year Amar-Suen is king
+1	2(disz)	2(disz)	NU	NU	2	nummod	_	
+2	masz2-gal	masz2-gal	maszgal[billy_goat]	N	0	root	_	
+3	niga	niga	niga[fattened][-ø]	V	2	appos	_	
+4	2(disz)	2(disz)	NU	NU	2	nummod	_	
+5	{munus}asz2-gar3	{munus}asz2-gar3	aszgar[female_kid]	PN	2	appos	_	
+6	niga	niga	niga[fattened][-ø]	V	2	appos	_	
+7	1(disz)	1(disz)	NU	NU	2	nummod	_	
+8	sila4	sila4	sila[lamb]	N	2	appos	_	
+9	1(disz)	1(disz)	NU	NU	10	nummod	heuristic: NU premodifying	
+10	{munus}asz2-gar3	{munus}asz2-gar3	aszgar[female_kid]	PN	2	appos	_	
+11	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	2	appos	_	
+12	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	11	appos	_	
+13	lugal-ma2-gur8-re	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	12	GEN	_	
+14	zabar-dab5	zabar-dab5	zabardab[official][-e]	N	15	ABS	_	
+15	maszkim	maszkim	maszkim[administrator]	N	11	acl	_	
+16	1(disz)	1(disz)	NU	NU	17	nummod	_	
+17	gu4	gu4	gud[ox]	N	11	appos	_	
+18	3(u)	3(u)	NU	NU	22	nummod	projectivity violation	
+19	3(disz)	3(disz)	NU	NU	18	nummod	_	
+20	udu	udu	udu[sheep]	N	17	appos	_	
+21	1(u)	1(u)	NU	NU	17	nummod	projectivity violation	
+22	sila4	sila4	sila[lamb]	N	17	appos	projectivity violation	
+23	1(u)	1(u)	NU	NU	0	nummod	_	
+24	7(disz)	7(disz)	NU	NU	23	nummod	_	
+25	masz2	masz2	masz[goat]	N	17	appos	projectivity violation	
+26	szu-gid2	szu-gid2	szugid[animal_designation][-ø]	N	17	appos	projectivity violation	
+27	e2-muhaldim-sze3	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	26	DAT	_	
+28	u4	u4	ud[day]	N	0	_	detached for projectivity	
+29	2(u)	2(u)	NU	NU	28	nummod	_	
+30	la2	la2	la[hang][-ø]	V	29	_	_	
+31	1(disz)-kam	1(disz)-kam	NU	NU	30	nummod	_	
+32	ki	ki	ki[place]	N	33	ABL	_	
+33	ab-ba-sa6-ga-ta	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	28	ABL	_	
+34	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	33	acl	_	
+35	iti	iti	iti[month]	N	37	_	_	
+36	ezem-an-na	ezem-an-na	Ezemanna[1][-'a]	MN	37	ABS	_	
+37	mu	mu	mu[year]	N	0	_	detached for projectivity	
+38	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	39	ABS	_	
+39	lugal	lugal	lugal[king]	N	37	parataxis	_	
+40	1(gesz2)	1(gesz2)	NU	NU	41	nummod	heuristic: NU premodifying	
+41	7(disz)	7(disz)[one][-sze]	NU	NU	20	nummod	_
+	
+

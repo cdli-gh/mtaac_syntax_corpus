@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Nergal king of HaWIlum Atal-en the accomplished shepherd king of Urki and Nawar son of Sadar-mat the king is builder of temple of Nergal the slayer of rivals The one who inscription this one shall remove may Szama and Itar his seed pluck out
+# train/P432377.atf
+1	{d}nergal	{d}nergal	_	DN	14	ABS	_	
+2	_lugal_	lugal	lugal[king]	N	1	appos	_	
+3	ha-wi-li-im{ki}	ha-wi-li-im{ki}	_	GN	2	GEN	_	
+4	a-tal-si-en	a-tal-si-en	_	PN	1	_	_	
+5	re-um	re-um	_	PN	6	nmod	_	
+6	ep-zum	ep-zum	_	PN	4	appos	_	
+7	_lugal_	lugal	lugal[king]	N	4	appos	_	
+8	ur-kisz{ki}	ur-kisz{ki}	_	SN	7	GEN	_	
+9	u3	u3	u[and]	CNJ	8	appos	_	
+10	na-wa-ar{ki}	na-wa-ar{ki}	_	PN	8	appos	_	
+11	_dumu_	dumu	dumu[child]	N	4	appos	_	
+12	sa2-dar-ma-at	sa2-dar-ma-at	_	PN	11	GEN	_	
+13	_lugal_	lugal	lugal[king]	N	11	_	_	
+14	_dim2_	dim2	_	V	0	root	_	
+15	e2	e2	e[house]	N	14	GEN	_	
+16	{d}nergal	{d}nergal	_	DN	15	GEN	_	
+17	nirx(|GAZxNIR|)	nirx(|GAZxNIR|)	_	N	15	_	_	
+18	sza-nin-u2-tim	sza-nin-u2-tim	_	V	17	GEN	_	
+19	_su4	su4	su[red][-ø]	V	20	nmod	_	
+20	dub_	dub	dub[tablet]	N	14	parataxis	_	
+21	szu-a-ti	szu-a-ti	_	PN	22	ABS	_	
+22	u2-sza2-sa3-ku	u2-sza2-sa3-ku	_	PN	20	acl	_	
+23	{d}utu	{d}utu	Utu[1][-ra]	DN	20	_	_	
+24	u3	u3	u[and]	CNJ	23	appos	_	
+25	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	23	appos	_	
+26	_numun_-szu	numun-szu	_	PN	27	ABS	_	
+27	li-il-qu3-ta	_[pluck.out]	N	N	23	acl	_
+	
+

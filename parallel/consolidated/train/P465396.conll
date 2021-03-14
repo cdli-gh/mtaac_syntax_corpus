@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P465396.atf						#new_text=P465396
+# train/P465396.atf new_text=P465396
+# tr.en: To Enlil king of all lands his master Enlil-bni the mighty king king of Isin and king of Sumer and Akkad beloved of Enlil and Nininsina a thing
+1	{d}en-lil2	Enlil[1]	DN	DN	0	root	_	
+2	lugal	lugal[king]	N	N	0	_	_	
+3	kur-kur-ra	_[all.lands]	N	N-RDP.GEN	2	GEN	_	
+4	lugal-a-ni-ir	_[his.master]	N	N.3-SG-H-POSS.DAT-H	2	appos	_	
+5	{d}en-lil2-ba-ni	_[Enlil-bni]	DN	RN	4	appos	_	
+6	lugal	lugal[king]	N	N	4	appos	_	
+7	kal-ga	kalag[strong]-a	V	NF.V.SUB	6	acl	_	
+8	lugal	lugal[king]	N	N	4	appos	_	
+9	i3-si-in{ki}-na	_[Isin]	SN	SN.GEN	8	GEN	_	
+10	lugal	lugal[king]	N	N	4	appos	_	
+11	ki-en-gi	ki'engi[1]	GN	GN	4	GEN	_	
+12	ki-uri	ki'uri[1][-ak]	GN	GN.GEN	4	appos	projectivity violation	
+13	ki-ag2	ki'ag[love][-ø]	V	NF.V	11	acl	_	
+14	{d}en-lil2	Enlil[1]	DN	DN	13	GEN	_	
+15	u3	u[and]	CNJ	CNJ	14	appos	_	
+16	{d}nin-isin2{si}-na-ka-ke4	_[Nininsina]	DN	DN.GEN.ERG	14	appos	_	
+17	nig2	_[a.thing]	N	N	18	nmod	_	
+18	...	_[_]	PN	N	11	dep	_
+	
+

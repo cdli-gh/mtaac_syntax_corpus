@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P116234.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	tug2	tug2	tug[textile]	N	1	_	heuristic: attach to head	
+3	ki-la2	ki-la2	kila[weight][-ø]	N	1	_	heuristic: attach to head	
+4	tag-ga	tag-ga	tag[weigh]-a	V	1	_	_	
+5	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+6	ur-sa6-ga	ur-sa6-ga	Ursaga[1][-ak]	PN	1	_	heuristic: attach to head	
+7	muhaldim	muhaldim	_	N	1	_	heuristic: attach to head	
+8	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+9	gu3-de2-a	gu3-de2-a	Gude'a[1][-ra]	PN	1	_	heuristic: attach to head	
+10	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+11	lugal-ki-gal-la	lugal-ki-gal-la	Lugalkigala[1][-ak][-ta]	PN	1	_	heuristic: attach to head	
+12	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+13	lugal-gu2-gal	lugal-gu2-gal	_	PN	1	_	heuristic: attach to head	
+14	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+15	u3-ma-ni	u3-ma-ni	Umani[1]	V	1	_	heuristic: attach to head	
+16	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+17	lu2-{d}nin-gir2-su	lu2-{d}nin-gir2-su	Luningirsu[1]	PN	1	_	heuristic: attach to head	
+18	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+19	ARAD2-mu	ARAD2-mu	Aradmu[1]	PN	1	_	heuristic: attach to head	
+20	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+21	lu2-bi-mu	lu2-bi-mu	_	PN	1	_	heuristic: attach to head	
+22	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+23	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	1	_	heuristic: attach to head	
+24	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+25	szesz-<szesz>	szesz-szesz	Szeszszesz[1][-ak]	PN	32	nmod	_	
+26	nu-banda3	nu-banda3	nubanda[overseer][-ø]	N	32	_	heuristic: attach to head	
+27	a-hu-um-dingir	a-hu-um-dingir	_	PN	32	_	heuristic: attach to head	
+28	mu	mu	mu[year]	N	32	_	heuristic: attach to head	
+29	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	32	_	heuristic: attach to head	
+30	lugal-ta	lugal-ta	lugal[king][-ak]-ta	N	32	nmod	_	
+31	mu	mu	mu[year]	N	32	_	heuristic: attach to head	
+32	hu-hu-nu-ri!(PA)	hu-hu-nu-ri(PA)	_	PN	1	_	_	
+33	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	0	_	_
+	
+

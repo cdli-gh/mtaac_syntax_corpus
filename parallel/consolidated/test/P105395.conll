@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets accounts of barley silver copper of exchange agents and foremen of weavers Dadaga Ur-lu gudu officiant Naua Ur-Nintu Dingira Szesaga Kas cattle administrator Gurzan -dar Lugal-ebansa
+# test/P105395.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9	nig2-ka9	nigSZID[account]	N	1	_	_	
+3	sze	sze	sze[barley]	N	2	GEN	_	
+4	ku3	ku3	kug[silver]	N	3	appos	_	
+5	uruda	uruda	urud[copper][-ak]	N	3	appos	_	
+6	x	x	_[_]	N	3	dep	_	
+7	dam-gar3	dam-gar3	damgar[merchant][-ak]	N	3	GEN	_	
+8	ugula	ugula	ugula[overseer][-ø]	N	7	appos	_	
+9	usz-bar	usz-bar	uszbar[weaver][-ak]	N	7	GEN	_	
+10	x	x	_[_]	N	3	dep	heuristic: attach to head	
+11	da-da-ga	da-da-ga	Dadaga[1][-ak]	PN	3	_	_	
+12	ur-{d}lu	ur-{d}lu	_	PN	11	appos	_	
+13	gudu4	gudu4	gudug[priest]	N	11	appos	_	
+14	na-u2-a	na-u2-a	_	PN	11	_	_	
+15	ur-{d}nin-tu	ur-{d}nin-tu	Urnintu[1][-ak]	PN	11	appos	_	
+16	dingir-ra	dingir-ra	Dingira[1]	PN	11	appos	_	
+17	szesz-saga	szesz-saga	_	PN	18	nmod	_	
+18	kas4	kas4	kas[runner][-ra]	N	11	appos	_	
+19	szusz3	szusz3	kusz[cattle_manager][-ak]	N	11	appos	_	
+20	gur8-za-an	gur8-za-an	_	PN	11	appos	_	
+21	x-dar	x-dar	_	PN	11	_	_	
+22	lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	11	appos	_
+	
+

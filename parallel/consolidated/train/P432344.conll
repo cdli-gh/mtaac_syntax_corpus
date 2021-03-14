@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: the king of Ur
+# train/P432344.atf new_text=P432344
+# train/P432344.atf						#new_text=P432344
+1	'.	SEGM	XPOSTAG	XPOSTAG	6	nmod	_	
+2	...	_[_]	PN	N	6	dep	heuristic: attach to head	
+3	x	_[_]	N	N	6	dep	heuristic: attach to head	
+4	x	_[_]	N	N	6	dep	heuristic: attach to head	
+5	'.	_	_	_	6	_	heuristic: attach to head	
+6	lugal	lugal[king]	N	N	8	appos	_	
+7	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	6	GEN	_
+	
+

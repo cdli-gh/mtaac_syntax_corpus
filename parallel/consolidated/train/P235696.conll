@@ -1,0 +1,39 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P235696.atf
+# tr.en: grain-fed sheep kitchen on account of Gunda Hurtian when he came from Hurti Conveyer Itrak-ili messenger Szuru-kin general was guarantor The th day of month has passed Booked out of Szulgi-aamu nd great festival month year Enmahgalanna was installed as priestess of Nanna
+1	2(disz)	2(disz)	NU	NU	4	nummod	_	
+2	udu	udu	udu[sheep]	N	0	root	_	
+3	niga	niga	niga[fattened][-ø]	V	2	acl	_	
+4	e2-muhaldim	e2-muhaldim	emuhaldim[kitchen][-sze]	N	2	_	_	
+5	mu	mu	mu[year]	N	4	_	heuristic: attach to head	
+6	gu-un-da	gu-un-da	_	PN	4	LOC	_	
+7	lu2	lu2	lu[person]	N	6	_	heuristic: attach to head	
+8	hu-ur5-ti{ki}-sze3	hu-ur5-ti{ki}-sze3	_	SN	6	GEN	_	
+9	u4	u4	ud[day]	N	8	_	_	
+10	hu-ur5-ti{ki}-ta	hu-ur5-ti{ki}-ta	_	SN	11	_	_	
+11	i3-im-gen-na-a	i3-im-gen-na-a	_	V	8	acl	_	
+12	giri3	giri3	giri[foot]	N	0	_	detached for projectivity	
+13	it-ra-ak-i3-li2	it-ra-ak-i3-li2	_	PN	0	_	detached for projectivity	
+14	sukkal	sukkal	sukkal[secretary][-ak][-ra]	N	15	nmod	_	
+15	szu-ru-usz-ki-in	szu-ru-usz-ki-in	_	PN	13	parataxis	projectivity violation	
+16	szagina	szagina	szakkanak[governor][-ak]	N	14	appos	projectivity violation	
+17	maszkim	maszkim	maszkim[administrator]	N	16	_	heuristic: attach to last	
+18	iti	iti	iti[month]	N	19	GEN	_	
+19	u4	u4	ud[day]	N	22	ABS	_	
+20	2(u)	2(u)	NU	NU	22	nummod	_	
+21	4(disz)	4(disz)	NU	NU	20	nummod	_	
+22	ba-zal	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	15	parataxis	_	
+23	ki	ki	ki[place]	N	24	_	_	
+24	{d}szul-gi-a-a-mu-ta	{d}szul-gi-a-a-mu-ta	_	PN	22	appos	_	
+25	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	24	ABL	_	
+26	iti	iti	iti[month]	N	29	nmod	projectivity violation	
+27	ezem-mah	ezem-mah	Ezemmah[1][-'a]	MN	22	parataxis	_	
+28	2(disz)-kam	2(disz)-kam	NU	NU	29	nummod	heuristic: NU premodifying	
+29	mu	mu	mu[year]	N	27	_	_	
+30	en-mah-gal-an-na	en-mah-gal-an-na	Enmahgalana[1]	PN	34	ABS	_	
+31	en	en	en[priest]	N	34	LOC	_	
+32	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	31	GEN	_	
+33	ba-hun	ba-hun	ba-hug[hire][-ø]	V	34	_	_	
+34	2(disz)	2(disz)[one]	NU	NU	27	nummod	_
+	
+

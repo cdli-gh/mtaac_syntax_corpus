@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P116238.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	la2-ia3	la2-ia3	la'u[arrears]	N	1	_	heuristic: attach to head	
+3	sipa	sipa	sipa[shepherd]	N	1	_	heuristic: attach to head	
+4	unu3	unu3	_	GN	1	_	heuristic: attach to head	
+5	sipa	sipa	sipa[shepherd]	N	1	_	heuristic: attach to head	
+6	udu	udu	udu[sheep]	N	1	_	_	
+7	gukkal	gukkal	gukkal[fat-tailed_sheep]	N	1	_	heuristic: attach to head	
+8	gir2-su{ki}-ta	gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	1	_	heuristic: attach to head	
+9	gu2-ab-ba{ki}-sze3	gu2-ab-ba{ki}-sze3	_	SN	1	_	heuristic: attach to head	
+10	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	heuristic: attach to head	
+11	si-i3-tum	si-i3-tum	situm[balance]	N	1	_	heuristic: attach to head	
+12	nig2-e3-a	nig2-e3-a	_	PN	1	_	heuristic: attach to head	
+13	sipa	sipa	sipa[shepherd]	N	1	_	heuristic: attach to head	
+14	unu3-de3	unu3-de3	_	V	1	_	heuristic: attach to head	
+15	giri3	giri3	giri[foot]	N	1	_	heuristic: attach to head	
+16	ARAD2-mu	ARAD2-mu	Aradmu[1]	PN	1	_	heuristic: attach to head	
+17	es3-sa2-ab-du	es3-sa2-ab-du	_	N	1	_	heuristic: attach to head	
+18	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+19	dub	dub	dub[tablet]	N	1	_	heuristic: attach to head	
+20	gid2-da-bi	gid2-da-bi	_	V	23	nmod	_	
+21	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	23	nmod	_	
+22	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+23	en-mah-gal-an-na	en-mah-gal-an-na	Enmahgalana[1]	PN	1	_	_	
+24	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Imti-e slave of palace for three years fled Ya-nagar shall cut breath To Azida he shall bring him before ensi it was confirmed Year Amar-Suen king destroyed Urbilum
+# train/P208683.atf
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	im-ti-e2	im-ti-e2	_	PN	0	root	_	
+3	ARAD2	ARAD2	arad[slave]	N	2	appos	_	
+4	e2-gal	e2-gal	egal[palace][-ak][-'a]	N	3	GEN	_	
+5	mu	mu	mu[year]	N	2	DAT	_	
+6	3(disz)-am3	3(disz)-am3	NU	NU	5	nummod	_	
+7	i3-zah3-am3	i3-zah3-am3	_	PN	5	acl	_	
+8	ia3-nagar-e	ia3-nagar-e	_	PN	9	ABS	_	
+9	pa-ag2	pa-ag2	_	N	2	parataxis	_	
+10	i3-ze2-e	i3-ze2-e	_	V	9	appos	_	
+11	a2-zi-da	a2-zi-da	Azida[1][-ra]	PN	2	acl	_	
+12	ba-an-tum2-mu	ba-an-tum2-mu	_	PN	11	parataxis	_	
+13	igi	igi	igi[eye][-ø]	N	14	LOC	_	
+14	ensi2-ka-sze3	ensi2-ka-sze3	ensik[ruler]-ak-sze	N	15	LOC	_	
+15	ba-ge-en8	ba-ge-en8	_	PN	2	parataxis	_	
+16	mu	mu	mu[year]	N	15	_	_	
+17	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	20	ERG	_	
+18	lugal-e	lugal-e	lugal[king]-e	N	17	appos	_	
+19	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	20	ABS	_	
+20	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	16	acl	_
+	
+

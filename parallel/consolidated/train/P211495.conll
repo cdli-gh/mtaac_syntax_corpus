@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P211495.atf
+# tr.en: Basket-of-tablets accounts of labor of troops Ipae son of Ayabba are here year Amorite wall was erected
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	8	ABS	_	
+3	a2	a2	a[time]	N	2	GEN	_	
+4	erin2-na	erin2-na	erin[people]	N	3	GEN	_	
+5	i7-pa-e3	i7-pa-e3	Ipa'e[1][-ø]	PN	4	_	_	
+6	dumu	dumu	dumu[child]	N	4	appos	_	
+7	a-ab-ba	a-ab-ba	_	PN	6	GEN	_	
+8	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+9	mu	mu	mu[year]	N	12	_	heuristic: before verb	
+10	bad3	bad3	bad[wall]	N	12	_	heuristic: before verb	
+11	mar-tu	mar-tu	Martu[1][-ø]	EN	12	ABS	_	
+12	ba-du3	ba-du[build][-ø]	V	MID.V.3-SG-S	8	parataxis	_
+	
+

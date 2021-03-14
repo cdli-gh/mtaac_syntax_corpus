@@ -1,0 +1,28 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P201329.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	e2-tum	e2-tum	bitum[administrative_term]	PN	1	_	_	
+3	sag	sag	sag[head]	N	23	_	heuristic: before verb	
+4	nig2-ka9	nig2-ka9	nigSZID[account]	N	23	_	_	
+5	u3	u3	u[and]	CNJ	23	_	heuristic: before verbal head	
+6	zi-ga	zi-ga	zig[expend]-a	V	23	_	_	
+7	be-li2-a-zu	be-li2-a-zu	Beli’azu[1][-e]	PN	23	_	_	
+8	iti	iti	iti[month]	N	23	_	_	
+9	sze-sag11-ku5-ta	sze-sag11-ku5-ta	Szesagku[1]-ta	MN	23	_	heuristic: before verbal head	
+10	iti	iti	iti[month]	N	23	_	heuristic: before verbal head	
+11	ezem-me-ki-gal2-sze3	ezem-me-ki-gal2-sze3	_	MN	23	_	_	
+12	iti	iti	iti[month]	N	23	nmod	_	
+13	1(u)	1(u)	NU	NU	0	nummod	_	
+14	2(disz)-kam	2(disz)-kam	NU	NU	13	nummod	_	
+15	mu	mu	mu[year]	N	23	_	heuristic: before verbal head	
+16	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	23	_	heuristic: before verbal head	
+17	lugal	lugal	lugal[king]	N	23	_	heuristic: before verbal head	
+18	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	23	_	heuristic: before verbal head	
+19	bad3	bad3	bad[wall]	N	23	_	heuristic: before verbal head	
+20	mar-tu	mar-tu	Martu[1][-ø]	EN	23	_	heuristic: before verbal head	
+21	mu-ri-iq-ti-id-ni-im	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	23	_	heuristic: before verbal head	
+22	mu-du3	mu-du3	mu[-n]-du[build][-ø]	V	23	nmod	_	
+23	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

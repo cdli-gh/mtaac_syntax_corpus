@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P145647.atf
+# tr.en: to Dingir-igi-du speak barig dates sila ghee sila big-cheese ban spelt barig flour to Lu-Szara may he give His sealed document may he not receive
+1	dingir-igi-du	dingir-igi-du	_	PN	2	_	_	
+2	u3-na-du11	u3-na-du11	_	N	0	root	_	
+3	1(barig)	1(barig)	NU	NU	4	nummod	_	
+4	zu2-lum	zu2-lum	zulum[date]	N	17	_	_	
+5	4(disz)	4(disz)	NU	NU	4	nummod	_	
+6	sila3	sila3	sila[unit]	N	7	nmod	_	
+7	i3-nun	i3-nun	inun[ghee]	PN	4	appos	_	
+8	4(disz)	4(disz)	NU	NU	4	nummod	_	
+9	sila3	sila3	sila[unit]	N	11	nmod	projectivity violation	
+10	ga	ga	ga[milk]	N	13	nummod	projectivity violation	
+11	gal	gal	gal[big][-ø]	V	4	appos	_	
+12	2(ban2)	2(ban2)	NU	NU	4	nummod	_	
+13	imgaga3	imgaga3	_	N	4	appos	_	
+14	1(barig)	1(barig)	NU	NU	4	nummod	_	
+15	dabin	dabin	dabin[semolina]	N	4	appos	_	
+16	lu2-{d}szara2-ra	lu2-{d}szara2-ra	_	PN	4	LOC	_	
+17	he2-na-ab-szum2-mu	he2-na-ab-szum2-mu	ha-i-nn-a-b-szum[give]-e	V	2	parataxis	_	
+18	kiszib3-ba-ni	kiszib3-ba-ni	_	PN	20	ABS	_	
+19	szu	szu	szu[hand][-e]	N	20	_	heuristic: before verbal head	
+20	na-ba!-ab-ti-ti	_[may.he.not.receive]	V	V	17	parataxis	_
+	
+

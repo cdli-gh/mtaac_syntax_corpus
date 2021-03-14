@@ -1,0 +1,15 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P331055.atf
+# tr.en: Basket-of-tablets xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	1	_	_	
+3	ka	ka	kag[mouth]	N	1	_	heuristic: attach to head	
+4	e2-gal	e2-gal	egal[palace][-ak][-'a]	N	1	_	heuristic: attach to head	
+5	u3	u3	u[and]	CNJ	1	_	_	
+6	im-ma2	im-ma2	_	V	5	appos	_	
+7	iti	iti	iti[month]	N	0	_	_	
+8	4(disz)-kam	4(disz)-kam	NU	NU	0	nummod	_	
+9	bala-bi	bala-bi	_	N	0	_	_	
+10	2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	0	nummod	_
+	
+

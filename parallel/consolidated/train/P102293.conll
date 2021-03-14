@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P102293.atf
+# tr.en: female laborer workdays water to river foreman Kugani year after Anan was destroyed Akalla scribe son of
+1	1(u)	1(u)	NU	NU	4	nummod	_	
+2	3(disz)	3(disz)	NU	NU	1	nummod	_	
+3	geme2	geme2	geme[female_worker]	N	4	acl	_	
+4	u4	u4	ud[day]	N	0	root	_	
+5	1(disz)-sze3	1(disz)-sze3	NU	NU	6	nummod	heuristic: NU premodifying	
+6	a	a	a[water][-ø]	N	4	_	_	
+7	i7-de3	i7-de3	_	N	4	appos	_	
+8	usz2-a	usz2-a	_	V	7	LOC	_	
+9	ugula	ugula	ugula[overseer][-ø]	N	4	_	_	
+10	ku3-ga-ni	ku3-ga-ni	Kugani[1]	PN	9	_	_	
+11	mu	mu	mu[year]	N	10	appos	_	
+12	us2-sa	us2-sa	us[follow]-a	V	11	LOC	_	
+13	an-sza-an{ki}	an-sza-an{ki}	Anszan[1][-ø]	GN	10	_	_	
+14	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	10	_	_	
+15	a-kal-la	a-kal-la	Akala[1]	PN	14	date	_	
+16	dub-sar	dub-sar	dubsar[scribe]	N	15	appos	_	
+17	dumu	dumu	dumu[child]	N	15	appos	_	
+18	...	...	_[_]	PN	17	dep	_	
+19	...	_[_]	PN	N	18	dep	_
+	
+

@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P319838.atf
+# tr.en: Basket-of-tablets inspections of dumu-daba in Girsu are here year was destroyed
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	7	ABS	_	
+3	dumu	dumu	dumu[child]	N	2	_	heuristic: attach to last	
+4	dab5-ba	dab5-ba	dab[seize]-a	V	2	GEN	_	
+5	sza3	sza3	szag[heart]	N	6	LOC	_	
+6	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	4	LOC	_	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+8	mu	mu	mu[year]	N	12	_	heuristic: before verb	
+9	x	x	_[_]	N	12	dep	heuristic: before verb	
+10	x	x	_[_]	N	12	dep	heuristic: before verb	
+11	x{ki}	x{ki}	_[1][-sze]	SN	12	_	_	
+12	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	7	parataxis	_
+	
+

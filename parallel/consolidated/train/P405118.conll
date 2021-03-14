@@ -1,0 +1,36 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P405118.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	uzu	uzu	uzu[body]	N	31	_	heuristic: before verb	
+4	{d}iszkur-ra-bi2	{d}iszkur-ra-bi2	_	PN	31	_	heuristic: before verb	
+5	agrig	agrig	_	N	31	_	heuristic: before verb	
+6	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	31	_	heuristic: before verb	
+7	iti	iti	iti[month]	N	31	_	heuristic: before verb	
+8	szu-gar-ra	szu-gar-ra	_	MN	31	_	heuristic: before verb	
+9	mu	mu	mu[year]	N	31	_	heuristic: before verb	
+10	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	31	_	heuristic: before verb	
+11	lugal-ta	lugal-ta	lugal[king][-ak]-ta	N	31	_	heuristic: before verb	
+12	iti	iti	iti[month]	N	31	_	heuristic: before verb	
+13	diri	diri	diri[intercalary_month]	N	31	_	heuristic: before verb	
+14	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	31	_	heuristic: before verb	
+15	mu	mu	mu[year]	N	31	_	heuristic: before verb	
+16	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	31	_	heuristic: before verb	
+17	unu{ki}	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	31	_	heuristic: before verb	
+18	masz2-e	masz2-e	masz[goat]-e	N	31	_	heuristic: before verb	
+19	i3-pa3	i3-pa3	i-pad[find][-ø]	V	31	_	heuristic: before verb	
+20	mu-bi	mu-bi	mu[name]-bi[-ø]	N	31	nmod	_	
+21	mu	mu	mu[year]	N	31	_	heuristic: before verbal head	
+22	2(disz)-am3	2(disz)-am3	NU	NU	31	nummod	heuristic: NU premodifying	
+23	iti-bi	iti-bi	iti[month]-bi[-ø]	N	31	nmod	_	
+24	iti	iti	iti[month]	N	31	_	heuristic: before verbal head	
+25	2(u)	2(u)	NU	NU	0	nummod	_	
+26	5(disz)-am3	5(disz)-am3	NU	NU	25	nummod	_	
+27	iti	iti	iti[month]	N	31	_	heuristic: before verbal head	
+28	diri	diri	diri[intercalary_month]	N	31	_	heuristic: before verbal head	
+29	1(disz)-am3	1(disz)-am3	NU	NU	31	nummod	heuristic: NU premodifying	
+30	sza3-ba	sza3-ba	szag[heart]-bi-'a	N	31	_	heuristic: before verbal head	
+31	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

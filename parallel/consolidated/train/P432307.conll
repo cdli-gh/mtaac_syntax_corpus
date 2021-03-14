@@ -1,0 +1,46 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432307.atf
+# tr.en: Ibbi-Sin the god of his country the mighty king king of Ur and king of four world quarters because of great love of Sin Ur to widen he decided Therefore to make country secure and to make lower and upper countries bow down a great wall through whose loop-holes not a hand can enter like a verdant mountain range he made encircle his city In foundations for its foundation deposits he sought out places Of that wall Ibbi-Sin Is Canal inspector of Princeliness is its name
+1	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	0	root	_	
+2	dingir	dingir	_	PN	1	appos	_	
+3	kalam-ma-na	kalam-ma-na	_	N	2	GEN	_	
+4	lugal	lugal	lugal[king]	N	1	appos	_	
+5	kal-ga	kal-ga	kalag[strong]-a	V	4	appos	_	
+6	lugal	lugal	lugal[king]	N	1	appos	_	
+7	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	6	GEN	_	
+8	lugal	lugal	lugal[king]	N	6	appos	_	
+9	an	an	An[1][-ra]	N	8	nummod	_	
+10	ub-da	ub-da	_	N	8	appos	_	
+11	limmu2-ba-ke4	limmu2-ba-ke4	_	NU	6	appos	_	
+12	nam-gal	nam-gal	_	N	1	GEN.TERM	_	
+13	ki-ag2	ki-ag2	ki'ag[love][-ø]	V	12	_	heuristic: attach to last	
+14	{d}suen-na-da	{d}suen-na-da	_	PN	12	GEN	_	
+15	uri5{ki}	uri5{ki}	Urim[1][-ak]	SN	12	appos	_	
+16	dagal-e-de3	dagal-e-de3	_	V	15	acl	_	
+17	sa	sa	sa[bundle]	N	18	_	_	
+18	im-ma-szi-gar	im-ma-szi-gar	_	V	16	parataxis	_	
+19	ur5-ta	ur5-ta	_	N	21	_	_	
+20	kalam	kalam	_	N	21	_	_	
+21	gi-ne2	gi-ne2	Gine[1]	PN	18	acl	_	
+22	sig-nim	sig-nim	_	V	21	appos	_	
+23	GAM-e-de3	GAM-e-de3	V	V	21	appos	_	
+24	bad3	bad3	bad[wall]	N	21	ABS	_	
+25	gal	gal	gal[big][-ø]	V	24	appos	_	
+26	za-pa-ag2-ba	za-pa-ag2-ba	_	N	28	TERM	_	
+27	szu	szu	szu[hand][-e]	N	28	_	heuristic: attach to head	
+28	nu-ku4-ku4	nu-ku4-ku4	_	V	24	TERM	_	
+29	hur-sag	hur-sag	_	N	28	_	heuristic: attach to last	
+30	sig7-ga-gin7	sig7-ga-gin7	_	V	24	EQU	_	
+31	iri{ki}-ni	iri{ki}-ni	_	N	30	acl	_	
+32	im-mi-dab6	im-mi-dab6	_	V	31	acl	_	
+33	urua	urua	_	N	34	LOC	_	
+34	temen-be2	temen-be2	_	V	21	LOC	_	
+35	ki	ki	ki[place]	N	34	_	heuristic: attach to last	
+36	in-ma-ni-pa3	in-ma-ni-pa3	_	PN	34	acl	_	
+37	bad3-ba	bad3-ba	_	N	1	GEN	_	
+38	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	40	ABS	_	
+39	gu2-gal	gu2-gal	gugala[chickpea][-ak]	PN	40	_	_	
+40	nam-nun-na	nam-nun-na	_	N	41	ccomp 	_	
+41	mu-bi-im	_[is.its.name]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	1	parataxis	_
+	
+

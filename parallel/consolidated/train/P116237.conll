@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P116237.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	sipa	sipa	sipa[shepherd]	N	21	_	heuristic: before verb	
+4	unu3-e-ne	unu3-e-ne	_	PN	21	_	_	
+5	iti	iti	iti[month]	N	21	_	heuristic: before verbal head	
+6	masz2-da3-gu7-ta	masz2-da3-gu7-ta	_	MN	21	_	_	
+7	iti	iti	iti[month]	N	21	_	heuristic: before verbal head	
+8	diri	diri	diri[intercalary_month]	N	21	_	heuristic: before verbal head	
+9	sze-sag11-ku5-sze3	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	21	_	_	
+10	iti	iti	iti[month]	N	21	_	_	
+11	1(u)	1(u)	NU	NU	0	nummod	_	
+12	3(disz)-kam	3(disz)-kam	NU	NU	11	nummod	_	
+13	sza3-ba	sza3-ba	szag[heart]-bi-'a	N	21	_	heuristic: before verbal head	
+14	iti	iti	iti[month]	N	21	_	heuristic: before verbal head	
+15	diri	diri	diri[intercalary_month]	N	21	_	heuristic: before verbal head	
+16	1(disz)-am3	1(disz)-am3	NU	NU	21	nummod	heuristic: NU premodifying	
+17	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	21	nmod	_	
+18	mu	mu	mu[year]	N	21	_	heuristic: before verbal head	
+19	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	21	nmod	_	
+20	lugal	lugal	lugal[king]	N	21	_	heuristic: before verbal head	
+21	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
+	
+

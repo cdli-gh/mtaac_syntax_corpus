@@ -1,0 +1,17 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets inspections of dab head plowmen troops porters of house of Namani are here year Ibbi-Suen is king
+# train/P109042.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2-ak	gurum2-ak	gurum[inspection]-ak	N	9	ABS	_	
+3	dab-ba	dab-ba	dab[seize]-a	V	2	GEN	_	
+4	sag-apin	sag-apin	_	N	3	appos	_	
+5	erin2	erin2	erin[people]	N	3	appos	_	
+6	ug3-IL2	ug3-IL2	uggaga[porter]	N	3	appos	_	
+7	e2	e2	e[house]	N	3	GEN	_	
+8	nam-ha-ni	nam-ha-ni	Namhani[1]	N	7	GEN	_	
+9	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+10	mu	mu	mu[year]	N	12	_	_	
+11	{d}i-bi2-{d}suen	{d}i-bi2-{d}suen	Ibbisuen[1]	RN	12	ABS	_	
+12	lugal	lugal[king]	N	N	9	parataxis	_
+	
+

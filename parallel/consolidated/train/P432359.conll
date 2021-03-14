@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432359.atf new_text=P432359
+# train/P432359.atf						#new_text=P432359
+# tr.en: the son of the governor of Nippur for his life dedicated to himher
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	nmod	_	
+2	dumu	dumu[child]	N	N	0	root	_	
+3	x	_[_]	N	N	2	dep	_	
+4	x-da-x	_[of]	PN	PN	3	GEN	_	
+5	x	_[_]	N	N	2	dep	_	
+6	'.	_[the]	_	_	7	nmod	_	
+7	ensi2	ensik[ruler]	N	N	2	appos	_	
+8	'.	_	_	_	7	_	heuristic: attach to last	
+9	nibru{ki}-ka-ke4	_[of.Nippur]	SN	SN.GEN.GEN.ERG	7	GEN	_	
+10	'.	_	_	_	2	_	heuristic: after nominal head	
+11	nam-ti-la-ni-sze3	_[for.his.life]	N	N.3-SG-H-POSS.TERM	2	DAT	_	
+12	'.	_	_	_	11	_	heuristic: after nominal head	
+13	a	a[water][-ø]	N	N.ABS	11	_	heuristic: after nominal head	
+14	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	11	acl	_
+	
+

@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273505.atf
+# tr.en: sheep in place of ewes billy goats in place of female kids from Abbasaga Ur-Ninsaza received Month uea year en-priest of Eridu was installed
+1	2(u)	2(u)	NU	NU	6	nummod	_	
+2	udu	udu	udu[sheep]	N	6	ABS	_	
+3	mu	mu	mu[year]	N	6	nummod	_	
+4	u8-sze3	u8-sze3	_	N	6	LOC	_	
+5	1(u)	1(u)	NU	NU	6	nummod	_	
+6	masz2	masz2	masz[goat]	N	0	root	_	
+7	mu	mu	mu[year]	N	6	_	heuristic: attach to last	
+8	{munus}asz2-gar3-sze3	{munus}asz2-gar3-sze3	_	N	6	LOC	_	
+9	ki	ki	ki[place]	N	10	ABL	_	
+10	ab-ba-sa6-ga-ta	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	6	ABL	_	
+11	ur-{d}nin-sa-za	ur-{d}nin-sa-za	_	PN	12	ABS	_	
+12	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	10	acl	_	
+13	iti	iti	iti[month]	N	15	nmod	_	
+14	szu-esz-sza	szu-esz-sza	Szu'eszsza[1][-'a]	MN	13	_	_	
+15	mu	mu	mu[year]	N	12	date	_	
+16	en	en	en[priest]	N	18	ABS	_	
+17	eridu{ki}	eridu{ki}	Eridug[1][-ak][-ø]	SN	16	GEN	_	
+18	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	6	parataxis	_
+	
+

@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273520.atf
+# tr.en: sar of dirt at field Isala field of Salla-canal foreman Ipul Month harvest year throne was fashioned Lu-duga the scribe son of Ur-Nigar chief cattle administrator
+1	1(disz)	1(disz)	NU	NU	5	nummod	_	
+2	2/3(disz)	2/3(disz)	NU	NU	1	nummod	_	
+3	sar	sar	sar[unit]	N	0	root	_	
+4	sahar-ra	sahar-ra	_	N	3	GEN	_	
+5	a-sza3	a-sza3	aszag[field]	N	3	LOC	_	
+6	a-sza3	a-sza3	aszag[field]	N	5	appos	_	
+7	i7-sal4-la	i7-sal4-la	_	PN	8	acl	_	
+8	ugula	ugula	ugula[overseer][-ø]	N	6	GEN	_	
+9	i3-pu3-ul	i3-pu3-ul	_	PN	0	_	detached for projectivity	
+10	iti	iti	iti[month]	N	12	nmod	_	
+11	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	10	_	_	
+12	mu	mu	mu[year]	N	9	_	_	
+13	gu-za	gu-za	guza[chair][-ø]	N	14	ABS	_	
+14	ba-dim2	ba-dim2	ba-dim[create][-ø]	V	9	acl	_	
+15	lu2-du10-ga	lu2-du10-ga	Luduga[1]	PN	14	_	_	
+16	dub-sar	dub-sar	dubsar[scribe]	N	15	appos	_	
+17	dumu	dumu	dumu[child]	N	15	appos	_	
+18	ur-nigar{gar}	ur-nigar{gar}	Urnigar[1]	PN	17	GEN	_	
+19	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	18	appos	_
+	
+

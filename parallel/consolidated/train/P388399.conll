@@ -1,0 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P388399.atf
+# tr.en: laborers foreman Lu-dingira laborers foreman Lugal-girizal laborers foreman Lu-saga laborers foreman Lu-Daya laborers foreman Ur-gigir laborers foreman Lugal-magure laborers laborers sick foreman Lugal-mumag are stationed within bala month Lisi year Szarum was destroyed
+1	1(u)	1(u)	NU	NU	3	nummod	_	
+2	1(disz)	1(disz)	NU	NU	1	nummod	_	
+3	gurusz	gurusz	gurusz[male]	N	0	root	_	
+4	ugula	ugula	ugula[overseer][-ø]	N	3	appos	_	
+5	lu2-dingir-ra	lu2-dingir-ra	Ludingira[1][-ra]	PN	3	_	_	
+6	3(disz)	3(disz)	NU	NU	9	nummod	projectivity violation	
+7	gurusz	gurusz	gurusz[male]	N	6	_	heuristic: attach to last	
+8	ugula	ugula	ugula[overseer][-ø]	N	5	appos	_	
+9	lugal-giri17-zal	lugal-giri17-zal	_	PN	5	_	_	
+10	2(disz)	2(disz)	NU	NU	13	nummod	projectivity violation	
+11	gurusz	gurusz	gurusz[male]	N	10	_	heuristic: attach to last	
+12	ugula	ugula	ugula[overseer][-ø]	N	9	appos	_	
+13	lu2-saga	lu2-saga	Lusaga[1][-e]	PN	9	_	_	
+14	1(u)	1(u)	NU	NU	18	nummod	projectivity violation	
+15	2(disz)	2(disz)	NU	NU	21	nummod	projectivity violation	
+16	gurusz	gurusz	gurusz[male]	N	15	_	heuristic: attach to last	
+17	ugula	ugula	ugula[overseer][-ø]	N	13	appos	_	
+18	lu2-{d}da-ia3	lu2-{d}da-ia3	_	PN	17	_	_	
+19	1(u)	1(u)	NU	NU	23	nummod	projectivity violation	
+20	6(disz)	6(disz)	NU	NU	26	nummod	projectivity violation	
+21	gurusz	gurusz	gurusz[male]	N	0	_	detached for projectivity	
+22	ugula	ugula	ugula[overseer][-ø]	N	18	appos	_	
+23	ur-{gesz}gigir	ur-{gesz}gigir	Urgigir[1]	PN	22	_	_	
+24	1(u)	1(u)	NU	NU	28	nummod	projectivity violation	
+25	1(disz)	1(disz)	NU	NU	31	nummod	projectivity violation	
+26	gurusz	gurusz	gurusz[male]	N	0	_	detached for projectivity	
+27	ugula	ugula	ugula[overseer][-ø]	N	23	appos	_	
+28	lugal-ma2-gur8-re	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	37	ABS	_	
+29	1(u)	1(u)	NU	NU	31	nummod	_	
+30	7(disz)	7(disz)	NU	NU	29	nummod	_	
+31	gurusz	gurusz	gurusz[male]	N	28	_	_	
+32	3(disz)	3(disz)	NU	NU	33	nummod	heuristic: NU premodifying	
+33	gurusz	gurusz	gurusz[male]	N	31	appos	_	
+34	tu-ra	tu-ra	tur[young][-a]	V	31	acl	_	
+35	ugula	ugula	ugula[overseer][-ø]	N	31	appos	_	
+36	lugal-mu-ma-ag2	lugal-mu-ma-ag2	Lugalmumag[1][-ø]	PN	37	_	heuristic: attach to head	
+37	gub-ba-am3	gub-ba-am3	_	V	23	acl	_	
+38	sza3	sza3	szag[heart]	N	39	LOC	_	
+39	bala-a	bala-a	bala[tax][-ak]-'a	N	37	LOC	_	
+40	iti	iti	iti[month]	N	37	_	_	
+41	{d}li9-si4	{d}li9-si4	Lisi[1][-'a]	MN	40	_	_	
+42	mu	mu	mu[year]	N	40	_	_	
+43	sza-asz-ru-um{ki}	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	40	_	_	
+44	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	40	acl	_
+	
+

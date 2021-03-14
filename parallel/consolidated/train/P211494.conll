@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P211494.atf
+# tr.en: Basket-of-tablets sealed documents daba labor of troops of Ipae oxen manager months are here from month Bricks set in molds to month Dumuzi year Sz-Suen king lands of Zabali destroyed
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	3	acl	_	
+3	dab-ba	dab-ba	dab[seize]-a	V	5	ERG	_	
+4	a2	a2	a[time]	N	5	nmod	_	
+5	erin2-na-ka	erin2-na-ka	erin[people]-ak-ak	N	1	acl	_	
+6	i7-pa-e3	i7-pa-e3	Ipa'e[1][-ø]	PN	5	appos	_	
+7	nu-banda3-gu4	nu-banda3-gu4	nubandagu[ox_overseer][-ak][-ak][-ak]	N	5	appos	_	
+8	iti	iti	iti[month]	N	5	date	_	
+9	1(u)	1(u)	NU	NU	5	nummod	_	
+10	1(disz)-kam	1(disz)-kam	NU	NU	9	nummod	_	
+11	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	5	_	_	
+12	iti	iti	iti[month]	N	5	ABL	_	
+13	sig4-{gesz}i3-szub-ba-gar-ra-ta	sig4-{gesz}i3-szub-ba-gar-ra-ta	_	MN	12	ABL	_	
+14	iti	iti	iti[month]	N	12	LOC	_	
+15	{d}dumu-zi-sze3	{d}dumu-zi-sze3	_	MN	14	LOC	_	
+16	mu	mu	mu[year]	N	14	_	_	
+17	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	14	_	_	
+18	lugal-e	lugal-e	lugal[king]-e	N	17	appos	_	
+19	ma-da	ma-da	mada[land][-ak][-ø]	N	21	ABS	_	
+20	za-ab-sza-li{ki}	za-ab-sza-li{ki}	Zabszali[1][-ak][-ø]	GN	19	GEN	_	
+21	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	17	acl	_
+	
+

@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P202691.atf
+# tr.en: Basket-of-tablets sheep fat-tailed sheep grand totals from Girsu to Guabba are here year following Anan was destroyed
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	udu	udu	udu[sheep]	N	7	ABS	_	
+3	gukkal	gukkal	gukkal[fat-tailed_sheep]	N	2	appos	_	
+4	nigin-ba	nigin-ba	_	N	2	appos	_	
+5	gir2-su{ki}-ta	gir2-su{ki}-ta	Girsu[1][-ak][-ak]-ta	SN	4	ABL	_	
+6	gu2-ab-ba{ki}-sze3	gu2-ab-ba{ki}-sze3	_	SN	5	LOC	_	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+8	mu	mu	mu[year]	N	11	_	_	
+9	us2-sa	us2-sa	us[follow]-a	V	11	acl	_	
+10	an-sza-an{ki}	an-sza-an{ki}	Anszan[1][-ø]	GN	11	_	_	
+11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	7	parataxis	_
+	
+

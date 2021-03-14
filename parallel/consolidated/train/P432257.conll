@@ -1,0 +1,9 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432257.atf new_text=P432257
+# tr.en: in Nippur one whom Enlil nominated the constant supporter of temple of Enlil the mighty man king of Ur and king of four world quarters
+# train/P432257.atf						#new_text=P432257
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	_	
+2	...-x	_[_]	WN	RN	0	dep	_	
+3	'.	_	_	_	0	_	_	
+10	'.	_	_	_	0	_	_	
+

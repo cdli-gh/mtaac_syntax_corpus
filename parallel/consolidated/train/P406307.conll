@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P406307.atf
+# tr.en: gur barig barley royal fodder of sheep x from Lu-Narua under seal of Szage from mill month Amar-ayasi Sza-ninga scribe son of Lugal-uur
+1	2(asz)	2(asz)	NU	NU	3	nummod	_	
+2	2(barig)	2(barig)	NU	NU	1	nummod	_	
+3	sze	sze	sze[barley]	N	0	root	_	
+4	gur	gur	gur[unit]	N	3	appos	_	
+5	lugal	lugal	lugal[king]	N	3	appos	_	
+6	sza3-gal	sza3-gal	szaggal[food]	N	3	appos	_	
+7	udu-sze3	udu-sze3	_	N	6	GEN	_	
+8	ki	ki	ki[place]	N	9	ABL	_	
+9	lu2-{d}na-ru2-a-ta	lu2-{d}na-ru2-a-ta	_	PN	3	ABL	_	
+10	kiszib3	kiszib3	kiszib[seal]	N	3	LOC	_	
+11	sza3-ku3-ge	sza3-ku3-ge	Szakuge[1][-e]	PN	10	GEN	_	
+12	e2	e2	e[house]	N	3	_	_	
+13	kikken2-ta	kikken2-ta	_	PN	3	ABL	_	
+14	iti	iti	iti[month]	N	15	_	_	
+15	amar-a-a-si	amar-a-a-si	Amarayasi[1][-'a]	MN	3	parataxis	_	
+16	sza3-nin-ga2	sza3-nin-ga2	_	PN	3	_	_	
+17	dub-sar	dub-sar	dubsar[scribe]	N	16	appos	_	
+18	dumu	dumu	dumu[child]	N	16	appos	_	
+19	lugal-uszurx(|LAL2.TUG2|)	_[1][-ak][-ak]	PN	PN	18	GEN	_
+	
+

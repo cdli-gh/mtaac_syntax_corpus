@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P480381.atf
+# tr.en: male laborers for day grass carried sadura ditch of auda foreman ARADgu under seal of Ur-mes canal inspector year Szarum was destroyed Ur-mes son of Nabalu
+1	2(disz)	2(disz)	NU	NU	0	nummod	_	
+2	gurusz	gurusz	gurusz[male]	N	6	ERG	_	
+3	u4	u4	ud[day]	N	5	DAT	_	
+4	1(disz)-sze3	1(disz)-sze3	NU	NU	5	nummod	heuristic: NU premodifying	
+5	u2	u2	u[grass]	N	2	DAT	_	
+6	il2-la	il2-la	_	V	0	root	_	
+7	x	x	_[_]	N	6	dep	_	
+8	e	e	eg[levee]	N	6	_	heuristic: attach to head	
+9	sa-dur2-ra	sa-dur2-ra	sadurra[bottom]	N	6	ABS	_	
+10	a-u2-da	a-u2-da	_	FN	9	GEN	_	
+11	ugula	ugula	ugula[overseer][-ø]	N	10	appos	_	
+12	ARAD2-mu	ARAD2-mu	Aradmu[1]	PN	6	_	heuristic: attach to head	
+13	kiszib3	kiszib3	kiszib[seal]	N	6	LOC	_	
+14	ur-mes	ur-mes	Urmes[1]	PN	13	GEN	_	
+15	a-igi-du8	a-igi-du8	_	PN	13	appos	_	
+16	mu	mu	mu[year]	N	18	_	_	
+17	sza-asz-szu2-ru-um{ki}	sza-asz-szu2-ru-um{ki}	Szaszszurum[1][-ø]	SN	18	_	_	
+18	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	13	parataxis	_	
+19	ur-mes	ur-mes	Urmes[1]	PN	13	_	_	
+20	dumu	dumu	dumu[child]	N	13	appos	_	
+21	na-ba-lu5	_[Nabalu]	PN	PN	20	GEN	_
+	
+

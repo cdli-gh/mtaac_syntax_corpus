@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: for king of Ur and king of Sumer and Akkad Urmes the son of Ilamlammuma dedicated to him
+# train/P432354.atf new_text=P432354
+# train/P432354.atf						#new_text=P432354
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	DAT	_	
+2	lugal	lugal[king]	N	N	0	root	_	
+3	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	2	GEN	_	
+4	'.	_	_	_	3	_	heuristic: after nominal head	
+5	lugal	lugal[king]	N	N	3	appos	_	
+6	ki-en-gi	ki'engi[1]	GN	GN	3	GEN	_	
+7	ki-uri-ka-sze3	_[and.and.Akkad]	GN	GN.GEN.GEN.TERM	3	appos	projectivity violation	
+8	'.	_	_	_	7	_	heuristic: attach to last	
+9	ur-mes	Urmes[1]	PN	PN	6	appos	_	
+10	'.	_[the]	_	_	11	nmod	_	
+11	dumu	dumu[child]	N	N	6	appos	_	
+12	i-lam-<lam-mu>-ma	_[Ilamlammuma]	PN	PN.GEN.ERG	11	GEN	_	
+13	'.	_	_	_	12	_	heuristic: after nominal head	
+14	a	a[water][-ø]	N	N.ABS	12	_	heuristic: after nominal head	
+15	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	12	acl	_
+	
+

@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx
+# train/P138021.atf
+1	<pisan-dub-ba>	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sza3-bi	sza3-bi	szag[heart]-bi[-ta]	N	1	_	heuristic: attach to head	
+3	tug2	tug2	tug[textile]	N	1	_	heuristic: attach to head	
+4	su-ga	su-ga	sug[repay]-a	V	1	_	_	
+5	u2-a	u2-a	_	N	1	_	heuristic: attach to head	
+6	gi	gi	gi[reed][-ø]	N	1	_	heuristic: attach to head	
+7	sanga-ke4-ne	sanga-ke4-ne	_	V	1	_	heuristic: attach to head	
+8	ugula	ugula	ugula[overseer][-ø]	N	1	_	heuristic: attach to head	
+9	ur-{d}szusz3-{d}ba-ba6	ur-{d}szusz3-{d}ba-ba6	_	PN	1	_	heuristic: attach to head	
+10	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+11	ezem-mah	ezem-mah	Ezemmah[1][-'a]	MN	1	_	heuristic: attach to head	
+12	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
+13	en	en	en[priest]	N	1	_	heuristic: attach to head	
+14	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	1	_	heuristic: attach to head	
+15	masz2-e	masz2-e	masz[goat]-e	N	1	_	heuristic: attach to head	
+16	i3-pa3-ta	i3-pa3-ta	_	V	23	nmod	_	
+17	iti	iti	iti[month]	N	23	nmod	_	
+18	a2-ki-ti	a2-ki-ti	Akiti[1][-'a]	N	23	_	heuristic: attach to head	
+19	mu	mu	mu[year]	N	23	_	heuristic: attach to head	
+20	dumu-munus	dumu-munus	dumumunus[daughter]	N	23	_	heuristic: attach to head	
+21	lugal	lugal	lugal[king]	N	23	_	heuristic: attach to head	
+22	ensi2	ensi2	ensik[ruler]	N	23	_	heuristic: attach to head	
+23	za-ab-sza-li{ki}-ke4	za-ab-sza-li{ki}-ke4	_	SN	1	_	_	
+24	ba-an-tuku-a-asz	_	V	MID.V.3-SG-S.TERM	0	_	_
+	
+

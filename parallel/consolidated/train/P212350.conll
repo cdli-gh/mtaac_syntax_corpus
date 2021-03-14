@@ -1,0 +1,37 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ox sheep large billy goats lambs the th day Therefrom ox for plow sheep for Alla from Intaea Duga accepted Month mekigal festival year boat Ibex-of-Apsu was caulked
+# train/P212350.atf
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	gu4	gu4	gud[ox]	N	0	root	_	
+3	2(u)	2(u)	NU	NU	2	nummod	_	
+4	5(disz)	5(disz)	NU	NU	8	nummod	projectivity violation	
+5	udu	udu	udu[sheep]	N	2	appos	_	
+6	5(u)	5(u)	NU	NU	2	nummod	_	
+7	5(disz)	5(disz)	NU	NU	10	nummod	projectivity violation	
+8	masz2-gal	masz2-gal	maszgal[billy_goat]	N	2	appos	_	
+9	2(disz)	2(disz)	NU	NU	2	nummod	_	
+10	sila4	sila4	sila[lamb]	N	2	appos	_	
+11	u4	u4	ud[day]	N	2	appos	_	
+12	1(u)	1(u)	NU	NU	2	nummod	_	
+13	4(disz)-kam	4(disz)-kam	NU	NU	12	nummod	_	
+14	sza3-bi-ta	sza3-bi-ta	szag[heart]-bi-ta	PN	2	appos	_	
+15	1(disz)	1(disz)	NU	NU	16	nummod	_	
+16	gu4-gesz	gu4-gesz	gudgesz[draught_ox]	N	0	_	detached for projectivity	
+17	x-la2-ia3-sze3	x-la2-ia3-sze3	_	DN	15	DAT	projectivity violation	
+18	1(gesz2)	1(gesz2)	NU	NU	15	nummod	projectivity violation	
+19	2(u)	2(u)	NU	NU	21	nummod	projectivity violation	
+20	2(disz)	2(disz)	NU	NU	16	nummod	projectivity violation	
+21	udu	udu	udu[sheep]	N	16	appos	projectivity violation	
+22	al-la-x	al-la-x	_	PN	19	DAT	_	
+23	...	...	_[_]	PN	22	dep	heuristic: attach to last	
+24	ki	ki	ki[place]	N	26	ABL	_	
+25	in-ta-e3-a-ta	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	26	nmod	_	
+26	du11-ga	du11-ga	dug[irrigate]-a	V	16	ABL	_	
+27	i3-dab5	i3-dab5	i[-n]-dab[seize][-ø]	V	26	acl	_	
+28	iti	iti	iti[month]	N	29	nmod	_	
+29	ezem-me-ki-gal2	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	0	_	detached for projectivity	
+30	mu	mu	mu[year]	N	29	_	_	
+31	ma2-dara3-abzu	ma2-dara3-abzu	Madara'abzu[1]	ON	32	ABS	_	
+32	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	16	acl	_
+	
+

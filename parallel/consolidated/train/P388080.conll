@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P388080.atf
+# tr.en: sheep slaughtered th day in Tummal from Endingirgu Szulgi-irigu received month Szuea year throne of Enlil was crafted
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	udu	udu	udu[sheep]	N	0	root	_	
+3	ba-usz2	ba-usz2	ba-ug[die][-esz]	V	2	acl	_	
+4	u4	u4	ud[day]	N	3	_	_	
+5	1(u)	1(u)	NU	NU	0	nummod	_	
+6	3(disz)-kam	3(disz)-kam	NU	NU	5	nummod	_	
+7	sza3	sza3	szag[heart]	N	8	LOC	_	
+8	tum-ma-al	tum-ma-al	Tummal[1][-ak][-'a]	SN	4	LOC	_	
+9	ki	ki	ki[place]	N	11	ABL	_	
+10	en-dingir-mu-ta	en-dingir-mu-ta	Endingirmu[1][-ak]-ta	PN	11	nmod	_	
+11	{d}szul-gi-iri-mu	{d}szul-gi-iri-mu	Szulgi'irimu[1][-e]	PN	4	ABL	_	
+12	szu	szu	szu[hand][-e]	N	11	_	heuristic: attach to last	
+13	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	11	acl	_	
+14	iti	iti	iti[month]	N	15	nmod	_	
+15	szu-esz-sza	szu-esz-sza	Szu'eszsza[1][-'a]	MN	3	_	_	
+16	mu	mu	mu[year]	N	15	_	_	
+17	{gesz}gu-za	{gesz}gu-za	guza[chair]	N	19	ABS	_	
+18	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	17	GEN	_	
+19	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	15	acl	_
+	
+

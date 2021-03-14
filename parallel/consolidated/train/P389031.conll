@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P389031.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2	gurum2	gurum[inspection]	N	1	_	heuristic: attach to head	
+3	ak	ak	ak[excavate][-a][-ak]	V	1	_	_	
+4	sag-apin	sag-apin	_	N	3	_	heuristic: attach to last	
+5	e2	e2	e[house]	N	4	_	heuristic: attach to last	
+6	{d}en-lil2	{d}en-lil2	Enlil[1]	DN	5	_	heuristic: attach to last	
+7	e2	e2	e[house]	N	6	_	heuristic: attach to last	
+8	{d}en-ki	{d}en-ki	Enki[1][-ak][-ø]	DN	7	_	heuristic: attach to last	
+9	e2	e2	e[house]	N	8	_	heuristic: attach to last	
+10	{d}nin-gul	{d}nin-gul	_	DN	18	_	_	
+11	e2	e2	e[house]	N	18	_	heuristic: attach to head	
+12	{d}dumu-zi	{d}dumu-zi	Dumuzi[1][-'a]	MN	18	_	_	
+13	e2	e2	e[house]	N	18	_	heuristic: attach to head	
+14	nam-ha-ni	nam-ha-ni	Namhani[1]	N	18	_	_	
+15	e2	e2	e[house]	N	18	_	heuristic: attach to head	
+16	{d}nin-dar-a	{d}nin-dar-a	_	DN	18	nmod	_	
+17	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	18	nmod	_	
+18	mu	mu	mu[year]	N	1	_	_	
+19	en	en	en[priest]	N	1	_	_	
+20	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	0	_	_	
+21	masz-e	masz-e	masz[goat]-e	N	0	_	_	
+22	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	0	_	_
+	
+

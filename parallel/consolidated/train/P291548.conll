@@ -1,0 +1,16 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P291548.atf
+# tr.en: Basket-of-tablets sealed documents Ur-gigir chief household administrator are here year Enmahgalana en- of Nanna was hired
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	3	acl	_	
+3	dab-ba	dab-ba	dab[seize]-a	V	6	ERG	_	
+4	ur-{gesz}gigir	ur-{gesz}gigir	Urgigir[1]	PN	3	appos	_	
+5	szabra	szabra	szabra[chief_administrator][-ak]	N	3	appos	_	
+6	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+7	mu	mu	mu[year]	N	8	nmod	_	
+8	en-mah-gal-an-na	en-mah-gal-an-na	Enmahgalana[1]	PN	11	ABS	_	
+9	en	en	en[priest]	N	10	_	_	
+10	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	8	appos	_	
+11	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	6	parataxis	_
+	
+

@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
+# train/P110403.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	mu	mu	mu[year]	N	1	_	heuristic: attach to last	
+3	didli	didli	didli[several][-ø][-ak]	V	2	_	heuristic: attach to last	
+4	sze	sze	sze[barley]	N	16	_	heuristic: before verb	
+5	erin2-e	erin2-e	erin[people]-e	N	16	_	heuristic: before verb	
+6	gu7-a	gu7-a	_	V	16	_	heuristic: before verb	
+7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	16	_	heuristic: before verb	
+8	e2	e2	e[house]	N	16	_	heuristic: before verb	
+9	{d}nin-mar{ki}-ka	{d}nin-mar{ki}-ka	_	PN	16	_	heuristic: before verb	
+10	nam-erim2	nam-erim2	_	N	16	_	heuristic: before verb	
+11	ba-ku5	ba-ku5	_	PN	16	nmod	_	
+12	giri3	giri3	giri[foot]	N	16	_	heuristic: before verbal head	
+13	gu3-de2-a	gu3-de2-a	Gude'a[1][-ra]	PN	16	nmod	_	
+14	mu	mu	mu[year]	N	16	_	heuristic: before verbal head	
+15	en-unu6-gal	en-unu6-gal	Enunugal[1]	PN	16	_	heuristic: before verbal head	
+16	ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	1	_	_
+	
+

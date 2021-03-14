@@ -1,0 +1,6 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P432171.atf						#new_text=P432171
+# tr.en: For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her For Inanna the queen of Eanna temple his mistress Szulgi the mighty man king of Ur and king of Sumer and Akkad the Eanna he restored for her and its great wall he built for her
+# test/P432171.atf new_text=P432171
+1	{d}inanna	Inanna[1][-ak]	DN	DN	0	root	_	
+

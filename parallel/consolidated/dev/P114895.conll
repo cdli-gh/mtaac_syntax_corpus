@@ -1,0 +1,73 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: gabIL fish baskets workdays male laborers barge of birds workdays male laborers various booked-outs st year less gabIL fish baskets nun-fish good quality less workdays male laborers barge of birds workdays male laborers various booked-outs nd year surplus fish not taken Albanidu received from month Festival of Szulgi year Karar for nd time was destroyed to month Festival of Baba year Karar for nd time was destroyed
+# dev/P114895.atf
+1	4(gesz2)	4(gesz2)	NU	NU	4	nummod	projectivity violation	
+2	8(disz)	8(disz)	NU	NU	7	nummod	projectivity violation	
+3	ku6	ku6	kud[fish]	N	4	_	heuristic: attach to head	
+4	gab2-IL2	gab2-IL2	gabil[basket]	N	0	root	_	
+5	1(u)	1(u)	NU	NU	7	nummod	projectivity violation	
+6	3(disz)	3(disz)	NU	NU	14	nummod	projectivity violation	
+7	gurusz	gurusz	gurusz[male]	N	0	_	detached for projectivity	
+8	u4	u4	ud[day]	N	7	_	heuristic: attach to last	
+9	1(disz)-sze3	1(disz)-sze3	NU	NU	10	nummod	heuristic: NU premodifying	
+10	ma2	ma2	ma[ship]	N	7	appos	_	
+11	muszen	muszen	_	N	10	GEN	_	
+12	2(u)	2(u)	NU	NU	17	nummod	projectivity violation	
+13	2(disz)	2(disz)	NU	NU	12	nummod	_	
+14	gurusz	gurusz	gurusz[male]	N	0	_	detached for projectivity	
+15	u4	u4	ud[day]	N	14	_	_	
+16	1(disz)-sze3	1(disz)-sze3	NU	NU	17	nummod	heuristic: NU premodifying	
+17	zi-ga	zi-ga	zig[expend]-a	V	14	appos	_	
+18	didli	didli	didli[several][-ø][-ak]	V	17	acl	_	
+19	mu	mu	mu[year]	N	0	_	detached for projectivity	
+20	1(disz)-kam	1(disz)-kam	NU	NU	19	nummod	_	
+21	1(gesz'u)	1(gesz'u)	NU	NU	20	nummod	_	
+22	1(u)	1(u)	NU	NU	29	nummod	projectivity violation	
+23	la2	la2	la[hang][-ø]	V	26	_	_	
+24	1/2(disz)	1/2(disz)	NU	NU	23	nummod	_	
+25	ku6	ku6	kud[fish]	N	26	_	heuristic: attach to head	
+26	gab2-IL2	gab2-IL2	gabil[basket]	N	0	_	detached for projectivity	
+27	3(gesz'u)	3(gesz'u)	NU	NU	19	nummod	_	
+28	ku6	ku6	kud[fish]	N	35	nummod	projectivity violation	
+29	nun	nun	_	N	0	_	detached for projectivity	
+30	saga	saga	saga[good][-ø]	V	29	appos	_	
+31	2(gesz2)	2(gesz2)	NU	NU	14	nummod	_	
+32	5(u)	5(u)	NU	NU	42	nummod	projectivity violation	
+33	la2	la2	la[hang][-ø]	V	35	_	_	
+34	1(disz)	1(disz)	NU	NU	33	nummod	_	
+35	gurusz	gurusz	gurusz[male]	N	0	_	detached for projectivity	
+36	u4	u4	ud[day]	N	35	_	heuristic: attach to head	
+37	1(disz)-sze3	1(disz)-sze3	NU	NU	38	nummod	heuristic: NU premodifying	
+38	ma2	ma2	ma[ship]	N	35	appos	_	
+39	muszen	muszen	_	N	38	GEN	_	
+40	2(gesz2)	2(gesz2)	NU	NU	45	nummod	projectivity violation	
+41	6(disz)	6(disz)	NU	NU	40	nummod	_	
+42	gurusz	gurusz	gurusz[male]	N	0	_	detached for projectivity	
+43	u4	u4	ud[day]	N	42	_	_	
+44	1(disz)-sze3	1(disz)-sze3	NU	NU	45	nummod	heuristic: NU premodifying	
+45	zi-ga	zi-ga	zig[expend]-a	V	42	appos	_	
+46	didli	didli	didli[several][-ø][-ak]	V	45	acl	_	
+47	mu	mu	mu[year]	N	42	appos	_	
+48	2(disz)-kam	2(disz)-kam	NU	NU	47	nummod	_	
+49	ku6	ku6	kud[fish]	N	42	appos	_	
+50	diri	diri	diri[intercalary_month]	N	49	appos	_	
+51	nu-dab5	nu-dab5	nudab[worker]	V	49	acl	_	
+52	al-ba-ni-du10	al-ba-ni-du10	_	PN	54	ABS	_	
+53	szu	szu	szu[hand][-e]	N	54	_	_	
+54	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	42	parataxis	_	
+55	iti	iti	iti[month]	N	54	ABL	_	
+56	ezem-{d}szul-gi	ezem-{d}szul-gi	Ezemszulgir[1][-'a]	MN	55	ABL	_	
+57	mu	mu	mu[year]	N	54	date	_	
+58	kar2-har{ki}	kar2-har{ki}	_	GN	54	_	_	
+59	a-ra2	a-ra2	ara[times]	N	61	DAT	_	
+60	3(disz)-kam-asz	3(disz)-kam-asz	NU	NU	61	nummod	_	
+61	ba-hul-ta	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	54	parataxis	_	
+62	iti	iti	iti[month]	N	61	LOC	_	
+63	ezem-{d}ba-ba6	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	62	LOC	_	
+64	mu	mu	mu[year]	N	61	_	_	
+65	kar2-har{ki}	kar2-har{ki}	_	GN	64	_	_	
+66	a-ra2	a-ra2	ara[times]	N	68	DAT	projectivity violation	
+67	3(disz)-kam-asz	3(disz)-kam-asz	NU	NU	4	nummod	projectivity violation	
+68	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	64	acl	_
+	
+

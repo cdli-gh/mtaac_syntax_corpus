@@ -1,0 +1,29 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P375009.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	{kusz}du10-gan	{kusz}du10-gan	duggan[leather_bag]	N	1	_	_	
+3	sza3-bi	sza3-bi	szag[heart]-bi[-ta]	N	1	_	heuristic: attach to head	
+4	su-ga	su-ga	sug[repay]-a	V	1	_	heuristic: attach to head	
+5	kasz	kasz	kasz[beer]	N	1	_	heuristic: attach to head	
+6	zi3	zi3	zid[flour]	N	1	_	heuristic: attach to head	
+7	i3	i3	i[oil]	N	1	_	heuristic: attach to head	
+8	e2-kas4	e2-kas4	_	TN	1	_	heuristic: attach to head	
+9	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+10	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	1	_	heuristic: attach to head	
+11	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+12	gu2-ab-ba{ki}	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	1	_	heuristic: attach to head	
+13	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+14	sze-ba	sze-ba	szeba[ration]	N	1	_	heuristic: attach to head	
+15	gu7-a	gu7-a	_	V	1	_	heuristic: attach to head	
+16	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
+17	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	20	nmod	_	
+18	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	20	nmod	_	
+19	mu	mu	mu[year]	N	20	_	heuristic: attach to head	
+20	en-am-gal-an-na	en-am-gal-an-na	_	PN	1	_	_	
+21	en	en	en[priest]	N	0	_	_	
+22	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	0	_	_	
+23	unu{ki}	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	0	_	_	
+24	ba-a-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

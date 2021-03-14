@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P458807.atf
+# tr.en: Sz-Suen strong man strong king king of Ur king of four corners to Sz-kabta general his servant he gifted
+1	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	0	root	_	
+2	nita	nita	nita[male]	N	1	_	_	
+3	kal-ga	kal-ga	kalag[strong]-a	V	1	appos	_	
+4	lugal	lugal	lugal[king]	N	1	appos	_	
+5	kal-ga	kal-ga	kalag[strong]-a	V	4	acl	_	
+6	lugal	lugal	lugal[king]	N	1	appos	_	
+7	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	6	GEN	_	
+8	lugal	lugal	lugal[king]	N	1	appos	_	
+9	an	an	An[1][-ra]	N	11	nummod	_	
+10	ub-da	ub-da	_	N	11	_	heuristic: attach to head	
+11	limmu2-ba	limmu2-ba	limmu[four]-bi-ak[-ø]	V	8	GEN	_	
+12	szu-kab-ta2	szu-kab-ta2	_	PN	1	LOC	_	
+13	szagina	szagina	szakkanak[governor][-ak]	N	12	acl	_	
+14	ARAD2-da-ni-ir	ARAD2-da-ni-ir	_	PN	12	appos	_	
+15	in-na-ba	_[he.gifted]	N	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	12	acl	_
+	
+

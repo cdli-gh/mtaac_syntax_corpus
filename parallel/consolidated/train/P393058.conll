@@ -1,0 +1,21 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P393058.atf
+# tr.en: cows kitchen on th day out of Intaea were booked month Great festival year throne of Enlil was built bovines
+1	2(disz)	2(disz)	NU	NU	3	nummod	projectivity violation	
+2	ab2	ab2	ab[cow][-ø]	N	0	root	_	
+3	e2-muhaldim	e2-muhaldim	emuhaldim[kitchen][-sze]	N	8	ABS	_	
+4	u4	u4	ud[day]	N	3	LOC	_	
+5	8(disz)-kam	8(disz)-kam	NU	NU	7	nummod	heuristic: NU premodifying	
+6	ki	ki	ki[place]	N	7	_	heuristic: attach to head	
+7	in-ta-e3-a-ta	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	3	ABL	_	
+8	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	2	acl	_	
+9	iti	iti	iti[month]	N	10	nmod	_	
+10	ezem-mah	ezem-mah	Ezemmah[1][-'a]	MN	0	_	detached for projectivity	
+11	mu	mu	mu[year]	N	10	_	_	
+12	{d}gu-za	{d}gu-za	guza[chair]	PN	14	ABS	_	
+13	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	12	GEN	_	
+14	ba-dim2	ba-dim2	ba-dim[create][-ø]	V	10	parataxis	_	
+15	2(disz)	2(disz)	NU	NU	2	nummod	_	
+16	gu4	gud[ox]	N	N	2	appos	_
+	
+

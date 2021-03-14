@@ -1,0 +1,86 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: For Nanna his beloved master the Dublamah since ancient days though not an offering place where daily rations had been withdrawn having become since its temple had not been rebuilt Amar-Suena beloved by Nanna whom in Nippur Enlil chose by name the constant supporter of temple of Enlil the mighty man king of Ur and king of four world quarters the Dublamah the temple which is wonder of country his place of judgment where from his net the enemies of Amar-Suena do not escape that temple he rebuilt and made resplendent for him With gold silver and lapis lazuli he decorated it for him Amar-Suen shall therewith prolong his life A person who when temple has become old having rebuilt it but this inscription and its utensils from its standing-place does not change in eyes of Nanna may he find favor But a person who this inscription shall erase and its utensils to its standing-place shall not return may serpent of Nanna be set upon him and to his descendants may Nanna make an end
+# train/P432264.atf
+1	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	64	DAT	_	
+2	lugal	lugal	lugal[king]	N	64	_	heuristic: attach to head	
+3	ki-ag2-ga2-ni-ir	ki-ag2-ga2-ni-ir	_	N	64	ABS	_	
+4	dub-la2	dub-la2	_	N	3	_	_	
+5	mah	mah	mah[great][-ø][-ø]	V	3	_	_	
+6	u4	u4	ud[day]	N	3	LOC	_	
+7	ul-li2-a-ta	ul-li2-a-ta	_	V	6	LOC	_	
+8	ki-szu-tag	ki-szu-tag	_	N	7	_	heuristic: attach to last	
+9	szuku	szuku	szukur[prebend_land]	N	8	_	heuristic: attach to last	
+10	u4	u4	ud[day]	N	9	_	heuristic: attach to last	
+11	szub-ba	szub-ba	_	N	55	acl	_	
+12	i3-me-a-na-an-na	i3-me-a-na-an-na	_	PN	11	acl	_	
+13	e2-bi	e2-bi	_	N	14	_	_	
+14	nu-du3-am3	nu-du3-am3	_	V	21	acl.ADV	_	
+15	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	14	ABS	_	
+16	ki-ag2	ki-ag2	ki'ag[love][-ø]	V	15	acl	_	
+17	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	16	ERG	_	
+18	nibru{ki}-a	nibru{ki}-a	_	SN	17	appos	_	
+19	{d}en-lil2-le	{d}en-lil2-le	_	DN	21	ABS	_	
+20	mu	mu	mu[year]	N	21	_	_	
+21	pa3-da	pa3-da	Pada[1]	PN	55	acl	_	
+22	sag-us2	sag-us2	_	N	21	appos	_	
+23	e2	e2	e[house]	N	24	_	_	
+24	{d}en-lil2-ka	{d}en-lil2-ka	_	DN	22	GEN	_	
+25	nita	nita	nita[male]	N	26	nmod	_	
+26	kal-ga	kal-ga	kalag[strong]-a	V	24	appos	_	
+27	lugal	lugal	lugal[king]	N	24	appos	_	
+28	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	27	GEN	_	
+29	lugal	lugal	lugal[king]	N	27	appos	_	
+30	an	an	An[1][-ra]	N	29	nummod	_	
+31	ub-da	ub-da	_	N	29	appos	_	
+32	limmu2-ba-ke4	limmu2-ba-ke4	_	NU	27	appos	_	
+33	dub-la2	dub-la2	_	N	21	appos	_	
+34	mah	mah	mah[great][-ø][-ø]	V	21	_	_	
+35	e2	e2	e[house]	N	21	_	_	
+36	u6-di-kalam-ma	u6-di-kalam-ma	_	PN	21	appos	_	
+37	ki	ki	ki[place]	N	38	_	_	
+38	di-ku5-da-ni	di-ku5-da-ni	_	PN	21	appos	_	
+39	sa-bar-a-ni	sa-bar-a-ni	_	N	42	_	_	
+40	lu2-erim2	lu2-erim2	_	N	42	ABS	_	
+41	{d}amar-{d}suen-ka	{d}amar-{d}suen-ka	_	DN	40	GEN	_	
+42	nu-e3	nu-e3	nu-e[sow][-ed]	V	38	acl	_	
+43	e2-bi	e2-bi	_	N	52	_	_	
+44	mu-na-du3	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	52	ERG	_	
+45	pa	pa	pa[branch]	N	52	nmod	_	
+46	mu-na-an-e3	mu-na-an-e3	_	V	52	nmod	_	
+47	ku3-sig17	ku3-sig17	kugsig[gold]	N	52	COM	_	
+48	ku3-babbar	ku3-babbar	kugbabbar[silver]	N	47	appos	_	
+49	na4	na4	_	FN	47	_	heuristic: attach to head	
+50	za-gin3-na	za-gin3-na	_	N	47	appos	_	
+51	mu10	mu10	_	N	52	ABS	_	
+52	mu-na-ni-du11	mu-na-ni-du11	_	V	21	parataxis	_	
+53	{d}amar-{d}suen-ke4	{d}amar-{d}suen-ke4	_	DN	55	ABS	_	
+54	u4	u4	ud[day]	N	55	_	heuristic: attach to head	
+55	im-da-ab-su3-re6	im-da-ab-su3-re6	_	V	6	acl	_	
+56	lu2	lu2	lu[person]	N	55	_	heuristic: attach to last	
+57	e2	e2	e[house]	N	56	_	heuristic: attach to last	
+58	a-ba-sumun	a-ba-sumun	_	PN	3	appos	_	
+59	u3-un-du3	u3-un-du3	_	V	58	acl	_	
+60	mu-sar-ra-bi	mu-sar-ra-bi	_	V	3	appos	_	
+61	u3	u3	u[and]	CNJ	3	appos	_	
+62	{gesz}szu-kar2-bi	{gesz}szu-kar2-bi	_	N	3	appos	_	
+63	ki-gub-ba-bi	ki-gub-ba-bi	_	N	62	ABL	_	
+64	nu-ub-da-ab-kur2-re-a	nu-ub-da-ab-kur2-re-a	_	PN	0	root	_	
+65	igi	igi	igi[eye][-ø]	N	64	_	heuristic: attach to head	
+66	{d}nanna-ka	{d}nanna-ka	Nanna[1]-ak-ak[-'a]	DN	64	LOC	_	
+67	he2-en-sa6	he2-en-sa6	_	PN	64	acl.ADV	_	
+68	lu2	lu2	lu[person]	N	78	nmod	projectivity violation	
+69	mu-sar-ra-ba	mu-sar-ra-ba	_	V	67	appos	_	
+70	szu	szu	szu[hand][-e]	N	69	_	heuristic: attach to last	
+71	bi2-ib2-ur3-re-a	bi2-ib2-ur3-re-a	_	V	78	acl	_	
+72	u3	u3	u[and]	CNJ	71	appos	_	
+73	{gesz}szu-kar2-bi	{gesz}szu-kar2-bi	_	N	75	ABS	_	
+74	ki-gub-bi-sze3	ki-gub-bi-sze3	_	N	73	LOC	_	
+75	nu-ub-szi-ib2-gi4-gi4-a	nu-ub-szi-ib2-gi4-gi4-a	_	V	71	appos	_	
+76	musz	musz	_	N	78	_	_	
+77	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	78	GEN	_	
+78	he2-en-gar	he2-en-gar	_	V	67	appos	_	
+79	numun-na-ni	numun-na-ni	_	N	78	appos	_	
+80	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	81	_	_	
+81	he2-eb-til-le	_[make.an.end]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	78	appos	_
+	
+

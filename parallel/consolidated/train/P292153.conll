@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P292153.atf
+# tr.en: Basket-of-tablets sealed documents fodder reed via Abbasaga
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	kiszib3	kiszib3	kiszib[seal]	N	1	_	_	
+3	2(disz)	2(disz)	NU	NU	2	nummod	_	
+4	gi-zi	gi-zi	gizi[reed][-ak][-ak]	N	2	appos	_	
+5	giri3	giri3	giri[foot]	N	6	via	_	
+6	ab-ba-sa6-ga	Abbasaga[1][-e]	PN	PN.ERG	2	via	_
+	
+

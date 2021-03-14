@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets therefroms restitutions debits and credits of Lukalla are here year Su-Suen king
+# train/P127756.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sza3-bi	sza3-bi	szag[heart]-bi[-ta]	N	8	ABS	_	
+3	su-ga	su-ga	sug[repay]-a	V	2	appos	_	
+4	sag-nig2-gur11-ra	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	2	appos	_	
+5	u3	u3	u[and]	CNJ	2	appos	_	
+6	zi-ga	zi-ga	zig[expend]-a	V	2	appos	_	
+7	lu2-kal-la	lu2-kal-la	Lukala[1][-ra]	PN	2	GEN	_	
+8	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+9	mu	mu	mu[year]	N	8	parataxis	_	
+10	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	12	nmod	_	
+11	lugal	lugal	lugal[king]	N	12	nmod	_	
+12	...-x-LUM	...-x-LUM	PN	PN	9	appos	_	
+13	...	_[_]	PN	N	12	dep	_
+	
+

@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: sheep ewes lambs ugid offerings for kitchen th day from Abbasaga booked out month Harvest year Amar-Suen king Urbilum destroyed
+# train/P102348.atf
+1	4(disz)	4(disz)	NU	NU	2	nummod	_	
+2	udu	udu	udu[sheep]	N	0	root	_	
+3	2(disz)	2(disz)	NU	NU	2	nummod	_	
+4	u8	u8	u[ewe]	N	2	appos	_	
+5	2(disz)	2(disz)	NU	NU	2	nummod	_	
+6	sila4	sila4	sila[lamb]	N	2	appos	_	
+7	szu-gid2	szu-gid2	szugid[animal_designation][-ø]	N	2	appos	_	
+8	e2-muhaldim-sze3	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	7	DAT	_	
+9	u4	u4	ud[day]	N	14	date	_	
+10	5(disz)-kam	5(disz)-kam	NU	NU	14	nummod	_	
+11	ki	ki	ki[place]	N	12	ABL	_	
+12	ab-ba-sa6-ga-<ta>	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	14	ABL	_	
+13	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	12	_	_	
+14	iti	iti	iti[month]	N	2	parataxis	_	
+15	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	14	_	_	
+16	mu	mu	mu[year]	N	15	_	_	
+17	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	15	_	_	
+18	lugal-e	lugal-e	lugal[king]-e	N	17	appos	_	
+19	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	20	ABS	_	
+20	mu-hul	mu-hul	mu[-n]-hulu[destroy][-ø]	V	17	acl	_	
+21	8(disz)	8(disz)[one]	NU	NU	0	nummod	_
+	
+

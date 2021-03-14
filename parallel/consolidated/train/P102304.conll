@@ -1,0 +1,38 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: bundles fodder-reed their bales at bundles each reeds of dumugi and fisheries laborers bundles fodder-reed their bales at bundles each from Ur-Enlil under seal of Gurzaran via Basaga storehouse of Aabba month Mine year after Kima was destroyed Gurzaran son of Alla
+# train/P102304.atf
+1	6(gesz2)	6(gesz2)	NU	NU	3	nummod	_	
+2	1(u)	1(u)	NU	NU	1	nummod	_	
+3	sa	sa	sa[bundle]	N	0	root	_	
+4	gi-zi	gi-zi	gizi[reed][-ak][-ak]	N	3	appos	_	
+5	gu-nigin2-ba	gu-nigin2-ba	gunigin[bale]-bi-'a	N	7	nmod	projectivity violation	
+6	5(disz)	5(disz)	NU	NU	3	nummod	_	
+7	sa-ta	sa-ta	sa[bundle]-ta	N	3	appos	_	
+8	gi	gi	gi[reed][-ø]	N	3	appos	_	
+9	dumu-gi7	dumu-gi7	dumugi[citizen]	N	8	GEN	_	
+10	szu-ku6-ne	szu-ku6-ne	_	V	9	appos	_	
+11	5(gesz2)	5(gesz2)	NU	NU	12	nummod	_	
+12	sa	sa	sa[bundle]	N	3	_	_	
+13	gi-zi	gi-zi	gizi[reed][-ak][-ak]	N	12	appos	_	
+14	gu-nigin2-ba	gu-nigin2-ba	gunigin[bale]-bi-'a	N	16	nmod	projectivity violation	
+15	6(disz)	6(disz)	NU	NU	12	nummod	_	
+16	sa-ta	sa-ta	sa[bundle]-ta	N	12	appos	_	
+17	ki	ki	ki[place]	N	18	ABL	_	
+18	ur-{d}en-lil2-la2-ta	ur-{d}en-lil2-la2-ta	_	PN	12	ABL	_	
+19	kiszib3	kiszib3	kiszib[seal]	N	12	LOC	_	
+20	gur4-za-an	gur4-za-an	_	PN	19	GEN	_	
+21	giri3	giri3	giri[foot]	N	22	via	_	
+22	ba-saga	ba-saga	_	V	12	via	_	
+23	ga2-nun	ga2-nun	_	N	22	appos	_	
+24	a-ab-ba	a-ab-ba	_	PN	23	GEN	_	
+25	iti	iti	iti[month]	N	26	nmod	_	
+26	min-esz3	min-esz3	Minesz[1][-'a]	MN	3	_	_	
+27	mu	mu	mu[year]	N	26	_	_	
+28	us2-sa	us2-sa	us[follow]-a	V	27	LOC	_	
+29	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	26	_	_	
+30	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	26	acl	_	
+31	gur4-za-an	gur4-za-an	_	PN	32	acl	_	
+32	dumu	dumu	dumu[child]	N	3	_	_	
+33	al-la	Alla[1]	PN	PN	32	GEN	_
+	
+

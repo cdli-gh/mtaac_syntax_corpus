@@ -1,0 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P234868.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	dub	dub	dub[tablet]	N	1	_	_	
+3	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	1	_	heuristic: attach to head	
+4	lugal-lu2-sa6-sa6	lugal-lu2-sa6-sa6	Lugallusasa[1]	PN	1	_	heuristic: attach to head	
+5	ur-{gesz}gigir	ur-{gesz}gigir	Urgigir[1]	PN	1	_	heuristic: attach to head	
+6	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+7	gi4-ni-mu	gi4-ni-mu	_	PN	1	_	heuristic: attach to head	
+8	lu2-bulug3-ga2	lu2-bulug3-ga2	Lugalitida[1]	PN	1	_	heuristic: attach to head	
+9	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+10	du10-ga	du10-ga	dug[good]-a	V	1	_	heuristic: attach to head	
+11	lu2-{d}ba-ba6	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	1	_	heuristic: attach to head	
+12	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+13	ki-ba-sa6	ki-ba-sa6	_	PN	1	_	heuristic: attach to head	
+14	ur-ba-gara2	ur-ba-gara2	Urbagara[1]	PN	1	_	heuristic: attach to head	
+15	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+16	lu2-igi-sa6-sa6	lu2-igi-sa6-sa6	_	PN	1	_	heuristic: attach to head	
+17	lu2-{d}ba-ba6	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	1	_	heuristic: attach to head	
+18	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+19	...	...	_[_]	PN	1	dep	heuristic: attach to head	
+20	ur-{d}ba-ba6	ur-{d}ba-ba6	Urbaba[1]	PN	1	_	heuristic: attach to head	
+21	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+22	ur-{d}nansze	ur-{d}nansze	Urnansze[1]	PN	1	_	heuristic: attach to head	
+23	lu2-lagasz{ki}	lu2-lagasz{ki}	_	PN	1	_	heuristic: attach to head	
+24	dumu	dumu	dumu[child]	N	1	_	heuristic: attach to head	
+25	si-du3	si-du3	_	PN	1	_	heuristic: attach to head	
+26	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+27	nin-a-na	nin-a-na	_	PN	32	nmod	_	
+28	dumu	dumu	dumu[child]	N	32	_	heuristic: attach to head	
+29	lu2-gu-la	lu2-gu-la	Lugula[1][-ak][-ra]	PN	32	_	heuristic: attach to head	
+30	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	32	nmod	_	
+31	mu	mu	mu[year]	N	32	_	heuristic: attach to head	
+32	en-mah-gal-an-na	en-mah-gal-an-na	Enmahgalana[1]	PN	1	_	_	
+33	en	en	en[priest]	N	0	_	_	
+34	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	0	_	_	
+35	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

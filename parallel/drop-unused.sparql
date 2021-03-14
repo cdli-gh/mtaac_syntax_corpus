@@ -1,0 +1,24 @@
+# from conll:_ properties
+
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# remove _ properties
+DELETE {
+	?a conll:_ ?b
+} WHERE {
+	?a conll:_ ?b 
+};
+
+# remove _ and ? literals
+DELETE {
+	?a ?b ?c
+} WHERE {
+	?a ?b ?c FILTER(str(?c) in ("_","?"))
+};

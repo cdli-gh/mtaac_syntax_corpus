@@ -1,0 +1,83 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborer for workdays from Umma-harbor to Irisagrig barge punted for workday barley into barge loaded from Irisagrig two workdays to reservoir of Vineyard barge punted for workday at Uriru-village barley transferred to reservoir of Amar-Suentum canal barley carried from reservoir of Amar-Suentum canal for workdays to Irisagrig barge punted and transfer done for workdays from Irisagrig to mouth of Damimama barge punted for workdays to Umma barge floated for workday barge unloaded for workday barley transferred foreman Urmes under seal of Adumu year boat of Enki was caulked Ur-Suen scribe son of Ur-gigir official
+# train/P140915.atf
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	gurusz	gurusz	gurusz[male]	N	9	ERG	_	
+3	u4	u4	ud[day]	N	2	DAT	_	
+4	4(disz)-sze3	4(disz)-sze3	NU	NU	6	nummod	heuristic: NU premodifying	
+5	kar	kar	_	N	6	ABL	_	
+6	umma{ki}-ta	umma{ki}-ta	Umma[1][-ak]-ta	SN	2	ABL	_	
+7	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-sze3	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-sze3	_	SN	8	LOC	_	
+8	ma2	ma2	ma[ship]	N	6	LOC	_	
+9	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	0	root	_	
+10	u4	u4	ud[day]	N	12	DAT	projectivity violation	
+11	1(disz)-sze3	1(disz)-sze3	NU	NU	9	nummod	_	
+12	sze	sze	sze[barley]	N	9	DAT	_	
+13	ma2-a	ma2-a	ma[ship]-'a	N	12	appos	_	
+14	si-ga	si-ga	sig[load]-a	N	12	acl	_	
+15	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-ta	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-ta	_	SN	9	ABL	_	
+16	u4	u4	ud[day]	N	22	_	_	
+17	2(disz)-sze3	2(disz)-sze3	NU	NU	22	nummod	heuristic: NU premodifying	
+18	kun-zi-da	kun-zi-da	kunzida[weir]	N	22	ABS	_	
+19	{gesz}kiri6	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	18	_	heuristic: attach to head	
+20	gesztin-sze3	gesztin-sze3	_	N	21	nmod	_	
+21	ma2	ma2	ma[ship]	N	18	GEN	_	
+22	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	15	acl	_	
+23	u4	u4	ud[day]	N	22	_	_	
+24	8(disz)-sze3	8(disz)-sze3	NU	NU	26	nummod	heuristic: NU premodifying	
+25	e2-duru5	e2-duru5	eduru[village]	N	26	DAT	_	
+26	uri3-ru2-a-ka	uri3-ru2-a-ka	_	GN	22	DAT	_	
+27	sze	sze	sze[barley]	N	26	LOC	_	
+28	bala-a	bala-a	bala[tax][-ak]-'a	N	27	acl	_	
+29	kun-zi-da	kun-zi-da	kunzida[weir]	N	22	LOC	_	
+30	i7	i7	id[river]	N	29	_	heuristic: attach to head	
+31	{d}amar-{d}suen-ni-tum-sze3	{d}amar-{d}suen-ni-tum-sze3	_	WN	32	nmod	_	
+32	sze	sze	sze[barley]	N	29	GEN	_	
+33	ga6-ga2	ga6-ga2	gag[carry]-a	V	29	acl	_	
+34	kun-zi-da	kun-zi-da	kunzida[weir]	N	33	_	heuristic: attach to head	
+35	i7	i7	id[river]	N	33	_	heuristic: attach to head	
+36	{d}amar-{d}suen-ni-tum-ta	{d}amar-{d}suen-ni-tum-ta	_	DN	33	ABL	_	
+37	u4	u4	ud[day]	N	36	DAT	_	
+38	2(disz)-sze3	2(disz)-sze3	NU	NU	9	nummod	projectivity violation	
+39	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-sze3	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-sze3	_	SN	40	LOC	_	
+40	ma2	ma2	ma[ship]	N	37	LOC	_	
+41	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	45	_	_	
+42	u3	u3	u[and]	CNJ	41	appos	_	
+43	ma2	ma2	ma[ship]	N	41	_	heuristic: attach to head	
+44	bala	bala	bala[turn][-'a]	N	41	appos	_	
+45	ak	ak	ak[excavate][-a][-ak]	V	9	acl	_	
+46	u4	u4	ud[day]	N	57	DAT	_	
+47	2(disz)-sze3	2(disz)-sze3	NU	NU	52	nummod	projectivity violation	
+48	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-ta	iri-sa12-rigx(|PA.MUNUS.HUB2.DU|){ki}-ta	_	SN	46	ABL	_	
+49	ka	ka	kag[mouth]	N	50	LOC	_	
+50	da-mi-ma-ma-sze3	da-mi-ma-ma-sze3	_	V	46	LOC	_	
+51	ma2	ma2	ma[ship]	N	50	GEN	_	
+52	gid2-da	gid2-da	gid[lengthen]-a[-ø]	V	57	ERG	_	
+53	u4	u4	ud[day]	N	52	DAT	_	
+54	2(disz)-sze3	2(disz)-sze3	NU	NU	57	nummod	projectivity violation	
+55	umma{ki}-sze3	umma{ki}-sze3	_	SN	56	LOC	_	
+56	ma2	ma2	ma[ship]	N	53	LOC	_	
+57	diri-ga	diri-ga	dirig[drift]-a	V	9	parataxis	_	
+58	u4	u4	ud[day]	N	60	DAT	projectivity violation	
+59	1(disz)-sze3	1(disz)-sze3	NU	NU	57	nummod	_	
+60	ma2	ma2	ma[ship]	N	57	DAT	_	
+61	ba-al-la	ba-al-la	bala[transfer]-a	V	60	appos	_	
+62	u4	u4	ud[day]	N	64	DAT	_	
+63	1(disz)-sze3	1(disz)-sze3	NU	NU	64	nummod	_	
+64	sze	sze	sze[barley]	N	57	DAT	_	
+65	bala-a	bala-a	bala[tax][-ak]-'a	N	64	appos	_	
+66	ugula	ugula	ugula[overseer][-ø]	N	67	nmod	_	
+67	ur-mes	ur-mes	Urmes[1]	PN	64	_	_	
+68	kiszib3	kiszib3	kiszib[seal]	N	67	LOC	_	
+69	a-du-mu	a-du-mu	Adumu[1][-ra]	PN	68	GEN	_	
+70	mu	mu	mu[year]	N	67	_	_	
+71	ma2	ma2	ma[ship]	N	73	ABS	_	
+72	{d}en-ki	{d}en-ki	Enki[1][-ak][-ø]	DN	71	GEN	_	
+73	ba-ab-du8	ba-ab-du8	ba-b-du[caulk][-ø]	V	70	acl	_	
+74	ur-{d}suen	ur-{d}suen	Ursuen[1]	PN	9	ABS	_	
+75	dub-sar	dub-sar	dubsar[scribe]	N	74	appos	_	
+76	dumu	dumu	dumu[child]	N	74	appos	_	
+77	ur-{gesz}gigir	ur-{gesz}gigir	Urgigir[1]	PN	76	GEN	_	
+78	sza3-tam	_[official]	N	N.ABS	77	appos	_
+	
+

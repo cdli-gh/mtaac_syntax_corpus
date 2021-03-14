@@ -1,0 +1,19 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432338.atf						#new_text=P432338
+# train/P432338.atf new_text=P432338
+# tr.en: according to great command of Nanna his lord when Susa he destroyed and to booty he made
+1	'.	SEGM	XPOSTAG	XPOSTAG	0	_	detached for projectivity	
+2	inim-mah	_[according.to.great.command]	N	N	0	root	_	
+3	{d}nanna	Nanna[1][-ak]	DN	DN	2	GEN	_	
+4	lugal-na-ta	_[his.lord]	N	N	2	appos	_	
+5	'.	_	_	_	4	_	heuristic: after nominal head	
+6	u4	ud[day]	N	N	4	_	heuristic: after nominal head	
+7	szuszin{ki}	_[when.Susa.he]	SN	SN.GEN.ABS	4	_	heuristic: after nominal head	
+8	'.	_	_	_	4	_	heuristic: after nominal head	
+9	mu-hul-a	_[destroyed]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	4	acl	_	
+10	'.	_	_	_	4	_	heuristic: after nominal head	
+11	nam-ra-asz	_[and.to.booty]	N	N.ADV	4	appos	_	
+12	'.	_	_	_	4	_	heuristic: after nominal head	
+13	mu-na-ak-a	_[he.made]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P.SUB.L1	4	acl	_
+	
+

@@ -1,0 +1,25 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Finished judgment in basket-of-tablets are xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P110944.atf
+1	di	di	did[lawsuit]	N	0	_	_	
+2	til-la	til-la	til[complete]-a	V	19	ERG	_	
+3	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	2	LOC	_	
+4	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	19	_	_	
+5	szu	szu	szu[hand][-e]	N	19	_	heuristic: attach to head	
+6	sukkal-mah	sukkal-mah	_	PN	19	_	_	
+7	ensi2	ensi2	ensik[ruler]	N	19	_	_	
+8	giri3	giri3	giri[foot]	N	19	_	heuristic: attach to head	
+9	lu2-{d}szara2	lu2-{d}szara2	Luszara[1][-ak]	PN	19	_	_	
+10	giri3	giri3	giri[foot]	N	19	_	heuristic: attach to head	
+11	lu2-eb-gal	lu2-eb-gal	Lu'ebgal[1]	PN	19	_	_	
+12	giri3	giri3	giri[foot]	N	19	_	heuristic: attach to head	
+13	lu2-dingir-ra	lu2-dingir-ra	Ludingira[1][-ra]	PN	19	_	_	
+14	giri3	giri3	giri[foot]	N	19	_	heuristic: attach to head	
+15	ur-{d}isztaran	ur-{d}isztaran	Urisztaran[1]	PN	19	nmod	_	
+16	di-ku5-bi-me	di-ku5-bi-me	dikud[judge]-bi[-ø]-mesz	N	19	nmod	_	
+17	mu	mu	mu[year]	N	19	_	_	
+18	en	en	en[priest]	N	19	_	heuristic: attach to head	
+19	eridu{ki}	eridu{ki}	Eridug[1][-ak][-ø]	SN	0	root	_	
+20	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

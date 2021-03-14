@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: male laborer workdays at waterway of Anan stationed foreman Lugal-nesage under seal of Lugal-emae extra month year Szarum a nd time destroyed Lugal-emae scribe son of Lugal-kugani
+# train/P112177.atf
+1	7(disz)	7(disz)	NU	NU	3	nummod	_	
+2	gurusz	gurusz	gurusz[male]	N	3	acl	_	
+3	u4	u4	ud[day]	N	7	ERG	_	
+4	1(disz)-sze3	1(disz)-sze3	NU	NU	6	nummod	heuristic: NU premodifying	
+5	i7	i7	id[river]	N	6	_	heuristic: attach to head	
+6	{d}asznan	{d}asznan	_	DN	3	LOC	_	
+7	gub-ba	gub-ba	gub[assigned]-a[-ak][-ø]	V	0	root	_	
+8	ugula	ugula	ugula[overseer][-ø]	N	7	ABS	_	
+9	lugal-nesag-e	lugal-nesag-e	Lugalnesage[1][-e]	PN	8	_	_	
+10	kiszib3	kiszib3	kiszib[seal]	N	7	LOC	_	
+11	lugal-e2-mah-e	lugal-e2-mah-e	Lugalemahe[1]	N	10	GEN	_	
+12	iti	iti	iti[month]	N	10	appos	_	
+13	diri	diri	diri[intercalary_month]	N	12	acl	_	
+14	mu	mu	mu[year]	N	10	appos	_	
+15	sza-asz-ru-um{ki}	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	19	_	_	
+16	a-ra2	a-ra2	ara[times]	N	19	_	_	
+17	2(disz)-kam	2(disz)-kam	NU	NU	19	nummod	projectivity violation	
+18	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	16	acl	_	
+19	lugal-e2-mah-e	lugal-e2-mah-e	Lugalemahe[1]	N	10	_	_	
+20	dub-sar	dub-sar	dubsar[scribe]	N	19	appos	_	
+21	dumu	dumu	dumu[child]	N	19	appos	_	
+22	lugal-ku3-ga-ni	Lugalkugani[1][-ak]	PN	PN.GEN	21	GEN	_
+	
+

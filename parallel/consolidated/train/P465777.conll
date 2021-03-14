@@ -1,0 +1,20 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: n shekels grains of silver interest of field from Ur-dun did Dadaga receive year Urbilum was destroyed
+# train/P465777.atf
+1	n	n	_(_)[_]	NU	2	nummod	_	
+2	gin2	gin2	gig[unit]	N	0	root	_	
+3	n	n	_(_)[_]	NU	2	_	heuristic: attach to head	
+4	sze	sze	sze[barley]	N	2	_	_	
+5	ku3	ku3	kug[silver]	N	4	GEN	_	
+6	masz	masz	masz[interest]	N	5	root	heuristic: attach to head	
+7	a-sza3-ga	a-sza3-ga	aszag[field]-ak	N	4	GEN	projectivity violation	
+8	ki	ki	ki[place]	N	7	ABL	_	
+9	ur-dun-ta	ur-dun-ta	_	PN	5	root	heuristic: attach to head	
+10	da-da-ga	da-da-ga	Dadaga[1][-ak]	PN	5	root	heuristic: attach to head	
+11	szu	szu	szu[hand][-e]	N	10	_	heuristic: attach to last	
+12	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	5	root	heuristic: attach to head	
+13	mu	mu	mu[year]	N	12	_	heuristic: attach to last	
+14	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	5	ABS	_	
+15	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	detached for projectivity
+	
+

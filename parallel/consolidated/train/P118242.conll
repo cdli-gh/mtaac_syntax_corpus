@@ -1,0 +1,32 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P118242.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sag-nig2-gur11-ra	sag-nig2-gur11-ra	sagnigGArak[available_assets]	N	1	_	_	
+3	u3	u3	u[and]	CNJ	27	_	heuristic: before verb	
+4	zi-ga	zi-ga	zig[expend]-a	V	27	_	heuristic: before verb	
+5	sza3-bi	sza3-bi	szag[heart]-bi[-ta]	N	27	_	heuristic: before verb	
+6	su-ga	su-ga	sug[repay]-a	V	27	_	heuristic: before verb	
+7	usz-mu	usz-mu	Uszmu[1]	PN	27	_	heuristic: before verb	
+8	dub-sar	dub-sar	dubsar[scribe]	N	27	_	heuristic: before verb	
+9	kuruszda	kuruszda	kuruszda[animal_fattener][-ø]	N	27	_	heuristic: before verb	
+10	mu	mu	mu[year]	N	27	_	heuristic: before verb	
+11	1(disz)	1(disz)	NU	NU	27	nummod	heuristic: NU premodifying	
+12	iti	iti	iti[month]	N	27	_	heuristic: before verbal head	
+13	1(disz)-kam	1(disz)-kam	NU	NU	27	nummod	heuristic: NU premodifying	
+14	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	27	_	heuristic: before verbal head	
+15	iti	iti	iti[month]	N	27	_	heuristic: before verbal head	
+16	{d}dumu-zi	{d}dumu-zi	Dumuzi[1][-'a]	MN	27	_	heuristic: before verbal head	
+17	mu	mu	mu[year]	N	27	_	heuristic: before verbal head	
+18	en	en	en[priest]	N	27	_	heuristic: before verbal head	
+19	eridu{ki}	eridu{ki}	Eridug[1][-ak][-ø]	SN	27	_	heuristic: before verbal head	
+20	ba-hun-ta	ba-hun-ta	_	V	27	nmod	_	
+21	iti	iti	iti[month]	N	27	_	heuristic: before verbal head	
+22	{d}dumu-zi	{d}dumu-zi	Dumuzi[1][-'a]	MN	27	nmod	_	
+23	mu	mu	mu[year]	N	27	_	heuristic: before verbal head	
+24	en	en	en[priest]	N	27	_	heuristic: before verbal head	
+25	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	27	_	heuristic: before verbal head	
+26	kar-zi-da	kar-zi-da	Karzida[1][-ak][-ak][-ø]	SN	27	_	heuristic: before verbal head	
+27	ba-hun-sze3	_[xxx]	V	MID.V.3-SG-S.TERM	1	_	_
+	
+

@@ -1,0 +1,13 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets breeding donkeys stationed from year Hari to year Enunugal
+# test/P320066.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	ansze	ansze	ansze[donkey]	N	1	_	_	
+3	ama-gan-na	ama-gan-na	_	N	2	acl	_	
+4	gub-ba	gub-ba	gub[assigned]-a[-ak][-ø]	V	2	acl	_	
+5	mu	mu	mu[year]	N	2	ABL	_	
+6	ha-ar-szi{ki}-ta	ha-ar-szi{ki}-ta	_	SN	5	ABL	_	
+7	mu	mu	mu[year]	N	2	LOC	_	
+8	en-unu6-gal-sze3	_[to.Enunugal]	PN	PN.GEN.TERM	7	LOC	_
+	
+

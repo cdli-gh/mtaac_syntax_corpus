@@ -1,0 +1,14 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets debits Mani in Girsu are here year Kima was destroyed
+# train/P101768.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	sag-nig2-gur11	sag-nig2-gur11	_	N	6	ABS	_	
+3	ma-ni	ma-ni	_	N	2	appos	_	
+4	sza3	sza3	szag[heart]	N	5	LOC	_	
+5	gir2-su{ki}	gir2-su{ki}	Girsu[1][-ak]	SN	2	LOC	_	
+6	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
+7	mu	mu	mu[year]	N	9	_	_	
+8	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	9	_	_	
+9	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	6	parataxis	_
+	
+

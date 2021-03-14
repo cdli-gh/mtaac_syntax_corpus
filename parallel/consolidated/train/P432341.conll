@@ -1,0 +1,26 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432341.atf						#new_text=P432341
+# train/P432341.atf new_text=P432341
+# tr.en: the strong manking king of Ur and king of four world quarters n minas Nannas Established Sealed-items Storeroom he standardized for him
+1	'.	SEGM	XPOSTAG	XPOSTAG	3	nmod	_	
+2	lugal	lugal[king]	N	N	3	_	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	0	root	_	
+4	'.	_	_	_	3	_	heuristic: attach to last	
+5	lugal	lugal[king]	N	N	3	appos	_	
+6	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	5	GEN	_	
+7	'.	_	_	_	6	_	heuristic: attach to last	
+8	lugal	lugal[king]	N	N	3	appos	_	
+9	an	An[1][-ra]	N	N	3	nummod	_	
+10	ub-da	_[world]	N	N	3	appos	_	
+11	limmu2-ba-ke4	_[and.quarters]	NU	NF.V.3-SG-NH-POSS.GEN.ERG	3	nummod	_	
+12	'.	_	_	_	11	_	heuristic: attach to last	
+13	n(disz)	_	N	N	3	appos	_	
+14	ma-na	mana[unit]	N	N	3	appos	_	
+15	'.	_	_	_	14	_	heuristic: attach to last	
+16	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	18	nmod	_	
+17	{d}nanna-a	_[Established.Sealed-items]	DN	DN.COM	18	acl	_	
+18	gar-ra	_[Storeroom]	V	V	3	appos	_	
+19	'.	_	_	_	3	_	_	
+20	mu-na-gi-in	_[he.standardized.for.him]	PN	VEN.3-SG-H.DAT.3-SG-H-A.gin.3-SG-P	3	acl	_
+	
+

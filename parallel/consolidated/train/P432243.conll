@@ -1,0 +1,18 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P432243.atf new_text=P432243
+# tr.en: Szulgi the mighty man king of Ur Hazi- fashioned for himher
+# train/P432243.atf						#new_text=P432243
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	nmod	_	
+2	{d}szul-gi	Szulgir[1]	RN	RN	0	root	_	
+3	'.	_	_	_	2	_	_	
+4	nita	nita[male]	N	N	5	nmod	_	
+5	kal-ga	kalag[strong]-a	V	NF.V.SUB	2	acl	_	
+6	'.	_	_	_	2	_	_	
+7	lugal	lugal[king]	N	N	2	appos	_	
+8	uri5{ki}-ma-ka-sze3	Urim[1]-ak-ak-sze	SN	SN.GEN.GEN.TERM	7	GEN	_	
+9	'.	_	_	_	2	_	heuristic: after nominal head	
+10	ha-zi-...	_[Hazi-]	PN	PN	2	appos	_	
+11	'.	_	_	_	10	_	heuristic: after nominal head	
+12	mu-na-dim2	mu-nn-a-dim[create][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	10	acl	_
+	
+

@@ -1,0 +1,83 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416440.atf
+# tr.en: sheep barley-fed of nd grade sheep of rd grade hybrid mouflon barley-fed of th grade hybrid buck barley-fed for Enlil sheep barley-fed of nd grade sheep of rd grade hybird mouflon barley-fed rd grade hybrid buck barley-fed for Ninlil sheep barley-fed of rd grade sheep barley-fed of th grade n female kids for ee-celebration of th day at kings entry of month day elapsed booked out from Tahi-atal month Grand Festival year boat called ibex of Absu was caulked
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	udu	udu	udu[sheep]	N	0	root	_	
+3	niga	niga	niga[fattened][-ø]	V	2	acl	_	
+4	saga	saga	saga[good][-ø]	V	7	nummod	projectivity violation	
+5	us2	us2	us[follow][-ø]	V	2	GEN	_	
+6	1(disz)	1(disz)	NU	NU	2	nummod	_	
+7	udu	udu	udu[sheep]	N	2	appos	_	
+8	niga	niga	niga[fattened][-ø]	V	14	nummod	projectivity violation	
+9	3(disz)-kam	3(disz)-kam	NU	NU	10	nummod	heuristic: NU premodifying	
+10	us2	us2	us[follow][-ø]	V	7	GEN	_	
+11	1(disz)	1(disz)	NU	NU	2	nummod	_	
+12	udu	udu	udu[sheep]	N	19	nummod	projectivity violation	
+13	a-udu	a-udu	_	N	14	nmod	_	
+14	hur-sag	hur-sag	_	N	2	appos	_	
+15	niga	niga	niga[fattened][-ø]	V	2	acl	_	
+16	4(disz)-kam	4(disz)-kam	NU	NU	17	nummod	heuristic: NU premodifying	
+17	us2	us2	us[follow][-ø]	V	2	GEN	_	
+18	1(disz)	1(disz)	NU	NU	19	nummod	_	
+19	masz2-gal	masz2-gal	maszgal[billy_goat]	N	2	appos	_	
+20	a-dara4	a-dara4	_	N	19	appos	_	
+21	niga	niga	niga[fattened][-ø]	V	19	acl	_	
+22	{d}en-lil2	{d}en-lil2	Enlil[1]	DN	19	DAT	_	
+23	1(disz)	1(disz)	NU	NU	24	nummod	_	
+24	udu	udu	udu[sheep]	N	19	_	_	
+25	niga	niga	niga[fattened][-ø]	V	24	acl	_	
+26	saga	saga	saga[good][-ø]	V	29	nummod	projectivity violation	
+27	us2	us2	us[follow][-ø]	V	24	GEN	_	
+28	1(disz)	1(disz)	NU	NU	24	nummod	_	
+29	udu	udu	udu[sheep]	N	24	appos	_	
+30	niga	niga	niga[fattened][-ø]	V	36	nummod	projectivity violation	
+31	3(disz)-kam	3(disz)-kam	NU	NU	32	nummod	heuristic: NU premodifying	
+32	us2	us2	us[follow][-ø]	V	29	GEN	_	
+33	1(disz)	1(disz)	NU	NU	24	nummod	_	
+34	udu	udu	udu[sheep]	N	41	nummod	projectivity violation	
+35	a-udu	a-udu	_	N	36	nmod	_	
+36	hur-sag	hur-sag	_	N	24	appos	_	
+37	niga	niga	niga[fattened][-ø]	V	24	appos	_	
+38	3(disz)-kam	3(disz)-kam	NU	NU	39	nummod	heuristic: NU premodifying	
+39	us2	us2	us[follow][-ø]	V	24	appos	_	
+40	1(disz)	1(disz)	NU	NU	24	nummod	_	
+41	masz2-gal	masz2-gal	maszgal[billy_goat]	N	24	appos	_	
+42	a-dara4	a-dara4	_	N	41	appos	_	
+43	niga	niga	niga[fattened][-ø]	V	24	acl	_	
+44	{d}nin-lil2	{d}nin-lil2	Ninlil[1][-ra]	DN	24	DAT	_	
+45	1(disz)	1(disz)	NU	NU	46	nummod	_	
+46	udu	udu	udu[sheep]	N	24	appos	_	
+47	niga	niga	niga[fattened][-ø]	V	46	acl	_	
+48	3(disz)-kam	3(disz)-kam	NU	NU	51	nummod	projectivity violation	
+49	us2	us2	us[follow][-ø]	V	46	GEN	_	
+50	1(disz)	1(disz)	NU	NU	51	nummod	heuristic: NU premodifying	
+51	udu	udu	udu[sheep]	N	46	appos	_	
+52	niga	niga	niga[fattened][-ø]	V	46	acl	_	
+53	4(disz)-kam	4(disz)-kam	NU	NU	54	nummod	heuristic: NU premodifying	
+54	us2	us2	us[follow][-ø]	V	46	GEN	_	
+55	n	n	_(_)[_]	NU	46	_	_	
+56	{munus}asz2-gar3	{munus}asz2-gar3	aszgar[female_kid]	PN	57	acl	_	
+57	x-ga	x-ga	_	DN	46	appos	_	
+58	esz3-esz3	esz3-esz3	eszesz[festival]	PN	46	DAT	_	
+59	e2	e2	e[house]	N	58	_	heuristic: attach to head	
+60	u4	u4	ud[day]	N	58	GEN	_	
+61	3(u)-sze3	3(u)-sze3	NU	NU	63	nummod	heuristic: NU premodifying	
+62	lugal	lugal	lugal[king]	N	63	_	heuristic: attach to head	
+63	kux(KWU147)-ra	kux(KWU147)-ra	kur[enter]-a	V	46	LOC	_	
+64	iti	iti	iti[month]	N	24	appos	_	
+65	u4	u4	ud[day]	N	64	appos	_	
+66	3(u)	3(u)	NU	NU	69	nummod	_	
+67	la2	la2	la[hang][-ø]	V	66	_	_	
+68	1(disz@t)	1(disz)	NU	NU	67	nummod	_	
+69	ba-zal	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	64	acl	_	
+70	ki	ki	ki[place]	N	71	ABL	_	
+71	ta2-hi-isz-a-tal-ta	ta2-hi-isz-a-tal-ta	Tahiszatal[1][-ak]-ta	PN	72	ABL	_	
+72	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	69	acl	_	
+73	iti	iti	iti[month]	N	74	nmod	_	
+74	ezem-mah	ezem-mah	Ezemmah[1][-'a]	MN	24	_	_	
+75	mu	mu	mu[year]	N	78	ABS	_	
+76	ma2	ma2	ma[ship]	N	77	ABS	_	
+77	dara3-abzu	dara3-abzu	_	PN	75	acl	_	
+78	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	74	acl	_
+	
+

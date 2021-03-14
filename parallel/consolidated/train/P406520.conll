@@ -1,0 +1,23 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P406520.atf
+# tr.en: gur barig barley royal from Lu-Ninubur Lukalla chief of silo received month Festival of Baba year Szarum was destroyed
+1	1(gesz2)	1(gesz2)	NU	NU	5	nummod	_	
+2	5(u)	5(u)	NU	NU	1	nummod	_	
+3	4(asz)	4(asz)	NU	NU	1	nummod	_	
+4	1(barig)	1(barig)	NU	NU	5	nummod	_	
+5	sze	sze	sze[barley]	N	0	root	_	
+6	gur	gur	gur[unit]	N	5	appos	_	
+7	lugal	lugal	lugal[king]	N	5	appos	_	
+8	ki	ki	ki[place]	N	9	ABL	_	
+9	lu2-{d}nin-szubur-ta	lu2-{d}nin-szubur-ta	Luninszubur[1][-ak]-ta	PN	5	ABL	_	
+10	lu2-kal-la	lu2-kal-la	Lukala[1][-ra]	PN	9	appos	_	
+11	ka-guru7	ka-guru7	kaguruk[supervisor][-e]	PN	9	appos	_	
+12	szu	szu	szu[hand][-e]	N	11	_	heuristic: attach to last	
+13	ba-ti	ba-ti	ba[-n]-teg[accept][-ø]	V	9	acl	_	
+14	iti	iti	iti[month]	N	16	_	_	
+15	ezem-{d}ba-ba6	ezem-{d}ba-ba6	Ezembaba[1][-'a]	MN	16	_	_	
+16	mu	mu	mu[year]	N	5	parataxis	_	
+17	sza-asz-ru-um{ki}	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	16	_	_	
+18	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	16	acl	_
+	
+

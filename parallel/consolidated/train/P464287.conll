@@ -1,0 +1,83 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: ox of year Basaga ox of year Ur-Ninmuga ox of years Ur-ee ox of year Lugal-magure son of ox of year Bazige cow of years Alla son of Ur-te cow of years Lu-ebgal son of KU male mule for yoke Nanna-kuzu son of Atu total cows of years total ox of years total oxen of one year total male mule for yoke delivery for Szara month Sowing year Szu-Suen king of Ur Great-Stele for Enlil and Ninlil erected
+# train/P464287.atf
+1	1(disz)	1(disz)	NU	NU	2	nummod	_	
+2	gu4	gu4	gud[ox]	N	0	root	_	
+3	mu	mu	mu[year]	N	2	GEN	_	
+4	1(asz)	1(asz)	NU	NU	5	nummod	heuristic: NU premodifying	
+5	ba-sa6-ga	ba-sa6-ga	Basaga[1]	PN	2	appos	_	
+6	1(disz)	1(disz)	NU	NU	7	nummod	heuristic: NU premodifying	
+7	gu4	gu4	gud[ox]	N	2	_	_	
+8	mu	mu	mu[year]	N	10	nmod	_	
+9	1(asz)	1(asz)	NU	NU	10	nummod	heuristic: NU premodifying	
+10	ur-{d}nin-mug-ga	ur-{d}nin-mug-ga	Urninmuga[1]	PN	7	GEN	_	
+11	1(disz)	1(disz)	NU	NU	12	nummod	heuristic: NU premodifying	
+12	gu4	gu4	gud[ox]	N	2	_	_	
+13	mu	mu	mu[year]	N	12	GEN	_	
+14	2(asz)	2(asz)	NU	NU	15	nummod	heuristic: NU premodifying	
+15	ur-e11-e	ur-e11-e	Ure'e[1][-ak]	PN	12	acl	_	
+16	1(disz)	1(disz)	NU	NU	17	nummod	heuristic: NU premodifying	
+17	gu4	gu4	gud[ox]	N	2	_	_	
+18	mu	mu	mu[year]	N	17	GEN	_	
+19	1(asz)	1(asz)	NU	NU	21	nummod	heuristic: NU premodifying	
+20	lugal-ma2-gur8-re	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	21	acl	_	
+21	dumu	dumu	dumu[child]	N	17	_	_	
+22	x-x-(x)	x-x-(x)	_	PN	21	GEN	_	
+23	1(disz)	1(disz)	NU	NU	24	nummod	heuristic: NU premodifying	
+24	gu4	gu4	gud[ox]	N	2	_	_	
+25	mu	mu	mu[year]	N	27	nmod	_	
+26	1(asz)	1(asz)	NU	NU	27	nummod	heuristic: NU premodifying	
+27	ba-zi-ge	ba-zi-ge	_	PN	24	GEN	_	
+28	1(disz)	1(disz)	NU	NU	29	nummod	heuristic: NU premodifying	
+29	ab2	ab2	ab[cow][-ø]	N	2	_	_	
+30	mu	mu	mu[year]	N	29	GEN	_	
+31	2(asz)	2(asz)	NU	NU	33	nummod	heuristic: NU premodifying	
+32	al-la	al-la	Alla[1]	PN	33	nmod	_	
+33	dumu	dumu	dumu[child]	N	29	_	_	
+34	ur-tesz2	ur-tesz2	_	PN	33	GEN	_	
+35	1(disz)	1(disz)	NU	NU	36	nummod	heuristic: NU premodifying	
+36	ab2	ab2	ab[cow][-ø]	N	2	_	_	
+37	mu	mu	mu[year]	N	36	GEN	_	
+38	2(asz)	2(asz)	NU	NU	39	nummod	heuristic: NU premodifying	
+39	lu2-eb-gal	lu2-eb-gal	Lu'ebgal[1]	PN	37	acl	_	
+40	dumu	dumu	dumu[child]	N	36	appos	_	
+41	KU-...	KU-...	_	PN	43	nummod	projectivity violation	
+42	1(disz)	1(disz)	NU	NU	78	nummod	_	
+43	{ansze}kunga2-nita2	{ansze}kunga2-nita2	_	PN	78	_	_	
+44	gesz	gesz	gesz[tree]	N	78	_	_	
+45	{d}nanna-ku3-zu	{d}nanna-ku3-zu	_	PN	78	nmod	_	
+46	dumu	dumu	dumu[child]	N	78	nmod	_	
+47	a-tu	a-tu	Atu[1][-ak]	PN	46	GEN	_	
+48	szunigin	szunigin	szunigin[total]	N	78	nmod	_	
+49	2(disz)	2(disz)	NU	NU	78	nummod	_	
+50	ab2	ab2	ab[cow][-ø]	N	0	_	detached for projectivity	
+51	mu	mu	mu[year]	N	50	GEN	_	
+52	2(asz)	2(asz)	NU	NU	78	nummod	heuristic: NU premodifying	
+53	szunigin	szunigin	szunigin[total]	N	78	nmod	_	
+54	1(disz)	1(disz)	NU	NU	78	nummod	_	
+55	gu4	gu4	gud[ox]	N	0	_	detached for projectivity	
+56	mu	mu	mu[year]	N	55	GEN	_	
+57	2(asz)	2(asz)	NU	NU	78	nummod	heuristic: NU premodifying	
+58	szunigin	szunigin	szunigin[total]	N	78	nmod	_	
+59	4(disz)	4(disz)	NU	NU	60	nummod	heuristic: NU premodifying	
+60	gu4	gu4	gud[ox]	N	58	_	_	
+61	mu	mu	mu[year]	N	63	nmod	_	
+62	1(asz)	1(asz)	NU	NU	63	nummod	_	
+63	szunigin	szunigin	szunigin[total]	N	60	GEN	_	
+64	1(disz)	1(disz)	NU	NU	78	nummod	_	
+65	{ansze}kunga2-nita2	{ansze}kunga2-nita2	_	PN	0	_	detached for projectivity	
+66	gesz	gesz	gesz[tree]	N	65	DAT	_	
+67	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	78	nmod	_	
+68	{d}szara2	{d}szara2	Szara[1][-ak]	DN	67	DAT	_	
+69	iti	iti	iti[month]	N	70	nmod	_	
+70	szu-numun	szu-numun	Szunumun[1][-'a]	MN	78	_	_	
+71	mu	mu	mu[year]	N	78	date	_	
+72	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	78	ABS	_	
+73	lugal	lugal	lugal[king]	N	72	appos	_	
+74	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	73	GEN	_	
+75	na-ru2-a-mah	na-ru2-a-mah	naruamah[magnificent_stele][-ø]	PN	72	appos	_	
+76	{d}en-lil2	{d}en-lil2	Enlil[1]	DN	75	DAT	_	
+77	{d}nin-lil2-ra	{d}nin-lil2-ra	Ninlil[1]-ra	DN	76	appos	_	
+78	mu-ne-du3	mu-nnee[-a][-n]-du[build][-ø]	V	VEN.3-PL.DAT.3-SG-H-A.V.3-SG-P	2	acl	_
+	
+

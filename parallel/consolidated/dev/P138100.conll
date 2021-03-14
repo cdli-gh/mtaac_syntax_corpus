@@ -1,0 +1,27 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# dev/P138100.atf
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
+3	x	x	_[_]	N	1	dep	heuristic: attach to head	
+4	gesz	gesz	gesz[tree]	N	1	_	heuristic: attach to head	
+5	x	x	_[_]	N	1	dep	heuristic: attach to head	
+6	x	x	_[_]	N	1	dep	heuristic: attach to head	
+7	a	a	a[water][-ø]	N	1	_	heuristic: attach to head	
+8	masz	masz	masz[interest]	N	1	_	heuristic: attach to head	
+9	...	...	_[_]	PN	1	dep	heuristic: attach to head	
+10	mu	mu	mu[year]	N	20	nmod	_	
+11	x	x	_[_]	N	20	dep	heuristic: attach to head	
+12	x	x	_[_]	N	20	dep	heuristic: attach to head	
+13	x	x	_[_]	N	20	dep	heuristic: attach to head	
+14	mu	mu	mu[year]	N	20	_	heuristic: attach to head	
+15	4(disz)	4(disz)	NU	NU	20	nummod	heuristic: NU premodifying	
+16	iti	iti	iti[month]	N	20	nmod	_	
+17	8(disz)	8(disz)	NU	NU	20	nummod	heuristic: NU premodifying	
+18	...	...	_[_]	PN	20	dep	heuristic: attach to head	
+19	sza3-ba	sza3-ba	szag[heart]-bi-'a	N	20	_	heuristic: attach to head	
+20	iti	iti	iti[month]	N	1	_	_	
+21	diri	diri	diri[intercalary_month]	N	0	_	_	
+22	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	0	nummod	_
+	
+

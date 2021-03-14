@@ -1,0 +1,11 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: king of Sumer and Akkad
+# train/P432325.atf new_text=P432325
+# train/P432325.atf						#new_text=P432325
+1	'.	SEGM	XPOSTAG	XPOSTAG	2	_	_	
+2	lugal	lugal[king]	N	N	0	root	_	
+3	ki-en-gi	ki'engi[1]	GN	GN	2	GEN	_	
+4	ki-uri-ke4	_[and.Akkad]	GN	GN.GEN.ERG	3	appos	_	
+5	...	_[_]	PN	N	3	dep	_
+	
+

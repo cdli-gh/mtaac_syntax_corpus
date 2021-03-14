@@ -1,0 +1,24 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# test/P127341.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	mu-kux(DU)	mu-kux(DU)	mukur[delivery][-ø]	N	1	_	_	
+3	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+4	zi-ga	zi-ga	zig[expend]-a	V	1	_	heuristic: attach to head	
+5	{kusz}du10-gan	{kusz}du10-gan	duggan[leather_bag]	N	1	_	heuristic: attach to head	
+6	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
+7	na-ra-am-i3-li2	na-ra-am-i3-li2	Naramili[1]	PN	1	_	heuristic: attach to head	
+8	ki	ki	ki[place]	N	1	_	heuristic: attach to head	
+9	na-sa6	na-sa6	Nasa[1][-e]	PN	1	_	heuristic: attach to head	
+10	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+11	a2-ki-ti-ta	a2-ki-ti-ta	_	MN	1	_	heuristic: attach to head	
+12	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
+13	ezem-{d}nin-a-zu-sze3	ezem-{d}nin-a-zu-sze3	_	MN	18	nmod	_	
+14	iti	iti	iti[month]	N	18	nmod	_	
+15	1(u)	1(u)	NU	NU	0	nummod	_	
+16	2(disz)-kam	2(disz)-kam	NU	NU	15	nummod	_	
+17	mu	mu	mu[year]	N	18	_	heuristic: attach to head	
+18	ur-bi2-lum{ki}	ur-bi2-lum{ki}	Urbilum[1][-ø]	GN	1	_	_	
+19	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+

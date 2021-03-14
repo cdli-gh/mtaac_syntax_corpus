@@ -1,0 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+# train/P132662.atf
+1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
+2	gurum2	gurum2	gurum[inspection]	N	1	_	heuristic: attach to head	
+3	dab-ba	dab-ba	dab[seize]-a	V	1	_	heuristic: attach to head	
+4	igi-kar2-ga	igi-kar2-ga	_	PN	1	_	_	
+5	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+6	{d}nin-gir2-su	{d}nin-gir2-su	Ningirsu[1][-ak][-ak]	DN	1	_	heuristic: attach to head	
+7	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+8	szabra	szabra	szabra[chief_administrator][-ak]	N	1	_	heuristic: attach to head	
+9	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+10	{d}gesz-bar-e3	{d}gesz-bar-e3	_	DN	1	_	heuristic: attach to head	
+11	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+12	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	1	_	heuristic: attach to head	
+13	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+14	nam-ha-ni	nam-ha-ni	Namhani[1]	N	1	_	heuristic: attach to head	
+15	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+16	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	1	_	heuristic: attach to head	
+17	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+18	{d}nin-gesz-zi-da	{d}nin-gesz-zi-da	Ningeszzida[1][-ak]	DN	1	_	heuristic: attach to head	
+19	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
+20	e2	e2	e[house]	N	1	_	heuristic: attach to head	
+21	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	24	nmod	_	
+22	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	24	nmod	_	
+23	mu	mu	mu[year]	N	24	_	heuristic: attach to head	
+24	ma2-gur8-mah	ma2-gur8-mah	magurmah[great_barge][-ø]	N	1	_	_	
+25	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	0	_	_
+	
+
