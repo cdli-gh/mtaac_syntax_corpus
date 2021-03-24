@@ -110,7 +110,7 @@ for file in $FILES; do
 					# fast, purely positional alignment
 					if [ `cat $tmp_sux | wc -l` = `cat $tmp_morph | wc -l` ]; then
 						(cat $sux | egrep -v '^[0-9]';
-						 paste $tmp_sux $tmp_morph) > $MRG/$file
+						 paste $tmp_sux $tmp_morph | perl -pe 's/\t\t+/\t/g;' ) > $MRG/$file
 						rm $tmp_sux $tmp_morph
 					else
 						echo alignment error: length mismatch for $sux "("`cat $tmp_sux | wc -l`")" and $morph "("`cat $tmp_morph | wc -l`")" 1>&2;
@@ -147,7 +147,7 @@ for file in $FILES; do
 	#############
 		if [ -s $MRG/$file ]; then
 			cat $MRG/$file | \
-			$LOAD ID WORD TRANSLATION EN_POS HEAD EN_EDGE	_ SEGM POS MORPH _ \
+			$LOAD ID WORD TRANSLATION EN_POS HEAD EN_EDGE	_ 	SEGM POS MORPH _ \
 				-u \
 					drop-unused.sparql \
 					consolidate-segm.sparql  \

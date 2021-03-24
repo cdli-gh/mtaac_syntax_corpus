@@ -102,6 +102,7 @@ Other dependencies:
 ## Todo
 - check whether adjustments to [MTAAC/CDLI dependency guidelines](https://cdli-gh.github.io/annodoc/#syntactic-dependencies) are necessary/possible to facilitate the mappability of projected parses and MTAAC dependencies
 - instead of merging just POS+MORPH and projected, perform automated syntax pre-annotation and merge then (cf. royal subcorpus). However, note that pre-annotation quality on native MTAAC annotations is worse than on royal corpus
+- Re-do alignment with morph (not sux_projected) as base segmentation (4 segmentation errors from n:1 alignment)
 
 ## Contributors
 - CC - Christian Chiarcos, Goethe-Universität Frankfurt, Germany
