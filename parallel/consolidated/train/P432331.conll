@@ -1,8 +1,8 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P432331.atf
 # tr.en: To Inanna hisher mistress for life of
-1	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	2	LOC	_	
-2	nin-a-ni-ir	nin-a-ni-ir	_	PN	0	root	_	
+1	{d}inanna	Inanna[1][-ak]	DN	DN	2	LOC	_	
+2	nin-a-ni-ir	_[hisher.mistress]	PN	N.3-SG-H-POSS.DAT-H	0	root	_	
 3	nam-ti	namtil[life]	PN	N	2	appos	_
 	
 

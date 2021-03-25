@@ -1,22 +1,22 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: For Lamma his mistress for life of Szulgi the mighty man the king of Ur Baba-ninam the cup-bearer of Ur-Ningirsu the beloved en-priest of Nane her wig of womanhood he fashioned for her
 # train/P432238.atf
-1	{d}lamma	{d}lamma	_	N	2	DAT	_	
-2	nin-a-ni	nin-a-ni	nin[lady]-ani[-ra]	PN	0	root	_	
-3	nam-ti	nam-ti	namtil[life]	PN	2	_	_	
-4	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	3	GEN	_	
-5	nita	nita	nita[male]	N	6	nmod	_	
-6	kal-ga	kal-ga	kalag[strong]-a	V	3	_	_	
-7	lugal	lugal	lugal[king]	N	6	appos	_	
-8	uri5{ki}-ma-ka-sze3	uri5{ki}-ma-ka-sze3	Urim[1]-ak-ak-sze	SN	7	appos	_	
-9	{d}ba-ba6-nin-am3	{d}ba-ba6-nin-am3	_	DN	6	appos	_	
-10	zabar-dab5	zabar-dab5	zabardab[official][-e]	N	9	ABS	_	
-11	ur-{d}nin-gir2-su	ur-{d}nin-gir2-su	_	PN	10	GEN	_	
-12	en	en	en[priest]	N	11	_	_	
-13	ki-ag2	ki-ag2	ki'ag[love][-ø]	V	14	nmod	_	
-14	{d}nansze-ka-ke4	{d}nansze-ka-ke4	_	DN	11	appos	_	
-15	hi-li	hi-li	_	N	16	nmod	_	
-16	nam-munus-ka-ni	nam-munus-ka-ni	_	N	10	_	_	
+1	{d}lamma	_[For.Lamma]	N	N	2	DAT	_	
+2	nin-a-ni	nin[lady]-ani[-ra]	PN	N.3-SG-H-POSS.DAT-H	0	root	_	
+3	nam-ti	namtil[life]	PN	N	2	appos	_	
+4	{d}szul-gi	Szulgir[1]	RN	RN	3	GEN	_	
+5	nita	nita[male]	N	N	6	nmod	_	
+6	kal-ga	kalag[strong]-a	V	NF.V.SUB	3	acl	_	
+7	lugal	lugal[king]	N	N	6	appos	_	
+8	uri5{ki}-ma-ka-sze3	Urim[1]-ak-ak-sze	SN	SN.GEN.GEN.TERM	7	appos	_	
+9	{d}ba-ba6-nin-am3	_[Baba-ninam]	DN	PN	6	appos	_	
+10	zabar-dab5	zabardab[official][-e]	N	N	9	ABS	_	
+11	ur-{d}nin-gir2-su	_[of.Ur-Ningirsu]	PN	PN	10	GEN	_	
+12	en	en[priest]	N	N	11	appos	_	
+13	ki-ag2	ki'ag[love][-ø]	V	NF.V	14	acl	_	
+14	{d}nansze-ka-ke4	_[en-priest.Nane]	DN	DN.GEN.GEN.ERG	11	appos	_	
+15	hi-li	_[her]	N	N	16	nmod	_	
+16	nam-munus-ka-ni	_[wig.womanhood]	N	N.GEN.3-SG-H-POSS.ABS	10	appos	_	
 17	mu-na-dim2	mu-nn-a-dim[create][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	16	acl	_
 	
 

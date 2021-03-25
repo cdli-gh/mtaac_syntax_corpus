@@ -1,9 +1,9 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P430139.atf
 # tr.en: Ana-ilibi son of Utu-ge
-1	an-na-hi-li-bi	an-na-hi-li-bi	_	PN	0	root	_	
-2	kuruszda	kuruszda	kuruszda[animal_fattener][-ø]	N	1	appos	_	
-3	dumu	dumu	dumu[child]	N	0	root	_	
+1	an-na-hi-li-bi	_[Ana-ilibi]	PN	PN.GEN.ABS	0	root	_	
+2	kuruszda	kuruszda[animal_fattener][-ø]	N	N.GEN.ABS	1	appos	_	
+3	dumu	dumu[child]	N	N	0	root	_	
 4	{d}utu-ge6	_[Utu-ge]	PN	PN	3	GEN	_
 	
 

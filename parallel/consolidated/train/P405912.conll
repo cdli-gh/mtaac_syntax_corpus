@@ -1,23 +1,23 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P405912.atf
 # tr.en: To Bazi say iku field to rear Tiraa to breast field of Uludi of Ayakala it is his subsistence field may he confirm it on a tablet Ur- the scribe son of Ur-
-1	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	2	LOC	_	
-2	u3-na-a-du11	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	0	root	_	
-3	4(iku)	4(iku)	NU	NU	5	nummod	_	
-4	GAN2	GAN2	gana[field]	N	3	_	_	
-5	mur7	mur7	_	N	0	_	detached for projectivity	
-6	ti-ra-asz2	ti-ra-asz2	_	PN	5	_	_	
-7	gaba	gaba	gaba[frontier][-ak]	N	8	GEN	_	
-8	a-sza3	a-sza3	aszag[field]	N	0	_	detached for projectivity	
-9	ulu3-di	ulu3-di	_	N	7	appos	projectivity violation	
-10	gesz-gu2	gesz-gu2	_	N	3	LOC	projectivity violation	
-11	a-kal-la	a-kal-la	Akala[1]	PN	12	GEN	_	
-12	szuku-ra-ni-im	szuku-ra-ni-im	_	N	8	GEN	_	
-13	im-ma	im-ma	_	V	14	_	_	
-14	ha-bi2-ib2-gi-ne2	ha-bi2-ib2-gi-ne2	_	V	8	acl	_	
-15	ur-...	ur-...	_[1][-ak]	PN	14	_	_	
-16	dub-sar	dub-sar	dubsar[scribe]	N	14	appos	_	
-17	dumu	dumu	dumu[child]	N	14	appos	_	
+1	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	2	LOC	_	
+2	u3-na-a-du11	u-nn-a-e-dug[speak][-ø]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	0	root	_	
+3	4(iku)	4(iku)[unit]	NU	N	5	nummod	_	
+4	GAN2	gana[field]	N	N	3	appos	_	
+5	mur7	_[iku.field.to.rear]	N	N	2	appos	projectivity violation	
+6	ti-ra-asz2	_	PN	PN.GEN.ABS	5	appos	_	
+7	gaba	gaba[frontier][-ak]	N	N	8	GEN	_	
+8	a-sza3	aszag[field]	N	N	3	appos	projectivity violation	
+9	ulu3-di	_[Uludi]	N	N	7	appos	projectivity violation	
+10	gesz-gu2	_[to.breast]	N	N	3	LOC	projectivity violation	
+11	a-kal-la	Akala[1]	PN	PN	12	GEN	_	
+12	szuku-ra-ni-im	_[Ayakala.it.is.his.subsistence.field]	N	N.2-SG-POSS.ABS	8	GEN	_	
+13	im-ma	_[may]	V	NF.V.PT	14	_	_	
+14	ha-bi2-ib2-gi-ne2	_[he.confirm.it.on.a.tablet]	V	V	8	acl	_	
+15	ur-...	_[1][-ak]	PN	PN.GEN.ABS	14	appos	_	
+16	dub-sar	dubsar[scribe]	N	N	14	appos	_	
+17	dumu	dumu[child]	N	N	14	appos	_	
 18	ur-x-...	_[1][-ak]	PN	PN.GEN	17	GEN	_
 	
 

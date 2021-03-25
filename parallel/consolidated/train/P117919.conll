@@ -1,16 +1,16 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P117919.atf
 # tr.en: Basket-of-tablets seized sealed documents xxx are here Year She was installed as en-priestess of Eridu
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
-3	dabx(U8)-ba	dabx(U8)-ba	dab[seize]-a	PN	7	ccomp 	_	
-4	ki	ki	ki[place]	N	3	_	heuristic: attach to last	
-5	a-a-kal-la	a-a-kal-la	Ayakala[1]	PN	4	_	heuristic: attach to last	
-6	aszgab	aszgab	aszgab[leatherworker]	N	3	ABS	_	
-7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	1	_	_	
-8	mu	mu	mu[year]	N	7	_	_	
-9	en	en	en[priest]	N	11	_	heuristic: before verb	
-10	eridu{ki}	eridu{ki}	Eridug[1][-ak][-ø]	SN	11	ABS	_	
-11	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	8	appos	_
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+3	dabx(U8)-ba	dab[seize]-a	PN	NF.V.PT	7	ccomp 	_	
+4	ki	ki[place]	N	N	3	_	heuristic: attach to last	
+5	a-a-kal-la	Ayakala[1]	PN	PN	4	_	heuristic: attach to last	
+6	aszgab	aszgab[leatherworker]	N	N	3	ABS	_	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_	
+8	mu	mu[year]	N	N	7	appos	_	
+9	en	en[priest]	N	N	8	_	heuristic: after nominal head	
+10	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	11	ABS	_	
+11	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	8	acl	_
 	
 

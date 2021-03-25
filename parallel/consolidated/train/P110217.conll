@@ -1,30 +1,30 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
 # train/P110217.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	gurum2	gurum2	gurum[inspection]	N	1	_	heuristic: attach to head	
-3	ak	ak	ak[excavate][-a][-ak]	V	1	_	_	
-4	gu4	gu4	gud[ox]	N	1	_	heuristic: attach to head	
-5	apin	apin	apin[plow]	N	1	_	heuristic: attach to head	
-6	dab5-ba	dab5-ba	dab[seize]-a	V	1	_	heuristic: attach to head	
-7	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	heuristic: attach to head	
-8	a2	a2	a[time]	N	1	_	heuristic: attach to head	
-9	e2	e2	e[house]	N	1	_	heuristic: attach to head	
-10	{d}dumu-zi	{d}dumu-zi	Dumuzi[1][-'a]	MN	1	_	heuristic: attach to head	
-11	e2	e2	e[house]	N	1	_	heuristic: attach to head	
-12	{d}nin-dar-a	{d}nin-dar-a	_	DN	1	_	heuristic: attach to head	
-13	e2	e2	e[house]	N	1	_	heuristic: attach to head	
-14	{d}nin-mar{ki}	{d}nin-mar{ki}	_	DN	1	_	heuristic: attach to head	
-15	e2	e2	e[house]	N	1	_	heuristic: attach to head	
-16	{d}szul-gi	{d}szul-gi	Szulgir[1]	RN	1	_	heuristic: attach to head	
-17	e2	e2	e[house]	N	1	_	heuristic: attach to head	
-18	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	1	_	heuristic: attach to head	
-19	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
-20	gal2-me	gal2-me	_	V	1	_	heuristic: attach to head	
-21	dub2-bi	dub2-bi	_	V	24	nmod	_	
-22	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	24	nmod	_	
-23	mu	mu	mu[year]	N	24	_	heuristic: attach to head	
-24	sza-asz-ru-um{ki}	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	1	_	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	gurum2	gurum[inspection]	N	N	1	_	heuristic: after nominal head	
+3	ak	ak[excavate][-a][-ak]	V	NF.V.PT	1	_	_	
+4	gu4	gud[ox]	N	N	1	_	heuristic: after nominal head	
+5	apin	apin[plow]	N	N	1	_	heuristic: after nominal head	
+6	dab5-ba	dab[seize]-a	V	N	1	_	heuristic: after nominal head	
+7	nig2-ka9-ak	nigSZID[account]	N	N	1	_	heuristic: after nominal head	
+8	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+9	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+10	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	1	_	heuristic: after nominal head	
+11	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+12	{d}nin-dar-a	_[xxx]	DN	DN	1	_	heuristic: after nominal head	
+13	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+14	{d}nin-mar{ki}	_[xxx]	DN	DN	1	_	heuristic: after nominal head	
+15	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+16	{d}szul-gi	Szulgir[1]	RN	RN	1	_	heuristic: after nominal head	
+17	e2	e[house]	N	N	1	_	heuristic: after nominal head	
+18	{d}amar-{d}suen	Amarsuen[1]	RN	RN	1	_	heuristic: after nominal head	
+19	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+20	gal2-me	_	V	NF.V.PT.DAT-H	1	_	heuristic: after nominal head	
+21	dub2-bi	_[xxx]	V	V	24	acl	projectivity violation	
+22	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	24	acl	projectivity violation	
+23	mu	mu[year]	N	N	1	appos	_	
+24	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	1	appos	_	
 25	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
 	
 

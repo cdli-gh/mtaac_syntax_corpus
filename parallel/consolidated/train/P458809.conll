@@ -1,22 +1,22 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P458809.atf
 # tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Urmeme of Enlil son of Nigdugani of Enlil is your servant
-1	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	0	root	_	
-2	nita	nita	nita[male]	N	1	_	_	
-3	kal-ga	kal-ga	kalag[strong]-a	V	1	appos	_	
-4	lugal	lugal	lugal[king]	N	1	appos	_	
-5	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	4	GEN	_	
-6	lugal	lugal	lugal[king]	N	1	appos	_	
-7	an	an	An[1][-ra]	N	9	nummod	projectivity violation	
-8	ub-da	ub-da	_	N	6	GEN	_	
-9	limmu2-ba	limmu2-ba	limmu[four]-bi-ak[-ø]	V	6	COM	_	
-10	ur-me-me	ur-me-me	Urmeme[1][-ra]	PN	17	ABS	_	
-11	szandana	szandana	szandanak[gardenner][-ra]	N	12	GEN	_	
-12	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	10	GEN	_	
-13	dumu	dumu	dumu[child]	N	10	appos	_	
-14	nig2-du11-ga-ni	nig2-du11-ga-ni	_	N	13	GEN	_	
-15	szandana	szandana	szandanak[gardenner][-ra]	N	10	_	_	
-16	{d}en-lil2-la2-ka	{d}en-lil2-la2-ka	Enlil[1]-ak-ak	DN	10	GEN	_	
+1	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	root	_	
+2	nita	nita[male]	N	N	1	appos	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	acl	_	
+4	lugal	lugal[king]	N	N	1	appos	_	
+5	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	4	GEN	_	
+6	lugal	lugal[king]	N	N	1	appos	_	
+7	an	An[1][-ra]	N	N	9	nummod	projectivity violation	
+8	ub-da	_[heaven]	N	N	6	GEN	_	
+9	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	6	nummod	_	
+10	ur-me-me	Urmeme[1][-ra]	PN	PN	17	ABS	_	
+11	szandana	szandanak[gardenner][-ra]	N	N	12	GEN	_	
+12	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	10	GEN	_	
+13	dumu	dumu[child]	N	N	10	appos	_	
+14	nig2-du11-ga-ni	_[Nigdugani]	N	PN	13	GEN	_	
+15	szandana	szandanak[gardenner][-ra]	N	N	10	appos	_	
+16	{d}en-lil2-la2-ka	Enlil[1]-ak-ak	DN	DN.GEN.ABS	10	GEN	_	
 17	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	1	appos	_
 	
 

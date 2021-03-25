@@ -1,9 +1,9 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P432321.atf
 # tr.en: Ninurta the great farmer of Enlil
-1	{d}nin-urta	{d}nin-urta	Ninurta[1][-ra]	DN	0	root	_	
-2	ensi2	ensi2	ensik[ruler]	N	3	nmod	_	
-3	gal	gal	gal[big][-ø]	V	1	appos	_	
+1	{d}nin-urta	Ninurta[1][-ra]	DN	DN	0	root	_	
+2	ensi2	ensik[ruler]	N	N	3	nmod	_	
+3	gal	gal[big][-ø]	V	NF.V.ABS	1	acl	_	
 4	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	3	GEN	_
 	
 

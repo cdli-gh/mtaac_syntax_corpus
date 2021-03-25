@@ -1,9 +1,9 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: To Nanna his master for life of
 # train/P432352.atf
-1	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	0	root	_	
-2	lugal-a-ni	lugal-a-ni	_	PN	1	ABS	_	
-3	nam-ti	nam-ti	namtil[life]	PN	1	DAT	_	
+1	{d}nanna	Nanna[1][-ak]	DN	DN	0	root	_	
+2	lugal-a-ni	_[his.master]	PN	N.3-SG-H-POSS.DAT-H	1	ABS	_	
+3	nam-ti	namtil[life]	PN	N	1	DAT	_	
 4	...	_[_]	PN	N	3	dep	_
 	
 

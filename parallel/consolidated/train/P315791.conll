@@ -1,17 +1,17 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
 # train/P315791.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
-3	esir2	esir2	esir[bitumen]	N	1	_	heuristic: attach to head	
-4	gesz-gi	gesz-gi	_	N	1	_	heuristic: attach to head	
-5	...	...	_[_]	PN	1	dep	heuristic: attach to head	
-6	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
-7	a2	a2	a[time]	N	1	_	heuristic: attach to head	
-8	mar-sa	mar-sa	marsa[shipyard]	PN	11	nmod	_	
-9	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	11	nmod	_	
-10	mu	mu	mu[year]	N	11	_	heuristic: attach to head	
-11	gu-za	gu-za	guza[chair][-ø]	N	1	_	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	esir2	esir[bitumen]	N	N	1	_	heuristic: after nominal head	
+4	gesz-gi	_[xxx]	N	N	1	_	heuristic: after nominal head	
+5	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+6	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+7	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+8	mar-sa	marsa[shipyard]	PN	N	11	nmod	projectivity violation	
+9	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	11	acl	projectivity violation	
+10	mu	mu[year]	N	N	1	appos	_	
+11	gu-za	guza[chair][-ø]	N	N	1	appos	_	
 12	ba-dim2	ba-dim[create][-ø]	V	MID.V.3-SG-S	0	_	_
 	
 

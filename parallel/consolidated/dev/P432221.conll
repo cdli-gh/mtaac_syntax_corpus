@@ -1,12 +1,12 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: To Nane his mistress Szulgi the mighty man king of Ur
 # dev/P432221.atf
-1	{d}nansze	{d}nansze	Nansze[1]	DN	0	root	_	
-2	nin-a-ni	nin-a-ni	nin[lady]-ani[-ra]	PN	1	ABS	_	
-3	szul-gi	szul-gi	Szulgir[1]	RN	2	appos	_	
-4	nita	nita	nita[male]	N	5	nmod	_	
-5	kal-ga	kal-ga	kalag[strong]-a	V	1	_	_	
-6	lugal	lugal	lugal[king]	N	5	appos	_	
+1	{d}nansze	Nansze[1]	DN	DN	0	root	_	
+2	nin-a-ni	nin[lady]-ani[-ra]	PN	N.3-SG-H-POSS.DAT-H	1	ABS	_	
+3	szul-gi	Szulgir[1]	RN	RN	2	appos	_	
+4	nita	nita[male]	N	N	5	nmod	_	
+5	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	_	_	
+6	lugal	lugal[king]	N	N	5	appos	_	
 7	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	6	GEN	_
 	
 

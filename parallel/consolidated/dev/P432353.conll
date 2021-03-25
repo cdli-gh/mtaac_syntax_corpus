@@ -1,9 +1,9 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: To Ninkununa his mistress for life of
 # dev/P432353.atf
-1	{d}nin-ku3-nun-na	{d}nin-ku3-nun-na	_	DN	0	root	_	
-2	nin-a-ni-ir	nin-a-ni-ir	_	PN	1	ABS	_	
-3	nam-ti	nam-ti	namtil[life]	PN	1	DAT	_	
+1	{d}nin-ku3-nun-na	_[To.Ninkununa]	DN	DN	0	root	_	
+2	nin-a-ni-ir	_[his.mistress]	PN	N.3-SG-H-POSS.DAT-H	1	ABS	_	
+3	nam-ti	namtil[life]	PN	N	1	DAT	_	
 4	...	_[_]	PN	N	3	dep	_
 	
 

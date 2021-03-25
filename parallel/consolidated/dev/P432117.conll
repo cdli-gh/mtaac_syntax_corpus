@@ -1,12 +1,12 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # dev/P432117.atf
 # tr.en: For Ninagepada his mistress Ur-Namma king of Ur her temple he built for her
-1	{d}nin-sza3-ge-pa3-da	{d}nin-sza3-ge-pa3-da	Ninszagepada[1][-ak][-ra]	DN	2	DAT	_	
-2	nin-a-ni	nin-a-ni	nin[lady]-ani[-ra]	PN	0	root	_	
-3	ur-{d}namma	ur-{d}namma	Urnamma[1]	RN	2	_	_	
-4	lugal	lugal	lugal[king]	N	3	_	_	
-5	uri5{ki}-ma-ke4	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	4	GEN	_	
-6	e2-a-ni	e2-a-ni	_	TN	4	_	_	
+1	{d}nin-sza3-ge-pa3-da	Ninszagepada[1][-ak][-ra]	DN	DN	2	DAT	_	
+2	nin-a-ni	nin[lady]-ani[-ra]	PN	N.3-SG-H-POSS.DAT-H	0	root	_	
+3	ur-{d}namma	Urnamma[1]	RN	RN	2	appos	_	
+4	lugal	lugal[king]	N	N	3	appos	_	
+5	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	4	GEN	_	
+6	e2-a-ni	_[her.temple]	TN	N.3-SG-H-POSS.ABS	4	appos	_	
 7	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	6	acl	_
 	
 

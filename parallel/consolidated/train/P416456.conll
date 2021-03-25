@@ -1,27 +1,27 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P416456.atf
 # tr.en: female gazelle fawn for Tulid-Szami Bel-il responsible official from delivery the th day from Intaea booked out via Nanna-maba scribe month Piglet feast year Szu-Sin is king
-1	1(disz)	1(disz)	NU	NU	0	nummod	_	
-2	amar	amar	amar[calf][-ak]	N	0	_	_	
-3	masz-da3-munus	masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	0	root	_	
-4	tu-li2-id-{d}utu-szi	tu-li2-id-{d}utu-szi	_	PN	3	DAT	_	
-5	be-li2-i3-li2	be-li2-i3-li2	_	PN	4	appos	_	
-6	maszkim	maszkim	maszkim[administrator]	N	4	appos	_	
-7	sza3	sza3	szag[heart]	N	3	ABL	_	
-8	mu-kux(DU)-ra-ta	mu-kux(DU)-ra-ta	_	N	7	ABL	_	
-9	u4	u4	ud[day]	N	7	appos	_	
-10	6(disz)-kam	6(disz)-kam	NU	NU	7	nummod	_	
-11	ki	ki	ki[place]	N	12	ABL	_	
-12	in-ta-e3-a-ta	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	7	ABL	_	
-13	ba-zi	ba-zi	ba-zig[expend][-ø]	PN	17	acl	_	
-14	giri3	giri3	giri[foot]	N	15	via	_	
-15	{d}nanna-ma-ba	{d}nanna-ma-ba	Nannamaba[1]	PN	13	via	_	
-16	dub-sar	dub-sar	dubsar[scribe]	N	13	_	_	
-17	iti	iti	iti[month]	N	12	date	_	
-18	ses-da-gu7	ses-da-gu7	Sesdagu[1][-'a]	MN	7	_	_	
-19	mu	mu	mu[year]	N	7	_	_	
-20	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	21	ABS	_	
-21	lugal	lugal	lugal[king]	N	7	_	_	
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	amar	amar[calf][-ak]	N	N	0	_	_	
+3	masz-da3-munus	maszdamunus[female_gazelle][-ø]	N	N.ABS	0	root	_	
+4	tu-li2-id-{d}utu-szi	_[for.Tulid-Szami]	PN	PN	3	DAT	_	
+5	be-li2-i3-li2	_[Bel-il]	PN	PN	4	appos	_	
+6	maszkim	maszkim[administrator]	N	N.ABS	4	appos	_	
+7	sza3	szag[heart]	N	N	3	ABL	_	
+8	mu-kux(DU)-ra-ta	_[from.delivery]	N	N	7	ABL	_	
+9	u4	ud[day]	N	N	7	appos	_	
+10	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	7	nummod	_	
+11	ki	ki[place]	N	N	12	ABL	_	
+12	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	7	ABL	_	
+13	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	17	acl	_	
+14	giri3	giri[foot]	N	N	15	via	_	
+15	{d}nanna-ma-ba	Nannamaba[1]	PN	PN	13	via	_	
+16	dub-sar	dubsar[scribe]	N	N	13	appos	_	
+17	iti	iti[month]	N	N	12	date	_	
+18	ses-da-gu7	Sesdagu[1][-'a]	MN	MN.L1	7	appos	_	
+19	mu	mu[year]	N	N	7	appos	_	
+20	{d}szu-{d}suen	Szusuen[1]	RN	RN	21	ABS	_	
+21	lugal	lugal[king]	N	N	7	appos	_	
 22	1(disz)	1(disz)[one]	NU	NU	0	nummod	_
 	
 

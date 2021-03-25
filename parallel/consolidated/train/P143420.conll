@@ -1,23 +1,23 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx
 # train/P143420.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	siki	siki	siki[wool][-'a]	N	1	_	heuristic: attach to last	
-3	i3	i3	i[oil]	N	2	_	heuristic: attach to last	
-4	ga	ga	ga[milk]	N	3	_	heuristic: attach to last	
-5	e2-gal-la	e2-gal-la	egal[palace]-'a	N	4	_	heuristic: attach to last	
-6	ku4-ra	ku4-ra	kur[enter]-a	V	5	_	heuristic: attach to last	
-7	kiszib3	kiszib3	kiszib[seal]	N	18	_	heuristic: before verb	
-8	{d}utu-GIR2@g-gal	{d}utu-GIR2@g-gal	UtuGIRgal[1][-ak]	PN	18	_	_	
-9	mu	mu	mu[year]	N	18	_	heuristic: before verbal head	
-10	us2-sa	us2-sa	us[follow]-a	V	18	_	heuristic: before verbal head	
-11	en	en	en[priest]	N	18	_	heuristic: before verbal head	
-12	eridu{ki}	eridu{ki}	Eridug[1][-ak][-ø]	SN	18	_	heuristic: before verbal head	
-13	ba-hun-ta	ba-hun-ta	_	V	18	nmod	_	
-14	mu	mu	mu[year]	N	18	_	heuristic: before verbal head	
-15	e2	e2	e[house]	N	18	_	heuristic: before verbal head	
-16	puzur4-isz-{d}da-gan	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	18	_	heuristic: before verbal head	
-17	ba-du3-sze3	ba-du3-sze3	_	V	18	nmod	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	siki	siki[wool][-'a]	N	N	1	_	heuristic: after nominal head	
+3	i3	i[oil]	N	N	1	_	heuristic: after nominal head	
+4	ga	ga[milk]	N	N	1	_	heuristic: after nominal head	
+5	e2-gal-la	egal[palace]-'a	N	N.L1	1	_	heuristic: after nominal head	
+6	ku4-ra	kur[enter]-a	V	NF.V.PT	1	_	_	
+7	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+8	{d}utu-GIR2@g-gal	UtuGIRgal[1][-ak]	PN	PN	7	_	heuristic: attach to last	
+9	mu	mu[year]	N	N	8	_	heuristic: attach to last	
+10	us2-sa	us[follow]-a	V	NF.V.PT	9	_	heuristic: attach to last	
+11	en	en[priest]	N	N	10	_	heuristic: attach to last	
+12	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	11	_	heuristic: attach to last	
+13	ba-hun-ta	_[xxx]	V	MID.V.3-SG-S.ABL	18	nmod	_	
+14	mu	mu[year]	N	N	13	_	heuristic: attach to last	
+15	e2	e[house]	N	N	14	_	heuristic: attach to last	
+16	puzur4-isz-{d}da-gan	Puzuriszdagan[1][-ø]	SN	SN.ABS	15	_	heuristic: attach to last	
+17	ba-du3-sze3	_[xxx]	V	V	18	nmod	_	
 18	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
 	
 

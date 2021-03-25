@@ -1,20 +1,20 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
 # dev/P118757.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
-3	ARAD2	ARAD2	arad[slave]	N	1	_	heuristic: attach to head	
-4	ka-guru7	ka-guru7	kaguruk[supervisor][-e]	PN	1	_	heuristic: attach to head	
-5	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
-6	4(disz)-kam	4(disz)-kam	NU	NU	14	nummod	heuristic: NU premodifying	
-7	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	14	nmod	_	
-8	mu	mu	mu[year]	N	14	_	heuristic: attach to head	
-9	en	en	en[priest]	N	14	_	heuristic: attach to head	
-10	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	14	_	heuristic: attach to head	
-11	masz2-e	masz2-e	masz[goat]-e	N	14	_	heuristic: attach to head	
-12	i3-pa3-ta	i3-pa3-ta	_	V	14	nmod	_	
-13	mu	mu	mu[year]	N	14	_	heuristic: attach to head	
-14	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	1	_	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	ARAD2	arad[slave]	N	N	1	_	heuristic: after nominal head	
+4	ka-guru7	kaguruk[supervisor][-e]	PN	N	1	_	heuristic: after nominal head	
+5	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+6	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	13	nummod	heuristic: NU premodifying; projectivity violation	
+7	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	14	acl	projectivity violation	
+8	mu	mu[year]	N	N	7	_	heuristic: attach to last	
+9	en	en[priest]	N	N	8	_	heuristic: attach to last	
+10	{d}nanna	Nanna[1][-ak]	DN	DN	9	_	heuristic: attach to last	
+11	masz2-e	masz[goat]-e	N	N.L3-NH	10	_	heuristic: attach to last	
+12	i3-pa3-ta	_[xxx]	V	V	14	acl	projectivity violation	
+13	mu	mu[year]	N	N	1	appos	_	
+14	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	1	appos	_	
 15	ba-hul-sze3	ba-hulu[destroy][-ø]-sze	V	MID.V.3-SG-S.TERM	0	_	_
 	
 

@@ -1,18 +1,18 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P145233.atf
 # tr.en: Basket-of-tablets xxx xxx xxx xxx
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to last	
-3	lu2	lu2	lu[person]	N	2	_	heuristic: attach to last	
-4	nig2	nig2	_	N	3	_	heuristic: attach to last	
-5	dab5-ba-ke4-ne	dab5-ba-ke4-ne	_	V	4	_	heuristic: attach to last	
-6	ugu2-a	ugu2-a	ugu[capital]-'a	N	13	_	heuristic: before verb	
-7	ga2-ra	ga2-ra	_	V	13	_	heuristic: before verb	
-8	igi	igi	igi[eye][-ø]	N	13	_	heuristic: before verb	
-9	kar2-kar2	kar2-kar2	_	V	13	nmod	_	
-10	u3	u3	u[and]	CNJ	13	_	heuristic: before verbal head	
-11	en3-bi	en3-bi	en[word]-bi[-ø]	N	13	_	heuristic: before verbal head	
-12	tar-re	tar-re	tar[ask]-ed	V	13	nmod	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+3	lu2	lu[person]	N	N	1	_	heuristic: after nominal head	
+4	nig2	_	N	N	1	_	heuristic: after nominal head	
+5	dab5-ba-ke4-ne	_	V	NF.V.F.ABS	1	_	_	
+6	ugu2-a	ugu[capital]-'a	N	N.L1	1	_	heuristic: after nominal head	
+7	ga2-ra	_	V	V	1	_	heuristic: after nominal head	
+8	igi	igi[eye][-ø]	N	N	1	_	heuristic: after nominal head	
+9	kar2-kar2	_[xxx]	V	V	13	nmod	_	
+10	u3	u[and]	CNJ	CNJ	9	_	heuristic: attach to last	
+11	en3-bi	en[word]-bi[-ø]	N	N.3-SG-H-POSS.ABS	10	_	heuristic: attach to last	
+12	tar-re	tar[ask]-ed	V	NF.V.F	13	nmod	_	
 13	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
 	
 

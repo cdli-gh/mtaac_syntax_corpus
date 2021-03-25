@@ -1,35 +1,35 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
 # train/P122940.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	sze	sze	sze[barley]	N	1	_	heuristic: attach to last	
-3	erin2-e	erin2-e	erin[people]-e	N	2	_	heuristic: attach to last	
-4	szu	szu	szu[hand][-e]	N	3	_	heuristic: attach to last	
-5	ti-a	ti-a	ti[receive]-a	V	4	_	heuristic: attach to last	
-6	nig2-ka9	nig2-ka9	nigSZID[account]	N	30	_	_	
-7	szu	szu	szu[hand][-e]	N	30	_	heuristic: before verbal head	
-8	su-ba	su-ba	su[body]-bi-'a	V	30	_	heuristic: before verbal head	
-9	mu	mu	mu[year]	N	30	_	heuristic: before verbal head	
-10	an-sza-an{ki}	an-sza-an{ki}	Anszan[1][-ø]	GN	30	_	heuristic: before verbal head	
-11	ba-hul-ta	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	30	_	_	
-12	mu	mu	mu[year]	N	30	_	heuristic: before verbal head	
-13	bad3	bad3	bad[wall]	N	30	_	heuristic: before verbal head	
-14	ma-da	ma-da	mada[land][-ak][-ø]	N	30	_	heuristic: before verbal head	
-15	ba-du3-sze3	ba-du3-sze3	_	V	30	_	_	
-16	mu	mu	mu[year]	N	30	_	_	
-17	4(disz)-kam	4(disz)-kam	NU	NU	30	nummod	heuristic: NU premodifying	
-18	gu2-un	gu2-un	_	N	30	_	_	
-19	de6-a	de6-a	de[bring]-a	V	30	_	heuristic: before verbal head	
-20	mu	mu	mu[year]	N	30	_	heuristic: before verbal head	
-21	en	en	en[priest]	N	30	_	heuristic: before verbal head	
-22	eridu{ki}-ta	eridu{ki}-ta	_	SN	30	_	_	
-23	mu	mu	mu[year]	N	30	_	heuristic: before verbal head	
-24	us2-sa	us2-sa	us[follow]-a	V	30	_	heuristic: before verbal head	
-25	bad3	bad3	bad[wall]	N	30	_	heuristic: before verbal head	
-26	ma-da	ma-da	mada[land][-ak][-ø]	N	30	_	heuristic: before verbal head	
-27	ba-du3-sze3	ba-du3-sze3	_	V	30	nmod	_	
-28	mu	mu	mu[year]	N	30	nmod	_	
-29	1(u)-kam	1(u)-kam	NU	NU	30	nummod	heuristic: NU premodifying	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze	sze[barley]	N	N	1	_	heuristic: after nominal head	
+3	erin2-e	erin[people]-e	N	N.ERG	1	_	heuristic: after nominal head	
+4	szu	szu[hand][-e]	N	N.L3-NH	1	_	heuristic: after nominal head	
+5	ti-a	ti[receive]-a	V	NF.V.PT	1	_	_	
+6	nig2-ka9	nigSZID[account]	N	N	5	_	heuristic: attach to last	
+7	szu	szu[hand][-e]	N	N.L3-NH	6	_	heuristic: attach to last	
+8	su-ba	su[body]-bi-'a	V	NF.V.PT	7	_	heuristic: attach to last	
+9	mu	mu[year]	N	N	8	_	heuristic: attach to last	
+10	an-sza-an{ki}	Anszan[1][-ø]	GN	GN.ABS	9	_	heuristic: attach to last	
+11	ba-hul-ta	ba-hulu[destroy][-ø]-ta	V	MID.V.3-SG-S.ABL	10	_	heuristic: attach to last	
+12	mu	mu[year]	N	N	11	_	heuristic: attach to last	
+13	bad3	bad[wall]	N	N	12	_	heuristic: attach to last	
+14	ma-da	mada[land][-ak][-ø]	N	N	13	_	heuristic: attach to last	
+15	ba-du3-sze3	_[xxx]	V	V	14	_	heuristic: attach to last	
+16	mu	mu[year]	N	N	15	_	heuristic: attach to last	
+17	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	30	nummod	heuristic: NU premodifying	
+18	gu2-un	_[xxx]	N	N	17	_	heuristic: attach to last	
+19	de6-a	de[bring]-a	V	NF.V.PT	18	_	heuristic: attach to last	
+20	mu	mu[year]	N	N	19	_	heuristic: attach to last	
+21	en	en[priest]	N	N	20	_	heuristic: attach to last	
+22	eridu{ki}-ta	_[xxx]	SN	SN.GEN.ABL	21	_	heuristic: attach to last	
+23	mu	mu[year]	N	N	22	_	heuristic: attach to last	
+24	us2-sa	us[follow]-a	V	NF.V.PT	23	_	heuristic: attach to last	
+25	bad3	bad[wall]	N	N	24	_	heuristic: attach to last	
+26	ma-da	mada[land][-ak][-ø]	N	N	25	_	heuristic: attach to last	
+27	ba-du3-sze3	_[xxx]	V	V	30	nmod	_	
+28	mu	mu[year]	N	N	30	nmod	_	
+29	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	30	nummod	heuristic: NU premodifying	
 30	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
 	
 

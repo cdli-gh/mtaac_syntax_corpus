@@ -1,13 +1,13 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Inanna Paplal son of Amarsumun temple administrator of Enlil
 # train/P432357.atf
-1	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	0	root	_	
-2	pap-lal3	pap-lal3	_	PN	1	appos	_	
-3	dumu	dumu	dumu[child]	N	1	appos	_	
-4	amar-sumun	amar-sumun	_	PN	3	GEN	_	
-5	x	x	_[_]	N	1	dep	heuristic: attach to head	
-6	sanga	sanga	sagga[temple_administrator]	N	1	appos	_	
-7	{d}en-lil2	{d}en-lil2	Enlil[1]	DN	6	GEN	_	
+1	{d}inanna	Inanna[1][-ak]	DN	DN	0	root	_	
+2	pap-lal3	_[Paplal]	PN	PN	1	appos	_	
+3	dumu	dumu[child]	N	N	1	appos	_	
+4	amar-sumun	_[Amarsumun]	PN	PN	3	GEN	_	
+5	x	_[_]	N	N	1	dep	heuristic: after nominal head	
+6	sanga	sagga[temple_administrator]	N	N	1	appos	_	
+7	{d}en-lil2	Enlil[1]	DN	DN	6	GEN	_	
 8	...	_[_]	PN	N	7	dep	_
 	
 

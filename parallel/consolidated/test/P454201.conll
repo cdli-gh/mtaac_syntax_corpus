@@ -1,15 +1,15 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx
 # test/P454201.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	dub	dub	dub[tablet]	N	1	_	heuristic: attach to last	
-3	mu-tum-dingir	mu-tum-dingir	_	PN	2	_	heuristic: attach to last	
-4	szabra	szabra	szabra[chief_administrator][-ak]	N	10	_	heuristic: before verb	
-5	sza3	sza3	szag[heart]	N	10	_	heuristic: before verb	
-6	im-lik-{d}szu-{d}suen{ki}	im-lik-{d}szu-{d}suen{ki}	_	GN	10	_	heuristic: before verb	
-7	u3	u3	u[and]	CNJ	10	_	heuristic: before verb	
-8	sza3	sza3	szag[heart]	N	10	_	heuristic: before verb	
-9	babila{ki}	babila{ki}	_	GN	10	nmod	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	dub	dub[tablet]	N	N	1	_	heuristic: after nominal head	
+3	mu-tum-dingir	_	PN	PN	1	appos	_	
+4	szabra	szabra[chief_administrator][-ak]	N	N	1	_	heuristic: after nominal head	
+5	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+6	im-lik-{d}szu-{d}suen{ki}	_	GN	GN	1	_	heuristic: after nominal head	
+7	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+8	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+9	babila{ki}	_[xxx]	GN	SN.GEN.ABS	10	nmod	_	
 10	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
 	
 

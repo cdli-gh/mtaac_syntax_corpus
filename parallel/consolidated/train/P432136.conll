@@ -1,22 +1,22 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P432136.atf
 # tr.en: For Enlil the king of all lands his master Ur-Namma king of Ur and king of Sumer and Akkad his temple he built for him and Enerinnun canal his canal of offerings he dug for him
-1	{d}en-lil2	{d}en-lil2	Enlil[1]	DN	17	DAT	_	
-2	lugal	lugal	lugal[king]	N	17	parataxis	_	
-3	kur-kur-ra	kur-kur-ra	_	N	2	appos	_	
-4	lugal-a-ni	lugal-a-ni	_	PN	2	appos	_	
-5	ur-{d}namma	ur-{d}namma	Urnamma[1]	RN	4	appos	_	
-6	lugal	lugal	lugal[king]	N	4	appos	_	
-7	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	6	GEN	_	
-8	lugal	lugal	lugal[king]	N	4	appos	_	
-9	ki-en-gi	ki-en-gi	ki'engi[1]	GN	4	GEN	_	
-10	ki-uri-ke4	ki-uri-ke4	_	GN	4	appos	_	
-11	e2-a-ni	e2-a-ni	_	TN	2	appos	_	
-12	mu-na-du3	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	11	acl	_	
-13	i7	i7	id[river]	N	2	_	_	
-14	en-erin2-nun	en-erin2-nun	_	WN	2	appos	_	
-15	i7	i7	id[river]	N	14	_	heuristic: attach to last	
-16	nidba-ka-ni	nidba-ka-ni	_	PN	2	appos	_	
+1	{d}en-lil2	Enlil[1]	DN	DN	17	DAT	_	
+2	lugal	lugal[king]	N	N	17	parataxis	_	
+3	kur-kur-ra	_[the.all.lands]	N	N-RDP.GEN	2	appos	_	
+4	lugal-a-ni	_[his.master]	PN	N.3-SG-H-POSS.DAT-H	2	appos	_	
+5	ur-{d}namma	Urnamma[1]	RN	RN	4	appos	_	
+6	lugal	lugal[king]	N	N	4	appos	_	
+7	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	6	GEN	_	
+8	lugal	lugal[king]	N	N	4	appos	_	
+9	ki-en-gi	ki'engi[1]	GN	GN	4	GEN	_	
+10	ki-uri-ke4	_[and.and.Akkad]	GN	GN.GEN.ERG	4	appos	_	
+11	e2-a-ni	_[his.temple]	TN	N.3-SG-H-POSS.ABS	2	appos	_	
+12	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	11	acl	_	
+13	i7	id[river]	N	N	2	appos	_	
+14	en-erin2-nun	_[and.Enerinnun.canal]	WN	WN	2	appos	_	
+15	i7	id[river]	N	N	2	_	heuristic: after nominal head	
+16	nidba-ka-ni	_[his.canal.offerings]	PN	N.GEN.3-SG-H-POSS.ABS	2	appos	_	
 17	mu-na-ba-al	_[he.dug.for.him]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	0	root	_
 	
 

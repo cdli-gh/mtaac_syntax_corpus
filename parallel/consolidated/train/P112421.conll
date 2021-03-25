@@ -1,16 +1,16 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx
 # train/P112421.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	kiszib3	kiszib3	kiszib[seal]	N	1	_	heuristic: attach to head	
-3	dabx(U8)-ba	dabx(U8)-ba	dab[seize]-a	PN	1	_	_	
-4	a2	a2	a[time]	N	1	_	heuristic: attach to head	
-5	hun-ga2	hun-ga2	hug[hire]-a	V	1	_	heuristic: attach to head	
-6	lugal-e-ba-an-sa6	lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	10	nmod	_	
-7	dub-sar	dub-sar	dubsar[scribe]	N	10	_	heuristic: attach to head	
-8	mu	mu	mu[year]	N	10	_	_	
-9	ha-ar-szi{ki}	ha-ar-szi{ki}	Harszi[1]	SN	10	_	heuristic: attach to head	
-10	ki-masz{ki}	ki-masz{ki}	Kimasz[1]	SN	1	_	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	kiszib3	kiszib[seal]	N	N	1	_	heuristic: after nominal head	
+3	dabx(U8)-ba	dab[seize]-a	PN	NF.V.PT	1	appos	_	
+4	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+5	hun-ga2	hug[hire]-a	V	NF.V.PT	1	_	heuristic: after nominal head	
+6	lugal-e-ba-an-sa6	Lugalebansa[1][-ra]	PN	PN	10	nmod	_	
+7	dub-sar	dubsar[scribe]	N	N	6	_	heuristic: attach to last	
+8	mu	mu[year]	N	N	7	_	heuristic: attach to last	
+9	ha-ar-szi{ki}	Harszi[1]	SN	SN	8	_	heuristic: attach to last	
+10	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	1	appos	_	
 11	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	0	_	_
 	
 

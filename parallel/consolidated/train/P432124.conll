@@ -1,17 +1,17 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: For Ninegal his mistress Ur-Namma the mighty man king of Ur and king of Sumer and Akkad her temple he built for her
 # train/P432124.atf
-1	{d}nin-e2-gal	{d}nin-e2-gal	Ninegal[1][-ra]	DN	0	root	_	
-2	nin-a-ni	nin-a-ni	nin[lady]-ani[-ra]	PN	1	_	_	
-3	ur-{d}namma	ur-{d}namma	Urnamma[1]	RN	2	appos	_	
-4	nita	nita	nita[male]	N	5	nmod	_	
-5	kal-ga	kal-ga	kalag[strong]-a	V	2	appos	_	
-6	lugal	lugal	lugal[king]	N	2	appos	_	
-7	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	6	GEN	_	
-8	lugal	lugal	lugal[king]	N	6	appos	_	
-9	ki-en-gi	ki-en-gi	ki'engi[1]	GN	8	GEN	_	
-10	ki-uri	ki-uri	ki'uri[1][-ak]	GN	6	appos	_	
-11	e2-a-ni	e2-a-ni	_	TN	2	appos	_	
+1	{d}nin-e2-gal	Ninegal[1][-ra]	DN	DN.DAT-H	0	root	_	
+2	nin-a-ni	nin[lady]-ani[-ra]	PN	N.3-SG-H-POSS.DAT-H	1	appos	_	
+3	ur-{d}namma	Urnamma[1]	RN	RN	2	appos	_	
+4	nita	nita[male]	N	N	5	nmod	_	
+5	kal-ga	kalag[strong]-a	V	NF.V.SUB	2	acl	_	
+6	lugal	lugal[king]	N	N	2	appos	_	
+7	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	6	GEN	_	
+8	lugal	lugal[king]	N	N	6	appos	_	
+9	ki-en-gi	ki'engi[1]	GN	GN	8	GEN	_	
+10	ki-uri	ki'uri[1][-ak]	GN	GN.GEN	6	appos	_	
+11	e2-a-ni	_[her.temple]	TN	N.3-SG-H-POSS.ABS	2	appos	_	
 12	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	11	acl	_
 	
 

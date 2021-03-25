@@ -1,41 +1,41 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P432129.atf
 # tr.en: For Nanna the first-born son of Enlil his master Ur-Namma the mighty man king of Ur and king of Sumer and Akkad a swamp planted with seedlings it was indeed a swamp a field of it which was in area from water he brought out for him Levees for it danna and nindan he made for him Next to Ur as a treasure he made it Of that canal Who Is Like Nanna is its name
-1	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	17	DAT	_	
-2	dumu-sag	dumu-sag	_	N	17	ERG	_	
-3	{d}en-lil2-la2	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	2	GEN	_	
-4	lugal-a-ni	lugal-a-ni	_	PN	2	appos	_	
-5	ur-{d}namma	ur-{d}namma	Urnamma[1]	RN	4	appos	_	
-6	nita	nita	nita[male]	N	7	nmod	_	
-7	kal-ga	kal-ga	kalag[strong]-a	V	4	appos	_	
-8	lugal	lugal	lugal[king]	N	4	appos	_	
-9	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	8	GEN	_	
-10	lugal	lugal	lugal[king]	N	8	appos	_	
-11	ki-en-gi	ki-en-gi	ki'engi[1]	GN	10	GEN	_	
-12	ki-uri-ke4	ki-uri-ke4	_	GN	8	appos	projectivity violation	
-13	sug	sug	_	N	14	nmod	_	
-14	pesz	pesz	pesz[thick][-ø]	NU	11	appos	_	
-15	du3-a	du3-a	du[build]-a	V	17	_	heuristic: attach to head	
-16	sug	sug	_	N	17	ERG	_	
-17	he2-me-am3	he2-me-am3	_	V	0	root	_	
-18	a-sza3-bi	a-sza3-bi	_	N	17	ABS	_	
-19	szar2-gal	szar2-gal	_	V	18	ERG	_	
-20	GAN2-am3	GAN2-am3	_	N	18	_	_	
-21	a-ta	a-ta	a[water]-ta	N	18	ABL	_	
-22	ha-mu-na-ta-DU	ha-mu-na-ta-DU	_	PN	21	acl	_	
-23	e-bi	e-bi	_	N	29	parataxis	_	
-24	4(disz)	4(disz)	NU	NU	29	nummod	projectivity violation	
-25	da-na	da-na	_	PN	23	DAT	_	
-26	4(gesz2)	4(gesz2)	NU	NU	0	nummod	_	
-27	2(u)	2(u)	NU	NU	26	nummod	_	
-28	nig2-ra2	nig2-ra2	_	N	23	appos	_	
-29	he2-na-ak	he2-na-ak	_	PN	17	parataxis	_	
-30	uri5{ki}-e	uri5{ki}-e	_	SN	29	_	_	
-31	gil-sa-asz	gil-sa-asz	_	V	30	LOC	_	
-32	he2-mi-na	he2-mi-na	_	PN	29	acl	_	
-33	e-ba	e-ba	_	N	35	GEN	_	
-34	a-ba	a-ba	Aba[1][-ra]	DET	35	nmod	_	
-35	{d}nanna-gin7	{d}nanna-gin7	_	DN	17	GEN	_	
+1	{d}nanna	Nanna[1][-ak]	DN	DN	17	DAT	_	
+2	dumu-sag	_[the.first-born.son]	N	N	17	ERG	_	
+3	{d}en-lil2-la2	Enlil[1][-ak][-ø]	DN	DN.GEN	2	GEN	_	
+4	lugal-a-ni	_[his.master]	PN	N.3-SG-H-POSS.DAT-H	2	appos	_	
+5	ur-{d}namma	Urnamma[1]	RN	RN	4	appos	_	
+6	nita	nita[male]	N	N	7	nmod	_	
+7	kal-ga	kalag[strong]-a	V	NF.V.SUB	4	acl	_	
+8	lugal	lugal[king]	N	N	4	appos	_	
+9	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	8	GEN	_	
+10	lugal	lugal[king]	N	N	8	appos	_	
+11	ki-en-gi	ki'engi[1]	GN	GN	10	GEN	_	
+12	ki-uri-ke4	_[and.and.Akkad]	GN	GN.GEN.ERG	8	appos	projectivity violation	
+13	sug	_[a]	N	N	14	nmod	_	
+14	pesz	pesz[thick][-ø]	NU	N.ABS	11	nummod	_	
+15	du3-a	du[build]-a	V	NF.V.PT	17	_	heuristic: before verbal head	
+16	sug	_[it]	N	N	17	ERG	_	
+17	he2-me-am3	_[was.indeed.a.swamp]	V	MOD1.FIN.COP.3-SG-S.COP-3-SG	0	root	_	
+18	a-sza3-bi	_[a.field.it]	N	N.3-SG-NH-POSS.ABS	17	ABS	_	
+19	szar2-gal	_[which]	V	V	18	acl	_	
+20	GAN2-am3	_[was.in.area]	N	N.ABS.COP-3-SG	18	_	_	
+21	a-ta	a[water]-ta	N	N.ABL	18	ABL	_	
+22	ha-mu-na-ta-DU	_[he.brought.out.for.him]	PN	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	21	acl	_	
+23	e-bi	_[Levees]	N	N.3-SG-NH-POSS	29	parataxis	_	
+24	4(disz)	4(disz)[one]	NU	NU	29	nummod	projectivity violation	
+25	da-na	_[for.it]	PN	N	23	DAT	_	
+26	4(gesz2)	4(gesz)[sixty]	NU	NU	0	nummod	_	
+27	2(u)	2(u)[ten]	NU	NU	26	nummod	_	
+28	nig2-ra2	_[danna.and.nindan]	N	N	23	appos	_	
+29	he2-na-ak	_[he.made.for.him]	PN	MOD1.FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	17	parataxis	_	
+30	uri5{ki}-e	_[Next.to]	SN	SN.L3-NH	29	_	_	
+31	gil-sa-asz	_[Ur.as.a.treasure]	V	N.ADV	30	acl	_	
+32	he2-mi-na	_[he.made.it]	PN	MOD1.FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	29	acl	_	
+33	e-ba	_[Of]	N	N.DEM2.GEN	35	GEN	_	
+34	a-ba	Aba[1][-ra]	DET	N.ABS	35	nmod	_	
+35	{d}nanna-gin7	_[canal.Who.Is.Like.Nanna]	DN	DN.EQU	17	GEN	_	
 36	mu-bi	mu[name]-bi[-ø]	N	N.3-SG-NH-POSS.ABS.COP-3-SG	35	appos	_
 	
 

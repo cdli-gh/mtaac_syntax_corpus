@@ -1,20 +1,20 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # dev/P430466.atf
 # tr.en: Sz-Suen strong man king of Ur king of heaven with its four corners Szu-Erra royal cook son of Zak-il is your servant
-1	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	0	root	_	
-2	nita	nita	nita[male]	N	1	_	_	
-3	kal-ga	kal-ga	kalag[strong]-a	V	1	appos	_	
-4	lugal	lugal	lugal[king]	N	1	appos	_	
-5	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	4	GEN	_	
-6	lugal	lugal	lugal[king]	N	1	appos	_	
-7	an	an	An[1][-ra]	N	9	nummod	projectivity violation	
-8	ub-da	ub-da	_	N	6	GEN	_	
-9	limmu2-ba	limmu2-ba	limmu[four]-bi-ak[-ø]	V	6	COM	_	
-10	szu-er3-ra	szu-er3-ra	Szu'era[1][-e]	PN	11	nmod	_	
-11	muhaldim	muhaldim	_	N	15	ABS	_	
-12	lugal	lugal	lugal[king]	N	11	acl	_	
-13	dumu	dumu	dumu[child]	N	11	appos	_	
-14	za-ak-i3-li2	za-ak-i3-li2	_	PN	13	GEN	_	
+1	{d}szu-{d}suen	Szusuen[1]	RN	RN	0	root	_	
+2	nita	nita[male]	N	N	1	appos	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	acl	_	
+4	lugal	lugal[king]	N	N	1	appos	_	
+5	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	4	GEN	_	
+6	lugal	lugal[king]	N	N	1	appos	_	
+7	an	An[1][-ra]	N	N	9	nummod	projectivity violation	
+8	ub-da	_[heaven]	N	N	6	GEN	_	
+9	limmu2-ba	limmu[four]-bi-ak[-ø]	NU	NF.V.3-SG-NH-POSS.GEN.ABS	6	nummod	_	
+10	szu-er3-ra	Szu'era[1][-e]	PN	PN	11	nmod	_	
+11	muhaldim	_[cook]	N	N	15	ABS	_	
+12	lugal	lugal[king]	N	N	11	acl	_	
+13	dumu	dumu[child]	N	N	11	appos	_	
+14	za-ak-i3-li2	_[Zak-il]	PN	PN.GEN.ABS	13	GEN	_	
 15	ARAD2-zu	arad[slave]-zu[-ø]	PN	N.2-SG-POSS.ABS	1	appos	_
 	
 

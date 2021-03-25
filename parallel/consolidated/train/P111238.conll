@@ -1,22 +1,22 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P111238.atf
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	nig2-ka9-ak	nig2-ka9-ak	nigSZID[account]	N	1	_	_	
-3	a2	a2	a[time]	N	17	_	heuristic: before verb	
-4	szu-ku6	szu-ku6	szukud[fisherman][-ak][-ak]	N	17	_	heuristic: before verb	
-5	a-ab-<ba>	a-ab-ba	_	PN	17	_	_	
-6	la-a-a	la-a-a	_	PN	17	_	_	
-7	u3	u3	u[and]	CNJ	17	_	heuristic: before verbal head	
-8	gu3-de2-a	gu3-de2-a	Gude'a[1][-ra]	PN	17	_	_	
-9	dumu	dumu	dumu[child]	N	17	_	heuristic: before verbal head	
-10	mu-ka-ge-du7	mu-ka-ge-du7	_	PN	17	_	_	
-11	mu	mu	mu[year]	N	17	_	heuristic: before verbal head	
-12	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	17	_	heuristic: before verbal head	
-13	lugal-ta	lugal-ta	lugal[king][-ak]-ta	N	17	nmod	_	
-14	mu	mu	mu[year]	N	17	_	heuristic: before verbal head	
-15	hu-hu-nu-ri{ki}	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	17	nmod	_	
-16	ba-hul	ba-hul	ba-hulu[destroy][-ø]	V	17	_	heuristic: before verbal head	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	nig2-ka9-ak	nigSZID[account]	N	N	1	appos	_	
+3	a2	a[time]	N	N	1	_	heuristic: after nominal head	
+4	szu-ku6	szukud[fisherman][-ak][-ak]	N	N	1	_	heuristic: after nominal head	
+5	a-ab-<ba>	_[xxx]	PN	PN	4	_	heuristic: attach to last	
+6	la-a-a	_[xxx]	PN	PN	5	_	heuristic: attach to last	
+7	u3	u[and]	CNJ	CNJ	6	_	heuristic: attach to last	
+8	gu3-de2-a	Gude'a[1][-ra]	PN	PN	7	_	heuristic: attach to last	
+9	dumu	dumu[child]	N	N	8	_	heuristic: attach to last	
+10	mu-ka-ge-du7	_[xxx]	PN	PN	9	_	heuristic: attach to last	
+11	mu	mu[year]	N	N	10	_	heuristic: attach to last	
+12	{d}amar-{d}suen	Amarsuen[1]	RN	RN	11	_	heuristic: attach to last	
+13	lugal-ta	lugal[king][-ak]-ta	N	N.GEN.ABL	17	nmod	_	
+14	mu	mu[year]	N	N	13	_	heuristic: attach to last	
+15	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	17	nmod	_	
+16	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	15	_	heuristic: attach to last	
 17	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	1	_	_
 	
 

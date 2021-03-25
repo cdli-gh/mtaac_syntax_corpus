@@ -1,33 +1,33 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
 # train/P145820.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	e2-kiszib3-ba	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	1	_	_	
-3	sag-nig2-gur11-ra-kam	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	1	_	heuristic: attach to head	
-4	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
-5	x-...	x-...	_[_]	PN	1	dep	heuristic: attach to head	
-6	ur-tur	ur-tur	Urtur[1][-e]	WN	1	_	heuristic: attach to head	
-7	...	...	_[_]	PN	1	dep	heuristic: attach to head	
-8	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
-9	szu-esz-sza	szu-esz-sza	Szu'eszsza[1][-'a]	MN	1	_	heuristic: attach to head	
-10	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
-11	en-mah-gal-an-na	en-mah-gal-an-na	Enmahgalana[1]	PN	1	_	heuristic: attach to head	
-12	en	en	en[priest]	N	1	_	heuristic: attach to head	
-13	{d}nanna	{d}nanna	Nanna[1][-ak]	DN	1	_	heuristic: attach to head	
-14	ba-hun-ta	ba-hun-ta	_	V	1	_	heuristic: attach to head	
-15	iti	iti	iti[month]	N	1	_	heuristic: attach to head	
-16	sze-sag11-ku5	sze-sag11-ku5	Szesagku[1][-'a]	MN	1	_	heuristic: attach to head	
-17	mu	mu	mu[year]	N	1	_	heuristic: attach to head	
-18	en-unu6-gal	en-unu6-gal	Enunugal[1]	PN	1	_	heuristic: attach to head	
-19	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	1	_	heuristic: attach to head	
-20	unu{ki}	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	1	_	heuristic: attach to head	
-21	ba-hun-sze3	ba-hun-sze3	_	V	26	nmod	_	
-22	iti	iti	iti[month]	N	26	nmod	_	
-23	1(u)	1(u)	NU	NU	0	nummod	_	
-24	8(disz)-kam	8(disz)-kam	NU	NU	23	nummod	_	
-25	sag	sag	sag[head]	N	26	_	heuristic: attach to head	
-26	iti	iti	iti[month]	N	1	_	_	
-27	diri	diri	diri[intercalary_month]	N	0	_	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	e2-kiszib3-ba	ekiszibak[storeroom]-ak	PN	TN.L1	1	appos	_	
+3	sag-nig2-gur11-ra-kam	sagnigGArak[available_assets][-ø]-am	N	N.ABS.COP-3-SG	1	_	heuristic: after nominal head	
+4	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+5	x-...	_[_]	PN	PN	1	dep	heuristic: after nominal head	
+6	ur-tur	Urtur[1][-e]	WN	PN	1	_	heuristic: after nominal head	
+7	...	_[_]	PN	N	1	dep	heuristic: after nominal head	
+8	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+9	szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	1	_	heuristic: after nominal head	
+10	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+11	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	1	_	heuristic: after nominal head	
+12	en	en[priest]	N	N	1	_	heuristic: after nominal head	
+13	{d}nanna	Nanna[1][-ak]	DN	DN	1	_	heuristic: after nominal head	
+14	ba-hun-ta	_[xxx]	V	MID.V.3-SG-S.ABL	1	_	heuristic: after nominal head	
+15	iti	iti[month]	N	N	1	_	heuristic: after nominal head	
+16	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	1	_	heuristic: after nominal head	
+17	mu	mu[year]	N	N	1	_	heuristic: after nominal head	
+18	en-unu6-gal	Enunugal[1]	PN	PN	1	_	heuristic: after nominal head	
+19	{d}inanna	Inanna[1][-ak]	DN	DN	1	_	heuristic: after nominal head	
+20	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	1	_	heuristic: after nominal head	
+21	ba-hun-sze3	_[xxx]	V	MID.V.3-SG-S.TERM	26	acl	projectivity violation	
+22	iti	iti[month]	N	N	26	nmod	projectivity violation	
+23	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+24	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	_	
+25	sag	sag[head]	N	N	1	appos	_	
+26	iti	iti[month]	N	N	1	appos	_	
+27	diri	diri[intercalary_month]	N	N	0	_	_	
 28	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	0	nummod	_
 	
 

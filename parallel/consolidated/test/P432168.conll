@@ -1,18 +1,18 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Szulgi the mighty man king of Ur and king of Sumer and Akkad the Mountain House his beloved house he built
 # test/P432168.atf
-1	szul-gi	szul-gi	Szulgir[1]	RN	0	root	_	
-2	nita	nita	nita[male]	N	3	nmod	_	
-3	kal-ga	kal-ga	kalag[strong]-a	V	1	appos	_	
-4	lugal	lugal	lugal[king]	N	1	appos	_	
-5	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	4	GEN	_	
-6	lugal	lugal	lugal[king]	N	4	appos	_	
-7	ki-en-gi	ki-en-gi	ki'engi[1]	GN	6	GEN	_	
-8	ki-uri-ke4	ki-uri-ke4	_	GN	4	appos	_	
-9	e2	e2	e[house]	N	10	nmod	_	
-10	hur-sag	hur-sag	_	N	1	appos	_	
-11	e2	e2	e[house]	N	1	appos	_	
-12	ki-ag2-ga2-ni	ki-ag2-ga2-ni	_	N	11	appos	_	
+1	szul-gi	Szulgir[1]	RN	RN	0	root	_	
+2	nita	nita[male]	N	N	3	nmod	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	acl	_	
+4	lugal	lugal[king]	N	N	1	appos	_	
+5	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	4	GEN	_	
+6	lugal	lugal[king]	N	N	4	appos	_	
+7	ki-en-gi	ki'engi[1]	GN	GN	6	GEN	_	
+8	ki-uri-ke4	_[and.and.Akkad]	GN	GN.GEN.ERG	4	appos	_	
+9	e2	e[house]	N	N	10	nmod	_	
+10	hur-sag	_[Mountain.House]	N	N	1	appos	_	
+11	e2	e[house]	N	N	1	appos	_	
+12	ki-ag2-ga2-ni	_[his.beloved]	N	NF.V.3-SG-H-POSS.ABS	11	appos	_	
 13	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	1	acl	_
 	
 

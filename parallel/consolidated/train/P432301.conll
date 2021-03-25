@@ -1,9 +1,9 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Kubtum the beloved lukur-woman of Sz-Sin
 # train/P432301.atf
-1	ku-ba-tum	ku-ba-tum	Kubatum[1][-ak][-'a]	PN	0	root	_	
-2	lukur	lukur	lukur[priestess]	N	1	appos	_	
-3	ki-ag2	ki-ag2	ki'ag[love][-ø]	V	2	appos	_	
+1	ku-ba-tum	Kubatum[1][-ak][-'a]	PN	PN	0	root	_	
+2	lukur	lukur[priestess]	N	N	1	appos	_	
+3	ki-ag2	ki'ag[love][-ø]	V	NF.V	2	acl	_	
 4	{d}szu-{d}suen	Szusuen[1]	RN	RN	1	appos	_
 	
 

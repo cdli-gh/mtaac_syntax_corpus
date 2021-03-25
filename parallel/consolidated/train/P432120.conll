@@ -1,13 +1,13 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Ur-Namma king of Ur the person who temple of Enki in Eridu built
 # train/P432120.atf
-1	ur-{d}namma	ur-{d}namma	Urnamma[1]	RN	0	root	_	
-2	lugal	lugal	lugal[king]	N	1	appos	_	
-3	uri5{ki}-ma	uri5{ki}-ma	Urim[1]-ak	SN	2	GEN	_	
-4	lu2	lu2	lu[person]	N	1	appos	_	
-5	e2	e2	e[house]	N	8	ABS	_	
-6	{d}en-ki	{d}en-ki	Enki[1][-ak][-ø]	DN	5	GEN	_	
-7	eridu{ki}-ga	eridu{ki}-ga	Eridug[1]-ak[-ø]	SN	5	LOC	_	
+1	ur-{d}namma	Urnamma[1]	RN	RN	0	root	_	
+2	lugal	lugal[king]	N	N	1	appos	_	
+3	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	2	GEN	_	
+4	lu2	lu[person]	N	N	1	appos	_	
+5	e2	e[house]	N	N	8	ABS	_	
+6	{d}en-ki	Enki[1][-ak][-ø]	DN	DN.GEN.ABS	5	GEN	_	
+7	eridu{ki}-ga	Eridug[1]-ak[-ø]	SN	SN.GEN.ABS	5	LOC	_	
 8	in-du3-a	i-n-du[build][-ø]-a	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	4	acl	_
 	
 

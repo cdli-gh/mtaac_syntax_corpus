@@ -1,24 +1,24 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: Basket-of-tablets xxx xxx xxx xxx xxx xxx
 # train/P113478.atf
-1	pisan-dub-ba	pisan-dub-ba	bisagdubak[filing_basket]	N	0	root	_	
-2	sze-ba	sze-ba	szeba[ration]	N	1	_	heuristic: attach to head	
-3	siki-ba	siki-ba	_	V	1	_	_	
-4	tug2-ba	tug2-ba	_	N	1	_	heuristic: attach to head	
-5	giri3-se3-ga	giri3-se3-ga	girsiga[attendant]	N	1	_	heuristic: attach to head	
-6	sza3-iri	sza3-iri	Sza'iri[1][-ra]	PN	1	_	heuristic: attach to head	
-7	u3	u3	u[and]	CNJ	1	_	heuristic: attach to head	
-8	geme2	geme2	geme[female_worker]	N	1	_	heuristic: attach to head	
-9	usz-bar	usz-bar	uszbar[weaver][-ak]	N	1	_	heuristic: attach to head	
-10	{d}lamma	{d}lamma	_	N	1	_	heuristic: attach to head	
-11	{d}szu-{d}suen	{d}szu-{d}suen	Szusuen[1]	RN	1	_	heuristic: attach to head	
-12	sza3	sza3	szag[heart]	N	1	_	heuristic: attach to head	
-13	gu2-ab-ba{ki}	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	17	nmod	_	
-14	i3-gal2	i3-gal2	i[-ni]-gal[be][-ø]	V	17	nmod	_	
-15	mu	mu	mu[year]	N	17	_	heuristic: attach to head	
-16	en	en	en[priest]	N	17	_	heuristic: attach to head	
-17	{d}inanna	{d}inanna	Inanna[1][-ak]	DN	1	_	_	
-18	masz2-e	masz2-e	masz[goat]-e	N	0	_	_	
+1	pisan-dub-ba	bisagdubak[filing_basket]	N	N	0	root	_	
+2	sze-ba	szeba[ration]	N	N	1	_	heuristic: after nominal head	
+3	siki-ba	_	V	V	1	_	_	
+4	tug2-ba	_	N	N	1	_	heuristic: after nominal head	
+5	giri3-se3-ga	girsiga[attendant]	N	N	1	_	heuristic: after nominal head	
+6	sza3-iri	Sza'iri[1][-ra]	PN	PN.DAT-H	1	_	heuristic: after nominal head	
+7	u3	u[and]	CNJ	CNJ	1	_	heuristic: after nominal head	
+8	geme2	geme[female_worker]	N	N	1	_	heuristic: after nominal head	
+9	usz-bar	uszbar[weaver][-ak]	N	N	1	_	heuristic: after nominal head	
+10	{d}lamma	_[xxx]	N	N	1	_	heuristic: after nominal head	
+11	{d}szu-{d}suen	Szusuen[1]	RN	RN	1	_	heuristic: after nominal head	
+12	sza3	szag[heart]	N	N	1	_	heuristic: after nominal head	
+13	gu2-ab-ba{ki}	Gu'abba[1][-ak][-'a]	GN	SN.GEN.L1	17	nmod	projectivity violation	
+14	i3-gal2	i[-ni]-gal[be][-ø]	V	FIN.L1.V.3-SG-S	17	acl	projectivity violation	
+15	mu	mu[year]	N	N	1	appos	_	
+16	en	en[priest]	N	N	15	_	heuristic: attach to last	
+17	{d}inanna	Inanna[1][-ak]	DN	DN	1	appos	_	
+18	masz2-e	masz[goat]-e	N	N.L3-NH	0	_	_	
 19	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	0	_	_
 	
 

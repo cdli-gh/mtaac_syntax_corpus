@@ -1,8 +1,8 @@
 # global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # dev/P432259.atf
 # tr.en: Amar-Suena the mighty man
-1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuen[1]	RN	0	root	_	
-2	lugal	lugal	lugal[king]	N	3	nmod	_	
-3	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	appos	_
+1	{d}amar-{d}suen	Amarsuen[1]	RN	RN	0	root	_	
+2	lugal	lugal[king]	N	N	3	nmod	_	
+3	kal-ga	kalag[strong]-a	V	NF.V.SUB	1	acl	_
 	
 
