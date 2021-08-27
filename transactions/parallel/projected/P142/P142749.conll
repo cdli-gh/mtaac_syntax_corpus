@@ -1,94 +1,94 @@
-# train/P142749.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P142749.atf new_text=P142749
 # tr.en: ninda less fist length cubits width ninda cubits fists length cubits open-hand width ninda cubits fist length cubits open-hand width running ninda cubits length cubits width cubits length cubits width n length n width cubits length n width n length n width n length cubits width
-1	a.	_	:	4	_	
-2	1(disz@t)	_	CD	12	nummod	
-3	1/2(disz@t)	_	_	2	nummod	
-4	ninda	ninda	NN	0	root	
-5	la2	less	RBR	7	advmod	
-6	1(disz@t)	_	_	5	nummod	
-7	szu-du3-a	fist	NN	4	_	
-8	gid2	length	NN	4	appos	
-9	b.	_	:	12	_	
-10	1(u)	_	CD	16	nummod	
-11	1(disz@t)	_	_	10	nummod	
-12	kusz3	cubits	NNS	4	_	
-13	dagal	width	NN	12	appos	
-14	a.	_	:	16	_	
-15	1(disz@t)	_	CD	24	nummod	
-16	ninda	ninda	NN	12	_	
-17	2(disz@t)	_	_	0	nummod	
-18	kusz3	cubits	NNS	16	_	
-19	2(disz@t)	_	_	0	nummod	
-20	szu-du3-a	fists	DT	21	det	
-21	gid2	length	NN	16	appos	
-22	b.	_	:	24	_	
-23	4(disz@t)	_	CD	30	nummod	
-24	kusz3	cubits	NNS	16	_	
-25	1(disz@t)	_	_	0	nummod	
-26	szu-bad	open-hand	JJ	24	_	
-27	dagal	width	NN	24	appos	
-28	a.	_	:	24	_	
-29	1(disz)	_	CD	38	nummod	
-30	ninda	ninda	NN	24	_	
-31	5(disz)	_	_	0	nummod	
-32	kusz3	cubits	NNS	30	_	
-33	1(disz)	_	_	0	nummod	
-34	szu-du3-a	fist	NN	32	_	
-35	gid2	length	NN	34	_	
-36	b.	_	:	24	_	
-37	4(disz)	_	CD	47	nummod	
-38	kusz3	cubits	NNS	24	_	
-39	1(disz)	_	_	0	nummod	
-40	szu-bad	open-hand	JJ	38	_	
-41	dagal	width	NN	38	appos	
-42	a.	running	VBG	37	acl	
-43	1(disz)	_	:	24	nummod	
-44	ninda	ninda	NN	42	dobj	
-45	du	_	CD	51	nummod	
-46	2(disz)	_	_	0	nummod	
-47	kusz3	cubits	VBZ	24	acl	
-48	gid2	length	NN	47	dobj	
-49	b.	_	:	24	_	
-50	5(disz)	_	CD	56	nummod	
-51	kusz3	cubits	NNS	24	_	
-52	dagal	width	NN	51	_	
-53	a.	_	:	24	_	
-54	1(u)	_	CD	60	nummod	
-55	1(disz)	_	_	54	nummod	
-56	kusz3	cubits	NNS	24	_	
-57	gid2	length	NN	56	_	
-58	b.	_	_	0	_	
-59	6(disz)	_	_	0	nummod	
-60	kusz3	cubits	NNS	24	_	
-61	dagal	width	NN	60	_	
-62	a.	_	_	0	_	
-63	n	_	:	24	_	
-64	gid2	length	NN	24	_	
-65	b.	_	:	24	_	
-66	n	_	:	24	_	
-67	dagal	width	NN	24	_	
-68	a.	_	_	0	_	
-69	1(u)	_	_	0	nummod	
-70	kusz3	cubits	NNS	24	_	
-71	n	_	_	0	_	
-72	gid2	length	NN	70	_	
-73	b.	_	_	0	_	
-74	n	_	:	24	_	
-75	dagal	width	NN	24	_	
-76	a.	_	_	0	_	
-77	n	_	:	24	_	
-78	gid2	length	NN	24	_	
-79	b.	_	_	0	_	
-80	n	_	:	24	_	
-81	dagal	width	NN	24	_	
-82	a.	_	:	24	_	
-83	n	_	:	24	_	
-84	gid2	length	NN	24	_	
-85	b.	_	:	4	_	
-86	3(disz)	_	_	0	nummod	
-87	kusz3	cubits	NNS	24	_	
-88	dagal	width	NN	87	_
+# train/P142749.atf						#new_text=P142749
+1	a.	SEGM	XPOSTAG	XPOSTAG	0	_	detached for projectivity	
+2	1(disz@t)	1(disz)[one]	NU	NU	12	nummod	projectivity violation	
+3	1/2(disz@t)	1/2(disz)[one]	NU	NU	2	nummod	_	
+4	ninda	ninda[bread]	N	N	0	root	_	
+5	la2	la[hang][-ø]	V	NF.V.ABS	7	acl	_	
+6	1(disz@t)	1(disz)[one]	NU	NU	5	nummod	_	
+7	szu-du3-a	_[fist]	N	N	4	appos	_	
+8	gid2	gid[length]	V	N	4	acl	_	
+9	b.	_	_	_	4	_	heuristic: after nominal head	
+10	1(u)	1(u)[ten]	NU	NU	16	nummod	projectivity violation	
+11	1(disz@t)	1(disz)[one]	NU	NU	10	nummod	_	
+12	kusz3	kusz[unit]	N	N	4	appos	_	
+13	dagal	dagal[wide][-ø]	V	NF.V.ABS	12	acl	_	
+14	a.	_	_	_	12	_	heuristic: after nominal head	
+15	1(disz@t)	1(disz)[one]	NU	NU	24	nummod	projectivity violation	
+16	ninda	ninda[bread]	N	N	12	appos	_	
+17	2(disz@t)	2(disz)[one]	NU	NU	18	nummod	heuristic: NU premodifying	
+18	kusz3	kusz[unit]	N	N	16	appos	_	
+19	2(disz@t)	2(disz)[one]	NU	NU	21	nummod	heuristic: NU premodifying	
+20	szu-du3-a	_[fists]	N	N	21	nmod	_	
+21	gid2	gid[length]	V	N	16	acl	_	
+22	b.	_	_	_	16	_	heuristic: after nominal head	
+23	4(disz@t)	4(disz)[one]	NU	NU	30	nummod	projectivity violation	
+24	kusz3	kusz[unit]	N	N	16	appos	_	
+25	1(disz@t)	1(disz)[one]	NU	NU	26	nummod	heuristic: NU premodifying	
+26	szu-bad	_[open-hand]	N	N	24	appos	_	
+27	dagal	dagal[wide][-ø]	V	NF.V.ABS	24	acl	_	
+28	a.	_	_	_	24	_	_	
+29	1(disz)	1(disz)[one]	NU	NU	38	nummod	projectivity violation	
+30	ninda	ninda[bread]	N	N	24	appos	_	
+31	5(disz)	5(disz)[one]	NU	NU	32	nummod	heuristic: NU premodifying	
+32	kusz3	kusz[unit]	N	N	30	appos	_	
+33	1(disz)	1(disz)[one]	NU	NU	34	nummod	heuristic: NU premodifying	
+34	szu-du3-a	_[fist]	N	N	32	appos	_	
+35	gid2	gid[length]	V	N	34	_	_	
+36	b.	_	_	_	35	_	heuristic: attach to last	
+37	4(disz)	4(disz)[one]	NU	NU	47	nummod	projectivity violation	
+38	kusz3	kusz[unit]	N	N	24	appos	projectivity violation	
+39	1(disz)	1(disz)[one]	NU	NU	40	nummod	heuristic: NU premodifying	
+40	szu-bad	_[open-hand]	N	N	38	appos	_	
+41	dagal	dagal[wide][-ø]	V	NF.V.ABS	38	acl	_	
+42	a.	_[running]	V	V	37	acl	_	
+43	1(disz)	1(disz)[one]	NU	NU	24	nummod	projectivity violation	
+44	ninda	ninda[bread]	N	N	42	ABS	_	
+45	du	gin[quality_designation][-ø]	V	NF.V.ABS	51	acl	projectivity violation	
+46	2(disz)	2(disz)[one]	NU	NU	47	nummod	heuristic: NU premodifying	
+47	kusz3	kusz[unit]	N	N	24	acl	_	
+48	gid2	gid[length]	V	N	47	acl	_	
+49	b.	_	_	_	48	_	heuristic: attach to last	
+50	5(disz)	5(disz)[one]	NU	NU	56	nummod	projectivity violation	
+51	kusz3	kusz[unit]	N	N	24	appos	_	
+52	dagal	dagal[wide][-ø]	V	NF.V.ABS	51	_	_	
+53	a.	_	_	_	52	_	heuristic: attach to last	
+54	1(u)	1(u)[ten]	NU	NU	60	nummod	projectivity violation	
+55	1(disz)	1(disz)[one]	NU	NU	54	nummod	_	
+56	kusz3	kusz[unit]	N	N	24	appos	_	
+57	gid2	gid[length]	V	N	56	_	_	
+58	b.	_	_	_	57	_	heuristic: attach to last	
+59	6(disz)	6(disz)[one][-sze]	NU	NU	60	nummod	heuristic: NU premodifying	
+60	kusz3	kusz[unit]	N	N	24	appos	_	
+61	dagal	dagal[wide][-ø]	V	NF.V.ABS	60	_	_	
+62	a.	_	_	_	61	_	heuristic: attach to last	
+63	n	_(_)[_]	NU	NU	24	nummod	_	
+64	gid2	gid[length]	V	N	63	_	heuristic: attach to last	
+65	b.	_	_	_	64	_	heuristic: attach to last	
+66	n	_(_)[_]	NU	NU	24	nummod	_	
+67	dagal	dagal[wide][-ø]	V	NF.V.ABS	66	_	heuristic: attach to last	
+68	a.	_	_	_	67	_	heuristic: attach to last	
+69	1(u)	1(u)[ten]	NU	NU	70	nummod	heuristic: NU premodifying	
+70	kusz3	kusz[unit]	N	N	24	appos	_	
+71	n	_(_)[_]	NU	NU	72	_	heuristic: NU premodifying	
+72	gid2	gid[length]	V	N	70	_	_	
+73	b.	_	_	_	72	_	heuristic: attach to last	
+74	n	_(_)[_]	NU	NU	24	nummod	_	
+75	dagal	dagal[wide][-ø]	V	NF.V.ABS	74	_	heuristic: attach to last	
+76	a.	_	_	_	75	_	heuristic: attach to last	
+77	n	_(_)[_]	NU	NU	24	nummod	_	
+78	gid2	gid[length]	V	N	77	_	heuristic: attach to last	
+79	b.	_	_	_	78	_	heuristic: attach to last	
+80	n	_(_)[_]	NU	NU	24	nummod	_	
+81	dagal	dagal[wide][-ø]	V	NF.V.ABS	80	_	heuristic: attach to last	
+82	a.	_	_	_	81	_	heuristic: attach to last	
+83	n	_(_)[_]	NU	NU	24	nummod	_	
+84	gid2	gid[length]	V	N	83	_	heuristic: attach to last	
+85	b.	_	_	_	84	_	heuristic: attach to last	
+86	3(disz)	3(disz)[one]	NU	NU	87	nummod	heuristic: NU premodifying	
+87	kusz3	kusz[unit]	N	N	24	appos	_	
+88	dagal	dagal[wide][-ø]	V	NF.V.ABS	87	_	_
 	
 

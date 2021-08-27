@@ -1,36 +1,35 @@
-# train/P273493.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: long-baskets for dusu-service errum mats their extent garden for palace garment-boat covered from received Under official seal under seal of Ikalla Year unuri was destroyed Ikalla
-1	3(u)	_	,	3	nummod	
-2	5(disz)	_	CD	8	nummod	
-3	{gi}pisan	long-baskets	NNS	0	root	
-4	gid2-da	_	_	0	_	
-5	dusu	for dusu-service	NN	3	nmod:for	
-6	4(disz)	_	,	3	nummod	
-7	{gi}kid	errum	NN	8	compound	
-8	szer7-ru-um	mats	NNS	3	appos	
-9	ki-la2-bi	their extent	NN	3	appos	
-10	1(disz)	_	``	11	nummod	
-11	1/3(disz)	_	NN	3	nummod	
-12	sar	garden	CD	11	nummod	
-13	e2-gal-sze3	for palace garment-boat	NN	11	nmod:for	
-14	ma2	_	:	11	_	
-15	tug2	_	_	0	_	
-16	ba-a-dul9	covered	VBD	13	acl:relcl	
-17	...-ta	from	IN	11	nmod:from	
-18	...	_	.	11	dep	
-19	szu	_	_	0	_	
-20	ba-ti	received	VBN	11	acl	
-21	kiszib3	_	.	3	_	
-22	nam-sza3-tam	Under official seal	NN	11	nmod:under	
-23	kiszib3	under seal	NN	11	nmod:under	
-24	i3-kal-la	Ikalla	NNP	23	nmod:of	
-25	mu	Year	NN	3	_	
-26	hu-hu-nu-ri{ki}	unuri	NNP	27	nsubjpass	
-27	ba-hul	was destroyed	VBN	25	acl	
-28	i3-kal-la	Ikalla	NNP	3	_	
-29	...	_	NN	0	root	
-30	...	_	.	29	dep
+# train/P273493.atf
+1	3(u)	3(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	5(disz)	5(disz)[one]	NU	NU	8	nummod	projectivity violation	
+3	{gi}pisan	bisag[basket]	N	N	0	root	_	
+4	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	3	_	heuristic: after nominal head	
+5	dusu	dusu[donkey]	N	N	3	DAT	_	
+6	4(disz)	4(disz)[one]	NU	NU	3	nummod	_	
+7	{gi}kid	kid[mat]	N	N	8	nmod	_	
+8	szer7-ru-um	szerrum[mat]	N	N	3	appos	_	
+9	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	3	appos	_	
+10	1(disz)	1(disz)[one]	NU	NU	11	nummod	_	
+11	1/3(disz)	1/3(disz)[one]	NU	NU	3	nummod	_	
+12	sar	sar[unit]	N	N	11	nummod	_	
+13	e2-gal-sze3	_[for.palace.garment-boat]	N	N	11	DAT	_	
+14	ma2	ma[ship]	N	N	11	appos	projectivity violation	
+15	tug2	tug[textile]	N	N	14	_	heuristic: attach to last	
+16	ba-a-dul9	_[covered]	V	V	13	acl	_	
+17	...-ta	_[_]-ta	PN	PN.GEN.ABL	11	ABL	_	
+18	...	_[_]	PN	N	17	dep	heuristic: attach to last	
+19	szu	szu[hand][-e]	N	N.L3-NH	18	_	heuristic: attach to last	
+20	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	11	acl	_	
+21	kiszib3	kiszib[seal]	N	N	3	appos	projectivity violation	
+22	nam-sza3-tam	namszatam[administration]	N	N	11	LOC	_	
+23	kiszib3	kiszib[seal]	N	N	11	LOC	_	
+24	i3-kal-la	Ikala[1][-ak]	PN	PN	23	GEN	_	
+25	mu	mu[year]	N	N	3	appos	_	
+26	hu-hu-nu-ri{ki}	Huhunuri[1][-ø]	GN	SN.ABS	27	ABS	_	
+27	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	25	acl	_	
+28	i3-kal-la	Ikala[1][-ak]	PN	PN	3	appos	_	
+29	...	_[_]	PN	N	0	dep	_	
+30	...	_[_]	PN	N	29	dep	_
 	
 

@@ -1,69 +1,68 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # test/P102297.atf
-						
-
 # tr.en: male laborers for day carried n male laborers bread carried n male laborers -straw carried n male laborers condiments carried n male laborers in a barge reeds erected male laborers barge with flour oil fish from the mouth of canal punted and barge transfered over out of Umma load to delivery of transfer carried under seal of Lukalla year Szu-Suen king Lu-kalla scribe son of Ur-nigar cattle manager
-1	4(u)	_	NN	3	nummod	
-2	5(disz)	_	_	1	nummod	
-3	gurusz	male laborers	NNS	7	nsubj	
-4	u4	for day	IN	1	nmod:for	
-5	1(disz)-sze3	_	_	0	nummod	
-6	x	_	_	0	dep	
-7	ga6-ga2	carried	VBD	0	root	
-8	n	_	,	7	_	
-9	1(u)	_	_	0	nummod	
-10	5(disz)	_	_	9	nummod	
-11	gurusz	male laborers	JJ	12	amod	
-12	ninda	bread	NN	13	nsubj	
-13	ga6-ga2	carried	VBD	7	ccomp	
-14	n	_	,	7	_	
-15	7(disz)	_	_	0	nummod	
-16	gurusz	male laborers	NNS	18	nsubj	
-17	in-bul5-bul5	-straw	JJ	18	amod	
-18	ga6-ga2	carried	VBD	7	parataxis	
-19	n	_	,	18	_	
-20	1(disz)	_	_	0	nummod	
-21	gurusz	male laborers	NNS	18	dobj	
-22	mun-gazi	condiments	NNS	23	nsubj	
-23	ga6-ga2	carried	VBD	21	acl:relcl	
-24	n	_	,	23	_	
-25	2(u)	_	,	30	nummod	
-26	1(disz)	_	CD	33	nummod	
-27	gurusz	male laborers	NNS	23	dobj	
-28	ma2-a	in a barge	IN	29	nmod:in	
-29	gi	reeds	NNS	23	nmod:in	
-30	du3-a	erected	VBD	29	acl	
-31	1(u)	_	_	0	nummod	
-32	1(disz)	_	_	31	nummod	
-33	gurusz	male laborers	NNS	30	dobj	
-34	ma2	barge	NN	42	nsubj	
-35	zi3-da	with flour	NN	34	nmod:with	
-36	an-na	_	_	0	_	
-37	i3	oil	NN	35	conj	
-38	ku6-ta	fish from	NN	35	appos	
-39	ka	the mouth	NN	38	nmod:from	
-40	i7-da	canal	NN	39	compound	
-41	gurusz-gin7-du-sze3	punted	VBN	39	acl	
-42	<gid2-da>	transfered over	VBD	33	acl:relcl	
-43	u3	and	CC	41	cc	
-44	ma2	barge	NN	41	conj	
-45	bala	_	_	0	_	
-46	ak	_	_	0	_	
-47	umma{ki}-ta	out Umma	IN	50	nmod:out	
-48	gu2	_	_	0	_	
-49	x-sze3	to delivery	TO	42	nmod:to	
-50	nig2-gu2-na	load	NN	42	nmod:out.of	
-51	bala	transfer	NN	52	nmod:of	
-52	ga6-ga2	carried	VBD	42	acl:relcl	
-53	x-x-la	_	IN	50	nmod:of	
-54	kiszib3	under seal	NN	48	nmod:under	
-55	lu2-kal-la	Lukalla	NNP	54	nmod:of	
-56	mu	year	NN	52	_	
-57	{d}szu-{d}suen	Szu-Suen	JJ	58	amod	
-58	lugal	king	NN	56	_	
-59	lu2-kal-la	Lu-kalla	NN	7	dobj	
-60	dub-sar	scribe	NN	59	conj	
-61	dumu	son	NN	59	appos	
-62	ur-nigar{gar}	Ur-nigar	JJ	63	amod	
-63	szusz3	cattle manager	NN	61	nmod:of
+1	4(u)	4(u)[ten]	NU	NU	3	nummod	_	
+2	5(disz)	5(disz)[one]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	7	ERG	projectivity violation	
+4	u4	ud[day]	N	N	1	DAT	_	
+5	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	7	nummod	heuristic: NU premodifying	
+6	x	_[_]	N	N	7	dep	heuristic: before verbal head	
+7	ga6-ga2	gag[carry]-a	V	NF.V.PT	0	root	_	
+8	n	_(_)[_]	NU	NU	7	nummod	_	
+9	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+10	5(disz)	5(disz)[one]	NU	NU	9	nummod	_	
+11	gurusz	gurusz[male]	N	N	12	acl	_	
+12	ninda	ninda[bread]	N	N	13	ABS	_	
+13	ga6-ga2	gag[carry]-a	V	NF.V.PT	7	parataxis	_	
+14	n	_(_)[_]	NU	NU	7	nummod	_	
+15	7(disz)	7(disz)[one][-sze]	NU	NU	18	nummod	heuristic: NU premodifying	
+16	gurusz	gurusz[male]	N	N	18	ERG	_	
+17	in-bul5-bul5	_[-straw]	PN	PN	18	acl	_	
+18	ga6-ga2	gag[carry]-a	V	NF.V.PT	7	parataxis	_	
+19	n	_(_)[_]	NU	NU	18	nummod	_	
+20	1(disz)	1(disz)[one]	NU	NU	21	nummod	heuristic: NU premodifying	
+21	gurusz	gurusz[male]	N	N	18	ABS	_	
+22	mun-gazi	_[condiments]	N	N	23	ERG	_	
+23	ga6-ga2	gag[carry]-a	V	NF.V.PT	21	acl	_	
+24	n	_(_)[_]	NU	NU	23	nummod	_	
+25	2(u)	2(u)[ten]	NU	NU	30	nummod	projectivity violation	
+26	1(disz)	1(disz)[one]	NU	NU	33	nummod	projectivity violation	
+27	gurusz	gurusz[male]	N	N	23	ABS	_	
+28	ma2-a	ma[ship]-'a	N	N.L1	29	LOC	_	
+29	gi	gi[reed][-ø]	N	N	23	LOC	_	
+30	du3-a	du[build]-a	V	NF.V.PT	29	acl	_	
+31	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+32	1(disz)	1(disz)[one]	NU	NU	31	nummod	_	
+33	gurusz	gurusz[male]	N	N	30	ABS	_	
+34	ma2	ma[ship]	N	N	42	ABS	projectivity violation	
+35	zi3-da	zid[flour]-ak[-ø]	N	N.GEN	34	COM	_	
+36	an-na	An[1][-ak][-ak][sze]	PN	DN.GEN	35	_	heuristic: attach to last	
+37	i3	i[oil]	N	N	35	appos	_	
+38	ku6-ta	_[fish.from]	N	N	35	appos	_	
+39	ka	kag[mouth]	N	N	38	ABL	_	
+40	i7-da	_[canal]	N	N.GEN	39	appos	_	
+41	gurusz-gin7-du-sze3	_[punted]	N	N	39	acl	_	
+42	<gid2-da>	gid[lengthen]-a[-ø]	V	NF.V.PT	33	acl	projectivity violation	
+43	u3	u[and]	CNJ	CNJ	41	appos	projectivity violation	
+44	ma2	ma[ship]	N	N	41	appos	projectivity violation	
+45	bala	bala[turn][-'a]	N	N.L1	44	_	heuristic: attach to last	
+46	ak	ak[excavate][-a][-ak]	V	NF.V.PT	45	_	heuristic: attach to last	
+47	umma{ki}-ta	Umma[1][-ak]-ta	SN	SN.GEN.ABL	50	ABL	projectivity violation	
+48	gu2	gun[unit]	N	N	0	_	_	
+49	x-sze3	_[to.delivery]	PN	PN.GEN.TERM	42	LOC	projectivity violation	
+50	nig2-gu2-na	_[load]	N	N.GEN	42	ABL	projectivity violation	
+51	bala	bala[turn][-'a]	N	N.L1	52	GEN	_	
+52	ga6-ga2	gag[carry]-a	V	NF.V.PT	42	acl	projectivity violation	
+53	x-x-la	_	PN	PN	50	GEN	projectivity violation	
+54	kiszib3	kiszib[seal]	N	N	48	LOC	projectivity violation	
+55	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	54	GEN	_	
+56	mu	mu[year]	N	N	52	appos	_	
+57	{d}szu-{d}suen	Szusuen[1]	RN	RN	58	acl	_	
+58	lugal	lugal[king]	N	N	56	appos	_	
+59	lu2-kal-la	Lukala[1][-ra]	PN	PN.GEN	7	ABS	_	
+60	dub-sar	dubsar[scribe]	N	N	59	appos	_	
+61	dumu	dumu[child]	N	N	59	appos	_	
+62	ur-nigar{gar}	Urnigar[1]	PN	PN	63	acl	_	
+63	szusz3	kusz[cattle_manager][-ak]	N	N.GEN	61	GEN	_
 	
 

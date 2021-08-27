@@ -1,41 +1,40 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P416434.atf
-						
-
 # tr.en: sheep barley-fed of Szulgi- lamb of Szarru- male calf of a gazelle of Ibni-Szulgi the th day delivery for king Intaea accepted via Nr-Suen month Harvest year after Szu-Sin king Simanum destroyed small cattle gazelle
-1	4(disz)	_	,	2	nummod	
-2	udu	sheep	NN	0	root	
-3	niga	barley-fed	JJ	2	amod	
-4	1(disz)	_	_	0	nummod	
-5	...	_	_	0	dep	
-6	{d}szul-gi-...	Szulgi-	NN	2	nmod:of	
-7	1(disz)	_	:	2	nummod	
-8	sila4	lamb	NN	2	_	
-9	szar-ru-...	Szarru-	NN	8	nmod:of	
-10	1(disz)	_	_	0	nummod	
-11	amar	calf	NN	2	_	
-12	masz-da3	gazelle	NN	11	nmod:of	
-13	nita2	male a	NN	11	compound	
-14	ib-ni-{d}szul-gi	of Ibni-Szulgi	NNP	12	nmod:of	
-15	u4	the th day	NN	2	_	
-16	2(u)	_	,	15	nummod	
-17	8(disz)-kam	_	_	16	nummod	
-18	mu-kux(DU)	delivery	NN	15	appos	
-19	lugal	king	NN	18	nmod:for	
-20	in-ta-e3-a	Intaea	NN	15	appos	
-21	i3-dab5	accepted	VBN	15	acl	
-22	giri3	via	IN	23	nmod:via	
-23	nu-ur2-{d}suen	Nr-Suen	NNP	2	nmod:via	
-24	iti	month	NN	25	compound	
-25	sze-sag11-ku5	Harvest	NNP	2	_	
-26	mu	year	NN	25	advmod	
-27	us2-sa	after	IN	26	nmod:after	
-28	{d}szu-{d}suen	Szu-Sin	NN	25	_	
-29	lugal-e	king	NN	28	appos	
-30	si-ma-num2{ki}	Simanum	NN	31	nsubj	
-31	mu-hul	destroyed	VBD	28	acl:relcl	
-32	6(disz)	_	.	2	nummod	
-33	udu	small	JJ	35	amod	
-34	1(disz)	_	_	0	nummod	
-35	masz-da3	cattle gazelle	NNS	25	_
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	1(disz)	1(disz)[one]	NU	NU	6	nummod	heuristic: NU premodifying	
+5	...	_[_]	PN	N	4	dep	heuristic: attach to last	
+6	{d}szul-gi-...	_[Szulgi-]	PN	PN.GEN	2	GEN	_	
+7	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+8	sila4	sila[lamb]	N	N	2	appos	_	
+9	szar-ru-...	_[Szarru-]	PN	PN.DAT-H	8	GEN	_	
+10	1(disz)	1(disz)[one]	NU	NU	11	nummod	heuristic: NU premodifying	
+11	amar	amar[calf][-ak]	N	N	2	appos	_	
+12	masz-da3	maszda[gazelle][-ø]	N	N	11	GEN	_	
+13	nita2	_[male.a]	N	N	11	appos	projectivity violation	
+14	ib-ni-{d}szul-gi	Ibniszulgir[1]	PN	PN	12	GEN	_	
+15	u4	ud[day]	N	N	2	appos	_	
+16	2(u)	2(u)[ten]	NU	NU	15	nummod	_	
+17	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	16	nummod	_	
+18	mu-kux(DU)	mukur[delivery][-ø]	N	N	15	appos	_	
+19	lugal	lugal[king]	N	N	18	DAT	_	
+20	in-ta-e3-a	Inta'e'a[1][-e]	PN	PN.ERG	15	appos	_	
+21	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	15	acl	_	
+22	giri3	giri[foot]	N	N	23	via	_	
+23	nu-ur2-{d}suen	_[Nr-Suen]	PN	PN	2	via	_	
+24	iti	iti[month]	N	N	25	nmod	_	
+25	sze-sag11-ku5	Szesagku[1][-'a]	MN	MN.L1	2	appos	_	
+26	mu	mu[year]	N	N	25	_	_	
+27	us2-sa	us[follow]-a	V	NF.V.PT	26	acl	_	
+28	{d}szu-{d}suen	Szusuen[1]	RN	RN	25	appos	_	
+29	lugal-e	lugal[king]-e	N	N.ERG	28	appos	_	
+30	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	31	ABS	_	
+31	mu-hul	mu[-n]-hulu[destroy][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	28	acl	_	
+32	6(disz)	6(disz)[one][-sze]	NU	NU	2	nummod	projectivity violation	
+33	udu	udu[sheep]	N	N	35	acl	_	
+34	1(disz)	1(disz)[one]	NU	NU	35	nummod	heuristic: NU premodifying	
+35	masz-da3	maszda[gazelle][-ø]	N	N	25	appos	_
 	
 

@@ -1,41 +1,40 @@
-# train/P416447.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: long-fleeced sheep Lugal-magure Uta-miaram responsible official bear cubs for Euzga house Ayakala responsible official ox Szimakian sheep for Ur-Ningubalag cantor from deliveries the th day from Abbasaga month Grand Festival year en-priest of Inanna was hired
-1	5(disz)	_	_	0	nummod	
-2	udu	sheep	NN	4	compound	
-3	a-lum	long-fleeced	JJ	4	amod	
-4	lugal-ma2-gur8-re	Lugal-magure	NN	0	root	
-5	u2-ta2-mi-szar-ra-am	Uta-miaram	NN	4	appos	
-6	maszkim	responsible official	NN	4	appos	
-7	2(disz)	_	_	0	nummod	
-8	amar	_	_	0	_	
-9	az	bear cubs	NNS	4	_	
-10	e2-uz-ga	for Euzga house	NN	9	nmod:for	
-11	a-a-kal-la	Ayakala	NNP	9	appos	
-12	maszkim	responsible official	NN	9	appos	
-13	1(disz)	_	,	14	nummod	
-14	gu4	ox	NN	9	conj	
-15	1(u)	_	_	0	nummod	
-16	udu	sheep	NN	14	appos	
-17	szimaszgi	Szimakian	JJ	16	amod	
-18	ur-{d}nin-gubalag	for Ur-Ningubalag	NNP	14	nmod:for	
-19	nar	cantor	NN	14	appos	
-20	sza3	_	,	21	_	
-21	mu-kux(DU)-ra-ta	from deliveries	NNS	14	nmod:from	
-22	u4	the th day	NN	21	appos	
-23	1(u)	_	,	21	nummod	
-24	la2	_	_	23	_	
-25	1(disz@t)-kam	_	_	24	nummod	
-26	ki	from	IN	27	nmod:from	
-27	ab-ba-sa6-ga-ta	Abbasaga	NNP	21	nmod:from	
-28	iti	month	NN	29	compound	
-29	ezem-mah	Grand Festival	NNP	9	conj	
-30	mu	year	NN	29	_	
-31	en	en-priest	NN	34	nsubjpass	
-32	{d}inanna	Inanna	NNP	31	nmod:of	
-33	ba-hun	was hired	VBD	34	auxpass	
-34	1(u)	was hired	VBN	29	nummod	
-35	8(disz)	_	IN	32	nummod
+# train/P416447.atf
+1	5(disz)	5(disz)[one]	NU	NU	0	nummod	_	
+2	udu	udu[sheep]	N	N	4	nmod	_	
+3	a-lum	aslum[sheep_type]	N	N	4	acl	_	
+4	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	0	root	_	
+5	u2-ta2-mi-szar-ra-am	Utamiszaram[1][-ak]	PN	PN.GEN	4	appos	_	
+6	maszkim	maszkim[administrator]	N	N.ABS	4	appos	_	
+7	2(disz)	2(disz)[one]	NU	NU	9	nummod	heuristic: NU premodifying	
+8	amar	amar[calf][-ak]	N	N	7	_	heuristic: attach to last	
+9	az	_[bear.cubs]	N	N.GEN	4	appos	_	
+10	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	9	TERM	_	
+11	a-a-kal-la	Ayakala[1]	PN	PN	9	appos	_	
+12	maszkim	maszkim[administrator]	N	N.ABS	9	appos	_	
+13	1(disz)	1(disz)[one]	NU	NU	14	nummod	_	
+14	gu4	gud[ox]	N	N	9	appos	_	
+15	1(u)	1(u)[ten]	NU	NU	16	nummod	heuristic: NU premodifying	
+16	udu	udu[sheep]	N	N	14	appos	_	
+17	szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	16	acl	_	
+18	ur-{d}nin-gubalag	_[for.Ur-Ningubalag]	PN	PN	14	DAT	_	
+19	nar	_[cantor]	N	N	14	appos	_	
+20	sza3	szag[heart]	N	N	21	_	_	
+21	mu-kux(DU)-ra-ta	_[from.deliveries]	N	N	14	ABL	_	
+22	u4	ud[day]	N	N	21	appos	_	
+23	1(u)	1(u)[ten]	NU	NU	21	nummod	_	
+24	la2	la[hang][-ø]	V	NF.V.ABS	23	_	_	
+25	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	24	nummod	_	
+26	ki	ki[place]	N	N	27	ABL	_	
+27	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	21	ABL	_	
+28	iti	iti[month]	N	N	29	nmod	_	
+29	ezem-mah	Ezemmah[1][-'a]	MN	MN.L1	9	appos	_	
+30	mu	mu[year]	N	N	29	appos	_	
+31	en	en[priest]	N	N	34	ABS	projectivity violation	
+32	{d}inanna	Inanna[1][-ak]	DN	DN	31	GEN	_	
+33	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	34	acl	_	
+34	1(u)	1(u)[ten]	NU	NU	29	nummod	projectivity violation	
+35	8(disz)	8(disz)[one]	NU	NU	32	nummod	_
 	
 

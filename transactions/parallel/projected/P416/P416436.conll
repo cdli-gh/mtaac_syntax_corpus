@@ -1,50 +1,49 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P416436.atf
-						
-
 # tr.en: oxen barley-fed breeding bull barley-fed cows barley-fed sheep barley-fed of good quality sheep barley-fed long-fleeced sheep sheep lambs beer-pouring of Nunida n lambs Ziqur-il delivery Nasa accepted month Mekigal Festival year after Kima was destroyed th day
-1	5(u)	_	,	3	nummod	
-2	6(disz)	_	CD	7	nummod	
-3	gu4	oxen	NN	0	root	
-4	niga	barley-fed	JJ	3	amod	
-5	1(disz)	_	,	7	nummod	
-6	gu4	_	CD	10	nummod	
-7	gesz-du3	breeding bull	NN	3	appos	
-8	niga	barley-fed	JJ	7	amod	
-9	3(disz)	_	,	7	nummod	
-10	ab2	cows	NNS	7	conj	
-11	niga	barley-fed	JJ	7	conj	
-12	1(u)	_	,	7	nummod	
-13	5(disz)	_	CD	19	nummod	
-14	udu	sheep	NN	7	conj	
-15	niga	barley-fed	JJ	7	amod	
-16	saga	good quality	NN	7	nmod:of	
-17	4(u)	_	,	7	nummod	
-18	5(disz)	_	CD	22	nummod	
-19	udu	sheep	NN	7	conj	
-20	niga	barley-fed	JJ	7	conj	
-21	2(gesz2)	_	,	7	nummod	
-22	udu	sheep	NN	7	conj	
-23	a-lum	long-fleeced	JJ	22	amod	
-24	7(gesz2)	_	,	7	nummod	
-25	udu	sheep	NN	7	conj	
-26	1(gesz2)	_	``	28	nummod	
-27	sila4	lambs	NNS	7	conj	
-28	kasz-de2-a	beer-pouring	NN	7	appos	
-29	nu-ni-da	Nunida	NNP	28	nmod:of	
-30	n	_	:	3	_	
-31	sila4	lambs	NNS	3	_	
-32	zi-qur2-i3-li2	Ziqur-il	NN	31	appos	
-33	mu-kux(DU)	delivery	NN	31	_	
-34	na-sa6	Nasa	NNP	35	nsubj	
-35	i3-dab5	accepted	VBD	33	acl:relcl	
-36	iti	month	NN	35	nmod:tmod	
-37	ezem-me-ki-gal2	Mekigal Festival	NNP	36	_	
-38	mu	year	NN	36	_	
-39	us2-sa	after	IN	38	advmod	
-40	ki-masz{ki}	_	:	33	_	
-41	ba-hul	was destroyed	VBN	33	parataxis	
-42	u4	_	''	41	_	
-43	2(u)	_	.	3	nummod	
-44	5(disz)-kam	_	_	43	nummod
+1	5(u)	5(u)[ten]	NU	NU	3	nummod	projectivity violation	
+2	6(disz)	6(disz)[one][-sze]	NU	NU	7	nummod	projectivity violation	
+3	gu4	gud[ox]	N	N	0	root	_	
+4	niga	niga[fattened][-ø]	V	NF.V.ABS	3	acl	_	
+5	1(disz)	1(disz)[one]	NU	NU	7	nummod	projectivity violation	
+6	gu4	gud[ox]	N	N	10	nummod	projectivity violation	
+7	gesz-du3	geszdu[breeding_stock][-ø]	PN	N.ABS	3	appos	_	
+8	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+9	3(disz)	3(disz)[one]	NU	NU	7	nummod	_	
+10	ab2	ab[cow][-ø]	N	N	7	appos	_	
+11	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+12	1(u)	1(u)[ten]	NU	NU	7	nummod	_	
+13	5(disz)	5(disz)[one]	NU	NU	19	nummod	projectivity violation	
+14	udu	udu[sheep]	N	N	7	appos	_	
+15	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+16	saga	saga[good][-ø]	V	NF.V.ABS	7	acl	_	
+17	4(u)	4(u)[ten]	NU	NU	7	nummod	_	
+18	5(disz)	5(disz)[one]	NU	NU	22	nummod	projectivity violation	
+19	udu	udu[sheep]	N	N	7	appos	_	
+20	niga	niga[fattened][-ø]	V	NF.V.ABS	7	acl	_	
+21	2(gesz2)	2(gesz)[sixty]	NU	NU	7	nummod	_	
+22	udu	udu[sheep]	N	N	7	appos	_	
+23	a-lum	aslum[sheep_type]	N	N	22	acl	_	
+24	7(gesz2)	7(gesz)[sixty]	NU	NU	7	nummod	_	
+25	udu	udu[sheep]	N	N	7	appos	_	
+26	1(gesz2)	1(gesz)[sixty]	NU	NU	28	nummod	projectivity violation	
+27	sila4	sila[lamb]	N	N	7	appos	_	
+28	kasz-de2-a	kaszdea[banquet][-sze]	N	N	7	appos	_	
+29	nu-ni-da	_[Nunida]	PN	PN	28	GEN	_	
+30	n	_(_)[_]	NU	NU	3	nummod	_	
+31	sila4	sila[lamb]	N	N	3	appos	_	
+32	zi-qur2-i3-li2	_[Ziqur-il]	PN	PN	31	appos	_	
+33	mu-kux(DU)	mukur[delivery][-ø]	N	N	31	appos	_	
+34	na-sa6	Nasa[1][-e]	PN	PN.ERG	35	ABS	_	
+35	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	33	acl	_	
+36	iti	iti[month]	N	N	35	date	_	
+37	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	36	appos	_	
+38	mu	mu[year]	N	N	36	appos	_	
+39	us2-sa	us[follow]-a	V	NF.V.PT	38	acl	_	
+40	ki-masz{ki}	Kimasz[1]	SN	SN.ABS	33	appos	_	
+41	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	33	acl	_	
+42	u4	ud[day]	N	N	41	appos	_	
+43	2(u)	2(u)[ten]	NU	NU	3	nummod	_	
+44	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	43	nummod	_
 	
 

@@ -1,60 +1,57 @@
-# train/P416416.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416416.atf new_text=P416416
+# train/P416416.atf						#new_text=P416416
 # tr.en: bundles of of hazel wood patium-container made of oak with silver inlay with a bronze handle foot-stool of akal-wood foot-stool of poplar chairs made of tamarisk long chair bed of fig-tree wood bed of akal-wood bed of apple-tree wood
-1	'.	_	,	8	_	
-2	...	_	:	8	dep	
-3	zu	_	_	0	_	
-4	'.	_	_	0	_	
-5	2(disz)	_	_	0	nummod	
-6	nigin2	bundles of	NNS	0	root	
-7	{gesz}ilar	hazel	NN	8	compound	
-8	al-la-num2	wood	NN	54	nmod:of	
-9	'.	_	CD	10	nummod	
-10	2(disz)	_	NN	19	nummod	
-11	...-gu4	_	_	0	_	
-12	nu-kusz2	_	_	0	_	
-13	'.	_	_	0	_	
-14	1(disz)	_	_	0	nummod	
-15	{gesz}pa4-ti-um	patium-container oak	NN	8	_	
-16	ha-lu-ub2	made	VBN	15	acl	
-17	ma-ba	with	IN	19	nmod:with	
-18	ku3	silver	NN	19	compound	
-19	{ga2}gar	inlay	NN	16	nmod:with	
-20	'.	_	,	19	_	
-21	1(disz)	_	CD	26	nummod	
-22	{gesz}sig	with	IN	23	nmod:with	
-23	szu{zabar}	a bronze handle	NN	10	nmod:with	
-24	'.	_	,	19	_	
-25	1(disz)	_	CD	30	nummod	
-26	{gesz}giri3-gub	foot-stool	NN	19	appos	
-27	sza3-kal	akal-wood	NN	26	nmod:of	
-28	'.	_	CD	34	nummod	
-29	1(disz)	_	NN	34	nummod	
-30	{gesz}giri3-gub	foot-stool	NN	19	appos	
-31	{gesz}asal2	poplar	NN	30	nmod:of	
-32	'.	_	,	19	_	
-33	2(disz)	_	CD	38	nummod	
-34	{gesz}gu-za-nin	chairs made	NNS	19	appos	
-35	{gesz}szinig	tamarisk	NN	34	nmod:of	
-36	'.	_	,	19	_	
-37	1(disz)	_	CD	42	nummod	
-38	{gesz}gu-za	chair	NN	19	appos	
-39	gid2-da	long	JJ	38	amod	
-40	'.	_	,	19	_	
-41	1(disz)	_	CD	46	nummod	
-42	{gesz}na2	bed fig-tree	NN	19	appos	
-43	{gesz}pesz3	wood	NN	42	nmod:of	
-44	'.	_	,	19	_	
-45	1(disz)	_	CD	50	nummod	
-46	{gesz}na2	bed	NN	19	appos	
-47	{gesz}sza3-kal	akal-wood	NN	46	nmod:of	
-48	'.	_	.	6	_	
-49	1(disz)	_	_	0	nummod	
-50	{gesz}na2	bed	NN	19	appos	
-51	{gesz}haszhur	apple-tree wood	NN	50	nmod:of	
-52	 	_	NN	0	root	
-53	 	_	NN	52	appos	
-54	 	_	NN	53	nmod:of
+1	'.	SEGM	XPOSTAG	XPOSTAG	8	_	_	
+10	2(disz)	2(disz)[one]	NU	NU	19	nummod	projectivity violation	
+11	...-gu4	_	PN	PN	8	_	heuristic: after nominal head; projectivity violation	
+12	nu-kusz2	_	V	V	8	_	heuristic: after nominal head; projectivity violation	
+13	'.	_	_	_	8	_	heuristic: after nominal head; projectivity violation	
+14	1(disz)	1(disz)[one]	NU	NU	15	nummod	heuristic: NU premodifying	
+15	{gesz}pa4-ti-um	_[patium-container.oak]	N	N	8	appos	projectivity violation	
+16	ha-lu-ub2	_[made]	V	V	15	acl	_	
+17	ma-ba	_[with]	PN	PN.GEN.ABS	19	COM	_	
+18	ku3	kug[silver]	N	N	19	nmod	_	
+19	{ga2}gar	gar[place][-a]	V	NF.V.PT	16	COM	_	
+2	...	_[_]	PN	N	8	dep	_	
+20	'.	_	_	_	19	_	_	
+21	1(disz)	1(disz)[one]	NU	NU	26	nummod	projectivity violation	
+22	{gesz}sig	_[with]	N	N	23	COM	_	
+23	szu{zabar}	_[a.bronze.handle]	N	N	10	COM	projectivity violation	
+24	'.	_	_	_	19	_	_	
+25	1(disz)	1(disz)[one]	NU	NU	30	nummod	projectivity violation	
+26	{gesz}giri3-gub	_[foot-stool]	N	N	19	appos	_	
+27	sza3-kal	_[akal-wood]	N	N	26	GEN	_	
+28	'.	_	NU	NU	34	nummod	projectivity violation	
+29	1(disz)	1(disz)[one]	NU	NU	34	nummod	projectivity violation	
+3	zu	_	V	V	2	_	heuristic: after nominal	
+30	{gesz}giri3-gub	_[foot-stool]	N	N	19	appos	_	
+31	{gesz}asal2	_[poplar]	N	N	30	GEN	_	
+32	'.	_	_	_	19	_	_	
+33	2(disz)	2(disz)[one]	NU	NU	38	nummod	projectivity violation	
+34	{gesz}gu-za-nin	_[chairs.made]	N	N.3-SG-H-POSS.ABL	19	appos	_	
+35	{gesz}szinig	_[tamarisk]	FN	FN	34	GEN	_	
+36	'.	_	_	_	19	_	_	
+37	1(disz)	1(disz)[one]	NU	NU	42	nummod	projectivity violation	
+38	{gesz}gu-za	guza[chair]	N	N	19	appos	_	
+39	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	38	acl	_	
+4	'.	_	_	_	2	_	heuristic: after nominal	
+40	'.	_	_	_	19	_	_	
+41	1(disz)	1(disz)[one]	NU	NU	46	nummod	projectivity violation	
+42	{gesz}na2	nu[night_bird]	N	N	19	appos	_	
+43	{gesz}pesz3	pesz[fig]	N	N	42	GEN	_	
+44	'.	_	_	_	19	_	_	
+45	1(disz)	1(disz)[one]	NU	NU	50	nummod	projectivity violation	
+46	{gesz}na2	nu[night_bird]	N	N	19	appos	_	
+47	{gesz}sza3-kal	_[akal-wood]	N	N.GEN.DAT-H	46	GEN	_	
+48	'.	_	_	_	50	_	heuristic: attach to head	
+49	1(disz)	1(disz)[one]	NU	NU	50	nummod	heuristic: NU premodifying	
+5	2(disz)	2(disz)[one]	NU	NU	8	nummod	heuristic: NU premodifying; projectivity violation	
+50	{gesz}na2	nu[night_bird]	N	N	19	appos	_	
+51	{gesz}haszhur	_[apple-tree.wood]	N	N	50	GEN	_
 	
+6	nigin2	nigin[bundle]	N	N	2	root	heuristic: after nominal	
+7	{gesz}ilar	_[hazel]	N	N	8	nmod	_	
+8	al-la-num2	_[wood]	PN	PN	54	GEN	_	
+9	'.	_	NU	NU	10	nummod	_	
 

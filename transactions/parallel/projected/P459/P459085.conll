@@ -1,49 +1,48 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P459085.atf
-						
-
 # tr.en: n jugs of good quality wort each ban n jugs of ordinary wort each ban ban good quality pea-flour barig semolina barig dates rams billy sila good sesame oil sila sesame oil gurdub Nui-ilum of Elam received month Dumuzi year after Szu-Suen king Amorite wall erected
-1	n	n	CD	2	nummod	
-2	dug	jugs	NNS	0	root	
-3	dida	wort	NN	2	nmod:of	
-4	saga	good quality	JJ	3	amod	
-5	2(ban2)	each ban	NN	34	nummod	
-6	n	_	,	5	_	
-7	dug	jugs	NNS	5	appos	
-8	dida	wort	NN	7	nmod:of	
-9	du	ordinary	JJ	8	amod	
-10	3(ban2)	each ban	NN	5	nummod	
-11	2(ban2)	ban	NN	12	nummod	
-12	zi3-gu	good pea-flour	NN	5	conj	
-13	saga	quality	NN	12	compound	
-14	2(barig)	barig	NN	15	nummod	
-15	dabin	semolina	NNP	5	conj	
-16	1(barig)	_	,	5	nummod	
-17	zu2-lum	barig dates	NNS	5	conj	
-18	2(disz)	_	,	5	nummod	
-19	udu	rams	NNS	5	conj	
-20	1(disz)	_	CD	24	nummod	
-21	masz2	billy	RB	5	conj	
-22	1(disz)	_	,	5	nummod	
-23	sila3	sila	NN	24	compound	
-24	i3-gesz	sesame oil	NN	5	conj	
-25	du10-ga	good	JJ	24	amod	
-26	5(disz)	_	,	5	nummod	
-27	sila3	sila	NN	28	compound	
-28	i3-gesz	sesame oil	NN	5	conj	
-29	3(disz)	_	,	5	nummod	
-30	{gi}gur-dub	gurdub	NN	5	conj	
-31	nu-hi-lum	Nui-ilum	NN	5	appos	
-32	elam	Elam	NNP	31	nmod:of	
-33	szu	_	:	34	_	
-34	ba-ti	received	VBD	2	acl:relcl	
-35	iti	month	NN	34	nmod:tmod	
-36	{d}dumu-zi	Dumuzi	NNP	35	_	
-37	mu	year	NN	35	_	
-38	us2-sa	after	IN	37	advmod	
-39	{d}szu-{d}suen	Szu-Suen	NNP	2	_	
-40	lugal-e	king	NN	39	appos	
-41	bad3	_	.	2	_	
-42	mar-tu	Amorite wall	NN	43	nsubj	
-43	mu-du3	erected	VBD	39	acl:relcl
+1	n	_(_)[_]	NU	NU	2	nummod	_	
+2	dug	dug[pot]	N	N	0	root	_	
+3	dida	dida[sweet_wort]	N	N	2	GEN	_	
+4	saga	saga[good][-ø]	V	NF.V.ABS	3	acl	_	
+5	2(ban2)	2(ban)[unit]	NU	N	34	nummod	_	
+6	n	_(_)[_]	NU	NU	5	nummod	_	
+7	dug	dug[pot]	N	N	5	appos	_	
+8	dida	dida[sweet_wort]	N	N	7	GEN	_	
+9	du	gin[quality_designation][-ø]	V	NF.V.ABS	8	acl	_	
+10	3(ban2)	3(ban)[unit]	NU	N	5	nummod	_	
+11	2(ban2)	2(ban)[unit]	NU	N	12	nummod	_	
+12	zi3-gu	zidgu[flour_type]	N	N	5	appos	_	
+13	saga	saga[good][-ø]	V	NF.V.ABS	12	acl	_	
+14	2(barig)	2(bariga)[unit]	NU	N	15	nummod	_	
+15	dabin	dabin[semolina]	N	N	5	appos	_	
+16	1(barig)	1(bariga)[unit]	NU	N	5	nummod	_	
+17	zu2-lum	zulum[date]	N	N	5	appos	_	
+18	2(disz)	2(disz)[one]	NU	NU	5	nummod	_	
+19	udu	udu[sheep]	N	N	5	appos	_	
+20	1(disz)	1(disz)[one]	NU	NU	24	nummod	projectivity violation	
+21	masz2	masz[goat]	N	N	5	appos	_	
+22	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+23	sila3	sila[unit]	N	N	24	nmod	_	
+24	i3-gesz	igesz[oil]	V	N	5	acl	_	
+25	du10-ga	dug[good]-a	V	NF.V.PT	24	acl	_	
+26	5(disz)	5(disz)[one]	NU	NU	5	nummod	_	
+27	sila3	sila[unit]	N	N	28	nmod	_	
+28	i3-gesz	igesz[oil]	V	N	5	acl	_	
+29	3(disz)	3(disz)[one]	NU	NU	5	nummod	_	
+30	{gi}gur-dub	gurdub[basket_type]	N	N	5	appos	_	
+31	nu-hi-lum	Nuhilum[1]	PN	PN	5	appos	_	
+32	elam	Elam[1][-ak]	EN	GN.GEN	31	GEN	_	
+33	szu	szu[hand][-e]	N	N.L3-NH	34	_	_	
+34	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	2	acl	_	
+35	iti	iti[month]	N	N	34	date	_	
+36	{d}dumu-zi	Dumuzi[1][-'a]	MN	MN.L1	35	appos	_	
+37	mu	mu[year]	N	N	35	appos	_	
+38	us2-sa	us[follow]-a	V	NF.V.PT	37	acl	_	
+39	{d}szu-{d}suen	Szusuen[1]	RN	RN	2	appos	_	
+40	lugal-e	lugal[king]-e	N	N.ERG	39	appos	_	
+41	bad3	bad[wall]	N	N	2	appos	projectivity violation	
+42	mar-tu	Martu[1][-ø]	EN	EN.ABS	43	ABS	_	
+43	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	39	acl	_
 	
 

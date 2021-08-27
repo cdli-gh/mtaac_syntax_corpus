@@ -1,114 +1,89 @@
-# train/P235698.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P235698.atf						#new_text=P235698
 # tr.en: Lugal-hamati Lugal-kala Ahuuni Inimanizi Dingirmahe-izu Ur-Ninsu Lu-gula Namzitara Lu-saga Dingir-saga are foremen of runners sila fine beer sila ninda shekels oil shekels naga shekels onions each sila beer sila ninda Ur-Nane sila beer sila ninda Lu-bala-saga Together sila fine beer together regular beer together sila ninda of sig-flour together sila ninda together sila shekels of oil together sila shekels of naga together sila shekels of onions xnd day month Flight Year en of Inanna was chosen by means of omens
-1	1(disz)	_	CD	8	nummod	
-2	x	_	_	0	dep	
-3	x	_	_	0	dep	
-4	x	_	_	0	dep	
-5	1(disz)	_	_	0	nummod	
-6	lugal-ha-ma-ti	Lugal-hamati	NN	108	_	
-7	1(disz)	_	CD	12	nummod	
-8	lugal-kal-la	Lugal-kala	NN	6	_	
-9	1(disz)	_	CD	12	nummod	
-10	a-hu-szu-ni	Ahuuni	NNP	12	compound	
-11	1(disz)	_	CD	14	nummod	
-12	inim-ma-ni-zi	Inimanizi	NNP	8	_	
-13	1(disz)	_	CD	16	nummod	
-14	dingir-mah-e-i3-zu	Dingirmahe-izu	NN	12	_	
-15	1(disz)	_	CD	18	nummod	
-16	ur-{d}nin-su	Ur-Ninsu	NN	14	_	
-17	1(disz)	_	CD	20	nummod	
-18	lu2-gu-la	Lu-gula	NN	16	_	
-19	1(disz)	_	CD	22	nummod	
-20	nam-zi-tar-ra	Namzitara	NN	18	_	
-21	1(disz)	_	CD	24	nummod	
-22	lu2-sa6-ga	Lu-saga	NN	20	_	
-23	1(disz)	_	.	26	nummod	
-24	dingir-saga	Dingir-saga	NN	22	_	
-25	lu2	_	LS	26	_	
-26	ugula	foremen	NNS	0	root	
-27	kas4-me-esz2	are runners	VBP	26	cop	
-28	3(disz)	_	.	43	nummod	
-29	sila3	sila	NN	30	compound	
-30	kasz	beer	NN	25	dobj	
-31	saga	fine	JJ	30	amod	
-32	2(disz)	_	CD	46	nummod	
-33	sila3	sila	NN	34	compound	
-34	ninda	ninda	NN	30	conj	
-35	3(disz)	_	_	0	nummod	
-36	gin2	shekels	NNS	37	compound	
-37	i3	oil	NN	30	conj	
-38	2(disz)	_	_	0	nummod	
-39	gin2	shekels	NNS	30	appos	
-40	naga	naga	NN	39	_	
-41	5(disz)	_	_	0	nummod	
-42	gin2	shekels	NNS	40	appos	
-43	szum2-ta	onions each	NNS	42	_	
-44	5(disz)	_	CD	53	nummod	
-45	sila3	sila	NN	46	compound	
-46	kasz	beer	NN	43	_	
-47	5(disz)	_	_	0	nummod	
-48	sila3	sila	NN	49	compound	
-49	ninda	ninda	NN	46	appos	
-50	ur-{d}nansze	Ur-Nane	NNP	53	compound	
-51	5(disz)	_	_	0	nummod	
-52	sila3	sila	NN	53	compound	
-53	kasz	beer	NN	46	_	
-54	5(disz)	_	_	0	nummod	
-55	sila3	sila	NN	56	compound	
-56	ninda	ninda	NN	53	appos	
-57	lu2-bala-saga	Lu-bala-saga	NN	53	_	
-58	szunigin	Together	RB	57	advmod	
-59	3(ban2)	_	,	57	nummod	
-60	3(disz)	_	_	59	nummod	
-61	sila3	sila	NN	62	compound	
-62	kasz	beer	NN	57	_	
-63	saga	fine	JJ	62	amod	
-64	szunigin	together	RB	57	advmod	
-65	1(ban2)	_	_	0	nummod	
-66	kasz	beer	NN	57	_	
-67	du	regular	JJ	66	amod	
-68	szunigin	together	RB	57	advmod	
-69	5(disz)	_	,	71	nummod	
-70	sila3	sila	NN	71	compound	
-71	ninda	ninda	NN	57	_	
-72	zi3	sig-flour	NN	71	nmod:of	
-73	saga	_	_	0	_	
-74	szunigin	together	RB	78	advmod	
-75	2(ban2)	_	_	0	nummod	
-76	7(disz)	_	_	75	nummod	
-77	sila3	sila	NN	78	compound	
-78	ninda	ninda	NN	71	appos	
-79	szunigin	together	RB	71	advmod	
-80	1/2(disz)	_	,	83	nummod	
-81	sila3	sila	NN	83	compound	
-82	9(disz)	_	-LRB-	85	nummod	
-83	gin2	shekels	NNS	71	_	
-84	i3	oil	NN	83	nmod:of	
-85	szunigin	together	RB	83	appos	
-86	1/3(disz)	_	,	87	nummod	
-87	sila3	sila	NN	83	_	
-88	6(disz)	_	-LRB-	87	nummod	
-89	gin2	shekels	NNS	87	_	
-90	naga	naga	NN	89	nmod:of	
-91	szunigin	together	RB	87	_	
-92	1(disz)	_	,	95	nummod	
-93	sila3	sila	NN	95	compound	
-94	6(disz)	_	CC	95	nummod	
-95	gin2	shekels	NNS	87	_	
-96	szum2	onions	NNS	95	nmod:of	
-97	u4	day	NN	95	conj	
-98	x	xnd	NN	97	dep	
-99	2(disz)-kam	_	,	97	nummod	
-100	iti	month	NN	97	appos	
-101	dal	Flight	NNP	102	compound	
-102	mu	Year	NN	97	_	
-103	en	en	IN	106	nsubjpass	
-104	{d}inanna	Inanna	NNP	103	nmod:of	
-105	masz2-e	was by	VBD	106	auxpass	
-106	i3-pa3	omens chosen means	VBN	102	acl	
-107	 	_	NN	0	root	
-108	 	_	.	107	_
+# train/P235698.atf new_text=P235698
+23	1(disz)	1(disz)[one]	NU	NU	26	nummod	projectivity violation	
+25	lu2	lu[person]	N	N	26	_	_	
+26	ugula	ugula[overseer][-ø]	N	N	0	root	_	
+27	kas4-me-esz2	_[are.runners]	N	N	26	_	_	
+28	3(disz)	3(disz)[one]	NU	NU	43	nummod	projectivity violation	
+29	sila3	sila[unit]	N	N	30	nmod	_	
+30	kasz	kasz[beer]	N	N	25	ABS	_	
+31	saga	saga[good][-ø]	V	NF.V.ABS	30	acl	_	
+32	2(disz)	2(disz)[one]	NU	NU	46	nummod	projectivity violation	
+33	sila3	sila[unit]	N	N	34	nmod	_	
+34	ninda	ninda[bread]	N	N	30	appos	_	
+35	3(disz)	3(disz)[one]	NU	NU	37	nummod	heuristic: NU premodifying	
+36	gin2	gig[unit]	N	N	37	nmod	_	
+37	i3	i[oil]	N	N	30	appos	_	
+38	2(disz)	2(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying	
+39	gin2	gig[unit]	N	N	30	appos	_	
+40	naga	naga[potash]	N	N	39	appos	_	
+41	5(disz)	5(disz)[one]	NU	NU	42	nummod	heuristic: NU premodifying	
+42	gin2	gig[unit]	N	N	40	appos	_	
+43	szum2-ta	_[onions.each]	N	N	42	appos	_	
+44	5(disz)	5(disz)[one]	NU	NU	53	nummod	projectivity violation	
+45	sila3	sila[unit]	N	N	46	nmod	_	
+46	kasz	kasz[beer]	N	N	43	appos	_	
+47	5(disz)	5(disz)[one]	NU	NU	49	nummod	heuristic: NU premodifying	
+48	sila3	sila[unit]	N	N	49	nmod	_	
+49	ninda	ninda[bread]	N	N	46	appos	_	
+50	ur-{d}nansze	Urnansze[1]	PN	PN	53	nmod	_	
+51	5(disz)	5(disz)[one]	NU	NU	53	nummod	heuristic: NU premodifying	
+52	sila3	sila[unit]	N	N	53	nmod	_	
+53	kasz	kasz[beer]	N	N	46	appos	_	
+54	5(disz)	5(disz)[one]	NU	NU	56	nummod	heuristic: NU premodifying	
+55	sila3	sila[unit]	N	N	56	nmod	_	
+56	ninda	ninda[bread]	N	N	53	appos	_	
+57	lu2-bala-saga	_[Lu-bala-saga]	PN	PN	53	appos	_	
+58	szunigin	szunigin[total]	N	N	57	_	_	
+59	3(ban2)	3(ban)[unit]	NU	N	57	nummod	_	
+60	3(disz)	3(disz)[one]	NU	NU	59	nummod	_	
+61	sila3	sila[unit]	N	N	62	nmod	_	
+62	kasz	kasz[beer]	N	N	57	appos	_	
+63	saga	saga[good][-ø]	V	NF.V.ABS	62	acl	_	
+64	szunigin	szunigin[total]	N	N	57	_	_	
+65	1(ban2)	1(ban)[unit]	NU	N	66	nummod	heuristic: NU premodifying	
+66	kasz	kasz[beer]	N	N	57	appos	_	
+67	du	gin[quality_designation][-ø]	V	NF.V.ABS	66	acl	_	
+68	szunigin	szunigin[total]	N	N	57	_	_	
+69	5(disz)	5(disz)[one]	NU	NU	71	nummod	_	
+70	sila3	sila[unit]	N	N	71	nmod	_	
+71	ninda	ninda[bread]	N	N	57	appos	_	
+72	zi3	zid[flour]	N	N	71	GEN	_	
+73	saga	saga[good][-ø]	V	NF.V.ABS	71	_	heuristic: after nominal head	
+74	szunigin	szunigin[total]	N	N	78	_	_	
+75	2(ban2)	2(ban)[unit]	NU	N	0	nummod	_	
+76	7(disz)	7(disz)[one][-sze]	NU	NU	75	nummod	_	
+77	sila3	sila[unit]	N	N	78	nmod	_	
+78	ninda	ninda[bread]	N	N	71	appos	_	
+79	szunigin	szunigin[total]	N	N	71	_	_	
+80	1/2(disz)	1/2(disz)[one]	NU	NU	83	nummod	projectivity violation	
+81	sila3	sila[unit]	N	N	83	nmod	projectivity violation	
+82	9(disz)	9(disz)[one]	NU	NU	85	nummod	projectivity violation	
+83	gin2	gig[unit]	N	N	71	appos	_	
+84	i3	i[oil]	N	N	83	GEN	_	
+85	szunigin	szunigin[total]	N	N	83	appos	_	
+86	1/3(disz)	1/3(disz)[one]	NU	NU	87	nummod	_	
+87	sila3	sila[unit]	N	N	83	appos	_	
+88	6(disz)	6(disz)[one][-sze]	NU	NU	87	nummod	_	
+89	gin2	gig[unit]	N	N	87	appos	_	
+90	naga	naga[potash]	N	N	89	GEN	_	
+91	szunigin	szunigin[total]	N	N	87	appos	_	
+92	1(disz)	1(disz)[one]	NU	NU	95	nummod	_	
+93	sila3	sila[unit]	N	N	95	nmod	_	
+94	6(disz)	6(disz)[one][-sze]	NU	NU	95	nummod	_	
+95	gin2	gig[unit]	N	N	87	appos	_	
+96	szum2	szum[garlic]	N	N	95	GEN	_	
+97	u4	ud[day]	N	N	95	appos	_	
+98	x	_[_]	N	N	97	dep	_	
+99	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	97	nummod	_	
+100	iti	iti[month]	N	N	97	appos	_	
+101	dal	Dal[1][-'a]	MN	MN.L1	102	nmod	_	
+102	mu	mu[year]	N	N	97	appos	_	
+103	en	en[priest]	N	N	106	ABS	_	
+104	{d}inanna	Inanna[1][-ak]	DN	DN	103	GEN	_	
+105	masz2-e	masz[goat]-e	N	N.L3-NH	106	_	_	
+106	i3-pa3	i-pad[find][-ø]	V	FIN.V.3-SG-S	102	acl	_
 	
 

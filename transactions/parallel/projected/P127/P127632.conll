@@ -1,41 +1,40 @@
-# train/P127632.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: axes their weight is mina and gin plough sickles each their weight is mina and gin Finished tools From Lu-Ibgal Ur-Szara weighed Month harvest year Amar-Suen king Ur-Szara the scribe son of Lugal-usur
-1	3(u)	_	,	6	nummod	
-2	1(disz)	_	_	1	nummod	
-3	{uruda}ha-bu3-da	axes	NNS	0	root	
-4	ki-la2-bi	their weight is gin	NN	6	nsubj	
-5	2(u)	_	.	6	nummod	
-6	ma-na	mina	NN	3	_	
-7	1(u)	_	CD	11	nummod	
-8	gin2	and	CC	6	cc	
-9	5(u)	_	,	11	nummod	
-10	8(disz)	_	_	9	nummod	
-11	{uruda}gur10	plough sickles	NNS	18	nsubj	
-12	1(u)	_	_	0	nummod	
-13	5(disz)	_	_	12	nummod	
-14	gin2-ta	each	DT	11	appos	
-15	ki-la2-bi	their weight is gin	NN	11	appos	
-16	1(u)	_	.	3	nummod	
-17	4(disz)	_	_	16	nummod	
-18	ma-na	mina	NN	3	_	
-19	4(disz)	_	_	0	nummod	
-20	gin2	and	CC	18	cc	
-21	kin	Finished	VBN	22	amod	
-22	til-la	tools	NNS	3	_	
-23	ki	_	,	24	_	
-24	lu2-eb-gal-ta	From Lu-Ibgal	NNP	3	nmod:from	
-25	ur-{d}szara2-ke4	Ur-Szara	NNP	26	nsubj	
-26	in-la2	weighed	VBD	24	acl:relcl	
-27	iti	Month	NNP	28	compound	
-28	szu-numun	harvest	NN	3	_	
-29	mu	year	NN	31	_	
-30	{d}amar-{d}suen	Amar-Suen	JJ	31	amod	
-31	lugal	king	NN	28	parataxis	
-32	ur-{d}szara2	Ur-Szara	NNP	28	_	
-33	dub-sar	the scribe	NN	32	appos	
-34	dumu	son	NN	32	appos	
-35	lugal-uszur4	Lugal-usur	NN	34	nmod:of
+# train/P127632.atf
+1	3(u)	3(u)[ten]	NU	NU	6	nummod	projectivity violation	
+2	1(disz)	1(disz)[one]	NU	NU	1	nummod	_	
+3	{uruda}ha-bu3-da	habuda[hoe]	N	N	0	root	_	
+4	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	6	ABS	_	
+5	2(u)	2(u)[ten]	NU	NU	6	nummod	_	
+6	ma-na	mana[unit]	N	N	3	appos	_	
+7	1(u)	1(u)[ten]	NU	NU	11	nummod	projectivity violation	
+8	gin2	gig[unit]	N	N	6	appos	_	
+9	5(u)	5(u)[ten]	NU	NU	11	nummod	_	
+10	8(disz)	8(disz)[one]	NU	NU	9	nummod	_	
+11	{uruda}gur10	_[plough.sickles]	N	N.ABS	18	ABS	projectivity violation	
+12	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+13	5(disz)	5(disz)[one]	NU	NU	12	nummod	_	
+14	gin2-ta	gig[unit]-ta	N	N.ABL	11	appos	_	
+15	ki-la2-bi	kila[weight]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	11	appos	_	
+16	1(u)	1(u)[ten]	NU	NU	3	nummod	_	
+17	4(disz)	4(disz)[one]	NU	NU	16	nummod	_	
+18	ma-na	mana[unit]	N	N	3	appos	_	
+19	4(disz)	4(disz)[one]	NU	NU	20	nummod	heuristic: NU premodifying	
+20	gin2	gig[unit]	N	N	18	appos	_	
+21	kin	kig[work]	N	N	22	acl	_	
+22	til-la	til[complete]-a	V	NF.V.PT	0	_	detached for projectivity	
+23	ki	ki[place]	N	N	24	_	_	
+24	lu2-eb-gal-ta	_[From.Lu-Ibgal]	PN	PN.DAT-H	3	ABL	_	
+25	ur-{d}szara2-ke4	_[Ur-Szara]	RN	RN	26	ABS	_	
+26	in-la2	i-n-la[weigh][-esz]	V	FIN.3-SG-H-A.V.3-SG-P	24	acl	_	
+27	iti	iti[month]	N	N	28	nmod	_	
+28	szu-numun	Szunumun[1][-'a]	MN	MN.L1	3	appos	_	
+29	mu	mu[year]	N	N	31	_	_	
+30	{d}amar-{d}suen	Amarsuen[1]	RN	RN	31	acl	_	
+31	lugal	lugal[king]	N	N	28	parataxis	_	
+32	ur-{d}szara2	Urszara[1]	PN	PN	28	appos	_	
+33	dub-sar	dubsar[scribe]	N	N	32	appos	_	
+34	dumu	dumu[child]	N	N	32	appos	_	
+35	lugal-uszur4	Lugaluszur[1][-ak]	PN	PN.GEN	34	GEN	_
 	
 

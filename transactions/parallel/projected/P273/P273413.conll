@@ -1,117 +1,25 @@
-# train/P273413.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P273413.atf new_text=P273413
+# train/P273413.atf						#new_text=P273413
 # tr.en: One pot of dida beer five sila of high-quality beer one ban of bread two shekels of oil and two shekels of alkali three fish and three bunches of onions Agua messenger to Persia one pot of dida beer six shekels of oil one ban of bread two shekels of oil two shekels of alkali three fish and three bunches of onions Ikalla messenger Three sila of beer two sila of bread two shekels of oil two shekels of alkali one fish one bunch of onions Dugamu total two pots of average-quality dida beer one ban total five sila of high-quality beer total shekels of oil total ban sila of bread total six shekels of oil total shekels of alkali total fish total bunches of onions th day month Bricks-placed-in-moulds year after boat of Enki was caulked
-1	1(disz)	_	,	3	nummod	
-2	kasz	beer	NN	3	nmod:of	
-3	dida	One pot dida	NN	0	root	
-4	5(disz)	_	_	0	nummod	
-5	sila3	sila	NN	3	conj	
-6	kasz	beer	NN	5	nmod:of	
-7	saga	five high-quality	CD	5	nummod	
-8	1(ban2)	one ban	NN	3	nummod	
-9	ninda	bread two	NN	8	nmod:of	
-10	2(disz)	_	,	3	nummod	
-11	gin2	shekels	NNS	3	conj	
-12	i3	oil	NN	11	nmod:of	
-13	2(disz)	two	CD	14	nummod	
-14	gin2	shekels	NNS	3	conj	
-15	naga	alkali	NNS	14	nmod:of	
-16	3(disz)	_	:	3	nummod	
-17	ku6	three fish and three	NN	3	conj	
-18	3(disz)	_	,	111	nummod	
-19	sa	bunches	NNS	3	conj	
-20	szum2	onions	NNS	19	nmod:of	
-21	a-gu-a	Agua	DT	22	det	
-22	sukkal	messenger	NN	111	appos	
-23	gaba-asz	to Persia	NNP	111	nmod:to	
-24	1(disz)	_	,	26	nummod	
-25	kasz	_	_	0	_	
-26	dida	one pot dida beer six	NN	111	_	
-27	6(disz)	_	_	0	nummod	
-28	sila3	shekels	NNS	26	conj	
-29	i3	oil	NN	28	nmod:of	
-30	1(ban2)	one ban	NN	26	nummod	
-31	ninda	bread two	NN	30	nmod:of	
-32	2(disz)	_	,	26	nummod	
-33	gin2	shekels	NNS	26	conj	
-34	i3	oil two	NN	33	nmod:of	
-35	2(disz)	_	_	0	nummod	
-36	gin2	shekels	NNS	26	conj	
-37	naga	alkali	NNS	36	nmod:of	
-38	3(disz)	_	:	111	nummod	
-39	ku6	three fish and three	NN	26	conj	
-40	3(disz)	_	_	0	nummod	
-41	sa	bunches	NNS	26	conj	
-42	szum2	onions	NNS	41	nmod:of	
-43	i3-kal-la	Ikalla	NNP	111	_	
-44	sukkal	messenger	NN	43	appos	
-45	...	Three	CD	47	dep	
-46	3(disz)	_	_	0	nummod	
-47	sila3	sila	NN	43	_	
-48	kasz	beer	NN	47	nmod:of	
-49	2(disz)	two	CD	50	nummod	
-50	sila3	sila	NN	47	appos	
-51	ninda	bread	NN	50	nmod:of	
-52	2(disz)	two	CD	53	nummod	
-53	gin2	shekels	NNS	47	appos	
-54	i3	oil two	NN	53	nmod:of	
-55	2(disz)	_	,	47	nummod	
-56	gin2	shekels	NNS	47	appos	
-57	naga	alkali	NNS	56	nmod:of	
-58	1(disz)	_	:	43	nummod	
-59	ku6	one fish one bunch	NN	47	appos	
-60	1(disz)	_	_	0	nummod	
-61	sa	_	_	0	_	
-62	szum2	onions	NNS	47	nmod:of	
-63	du10-ga-mu	Dugamu	NNP	64	compound	
-64	ka-us2-sa2	_	NN	43	_	
-65	szunigin	total	NN	111	_	
-66	2(disz)	_	:	111	nummod	
-67	kasz	beer	NN	69	nmod:of	
-68	dida	one	CD	67	nummod	
-69	du	two pots average-quality dida ban	NNS	65	_	
-70	1(ban2)	_	_	0	nummod	
-71	szunigin	total	NN	111	_	
-72	5(disz)	five	CD	73	nummod	
-73	sila3	sila	NN	71	_	
-74	kasz	beer	NN	73	nmod:of	
-75	saga	high-quality	JJ	74	amod	
-76	szunigin	total	NN	111	_	
-77	6(disz)	_	:	111	nummod	
-78	gin2	shekels	NNS	76	_	
-79	i3	oil	NN	78	nmod:of	
-80	szunigin	total	NN	111	_	
-81	2(ban2)	_	:	111	nummod	
-82	2(disz)	ban	NN	80	nummod	
-83	sila3	sila	NN	82	_	
-84	ninda	bread	NN	83	nmod:of	
-85	szunigin	total	NN	111	_	
-86	6(disz)	_	_	0	nummod	
-87	gin2	shekels	NNS	85	_	
-88	i3	oil six	CD	87	nummod	
-89	szunigin	total	NN	111	_	
-90	6(disz)	_	:	111	nummod	
-91	gin2	shekels	NNS	89	_	
-92	naga	alkali	NNS	91	nmod:of	
-93	szunigin	total	NN	111	_	
-94	7(disz)	_	:	111	nummod	
-95	ku6	fish	NN	93	_	
-96	szunigin	total	NN	111	_	
-97	7(disz)	_	_	0	nummod	
-98	sa	bunches	NNS	96	_	
-99	szum2	onions	NNS	98	nmod:of	
-100	u4	th day	NN	111	_	
-101	7(disz)-kam	_	,	100	nummod	
-102	iti	month	NN	100	appos	
-103	sig4-{gesz}i3-szub-ba-gar	Bricks-placed-in-moulds	NNS	111	_	
-104	mu	year	NN	111	_	
-105	us2-sa	after	IN	104	nmod:after	
-106	ma2	boat	NN	108	nsubjpass	
-107	{d}en-ki	Enki	NNP	106	nmod:of	
-108	ba-ab-du8	was caulked	VBN	111	acl	
-109	 	_	NN	0	root	
-110	 	_	.	109	_	
-111	 	_	NN	110	_
-	
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	kasz	kasz[beer]	N	N	3	GEN	_	
+3	dida	dida[sweet_wort]	N	N	0	root	_	
+4	5(disz)	5(disz)[one]	NU	NU	5	nummod	heuristic: NU premodifying	
+5	sila3	sila[unit]	N	N	3	appos	_	
+6	kasz	kasz[beer]	N	N	5	GEN	_	
+7	saga	saga[good][-ø]	V	NF.V.ABS	5	acl	_	
+8	1(ban2)	1(ban)[unit]	NU	N	3	nummod	_	
+9	ninda	ninda[bread]	N	N	8	GEN	_	
+10	2(disz)	2(disz)[one]	NU	NU	3	nummod	_	
+11	gin2	gig[unit]	N	N	3	appos	_	
+12	i3	i[oil]	N	N	11	GEN	_	
+13	2(disz)	2(disz)[one]	NU	NU	14	nummod	_	
+14	gin2	gig[unit]	N	N	3	appos	_	
+15	naga	naga[potash]	N	N	14	GEN	_	
+16	3(disz)	3(disz)[one]	NU	NU	3	nummod	_	
+17	ku6	kud[fish]	N	N	3	appos	_	
+19	sa	sa[bundle]	N	N	3	appos	_	
+20	szum2	szum[garlic]	N	N	19	GEN	_	
+70	1(ban2)	1(ban)[unit]	NU	N	0	nummod	_	
 

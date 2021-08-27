@@ -1,464 +1,464 @@
-# test/P116195.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# test/P116195.atf new_text=P116195
+# test/P116195.atf						#new_text=P116195
 # tr.en: lamb for uzga-house delivery of Dukra Ayakala was enforcer st day sheep billy goat for high-priest of Inanna delivery of Dukra Ayakala was enforcer nd day lamb for Enlil lamb for Ninlil from delivery of Nu-ida ARADmu was enforcer rd day ox sheep for Lugal-kuzu from delivery of troops of Abibana lamb for uzga-house delivery of Dukra ARADmu was enforcer th day ox grain-fed sheep for Rai man of Zidanum grain-fed sheep for Garadadu Szimakian grain-fed sheep for Ari-dubuk man of Szaru grain-fed sheep for -ipnegaman man of Szurudum delivery of Nanna-kiag chief household manager Lugal-inimgina messenger was enforcer th day for sheep for Ninursag from delivery of beer-pouring by Edar-ilu Matur cupbearer was enforcer th day lamb for Enlil lamb for Ninlil delivery of Watarum chief household manager Matur cupbearer was enforcer grain-fed sheep for Dada gala Bel-il was enforcer bear cubs for uzga-house delivery of Szu-Suen Ayakala was enforcer th day lamb for Ninursag lamb for Szulpae delivery of Edar-ilu Matur cupbearer was enforcer billy goats for uzga-house delivery of Lu-Nanna cupbearer Ur-Baba was enforcer th day lamb for Nusku lamb for Ninurta delivery of governor of Nippur Matur cupbearer was enforcer th day delivery of Szu-Suen Ayakala was enforcer th day grain-fed female kid lamb for uzga-house delivery of ARADmu Ur-Baba was enforcer th day gazelles for kitchen delivery of Ur-Engaldudu via Taatal rider th day bear cub delivery of Szu-Suen lamb delivery of ellu-Dagan lamb delivery of Il-DImat cupbearer lamb delivery of Lugal-magure for uzga-house Ur-Baba was enforcer th day lambs delivery of Watarum chief household manager lamb delivery of ellu-Dagan lamb delivery of Zenana lamb delivery of Adatum grain-fed sheep delivery of Bel-arik lamb for Me-Itaran delivery of Bel-arik ARADmu was enforcer th day total grain-fed sheep total grain-fed female kid total lambs total male goats total gazelles total bear cubs booked out of king total large billy goat throne of Szulgi total oxen total grain-fed sheep total sheep total minus lambs gift of king x together oxen together sheep together billy goats together nanny goat together gazelles together bears grand total oxen grand total various sheep and goats grand total gazelles grand total bears out of Abbasaga booked month Festival-of-An year Enmagalana high-priestess of Nanna was installed
-1	1(disz)	_	,	2	nummod	
-2	sila4	lamb	NN	0	root	
-3	e2-uz-ga	for uzga-house	NN	2	nmod:for	
-4	mu-kux(DU)	delivery	NN	2	appos	
-5	du-uk-ra	Dukra	NNP	4	nmod:of	
-6	a-a-kal-la	Ayakala	NNP	8	nsubj	
-7	maszkim	was enforcer	VBD	8	cop	
-8	($	was enforcer	NN	2	appos	
-9	blank	_	_	0	_	
-10	space	_	_	0	_	
-11	$)	_	_	0	_	
-12	1(disz)	_	_	0	nummod	
-13	u4	st day	NN	8	appos	
-14	1(disz)-kam	_	:	8	nummod	
-15	1(disz)	_	,	16	nummod	
-16	udu	sheep	NN	8	_	
-17	1(disz)	_	_	0	nummod	
-18	masz2	billy goat	NN	16	appos	
-19	en	high-priest	NN	16	nmod:for	
-20	{d}inanna	for Inanna	IN	19	nmod:for	
-21	mu-kux(DU)	delivery	NN	19	appos	
-22	du-uk-ra	Dukra	NNP	21	nmod:of	
-23	a-a-kal-la	Ayakala	NNP	25	nsubj	
-24	maszkim	was enforcer	VBD	25	cop	
-25	($	was enforcer	NN	16	acl:relcl	
-26	blank	_	_	0	_	
-27	space	_	_	0	_	
-28	$)	_	_	0	_	
-29	1(disz)	_	_	0	nummod	
-30	u4	nd day	NN	25	_	
-31	2(disz)-kam	_	:	30	nummod	
-32	1(disz)	_	,	33	nummod	
-33	sila4	lamb	NN	30	_	
-34	{d}en-lil2	for Enlil	NNP	33	nmod:for	
-35	1(disz)	_	,	33	nummod	
-36	sila4	lamb	NN	33	appos	
-37	{d}nin-lil2	for Ninlil	NNP	36	nmod:for	
-38	sza3	from	IN	39	nmod:from	
-39	mu-kux(DU)	delivery	NN	33	nmod:from	
-40	nu-i3-da	Nu-ida	NN	39	nmod:of	
-41	ARAD2-mu	ARADmu	NN	43	nsubj	
-42	maszkim	was enforcer	VBD	43	cop	
-43	($	was enforcer	NN	33	acl:relcl	
-44	blank	_	_	0	_	
-45	space	_	_	0	_	
-46	$)	_	_	0	_	
-47	2(disz)	_	_	0	nummod	
-48	u4	rd day	NN	43	_	
-49	3(disz)-kam	_	:	48	nummod	
-50	1(disz)	_	,	51	nummod	
-51	gu4	ox	NN	48	_	
-52	2(u)	_	:	48	nummod	
-53	udu	sheep	NN	51	appos	
-54	lugal-ku3-zu	for Lugal-kuzu	NN	48	nmod:for	
-55	sza3	from	IN	56	nmod:from	
-56	mu-kux(DU)	delivery	NN	48	nmod:from	
-57	erin2	troops	NNS	56	nmod:of	
-58	a-bi2-ba-na{ki}	Abibana	NNP	57	nmod:of	
-59	1(disz)	_	:	48	nummod	
-60	sila4	lamb	NN	48	_	
-61	e2-uz-ga	for uzga-house	NN	60	nmod:for	
-62	mu-kux(DU)	delivery	NN	48	_	
-63	du-uk-ra	Dukra	NNP	62	nmod:of	
-64	ARAD2-mu	ARADmu	NNP	66	nsubj	
-65	maszkim	was enforcer	VBD	66	cop	
-66	($	was enforcer	NN	48	parataxis	
-67	blank	_	_	0	_	
-68	space	_	_	0	_	
-69	$)	_	_	0	_	
-70	2(u)	_	_	0	nummod	
-71	2(disz)	_	_	70	nummod	
-72	u4	th day	NN	66	_	
-73	4(disz)-kam	_	:	72	nummod	
-74	1(disz)	_	,	75	nummod	
-75	gu4	ox	NN	72	conj	
-76	'.	_	,	82	_	
-77	1(disz)	_	CD	85	nummod	
-78	udu	sheep	NN	75	appos	
-79	niga	grain-fed	JJ	78	amod	
-80	ra-szi	for Rai	NNP	78	nmod:for	
-81	lu2	man	NN	75	appos	
-82	zi-da-num2{ki}	Zidanum	NNP	81	nmod:of	
-83	'.	_	,	82	_	
-84	1(disz)	_	CD	91	nummod	
-85	udu	sheep	NN	82	appos	
-86	niga	grain-fed	JJ	85	amod	
-87	ga-ra-da-du	for Garadadu	NNP	85	nmod:for	
-88	szimaszgi	Szimakian	NNP	82	appos	
-89	'.	_	,	95	_	
-90	1(disz)	_	CD	98	nummod	
-91	udu	sheep	NN	82	appos	
-92	niga	grain-fed	JJ	91	amod	
-93	a-ri-du-bu-uk	for Ari-dubuk	NN	91	nmod:for	
-94	lu2	man	NN	82	appos	
-95	sza-asz-ru{ki}	Szaru	NNP	94	nmod:of	
-96	'.	_	,	95	_	
-97	1(disz)	_	_	0	nummod	
-98	udu	sheep	NN	95	appos	
-99	niga	grain-fed	JJ	98	amod	
-100	x-hi-ip-ne-ga-ma-an	for -ipnegaman	NN	98	nmod:for	
-101	lu2	_	_	0	_	
-102	szu-ru-ud-hu-um{ki}	man Szurudum	NN	95	appos	
-103	'.	_	:	72	_	
-104	mu-kux(DU)	delivery	NN	95	appos	
-105	{d}nanna-ki-ag2	Nanna-kiag chief	NN	104	nmod:of	
-106	szabra	household manager	NN	105	appos	
-107	'.	_	:	72	_	
-108	lugal-inim-gi-na	Lugal-inimgina	NNP	109	compound	
-109	sukkal	messenger	NN	110	nsubj	
-110	maszkim	was enforcer	NN	72	conj	
-111	'.	_	CD	119	nummod	
-112	($	_	_	0	_	
-113	blank	_	_	0	_	
-114	space	_	_	0	_	
-115	$)	_	_	0	_	
-116	4(disz)	_	_	0	nummod	
-117	'.	_	_	0	_	
-118	u4	th day	NN	72	_	
-119	8(disz)-kam	_	NN	118	nummod	
-120	'.	_	NN	119	nmod:for	
-121	3(disz)	_	:	118	nummod	
-122	x	_	CD	126	dep	
-123	{d}x-x	for	IN	120	nmod:for	
-124	'.	_	:	118	_	
-125	4(disz)	_	_	0	nummod	
-126	udu	sheep	NN	118	_	
-127	{d}nin-hur-sag	for Ninursag	NN	126	nmod:for	
-128	'.	_	:	118	_	
-129	sza3	from	IN	130	nmod:from	
-130	mu-kux(DU)	delivery	NN	118	nmod:from	
-131	kasz-de2-a	beer-pouring	JJ	130	nmod:of	
-132	esz18-dar-il-szu	by Edar-ilu	NN	130	nmod:by	
-133	'.	_	:	136	_	
-134	masz-tur	Matur	NNP	136	nsubj	
-135	sagi	cupbearer	NN	134	appos	
-136	maszkim	was enforcer	NN	118	parataxis	
-137	'.	_	:	144	_	
-138	($	_	_	0	_	
-139	blank	_	_	0	_	
-140	space	_	_	0	_	
-141	$)	_	_	0	_	
-142	7(disz)	_	_	0	nummod	
-143	'.	_	_	0	_	
-144	u4	th day	NN	136	_	
-145	9(disz)!-kam	_	CD	148	nummod	
-146	'.	_	,	148	_	
-147	1(disz)	_	CD	152	nummod	
-148	sila4	lamb	NN	144	_	
-149	{d}en-lil2	for Enlil	NNP	148	nmod:for	
-150	'.	_	:	144	_	
-151	1(disz)	_	_	0	nummod	
-152	sila4	lamb	NN	148	appos	
-153	{d}nin-lil2	for Ninlil	NN	152	nmod:for	
-154	'.	_	:	156	_	
-155	mu-kux(DU)	delivery	NN	144	_	
-156	wa-ta2-ru-um	Watarum chief	NNP	155	nmod:of	
-157	sanga	household manager	NN	156	appos	
-158	'.	_	:	161	_	
-159	masz-tur	Matur	NNP	161	nsubj	
-160	sagi	cupbearer	NN	159	appos	
-161	maszkim	was enforcer	NN	156	_	
-162	'.	_	:	161	_	
-163	1(disz)	_	_	0	nummod	
-164	udu	sheep	NN	161	_	
-165	niga	grain-fed	JJ	164	amod	
-166	da-da	Dada	NNP	164	nmod:for	
-167	gala	gala	NN	164	appos	
-168	'.	_	:	170	_	
-169	be-li2-i3-li2	Bel-il	NN	170	nsubj	
-170	maszkim	was enforcer	NN	161	parataxis	
-171	'.	_	:	170	_	
-172	2(disz)	_	_	0	nummod	
-173	amar	_	_	0	_	
-174	az	bear cubs	NNS	170	_	
-175	e2-uz-ga	for uzga-house	NN	174	nmod:for	
-176	'.	_	:	161	_	
-177	mu-kux(DU)	delivery	NN	170	_	
-178	szu-{d}suen	Szu-Suen	NNP	177	nmod:of	
-179	'.	_	:	182	_	
-180	a-a-kal-la	Ayakala	NNP	182	nsubj	
-181	maszkim	was enforcer	VBD	182	cop	
-182	($	was enforcer	NN	161	parataxis	
-183	blank	_	_	0	_	
-184	space	_	_	0	_	
-185	$)	_	_	0	_	
-186	5(disz)	_	_	0	nummod	
-187	u4	_	,	182	_	
-188	1(u)-kam	_	:	182	nummod	
-189	1(disz)	_	:	188	nummod	
-190	sila4	lamb	NN	182	_	
-191	{d}nin-hur-sag	for Ninursag	NN	190	nmod:for	
-192	1(disz)	_	:	182	nummod	
-193	sila4	lamb	NN	182	_	
-194	{d}szul-pa-e3	for Szulpae	NN	193	nmod:for	
-195	mu-kux(DU)	delivery	NN	182	_	
-196	esz18-dar-dingir-szu	Edar-ilu	NN	195	nmod:of	
-197	masz-tur	Matur	NNP	199	nsubj	
-198	sagi	cupbearer	NN	197	appos	
-199	maszkim	was enforcer	NN	182	_	
-200	2(disz)	_	:	199	nummod	
-201	masz2	billy goats	NNS	199	_	
-202	e2-uz-ga	for uzga-house	NN	201	nmod:for	
-203	mu-kux(DU)	delivery	NN	199	_	
-204	lu2-{d}nanna	Lu-Nanna	NNP	203	nmod:of	
-205	sagi	cupbearer	NN	204	appos	
-206	ur-{d}ba-ba6	Ur-Baba	NNP	208	nsubj	
-207	maszkim	was enforcer	VBD	208	cop	
-208	($	was enforcer	NN	199	parataxis	
-209	blank	_	_	0	_	
-210	space	_	_	0	_	
-211	$)	_	_	0	_	
-212	4(disz)	_	_	0	nummod	
-213	u4	_	,	208	_	
-214	1(u)	_	:	208	nummod	
-215	1(disz)-kam	_	CD	217	nummod	
-216	1(disz)	_	:	208	nummod	
-217	sila4	lamb	NN	208	_	
-218	{d}nusku	for Nusku	NNP	217	nmod:for	
-219	1(disz)	_	:	208	nummod	
-220	sila4	lamb	NN	208	_	
-221	{d}nin-urta	for Ninurta	NN	220	nmod:for	
-222	mu-kux(DU)	delivery	NN	208	_	
-223	ensi2	governor	NN	222	nmod:of	
-224	nibru{ki}	Nippur	NNP	223	nmod:of	
-225	masz-tur	Matur	NNP	228	nsubj	
-226	sagi	cupbearer	NN	225	appos	
-227	maszkim	was enforcer	VBD	228	cop	
-228	($	was enforcer	NN	208	parataxis	
-229	blank	_	_	0	_	
-230	space	_	_	0	_	
-231	$)	_	_	0	_	
-232	2(disz)	_	_	0	nummod	
-233	u4	_	,	228	_	
-234	1(u)	_	:	228	nummod	
-235	2(disz)-kam	_	_	234	nummod	
-236	mu-kux(DU)	delivery	NN	228	conj	
-237	szu-{d}suen	Szu-Suen	NNP	236	nmod:of	
-238	a-a-kal-la	Ayakala	NNP	240	nsubj	
-239	maszkim	was enforcer	VBD	240	cop	
-240	($	was enforcer	NN	228	parataxis	
-241	blank	_	_	0	_	
-242	space	_	_	0	_	
-243	$)	_	_	0	_	
-244	1(disz)	_	_	0	nummod	
-245	u4	_	,	240	_	
-246	1(u)	_	:	240	nummod	
-247	3(disz)-kam	_	CD	249	nummod	
-248	1(disz)	_	,	247	nummod	
-249	{munus}asz2-gar3	female kid	NN	240	conj	
-250	niga	grain-fed	JJ	249	amod	
-251	1(disz)	_	,	249	nummod	
-252	sila4	lamb	NN	249	appos	
-253	e2-uz-ga	for uzga-house	NN	249	nmod:for	
-254	mu-kux(DU)	delivery	NN	240	conj	
-255	ARAD2-mu	ARADmu	NN	254	nmod:of	
-256	ur-{d}ba-ba6	Ur-Baba	NNP	258	nsubj	
-257	maszkim	was enforcer	VBD	258	cop	
-258	($	was enforcer	NN	240	parataxis	
-259	blank	_	_	0	_	
-260	space	_	_	0	_	
-261	$)	_	_	0	_	
-262	2(disz)	_	_	0	nummod	
-263	u4	_	,	258	_	
-264	1(u)	_	:	258	nummod	
-265	5(disz)-kam	_	_	264	nummod	
-266	2(u)	_	CD	268	nummod	
-267	6(disz)	_	,	266	nummod	
-268	masz-da3	gazelles	NNS	258	conj	
-269	e2-muhaldim	for kitchen	NN	268	nmod:for	
-270	mu-kux(DU)	delivery	NN	258	conj	
-271	ur-{d}en-gal-du-du	Ur-Engaldudu	NNP	270	nmod:of	
-272	giri3	via	IN	273	nmod:via	
-273	tah-sza-tal	Taatal	NNP	258	nmod:via	
-274	ra2-gaba	rider	NN	273	appos	
-275	($	_	_	0	_	
-276	blank	_	_	0	_	
-277	space	_	_	0	_	
-278	$)	_	_	0	_	
-279	2(u)	_	_	0	nummod	
-280	6(disz)	_	_	279	nummod	
-281	u4	th day	NN	273	_	
-282	1(u)	_	:	281	nummod	
-283	7(disz)-kam	_	CD	286	nummod	
-284	1(disz)	_	,	288	nummod	
-285	amar	_	CD	290	nummod	
-286	az	bear cub	NN	281	conj	
-287	mu-kux(DU)	delivery	NN	286	appos	
-288	szu-{d}suen	Szu-Suen	NNP	287	nmod:of	
-289	1(disz)	_	,	292	nummod	
-290	sila4	lamb	NN	288	appos	
-291	mu-kux(DU)	delivery	NN	288	appos	
-292	s,e-lu-usz-{d}da-gan	ellu-Dagan	NNP	291	nmod:of	
-293	1(disz)	_	,	296	nummod	
-294	sila4	lamb	NN	292	appos	
-295	mu-kux(DU)	delivery	NN	292	appos	
-296	dingir-DI-ma-at	Il-DImat	NNP	295	nmod:of	
-297	sagi	cupbearer	NN	296	conj	
-298	1(disz)	_	,	296	nummod	
-299	sila4	lamb	NN	296	conj	
-300	mu-kux(DU)	delivery	NN	296	appos	
-301	lugal-ma2-gur8-re	of Lugal-magure	NN	300	nmod:of	
-302	e2-uz-ga	for uzga-house	NN	295	nmod:for	
-303	ur-{d}ba-ba6	Ur-Baba	NNP	305	nsubj	
-304	maszkim	was enforcer	VBD	305	cop	
-305	($	was enforcer	NN	281	parataxis	
-306	blank	_	_	0	_	
-307	space	_	_	0	_	
-308	$)	_	_	0	_	
-309	4(disz)	_	_	0	nummod	
-310	u4	_	,	305	_	
-311	2(u)-kam	_	:	305	nummod	
-312	2(disz)	_	,	315	nummod	
-313	sila4	lambs	NNS	305	conj	
-314	mu-kux(DU)	delivery	NN	313	appos	
-315	wa-ta2-ru-um	Watarum chief	NNP	314	nmod:of	
-316	sanga	household manager	NN	315	appos	
-317	1(disz)	_	,	320	nummod	
-318	sila4	lamb	NN	315	appos	
-319	mu-kux(DU)	delivery	NN	315	appos	
-320	s,e-lu-usz-{d}da-gan	ellu-Dagan	NNP	319	nmod:of	
-321	1(disz)	_	,	324	nummod	
-322	sila4	lamb	NN	320	appos	
-323	mu-kux(DU)	delivery	NN	320	appos	
-324	ze2-na-na	Zenana	NNP	323	nmod:of	
-325	1(disz)	_	,	328	nummod	
-326	sila4	lamb	NN	324	appos	
-327	mu-<kux(DU)>	delivery	NN	324	appos	
-328	a-da-tum	Adatum	NNP	327	nmod:of	
-329	2(disz)	_	:	305	nummod	
-330	udu	sheep	NN	328	appos	
-331	niga	grain-fed	JJ	330	amod	
-332	mu-kux(DU)	delivery	NN	328	appos	
-333	be-li2-a-ri2-ik	Bel-arik	NN	332	nmod:of	
-334	'.	_	,	336	_	
-335	1(disz)	_	_	0	nummod	
-336	sila4	lamb	NN	305	conj	
-337	me-{d}isztaran	for Me-Itaran	NNP	336	nmod:for	
-338	'.	_	:	305	_	
-339	mu-kux(DU)	delivery	NN	336	appos	
-340	be-li2-a-ri2-ik	Bel-arik	NN	339	nmod:of	
-341	'.	_	:	343	_	
-342	ARAD2-mu	ARADmu	NN	343	nsubj	
-343	maszkim	was enforcer	NN	305	parataxis	
-344	'.	_	:	343	_	
-345	($	_	_	0	_	
-346	blank	_	_	0	_	
-347	space	_	_	0	_	
-348	$)	_	_	0	_	
-349	1(disz)	_	_	0	nummod	
-350	'.	_	_	0	_	
-351	u4	_	,	343	_	
-352	2(u)	_	_	0	nummod	
-353	7(disz)-kam	_	_	352	nummod	
-354	szunigin	total	NN	343	_	
-355	4(disz)	_	,	343	nummod	
-356	udu	sheep	NN	354	_	
-357	niga	grain-fed	JJ	356	amod	
-358	szunigin	total	NN	343	appos	
-359	1(disz)	_	,	343	nummod	
-360	{munus}asz2-gar3	female kid	NN	358	_	
-361	niga	grain-fed	JJ	360	amod	
-362	szunigin	total	NN	343	appos	
-363	1(u)	_	,	343	nummod	
-364	4(disz)	_	_	363	nummod	
-365	sila4	lambs	NNS	362	_	
-366	szunigin	total	NN	343	appos	
-367	2(disz)	_	,	368	nummod	
-368	masz2	male goats	NNS	343	_	
-369	szunigin	total	NN	368	appos	
-370	2(u)	_	,	372	nummod	
-371	6(disz)	_	_	370	nummod	
-372	masz-da3	gazelles	NNS	368	_	
-373	szunigin	total	NN	372	appos	
-374	5(disz)	_	,	376	nummod	
-375	amar	_	_	0	_	
-376	az	bear cubs	NNS	372	_	
-377	zi-ga	booked out	VBN	376	acl	
-378	lugal	king	NN	377	nmod:out.of	
-379	szunigin	total	NN	376	_	
-380	1(disz)	_	,	379	nummod	
-381	masz2-gal	large billy goat	NN	379	_	
-382	{gesz}gu-za	throne	NN	379	appos	
-383	{d}szul-gi	Szulgi	NNP	382	nmod:of	
-384	szunigin	total	NN	376	_	
-385	3(disz)	_	,	376	nummod	
-386	gu4	oxen	NN	384	_	
-387	szunigin	total	NN	376	appos	
-388	5(disz)	_	,	389	nummod	
-389	udu	sheep	NN	376	_	
-390	niga	grain-fed	JJ	389	amod	
-391	szunigin	total	NN	389	appos	
-392	4(u)	_	,	394	nummod	
-393	1(disz)	_	_	392	nummod	
-394	udu	sheep	NN	389	_	
-395	szunigin	total	NN	394	appos	
-396	1(u)	_	,	399	nummod	
-397	la2	minus	CC	396	cc	
-398	1(disz)	_	_	397	nummod	
-399	sila4	lambs	NNS	394	_	
-400	nig2-ba	gift	NN	399	appos	
-401	lugal	king	NN	400	nmod:of	
-402	...	_	IN	401	dep	
-403	x	_	_	0	dep	
-404	nigin2-ba	together	RB	399	advmod	
-405	3(disz)	_	,	399	nummod	
-406	gu4	oxen	NN	399	_	
-407	nigin2-ba	together	RB	399	advmod	
-408	1(gesz2)	_	,	399	nummod	
-409	1(u)	_	_	408	nummod	
-410	3(disz)	_	_	408	nummod	
-411	udu	sheep	NN	399	_	
-412	nigin2-ba	together	RB	399	advmod	
-413	3(disz)	_	,	399	nummod	
-414	masz2	billy goats	NNS	399	_	
-415	nigin2-ba	together	RB	399	advmod	
-416	1(disz)	_	,	399	nummod	
-417	ud5	nanny goat	NN	399	_	
-418	nigin2-ba	together	RB	399	advmod	
-419	3(u)	_	,	421	nummod	
-420	6(disz)	_	_	419	nummod	
-421	masz-da3	gazelles	NNS	399	_	
-422	nigin2-ba	together	RB	421	advmod	
-423	5(disz)	_	:	424	nummod	
-424	az	bears	NNS	421	_	
-425	nigin-ba	grand total	NN	424	_	
-426	3(disz)	_	,	427	nummod	
-427	gu4	oxen	NN	425	_	
-428	nigin-ba	grand total	JJ	429	amod	
-429	1(gesz2)!	grand total	NN	427	nummod	
-430	1(u)	_	,	432	nummod	
-431	7(disz)	_	_	430	nummod	
-432	udu	sheep	NN	427	_	
-433	masz2	and goats	CC	432	cc	
-434	hi-a	various	JJ	432	amod	
-435	nigin-ba	grand total	NN	432	appos	
-436	2(u)	_	,	438	nummod	
-437	6(disz)	_	_	436	nummod	
-438	masz-da3	gazelles	NNS	432	_	
-439	nigin-ba	grand total	NN	438	appos	
-440	5(disz)	_	:	441	nummod	
-441	az	bears	NNS	438	_	
-442	($	_	_	0	_	
-443	blank	_	_	0	_	
-444	space	_	_	0	_	
-445	$)	_	_	0	_	
-446	1(gesz2)	_	_	0	nummod	
-447	5(u)	_	_	446	nummod	
-448	1(disz)	_	_	446	nummod	
-449	ki	_	:	441	_	
-450	ab-ba-sa6-ga-ta	Abbasaga	NNP	451	nmod:of	
-451	ba-zi	out booked	VBD	441	acl	
-452	iti	month	NN	453	compound	
-453	ezem-an-na	Festival-of-An	NN	441	_	
-454	mu	year	NN	453	_	
-455	en-mah-gal-an-na	Enmagalana	NNP	458	nsubjpass	
-456	en	high-priestess	NN	455	appos	
-457	{d}nanna	Nanna	NNP	456	nmod:of	
-458	ba-hun	was installed	VBN	441	acl
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	sila4	sila[lamb]	N	N	0	root	_	
+3	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	2	TERM	_	
+4	mu-kux(DU)	mukur[delivery][-ø]	N	N	2	appos	_	
+5	du-uk-ra	_[Dukra]	V	V	4	acl	_	
+6	a-a-kal-la	Ayakala[1]	PN	PN	8	ABS	_	
+7	maszkim	maszkim[administrator]	N	N.ABS	8	_	_	
+8	($	_[was.enforcer]	FN	FN	2	appos	_	
+9	blank	_	N	N	8	_	heuristic: after nominal head	
+10	space	_	N	N	8	_	heuristic: after nominal head	
+11	$)	_	_	_	8	_	heuristic: after nominal head	
+12	1(disz)	1(disz)[one]	NU	NU	13	nummod	heuristic: NU premodifying	
+13	u4	ud[day]	N	N	8	appos	_	
+14	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	8	nummod	_	
+15	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+16	udu	udu[sheep]	N	N	8	appos	_	
+17	1(disz)	1(disz)[one]	NU	NU	18	nummod	heuristic: NU premodifying	
+18	masz2	masz[goat]	N	N	16	appos	_	
+19	en	en[priest]	N	N	16	DAT	_	
+20	{d}inanna	Inanna[1][-ak]	DN	DN	19	DAT	_	
+21	mu-kux(DU)	mukur[delivery][-ø]	N	N	19	appos	_	
+22	du-uk-ra	_[Dukra]	V	V	21	acl	_	
+23	a-a-kal-la	Ayakala[1]	PN	PN	25	ABS	_	
+24	maszkim	maszkim[administrator]	N	N.ABS	25	_	_	
+25	($	_[was.enforcer]	FN	FN	16	acl	_	
+26	blank	_	N	N	25	_	heuristic: after nominal head	
+27	space	_	N	N	25	_	heuristic: after nominal head	
+28	$)	_	_	_	25	_	heuristic: after nominal head	
+29	1(disz)	1(disz)[one]	NU	NU	30	nummod	heuristic: NU premodifying	
+30	u4	ud[day]	N	N	25	appos	_	
+31	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	30	nummod	_	
+32	1(disz)	1(disz)[one]	NU	NU	33	nummod	_	
+33	sila4	sila[lamb]	N	N	30	appos	_	
+34	{d}en-lil2	Enlil[1]	DN	DN	33	DAT	_	
+35	1(disz)	1(disz)[one]	NU	NU	33	nummod	_	
+36	sila4	sila[lamb]	N	N	33	appos	_	
+37	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	36	DAT	_	
+38	sza3	szag[heart]	N	N	39	ABL	_	
+39	mu-kux(DU)	mukur[delivery][-ø]	N	N	33	ABL	_	
+40	nu-i3-da	_[Nu-ida]	V	V	39	acl	_	
+41	ARAD2-mu	Aradmu[1]	PN	PN	43	ABS	_	
+42	maszkim	maszkim[administrator]	N	N.ABS	43	_	_	
+43	($	_[was.enforcer]	N	N	33	acl	_	
+44	blank	_	_	_	43	_	heuristic: after nominal head	
+45	space	_	_	_	43	_	heuristic: after nominal head	
+46	$)	_	_	_	43	_	heuristic: after nominal head	
+47	2(disz)	2(disz)[one]	NU	NU	48	nummod	heuristic: NU premodifying	
+48	u4	ud[day]	N	N	43	appos	_	
+49	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	48	nummod	_	
+50	1(disz)	1(disz)[one]	NU	NU	51	nummod	_	
+51	gu4	gud[ox]	N	N	48	appos	_	
+52	2(u)	2(u)[ten]	NU	NU	48	nummod	projectivity violation	
+53	udu	udu[sheep]	N	N	51	appos	_	
+54	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	48	DAT	_	
+55	sza3	szag[heart]	N	N	56	ABL	_	
+56	mu-kux(DU)	mukur[delivery][-ø]	N	N	48	ABL	_	
+57	erin2	erin[people]	N	N	56	GEN	_	
+58	a-bi2-ba-na{ki}	_[Abibana]	SN	SN	57	GEN	_	
+59	1(disz)	1(disz)[one]	NU	NU	48	nummod	_	
+60	sila4	sila[lamb]	N	N	48	appos	_	
+61	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	60	TERM	_	
+62	mu-kux(DU)	mukur[delivery][-ø]	N	N	48	appos	_	
+63	du-uk-ra	_[Dukra]	V	V	62	acl	_	
+64	ARAD2-mu	Aradmu[1]	PN	PN	66	ABS	_	
+65	maszkim	maszkim[administrator]	N	N.ABS	66	_	_	
+66	($	_[was.enforcer]	N	N	48	parataxis	_	
+67	blank	_	_	_	66	_	heuristic: after nominal head	
+68	space	_	_	_	66	_	heuristic: after nominal head	
+69	$)	_	_	_	66	_	heuristic: after nominal head	
+70	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+71	2(disz)	2(disz)[one]	NU	NU	70	nummod	_	
+72	u4	ud[day]	N	N	66	appos	_	
+73	4(disz)-kam	4(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	72	nummod	_	
+74	1(disz)	1(disz)[one]	NU	NU	75	nummod	_	
+75	gu4	gud[ox]	N	N	72	appos	_	
+76	'.	_	_	_	75	_	heuristic: attach to last	
+77	1(disz)	1(disz)[one]	NU	NU	85	nummod	projectivity violation	
+78	udu	udu[sheep]	N	N	75	appos	_	
+79	niga	niga[fattened][-ø]	V	NF.V.ABS	78	acl	_	
+80	ra-szi	_[for.Rai]	PN	PN	78	DAT	_	
+81	lu2	lu[person]	N	N	75	appos	_	
+82	zi-da-num2{ki}	_[Zidanum]	GN	GN	81	GEN	_	
+83	'.	_	_	_	82	_	_	
+84	1(disz)	1(disz)[one]	NU	NU	91	nummod	projectivity violation	
+85	udu	udu[sheep]	N	N	82	appos	_	
+86	niga	niga[fattened][-ø]	V	NF.V.ABS	85	acl	_	
+87	ga-ra-da-du	_[for.Garadadu]	PN	PN	85	DAT	_	
+88	szimaszgi	szimaszigi[sheep_designation][-ø]	N	N	82	appos	_	
+89	'.	_	_	_	88	_	heuristic: attach to last	
+90	1(disz)	1(disz)[one]	NU	NU	98	nummod	projectivity violation	
+91	udu	udu[sheep]	N	N	82	appos	_	
+92	niga	niga[fattened][-ø]	V	NF.V.ABS	91	acl	_	
+93	a-ri-du-bu-uk	_[for.Ari-dubuk]	PN	PN	91	DAT	_	
+94	lu2	lu[person]	N	N	82	appos	_	
+95	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	94	GEN	_	
+96	'.	_	_	_	95	_	_	
+97	1(disz)	1(disz)[one]	NU	NU	98	nummod	heuristic: NU premodifying	
+98	udu	udu[sheep]	N	N	95	appos	_	
+99	niga	niga[fattened][-ø]	V	NF.V.ABS	98	acl	_	
+100	x-hi-ip-ne-ga-ma-an	_[for.-ipnegaman]	DN	DN	98	DAT	_	
+101	lu2	lu[person]	N	N	100	_	heuristic: attach to last	
+102	szu-ru-ud-hu-um{ki}	_[man.Szurudum]	SN	SN	95	appos	_	
+103	'.	_	_	_	102	_	heuristic: attach to last	
+104	mu-kux(DU)	mukur[delivery][-ø]	N	N	95	appos	_	
+105	{d}nanna-ki-ag2	Nannaki'ag[1]	PN	PN	104	GEN	_	
+106	szabra	szabra[chief_administrator][-ak]	N	N	105	appos	_	
+107	'.	_	_	_	72	_	_	
+108	lugal-inim-gi-na	Lugalinimgina[1][-ak]	PN	PN	109	nmod	_	
+109	sukkal	sukkal[secretary][-ak][-ra]	N	N	110	ABS	_	
+110	maszkim	maszkim[administrator]	N	N.ABS	72	appos	_	
+111	'.	_	NU	NU	119	nummod	projectivity violation	
+112	($	_	FN	FN	111	_	heuristic: attach to last	
+113	blank	_	N	N	112	_	heuristic: attach to last	
+114	space	_	N	N	113	_	heuristic: attach to last	
+115	$)	_	_	_	114	_	heuristic: attach to last	
+116	4(disz)	4(disz)[one]	NU	NU	118	nummod	heuristic: NU premodifying	
+117	'.	_	_	_	116	_	heuristic: attach to last	
+118	u4	ud[day]	N	N	72	appos	_	
+119	8(disz)-kam	8(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	118	nummod	_	
+120	'.	_	N	N	119	DAT	_	
+121	3(disz)	3(disz)[one]	NU	NU	118	nummod	projectivity violation	
+122	x	_[_]	N	N	121	dep	heuristic: attach to last	
+123	{d}x-x	_[for]	DN	DN	120	DAT	_	
+124	'.	_	_	_	123	_	heuristic: attach to last	
+125	4(disz)	4(disz)[one]	NU	NU	126	nummod	heuristic: NU premodifying	
+126	udu	udu[sheep]	N	N	118	appos	_	
+127	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	126	DAT	_	
+128	'.	_	_	_	127	_	heuristic: attach to last	
+129	sza3	szag[heart]	N	N	130	ABL	_	
+130	mu-kux(DU)	mukur[delivery][-ø]	N	N	118	ABL	_	
+131	kasz-de2-a	kaszdea[banquet][-sze]	N	N	130	GEN	_	
+132	esz18-dar-il-szu	_[by.Edar-ilu]	PN	PN	130	ERG	_	
+133	'.	_	_	_	136	_	_	
+134	masz-tur	_[Matur]	PN	PN	136	ABS	_	
+135	sagi	sagi[cup_bearer][-ø]	N	N	134	appos	_	
+136	maszkim	maszkim[administrator]	N	N.ABS	118	parataxis	_	
+137	'.	_	_	_	136	_	heuristic: attach to last	
+138	($	_	_	_	137	_	heuristic: attach to last	
+139	blank	_	_	_	138	_	heuristic: attach to last	
+140	space	_	_	_	139	_	heuristic: attach to last	
+141	$)	_	_	_	140	_	heuristic: attach to last	
+142	7(disz)	7(disz)[one][-sze]	NU	NU	144	nummod	heuristic: NU premodifying	
+143	'.	_	_	_	142	_	heuristic: attach to last	
+144	u4	ud[day]	N	N	136	appos	_	
+145	9(disz)!-kam	9(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	148	nummod	projectivity violation	
+146	'.	_	_	_	145	_	heuristic: attach to last	
+147	1(disz)	1(disz)[one]	NU	NU	152	nummod	projectivity violation	
+148	sila4	sila[lamb]	N	N	144	appos	_	
+149	{d}en-lil2	Enlil[1]	DN	DN	148	DAT	_	
+150	'.	_	_	_	149	_	heuristic: attach to last	
+151	1(disz)	1(disz)[one]	NU	NU	152	nummod	heuristic: NU premodifying	
+152	sila4	sila[lamb]	N	N	148	appos	_	
+153	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	152	DAT	_	
+154	'.	_	_	_	144	_	heuristic: after nominal head	
+155	mu-kux(DU)	mukur[delivery][-ø]	N	N	144	appos	_	
+156	wa-ta2-ru-um	Watarum[1]	PN	PN	155	GEN	_	
+157	sanga	sagga[temple_administrator]	N	N	156	appos	_	
+158	'.	_	_	_	161	_	_	
+159	masz-tur	_[Matur]	PN	PN	161	ABS	_	
+160	sagi	sagi[cup_bearer][-ø]	N	N	159	appos	_	
+161	maszkim	maszkim[administrator]	N	N.ABS	156	appos	_	
+162	'.	_	_	_	161	_	_	
+163	1(disz)	1(disz)[one]	NU	NU	164	nummod	heuristic: NU premodifying	
+164	udu	udu[sheep]	N	N	161	appos	_	
+165	niga	niga[fattened][-ø]	V	NF.V.ABS	164	acl	_	
+166	da-da	Dada[1][-ak]	PN	PN	164	DAT	_	
+167	gala	_[gala]	V	NF.V.3-SG-NH-POSS.GEN	164	acl	_	
+168	'.	_	_	_	170	_	_	
+169	be-li2-i3-li2	_[Bel-il]	PN	PN	170	ABS	_	
+170	maszkim	maszkim[administrator]	N	N.ABS	161	parataxis	_	
+171	'.	_	_	_	170	_	_	
+172	2(disz)	2(disz)[one]	NU	NU	174	nummod	heuristic: NU premodifying	
+173	amar	amar[calf][-ak]	N	N	172	_	heuristic: attach to last	
+174	az	_[bear.cubs]	N	N.GEN	170	appos	_	
+175	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	174	TERM	_	
+176	'.	_	_	_	175	_	heuristic: attach to last	
+177	mu-kux(DU)	mukur[delivery][-ø]	N	N	170	appos	_	
+178	szu-{d}suen	Szusuen[1]	PN	RN	177	GEN	_	
+179	'.	_	_	_	182	_	_	
+180	a-a-kal-la	Ayakala[1]	PN	PN	182	ABS	_	
+181	maszkim	maszkim[administrator]	N	N.ABS	182	_	_	
+182	($	_[was.enforcer]	FN	FN	161	parataxis	_	
+183	blank	_	N	N	182	_	heuristic: after nominal head	
+184	space	_	N	N	182	_	heuristic: after nominal head	
+185	$)	_	_	_	182	_	heuristic: after nominal head	
+186	5(disz)	5(disz)[one]	NU	NU	187	nummod	heuristic: NU premodifying	
+187	u4	ud[day]	N	N	182	appos	_	
+188	1(u)-kam	1(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	182	nummod	_	
+189	1(disz)	1(disz)[one]	NU	NU	188	nummod	_	
+190	sila4	sila[lamb]	N	N	182	appos	_	
+191	{d}nin-hur-sag	Ninhursagak[1][-ra]	DN	DN	190	DAT	_	
+192	1(disz)	1(disz)[one]	NU	NU	182	nummod	_	
+193	sila4	sila[lamb]	N	N	182	appos	_	
+194	{d}szul-pa-e3	_[for.Szulpae]	FN	FN	193	DAT	_	
+195	mu-kux(DU)	mukur[delivery][-ø]	N	N	182	appos	_	
+196	esz18-dar-dingir-szu	_[Edar-ilu]	PN	PN	195	GEN	_	
+197	masz-tur	_[Matur]	PN	PN	199	ABS	_	
+198	sagi	sagi[cup_bearer][-ø]	N	N	197	appos	_	
+199	maszkim	maszkim[administrator]	N	N.ABS	182	appos	_	
+200	2(disz)	2(disz)[one]	NU	NU	199	nummod	_	
+201	masz2	masz[goat]	N	N	199	appos	_	
+202	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	201	TERM	_	
+203	mu-kux(DU)	mukur[delivery][-ø]	N	N	199	appos	_	
+204	lu2-{d}nanna	Lunanna[1]	PN	PN	203	GEN	_	
+205	sagi	sagi[cup_bearer][-ø]	N	N	204	appos	_	
+206	ur-{d}ba-ba6	Urbaba[1]	PN	PN	208	ABS	_	
+207	maszkim	maszkim[administrator]	N	N.ABS	208	_	_	
+208	($	_[was.enforcer]	FN	FN	199	parataxis	_	
+209	blank	_	N	N	208	_	heuristic: after nominal head	
+210	space	_	N	N	208	_	heuristic: after nominal head	
+211	$)	_	_	_	208	_	heuristic: after nominal head	
+212	4(disz)	4(disz)[one]	NU	NU	213	nummod	heuristic: NU premodifying	
+213	u4	ud[day]	N	N	208	appos	_	
+214	1(u)	1(u)[ten]	NU	NU	208	nummod	_	
+215	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	217	nummod	projectivity violation	
+216	1(disz)	1(disz)[one]	NU	NU	208	nummod	_	
+217	sila4	sila[lamb]	N	N	208	appos	_	
+218	{d}nusku	Nusku[1][-ra]	DN	DN	217	DAT	_	
+219	1(disz)	1(disz)[one]	NU	NU	208	nummod	_	
+220	sila4	sila[lamb]	N	N	208	appos	_	
+221	{d}nin-urta	Ninurta[1][-ra]	DN	DN	220	DAT	_	
+222	mu-kux(DU)	mukur[delivery][-ø]	N	N	208	appos	_	
+223	ensi2	ensik[ruler]	N	N	222	GEN	_	
+224	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	223	GEN	_	
+225	masz-tur	_[Matur]	PN	PN	228	ABS	_	
+226	sagi	sagi[cup_bearer][-ø]	N	N	225	appos	_	
+227	maszkim	maszkim[administrator]	N	N.ABS	228	_	_	
+228	($	_[was.enforcer]	FN	FN	208	parataxis	_	
+229	blank	_	N	N	228	_	heuristic: after nominal head	
+230	space	_	N	N	228	_	heuristic: after nominal head	
+231	$)	_	N	N	228	_	heuristic: after nominal head	
+232	2(disz)	2(disz)[one]	NU	NU	233	nummod	heuristic: NU premodifying	
+233	u4	ud[day]	N	N	228	appos	_	
+234	1(u)	1(u)[ten]	NU	NU	228	nummod	_	
+235	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	234	nummod	_	
+236	mu-kux(DU)	mukur[delivery][-ø]	N	N	228	appos	_	
+237	szu-{d}suen	Szusuen[1]	PN	RN	236	GEN	_	
+238	a-a-kal-la	Ayakala[1]	PN	PN	240	ABS	_	
+239	maszkim	maszkim[administrator]	N	N.ABS	240	_	_	
+240	($	_[was.enforcer]	N	N	228	parataxis	_	
+241	blank	_	_	_	240	_	heuristic: after nominal head	
+242	space	_	_	_	240	_	heuristic: after nominal head	
+243	$)	_	_	_	240	_	heuristic: after nominal head	
+244	1(disz)	1(disz)[one]	NU	NU	245	nummod	heuristic: NU premodifying	
+245	u4	ud[day]	N	N	240	appos	_	
+246	1(u)	1(u)[ten]	NU	NU	240	nummod	_	
+247	3(disz)-kam	3(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	249	nummod	_	
+248	1(disz)	1(disz)[one]	NU	NU	247	nummod	_	
+249	{munus}asz2-gar3	aszgar[female_kid]	PN	N	240	appos	_	
+250	niga	niga[fattened][-ø]	V	NF.V.ABS	249	acl	_	
+251	1(disz)	1(disz)[one]	NU	NU	249	nummod	_	
+252	sila4	sila[lamb]	N	N	249	appos	_	
+253	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	249	TERM	_	
+254	mu-kux(DU)	mukur[delivery][-ø]	N	N	240	appos	_	
+255	ARAD2-mu	Aradmu[1]	PN	PN	254	GEN	_	
+256	ur-{d}ba-ba6	Urbaba[1]	PN	PN	258	ABS	_	
+257	maszkim	maszkim[administrator]	N	N.ABS	258	_	_	
+258	($	_[was.enforcer]	N	N	240	parataxis	_	
+259	blank	_	_	_	258	_	heuristic: after nominal head	
+260	space	_	_	_	258	_	heuristic: after nominal head	
+261	$)	_	_	_	258	_	heuristic: after nominal head	
+262	2(disz)	2(disz)[one]	NU	NU	263	nummod	heuristic: NU premodifying	
+263	u4	ud[day]	N	N	258	appos	_	
+264	1(u)	1(u)[ten]	NU	NU	258	nummod	_	
+265	5(disz)-kam	5(disz)[one]-ak-am[-ak][-ø]	NU	NU.GEN.COP-3-SG	264	nummod	_	
+266	2(u)	2(u)[ten]	NU	NU	268	nummod	_	
+267	6(disz)	6(disz)[one][-sze]	NU	NU	266	nummod	_	
+268	masz-da3	maszda[gazelle][-ø]	N	N	258	appos	_	
+269	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	268	TERM	_	
+270	mu-kux(DU)	mukur[delivery][-ø]	N	N	258	appos	_	
+271	ur-{d}en-gal-du-du	_[Ur-Engaldudu]	PN	PN	270	GEN	_	
+272	giri3	giri[foot]	N	N	273	via	_	
+273	tah-sza-tal	_[Taatal]	PN	PN	258	via	_	
+274	ra2-gaba	ragaba[rider]	N	N.ABS	273	appos	_	
+275	($	_	_	_	273	_	heuristic: after nominal head	
+276	blank	_	_	_	273	_	heuristic: after nominal head	
+277	space	_	_	_	273	_	heuristic: after nominal head	
+278	$)	_	_	_	273	_	heuristic: after nominal head	
+279	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+280	6(disz)	6(disz)[one][-sze]	NU	NU	279	nummod	_	
+281	u4	ud[day]	N	N	273	appos	_	
+282	1(u)	1(u)[ten]	NU	NU	281	nummod	_	
+283	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	286	nummod	projectivity violation	
+284	1(disz)	1(disz)[one]	NU	NU	288	nummod	projectivity violation	
+285	amar	amar[calf][-ak]	N	N	290	nummod	projectivity violation	
+286	az	_[bear.cub]	N	N.GEN	281	appos	_	
+287	mu-kux(DU)	mukur[delivery][-ø]	N	N	286	appos	_	
+288	szu-{d}suen	Szusuen[1]	PN	RN	287	GEN	_	
+289	1(disz)	1(disz)[one]	NU	NU	292	nummod	projectivity violation	
+290	sila4	sila[lamb]	N	N	288	appos	_	
+291	mu-kux(DU)	mukur[delivery][-ø]	N	N	288	appos	_	
+292	s,e-lu-usz-{d}da-gan	_[ellu-Dagan]	PN	PN	291	GEN	_	
+293	1(disz)	1(disz)[one]	NU	NU	296	nummod	projectivity violation	
+294	sila4	sila[lamb]	N	N	292	appos	_	
+295	mu-kux(DU)	mukur[delivery][-ø]	N	N	292	appos	_	
+296	dingir-DI-ma-at	_[Il-DImat]	PN	PN	295	GEN	_	
+297	sagi	sagi[cup_bearer][-ø]	N	N	296	appos	_	
+298	1(disz)	1(disz)[one]	NU	NU	296	nummod	_	
+299	sila4	sila[lamb]	N	N	296	appos	_	
+300	mu-kux(DU)	mukur[delivery][-ø]	N	N	296	appos	_	
+301	lugal-ma2-gur8-re	Lugalmagure[1][-ø]	PN	PN	300	GEN	_	
+302	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	295	TERM	_	
+303	ur-{d}ba-ba6	Urbaba[1]	PN	PN	305	ABS	_	
+304	maszkim	maszkim[administrator]	N	N.ABS	305	_	_	
+305	($	_[was.enforcer]	N	N	281	parataxis	_	
+306	blank	_	_	_	305	_	heuristic: after nominal head	
+307	space	_	_	_	305	_	heuristic: after nominal head	
+308	$)	_	_	_	305	_	heuristic: after nominal head	
+309	4(disz)	4(disz)[one]	NU	NU	310	nummod	heuristic: NU premodifying	
+310	u4	ud[day]	N	N	305	appos	_	
+311	2(u)-kam	2(u)[ten]-ak-am	NU	NU.GEN.COP-3-SG	305	nummod	_	
+312	2(disz)	2(disz)[one]	NU	NU	315	nummod	projectivity violation	
+313	sila4	sila[lamb]	N	N	305	appos	_	
+314	mu-kux(DU)	mukur[delivery][-ø]	N	N	313	appos	_	
+315	wa-ta2-ru-um	Watarum[1]	PN	PN	314	GEN	_	
+316	sanga	sagga[temple_administrator]	N	N	315	appos	_	
+317	1(disz)	1(disz)[one]	NU	NU	320	nummod	projectivity violation	
+318	sila4	sila[lamb]	N	N	315	appos	_	
+319	mu-kux(DU)	mukur[delivery][-ø]	N	N	315	appos	_	
+320	s,e-lu-usz-{d}da-gan	_[ellu-Dagan]	PN	PN	319	GEN	_	
+321	1(disz)	1(disz)[one]	NU	NU	324	nummod	projectivity violation	
+322	sila4	sila[lamb]	N	N	320	appos	_	
+323	mu-kux(DU)	mukur[delivery][-ø]	N	N	320	appos	_	
+324	ze2-na-na	_[Zenana]	PN	PN.ERG	323	GEN	_	
+325	1(disz)	1(disz)[one]	NU	NU	328	nummod	projectivity violation	
+326	sila4	sila[lamb]	N	N	324	appos	_	
+327	mu-<kux(DU)>	mukur[delivery][-ø]	N	N	324	appos	_	
+328	a-da-tum	_[Adatum]	PN	PN	327	GEN	_	
+329	2(disz)	2(disz)[one]	NU	NU	305	nummod	projectivity violation	
+330	udu	udu[sheep]	N	N	328	appos	_	
+331	niga	niga[fattened][-ø]	V	NF.V.ABS	330	acl	_	
+332	mu-kux(DU)	mukur[delivery][-ø]	N	N	328	appos	_	
+333	be-li2-a-ri2-ik	_[Bel-arik]	PN	PN	332	GEN	_	
+334	'.	_	_	_	336	_	_	
+335	1(disz)	1(disz)[one]	NU	NU	336	nummod	heuristic: NU premodifying	
+336	sila4	sila[lamb]	N	N	305	appos	_	
+337	me-{d}isztaran	Me'isztaran[1]	PN	PN	336	DAT	_	
+338	'.	_	_	_	337	_	heuristic: attach to last	
+339	mu-kux(DU)	mukur[delivery][-ø]	N	N	336	appos	_	
+340	be-li2-a-ri2-ik	_[Bel-arik]	PN	PN	339	GEN	_	
+341	'.	_	_	_	343	_	_	
+342	ARAD2-mu	Aradmu[1]	PN	PN	343	ABS	_	
+343	maszkim	maszkim[administrator]	N	N.ABS	305	parataxis	_	
+344	'.	_	_	_	343	_	_	
+345	($	_	FN	FN	343	_	heuristic: after nominal head	
+346	blank	_	N	N	343	_	heuristic: after nominal head	
+347	space	_	N	N	343	_	heuristic: after nominal head	
+348	$)	_	_	_	343	_	heuristic: after nominal head	
+349	1(disz)	1(disz)[one]	NU	NU	351	nummod	heuristic: NU premodifying	
+350	'.	_	_	_	349	_	heuristic: attach to last	
+351	u4	ud[day]	N	N	343	appos	_	
+352	2(u)	2(u)[ten]	NU	NU	0	nummod	_	
+353	7(disz)-kam	7(disz)[one]-ak-am[-'a]	NU	NU.GEN.COP-3-SG	352	nummod	_	
+354	szunigin	szunigin[total]	N	N	343	appos	_	
+355	4(disz)	4(disz)[one]	NU	NU	343	nummod	projectivity violation	
+356	udu	udu[sheep]	N	N	354	appos	_	
+357	niga	niga[fattened][-ø]	V	NF.V.ABS	356	acl	_	
+358	szunigin	szunigin[total]	N	N	343	appos	_	
+359	1(disz)	1(disz)[one]	NU	NU	343	nummod	projectivity violation	
+360	{munus}asz2-gar3	aszgar[female_kid]	PN	N	358	appos	_	
+361	niga	niga[fattened][-ø]	V	NF.V.ABS	360	acl	_	
+362	szunigin	szunigin[total]	N	N	343	appos	_	
+363	1(u)	1(u)[ten]	NU	NU	343	nummod	projectivity violation	
+364	4(disz)	4(disz)[one]	NU	NU	363	nummod	_	
+365	sila4	sila[lamb]	N	N	362	appos	_	
+366	szunigin	szunigin[total]	N	N	343	appos	_	
+367	2(disz)	2(disz)[one]	NU	NU	368	nummod	_	
+368	masz2	masz[goat]	N	N	343	appos	_	
+369	szunigin	szunigin[total]	N	N	368	appos	_	
+370	2(u)	2(u)[ten]	NU	NU	372	nummod	_	
+371	6(disz)	6(disz)[one][-sze]	NU	NU	370	nummod	_	
+372	masz-da3	maszda[gazelle][-ø]	N	N	368	appos	_	
+373	szunigin	szunigin[total]	N	N	372	appos	_	
+374	5(disz)	5(disz)[one]	NU	NU	376	nummod	_	
+375	amar	amar[calf][-ak]	N	N	374	_	heuristic: attach to last	
+376	az	_[bear.cubs]	N	N.GEN	372	appos	_	
+377	zi-ga	zig[expend]-a	V	NF.V.PT	376	acl	_	
+378	lugal	lugal[king]	N	N	377	ABL	_	
+379	szunigin	szunigin[total]	N	N	376	appos	_	
+380	1(disz)	1(disz)[one]	NU	NU	379	nummod	_	
+381	masz2-gal	maszgal[billy_goat]	N	N	379	appos	_	
+382	{gesz}gu-za	guza[chair]	N	N	379	appos	_	
+383	{d}szul-gi	Szulgir[1]	RN	RN	382	GEN	_	
+384	szunigin	szunigin[total]	N	N	376	appos	_	
+385	3(disz)	3(disz)[one]	NU	NU	376	nummod	projectivity violation	
+386	gu4	gud[ox]	N	N	384	appos	_	
+387	szunigin	szunigin[total]	N	N	376	appos	_	
+388	5(disz)	5(disz)[one]	NU	NU	389	nummod	_	
+389	udu	udu[sheep]	N	N	376	appos	_	
+390	niga	niga[fattened][-ø]	V	NF.V.ABS	389	acl	_	
+391	szunigin	szunigin[total]	N	N	389	appos	_	
+392	4(u)	4(u)[ten]	NU	NU	394	nummod	_	
+393	1(disz)	1(disz)[one]	NU	NU	392	nummod	_	
+394	udu	udu[sheep]	N	N	389	appos	_	
+395	szunigin	szunigin[total]	N	N	394	appos	_	
+396	1(u)	1(u)[ten]	NU	NU	399	nummod	_	
+397	la2	la[hang][-ø]	V	NF.V.ABS	396	acl	_	
+398	1(disz)	1(disz)[one]	NU	NU	397	nummod	_	
+399	sila4	sila[lamb]	N	N	394	appos	_	
+400	nig2-ba	nigba[gift]	N	N	399	appos	_	
+401	lugal	lugal[king]	N	N	400	GEN	_	
+402	...	_[_]	PN	N	401	dep	_	
+403	x	_[_]	N	N	399	dep	heuristic: after nominal head	
+404	nigin2-ba	_[together]	N	N.3-SG-NH-POSS.L1	399	_	_	
+405	3(disz)	3(disz)[one]	NU	NU	399	nummod	_	
+406	gu4	gud[ox]	N	N	399	appos	_	
+407	nigin2-ba	_[together]	N	N.3-SG-NH-POSS.L1	399	_	_	
+408	1(gesz2)	1(gesz)[sixty]	NU	NU	399	nummod	_	
+409	1(u)	1(u)[ten]	NU	NU	408	nummod	_	
+410	3(disz)	3(disz)[one]	NU	NU	408	nummod	_	
+411	udu	udu[sheep]	N	N	399	appos	_	
+412	nigin2-ba	_[together]	N	N.3-SG-NH-POSS.L1	399	_	_	
+413	3(disz)	3(disz)[one]	NU	NU	399	nummod	_	
+414	masz2	masz[goat]	N	N	399	appos	_	
+415	nigin2-ba	_[together]	N	N.3-SG-NH-POSS.L1	399	_	_	
+416	1(disz)	1(disz)[one]	NU	NU	399	nummod	_	
+417	ud5	uzud[goat]	N	N	399	appos	_	
+418	nigin2-ba	_[together]	N	N.3-SG-NH-POSS.L1	399	_	_	
+419	3(u)	3(u)[ten]	NU	NU	421	nummod	_	
+420	6(disz)	6(disz)[one][-sze]	NU	NU	419	nummod	_	
+421	masz-da3	maszda[gazelle][-ø]	N	N	399	appos	_	
+422	nigin2-ba	_[together]	N	N.3-SG-NH-POSS.L1	421	_	_	
+423	5(disz)	5(disz)[one]	NU	NU	424	nummod	_	
+424	az	_[bears]	N	N.GEN	421	appos	_	
+425	nigin-ba	_[grand.total]	N	N.DEM2.GEN	424	appos	_	
+426	3(disz)	3(disz)[one]	NU	NU	427	nummod	_	
+427	gu4	gud[ox]	N	N	425	appos	_	
+428	nigin-ba	_[grand.total]	N	N.DEM2.GEN	429	acl	_	
+429	1(gesz2)!	1(gesz)[sixty]	NU	NU	427	nummod	_	
+430	1(u)	1(u)[ten]	NU	NU	432	nummod	_	
+431	7(disz)	7(disz)[one][-sze]	NU	NU	430	nummod	_	
+432	udu	udu[sheep]	N	N	427	appos	_	
+433	masz2	masz[goat]	N	N	432	appos	_	
+434	hi-a	hi[mix]-a[-ø]	V	NF.V.PT	432	acl	_	
+435	nigin-ba	_[grand.total]	N	N.DEM2.GEN	432	appos	_	
+436	2(u)	2(u)[ten]	NU	NU	438	nummod	_	
+437	6(disz)	6(disz)[one][-sze]	NU	NU	436	nummod	_	
+438	masz-da3	maszda[gazelle][-ø]	N	N	432	appos	_	
+439	nigin-ba	_[grand.total]	N	N.DEM2.GEN	438	appos	_	
+440	5(disz)	5(disz)[one]	NU	NU	441	nummod	_	
+441	az	_[bears]	N	N.GEN	438	appos	_	
+442	($	_	FN	FN	441	_	heuristic: after nominal head	
+443	blank	_	N	N	441	_	heuristic: after nominal head	
+444	space	_	N	N	441	_	heuristic: after nominal head	
+445	$)	_	_	_	441	_	heuristic: after nominal head	
+446	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+447	5(u)	5(u)[ten]	NU	NU	446	nummod	_	
+448	1(disz)	1(disz)[one]	NU	NU	446	nummod	_	
+449	ki	ki[place]	N	N	441	appos	_	
+450	ab-ba-sa6-ga-ta	Abbasaga[1][-ak]-ta	PN	PN.GEN.ABL	451	GEN	_	
+451	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	441	acl	_	
+452	iti	iti[month]	N	N	453	nmod	_	
+453	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	441	appos	_	
+454	mu	mu[year]	N	N	453	appos	_	
+455	en-mah-gal-an-na	Enmahgalana[1]	PN	PN	458	ABS	_	
+456	en	en[priest]	N	N	455	appos	_	
+457	{d}nanna	Nanna[1][-ak]	DN	DN	456	GEN	_	
+458	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	441	acl	_
 	
 

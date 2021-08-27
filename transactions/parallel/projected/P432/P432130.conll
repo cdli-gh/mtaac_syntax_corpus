@@ -1,790 +1,786 @@
-# train/P432130.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: To Enlil the king of all lands a statue of Ur-Namma the strong man king of Ur king of Sumer and Akkad whose stone is diorite I Ur-Namma the strong man king of Ur and king of Sumer and Akkad when temple of Nanna my master I built and boats of Magan by true verdict of Utu to his control I returned I dedicated it to him At that time within temple of Enlil my master for statue of Ur-Namma a monthly food offering of gur of barley sheep and sila of ghee as regular offerings I established there for him When An and Enlil to Nanna the kingship of Ur did grant at that time for me Ur-Namma the son born of Ninsuna her house-born slave beloved according to his justice according to his righteousness the orders were issued and kingship of Ur was given to him of Laga I elevated To ki-sar-ra the Magan ships of Nanna by might of Nanna my master I returned In Ur I made them shine At that time for fields select there were for long-distance trade chief boat captains there were the chief herdsmen for those who take cattle take sheep or take donkeys At that time I Ur-Namma the strong man king of Ur and king of Sumer and Akkad by might of Nanna my master and by lawful command of Utu justice in country I did indeed establish I returned to their own control Long-distance trade chief sea-captains the chief herdsmen those who take cattle take sheep or take donkeys and Akkadians and foreigners in Sumer and Akkad I returned to their own control At that time Umma Marad GIRkal Kazallu and Makan-pi and Uarum upon which in Anan servitude was being imposed by might of Nanna my master their freedom I established A copper bariga vessel I set up and as sila I standardized it A copper ban vessel I fashioned and as sila I standardized it A just royal ban I fashioned and as I standardized it A sila bronze I fashioned and as mina I standardized it A shekel of silver stone all way up to a mina I standardized At that time on banks of Tigris on banks of Euphrates and on banks of all rivers nidba offerings and first-fruits and hearts-desire offerings I offered there Orchards I planted there and royal gardeners had charge of them The orphan to rich man should not be made subordinate the widow to powerful man should not be made subordinate the man of shekel to man of mina should not be made subordinate the man of sheep to man of ox should not be made subordinate All my generals my mother my sister and brothers and all my relatives did indeed advise me Upon their orders I do not tread and toil I did not set upon them Evil violence and complaint I made disappear justice I established in country At that time If a man has committed murder that man is to be killed If a man has acted like a robber he shall be killed If a man has made someone into a captive that man shall stay in jail and pay shekels of silver If a male slave has married a female slave whom he desires and that male slave is set free she may not leave household If a slave has married a free citizen and son under his master he makes serve the son which under his master he had to make serve of goods of his fathers estate of them and his fathers physical house he shall share A son of a free citizen without a masters agreement into one of his slaves shall not be made If a young mans wife not yet brought into a household has been treated deceitfully by someone and he has brought her into household that man shall be killed If a young mans wife of her own free will has gone after another man and he has lain in her lap and that woman is killed by man that mans freedom shall be established If a mans female slave not yet brought into a household has been seductively treated by man and he has brought her into a household that man shekels of silver shall pay If a man his equal-ranking wife divorces mina of silver he shall pay If a widow he divorces mina of silver he shall pay If for widow a contractual document is lacking and man in her lap has lain he shall not pay any silver If an eri-dingir priestess in a man in lap has lain but he did not know it that man If of witchcraft one man has another man accused and to Ordeal River he has man brought and Ordeal River has then cleared him the man who brings him shekels of silver shall pay If a young mans wife of in a lap having lain a man has accused but River having cleared him the man who accused her rd mina of silver shall pay If a son-in-law into house of his father-in-law has entered but father-in-law afterwards to another man has given her away the wedding gifts twofold he shall give to him If a female or male slave has escaped and border of her town she has crossed over and someone has turned her in the owner of slave to man who turned her in shekels of silver he shall pay If a bone his a man has cut shekels of silver he shall pay If one man against another with a weapon his bone has broken mina of silver he shall pay If one man against another through a fistfight has cut off his nose rd mina of silver he shall pay If with a a bone he has shekels of silver he shall pay If through a fistfight one man skull of another man has split open with something like a weapon rd mina he shall pay If through a fistfight one man skull of another man has split open he shall be beaten with lashes If someones eye a man makes fall out he shall pay mina If a man breaks another mans tooth he shall pay mina If a slave has struck a free citizen when half his head hair has been shaved off he shall be paraded around town If a free citizen has beaten a slave with a strap and with a belt he shall be beaten If a man has died and his wife to her father-in-laws has gone to reside the slaves of her legacy and marriage gifts she may take away If she has no female slaves shekels of silver let her pay him If she has no silver nothing shall she give to him If a female slave a person who as her mistress is acting has cursed indeed sila of salt onto her mouth shall be rubbed If a female slave a person who as her mistress he shall pay If with a forearm the daughter of a man he has hit and thing of her womb he has caused her to miscarry mina of silver he shall pay If she has died that man shall be killed If with a forearm a mans female slave he has hit and an it-has-hurt-me he has done to her shekels of silver he shall pay If the female slave has died a slave for a slave shall serve If a man as a witness came forth and a thief he was made out to be shekels of silver he shall pay If a man as a witness came forth but turned away from an oath the concern of that suit as much as there be he will compensate If a mans field by deception another man has worked and he has plowed it and a trial has been held regarding it and it was put to anothers account that man shall be forced to forfeit his labor If a mans field another man has flooded with water per iku of field gur of barley he shall measure out If a man to another man a field for cultivation has given but he did not plow it and empty land he has left per iku gur of barley he shall measure out If a man to another man a field on irrigable land for cultivation has given per bur of field shekels as its interest the field will generate from him If a man has given to another man a field for cultivation per n shekels he shall pay him
-1	{d}en-lil2	To Enlil	NNP	127	nmod:to	
-2	lugal	king	NN	127	nsubj	
-3	kur-kur-ra	the all lands	DT	2	det	
-4	alan	a statue	NN	2	appos	
-5	ur-{d}namma	Ur-Namma	NNP	4	nmod:of	
-6	nita2	the	DT	7	det	
-7	kal-ga	strong man	NN	2	appos	
-8	lugal	king	NN	2	appos	
-9	uri5{ki}-ma	Ur	NNP	10	compound	
-10	lugal	king	NN	8	nmod:of	
-11	ki-en-gi	Sumer	NNP	10	nmod:of	
-12	ki-uri-ka	and Akkad	CC	11	cc	
-13	na4-bi	whose stone	NN	14	nsubj	
-14	{na4}esi-am3	is diorite	JJ	11	acl:relcl	
-15	ur-{d}namma	I Ur-Namma	NNP	14	conj	
-16	nita2	the	DT	17	det	
-17	kal-ga	strong man	NN	14	conj	
-18	lugal	king	NN	14	conj	
-19	uri5{ki}-ma	Ur	NN	18	nmod:of	
-20	lugal	king	NN	19	conj	
-21	ki-en-gi	Sumer	NNP	19	nmod:of	
-22	ki-uri	and and Akkad	CC	19	cc	
-23	e2	when temple	WRB	117	advmod	
-24	{d}nanna	Nanna	NNP	25	compound	
-25	lugal-ga2	my master I	NN	117	nmod:of	
-26	mu-du3-a	built	VBD	117	acl:relcl	
-27	ma2	_	,	117	_	
-28	ma2-gan{ki}	and boats Magan	CC	117	cc	
-29	di	by	IN	30	nmod:by	
-30	nig2-gi-na	true verdict	NN	117	nmod:by	
-31	{d}utu-ta	Utu	NNP	30	nmod:of	
-32	szu-na	to his control	NN	117	nmod:to	
-33	mu-ni-gi4-a	I returned	VBD	32	acl:relcl	
-34	a	I	PRP	35	nsubj	
-35	mu-na-ru	dedicated it to him	VBD	117	acl:relcl	
-36	u4-ba	At that time	NN	117	nmod:at	
-37	e2	temple	NN	117	nmod:within	
-38	{d}en-lil2	within Enlil	IN	37	nmod:within	
-39	lugal-ga2-ta	my master	NN	37	nmod:of	
-40	alan	_	_	0	_	
-41	ur-{d}namma-ke4	for statue Ur-Namma	NN	117	nmod:for	
-42	nidba	a	DT	117	det	
-43	iti-da	monthly food offering	JJ	117	amod	
-44	1(gesz2)	monthly food offering	NN	117	nummod	
-45	3(u)	_	,	47	nummod	
-46	sze	barley	NN	47	nmod:of	
-47	gur	gur	NN	117	nmod:of	
-48	3(u)	_	,	47	nummod	
-49	udu	sheep	NN	47	conj	
-50	3(u)	_	,	117	nummod	
-51	sila3	sila	NN	47	conj	
-52	i3-nun	and ghee	CC	47	cc	
-53	sa2-du11-sze3	as regular offerings	NNS	117	nmod:as	
-54	mu-na-ni-gar	I established there for him	VBD	53	acl:relcl	
-55	u4	_	_	0	_	
-56	an-ne2	When An	WRB	61	advmod	
-57	{d}en-lil2-le	and Enlil	CC	61	cc	
-58	{d}nanna-ar	to Nanna	NNP	61	nmod:to	
-59	nam-lugal	the kingship	NN	61	nsubj	
-60	uri5{ki}-ma	Ur	NN	59	nmod:of	
-61	mu-na-szum2-mu-usz-a-ba	did grant	VBD	117	acl	
-62	u4-ba	at that time for me	NN	61	nmod:at	
-63	ur-{d}namma	Ur-Namma	NNP	61	_	
-64	dumu	son	NN	63	appos	
-65	tu-da	the born	DT	64	det	
-66	{d}nin-sun2-ka	Ninsuna	NNP	64	nmod:of	
-67	emedu2	her house-born slave	NN	63	appos	
-68	ki-ag2-ga2-ni-ir	beloved	JJ	67	amod	
-69	nig2-si-sa2-ni-sze3	according to his justice	NN	63	nmod:accord	
-70	nig2-gi-na-ni-sze3	according to his righteousness	NN	63	nmod:accord	
-71	a2	the	DT	73	det	
-72	...	_	,	70	dep	
-73	ba-ag2	orders were issued	VBN	70	acl:relcl	
-74	nam-lugal	and kingship	CC	70	cc	
-75	uri5{ki}-ma	Ur	NN	77	nmod:of	
-76	hu-mu-na-szum2	was given to him	VBD	77	auxpass	
-77	si	was given to him	VBN	70	conj	
-78	x	was given to him	TO	79	dep	
-79	...	was given to him	PRP	77	nmod:to	
-80	ba-x-...	_	NN	0	root	
-81	2(disz)	_	NN	80	nummod	
-82	x	_	DT	2	dep	
-83	...	_	,	2	dep	
-84	2(disz)	_	,	2	nummod	
-85	x	_	,	11	dep	
-86	...	_	,	14	dep	
-87	nam-...	_	,	15	_	
-88	...	_	,	14	dep	
-89	...	_	,	14	dep	
-90	...	_	DT	117	dep	
-91	...	_	,	117	dep	
-92	...	_	DT	30	dep	
-93	...	_	,	117	dep	
-94	...	_	,	117	dep	
-95	...	_	.	117	dep	
-96	...	_	,	117	dep	
-97	...	_	DT	37	dep	
-98	...	_	,	117	dep	
-99	...	_	DT	41	dep	
-100	...	_	CD	47	dep	
-101	...	_	CD	51	dep	
-102	...	_	.	117	dep	
-103	...	_	,	61	dep	
-104	...	_	,	61	dep	
-105	...	_	,	61	dep	
-106	...	_	,	63	dep	
-107	a2	_	_	0	_	
-108	{d}nanna	_	_	0	_	
-109	lugal-ga2-ta	_	_	0	_	
-110	abul	_	_	0	_	
-111	imin-bi	_	_	0	_	
-112	gal2	_	_	0	_	
-113	mu-un-da-an-taka4	_	_	0	_	
-114	nam-ha-ni	_	_	0	_	
-115	ensi2	_	_	0	_	
-116	lagasz{ki}	Laga	NNP	117	nmod:of	
-117	he2-mi-il2	I elevated	VBD	14	advcl	
-118	ki-sar-ra	To ki-sar-ra	NN	2	nmod:to	
-119	ma2	_	_	0	_	
-120	ma-gan{ki}-na	the Magan ships	NNS	118	_	
-121	{d}nanna	Nanna	NNP	120	nmod:of	
-122	a2	by	IN	123	nmod:by	
-123	{d}nanna	might Nanna	NN	118	nmod:by	
-124	lugal-ga2-ta	my master	NN	123	_	
-125	he2-mi-gi4	I returned	VBD	118	acl:relcl	
-126	uri5{ki}-ma	In Ur	NN	127	nmod:in	
-127	ha-ba-zalag	I made them shine	VBD	0	root	
-128	u4-ba	At that time	NN	256	nmod:at	
-129	a-sza3	_	_	0	_	
-130	ni-is-qum	for fields select	NNS	256	nmod:for	
-131	i3-gal2-la-am3	there were	VBD	130	acl	
-132	nam-ga-esz8	for long-distance trade	IN	133	nmod:for	
-133	ma2-lah5-gal	chief boat captains	NNS	134	nmod:for	
-134	i3-gal2-la-am3	there were	VBD	131	parataxis	
-135	utul4-e	the chief herdsmen	NNS	139	nsubj	
-136	gu4	_	,	139	_	
-137	dab5	for	IN	135	nmod:for	
-138	udu	sheep	NN	139	dobj	
-139	dab5	those who take cattle take	VBP	131	parataxis	
-140	ansze	or donkeys	CC	139	cc	
-141	dab5	take	VB	139	conj	
-142	i3-gal2-la-am3	_	_	0	_	
-143	...	_	_	0	dep	
-144	x	_	_	0	dep	
-145	...	_	_	0	dep	
-146	...	_	_	0	dep	
-147	...	_	_	0	dep	
-148	...	_	_	0	dep	
-149	...	_	_	0	dep	
-150	u4-ba	At that time	NN	142	nmod:at	
-151	ur-{d}namma	I Ur-Namma	PRP	142	appos	
-152	nita2	the	DT	153	det	
-153	kal-ga	strong man	NN	151	appos	
-154	lugal	king	NN	151	conj	
-155	uri5{ki}-ma	Ur	NN	154	nmod:of	
-156	lugal	king	NN	151	conj	
-157	ki-en-gi	Sumer	NNP	151	nmod:of	
-158	ki-uri	and and Akkad	CC	151	cc	
-159	a2	by	IN	160	nmod:by	
-160	{d}nanna	might Nanna	NN	142	nmod:by	
-161	lugal-ga2-ta	my master	NN	160	_	
-162	inim	and by command	CC	160	cc	
-163	gi-na	lawful	JJ	160	amod	
-164	{d}utu-ta	of Utu	NNP	160	nmod:of	
-165	nig2-si-sa2	justice	NN	164	appos	
-166	kalam-ma	country	NN	165	nmod:in	
-167	hu-mu-ni-gar	in I did indeed establish	IN	166	nmod:in	
-168	...	in I did indeed establish	PRP	166	dep	
-169	x	in I did indeed establish	VBD	166	dep	
-170	...	in I did indeed establish	RB	166	dep	
-171	szu-ba	I	PRP	172	nsubj	
-172	he2-mi-gi4	returned to their own control	VBD	256	acl:relcl	
-173	nam-ga-esz8	Long-distance trade	NN	179	nsubj	
-174	ma2-lah5-gal	chief sea-captains	NNS	173	_	
-175	utul4-e	the chief herdsmen	NNS	174	appos	
-176	gu4	_	,	179	_	
-177	dab5	_	_	0	_	
-178	udu	sheep	NN	179	dobj	
-179	dab5	those who take cattle take	VBP	256	parataxis	
-180	ansze	or donkeys	CC	179	cc	
-181	dab5	take	VB	179	conj	
-182	uri	and	CC	179	cc	
-183	lu2-gir5-ra	Akkadians and foreigners	NNPS	179	conj	
-184	ki-en-gi	Sumer	NNP	183	nmod:in	
-185	ki-uri-a	in and Akkad	IN	184	nmod:in	
-186	szu-ba	I	PRP	187	nsubj	
-187	he2-mi-gi4	returned to their own control	VBD	183	acl:relcl	
-188	u4-ba	At that time	NN	307	nmod:at	
-189	umma{ki}	Umma	NNP	307	nsubj	
-190	a.	_	,	189	_	
-191	mar2-da{ki}	Marad	NNP	189	conj	
-192	b.	_	,	189	_	
-193	GIR2-kal{ki}	GIRkal	NNP	189	conj	
-194	a.	_	_	0	_	
-195	ka-za-lu{ki}	Kazallu	NNP	189	conj	
-196	b.	_	,	189	_	
-197	u3	and	CC	189	cc	
-198	masz-kan2-pi2	Makan-pi	NNP	189	conj	
-199	u2-s,a-ru-um{ki}	and Uarum	CC	189	cc	
-200	a.	_	_	0	_	
-201	nig2	_	_	0	_	
-202	an-sza-an{ki}-a	upon which in Anan	WDT	205	nmod:upon	
-203	b.	_	,	189	_	
-204	nam-ARAD2	servitude	NN	205	nmod:in	
-205	he2-eb-ak-e	was being imposed	VBN	189	acl:relcl	
-206	a2	by	IN	207	nmod:by	
-207	{d}nanna	might Nanna	NN	189	nmod:by	
-208	lugal-ga2-ta	my master	NN	207	_	
-209	ama-ar-gi4-bi	their freedom	NN	189	appos	
-210	hu-mu-gar	I established	VBD	209	acl:relcl	
-211	{uruda}ba-ri2-ga	A copper bariga vessel	NN	189	appos	
-212	hu-mu-gub	I set up	VBD	211	acl:relcl	
-213	1(gesz2)	_	.	189	nummod	
-214	sila3-am3	and as sila	CC	189	cc	
-215	he2-ni-ge-en	I standardized it	JJ	189	acl:relcl	
-216	{uruda}ba-an	A	DT	217	det	
-217	hu-mu-dim2	copper ban vessel I fashioned	NN	189	conj	
-218	1(u)	_	.	189	nummod	
-219	sila3-am3	and as sila	CC	189	cc	
-220	he2-ni-ge-en	I standardized it	JJ	189	acl:relcl	
-221	{uruda}ba-an	A	DT	223	det	
-222	si-sa2	just	RB	223	advmod	
-223	lugal-la	royal ban	NN	189	conj	
-224	hu-mu-dim2	I fashioned	VBD	223	acl:relcl	
-225	6(disz)-am3	_	.	189	nummod	
-226	he2-ni-ge-en	and as I standardized it	CC	189	cc	
-227	1(disz)	_	_	0	nummod	
-228	sila3	sila	NN	229	compound	
-229	zabar	A bronze	NN	189	_	
-230	hu-mu-dim2	I fashioned	VBD	229	acl:relcl	
-231	1(disz)	_	_	0	nummod	
-232	ma-na-am3	and as mina	CC	229	cc	
-233	he2-ni-ge-en	I standardized it	JJ	229	acl:relcl	
-234	1(disz)	_	_	0	nummod	
-235	gin2	shekel	NN	189	_	
-236	ku3	silver	NN	235	compound	
-237	na4	A stone	DT	235	det	
-238	za3	_	_	0	_	
-239	1(disz)	_	_	0	nummod	
-240	ma-na-e	all way up to a mina	NN	235	_	
-241	he2-ni-ge-en	I standardized	JJ	240	acl:relcl	
-242	u4-ba	At that time	NN	189	nmod:at	
-243	gu2	_	,	307	_	
-244	{i7}idigna	on banks Tigris	NNS	307	nmod:on	
-245	gu2	_	,	246	_	
-246	{i7}buranun	on banks Euphrates	NNS	307	nmod:on	
-247	gu2	_	,	251	_	
-248	i7	_	_	0	_	
-249	du3-a-bi	and on banks all rivers	CC	246	cc	
-250	nidba	nidba offerings	JJ	251	amod	
-251	...	nidba offerings	NNS	246	dep	
-252	nesag	_	_	0	_	
-253	sza3-ge-guru7	and first-fruits and hearts-desire offerings	CC	251	cc	
-254	x	and first-fruits and hearts-desire offerings	NNS	261	nsubj	
-255	...	and first-fruits and hearts-desire offerings	CC	254	dep	
-256	 	_	_	0	_	
-257	gesz	_	.	261	_	
-258	he2-em-mi-in-tag	I offered there	VBD	252	acl:relcl	
-259	{gesz}kiri6	Orchards	NNPS	260	compound	
-260	he2-em-mi-gub	I planted there	PRP	261	nsubj	
-261	...	I planted there	VBD	251	conj	
-262	szandana	and	CC	264	cc	
-263	lugal-e	_	.	251	_	
-264	he2-eb2-tuku	royal gardeners had charge them	VBD	261	ccomp	
-265	nu-siki	The orphan	NN	268	nsubjpass	
-266	lu2	_	_	0	_	
-267	nig2-tuku-ra	to rich man	NN	265	nmod:to	
-268	ba-ra-na-an-gar	should not be made subordinate	VBN	251	acl	
-269	nu-mu-un-SU	the widow	NN	272	nsubjpass	
-270	lu2	_	_	0	_	
-271	a2-tuku-ra	to powerful man	NN	269	nmod:to	
-272	ba-ra-na-an-gar	should not be made subordinate	VBN	268	conj	
-273	lu2	the man	NN	279	nsubjpass	
-274	1(disz)	_	_	0	nummod	
-275	gin2-e	shekel	NN	273	nmod:of	
-276	lu2	_	_	0	_	
-277	1(disz)	_	_	0	nummod	
-278	ma-na-ra	to man mina	NN	273	nmod:to	
-279	ba-ra-na-an-gar	should not be made subordinate	VBN	268	conj	
-280	lu2	the	DT	282	det	
-281	1(disz)	_	_	0	nummod	
-282	udu-ra	man sheep	NN	286	nsubjpass	
-283	lu2	to man	NN	282	nmod:to	
-284	1(disz)	_	_	0	nummod	
-285	gu4-e	ox	NN	283	nmod:of	
-286	ba-ra-na-an-gar	should not be made subordinate	VBN	268	conj	
-287	szagina-szagina-mu-ne	All my generals	NNS	293	nsubj	
-288	ama-mu	my mother my	NN	287	appos	
-289	nin9	sister	NN	287	appos	
-290	szesz-szesz-mu	and brothers	CC	289	cc	
-291	su-a-su-a-mu-ne	and all my relatives	CC	287	cc	
-292	sa2	did	VBD	293	aux	
-293	ha-ba-an-gar-re-esz	indeed advise me	VB	268	parataxis	
-294	a2-ag2-ga2-ne-ne-a	Upon their orders	NNS	293	nmod:upon	
-295	a.	_	,	293	_	
-296	ba-ra-ba-gub-be2-en	I do not tread	VB	294	acl:relcl	
-297	b.	_	.	299	_	
-298	kin	and	CC	293	cc	
-299	ba-ra-ba-ni-gar	toil I did not set upon them	VBP	293	conj	
-300	nig2-erim2	Evil	NN	299	_	
-301	nig2-a2-zi	violence	NN	300	conj	
-302	i-{d}utu	and	CC	300	cc	
-303	u2-gu	complaint	NN	300	conj	
-304	he2-ni-de2	I made disappear	VBD	303	acl:relcl	
-305	nig2-si-sa2	justice	NN	307	compound	
-306	kalam-ma	country	NN	307	nmod:in	
-307	hu-mu-ni-gar	I established in	VBD	127	parataxis	
-308	a.	_	_	0	_	
-309	u4-ba	At that time	NN	343	nmod:at	
-310	tukum-bi	If	IN	314	mark	
-311	lu2-u3	a man	NN	314	nsubj	
-312	sag	_	,	316	_	
-313	gesz	_	_	0	_	
-314	bi2-in-ra	has committed murder	VBN	316	advcl	
-315	lu2-bi	that man	NN	316	nsubj	
-316	i3-gaz-e-dam	is to be killed	VBZ	309	parataxis	
-317	tukum-bi	If	IN	319	mark	
-318	lu2-u3	a man	NN	319	nsubj	
-319	sa-gaz-sze3	has acted like	VBN	321	advcl	
-320	in-ak	a	DT	319	det	
-321	in-gaz-e	robber he shall be killed	VBN	316	parataxis	
-322	tukum-bi	If	IN	324	mark	
-323	lu2-u3	a man	NN	324	nsubj	
-324	sze29-sze3	has made someone	VBN	328	advcl	
-325	in-ak	into a captive	NN	324	nmod:into	
-326	lu2-bi	that man	NN	328	nsubj	
-327	en-nu-ga2	in	IN	328	nmod:in	
-328	i3-ti-le	shall stay jail	VB	316	parataxis	
-329	1(u)	_	.	309	nummod	
-330	5(disz)	_	_	329	nummod	
-331	gin2	shekels	NNS	328	dobj	
-332	ku3-babbar	silver	NN	331	nmod:of	
-333	i3-la2-e	and pay	CC	328	cc	
-334	tukum-bi	If	IN	338	mark	
-335	ARAD2-de3	a male slave	NN	338	nsubj	
-336	geme2	female	JJ	337	amod	
-337	a2-asz2-a-ni	slave whom he	NN	338	dobj	
-338	in-tuku	has married a desires	VBN	309	acl	
-339	ARAD2-bi	and	CC	338	cc	
-340	ama-ar-gi4-ni	that male slave	IN	341	mark	
-341	i3-ga2-ga2	is set free	VBN	338	conj	
-342	e2-ta	she	PRP	343	nsubj	
-343	nu-ub-ta-e3	may not leave household	VB	307	parataxis	
-344	tukum-bi	If	IN	347	mark	
-345	ARAD2-de3	a slave	NN	347	nsubj	
-346	dumu-gi7	a free citizen	NN	347	dobj	
-347	in-tuku	has married	VBN	380	advcl	
-348	dumu-nita	and son under	CC	347	cc	
-349	1(disz)-am3	_	_	0	nummod	
-350	lugal-a-ni-ir	his master	NN	347	nmod:under	
-351	in-na-an-gub-bu	he makes serve	VBZ	347	acl:relcl	
-352	dumu	son	NN	351	dobj	
-353	lugal-a-ni-ir	the which under his master	DT	352	det	
-354	in-na-ab-gub-bu-da	he had to make serve	VBD	352	acl:relcl	
-355	nig2-gur11	of	IN	357	nmod:of	
-356	e2	_	CD	357	nummod	
-357	ad-da-na	goods his fathers estate	NNS	354	nmod:of	
-358	1/2(disz)-bi	_	.	347	nummod	
-359	e2-gar8	them and	PRP	357	nmod:of	
-360	e2	_	_	0	_	
-361	ad-da-na	his fathers	NN	362	nmod:poss	
-362	i3-ba-e	share physical house he shall	NN	354	conj	
-363	dumu	son	NN	368	nsubjpass	
-364	dumu-gi7	A a free citizen	DT	363	det	
-365	lugal-da	without	IN	366	nmod:without	
-366	nu-me-a	agreement a masters	NN	363	nmod:without	
-367	nam-ARAD2-da-ni-sze3	into one his slaves	CD	366	nmod:into	
-368	la-ba-an-ku4-re	shall not be made	VBN	347	ccomp	
-369	tukum-bi	If	IN	376	mark	
-370	dam	wife	NN	376	nsubjpass	
-371	gurusz-a	a young mans	NN	370	nmod:poss	
-372	a	_	,	370	_	
-373	nu-gi4-a	household not yet brought into a	VBN	370	acl	
-374	nig2-a2-gar-sze3	has been	VBZ	376	aux	
-375	lu2	_	,	347	_	
-376	in-ak-ma	treated deceitfully by someone	VBN	368	advcl	
-377	a	_	,	380	_	
-378	bi2-in-gi4	and he has brought her into household	CC	347	cc	
-379	nita2-bi	that man	NN	380	nsubjpass	
-380	i3-gaz-e	shall be killed	VBN	127	parataxis	
-381	tukum-bi	If	IN	386	mark	
-382	dam	wife	NN	386	nsubj	
-383	gurusz-a	a young mans	NN	382	nmod:poss	
-384	ni2-te-a-ni-ta	of her own free will	NN	382	nmod:of	
-385	lu2	_	_	0	_	
-386	ba-an-us2-ma	has gone after another man	VBN	380	advcl	
-387	ur2-ra-na	and in her lap	CC	386	cc	
-388	ba-an-nu2	he has lain	VBN	386	conj	
-389	munus-bi	and that woman	CC	380	cc	
-390	lu2	man	NN	391	nmod:by	
-391	i3-gaz-e	is killed by	VBN	380	conj	
-392	nita2-bi	that mans	NN	393	nmod:poss	
-393	ama-ar-gi4-ni	freedom	NN	394	nsubjpass	
-394	i3-ga2-ga2	shall be established	VBN	391	parataxis	
-395	tukum-bi	If	IN	399	mark	
-396	geme2	female	JJ	397	amod	
-397	lu2	a mans slave	NN	399	nsubj	
-398	e2	_	_	0	_	
-399	nu-gi4-a	not yet brought into a household	VBN	402	advcl	
-400	nig2-a2-gar-sze3	has been seductively	VBZ	402	aux	
-401	lu2	_	,	391	_	
-402	i3-ak	treated by man	VBN	391	parataxis	
-403	e2	_	,	391	_	
-404	bi2-gi4	and he has brought her into a household	CC	391	cc	
-405	lu2-bi	that man	NN	391	conj	
-406	5(disz)	_	_	0	nummod	
-407	gin2	shekels	NNS	409	nsubj	
-408	ku3-babbar	silver	NN	407	nmod:of	
-409	i3-la2-e	shall pay	VB	405	acl:relcl	
-410	tukum-bi	If	IN	391	mark	
-411	lu2	a man	NN	391	nsubj	
-412	dam	wife	NN	414	compound	
-413	nita3-dam-a-ni	his equal-ranking	PRP$	414	nmod:poss	
-414	i3-tak4-tak4	divorces	NNS	411	_	
-415	1(disz)	_	_	0	nummod	
-416	ma-na	mina	NN	414	appos	
-417	ku3-babbar	silver	NN	416	nmod:of	
-418	i3-la2-e	he shall pay	VB	416	acl:relcl	
-419	tukum-bi	If	IN	433	mark	
-420	nu-ma-SU	a widow	NN	433	_	
-421	i3-tak4-tak4	he divorces	VBZ	420	acl:relcl	
-422	1/2(disz)	_	_	0	nummod	
-423	ma-na	mina	NN	420	appos	
-424	ku3	silver	NN	423	nmod:of	
-425	i3-la2-e	he shall pay	VB	423	acl:relcl	
-426	tukum-bi	If	IN	433	_	
-427	nu-ma-SU	for widow	NN	426	nmod:for	
-428	dub	_	_	0	_	
-429	ka-kesz2	a contractual document	NN	430	nsubj	
-430	nu-me-a	is lacking	VBG	427	acl:relcl	
-431	lu2	man	NN	433	_	
-432	ur2-ra-na	and in her lap	CC	431	cc	
-433	ba-an-nu2	has lain	VBN	391	advcl	
-434	ku3	silver	NN	391	dobj	
-435	nu-la2-e	he shall not pay any	PRP	391	nsubj	
-436	...	he shall not pay any	MD	391	dep	
-437	tukum-bi	If	IN	674	mark	
-438	erisz-dingir	an eri-dingir priestess	NN	674	nsubjpass	
-439	...-ba	_	NN	442	nmod:in	
-440	lu2	_	_	0	_	
-441	ur2-ra	in a man in lap	IN	438	nmod:in	
-442	...	in a man in lap	NN	443	nsubj	
-443	ba-nu2	has lain	VBN	438	acl:relcl	
-444	nu-un-zu	but he did not know it	CC	438	cc	
-445	nita2-bi	that man	DT	446	det	
-446	i3-bi2-TUR-ne-esz	that man	NN	438	_	
-447	tukum-bi	If	IN	450	mark	
-448	nam-|KAxX|-zu	witchcraft	NN	450	nmod:of	
-449	lu2	_	_	0	_	
-450	lu2-ra	one man has another man	VBZ	462	advcl	
-451	in-da-ab-la2	accused	VBN	450	acl	
-452	{d}i7-lu2-ru-gu2-sze3	and to Ordeal River	CC	450	cc	
-453	lu2	_	,	450	_	
-454	i3-tum2-mu	he has man brought	VBZ	450	acl:relcl	
-455	{d}i7-lu2-ru-gu2	and Ordeal River	CC	450	cc	
-456	um-zalag-zalag	has then cleared him	VBN	450	conj	
-457	lu2	_	CD	460	nummod	
-458	in-tum2-mu	the man who brings him	NN	462	nsubj	
-459	3(disz)	_	_	0	nummod	
-460	gin2	shekels	NNS	458	dobj	
-461	ku3-babbar	silver	NN	460	nmod:of	
-462	i3-la2-e	shall pay	VB	446	acl	
-463	tukum-bi	If	IN	469	mark	
-464	dam	wife	NN	469	nsubj	
-465	gurusz-a-da	a young mans	NN	464	nmod:poss	
-466	ur2-ra	of in a lap	IN	464	acl	
-467	nu2-a	having lain	VBN	466	acl	
-468	lu2	a	DT	467	det	
-469	i3-da-la2	man has accused	VBN	462	advcl	
-470	i7-de3	but River	CC	469	cc	
-471	u3-um-zalag-zalag	having cleared him	VBN	469	conj	
-472	lu2	_	_	0	_	
-473	i3-da-la2-a	the man who accused her	NN	477	nsubj	
-474	1/3(disz){sza}	_	_	0	nummod	
-475	ma-na	rd mina	NN	473	dobj	
-476	ku3	silver	NN	475	nmod:of	
-477	i3-la2-e	shall pay	VB	462	parataxis	
-478	tukum-bi	If	IN	482	mark	
-479	mu10-us2-sa2-tur	a son-in-law	NN	482	nsubj	
-480	e2	house	NN	479	nmod:into	
-481	u2-ur3-ra-na-ka	into his father-in-law	IN	480	nmod:into	
-482	i3-in-ku4	has entered	VBN	462	advcl	
-483	u2-ur3	but father-in-law	CC	482	cc	
-484	egir5-bi-ta	afterwards	RB	491	advmod	
-485	lu2	to another man	TO	491	nmod:to	
-486	...	to another man	DT	491	dep	
-487	ba-an-na-szum2	has given her away	VBN	491	acl:relcl	
-488	nig2-mu10-us2-sa2	the wedding gifts	NNS	491	nsubj	
-489	a-ra2	twofold	RB	491	advmod	
-490	2(disz)-am3	_	,	491	nummod	
-491	i3-na-szum2	he shall give to him	VB	482	acl	
-492	tukum-bi	If	IN	512	mark	
-493	...-a	_	_	0	_	
-494	a.	a	DT	496	det	
-495	geme2	female	JJ	496	amod	
-496	ARAD2	slave	NN	499	nsubj	
-497	(x)	or male	CC	495	cc	
-498	b.	_	,	644	_	
-499	ba-zah3	has escaped	VBN	644	acl:relcl	
-500	ki-sur-ra	_	_	0	_	
-501	iri-na-ka	and border her town	CC	644	cc	
-503	lu2	_	,	512	_	
-504	im-mi-gur	and someone has turned her in	CC	644	cc	
-505	lugal	_	_	0	_	
-506	sag-ga2-ke4	the owner slave	NN	512	nsubj	
-507	lu2	_	CD	510	nummod	
-508	im-mi-in-gur-ra	to man who turned her in	NN	506	nmod:to	
-509	2(disz)	_	_	0	nummod	
-510	gin2	shekels	NNS	508	nmod:in	
-511	ku3-babbar	silver	NN	510	nmod:of	
-512	i3-na-la2-e	he shall pay	VB	491	parataxis	
-513	tukum-bi	If	IN	625	mark	
-514	giri3-pad-ra2	a bone	NN	625	nsubj	
-515	...-a-ni	his	PRP$	514	nmod:poss	
-516	lu2	a man	NN	517	nsubj	
-517	in-ku5	has cut	VBN	514	acl:relcl	
-518	1(u)	_	_	0	nummod	
-519	gin2	shekels	NNS	514	appos	
-520	ku3-babbar	silver	NN	519	nmod:of	
-521	i3-la2-e	he shall pay	VB	519	acl:relcl	
-522	tukum-bi	If	IN	620	mark	
-523	lu2	_	_	0	_	
-524	lu2-ra	one man against another	NN	620	nsubj	
-525	{gesz}tukul-ta	with a weapon	NN	524	nmod:with	
-526	giri3-pad-ra2	bone	NN	528	nsubj	
-527	al-mu-ra-ni	his	PRP$	526	nmod:poss	
-528	in-zi-ir	has broken	VBN	525	acl:relcl	
-529	1(disz)	_	_	0	nummod	
-530	ma-na	mina	NN	524	appos	
-531	ku3-babbar	silver	NN	530	nmod:of	
-532	i3-la2-e	he shall pay	VB	530	acl:relcl	
-533	tukum-bi	If	IN	537	mark	
-534	lu2	_	_	0	_	
-535	lu2-ra	one man against another	NN	537	nsubj	
-536	geszbu2-ta	through a fistfight	NN	535	nmod:through	
-537	giri17-ni	has cut off his	VBN	620	advcl	
-538	in-ku5	nose	NN	537	dobj	
-539	2/3(disz)	_	_	0	nummod	
-540	ma-na	rd mina	NN	620	nsubj	
-541	ku3-babbar	silver	NN	540	nmod:of	
-542	i3-la2-e	he shall pay	VB	540	acl:relcl	
-543	tukum-bi	If	IN	594	mark	
-544	...-ta	with a	IN	594	nmod:with	
-545	giri3-pad-ra2	a bone	NN	594	_	
-546	in-...	he has	VBZ	545	acl:relcl	
-547	2(disz)	_	_	0	nummod	
-548	gin2	shekels	NNS	546	appos	
-549	ku3-babbar	silver	NN	548	nmod:of	
-550	i3-la2-e	he shall pay	VB	548	acl:relcl	
-551	tukum-bi	If	IN	556	mark	
-552	geszbu2-ta	through a fistfight	IN	554	nmod:through	
-553	ugu2	one	CD	554	nummod	
-554	lu2	man skull	NN	556	nmod:through	
-555	lu2	another man	NN	556	nmod:of	
-556	i3-ha-asz	has split open	VBN	545	acl	
-557	nig2	_	_	0	_	
-558	{gesz}tukul-a-gin7	with something like a weapon rd	NN	556	nmod:with	
-559	1/3(disz)	_	_	0	nummod	
-560	ma-na	mina	NN	558	appos	
-561	i3-la2-e	he shall pay	VB	560	acl:relcl	
-562	tukum-bi	If	IN	570	mark	
-563	geszbu2-ta	through a fistfight	IN	565	nmod:through	
-564	ugu2	one	CD	565	nummod	
-565	lu2	man skull	NN	570	nmod:through	
-566	lu2	another man	NN	567	nmod:of	
-567	i3-ha-asz	has split open	VBN	565	acl:relcl	
-568	3(gesz2)	_	.	594	nummod	
-569	usan3	he with lashes	PRP	570	nsubjpass	
-570	i3-ra-ra	shall be beaten	VBN	556	advcl	
-571	tukum-bi	If	IN	575	mark	
-572	igi	someones eye	NN	575	nsubj	
-573	lu2	_	_	0	_	
-574	lu2	a man	NN	572	nsubj	
-575	im-ta-szub	makes fall out	VB	578	advcl	
-576	1/2(disz)	_	.	578	nummod	
-577	ma-na	mina	NN	578	dobj	
-578	i3-la2-e	he shall pay	VB	594	acl	
-579	tukum-bi	If	IN	582	mark	
-580	lu2	a man	NN	582	nsubj	
-581	lu2	_	,	586	_	
-582	zu2-ni	breaks another	NNS	586	advcl	
-583	i3-ku5	mans tooth	NN	582	dobj	
-584	1/2(disz)	_	.	594	nummod	
-585	ma-na	mina	NN	586	dobj	
-586	i3-la2-e	he shall pay	VB	578	parataxis	
-587	tukum-bi	If	IN	589	mark	
-588	ARAD2-de3	a slave	NN	589	nsubj	
-589	dumu-gi7-ra	has struck	VBN	594	advcl	
-590	i3-ni-ra	a free citizen	NN	589	dobj	
-591	{ki}kiszi4-ni	when	WRB	592	advmod	
-592	u3-ta-ak	half his head hair has been shaved off	VBN	589	advcl	
-593	iri	_	.	594	_	
-594	im-nigin2-nigin2	he shall be paraded around town	VBN	620	advcl	
-595	tukum-bi	If	IN	597	mark	
-596	dumu-gi7	a free citizen	NN	597	nsubj	
-597	ARAD2-ra	has beaten	VBN	594	advcl	
-598	i3-ni-ra	a slave	NN	597	dobj	
-599	1(gesz2)	_	_	0	nummod	
-600	a2-si	with	IN	602	nmod:with	
-601	1(gesz2)	_	_	0	nummod	
-602	nig	a strap and with a belt	NN	597	nmod:with	
-603	i3-ra-ra	he shall be beaten	VBN	597	acl:relcl	
-604	tukum-bi	If	IN	606	mark	
-605	lu2	a man	NN	606	nsubj	
-606	ba-usz2	has died	VBN	597	advcl	
-607	dam-ni	and his	CC	597	cc	
-608	ur2-a-na-sze3	wife to her father-in-laws	NN	609	nsubj	
-609	i3-na-ni-tusz	has gone to reside	VBN	597	conj	
-610	sag	the slaves	NNS	620	nsubj	
-611	a-ga-na	her legacy	NN	610	nmod:of	
-612	ne-de2-a	and marriage gifts	CC	611	cc	
-613	ha-ba-an-tum2-mu	she may take away	VB	611	acl:relcl	
-614	tukum-bi	If	IN	616	mark	
-615	geme2	female	JJ	616	amod	
-616	nu-tuku	she has no slaves	VBZ	620	advcl	
-617	1(u)	_	_	0	nummod	
-618	gin2	shekels	NNS	620	nsubj	
-619	ku3-babbar-am3	silver	NN	618	nmod:of	
-620	he2-na-la2-e	let her pay him	VBD	514	acl	
-621	tukum-bi	If	IN	623	mark	
-622	ku3	silver	NN	623	dobj	
-623	nu-tuku	she has no	VBZ	625	advcl	
-624	nig2-na-me	nothing	NN	625	_	
-625	nu-na-ab-szum2-mu	shall she give to him	VB	482	advcl	
-626	tukum-bi	If	IN	637	mark	
-627	geme2	female	JJ	629	amod	
-628	lu2	a	DT	629	det	
-629	nin-a-ni-gin7	slave a person who as her mistress	NN	637	nsubjpass	
-630	dim2-ma-ar	is acting	VBG	632	acl:relcl	
-631	asz2	has	VBZ	632	aux	
-632	i3-ni-du11	cursed	VBN	629	acl:relcl	
-633	1(disz)	_	_	0	nummod	
-634	sila3	sila	NN	629	appos	
-635	mun-am3	indeed salt	RB	634	advmod	
-636	ka-ka-ne2	onto her mouth	NN	634	nmod:onto	
-637	i3-sub6-be2	shall be rubbed	VBN	625	advcl	
-638	tukum-bi	If	IN	645	mark	
-639	geme2	female	JJ	641	amod	
-640	lu2	a	DT	641	det	
-641	nin-a-ni-gin7	slave a person who as her mistress	NN	645	nsubj	
-642	dim2-ma-ar	_	_	0	_	
-643	 	_	_	0	_	
-644	 	_	_	0	_	
-645	 	_	_	0	_	
-646	in-ni-ra	_	_	0	_	
-647	...	_	_	0	dep	
-648	...	_	_	0	dep	
-649	...	_	_	0	dep	
-650	...	_	_	0	dep	
-651	...	_	_	0	dep	
-652	...	_	_	0	dep	
-653	...	_	_	0	dep	
-654	...	_	_	0	dep	
-655	x	_	.	645	dep	
-656	...	_	_	0	dep	
-657	i3-la2-e	he shall pay	VB	643	acl:relcl	
-658	tukum-bi	If	IN	645	_	
-659	a2-suh	with a forearm	NN	658	nmod:with	
-660	dumu-munus	the daughter	NN	659	_	
-661	lu2-ka	of a	IN	662	nmod:of	
-662	i-ni-in-ra	man he has hit	NN	660	nmod:of	
-663	nig2	and thing her womb	CC	660	cc	
-664	sza3-ga-na	_	_	0	_	
-665	szu	_	,	660	_	
-666	mu-un-da-an-la2	he has caused her to miscarry	VBN	660	acl:relcl	
-667	1/2(disz)	_	_	0	nummod	
-668	ma-na	mina	NN	660	appos	
-669	ku3-babbar	silver	NN	668	nmod:of	
-670	i3-la2-e	he shall pay	VB	668	acl:relcl	
-671	tukum-bi	If	IN	672	mark	
-672	ba-usz2	she has died	VBN	674	advcl	
-673	nita2-bi	that man	NN	674	nsubjpass	
-674	i3-gaz-e	shall be killed	VBN	391	acl	
-675	tukum-bi	If	IN	391	_	
-676	a2-suh	with a forearm	NN	675	nmod:with	
-677	geme2	_	_	0	_	
-678	lu2-ka	a mans female slave	NN	676	_	
-679	i3-ni-in-ra	he has hit	VBN	678	acl:relcl	
-680	ma-gig	and an it-has-hurt-me	CC	678	cc	
-681	i3-ni-du11	he has done to her	VBN	678	acl:relcl	
-682	5(disz)	_	_	0	nummod	
-683	gin2	shekels	NNS	681	appos	
-684	ku3-babbar	silver	NN	683	nmod:of	
-685	i3-la2-e	he shall pay	VB	683	acl:relcl	
-686	tukum-bi	If	IN	732	mark	
-687	geme2	the female	DT	688	det	
-688	ba-usz2	slave has died	NN	732	nsubj	
-689	...	slave has died	VBZ	732	dep	
-690	sag	_	.	692	_	
-691	sag-sze3	a	DT	692	det	
-692	i3-gub-be2	slave for a slave shall serve	VB	732	acl:relcl	
-693	tukum-bi	If	IN	697	mark	
-694	lu2	a	DT	695	det	
-695	lu2	man	NN	697	nsubj	
-696	ki-inim-ma-sze3	as a witness	NN	695	nmod:as	
-697	ib2-ta-e3	came forth	VBD	692	advcl	
-698	lu2	_	_	0	_	
-699	ni2-zuh	and a thief	CC	732	cc	
-700	ba-an-ku4	he was made out to be	VBN	732	acl:relcl	
-701	1(u)	_	_	0	nummod	
-702	5(disz)	_	_	701	nummod	
-703	gin2	shekels	NNS	717	nsubj	
-704	ku3-babbar-am3	silver	NN	703	nmod:of	
-705	i3-la2-e	he shall pay	VB	703	acl:relcl	
-706	tukum-bi	If	IN	710	mark	
-707	lu2	a	DT	708	det	
-708	lu2	man	NN	710	nsubj	
-709	ki-inim-ma-sze3	as a witness	NN	708	nmod:as	
-710	ib2-ta-e3	came forth	VBD	717	advcl	
-711	nam-erim2-ta	but	CC	710	cc	
-712	im-ma-ra-a-gur	turned away from an oath	VBD	710	conj	
-713	nig2	_	,	717	_	
-714	di-ba	the concern that suit	NN	717	nsubj	
-715	en-na	be as much as there	RB	717	advmod	
-716	gal2-la	_	_	0	_	
-717	ib2-su-su	he will compensate	VB	700	xcomp	
-718	tukum-bi	If	IN	727	mark	
-719	{a-sza3}asza5	a mans field	NN	727	nsubjpass	
-720	lu2	_	_	0	_	
-721	nig2-a2-gar-sze3	by deception	NN	719	nmod:by	
-722	lu2	another man	NN	723	nsubj	
-723	i3-ak	has worked	VBN	719	acl:relcl	
-724	ba-an-uru4	and he has plowed it	CC	719	cc	
-725	di	and	CC	719	cc	
-726	bi2-du11	a trial has been held regarding it	NN	719	conj	
-727	bi2-du11	a trial has been held regarding it	VBN	732	advcl	
-728	gu2	_	,	732	_	
-729	in-ni-gar	and it was put to anothers account	CC	727	cc	
-730	lu2-bi	that man	NN	732	nsubjpass	
-731	a2-ni	shall	MD	732	aux	
-732	ib2-ta-an-e11-de3	be forced to forfeit his labor	VBN	391	parataxis	
-733	tukum-bi	If	IN	127	_	
-734	{a-sza3}asza5	a mans field	NN	733	root	
-735	lu2	_	_	0	_	
-736	lu2	_	,	734	_	
-737	a-da	_	_	0	_	
-738	bi2-DU	another man has flooded with water	VBN	734	acl:relcl	
-739	a-sza3	field	NN	741	nmod:of	
-740	1(iku)	_	CD	744	nummod	
-741	GAN2	per iku	NN	734	nmod:per	
-742	3(asz)	_	_	0	nummod	
-743	sze	barley	NN	744	nmod:of	
-744	gur	gur	NN	741	_	
-745	i3-ag2-ge26	he shall measure out	VB	744	acl:relcl	
-746	tukum-bi	If	IN	734	_	
-747	lu2	_	_	0	_	
-748	lu2	a man to another man	NN	746	root	
-749	{a-sza3}asza5	a field	NN	751	nsubj	
-750	apin-la2-sze3	for cultivation	NN	749	nmod:for	
-751	i3-na-szum2	has given	VBN	748	acl:relcl	
-752	nu-un-uru4	but he did not plow it	CC	748	cc	
-753	sza3-su-ga	and empty land	CC	748	cc	
-754	i3-gar	he has left	VBN	748	acl:relcl	
-755	1(iku)	_	CD	759	nummod	
-756	GAN2	per iku	NN	748	nmod:per	
-757	3(asz)	_	_	0	nummod	
-758	sze	barley	NN	759	nmod:of	
-759	gur	gur	NN	756	_	
-760	i3-ag2-ge26	he shall measure out	VB	759	acl:relcl	
-761	tukum-bi	If	IN	748	_	
-762	lu2	a man to another man a	NN	761	root	
-763	lu2	_	_	0	_	
-764	a-sza3	field	NN	767	nsubj	
-765	ki-duru5	land on irrigable	NN	764	nmod:on	
-766	apin-la2-sze3	for cultivation	NN	764	nmod:for	
-767	in-na-szum2	has given	VBN	762	acl:relcl	
-768	1(bur3)	_	_	0	nummod	
-769	GAN2	per bur	NN	762	nmod:per	
-770	masz-bi	its interest	NN	769	nmod:as	
-771	2(disz)	_	_	0	nummod	
-772	gin2-am3	field shekels as	NN	769	nmod:of	
-773	a-sza3	field	NN	774	nsubj	
-774	in-da-gal2-am3	the will generate from him	VB	770	acl:relcl	
-775	tukum-bi	If	IN	782	mark	
-776	a-sza3	field	NN	782	dobj	
-777	a2-x	man	NN	782	nsubj	
-778	lu2	a	DT	777	det	
-779	lu2	another man a	NN	782	nmod:to	
-780	apin-la2-sze3	for cultivation	NN	776	nmod:for	
-781	in-na-szum2	has given to	VBZ	782	aux	
-782	...	has given to	VBN	762	dep	
-783	n	n	CD	782	nummod	
-784	gin2-am3	per shekels	IN	782	nmod:per	
-785	i3-na-la2-e	he shall pay him	VB	782	acl:relcl
+# train/P432130.atf new_text=P432130
+# train/P432130.atf						#new_text=P432130
+1	{d}en-lil2	Enlil[1]	DN	DN	127	LOC	_	
+2	lugal	lugal[king]	N	N	127	ABS	_	
+3	kur-kur-ra	_[the.all.lands]	N	N-RDP.GEN	2	appos	_	
+4	alan	alan[statue]	N	N	2	appos	_	
+5	ur-{d}namma	Urnamma[1]	RN	RN	4	GEN	_	
+6	nita2	_[the]	N	N	7	nmod	_	
+7	kal-ga	kalag[strong]-a	V	NF.V.SUB	2	acl	_	
+8	lugal	lugal[king]	N	N	2	appos	_	
+9	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	10	nmod	_	
+10	lugal	lugal[king]	N	N	8	GEN	_	
+11	ki-en-gi	ki'engi[1]	GN	GN	10	GEN	_	
+12	ki-uri-ka	_[and.Akkad]	PN	PN	11	appos	_	
+13	na4-bi	_[whose.stone]	N	N	14	ABS	_	
+14	{na4}esi-am3	_[is.diorite]	N	N	11	acl	_	
+15	ur-{d}namma	Urnamma[1]	RN	RN	14	appos	_	
+16	nita2	_[the]	N	N	17	nmod	_	
+17	kal-ga	kalag[strong]-a	V	NF.V.SUB	14	acl	projectivity violation	
+18	lugal	lugal[king]	N	N	14	appos	projectivity violation	
+19	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	18	GEN	_	
+20	lugal	lugal[king]	N	N	19	appos	_	
+21	ki-en-gi	ki'engi[1]	GN	GN	19	GEN	_	
+22	ki-uri	ki'uri[1][-ak]	GN	GN.GEN	19	appos	_	
+23	e2	e[house]	N	N	22	_	heuristic: attach to last	
+24	{d}nanna	Nanna[1][-ak]	DN	DN	25	nmod	_	
+25	lugal-ga2	_[my.master.I]	PN	PN	117	GEN	projectivity violation	
+26	mu-du3-a	mu[-n]-du[-ø]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.L1	117	acl	projectivity violation	
+27	ma2	ma[ship]	N	N	26	_	heuristic: attach to last	
+28	ma2-gan{ki}	_[and.boats.Magan]	GN	GN.ABS	117	nmod	projectivity violation	
+29	di	did[lawsuit]	N	N	30	ERG	_	
+30	nig2-gi-na	_[true.verdict]	N	N	117	ERG	projectivity violation	
+31	{d}utu-ta	_[Utu]	DN	DN.GEN.ABL	30	GEN	_	
+32	szu-na	Szuna[1]	N	N.3-SG-H-POSS.L2-NH	117	LOC	projectivity violation	
+33	mu-ni-gi4-a	_[I.returned]	V	VEN.3-SG-H.L2.3-SG-H-A.V.3-SG-P	32	acl	_	
+34	a	a[water][-ø]	N	N.ABS	35	ABS	_	
+35	mu-na-ru	mu-nn-a[-n]-ru[dedicate][-ø]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	117	acl	projectivity violation	
+36	u4-ba	_[At.that.time]	N	N.DEM2.L1	117	LOC	projectivity violation	
+37	e2	e[house]	N	N	117	LOC	projectivity violation	
+38	{d}en-lil2	Enlil[1]	DN	DN	37	LOC	_	
+39	lugal-ga2-ta	_[my.master]	PN	N.1-SG-POSS.GEN.ABL	37	GEN	_	
+40	alan	alan[statue]	N	N	39	_	heuristic: attach to last	
+41	ur-{d}namma-ke4	_[for.statue.Ur-Namma]	RN	RN.DAT-H	117	DAT	projectivity violation	
+42	nidba	_[a]	N	N.GEN.3-SG-H-POSS.ABS	117	nmod	projectivity violation	
+43	iti-da	itud[worker_category][-sze]	N	N	117	acl	projectivity violation	
+44	1(gesz2)	1(gesz)[sixty]	NU	NU	117	nummod	projectivity violation	
+45	3(u)	3(u)[ten]	NU	NU	47	nummod	_	
+46	sze	sze[barley]	N	N	47	GEN	_	
+47	gur	gur[unit]	N	N	117	GEN	projectivity violation	
+48	3(u)	3(u)[ten]	NU	NU	47	nummod	_	
+49	udu	udu[sheep]	N	N	47	appos	_	
+50	3(u)	3(u)[ten]	NU	NU	117	nummod	projectivity violation	
+51	sila3	sila[unit]	N	N	47	appos	_	
+52	i3-nun	inun[ghee]	PN	N	47	appos	_	
+53	sa2-du11-sze3	_[as.regular.offerings]	N	N.TERM	117	LOC	projectivity violation	
+54	mu-na-ni-gar	_[I.established.there.for.him]	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	53	acl	_	
+55	u4	ud[day]	N	N	54	_	heuristic: attach to last	
+56	an-ne2	Anne[1][-ra]	DN	DN.ERG	61	_	_	
+57	{d}en-lil2-le	_[and.Enlil]	DN	DN.ERG	61	nmod	_	
+58	{d}nanna-ar	_[to.Nanna]	DN	DN.DAT-H	61	LOC	_	
+59	nam-lugal	_[the.kingship]	N	N	61	ABS	_	
+60	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	59	GEN	_	
+61	mu-na-szum2-mu-usz-a-ba	_[did.grant]	V	VEN.3-SG-H.DAT.3-SG-H-A.V.3-PL.SUB.DEM2.L1	117	acl	projectivity violation	
+62	u4-ba	_[at.that.time.for.me]	N	N.DEM2.L1	61	LOC	_	
+63	ur-{d}namma	Urnamma[1]	RN	RN	61	appos	_	
+64	dumu	dumu[child]	N	N	63	appos	_	
+65	tu-da	_[the.born]	PN	NF.V.SUB	64	appos	_	
+66	{d}nin-sun2-ka	_[Ninsuna]	DN	DN.GEN	64	GEN	_	
+67	emedu2	_[her.house-born.slave]	N	N	63	appos	_	
+68	ki-ag2-ga2-ni-ir	_[beloved]	N	NF.V.3-SG-H-POSS.DAT-H	67	acl	_	
+69	nig2-si-sa2-ni-sze3	_[according.to.his.justice]	N	N.3-SG-H-POSS.TERM	63	TERM	_	
+70	nig2-gi-na-ni-sze3	_[according.to.his.righteousness]	N	N.3-SG-H-POSS.TERM	63	TERM	_	
+71	a2	a[time]	N	N	73	nmod	_	
+72	...	_[_]	PN	N	71	dep	heuristic: attach to last	
+73	ba-ag2	_[orders.were.issued]	V	V	70	acl	_	
+74	nam-lugal	_[and.kingship]	N	N	70	appos	_	
+75	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	77	GEN	_	
+76	hu-mu-na-szum2	_[was.given.to.him]	V	V	77	acl	_	
+77	si	_[_]	N	N.ABS	70	appos	_	
+78	x	_[_]	N	N	79	dep	_	
+79	...	_[_]	PN	N	77	dep	_	
+80	ba-x-...	_	V	V	0	root	_	
+81	2(disz)	2(disz)[one]	NU	NU	80	nummod	_	
+82	x	_[_]	N	N	81	dep	heuristic: attach to last	
+83	...	_[_]	PN	N	82	dep	heuristic: attach to last	
+84	2(disz)	2(disz)[one]	NU	NU	2	nummod	projectivity violation	
+85	x	_[_]	N	N	84	dep	heuristic: attach to last	
+86	...	_[_]	PN	N	85	dep	heuristic: attach to last	
+87	nam-...	_	PN	PN	15	appos	_	
+88	...	_[_]	PN	N	87	dep	heuristic: attach to last	
+89	...	_[_]	PN	N	88	dep	heuristic: attach to last	
+90	...	_[_]	PN	N	89	dep	heuristic: attach to last	
+91	...	_[_]	PN	N	90	dep	heuristic: attach to last	
+92	...	_[_]	PN	N	91	dep	heuristic: attach to last	
+93	...	_[_]	PN	N	92	dep	heuristic: attach to last	
+94	...	_[_]	PN	N	93	dep	heuristic: attach to last	
+95	...	_[_]	PN	N	94	dep	heuristic: attach to last	
+96	...	_[_]	PN	N	95	dep	heuristic: attach to last	
+97	...	_[_]	PN	N	96	dep	heuristic: attach to last	
+98	...	_[_]	PN	N	97	dep	heuristic: attach to last	
+99	...	_[_]	PN	N	98	dep	heuristic: attach to last	
+100	...	_[_]	PN	N	99	dep	heuristic: attach to last	
+101	...	_[_]	PN	N	100	dep	heuristic: attach to last	
+102	...	_[_]	PN	N	101	dep	heuristic: attach to last	
+103	...	_[_]	PN	N	102	dep	heuristic: attach to last	
+104	...	_[_]	PN	N	103	dep	heuristic: attach to last	
+105	...	_[_]	PN	N	104	dep	heuristic: attach to last	
+106	...	_[_]	PN	N	105	dep	heuristic: attach to last	
+107	a2	a[time]	N	N	106	_	heuristic: attach to last	
+108	{d}nanna	Nanna[1][-ak]	DN	DN	107	_	heuristic: attach to last	
+109	lugal-ga2-ta	_	PN	N.1-SG-POSS.GEN.ABL	108	_	heuristic: attach to last	
+110	abul	_	N	N	109	_	heuristic: attach to last	
+111	imin-bi	_	N	NF.V.3-NH-POSS.ABS	110	_	heuristic: attach to last	
+112	gal2	_	V	NF.V.PT.GEN	111	_	heuristic: attach to last	
+113	mu-un-da-an-taka4	_	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	112	_	heuristic: attach to last	
+114	nam-ha-ni	Namhani[1]	N	PN	113	_	heuristic: attach to last	
+115	ensi2	ensik[ruler]	N	N	114	_	heuristic: attach to last	
+116	lagasz{ki}	_[Laga]	SN	SN.GEN.ABS	117	GEN	_	
+117	he2-mi-il2	_[I.elevated]	V	V	14	acl	_	
+118	ki-sar-ra	_[To.ki-sar-ra]	N	N.L2-NH	2	LOC	_	
+119	ma2	ma[ship]	N	N	118	_	heuristic: after nominal head	
+120	ma-gan{ki}-na	_[the.Magan.ships]	SN	GN.GEN	118	appos	_	
+121	{d}nanna	Nanna[1][-ak]	DN	DN	120	GEN	_	
+122	a2	a[time]	N	N	123	ERG	_	
+123	{d}nanna	Nanna[1][-ak]	DN	DN	118	ERG	_	
+124	lugal-ga2-ta	_[my.master]	PN	N.1-SG-POSS.GEN.ABL	123	appos	_	
+125	he2-mi-gi4	_[I.returned]	V	MOD1.VEN.3-NH.L3.1-SG-A.V.3-SG-S	118	acl	_	
+126	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	127	LOC	_	
+127	ha-ba-zalag	_[I.made.them.shine]	PN	MOD1.MID-V11=1-SG-A.V.3-SG-P	0	root	_	
+128	u4-ba	_[At.that.time]	N	N.DEM2.L1	127	LOC	heuristic: after nominal head	
+129	a-sza3	aszag[field]	N	N	127	_	heuristic: after nominal head	
+130	ni-is-qum	_[for.fields.select]	FN	FN	0	DAT	_	
+131	i3-gal2-la-am3	_[there.were]	V	FIN.L1.V.3-SG-S	130	acl	_	
+132	nam-ga-esz8	_[for.long-distance.trade]	N	N.ABS	133	DAT	_	
+133	ma2-lah5-gal	_[chief.boat.captains]	PN	PN	134	DAT	_	
+134	i3-gal2-la-am3	_[there.were]	V	FIN.L1.V.3-SG-S	131	parataxis	_	
+135	utul4-e	_[the.chief.herdsmen]	N	N	139	ERG	_	
+136	gu4	gud[ox]	N	N	135	_	heuristic: attach to last	
+137	dab5	_[for]	V	V	135	acl	_	
+138	udu	udu[sheep]	N	N	139	ABS	_	
+139	dab5	_[those.who.take.cattle.take]	V	V	131	parataxis	_	
+140	ansze	ansze[donkey]	N	N	139	appos	_	
+141	dab5	_[take]	V	V	139	appos	_	
+142	i3-gal2-la-am3	_	V	FIN.L1.V.3-SG-S	0	_	_	
+143	...	_[_]	PN	N	142	dep	heuristic: attach to last	
+144	x	_[_]	N	N	143	dep	heuristic: attach to last	
+145	...	_[_]	PN	N	144	dep	heuristic: attach to last	
+146	...	_[_]	PN	N	145	dep	heuristic: attach to last	
+147	...	_[_]	PN	N	146	dep	heuristic: attach to last	
+148	...	_[_]	PN	N	147	dep	heuristic: attach to last	
+149	...	_[_]	PN	N	148	dep	heuristic: attach to last	
+150	u4-ba	_[At.that.time]	N	N.DEM2.L1	142	LOC	_	
+151	ur-{d}namma	Urnamma[1]	RN	RN	142	appos	_	
+152	nita2	_[the]	N	N	153	nmod	_	
+153	kal-ga	kalag[strong]-a	V	NF.V.SUB	151	acl	_	
+154	lugal	lugal[king]	N	N	151	appos	_	
+155	uri5{ki}-ma	Urim[1]-ak	SN	SN.GEN	154	GEN	_	
+156	lugal	lugal[king]	N	N	151	appos	_	
+157	ki-en-gi	ki'engi[1]	GN	GN	151	GEN	_	
+158	ki-uri	ki'uri[1][-ak]	GN	GN.GEN	151	appos	_	
+159	a2	a[time]	N	N	160	ERG	_	
+160	{d}nanna	Nanna[1][-ak]	DN	DN	142	ERG	_	
+161	lugal-ga2-ta	_[my.master]	PN	N.1-SG-POSS.GEN.ABL	160	appos	_	
+162	inim	inim[word]	N	N	160	appos	_	
+163	gi-na	gina[dues]	PN	N	160	acl	_	
+164	{d}utu-ta	_[of.Utu]	DN	DN.GEN.ABL	160	GEN	_	
+165	nig2-si-sa2	_[justice]	PN	PN	164	appos	_	
+166	kalam-ma	_[country]	N	N.GEN	165	LOC	_	
+167	hu-mu-ni-gar	_[in.I.did.indeed.establish]	V	V	166	acl	_	
+168	...	_[_]	PN	N	166	dep	_	
+169	x	_[_]	N	N	166	dep	_	
+170	...	_[_]	PN	N	166	dep	_	
+171	szu-ba	_[I]	N	N	172	ABS	_	
+172	he2-mi-gi4	_[returned.to.their.own.control]	V	MOD1.VEN.3-NH.L3.1-SG-A.V.3-SG-S	0	acl	_	
+173	nam-ga-esz8	_[Long-distance.trade]	N	N.ABS	179	ERG	_	
+174	ma2-lah5-gal	_[chief.sea-captains]	PN	PN	173	appos	_	
+175	utul4-e	_[the.chief.herdsmen]	N	N	174	appos	_	
+176	gu4	gud[ox]	N	N	175	_	heuristic: attach to last	
+177	dab5	_	V	V	176	_	heuristic: attach to last	
+178	udu	udu[sheep]	N	N	179	ABS	_	
+179	dab5	_[those.who.take.cattle.take]	V	V	0	parataxis	_	
+180	ansze	ansze[donkey]	N	N	179	appos	_	
+181	dab5	_[take]	V	V	179	appos	_	
+182	uri	_[and]	GN	GN.GEN.ABS	179	appos	_	
+183	lu2-gir5-ra	_[Akkadians.and.foreigners]	N	N	179	appos	_	
+184	ki-en-gi	ki'engi[1]	GN	GN	183	LOC	_	
+185	ki-uri-a	_[in.and.Akkad]	GN	GN	184	LOC	_	
+186	szu-ba	_[I]	N	N	187	ABS	_	
+187	he2-mi-gi4	_[returned.to.their.own.control]	V	MOD1.VEN.3-NH.L3.1-SG-A.V.3-SG-S	183	acl	_	
+188	u4-ba	_[At.that.time]	N	N.DEM2.L1	307	LOC	_	
+189	umma{ki}	Umma[1][-ak][-ø]	SN	SN.GEN.ABS	307	ABS	_	
+190	a.	_	_	_	189	_	_	
+191	mar2-da{ki}	_[Marad]	SN	SN.GEN.GEN.ABS	189	appos	_	
+192	b.	_	_	_	189	_	_	
+193	GIR2-kal{ki}	_[GIRkal]	GN	GN	189	appos	_	
+194	a.	_	_	_	193	_	heuristic: attach to last	
+195	ka-za-lu{ki}	_[Kazallu]	SN	SN.GEN.GEN.ABS	189	appos	_	
+196	b.	_	_	_	195	_	heuristic: attach to last	
+197	u3	u[and]	CNJ	CNJ	189	appos	_	
+198	masz-kan2-pi2	_[Makan-pi]	PN	PN	189	appos	_	
+199	u2-s,a-ru-um{ki}	_[and.Uarum]	GN	GN	189	appos	_	
+200	a.	_	_	_	199	_	heuristic: attach to last	
+201	nig2	_	N	N	200	_	heuristic: attach to last	
+202	an-sza-an{ki}-a	_[upon.which.in.Anan]	GN	GN	205	TERM	_	
+203	b.	_	_	_	202	_	heuristic: attach to last	
+204	nam-ARAD2	_[servitude]	N	N.2-SG-POSS.ABS	205	LOC	_	
+205	he2-eb-ak-e	_[was.being.imposed]	V	MOD1.FIN.3-SG-NH-P.V.3-SG-A	189	acl	_	
+206	a2	a[time]	N	N	207	ERG	_	
+207	{d}nanna	Nanna[1][-ak]	DN	DN	189	ERG	_	
+208	lugal-ga2-ta	_[my.master]	PN	N.1-SG-POSS.GEN.ABL	207	appos	_	
+209	ama-ar-gi4-bi	_[their.freedom]	N	N	189	appos	_	
+210	hu-mu-gar	_[I.established]	V	V	209	acl	_	
+211	{uruda}ba-ri2-ga	_[A.copper.bariga.vessel]	N	N.GEN	189	appos	_	
+212	hu-mu-gub	_[I.set.up]	V	V	211	acl	_	
+213	1(gesz2)	1(gesz)[sixty]	NU	NU	189	nummod	_	
+214	sila3-am3	_[and.as.sila]	N	N.ABS.COP-3-SG	189	appos	_	
+215	he2-ni-ge-en	_[I.standardized.it]	V	MOD.L1-SYN.V.ABS	189	acl	_	
+216	{uruda}ba-an	_[A]	N	N	217	nmod	_	
+217	hu-mu-dim2	_[copper.ban.vessel.I.fashioned]	V	V	189	acl	_	
+218	1(u)	1(u)[ten]	NU	NU	189	nummod	_	
+219	sila3-am3	_[and.as.sila]	N	N.ABS.COP-3-SG	189	appos	_	
+220	he2-ni-ge-en	_[I.standardized.it]	V	MOD.L1-SYN.V.ABS	189	acl	_	
+221	{uruda}ba-an	_[A]	N	N	223	nmod	_	
+222	si-sa2	_[just]	V	V	223	acl	_	
+223	lugal-la	_[royal.ban]	N	N	189	appos	_	
+224	hu-mu-dim2	_[I.fashioned]	V	V	223	acl	_	
+225	6(disz)-am3	_	NU	NU.ABS.COP-3-SG	189	nummod	_	
+226	he2-ni-ge-en	_[and.as.I.standardized.it]	V	MOD.L1-SYN.V.ABS	189	acl	_	
+227	1(disz)	1(disz)[one]	NU	NU	229	nummod	heuristic: NU premodifying	
+228	sila3	sila[unit]	N	N	229	nmod	_	
+229	zabar	zabar[bright][-ø][-ø]	N	N	189	appos	_	
+230	hu-mu-dim2	_[I.fashioned]	V	V	229	acl	_	
+231	1(disz)	1(disz)[one]	NU	NU	232	nummod	heuristic: NU premodifying	
+232	ma-na-am3	_[and.as.mina]	N	N	229	appos	_	
+233	he2-ni-ge-en	_[I.standardized.it]	V	MOD.L1-SYN.V.ABS	229	acl	_	
+234	1(disz)	1(disz)[one]	NU	NU	235	nummod	heuristic: NU premodifying	
+235	gin2	gig[unit]	N	N	189	appos	_	
+236	ku3	kug[silver]	N	N	235	appos	_	
+237	na4	_[A.stone]	FN	FN	235	appos	_	
+238	za3	_	N	N	237	_	heuristic: attach to last	
+239	1(disz)	1(disz)[one]	NU	NU	240	nummod	heuristic: NU premodifying	
+240	ma-na-e	_[all.way.up.to.a.mina]	N	N.3-SG-H-POSS.DAT-H	235	appos	_	
+241	he2-ni-ge-en	_[I.standardized]	V	MOD.L1-SYN.V.ABS	240	acl	_	
+242	u4-ba	_[At.that.time]	N	N.DEM2.L1	189	LOC	_	
+243	gu2	gun[unit]	N	N	242	_	heuristic: attach to last	
+244	{i7}idigna	_[on.banks.Tigris]	N	N	307	LOC	_	
+245	gu2	gun[unit]	N	N	246	_	_	
+246	{i7}buranun	_[on.banks.Euphrates]	N	N	307	LOC	_	
+247	gu2	gun[unit]	N	N	246	_	heuristic: attach to last	
+248	i7	id[river]	N	N	247	_	heuristic: attach to last	
+249	du3-a-bi	_[and.on.banks.all.rivers]	V	NF.V.PT.3-SG-NH-POSS	246	acl	_	
+250	nidba	_[nidba.offerings]	N	N.GEN.3-SG-H-POSS.ABS	251	acl	_	
+251	...	_[_]	PN	N	0	dep	_	
+252	nesag	Nesag[1][-'a]	N	MN.L1	0	_	_	
+253	sza3-ge-guru7	_[and.first-fruits.and.hearts-desire.offerings]	N	N	251	appos	projectivity violation	
+254	x	_[_]	N	N	261	dep	projectivity violation	
+255	...	_[_]	PN	N	254	dep	_	
+256	gesz	gesz[tree]	N	N	255	_	heuristic: attach to last	
+257	he2-em-mi-in-tag	_[I.offered.there]	V	MOD.L1-SYN.V.ABS	252	acl	_	
+258	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	260	nmod	_	
+259	he2-em-mi-gub	_[I.planted.there]	V	MOD1.FIN.VEN.3-NH.L3.3-SG-H-A.V.3-SG-P	261	acl	_	
+260	...	_[_]	PN	N	251	dep	_	
+261	szandana	szandanak[gardenner][-ra]	N	N	264	nmod	projectivity violation	
+262	lugal-e	lugal[king]-e	N	N.ERG	251	appos	projectivity violation	
+263	he2-eb2-tuku	_[royal.gardeners.had.charge.them]	V	MOD1.FIN.3-SG-H.L2-SYN.V.3-SG-S	261	acl	_	
+264	nu-siki	_[The.orphan]	N	N	268	ABS	_	
+265	lu2	lu[person]	N	N	265	_	heuristic: attach to last	
+266	nig2-tuku-ra	_[to.rich.man]	N	N.GEN	265	LOC	_	
+267	ba-ra-na-an-gar	_[should.not.be.made.subordinate]	V	MOD1.FIN.3-SG-H.L2-SYN.V.3-SG-S	251	acl	_	
+268	nu-mu-un-SU	_[the.widow]	V	V	272	ABS	_	
+269	lu2	lu[person]	N	N	269	_	heuristic: attach to last	
+270	a2-tuku-ra	_[to.powerful.man]	N	N	269	LOC	_	
+271	ba-ra-na-an-gar	_[should.not.be.made.subordinate]	V	MOD1.FIN.3-SG-H.L2-SYN.V.3-SG-S	268	appos	_	
+272	lu2	lu[person]	N	N	279	ABS	_	
+273	1(disz)	1(disz)[one]	NU	NU	275	nummod	heuristic: NU premodifying	
+274	gin2-e	_[shekel]	N	N.GEN.ERG	273	GEN	_	
+275	lu2	lu[person]	N	N	275	_	heuristic: attach to last	
+276	1(disz)	1(disz)[one]	NU	NU	278	nummod	heuristic: NU premodifying	
+277	ma-na-ra	_[to.man.mina]	PN	PN	273	LOC	_	
+278	ba-ra-na-an-gar	_[should.not.be.made.subordinate]	V	MOD1.FIN.3-SG-H.L2-SYN.V.3-SG-S	268	appos	_	
+279	lu2	lu[person]	N	N	282	nmod	_	
+280	1(disz)	1(disz)[one]	NU	NU	282	nummod	heuristic: NU premodifying	
+281	udu-ra	_[man.sheep]	N	N	286	ABS	_	
+282	lu2	lu[person]	N	N	282	LOC	_	
+283	1(disz)	1(disz)[one]	NU	NU	285	nummod	heuristic: NU premodifying	
+284	gu4-e	gud[ox]-e	N	N.L3-NH	283	GEN	_	
+285	ba-ra-na-an-gar	_[should.not.be.made.subordinate]	V	MOD1.FIN.3-SG-H.L2-SYN.V.3-SG-S	268	appos	_	
+286	szagina-szagina-mu-ne	_[All.my.generals]	N	N.PL	293	ABS	_	
+287	ama-mu	_[my.mother.my]	PN	PN.DAT-H	287	appos	_	
+288	nin9	_[sister]	N	N	287	appos	_	
+289	szesz-szesz-mu	_[and.brothers]	PN	PN	289	appos	_	
+290	su-a-su-a-mu-ne	_[and.all.my.relatives]	PN	PN	287	appos	_	
+291	sa2	sa[bundle]	N	N	293	_	_	
+292	ha-ba-an-gar-re-esz	_[indeed.advise.me]	V	V	268	parataxis	_	
+293	a2-ag2-ga2-ne-ne-a	_[Upon.their.orders]	PN	PN	293	TERM	_	
+294	a.	_	_	_	294	_	heuristic: attach to last	
+295	ba-ra-ba-gub-be2-en	_[I.do.not.tread]	V	V	294	acl	_	
+296	b.	_	_	_	296	_	heuristic: attach to last	
+297	kin	kig[work]	N	N	293	appos	_	
+298	ba-ra-ba-ni-gar	_[toil.I.did.not.set.upon.them]	V	MOD1.FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P|MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	293	appos	_	
+299	nig2-erim2	_[Evil]	N	N	299	appos	_	
+300	nig2-a2-zi	_[violence]	PN	PN	300	appos	_	
+301	i-{d}utu	_[and]	N	N	300	appos	_	
+302	u2-gu	_[complaint]	N	N	300	appos	_	
+303	he2-ni-de2	_[I.made.disappear]	V	MOD1.L1.1-SG-A.V.3-SG-P	303	acl	_	
+304	nig2-si-sa2	_[justice]	PN	PN	307	nmod	_	
+305	kalam-ma	_[country]	N	N.GEN	307	LOC	_	
+306	hu-mu-ni-gar	_[I.established.in]	V	V	127	acl	_	
+307	a.	_	_	_	307	_	heuristic: attach to last	
+308	u4-ba	_[At.that.time]	N	N.DEM2.L1	343	LOC	_	
+309	tukum-bi	tukumbi[if]	CNJ	CNJ	309	_	heuristic: attach to last	
+310	lu2-u3	_[a.man]	N	N	314	ABS	_	
+311	sag	sag[head]	N	N	311	_	heuristic: attach to last	
+312	gesz	gesz[tree]	N	N	312	_	heuristic: attach to last	
+313	bi2-in-ra	_[has.committed.murder]	V	3-NH.L2.3-SG-NH-P.V.3-SG-A.SUB.GEN	316	acl.ADV	_	
+314	lu2-bi	_[that.man]	PN	PN.DAT-H	316	ABS	_	
+315	i3-gaz-e-dam	_[is.to.be.killed]	V	V	309	acl	_	
+316	tukum-bi	tukumbi[if]	CNJ	CNJ	319	_	_	
+317	lu2-u3	_[a.man]	N	N	319	ABS	_	
+318	sa-gaz-sze3	_[has.acted.like]	N	N	321	acl.ADV	_	
+319	in-ak	_[a]	V	V	319	acl	_	
+320	in-gaz-e	_[robber.he.shall.be.killed]	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	316	parataxis	_	
+321	tukum-bi	tukumbi[if]	CNJ	CNJ	324	_	_	
+322	lu2-u3	_[a.man]	N	N	324	ABS	_	
+323	sze29-sze3	_[has.made.someone]	N	N.3-SG-H-POSS.TERM	328	acl.ADV	_	
+324	in-ak	_[into.a.captive]	V	V	324	acl	_	
+325	lu2-bi	_[that.man]	PN	PN.DAT-H	328	ERG	_	
+326	en-nu-ga2	_[in]	N	N.GEN	328	LOC	_	
+327	i3-ti-le	_[shall.stay.jail]	V	V	316	parataxis	_	
+328	1(u)	1(u)[ten]	NU	NU	309	nummod	projectivity violation	
+329	5(disz)	5(disz)[one]	NU	NU	329	nummod	_	
+330	gin2	gig[unit]	N	N	328	ABS	_	
+331	ku3-babbar	kugbabbar[silver]	N	N	331	GEN	_	
+332	i3-la2-e	_[and.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	328	appos	_	
+333	tukum-bi	tukumbi[if]	CNJ	CNJ	338	_	_	
+334	ARAD2-de3	_[a.male.slave]	N	N	338	ERG	_	
+335	geme2	geme[female_worker]	N	N	337	acl	_	
+336	a2-asz2-a-ni	_[slave.whom.he]	N	N	338	ABS	_	
+337	in-tuku	_[has.married.a.desires]	V	NEG.NF.V.PT	309	acl	_	
+338	ARAD2-bi	_[and]	N	N	338	appos	_	
+339	ama-ar-gi4-ni	_[that.male.slave]	N	N	341	_	_	
+340	i3-ga2-ga2	_[is.set.free]	V	FIN.L1.V.3-SG-S	338	appos	_	
+341	e2-ta	e[house]-ta	PN	N.ABL	343	ABS	_	
+342	nu-ub-ta-e3	_[may.not.leave.household]	V	NEG.FIN.3-SG-NH.V.3-SG-S	307	parataxis	_	
+343	tukum-bi	tukumbi[if]	CNJ	CNJ	347	_	_	
+344	ARAD2-de3	_[a.slave]	N	N	347	ERG	_	
+345	dumu-gi7	dumugi[citizen]	N	N	347	ABS	_	
+346	in-tuku	_[has.married]	V	NEG.NF.V.PT	380	acl.ADV	_	
+347	dumu-nita	_[and.son.under]	N	N	347	appos	_	
+348	1(disz)-am3	_	NU	NU.GEN.COP-3-SG	350	nummod	heuristic: NU premodifying	
+349	lugal-a-ni-ir	_[his.master]	N	N.3-SG-H-POSS.DAT-H	347	LOC	_	
+350	in-na-an-gub-bu	_[he.makes.serve]	V	FIN.3-SG-H.COM.3-SG-NH-P.V.3-SG-A.SUB.ABS	347	acl	_	
+351	dumu	dumu[child]	N	N	351	ABS	_	
+352	lugal-a-ni-ir	_[the.which.under.his.master]	N	N.3-SG-H-POSS.DAT-H	352	appos	_	
+353	in-na-ab-gub-bu-da	_[he.had.to.make.serve]	PN	PN	352	acl	_	
+354	nig2-gur11	nigGA[property]	N	N	357	GEN	_	
+355	e2	e[house]	N	N	357	nummod	_	
+356	ad-da-na	_[goods.his.fathers.estate]	N	N.3-SG-H-POSS.GEN	354	GEN	_	
+357	1/2(disz)-bi	_	NU	NU.3-SG-NH-POSS.ABS	347	nummod	projectivity violation	
+358	e2-gar8	_[them.and]	N	N	357	GEN	_	
+359	e2	e[house]	N	N	359	_	heuristic: attach to last	
+360	ad-da-na	_[his.fathers]	N	N.3-SG-H-POSS.GEN	362	nmod	_	
+361	i3-ba-e	_[share.physical.house.he.shall]	V	V	354	acl	_	
+362	dumu	dumu[child]	N	N	368	ABS	_	
+363	dumu-gi7	dumugi[citizen]	N	N	363	appos	_	
+364	lugal-da	_[without]	PN	PN	366	acl	_	
+365	nu-me-a	_[agreement.a.masters]	V	V	363	acl	_	
+366	nam-ARAD2-da-ni-sze3	_[into.one.his.slaves]	N	N.3-SG-H-POSS.TERM	366	TERM	_	
+367	la-ba-an-ku4-re	_[shall.not.be.made]	V	V	347	parataxis	_	
+368	tukum-bi	tukumbi[if]	CNJ	CNJ	368	_	heuristic: attach to last	
+369	dam	dam[spouse]	N	N	376	ABS	projectivity violation	
+370	gurusz-a	gurusz[male]-ak	N	N.GEN	370	appos	_	
+371	a	a[water][-ø]	N	N.ABS	370	appos	_	
+372	nu-gi4-a	_[household.not.yet.brought.into.a]	V	NEG.NF.V.RDP.F	370	acl	_	
+373	nig2-a2-gar-sze3	_[has.been]	N	N.TERM	373	_	heuristic: attach to last	
+374	lu2	lu[person]	N	N	347	appos	projectivity violation	
+375	in-ak-ma	_[treated.deceitfully.by.someone]	V	V	368	acl.ADV	_	
+376	a	a[water][-ø]	N	N.ABS	376	_	heuristic: attach to last	
+377	bi2-in-gi4	_[and.he.has.brought.her.into.household]	V	3-NH.L2.3-SG-H-A.V.3-SG-P	347	appos	_	
+378	nita2-bi	_[that.man]	N	N	380	ABS	_	
+379	i3-gaz-e	_[shall.be.killed]	V	V	127	acl	_	
+380	tukum-bi	tukumbi[if]	CNJ	CNJ	380	_	heuristic: attach to last	
+381	dam	dam[spouse]	N	N	386	ABS	_	
+382	gurusz-a	gurusz[male]-ak	N	N.GEN	382	appos	_	
+383	ni2-te-a-ni-ta	_[of.her.own.free.will]	DET	DET	382	GEN	_	
+384	lu2	lu[person]	N	N	384	_	heuristic: attach to last	
+385	ba-an-us2-ma	_[has.gone.after.another.man]	V	V	380	acl.ADV	_	
+386	ur2-ra-na	_[and.in.her.lap]	N	N	386	appos	_	
+387	ba-an-nu2	_[he.has.lain]	V	MID.3-SG-H.DAT.V.3-SG-S	386	appos	_	
+388	munus-bi	_[and.that.woman]	N	N	380	appos	_	
+389	lu2	lu[person]	N	N	391	ERG	_	
+390	i3-gaz-e	_[is.killed.by]	V	V	380	appos	_	
+391	nita2-bi	_[that.mans]	N	N	393	nmod	_	
+392	ama-ar-gi4-ni	_[freedom]	N	N	394	ABS	_	
+393	i3-ga2-ga2	_[shall.be.established]	V	FIN.L1.V.3-SG-S	391	parataxis	_	
+394	tukum-bi	tukumbi[if]	CNJ	CNJ	394	_	heuristic: attach to last	
+395	geme2	geme[female_worker]	N	N	397	acl	_	
+396	lu2	lu[person]	N	N	399	ABS	_	
+397	e2	e[house]	N	N	397	_	heuristic: attach to last	
+398	nu-gi4-a	_[not.yet.brought.into.a.household]	V	NEG.NF.V.RDP.F	402	acl.ADV	projectivity violation	
+399	nig2-a2-gar-sze3	_[has.been.seductively]	N	N.TERM	399	_	heuristic: attach to last	
+400	lu2	lu[person]	N	N	391	appos	_	
+401	i3-ak	_[treated.by.man]	V	FIN.3-SG-HN-P.V.3-SG-A.SUB	391	parataxis	_	
+402	e2	e[house]	N	N	391	appos	_	
+403	bi2-gi4	_[and.he.has.brought.her.into.a.household]	V	3-NH.L2.3-SG-H-A.V.3-SG-P	391	appos	_	
+404	lu2-bi	_[that.man]	PN	PN.DAT-H	391	appos	_	
+405	5(disz)	5(disz)[one]	NU	NU	409	nummod	heuristic: NU premodifying	
+406	gin2	gig[unit]	N	N	409	ABS	_	
+407	ku3-babbar	kugbabbar[silver]	N	N	407	GEN	_	
+408	i3-la2-e	_[shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	405	acl	_	
+409	tukum-bi	tukumbi[if]	CNJ	CNJ	409	_	heuristic: attach to last	
+410	lu2	lu[person]	N	N	391	ABS	_	
+411	dam	dam[spouse]	N	N	414	nmod	_	
+412	nita3-dam-a-ni	_[his.equal-ranking]	N	N.ABS	414	nmod	_	
+413	i3-tak4-tak4	_[divorces]	V	V	411	_	_	
+414	1(disz)	1(disz)[one]	NU	NU	416	nummod	heuristic: NU premodifying	
+415	ma-na	mana[unit]	N	N	414	appos	_	
+416	ku3-babbar	kugbabbar[silver]	N	N	416	GEN	_	
+417	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	416	acl	_	
+418	tukum-bi	tukumbi[if]	CNJ	CNJ	418	_	heuristic: attach to last	
+419	nu-ma-SU	_[a.widow]	V	V	0	_	_	
+420	i3-tak4-tak4	_[he.divorces]	V	V	420	acl	_	
+421	1/2(disz)	1/2(disz)[one]	NU	NU	423	nummod	heuristic: NU premodifying	
+422	ma-na	mana[unit]	N	N	420	appos	_	
+423	ku3	kug[silver]	N	N	423	GEN	_	
+424	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	423	acl	_	
+425	tukum-bi	tukumbi[if]	CNJ	CNJ	0	_	_	
+426	nu-ma-SU	_[for.widow]	V	V	426	acl	_	
+427	dub	dub[tablet]	N	N	427	_	heuristic: attach to last	
+428	ka-kesz2	_[a.contractual.document]	N	N	430	ABS	_	
+429	nu-me-a	_[is.lacking]	V	V	427	acl	_	
+430	lu2	lu[person]	N	N	433	_	_	
+431	ur2-ra-na	_[and.in.her.lap]	N	N	431	appos	_	
+432	ba-an-nu2	_[has.lain]	V	MID.3-SG-H.DAT.V.3-SG-S	391	acl.ADV	_	
+433	ku3	kug[silver]	N	N	391	ABS	_	
+434	nu-la2-e	_[he.shall.not.pay.any]	V	V	391	ABS	_	
+435	...	_[_]	PN	N	435	dep	heuristic: attach to last	
+436	tukum-bi	tukumbi[if]	CNJ	CNJ	436	_	heuristic: attach to last	
+437	erisz-dingir	_[an.eri-dingir.priestess]	PN	PN	674	ABS	projectivity violation	
+438	...-ba	_	PN	PN.ERG	442	LOC	projectivity violation	
+439	lu2	lu[person]	N	N	439	_	heuristic: attach to last	
+440	ur2-ra	_[in.a.man.in.lap]	N	N	438	LOC	_	
+441	...	_[_]	PN	N	443	dep	_	
+442	ba-nu2	_[has.lain]	V	V	438	acl	_	
+443	nu-un-zu	_[but.he.did.not.know.it]	V	NEG.L1-SYN.V.3-SG-S.SUB.COP-3-SG	438	acl	_	
+444	nita2-bi	_[that.man]	N	N	446	nmod	_	
+445	i3-bi2-TUR-ne-esz	_[that.man]	V	V	0	_	_	
+446	tukum-bi	tukumbi[if]	CNJ	CNJ	446	_	heuristic: attach to last	
+447	nam-|KAxX|-zu	_[witchcraft]	N	N	450	GEN	_	
+448	lu2	lu[person]	N	N	448	_	heuristic: attach to last	
+449	lu2-ra	_[one.man.has.another.man]	N	N	462	acl.ADV	_	
+450	in-da-ab-la2	_[accused]	V	V	450	acl	_	
+451	{d}i7-lu2-ru-gu2-sze3	_[and.to.Ordeal.River]	RN	RN	450	appos	_	
+452	lu2	lu[person]	N	N	450	appos	_	
+453	i3-tum2-mu	_[he.has.man.brought]	V	V	450	acl	_	
+454	{d}i7-lu2-ru-gu2	_[and.Ordeal.River]	DN	DN	450	appos	_	
+455	um-zalag-zalag	_[has.then.cleared.him]	PN	PN.ABS	450	appos	_	
+456	lu2	lu[person]	N	N	460	nummod	projectivity violation	
+457	in-tum2-mu	_[the.man.who.brings.him]	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	462	ABS	_	
+458	3(disz)	3(disz)[one]	NU	NU	460	nummod	heuristic: NU premodifying	
+459	gin2	gig[unit]	N	N	458	ABS	_	
+460	ku3-babbar	kugbabbar[silver]	N	N	460	GEN	_	
+461	i3-la2-e	_[shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	446	acl	_	
+462	tukum-bi	tukumbi[if]	CNJ	CNJ	469	_	_	
+463	dam	dam[spouse]	N	N	469	ABS	_	
+464	gurusz-a-da	_[a.young.mans]	V	V	464	acl	_	
+465	ur2-ra	_[of.in.a.lap]	N	N	464	acl	_	
+466	nu2-a	_[having.lain]	V	V	466	acl	_	
+467	lu2	lu[person]	N	N	467	appos	_	
+468	i3-da-la2	_[man.has.accused]	V	FIN.3-SG-H-A.V.3-SG-P	462	acl.ADV	_	
+469	i7-de3	_[but.River]	N	N.3-SG-NH-POSS.DAT-NH	469	appos	_	
+470	u3-um-zalag-zalag	_[having.cleared.him]	PN	PN	469	appos	_	
+471	lu2	lu[person]	N	N	471	_	heuristic: attach to last	
+472	i3-da-la2-a	_[the.man.who.accused.her]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.ABS	477	ABS	_	
+473	1/3(disz){sza}	1/3(disz)[one]	NU	NU	475	nummod	heuristic: NU premodifying	
+474	ma-na	mana[unit]	N	N	473	ABS	_	
+475	ku3	kug[silver]	N	N	475	GEN	_	
+476	i3-la2-e	_[shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	462	parataxis	_	
+477	tukum-bi	tukumbi[if]	CNJ	CNJ	482	_	_	
+478	mu10-us2-sa2-tur	_[a.son-in-law]	PN	PN	482	ABS	_	
+479	e2	e[house]	N	N	479	TERM	_	
+480	u2-ur3-ra-na-ka	_[into.his.father-in-law]	PN	PN.GEN.GEN.GEN	480	TERM	_	
+481	i3-in-ku4	_[has.entered]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	462	acl.ADV	_	
+482	u2-ur3	_[but.father-in-law]	PN	PN.GEN.GEN.DAT-H	482	appos	_	
+483	egir5-bi-ta	_[afterwards]	PN	PN	491	_	_	
+484	lu2	lu[person]	N	N	491	LOC	_	
+485	...	_[_]	PN	N	491	dep	_	
+486	ba-an-na-szum2	_[has.given.her.away]	V	V	491	acl	_	
+487	nig2-mu10-us2-sa2	nigmussa[bride price]	N	N	491	ABS	_	
+488	a-ra2	ara[times]	N	N	491	_	_	
+489	2(disz)-am3	2(disz)[one][-ø]-am	NU	NU.ABS.COP-3-SG	491	nummod	_	
+490	i3-na-szum2	_[he.shall.give.to.him]	N	N	482	acl	_	
+491	tukum-bi	tukumbi[if]	CNJ	CNJ	491	_	heuristic: attach to last	
+492	...-a	_	PN	PN	492	_	heuristic: attach to last	
+493	a.	_[a]	_	_	496	nmod	projectivity violation	
+494	geme2	geme[female_worker]	N	N	496	acl	_	
+495	ARAD2	arad[slave]	N	N	499	ABS	projectivity violation	
+496	(x)	_[_]	N	N	495	appos	_	
+497	b.	_	_	_	497	_	heuristic: attach to last	
+498	ba-zah3	_[has.escaped]	V	MID.V.3-SG-S.SUB	0	acl	_	
+499	ki-sur-ra	_	FN	N	499	_	heuristic: attach to last	
+500|500	iri-na-ka|iri-na-ka	_[and.border.her.town]|_[and.border.her.town]	N|N	N.3-SG-H-POSS.GEN|N.3-SG-H-POSS.GEN	491|127	nmod|nmod	heuristic: after nominal head; projectivity violation|heuristic: after nominal head; projectivity violation	
+501	lu2	lu[person]	N	N	501	_	heuristic: attach to last	
+502|502	im-mi-gur|im-mi-gur	_[and.someone.has.turned.her.in]|_[and.someone.has.turned.her.in]	V|V	V|V	491|127	nmod|nmod	heuristic: after nominal head; projectivity violation|heuristic: after nominal head; projectivity violation	
+503	lugal	lugal[king]	N	N	504	_	heuristic: attach to last	
+504	sag-ga2-ke4	_[the.owner.slave]	N	N	512	ABS	_	
+505	lu2	lu[person]	N	N	510	nummod	projectivity violation	
+506	im-mi-in-gur-ra	_[to.man.who.turned.her.in]	V	NF.V.PT	506	acl	_	
+507	2(disz)	2(disz)[one]	NU	NU	510	nummod	heuristic: NU premodifying	
+508	gin2	gig[unit]	N	N	508	LOC	_	
+509	ku3-babbar	kugbabbar[silver]	N	N	510	GEN	_	
+510	i3-na-la2-e	_[he.shall.pay]	V	V	491	acl	_	
+511	tukum-bi	tukumbi[if]	CNJ	CNJ	512	_	heuristic: attach to last	
+512	giri3-pad-ra2	_[a.bone]	N	N	625	ABS	_	
+513	...-a-ni	_[his]	PN	PN	514	appos	_	
+514	lu2	lu[person]	N	N	517	ABS	_	
+515	in-ku5	_[has.cut]	V	V	514	acl	_	
+516	1(u)	1(u)[ten]	NU	NU	519	nummod	heuristic: NU premodifying	
+517	gin2	gig[unit]	N	N	514	appos	_	
+518	ku3-babbar	kugbabbar[silver]	N	N	519	GEN	_	
+519	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	519	acl	_	
+520	tukum-bi	tukumbi[if]	CNJ	CNJ	521	_	heuristic: attach to last	
+521	lu2	lu[person]	N	N	522	_	heuristic: attach to last	
+522	lu2-ra	_[one.man.against.another]	N	N	620	ABS	_	
+523	{gesz}tukul-ta	_[with.a.weapon]	N	N.3-SG-NH-POSS.ABL	524	COM	_	
+524	giri3-pad-ra2	_[bone]	N	N	528	ABS	_	
+525	al-mu-ra-ni	_[his]	V	V	526	acl	_	
+526	in-zi-ir	_[has.broken]	V	V	525	acl	_	
+527	1(disz)	1(disz)[one]	NU	NU	530	nummod	heuristic: NU premodifying	
+528	ma-na	mana[unit]	N	N	524	appos	_	
+529	ku3-babbar	kugbabbar[silver]	N	N	530	GEN	_	
+530	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	530	acl	_	
+531	tukum-bi	tukumbi[if]	CNJ	CNJ	532	_	heuristic: attach to last	
+532	lu2	lu[person]	N	N	533	_	heuristic: attach to last	
+533	lu2-ra	_[one.man.against.another]	N	N	537	ERG	_	
+534	geszbu2-ta	_[through.a.fistfight]	N	N	535	TERM	_	
+535	giri17-ni	_[has.cut.off.his]	N	N.ABS	620	acl.ADV	_	
+536	in-ku5	_[nose]	V	V	537	acl	_	
+537	2/3(disz)	2/3(disz)[one]	NU	NU	620	nummod	heuristic: NU premodifying	
+538	ma-na	mana[unit]	N	N	620	ABS	_	
+539	ku3-babbar	kugbabbar[silver]	N	N	540	GEN	_	
+540	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	540	acl	_	
+541	tukum-bi	tukumbi[if]	CNJ	CNJ	542	_	heuristic: attach to last	
+542	...-ta	_[_]-ta	PN	PN.GEN.ABL	594	COM	_	
+543	giri3-pad-ra2	_[a.bone]	N	N	0	_	_	
+544	in-...	_[he.has]	PN	PN	545	acl	_	
+545	2(disz)	2(disz)[one]	NU	NU	548	nummod	heuristic: NU premodifying	
+546	gin2	gig[unit]	N	N	546	appos	_	
+547	ku3-babbar	kugbabbar[silver]	N	N	548	GEN	_	
+548	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	548	acl	_	
+549	tukum-bi	tukumbi[if]	CNJ	CNJ	556	_	_	
+550	geszbu2-ta	_[through.a.fistfight]	N	N	554	TERM	_	
+551	ugu2	ugu[capital]	N	N	554	nummod	_	
+552	lu2	lu[person]	N	N	556	TERM	_	
+553	lu2	lu[person]	N	N	556	GEN	_	
+554	i3-ha-asz	_[has.split.open]	V	V	545	acl	_	
+555	nig2	_	N	N	556	_	heuristic: attach to last	
+556	{gesz}tukul-a-gin7	_[with.something.like.a.weapon.rd]	N	N.DAT-H	556	COM	_	
+557	1/3(disz)	1/3(disz)[one]	NU	NU	560	nummod	heuristic: NU premodifying	
+558	ma-na	mana[unit]	N	N	558	appos	_	
+559	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	560	acl	_	
+560	tukum-bi	tukumbi[if]	CNJ	CNJ	561	_	heuristic: attach to last	
+561	geszbu2-ta	_[through.a.fistfight]	N	N	565	TERM	_	
+562	ugu2	ugu[capital]	N	N	565	nummod	_	
+563	lu2	lu[person]	N	N	570	TERM	projectivity violation	
+564	lu2	lu[person]	N	N	567	GEN	_	
+565	i3-ha-asz	_[has.split.open]	V	V	565	acl	_	
+566	3(gesz2)	3(gesz)[sixty]	NU	NU	594	nummod	projectivity violation	
+567	usan3	_[he.with.lashes]	N	N.ABS	570	ABS	_	
+568	i3-ra-ra	_[shall.be.beaten]	V	V	556	acl.ADV	_	
+569	tukum-bi	tukumbi[if]	CNJ	CNJ	570	_	heuristic: attach to last	
+570	igi	igi[eye][-ø]	N	N	575	ABS	_	
+571	lu2	lu[person]	N	N	572	_	heuristic: attach to last	
+572	lu2	lu[person]	N	N	572	ABS	_	
+573	im-ta-szub	_[makes.fall.out]	V	V	578	acl.ADV	_	
+574	1/2(disz)	1/2(disz)[one]	NU	NU	578	nummod	_	
+575	ma-na	mana[unit]	N	N	578	ABS	_	
+576	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	594	acl	_	
+577	tukum-bi	tukumbi[if]	CNJ	CNJ	578	_	heuristic: attach to last	
+578	lu2	lu[person]	N	N	582	ERG	_	
+579	lu2	lu[person]	N	N	580	_	heuristic: attach to last	
+580	zu2-ni	_[breaks.another]	N	N	586	acl.ADV	projectivity violation	
+581	i3-ku5	_[mans.tooth]	PN	PN	582	ABS	_	
+582	1/2(disz)	1/2(disz)[one]	NU	NU	594	nummod	projectivity violation	
+583	ma-na	mana[unit]	N	N	586	ABS	_	
+584	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	578	parataxis	_	
+585	tukum-bi	tukumbi[if]	CNJ	CNJ	589	_	_	
+586	ARAD2-de3	_[a.slave]	N	N	589	ERG	_	
+587	dumu-gi7-ra	_[has.struck]	N	N.GEN.ABS	594	acl.ADV	_	
+588	i3-ni-ra	_[a.free.citizen]	V	V	589	acl	_	
+589	{ki}kiszi4-ni	_[when]	PN	PN	592	_	_	
+590	u3-ta-ak	_[half.his.head.hair.has.been.shaved.off]	V	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	589	acl	_	
+591	iri	iri[city]	N	N	594	_	_	
+592	im-nigin2-nigin2	_[he.shall.be.paraded.around.town]	V	V	620	acl.ADV	_	
+593	tukum-bi	tukumbi[if]	CNJ	CNJ	597	_	_	
+594	dumu-gi7	dumugi[citizen]	N	N	597	ERG	_	
+595	ARAD2-ra	_[has.beaten]	N	N	594	acl.ADV	_	
+596	i3-ni-ra	_[a.slave]	V	V	597	acl	_	
+597	1(gesz2)	1(gesz)[sixty]	NU	NU	602	nummod	heuristic: NU premodifying	
+598	a2-si	_[with]	PN	PN	602	COM	_	
+599	1(gesz2)	1(gesz)[sixty]	NU	NU	602	nummod	heuristic: NU premodifying	
+600	nig	_[a.strap.and.with.a.belt]	N	N	597	COM	_	
+601	i3-ra-ra	_[he.shall.be.beaten]	V	V	597	acl	_	
+602	tukum-bi	tukumbi[if]	CNJ	CNJ	606	_	_	
+603	lu2	lu[person]	N	N	606	ABS	_	
+604	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	597	acl	_	
+605	dam-ni	_[and.his]	N	N.3-SG-H-POSS.ABS	597	appos	_	
+606	ur2-a-na-sze3	_[wife.to.her.father-in-laws]	N	N	609	ABS	_	
+607	i3-na-ni-tusz	_[has.gone.to.reside]	V	V	597	acl	_	
+608	sag	sag[head]	N	N	620	ABS	_	
+609	a-ga-na	_[her.legacy]	N	N	610	GEN	_	
+610	ne-de2-a	_[and.marriage.gifts]	V	V	611	acl	_	
+611	ha-ba-an-tum2-mu	_[she.may.take.away]	V	V	611	acl	_	
+612	tukum-bi	tukumbi[if]	CNJ	CNJ	616	_	_	
+613	geme2	geme[female_worker]	N	N	616	acl	_	
+614	nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	620	acl.ADV	_	
+615	1(u)	1(u)[ten]	NU	NU	620	nummod	heuristic: NU premodifying	
+616	gin2	gig[unit]	N	N	620	ABS	_	
+617	ku3-babbar-am3	_[silver]	N	N	618	GEN	_	
+618	he2-na-la2-e	_[let.her.pay.him]	V	V	514	acl	_	
+619	tukum-bi	tukumbi[if]	CNJ	CNJ	623	_	_	
+620	ku3	kug[silver]	N	N	623	ABS	_	
+621	nu-tuku	nu-tuku[acquire][-a]	V	NEG.NF.V.PT	625	acl.ADV	_	
+622	nig2-na-me	_[nothing]	DET	DET	625	_	_	
+623	nu-na-ab-szum2-mu	_[shall.she.give.to.him]	V	MOD.FIN.3-SG-H.DAT.3-SG-NH-P.V.3-SG-A	482	acl.ADV	_	
+624	tukum-bi	tukumbi[if]	CNJ	CNJ	637	_	_	
+625	geme2	geme[female_worker]	N	N	629	acl	_	
+626	lu2	lu[person]	N	N	629	nmod	_	
+627	nin-a-ni-gin7	_[slave.a.person.who.as.her.mistress]	N	N.3-SG-H-POSS.DAT-H	637	ABS	_	
+628	dim2-ma-ar	_[is.acting]	PN	PN	632	acl	_	
+629	asz2	_[has]	N	N.ABS	632	_	_	
+630	i3-ni-du11	_[cursed]	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	629	acl	_	
+631	1(disz)	1(disz)[one]	NU	NU	634	nummod	heuristic: NU premodifying	
+632	sila3	sila[unit]	N	N	629	appos	_	
+633	mun-am3	_[indeed.salt]	N	N	634	_	_	
+634	ka-ka-ne2	_[onto.her.mouth]	PN	PN	634	TERM	_	
+635	i3-sub6-be2	_[shall.be.rubbed]	V	V	625	acl.ADV	_	
+636	tukum-bi	tukumbi[if]	CNJ	CNJ	637	_	heuristic: attach to last	
+637	geme2	geme[female_worker]	N	N	641	acl	_	
+638	lu2	lu[person]	N	N	641	nmod	_	
+639	nin-a-ni-gin7	_[slave.a.person.who.as.her.mistress]	N	N.3-SG-H-POSS.DAT-H	0	ABS	_	
+640	dim2-ma-ar	_	PN	PN	641	_	heuristic: attach to last	
+641	in-ni-ra	_	PN	PN	642	_	heuristic: attach to last	
+642	...	_[_]	PN	N	646	dep	heuristic: attach to last	
+643	...	_[_]	PN	N	647	dep	heuristic: attach to last	
+644	...	_[_]	PN	N	648	dep	heuristic: attach to last	
+645	...	_[_]	PN	N	649	dep	heuristic: attach to last	
+646	...	_[_]	PN	N	650	dep	heuristic: attach to last	
+647	...	_[_]	PN	N	651	dep	heuristic: attach to last	
+648	...	_[_]	PN	N	652	dep	heuristic: attach to last	
+649	...	_[_]	PN	N	653	dep	heuristic: attach to last	
+650	x	_[_]	N	N	654	dep	heuristic: attach to last	
+651	...	_[_]	PN	N	655	dep	heuristic: attach to last	
+652	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	127	acl	heuristic: after nominal head; projectivity violation	
+653	tukum-bi	tukumbi[if]	CNJ	CNJ	0	appos	_	
+654	a2-suh	_[with.a.forearm]	FN	FN	658	COM	_	
+655	dumu-munus	dumumunus[daughter]	N	N	659	appos	_	
+656	lu2-ka	_[of.a]	N	N	662	GEN	_	
+657	i-ni-in-ra	_[man.he.has.hit]	V	V	660	acl	_	
+658	nig2	_[and.thing.her.womb]	N	N	660	appos	_	
+659	sza3-ga-na	Szagana[1]	N	N.3-SG-H-POSS.L1	663	_	heuristic: attach to last	
+660	szu	szu[hand][-e]	N	N.L3-NH	660	appos	_	
+661	mu-un-da-an-la2	_[he.has.caused.her.to.miscarry]	V	VEN.3-SG-H-A.V.3-SG-P.SUB.3-SG-H-POSS.GEN	660	acl	_	
+662	1/2(disz)	1/2(disz)[one]	NU	NU	668	nummod	heuristic: NU premodifying	
+663	ma-na	mana[unit]	N	N	660	appos	_	
+664	ku3-babbar	kugbabbar[silver]	N	N	668	GEN	_	
+665	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	668	acl	_	
+666	tukum-bi	tukumbi[if]	CNJ	CNJ	672	_	_	
+667	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	674	acl.ADV	_	
+668	nita2-bi	_[that.man]	N	N	674	ABS	_	
+669	i3-gaz-e	_[shall.be.killed]	V	V	391	acl	_	
+670	tukum-bi	tukumbi[if]	CNJ	CNJ	391	appos	_	
+671	a2-suh	_[with.a.forearm]	FN	FN	675	COM	_	
+672	geme2	geme[female_worker]	N	N	676	_	heuristic: attach to last	
+673	lu2-ka	_[a.mans.female.slave]	N	N	676	appos	_	
+674	i3-ni-in-ra	_[he.has.hit]	N	N	678	acl	_	
+675	ma-gig	_[and.an.it-has-hurt-me]	V	V	678	acl	_	
+676	i3-ni-du11	_[he.has.done.to.her]	V	VEN.3-SG-H.DAT.L1.3-SG-H-A.V.3-SG-P	678	acl	_	
+677	5(disz)	5(disz)[one]	NU	NU	683	nummod	heuristic: NU premodifying	
+678	gin2	gig[unit]	N	N	681	appos	_	
+679	ku3-babbar	kugbabbar[silver]	N	N	683	GEN	_	
+680	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	683	acl	_	
+681	tukum-bi	tukumbi[if]	CNJ	CNJ	685	_	heuristic: attach to last	
+682	geme2	geme[female_worker]	N	N	688	nmod	_	
+683	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	732	ERG	_	
+684	...	_[_]	PN	N	688	dep	heuristic: attach to last	
+685	sag	sag[head]	N	N	692	_	_	
+686	sag-sze3	_[a]	N	N.TERM	692	nmod	_	
+687	i3-gub-be2	_[slave.for.a.slave.shall.serve]	V	V	732	acl	_	
+688	tukum-bi	tukumbi[if]	CNJ	CNJ	697	_	_	
+689	lu2	lu[person]	N	N	695	nmod	_	
+690	lu2	lu[person]	N	N	697	ABS	_	
+691	ki-inim-ma-sze3	_[as.a.witness]	N	N	695	LOC	_	
+692	ib2-ta-e3	_[came.forth]	PN	PN	692	acl.ADV	_	
+693	lu2	lu[person]	N	N	697	_	heuristic: attach to last	
+694	ni2-zuh	_[and.a.thief]	N	N.ABS	732	nmod	_	
+695	ba-an-ku4	ba-n-kur[enter][-ø]	V	MID.L1-SYN.V.3-SG-S	732	acl	_	
+696	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+697	5(disz)	5(disz)[one]	NU	NU	701	nummod	_	
+698	gin2	gig[unit]	N	N	717	ABS	_	
+699	ku3-babbar-am3	_[silver]	N	N	703	GEN	_	
+700	i3-la2-e	_[he.shall.pay]	V	FIN.3-SG-H-A.V.3-SG-P.SUB.L1	703	acl	_	
+701	tukum-bi	tukumbi[if]	CNJ	CNJ	710	_	_	
+702	lu2	lu[person]	N	N	708	nmod	_	
+703	lu2	lu[person]	N	N	710	ABS	_	
+704	ki-inim-ma-sze3	_[as.a.witness]	N	N	708	LOC	_	
+705	ib2-ta-e3	_[came.forth]	PN	PN	717	acl.ADV	_	
+706	nam-erim2-ta	_[but]	N	N	710	appos	_	
+707	im-ma-ra-a-gur	_[turned.away.from.an.oath]	V	V	710	acl	_	
+708	nig2	_	N	N	712	_	heuristic: attach to last	
+709	di-ba	_[the.concern.that.suit]	N	N.3-SG-NH-POSS.L1	717	ABS	_	
+710	en-na	en[priest]-ak[-e]	PN	N.GEN.ERG	714	_	heuristic: attach to last	
+711	gal2-la	gal[be]-a[-ø]	V	NF.V.PT	715	_	heuristic: attach to last	
+712	ib2-su-su	_[he.will.compensate]	PN	PN	700	acl	_	
+713	tukum-bi	tukumbi[if]	CNJ	CNJ	717	_	heuristic: attach to last	
+714	{a-sza3}asza5	_[a.mans.field]	PN	PN	727	ABS	_	
+715	lu2	lu[person]	N	N	719	_	heuristic: attach to last	
+716	nig2-a2-gar-sze3	_[by.deception]	N	N.TERM	719	ERG	_	
+717	lu2	lu[person]	N	N	723	ABS	_	
+718	i3-ak	_[has.worked]	V	FIN.3-SG-HN-P.V.3-SG-A.SUB	719	acl	_	
+719	ba-an-uru4	_[and.he.has.plowed.it]	V	NF.V.PT	719	acl	_	
+720	di	did[lawsuit]	N	N	719	appos	_	
+721	bi2-du11	_[a.trial.has.been.held.regarding.it]	V	V	719	acl	_	
+722	bi2-du11	_[a.trial.has.been.held.regarding.it]	V	V	732	acl.ADV	_	
+723	gu2	gun[unit]	N	N	727	_	heuristic: attach to last	
+724	in-ni-gar	_[and.it.was.put.to.anothers.account]	V	FIN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	727	appos	_	
+725	lu2-bi	_[that.man]	PN	PN.DAT-H	732	ABS	_	
+726	a2-ni	_[shall]	N	N	732	_	_	
+727	ib2-ta-an-e11-de3	_[be.forced.to.forfeit.his.labor]	V	FIN.3-SG-H.L3.3-SG-H-A.V.3-PL.SUB.L2-NH	391	parataxis	_	
+728	tukum-bi	tukumbi[if]	CNJ	CNJ	127	appos	_	
+729	{a-sza3}asza5	_[a.mans.field]	PN	PN	733	appos	_	
+730	lu2	lu[person]	N	N	734	_	heuristic: after nominal head	
+731	lu2	lu[person]	N	N	734	appos	_	
+732	a-da	_	PN	PN	734	_	heuristic: after nominal head	
+733	bi2-DU	_[another.man.has.flooded.with.water]	V	V	734	acl	_	
+734	a-sza3	aszag[field]	N	N	741	GEN	projectivity violation	
+735	1(iku)	1(iku)[unit]	NU	N	744	nummod	projectivity violation	
+736	GAN2	gana[field]	N	N	734	LOC	_	
+737	3(asz)	3(asz)[one]	NU	NU	744	nummod	heuristic: NU premodifying	
+738	sze	sze[barley]	N	N	744	GEN	_	
+739	gur	gur[unit]	N	N	741	appos	_	
+740	i3-ag2-ge26	_[he.shall.measure.out]	V	FIN.3-SG-HN-P.V.3-SG-A.SUB	744	acl	_	
+741	tukum-bi	tukumbi[if]	CNJ	CNJ	734	appos	_	
+742	lu2	lu[person]	N	N	746	_	heuristic: attach to head	
+743	lu2	lu[person]	N	N	746	appos	_	
+744	{a-sza3}asza5	_[a.field]	PN	PN	751	ABS	_	
+745	apin-la2-sze3	_[for.cultivation]	N	N	749	DAT	_	
+746	i3-na-szum2	_[has.given]	N	N	748	acl	_	
+747	nu-un-uru4	_[but.he.did.not.plow.it]	PN	PN	748	appos	_	
+748	sza3-su-ga	_[and.empty.land]	V	V	748	acl	_	
+749	i3-gar	_[he.has.left]	V	V	748	acl	_	
+750	1(iku)	1(iku)[unit]	NU	N	759	nummod	projectivity violation	
+751	GAN2	gana[field]	N	N	748	LOC	_	
+752	3(asz)	3(asz)[one]	NU	NU	759	nummod	heuristic: NU premodifying	
+753	sze	sze[barley]	N	N	759	GEN	_	
+754	gur	gur[unit]	N	N	756	appos	_	
+755	i3-ag2-ge26	_[he.shall.measure.out]	V	FIN.3-SG-HN-P.V.3-SG-A.SUB	759	acl	_	
+756	tukum-bi	tukumbi[if]	CNJ	CNJ	748	appos	_	
+757	lu2	lu[person]	N	N	761	appos	_	
+758	lu2	lu[person]	N	N	762	_	heuristic: after nominal head	
+759	a-sza3	aszag[field]	N	N	767	ABS	_	
+760	ki-duru5	_[land.on.irrigable]	N	N	764	LOC	_	
+761	apin-la2-sze3	_[for.cultivation]	N	N	764	DAT	_	
+762	in-na-szum2	_[has.given]	PN	PN.GEN	762	acl	_	
+763	1(bur3)	1(bur)[unit]	NU	N	769	nummod	heuristic: NU premodifying	
+764	GAN2	gana[field]	N	N	762	LOC	_	
+765	masz-bi	_[its.interest]	N	N.3-SG-NH-POSS.ABS	769	LOC	_	
+766	2(disz)	2(disz)[one]	NU	NU	772	nummod	heuristic: NU premodifying	
+767	gin2-am3	_[field.shekels.as]	N	N.GEN.ABS.COP-3-SG	769	GEN	projectivity violation	
+768	a-sza3	aszag[field]	N	N	774	ABS	_	
+769	in-da-gal2-am3	_[the.will.generate.from.him]	V	V	770	acl	_	
+770	tukum-bi	tukumbi[if]	CNJ	CNJ	782	_	_	
+771	a-sza3	aszag[field]	N	N	782	ABS	_	
+772	a2-x	_[man]	PN	PN	782	ERG	projectivity violation	
+773	lu2	lu[person]	N	N	777	appos	_	
+774	lu2	lu[person]	N	N	782	LOC	projectivity violation	
+775	apin-la2-sze3	_[for.cultivation]	N	N	776	DAT	_	
+776	in-na-szum2	_[has.given.to]	PN	PN.GEN	782	_	_	
+777	...	_[_]	PN	N	762	dep	_	
+778	n	_(_)[_]	NU	NU	782	nummod	_	
+779	gin2-am3	_[per.shekels]	N	N.GEN.ABS.COP-3-SG	782	LOC	_	
+780	i3-na-la2-e	_[he.shall.pay.him]	V	V	782	acl	_
 	
 

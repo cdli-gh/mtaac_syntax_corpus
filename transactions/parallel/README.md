@@ -4,7 +4,7 @@ Projected dependency annotations from English translations, ) that overlaps with
 
 ## Contents
 
-- `projected/` raw projection from English, CoNLL format, subset of subset of [../../parallel](../../parallel/sux-projected)
+- `projected/` refined projection from English, CoNLL format, subset of [../../parallel](../../parallel/consolidated)
 - TODO: `sux-mtaac/` MTAAC dependencies automatically derived from projection
 
 ## Approach

@@ -1,51 +1,50 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P416449.atf
-						
-
 # tr.en: ox ewes because of soldiers who for lustration ceremony the palace entered ewes grass-fed because of soldiers the Kitchen Nanna-kam messenger responsible official the th day from Ur-kununa booked out via Nanna-maba scribe month ki-siki of Ninazu year Szu-Suen king of Ur western wall muriq-tidnim erected ox small cattle
-1	1(disz)	_	NN	0	nummod	
-2	gu4	ox	NN	1	compound	
-3	mu	_	,	1	_	
-4	...	_	NN	6	dep	
-5	8(disz)	_	_	0	nummod	
-6	u8	ewes	NNS	1	appos	
-7	...	_	,	1	dep	
-8	mu	_	_	0	_	
-9	aga3-us2	because	IN	10	nmod:because	
-10	a-tu5-a-ka	soldiers who for lustration ceremony	NNS	1	nmod:because	
-11	e2-gal-la	palace	NN	12	nsubj	
-12	kux(KWU636)-ra-ne-sze3	the entered	VBD	10	acl:relcl	
-13	8(disz)	_	,	14	nummod	
-14	u8	ewes	NNS	10	conj	
-15	u2	grass-fed	JJ	14	amod	
-16	mu	_	NNS	14	nmod:because	
-17	aga3-us2-e-ne-sze3	because soldiers	IN	16	nmod:because	
-18	e2-muhaldim	the Kitchen	NN	14	appos	
-19	{d}nanna-kam	Nanna-kam	NN	10	conj	
-20	sukkal	messenger	NN	19	appos	
-21	maszkim	responsible official	NN	19	appos	
-22	u4	the th day	NN	10	conj	
-23	2(u)	_	,	22	nummod	
-24	6(disz)-kam	_	_	23	nummod	
-25	ki	from	IN	26	nmod:from	
-26	ur-ku3-nun-na-ta	Ur-kununa	NN	22	nmod:from	
-27	ba-zi	booked out	VBN	26	acl	
-28	giri3	via	IN	29	nmod:via	
-29	{d}nanna-ma-ba	Nanna-maba	NN	22	nmod:via	
-30	dub-sar	scribe	NN	22	appos	
-31	iti	month	NN	10	conj	
-32	ki-siki-{d}nin-a-zu	ki-siki Ninazu	NN	10	_	
-33	mu	year	NN	32	_	
-34	{d}szu-{d}suen	Szu-Suen	NNP	32	_	
-35	lugal	king	NN	34	appos	
-36	uri5{ki}-ma-ke4	Ur	NN	35	nmod:of	
-37	bad3	_	:	10	_	
-38	mar-tu	western wall	JJ	39	amod	
-39	mu-ri-iq-ti-id-ni-im	muriq-tidnim	NN	34	appos	
-40	mu-du3	erected	VBN	39	acl	
-41	1(disz)	_	.	1	nummod	
-42	gu4	ox	NN	10	_	
-43	1(u)	_	_	0	nummod	
-44	6(disz)	_	_	43	nummod	
-45	udu	small cattle	NNS	42	appos
+1	1(disz)	1(disz)[one]	NU	NU	0	nummod	_	
+2	gu4	gud[ox]	N	N	1	appos	_	
+3	mu	mu[year]	N	N	1	appos	_	
+4	...	_[_]	PN	N	6	dep	_	
+5	8(disz)	8(disz)[one]	NU	NU	6	nummod	heuristic: NU premodifying	
+6	u8	u[ewe]	N	N	1	appos	_	
+7	...	_[_]	PN	N	1	dep	_	
+8	mu	mu[year]	N	N	10	_	heuristic: attach to head	
+9	aga3-us2	aga'us[soldier]	N	N	10	GEN.TERM	_	
+10	a-tu5-a-ka	_[soldiers.who.for.lustration.ceremony]	PN	PN	1	GEN.TERM	_	
+11	e2-gal-la	egal[palace]-'a	N	N.L1	12	ABS	_	
+12	kux(KWU636)-ra-ne-sze3	_[the.entered]	V	NF.V.PT.GEN.TERM	10	acl	_	
+13	8(disz)	8(disz)[one]	NU	NU	14	nummod	_	
+14	u8	u[ewe]	N	N	10	appos	_	
+15	u2	u[grass]	N	N	14	acl	_	
+16	mu	mu[year]	N	N	14	GEN.TERM	_	
+17	aga3-us2-e-ne-sze3	_[because.soldiers]	N	N.PL.GEN.TERM	16	GEN.TERM	_	
+18	e2-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	14	appos	_	
+19	{d}nanna-kam	Nannakam[1]	DN	PN	10	appos	_	
+20	sukkal	sukkal[secretary][-ak][-ra]	N	N	19	appos	_	
+21	maszkim	maszkim[administrator]	N	N.ABS	19	appos	_	
+22	u4	ud[day]	N	N	10	appos	_	
+23	2(u)	2(u)[ten]	NU	NU	22	nummod	_	
+24	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	_	
+25	ki	ki[place]	N	N	26	ABL	_	
+26	ur-ku3-nun-na-ta	Urkununa[1][-ak]-ta	PN	PN.GEN.ABL	22	ABL	_	
+27	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	26	acl	_	
+28	giri3	giri[foot]	N	N	29	via	_	
+29	{d}nanna-ma-ba	Nannamaba[1]	PN	PN	22	via	_	
+30	dub-sar	dubsar[scribe]	N	N	22	appos	_	
+31	iti	iti[month]	N	N	10	appos	_	
+32	ki-siki-{d}nin-a-zu	Kisikininazu[1][-'a]	MN	MN.L1	10	appos	_	
+33	mu	mu[year]	N	N	32	appos	_	
+34	{d}szu-{d}suen	Szusuen[1]	RN	RN	32	appos	_	
+35	lugal	lugal[king]	N	N	34	appos	_	
+36	uri5{ki}-ma-ke4	Urim[1]-ak-e	SN	SN.GEN.ERG	35	GEN	_	
+37	bad3	bad[wall]	N	N	10	appos	projectivity violation	
+38	mar-tu	Martu[1][-ø]	EN	EN.ABS	39	acl	_	
+39	mu-ri-iq-ti-id-ni-im	Muriqtidnim[1][-ø]	ON	ON.ABS	34	appos	_	
+40	mu-du3	mu[-n]-du[build][-ø]	V	VEN.3-SG-H-A.V.3-SG-P	39	acl	_	
+41	1(disz)	1(disz)[one]	NU	NU	1	nummod	projectivity violation	
+42	gu4	gud[ox]	N	N	10	appos	_	
+43	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+44	6(disz)	6(disz)[one][-sze]	NU	NU	43	nummod	_	
+45	udu	udu[sheep]	N	N	42	appos	_
 	
 

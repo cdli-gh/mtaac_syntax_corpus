@@ -1,44 +1,43 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P135143.atf
-						
-
 # tr.en: male laborer tablet-head male laborer labor male laborers labor shekels they are ox-drivers male laborers from month Festival of Szulgi to month Harvest the labor male laborer workdays of months barley rations added delivered Kuli accepted year En-unugal of Inanna in Uruk was hired
-1	1(disz)	_	:	3	nummod	
-2	gurusz	male	JJ	3	amod	
-3	sag-dub	laborer tablet-head	NN	0	root	
-4	1(disz)	_	:	5	nummod	
-5	gurusz	male laborer	NN	3	_	
-6	a2	labor	NN	5	appos	
-7	1/2(disz)	_	CD	5	nummod	
-8	2(disz)	_	:	3	nummod	
-9	gurusz	male laborers	NNS	7	_	
-10	a2	labor	NN	12	compound	
-11	1(u)	_	_	0	nummod	
-12	gin2	shekels	NNS	7	_	
-13	sza3-gu4-me	they are ox-drivers	NNS	3	parataxis	
-14	1(disz)	_	,	16	nummod	
-15	5/6(disz)	_	_	14	nummod	
-16	gurusz	male laborers	NNS	13	conj	
-17	iti	month	NN	16	nmod:from	
-18	ezem-{d}szul-gi-ta	from Festival Szulgi	IN	17	nmod:from	
-19	iti	month	NN	16	nmod:to	
-20	sze-sag11-ku5-sze3	to Harvest	TO	19	nmod:to	
-21	a2-bi	the labor	NN	13	_	
-22	5(gesz2)	_	,	25	nummod	
-23	3(u)	_	_	22	nummod	
-24	gurusz	male laborer	JJ	25	amod	
-25	u4	workdays	NNS	33	_	
-26	1(disz)-sze3	_	_	0	nummod	
-27	iti	months	NNS	25	nmod:of	
-28	6(disz)-kam	_	,	25	nummod	
-29	sze-ba	barley rations	NNS	25	appos	
-30	dah-hu-a	added	VBD	33	acl	
-31	de6-a	delivered	VBN	30	conj	
-32	ku-li	Kuli	NNP	33	nsubj	
-33	i3-dab5	accepted	VBD	21	acl	
-34	mu	year	NN	38	_	
-35	en-unu6-gal	En-unugal	JJ	38	nsubjpass	
-36	{d}inanna	Inanna	NNP	35	nmod:of	
-37	unu{ki}	in Uruk	NNP	35	nmod:in	
-38	ba-hun	was hired	VBN	3	parataxis
+1	1(disz)	1(disz)[one]	NU	NU	3	nummod	_	
+2	gurusz	gurusz[male]	N	N	3	acl	_	
+3	sag-dub	_[laborer.tablet-head]	N	N	0	root	_	
+4	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+5	gurusz	gurusz[male]	N	N	3	appos	_	
+6	a2	a[time]	N	N	5	appos	_	
+7	1/2(disz)	1/2(disz)[one]	NU	NU	5	nummod	_	
+8	2(disz)	2(disz)[one]	NU	NU	3	nummod	projectivity violation	
+9	gurusz	gurusz[male]	N	N	7	appos	_	
+10	a2	a[time]	N	N	12	nmod	_	
+11	1(u)	1(u)[ten]	NU	NU	12	nummod	heuristic: NU premodifying	
+12	gin2	gig[unit]	N	N	7	appos	_	
+13	sza3-gu4-me	szagud[ox_driver][-ø]-mesz	N	N.ABS.COP-3-PL	3	parataxis	_	
+14	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+15	5/6(disz)	5/6(disz)[one]	NU	NU	14	nummod	_	
+16	gurusz	gurusz[male]	N	N	13	appos	_	
+17	iti	iti[month]	N	N	16	ABL	_	
+18	ezem-{d}szul-gi-ta	Ezemszulgir[1]-ta	MN	MN.ABL	17	ABL	_	
+19	iti	iti[month]	N	N	16	LOC	_	
+20	sze-sag11-ku5-sze3	Szesagku[1]-sze	MN	MN.TERM	19	LOC	_	
+21	a2-bi	a[labor]-bi	N	N.3-SG-NH-POSS.ABS	13	appos	_	
+22	5(gesz2)	5(gesz)[sixty]	NU	NU	25	nummod	_	
+23	3(u)	3(u)[ten]	NU	NU	22	nummod	_	
+24	gurusz	gurusz[male]	N	N	25	acl	_	
+25	u4	ud[day]	N	N	33	_	_	
+26	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	27	nummod	heuristic: NU premodifying	
+27	iti	iti[month]	N	N	25	GEN	_	
+28	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	25	nummod	_	
+29	sze-ba	szeba[ration]	N	N	25	appos	_	
+30	dah-hu-a	_[added]	PN	PN	33	acl	_	
+31	de6-a	de[bring]-a	V	NF.V.PT	30	acl	_	
+32	ku-li	Kuli[1]	PN	PN	33	ABS	_	
+33	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	21	acl	_	
+34	mu	mu[year]	N	N	38	_	_	
+35	en-unu6-gal	Enunugal[1]	PN	PN	38	ABS	_	
+36	{d}inanna	Inanna[1][-ak]	DN	DN	35	GEN	_	
+37	unu{ki}	Unug[1][-ak][-ak][-ø]	SN	SN.GEN.L1	35	LOC	_	
+38	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	3	acl	_
 	
 

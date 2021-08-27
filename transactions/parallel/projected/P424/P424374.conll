@@ -1,48 +1,37 @@
-# train/P424374.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P424374.atf new_text=P424374
+# train/P424374.atf						#new_text=P424374
 # tr.en: gur barig ban ration barley under seal of Adudu gur barig ration barley under seal of Lu- gur barig ban ration barley with Szara-kam barig Ur-Dumuzida son of gur ban sila Luga from threshing floor of Gabtena month Extra year Szu-Suen king erected great-stele
-1	1(asz)	_	,	5	nummod	
-2	1(barig)	_	_	1	nummod	
-3	4(ban2)	barig ban	NN	5	nummod	
-4	sze-ba	ration barley	NN	5	appos	
-5	gur	gur	NN	0	root	
-6	kiszib3	under seal	NN	5	nmod:under	
-7	a-du-du	Adudu	NNP	6	nmod:of	
-8	2(asz)	_	NN	12	nummod	
-9	4(barig)	barig	NN	11	nummod	
-10	sze-ba	ration barley	NN	11	appos	
-11	gur	gur	NN	5	_	
-12	kiszib3	under seal	NN	11	nmod:under	
-13	lu2-...	Lu-	_	0	_	
-14	5(asz)	_	CD	21	nummod	
-15	3(barig)	_	_	14	nummod	
-16	2(ban2)	barig ban	NN	18	nummod	
-17	sze-ba	ration barley	NN	11	_	
-18	gur	gur	NN	11	appos	
-19	ki	with	IN	21	nmod:with	
-20	{d}szara2-kam	Szara-kam	NN	21	compound	
-21	1(barig)	barig	NN	17	nummod	
-22	ur-{d}dumu-zi-da	Ur-Dumuzida	NNP	21	appos	
-23	dumu	son	NN	21	appos	
-24	x-x	of	IN	23	dep	
-25	6(asz)	_	_	0	nummod	
-26	3(ban2)	_	_	25	nummod	
-27	5(disz)	ban	NN	29	nummod	
-28	sila3	sila	NN	27	_	
-29	gur	gur	NN	23	_	
-30	lu-ga2-x	Luga	NN	21	appos	
-31	ki-su7	from threshing	IN	32	nmod:from	
-32	du6-gub3-temen-na-ta	floor Gabtena	NN	30	nmod:from	
-33	iti	month	NN	42	compound	
-34	diri	_	``	42	_	
-35	mu	year	NN	39	nmod:tmod	
-36	{d}szu-{d}suen	Szu-Suen	NNP	39	nsubj	
-37	lugal-e	king	NN	36	appos	
-38	na-ru2-a-mah	great-stele	NN	39	dobj	
-39	mu-du3	erected	VBD	42	acl	
-40	 	_	NN	0	root	
-41	 	_	.	40	_	
-42	 	_	NNP	41	_
-	
+1	1(asz)	1(asz)[one]	NU	NU	5	nummod	_	
+2	1(barig)	1(bariga)[unit]	NU	N	1	nummod	_	
+3	4(ban2)	4(ban)[unit]	NU	N	5	nummod	_	
+4	sze-ba	szeba[ration]	N	N	5	nmod	_	
+5	gur	gur[unit]	N	N	0	root	_	
+6	kiszib3	kiszib[seal]	N	N	5	LOC	_	
+7	a-du-du	Adudu[1]	PN	PN	6	GEN	_	
+8	2(asz)	2(asz)[one]	NU	NU	12	nummod	projectivity violation	
+9	4(barig)	4(bariga)[unit]	NU	N	11	nummod	_	
+10	sze-ba	szeba[ration]	N	N	11	nmod	_	
+11	gur	gur[unit]	N	N	5	appos	_	
+12	kiszib3	kiszib[seal]	N	N	11	LOC	_	
+13	lu2-...	_[1][-ra]	PN	PN	12	_	heuristic: attach to last	
+14	5(asz)	5(asz)[one]	NU	NU	21	nummod	projectivity violation	
+15	3(barig)	3(bariga)[unit]	NU	N	14	nummod	_	
+16	2(ban2)	2(ban)[unit]	NU	N	18	nummod	projectivity violation	
+17	sze-ba	szeba[ration]	N	N	11	appos	_	
+18	gur	gur[unit]	N	N	11	appos	projectivity violation	
+19	ki	ki[place]	N	N	21	COM	_	
+20	{d}szara2-kam	Szarakam[1]	PN	PN	21	nmod	_	
+21	1(barig)	1(bariga)[unit]	NU	N	17	nummod	_	
+22	ur-{d}dumu-zi-da	Urdumuzida[1][-e]	PN	PN.GEN.ABS	21	appos	_	
+23	dumu	dumu[child]	N	N	21	appos	_	
+24	x-x	_[_]	PN	N.2-SG-POSS.ABS	23	dep	_	
+25	6(asz)	6(asz)[one]	NU	NU	0	nummod	_	
+26	3(ban2)	3(ban)[unit]	NU	N	25	nummod	_	
+27	5(disz)	5(disz)[one]	NU	NU	29	nummod	_	
+28	sila3	sila[unit]	N	N	27	appos	_	
+29	gur	gur[unit]	N	N	23	appos	_	
+30	lu-ga2-x	_[Luga]	PN	PN	21	appos	_	
+31	ki-su7	kisur[threshing_floor]	N	N	32	ABL	_	
+32	du6-gub3-temen-na-ta	_[floor.Gabtena]	N	N	30	ABL	_	
 

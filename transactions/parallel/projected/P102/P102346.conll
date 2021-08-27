@@ -1,39 +1,9 @@
-# train/P102346.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: calf-gazelles for Nanna delivery of Kuu Nanna-GIRgal was enforcer calf-gazelle to uzga-house delivery of abru-er Ur-Baba was enforcer lamb ugid offering for kitchen th day from Abbasaga booked out month Gazelle-feast year after Amar-Suen is king
-1	2(disz)	_	_	0	nummod	
-2	amar	_	_	0	_	
-3	masz-da3	calf-gazelles	NNS	33	_	
-4	{d}nanna	for Nanna	NNP	3	nmod:for	
-5	mu-kux(DU)	delivery	NN	3	appos	
-6	ku-u3	_	,	3	_	
-7	{d}nanna-GIR2@g-gal	Nanna-GIRgal	NNP	8	nsubj	
-8	maszkim	was enforcer	NN	3	acl:relcl	
-9	1(disz)	_	,	11	nummod	
-10	amar	_	_	0	_	
-11	masz-da3	calf-gazelle	NN	8	conj	
-12	e2-uz-ga	to uzga-house	NN	11	nmod:to	
-13	mu-kux(DU)	delivery	NN	11	appos	
-14	ha-ab-ru-sze-er	abru-er	NN	13	nmod:of	
-15	ur-{d}ba-ba6	Ur-Baba	NNP	16	nsubj	
-16	maszkim	was enforcer	NN	11	acl:relcl	
-17	1(disz)	_	,	18	nummod	
-18	sila4	lamb	NN	8	conj	
-19	szu-gid2	ugid offering	NN	18	appos	
-20	e2-muhaldim-sze3	for kitchen	NN	18	nmod:for	
-21	u4	th day	NN	26	nmod:tmod	
-22	4(disz)-kam	_	,	26	nummod	
-23	ki	from	IN	24	nmod:from	
-24	ab-ba-sa6-ga-ta	Abbasaga	NNP	26	nmod:from	
-25	ba-zi	booked out	VBD	24	acl	
-26	iti	month	NN	8	parataxis	
-27	masz-da3-gu7	Gazelle-feast	JJ	28	amod	
-28	mu	year	NN	26	_	
-29	us2-sa	after	IN	28	advmod	
-30	{d}amar-{d}suen	Amar-Suen is	NNP	31	nsubj	
-31	lugal	king	NN	28	_	
-32	4(disz)	_	NN	0	nummod	
-33	 	_	LS	0	root
+# train/P102346.atf new_text=P102346
+# train/P102346.atf						#new_text=P102346
+1	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+2	amar	amar[calf][-ak]	N	N	0	_	_	
+32	4(disz)	4(disz)[one]	NU	NU	0	nummod	_
 	
 

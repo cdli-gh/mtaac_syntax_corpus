@@ -1,42 +1,41 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P112766.atf
-						
-
 # tr.en: Surplus gur barig ban barley barley of GANgu-fields from Aabba to be booked out barig ban sila Lugina gur ban barley royal Ur-Eanna bur GAN-oxenboots with Lugal-Ema gur barig barley-ration stationed field of Szara
-1	diri	Surplus	JJ	0	root	
-2	2(gesz2)	_	,	8	nummod	
-3	2(u)	_	_	2	nummod	
-4	2(asz)	_	NN	8	nummod	
-5	4(barig)	_	_	4	nummod	
-6	3(ban2)	barig ban	NN	7	nummod	
-7	sze	barley	NN	8	_	
-8	gur	gur	NN	1	_	
-9	sze	barley	_	0	_	
-10	GAN2-gu4	GANgu-fields	NNS	4	nmod:of	
-11	a-ab-ba-ta	from Aabba	NN	8	nmod:from	
-12	zi-zi-dam	to be booked out	TO	11	mark	
-13	4(barig)	to be booked out	VB	11	nummod	
-14	3(ban2)	_	:	15	nummod	
-15	2(disz)	barig ban	NN	8	nummod	
-16	sila3	sila	NN	15	_	
-17	lu2-gi-na	Lugina	NNP	15	appos	
-18	1(u)	_	:	22	nummod	
-19	3(asz)	_	_	18	nummod	
-20	5(ban2)	ban	NN	21	nummod	
-21	sze	barley	NN	22	conj	
-22	gur	gur	NN	15	_	
-23	lugal	royal	NN	22	conj	
-24	ur-e2-an-na	Ur-Eanna	NNP	22	_	
-25	1(bur3)	_	:	24	nummod	
-26	sze	_	CD	33	nummod	
-27	GAN2-gu4-suhub2	bur GAN-oxenboots with Lugal-Ema	NNS	24	_	
-28	ki	_	_	0	_	
-29	lugal-e2-mah-e	_	_	0	_	
-30	5(u)	_	.	1	nummod	
-31	1(asz)	_	_	30	nummod	
-32	3(barig)	gur barig	NN	33	nummod	
-33	sze-ba	barley-ration	NN	24	_	
-34	gub-ba	stationed	VBN	33	acl	
-35	a-sza3	field	NN	33	appos	
-36	{d}szara2	Szara	NN	35	nmod:of
+1	diri	diri[intercalary_month]	N	N	0	root	_	
+2	2(gesz2)	2(gesz)[sixty]	NU	NU	8	nummod	projectivity violation	
+3	2(u)	2(u)[ten]	NU	NU	2	nummod	_	
+4	2(asz)	2(asz)[one]	NU	NU	8	nummod	_	
+5	4(barig)	4(bariga)[unit]	NU	N	4	nummod	_	
+6	3(ban2)	3(ban)[unit]	NU	N	7	nummod	_	
+7	sze	sze[barley]	N	N	8	_	_	
+8	gur	gur[unit]	N	N	1	appos	projectivity violation	
+9	sze	sze[barley]	N	N	8	_	heuristic: attach to last	
+10	GAN2-gu4	GANAgud[1][-ak]	N	FN.GEN	4	GEN	projectivity violation	
+11	a-ab-ba-ta	_[from.Aabba]	PN	PN.GEN.ABL	8	ABL	_	
+12	zi-zi-dam	_[to.be.booked.out]	V	V	11	acl	_	
+13	4(barig)	4(bariga)[unit]	NU	N	11	nummod	_	
+14	3(ban2)	3(ban)[unit]	NU	N	15	nummod	_	
+15	2(disz)	2(disz)[one]	NU	NU	8	nummod	_	
+16	sila3	sila[unit]	N	N	15	appos	_	
+17	lu2-gi-na	Lugina[1][-ak][-ak]	PN	PN.GEN	15	appos	_	
+18	1(u)	1(u)[ten]	NU	NU	22	nummod	_	
+19	3(asz)	3(asz)[one]	NU	NU	18	nummod	_	
+20	5(ban2)	5(ban)[unit]	NU	N	21	nummod	_	
+21	sze	sze[barley]	N	N	22	nmod	_	
+22	gur	gur[unit]	N	N	15	appos	_	
+23	lugal	lugal[king]	N	N	22	appos	_	
+24	ur-e2-an-na	_[Ur-Eanna]	PN	PN	22	appos	_	
+25	1(bur3)	1(bur)[unit]	NU	N	24	nummod	_	
+26	sze	sze[barley]	N	N	33	nummod	projectivity violation	
+27	GAN2-gu4-suhub2	_[bur.GAN-oxenboots.with.Lugal-Ema]	N	N	24	appos	_	
+28	ki	ki[place]	N	N	27	_	heuristic: attach to last	
+29	lugal-e2-mah-e	Lugalemahe[1]	N	PN	28	_	heuristic: attach to last	
+30	5(u)	5(u)[ten]	NU	NU	1	nummod	projectivity violation	
+31	1(asz)	1(asz)[one]	NU	NU	30	nummod	_	
+32	3(barig)	3(bariga)[unit]	NU	N	33	nummod	_	
+33	sze-ba	szeba[ration]	N	N	24	appos	_	
+34	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	33	acl	_	
+35	a-sza3	aszag[field]	N	N	33	appos	_	
+36	{d}szara2	Szara[1][-ak]	DN	DN	35	GEN	_
 	
 

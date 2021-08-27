@@ -1,74 +1,65 @@
-# train/P480065.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P480065.atf new_text=P480065
 # tr.en: female laborers for days beer from brewery to New Palace carried female laborers for days verified vessels carried female laborers for days beer to boat carried female laborers for day strings to boat carried female laborers for days reeds Engaldudus garden carried female laborers for day the boat of oil dates and leather loaded booked out oil for madaria-delivery for king month Muudu year Sz-Suen is king
-1	1(u)	_	_	0	nummod	
-2	5(disz)	_	_	1	nummod	
-3	geme2	female laborers	NNS	0	root	
-4	u4	for days	NNS	3	nmod:for	
-5	3(disz)-sze3	_	_	0	nummod	
-6	kasz	beer	NN	0	root	
-7	e2-bappir-ta	from brewery	IN	4	nmod:from	
-8	e2-gal	_	CD	3	nummod	
-9	gibil-sze3	to New Palace	TO	3	nmod:to	
-10	 	_	NNP	0	root	
-11	ga6-ga2	carried	VBD	10	acl	
-12	1(u)	_	_	0	nummod	
-13	geme2	female laborers	JJ	10	amod	
-14	 	_	NNS	0	root	
-15	u4	for days	IN	4	nmod:for	
-16	 	_	NNS	14	nmod:for	
-17	8(disz)-sze3	_	CD	14	nummod	
-18	2(gesz2)	_	_	17	nummod	
-19	dug	_	_	0	_	
-20	kab2-du11-ga	_	CD	14	nummod	
-21	-ga2	verified vessels carried	VBN	14	amod	
-22	1(u)	_	_	0	nummod	
-23	5(disz)	_	_	22	nummod	
-24	geme2	female laborers	JJ	15	amod	
-25	 	_	NNS	0	root	
-26	u4	for days	IN	16	nmod:for	
-27	 	_	NNS	25	nmod:for	
-28	2(disz)-sze3	_	_	0	nummod	
-29	kasz	beer	NN	31	nsubj	
-30	ma2-sze3	to boat	TO	26	nmod:to	
-31	ga6-ga2	carried	VBD	0	root	
-32	8(disz)	_	_	0	nummod	
-33	geme2	female laborers	JJ	25	amod	
-34	 	_	NNS	0	root	
-35	u4	for day	IN	27	nmod:for	
-36	 	_	NN	34	nmod:for	
-37	1(disz)-sze3	_	_	0	nummod	
-38	{gesz}HU	strings	NNS	31	nsubj	
-39	ma2-sze3	to boat	TO	35	nmod:to	
-40	ga6-ga2	carried	VBD	0	root	
-41	5(disz)	_	_	0	nummod	
-42	geme2	female laborers	JJ	34	amod	
-43	 	_	NNS	0	root	
-44	u4	for days	IN	36	nmod:for	
-45	 	_	NNS	43	nmod:for	
-46	2(disz)-sze3	_	_	0	nummod	
-47	gi	reeds	NNS	42	compound	
-48	{gesz}kiri6	garden	NN	40	nsubj	
-49	en-gal-du-du	Engaldudus	NNP	48	nmod:poss	
-50	il2-la	carried	VBD	0	root	
-51	8(disz)	_	_	0	nummod	
-52	geme2	female laborers	JJ	43	amod	
-53	u4	for day	IN	45	nmod:for	
-54	1(disz)-sze3	_	_	0	nummod	
-55	ma2	boat	NN	59	nsubj	
-56	i3	oil	NN	55	nmod:of	
-57	zu2-lum!	the dates and	DT	55	det	
-58	kusz	leather	NN	56	conj	
-59	si-ga	loaded	VBN	0	root	
-60	zi-ga	booked out	VBN	0	root	
-61	i3	oil	NN	56	root	
-62	masz-da-re-a	for madaria-delivery for	IN	56	nmod:for	
-63	lugal	king	NN	61	nmod	
-64	iti	month	NN	56	_	
-65	mu-szu-du7	Muudu	_	0	_	
-66	mu	year	NN	56	_	
-67	{d}szu-{d}suen	Sz-Suen is	NNP	56	nsubj	
-68	lugal	king	NN	0	root
+# train/P480065.atf						#new_text=P480065
+1	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+2	5(disz)	5(disz)[one]	NU	NU	1	nummod	_	
+3	geme2	geme[female_worker]	N	N	0	root	_	
+4	u4	ud[day]	N	N	3	DAT	_	
+5	3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	7	nummod	heuristic: NU premodifying; projectivity violation	
+6	kasz	kasz[beer]	N	N	4	root	heuristic: after nominal head	
+7	e2-bappir-ta	_[from.brewery]	PN	PN	4	ABL	_	
+8	e2-gal	egal[palace][-ak][-'a]	N	N	3	nummod	projectivity violation	
+9	gibil-sze3	_[to.New.Palace]	V	NF.V.ABS.TERM	3	acl	projectivity violation	
+10	ga6-ga2	gag[carry]-a	V	NF.V.PT	4	acl	heuristic: after nominal head	
+11	1(u)	1(u)[ten]	NU	NU	15	nummod	heuristic: NU premodifying; projectivity violation	
+12	geme2	geme[female_worker]	N	N	4	acl	heuristic: after nominal head	
+13	u4	ud[day]	N	N	4	DAT	_	
+14	8(disz)-sze3	8(disz)[one]-sze	NU	NU.TERM	0	nummod	_	
+15	2(gesz2)	2(gesz)[sixty]	NU	NU	17	nummod	_	
+16	dug	dug[pot]	N	N	15	_	heuristic: after nominal head	
+17	kab2-du11-ga	kabdug[check]-a	V	NF.V.PT	15	acl	heuristic: after nominal head	
+18	-ga2	_[verified.vessels.carried]	V	V	15	acl	heuristic: after nominal head	
+19	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+20	5(disz)	5(disz)[one]	NU	NU	22	nummod	_	
+21	geme2	geme[female_worker]	N	N	15	acl	_	
+22	u4	ud[day]	N	N	0	DAT	_	
+23	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	30	nummod	heuristic: NU premodifying; projectivity violation	
+24	kasz	kasz[beer]	N	N	31	ABS	projectivity violation	
+25	ma2-sze3	_[to.boat]	PN	PN	26	LOC	_	
+26	ga6-ga2	gag[carry]-a	V	NF.V.PT	0	root	_	
+27	8(disz)	8(disz)[one]	NU	NU	38	nummod	heuristic: NU premodifying; projectivity violation	
+28	geme2	geme[female_worker]	N	N	31	acl	heuristic: attach to head	
+29	u4	ud[day]	N	N	0	DAT	_	
+30	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	38	nummod	heuristic: NU premodifying	
+31	{gesz}HU	_[strings]	N	N	31	ABS	projectivity violation	
+32	ma2-sze3	_[to.boat]	PN	PN	35	LOC	_	
+33	ga6-ga2	gag[carry]-a	V	NF.V.PT	0	root	_	
+34	5(disz)	5(disz)[one]	NU	NU	48	nummod	heuristic: NU premodifying	
+35	geme2	geme[female_worker]	N	N	0	acl	_	
+36	u4	ud[day]	N	N	42	DAT	heuristic: after nominal head	
+37	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	47	nummod	heuristic: NU premodifying	
+38	gi	gi[reed][-ø]	N	N	42	appos	_	
+39	{gesz}kiri6	kiri[orchard][-'a][-ø]	N	N	40	ABS	_	
+40	en-gal-du-du	_[Engaldudus]	PN	PN	48	appos	_	
+41	il2-la	_[carried]	V	V	0	root	_	
+42	8(disz)	8(disz)[one]	NU	NU	0	nummod	_	
+43	geme2	geme[female_worker]	N	N	0	acl	_	
+44	u4	ud[day]	N	N	0	DAT	_	
+45	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	0	nummod	_	
+46	ma2	ma[ship]	N	N	59	ABS	projectivity violation	
+47	i3	i[oil]	N	N	55	GEN	_	
+48	zu2-lum!	zulum[date]	N	N	55	appos	projectivity violation	
+49	kusz	kusz[leather]	N	N	56	appos	_	
+50	si-ga	sig[load]-a	N	NF.V.PT	0	root	_	
+51	zi-ga	zig[expend]-a	V	NF.V.PT	56	root	heuristic: after nominal head	
+52	i3	i[oil]	N	N	56	appos	_	
+53	masz-da-re-a	_[for.madaria-delivery.for]	N	N	56	DAT	_	
+54	lugal	lugal[king]	N	N	62	_	heuristic: attach to last; EN label	
+55	iti	iti[month]	N	N	56	appos	_	
+56	mu-szu-du7	Muszudu[1][-'a]	MN	MN.L1	64	_	heuristic: attach to last	
+57	mu	mu[year]	N	N	56	appos	_	
+58	{d}szu-{d}suen	Szusuen[1]	RN	RN	56	ABS	_	
+59	lugal	lugal[king]	N	N	0	root	_
 	
 

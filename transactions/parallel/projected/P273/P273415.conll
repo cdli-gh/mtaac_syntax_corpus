@@ -1,60 +1,48 @@
-# train/P273415.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: One ox Bel overseer one ox Ikalla oxen from Apilum in its place put for him bvia Lu-Enki xxx n cows sheep sheep goats slaughtered for kitchen for soldiers nd day booked out of Duga via Nur-Adad scribe month uea year boat Ibex-of-Abzu was caulked oxen and cows small cattle
-1	1(disz)	_	,	54	nummod	
-2	gu4	ox	NN	54	compound	
-3	be6-li	One Bel	CD	54	nummod	
-4	nu-banda3	overseer	NN	54	appos	
-5	1(disz)	_	,	54	nummod	
-6	gu4	ox	NN	8	compound	
-7	KA	one	CD	8	nummod	
-8	i3-kal-la	Ikalla	NNP	54	appos	
-9	gu4	oxen	NN	54	appos	
-10	a2-bi2-lum	from Apilum	NN	9	nmod:from	
-11	ki-ba	in	IN	12	nmod:in	
-12	ba-na-a-ga2-ar	its place put for him	VBD	0	root	
-13	giri3	_	_	0	_	
-14	lu2-{d}en-ki	bvia Lu-Enki	FW	12	advmod	
-15	x	_	NN	19	dep	
-16	x	_	_	0	dep	
-17	x	_	:	12	dep	
-18	n	n	CD	19	nummod	
-19	ab2	cows	NNS	12	parataxis	
-20	5(disz)	_	,	19	nummod	
-21	udu	sheep	NN	19	conj	
-22	x	_	CD	25	dep	
-23	2(u)	_	NN	27	nummod	
-24	8(disz)	_	,	19	nummod	
-25	udu	sheep	NN	19	conj	
-26	3(disz)	_	_	0	nummod	
-27	ud5	goats	NNS	19	conj	
-28	x	_	_	0	dep	
-29	ba-usz2	slaughtered	VBN	19	acl	
-30	e2-muhaldim-sze3	for kitchen	NN	29	nmod:for	
-31	mu	_	,	19	_	
-32	aga3-us2-e-ne-sze3	for soldiers	NNS	19	nmod:for	
-33	u4	nd day	NN	19	appos	
-34	2(disz)-kam	_	:	19	nummod	
-35	ki	_	,	37	_	
-36	du11-ga-ta	Duga	NNP	37	nmod:out.of	
-37	ba-zi	booked out	VBN	19	acl	
-38	giri3	via	IN	39	nmod:via	
-39	nu-ur2-{d}iszkur	Nur-Adad	NNP	37	nmod:via	
-40	dub-sar	scribe	NN	37	dobj	
-41	iti	month	NN	42	_	
-42	szu-esz5-sza	uea	NN	19	_	
-43	mu	year	NN	42	appos	
-44	ma2	boat	NN	45	compound	
-45	dara4-abzu	Ibex-of-Abzu	NNP	46	nsubjpass	
-46	ba-ab-du8	was caulked	VBN	19	acl	
-47	3(disz)	_	.	12	nummod	
-48	gu4	oxen	NN	19	_	
-49	ab2	and cows	CC	48	cc	
-50	3(u)!	_	_	0	nummod	
-51	6(disz)	_	_	50	nummod	
-52	udu	small cattle	NNS	48	appos	
-53	 	_	NN	0	root	
-54	 	_	NN	53	appos
+# train/P273415.atf						#new_text=P273415
+# train/P273415.atf new_text=P273415
+11	ki-ba	ki[place]-bi-'a	PN	N.3-SG-NH-POSS.L1	12	LOC	_	
+12	ba-na-a-ga2-ar	_[its.place.put.for.him]	V	MID.V.3-SG-S.SUB.GEN.DAT-H	0	root	_	
+13	giri3	giri[foot]	N	N	12	_	heuristic: attach to head	
+14	lu2-{d}en-ki	_[bvia.Lu-Enki]	PN	PN	12	_	_	
+15	x	_[_]	N	N	12	dep	heuristic: attach to head	
+16	x	_[_]	N	N	12	dep	heuristic: attach to head	
+17	x	_[_]	N	N	12	dep	heuristic: attach to head	
+18	n	_(_)[_]	NU	NU	19	nummod	_	
+19	ab2	ab[cow][-ø]	N	N	12	parataxis	_	
+20	5(disz)	5(disz)[one]	NU	NU	19	nummod	_	
+21	udu	udu[sheep]	N	N	19	appos	_	
+22	x	_[_]	N	N	19	dep	heuristic: after nominal head	
+23	2(u)	2(u)[ten]	NU	NU	27	nummod	projectivity violation	
+24	8(disz)	8(disz)[one]	NU	NU	19	nummod	_	
+25	udu	udu[sheep]	N	N	19	appos	_	
+26	3(disz)	3(disz)[one]	NU	NU	27	nummod	heuristic: NU premodifying	
+27	ud5	uzud[goat]	N	N	19	appos	_	
+28	x	_[_]	N	N	19	dep	heuristic: after nominal head	
+29	ba-usz2	ba-ug[die][-esz]	V	MID.V.PL.3-PL-S	19	acl	_	
+30	e2-muhaldim-sze3	emuhaldim[kitchen]-sze	PN	N.TERM	29	TERM	_	
+31	mu	mu[year]	N	N	19	appos	_	
+32	aga3-us2-e-ne-sze3	_[for.soldiers]	N	N.PL.GEN.TERM	19	TERM	_	
+33	u4	ud[day]	N	N	19	appos	_	
+34	2(disz)-kam	2(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	19	nummod	_	
+35	ki	ki[place]	N	N	37	_	_	
+36	du11-ga-ta	_[Duga]	PN	PN.GEN.ABL	37	ABL	_	
+37	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	19	acl	_	
+38	giri3	giri[foot]	N	N	39	via	_	
+39	nu-ur2-{d}iszkur	_[Nur-Adad]	PN	PN	37	via	_	
+40	dub-sar	dubsar[scribe]	N	N	37	ABS	_	
+41	iti	iti[month]	N	N	42	_	_	
+42	szu-esz5-sza	Szu'eszsza[1][-'a]	MN	MN.L1	19	appos	_	
+43	mu	mu[year]	N	N	42	appos	_	
+44	ma2	ma[ship]	N	N	45	nmod	_	
+45	dara4-abzu	_[Ibex-of-Abzu]	DN	DN	46	ABS	_	
+46	ba-ab-du8	ba-b-du[caulk][-ø]	V	MID.3-SG-NH-L3.V.3-SG-S	19	acl	_	
+47	3(disz)	3(disz)[one]	NU	NU	12	nummod	projectivity violation	
+48	gu4	gud[ox]	N	N	19	appos	_	
+49	ab2	ab[cow][-ø]	N	N	48	appos	_	
+50	3(u)!	3(u)[ten]	NU	NU	0	nummod	_	
+51	6(disz)	6(disz)[one][-sze]	NU	NU	50	nummod	_	
+52	udu	udu[sheep]	N	N	48	appos	_
 	
 

@@ -1,51 +1,50 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # dev/P424381.atf
-						
-
 # tr.en: laborers for days from Umma to Dugei an empty boat towed for days barley threshing and in boat loaded for day to Salla canal boat towed for days grain unloaded grain transferred and silo plastering foreman Ur-Szakkan sealed document of Ur-Szara year lord of Gae was installed Ur-Szara scribe son of Szekalla
-1	1(u)	_	_	0	nummod	
-2	6(disz)	_	_	1	nummod	
-3	gurusz	laborers	NNS	0	root	
-4	u4	for days	NNS	3	nmod:for	
-5	2(disz)-sze3	_	_	0	nummod	
-6	umma{ki}-ta	from Umma	NNP	3	nmod:from	
-7	du6-gesz-i3-ka-sze3	to Dugei an empty	NNP	6	nmod:to	
-8	ma2	boat	NN	22	nsubj	
-9	su3	towed	VBN	8	acl	
-10	gid2-da	_	,	9	_	
-11	u4	for days	NNS	9	nmod:for	
-12	2(disz)-sze3	_	,	8	nummod	
-13	sze	barley	NN	15	compound	
-14	gesz	_	_	0	_	
-15	e3-a	threshing	NN	11	_	
-16	u3	and	CC	15	cc	
-17	ma2-a	in	IN	18	nmod:in	
-18	si-ga	boat loaded	NN	15	conj	
-19	u4	for day	NN	8	nmod:for	
-20	1(disz)-sze3	_	,	22	nummod	
-21	i7	_	_	0	_	
-22	sal4-la{ki}-asz	to Salla canal towed	VBD	3	acl:relcl	
-23	ma2	boat	NN	19	nmod:to	
-24	gid2-da	_	_	0	_	
-25	u4	for days	NNS	22	nmod:for	
-26	3(disz)-sze3	_	:	3	nummod	
-27	sze	grain	NN	25	_	
-28	ba-al-la	unloaded	JJ	27	amod	
-29	sze	grain	NN	27	conj	
-30	bala-a	transferred	VBN	29	acl	
-31	u3	and	CC	27	cc	
-32	guru7-a	silo	NN	33	compound	
-33	im-ur3-ra	plastering	NN	27	conj	
-34	ugula	foreman	NN	3	_	
-35	ur-{d}szakkan	Ur-Szakkan	NNP	34	_	
-36	kiszib3	sealed document	NN	35	appos	
-37	ur-{d}szara2	Ur-Szara	NNP	36	nmod:of	
-38	mu	year	NN	3	_	
-39	en	lord	NN	41	nsubjpass	
-40	ga-esz{ki}	Gae	NN	39	nmod:of	
-41	ba-hun	was installed	VBN	38	acl	
-42	ur-{d}szara2	Ur-Szara	NNP	41	nmod:tmod	
-43	dub-sar	scribe	NN	42	appos	
-44	dumu	son	NN	42	appos	
-45	szesz-kal-la	Szekalla	NNP	44	nmod:of
+1	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+2	6(disz)	6(disz)[one][-sze]	NU	NU	1	nummod	_	
+3	gurusz	gurusz[male]	N	N	0	root	_	
+4	u4	ud[day]	N	N	3	DAT	_	
+5	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	6	nummod	heuristic: NU premodifying	
+6	umma{ki}-ta	Umma[1][-ak]-ta	SN	SN.GEN.ABL	3	ABL	_	
+7	du6-gesz-i3-ka-sze3	_[to.Dugei.an.empty]	PN	PN	6	LOC	_	
+8	ma2	ma[ship]	N	N	22	ABS	projectivity violation	
+9	su3	sug[empty][-ø]	V	NF.V.ABS.ABS	8	acl	_	
+10	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	9	_	_	
+11	u4	ud[day]	N	N	9	DAT	_	
+12	2(disz)-sze3	2(disz)[one]-sze	NU	NU.TERM	8	nummod	_	
+13	sze	sze[barley]	N	N	15	nmod	_	
+14	gesz	gesz[tree]	N	N	13	_	heuristic: attach to last	
+15	e3-a	e[leave]-a	V	NF.V.PT	0	_	detached for projectivity	
+16	u3	u[and]	CNJ	CNJ	15	appos	_	
+17	ma2-a	ma[ship]-'a	N	N.L1	18	LOC	_	
+18	si-ga	sig[load]-a	N	NF.V.PT	15	appos	_	
+19	u4	ud[day]	N	N	8	DAT	_	
+20	1(disz)-sze3	1(disz)[one]-sze	NU	NU.TERM	22	nummod	_	
+21	i7	id[river]	N	N	20	_	heuristic: attach to last	
+22	sal4-la{ki}-asz	_[to.Salla.canal.towed]	WN	WN	3	acl	projectivity violation	
+23	ma2	ma[ship]	N	N	19	LOC	projectivity violation	
+24	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	23	_	heuristic: attach to last	
+25	u4	ud[day]	N	N	22	DAT	_	
+26	3(disz)-sze3	3(disz)[one]-sze	NU	NU.TERM	3	nummod	projectivity violation	
+27	sze	sze[barley]	N	N	25	appos	_	
+28	ba-al-la	bala[transfer]-a	V	NF.V.PT	27	acl	_	
+29	sze	sze[barley]	N	N	27	appos	_	
+30	bala-a	bala[tax][-ak]-'a	N	N.GEN.L1	29	acl	_	
+31	u3	u[and]	CNJ	CNJ	27	appos	_	
+32	guru7-a	guru[store]-'a	N	N.L1	33	nmod	_	
+33	im-ur3-ra	_[plastering]	V	NF.V.PT	27	acl	_	
+34	ugula	ugula[overseer][-ø]	N	N	3	appos	_	
+35	ur-{d}szakkan	Urszakkan[1][-ra]	PN	PN.DAT-H	34	appos	_	
+36	kiszib3	kiszib[seal]	N	N	35	appos	_	
+37	ur-{d}szara2	Urszara[1]	PN	PN	36	GEN	_	
+38	mu	mu[year]	N	N	3	appos	_	
+39	en	en[priest]	N	N	41	ABS	_	
+40	ga-esz{ki}	Ga'esz[1][-ak][-ø]	SN	SN.GEN.ABS	39	GEN	_	
+41	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	38	acl	_	
+42	ur-{d}szara2	Urszara[1]	PN	PN	41	date	_	
+43	dub-sar	dubsar[scribe]	N	N	42	appos	_	
+44	dumu	dumu[child]	N	N	42	appos	_	
+45	szesz-kal-la	Szeszkala[1][-ra]	PN	PN	44	GEN	_
 	
 

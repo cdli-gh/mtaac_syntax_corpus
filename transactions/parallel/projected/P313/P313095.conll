@@ -1,41 +1,40 @@
-# train/P313095.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: rams barley-fed fat-tailed rams barley-fed ewes barley-fed fat-tailed ewe barley-fed full-grown billy goats barley-fed regular offerings to Ninlil th day at Tummal from month year less
-1	1(u)	_	,	4	nummod	
-2	1(disz)	_	CD	6	nummod	
-3	udu	rams	NNS	0	root	
-4	niga	barley-fed	JJ	19	amod	
-5	2(disz)	_	,	4	nummod	
-6	gukkal	fat-tailed rams	NNS	4	conj	
-7	niga	barley-fed	JJ	4	conj	
-8	2(disz)	_	,	4	nummod	
-9	u8	ewes	NNS	4	conj	
-10	niga	barley-fed	JJ	4	conj	
-11	1(disz)	_	,	4	nummod	
-12	u8	ewe	NN	4	conj	
-13	gukkal	fat-tailed	NN	12	compound	
-14	niga	barley-fed	JJ	4	conj	
-15	1(u)	_	,	4	nummod	
-16	3(disz)	_	_	15	nummod	
-17	masz2-gal	full-grown billy goats	NNS	4	conj	
-18	niga	barley-fed	JJ	4	conj	
-19	sa2-du11	regular offerings	NNS	3	appos	
-20	{d}nin-lil2-la2	to Ninlil	NNP	19	nmod:to	
-21	u4	th day	NN	3	_	
-22	3(u)	_	:	3	nummod	
-23	la2	_	_	22	_	
-24	1(disz)-kam	_	_	23	nummod	
-25	sza3	at	IN	26	nmod:at	
-26	tum-ma-al	Tummal	NNP	3	nmod:at	
-27	ki	from	IN	28	nmod:from	
-28	...-ta	_	NN	26	nmod:from	
-29	iti	month	NN	26	compound	
-30	...-x	_	:	26	dep	
-31	mu	year	NN	26	_	
-32	...	_	:	31	dep	
-33	3(u)	_	CD	34	nummod	
-34	la2	less	JJR	26	_	
-35	1(disz)	_	.	3	nummod
+# train/P313095.atf
+1	1(u)	1(u)[ten]	NU	NU	4	nummod	projectivity violation	
+2	1(disz)	1(disz)[one]	NU	NU	6	nummod	projectivity violation	
+3	udu	udu[sheep]	N	N	0	root	_	
+4	niga	niga[fattened][-ø]	V	NF.V.ABS	19	acl	_	
+5	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+6	gukkal	gukkal[fat-tailed_sheep]	N	N	4	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+8	2(disz)	2(disz)[one]	NU	NU	4	nummod	_	
+9	u8	u[ewe]	N	N	4	appos	_	
+10	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+11	1(disz)	1(disz)[one]	NU	NU	4	nummod	_	
+12	u8	u[ewe]	N	N	4	appos	_	
+13	gukkal	gukkal[fat-tailed_sheep]	N	N	12	appos	_	
+14	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+15	1(u)	1(u)[ten]	NU	NU	4	nummod	_	
+16	3(disz)	3(disz)[one]	NU	NU	15	nummod	_	
+17	masz2-gal	maszgal[billy_goat]	N	N	4	appos	_	
+18	niga	niga[fattened][-ø]	V	NF.V.ABS	4	appos	_	
+19	sa2-du11	sadug[offerings]	N	N	3	appos	_	
+20	{d}nin-lil2-la2	Ninlil[1][-ak][-ø]	DN	DN.GEN.ABS	19	LOC	_	
+21	u4	ud[day]	N	N	3	appos	_	
+22	3(u)	3(u)[ten]	NU	NU	3	nummod	_	
+23	la2	la[hang][-ø]	V	NF.V.ABS	22	_	_	
+24	1(disz)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	23	nummod	_	
+25	sza3	szag[heart]	N	N	26	LOC	_	
+26	tum-ma-al	Tummal[1][-ak][-'a]	SN	SN.GEN.L1	3	LOC	_	
+27	ki	ki[place]	N	N	28	ABL	_	
+28	...-ta	_[_]-ta	PN	PN.GEN.ABL	26	ABL	_	
+29	iti	iti[month]	N	N	26	appos	_	
+30	...-x	_[_]	WN	RN	26	dep	_	
+31	mu	mu[year]	N	N	26	appos	_	
+32	...	_[_]	PN	N	31	dep	_	
+33	3(u)	3(u)[ten]	NU	NU	34	nummod	_	
+34	la2	la[hang][-ø]	V	NF.V.ABS	26	_	_	
+35	1(disz)	1(disz)[one]	NU	NU	3	nummod	_
 	
 

@@ -1,32 +1,6 @@
-# train/P416468.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: calf of En-dingirmu deer of Szu-edar lamb of Lugal-nirgal delivery month ki-siki of Ninazu The high-priestess of Nanna by means of extispicy was chosen th day
-1	2(disz)	_	_	0	nummod	
-2	...	_	NN	26	appos	
-3	1(disz)	_	_	0	nummod	
-4	amar	calf	NN	2	compound	
-5	...	_	,	26	dep	
-6	en-{d}inanna	of En-dingirmu	NN	26	nmod:of	
-7	1(disz)	_	NN	8	nummod	
-8	szeg9-bar	deer	NNS	26	_	
-9	...	_	,	8	dep	
-10	szu-esz18-dar	Szu-edar	NN	8	nmod:of	
-11	1(disz)	_	,	12	nummod	
-12	sila4	lamb	NN	8	_	
-13	lugal-nir-gal2	Lugal-nirgal	JJ	12	nmod:of	
-14	mu-kux(DU)	delivery	NN	12	_	
-15	iti	month	NN	21	_	
-16	ki-siki-{d}nin-a-zu	ki-siki Ninazu	NN	21	_	
-17	mu	The	DT	18	det	
-18	en	high-priestess	NN	21	nsubjpass	
-19	{d}nanna	Nanna	NNP	18	nmod:of	
-20	masz-e	by	IN	18	nmod:by	
-21	i3-pa3	chosen means extispicy was	VBN	26	acl	
-22	u4	_	''	26	_	
-23	2(u)-kam	day	NN	26	nummod	
-24	...	_	,	23	dep	
-25	 	_	NN	0	root	
-26	 	_	.	25	_
-	
+# train/P416468.atf						#new_text=P416468
+# train/P416468.atf new_text=P416468
+1	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
 

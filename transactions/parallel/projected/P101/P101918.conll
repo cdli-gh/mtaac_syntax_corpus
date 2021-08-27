@@ -1,57 +1,56 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # test/P101918.atf
-						
-
 # tr.en: gur barig salt the barig reduced by sila its struck head gur barig ban sila gur ban sumac the barig reduced by ban its struck head gur sila barig ban sila x-plant its struck head ban sila goods on hand from Ka-ana via ARADdani month Festival of Lisi
-1	1(gesz2)	_	,	5	nummod	
-2	2(u)	_	_	1	nummod	
-3	7(asz)	_	_	1	nummod	
-4	1(barig)	barig	NN	5	nummod	
-5	mun	salt	NN	0	root	
-6	gur	gur	NN	5	compound	
-7	lugal	_	_	0	_	
-8	ba-ri2	the barig	NN	5	appos	
-9	6(disz)	_	,	5	nummod	
-10	sila3	sila	NN	11	nmod:by	
-11	im-tur	reduced by	VBN	8	acl	
-12	sag	its	PRP$	13	nmod:poss	
-13	sag3-ga-bi	struck head	NN	5	appos	
-14	8(asz)	_	:	19	nummod	
-15	3(barig)	_	CD	22	nummod	
-16	2(ban2)	_	_	15	nummod	
-17	8(disz)	barig ban	NN	19	nummod	
-18	sila3	sila	NN	17	_	
-19	gur	gur	NN	5	_	
-20	6(asz)	_	,	22	nummod	
-21	1(ban2)	ban	NN	20	nummod	
-22	gazi	sumac	NN	19	_	
-23	gur	gur	NN	22	compound	
-24	ba-ri2-ga	the barig reduced	NN	22	appos	
-25	2(ban2)	_	,	22	nummod	
-26	im-tur	by ban	NN	24	nmod:by	
-27	sag	its	PRP$	28	nmod:poss	
-28	sag3-ga-bi	struck head	NN	22	appos	
-29	2(asz)	_	:	33	nummod	
-30	3(disz)	_	CD	36	nummod	
-31	1/3(disz)	_	_	30	nummod	
-32	sila3	sila	NN	33	_	
-33	gur	gur	NN	22	_	
-34	1(barig)	_	,	36	nummod	
-35	3(ban2)	_	_	34	nummod	
-36	3(disz)	barig ban	NN	33	nummod	
-37	sila3	sila	NN	38	compound	
-38	{u2}x	x-plant	NN	36	_	
-39	sag	its	PRP$	41	nmod:poss	
-40	sag3-ga-bi	struck head	VBN	41	amod	
-41	3(ban2)	struck head	NN	36	nummod	
-42	9(disz)	_	:	36	nummod	
-43	1/2(disz)	ban	NN	36	nummod	
-44	sila3	sila	NN	43	_	
-45	nig2-gal2-la	goods on hand	NNS	43	_	
-46	ki	from	IN	47	nmod:from	
-47	ka-a2-na	Ka-ana	NN	45	nmod:from	
-48	giri3	via	IN	49	nmod:via	
-49	ARAD2-da-ni	ARADdani	NN	45	nmod:via	
-50	iti	month	NN	51	compound	
-51	ezem-{d}li9-si4	Festival Lisi	NNP	43	_
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	5	nummod	_	
+2	2(u)	2(u)[ten]	NU	NU	1	nummod	_	
+3	7(asz)	7(asz)[one]	NU	NU	1	nummod	_	
+4	1(barig)	1(bariga)[unit]	NU	N	5	nummod	_	
+5	mun	mun[salt]	N	N	0	root	_	
+6	gur	gur[unit]	N	N	5	appos	_	
+7	lugal	lugal[king]	N	N	5	_	heuristic: after nominal head	
+8	ba-ri2	_[the.barig]	PN	PN	5	appos	_	
+9	6(disz)	6(disz)[one][-sze]	NU	NU	5	nummod	projectivity violation	
+10	sila3	sila[unit]	N	N	11	ERG	_	
+11	im-tur	_[reduced.by]	PN	PN	8	acl	_	
+12	sag	sag[head]	N	N	13	nmod	_	
+13	sag3-ga-bi	_[struck.head]	V	V	5	acl	_	
+14	8(asz)	8(asz)[one]	NU	NU	19	nummod	projectivity violation	
+15	3(barig)	3(bariga)[unit]	NU	N	22	nummod	projectivity violation	
+16	2(ban2)	2(ban)[unit]	NU	N	15	nummod	_	
+17	8(disz)	8(disz)[one]	NU	NU	19	nummod	_	
+18	sila3	sila[unit]	N	N	17	appos	_	
+19	gur	gur[unit]	N	N	5	appos	_	
+20	6(asz)	6(asz)[one]	NU	NU	22	nummod	_	
+21	1(ban2)	1(ban)[unit]	NU	N	20	nummod	_	
+22	gazi	gazi[condiment]	N	N	19	appos	_	
+23	gur	gur[unit]	N	N	22	appos	_	
+24	ba-ri2-ga	_[the.barig.reduced]	V	NF.V.ABS.GEN.GEN	22	acl	_	
+25	2(ban2)	2(ban)[unit]	NU	N	22	nummod	projectivity violation	
+26	im-tur	_[by.ban]	PN	PN	24	ERG	_	
+27	sag	sag[head]	N	N	28	nmod	_	
+28	sag3-ga-bi	_[struck.head]	V	V	22	acl	_	
+29	2(asz)	2(asz)[one]	NU	NU	33	nummod	projectivity violation	
+30	3(disz)	3(disz)[one]	NU	NU	36	nummod	projectivity violation	
+31	1/3(disz)	1/3(disz)[one]	NU	NU	30	nummod	_	
+32	sila3	sila[unit]	N	N	33	_	_	
+33	gur	gur[unit]	N	N	22	appos	_	
+34	1(barig)	1(bariga)[unit]	NU	N	36	nummod	_	
+35	3(ban2)	3(ban)[unit]	NU	N	34	nummod	_	
+36	3(disz)	3(disz)[one]	NU	NU	33	nummod	_	
+37	sila3	sila[unit]	N	N	38	nmod	_	
+38	{u2}x	_[x-plant]	PN	PN	36	appos	_	
+39	sag	sag[head]	N	N	41	nmod	_	
+40	sag3-ga-bi	_[struck.head]	V	V	41	acl	_	
+41	3(ban2)	3(ban)[unit]	NU	N	36	nummod	_	
+42	9(disz)	9(disz)[one]	NU	NU	36	nummod	_	
+43	1/2(disz)	1/2(disz)[one]	NU	NU	36	nummod	_	
+44	sila3	sila[unit]	N	N	43	appos	_	
+45	nig2-gal2-la	niggala[possessions]	N	N	43	appos	_	
+46	ki	ki[place]	N	N	47	ABL	_	
+47	ka-a2-na	_[Ka-ana]	PN	PN	45	ABL	_	
+48	giri3	giri[foot]	N	N	49	via	_	
+49	ARAD2-da-ni	_[ARADdani]	PN	PN	45	via	_	
+50	iti	iti[month]	N	N	51	nmod	_	
+51	ezem-{d}li9-si4	_[Festival.Lisi]	MN	MN	43	appos	_
 	
 

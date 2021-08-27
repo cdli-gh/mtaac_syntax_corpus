@@ -1,112 +1,20 @@
-# train/P413897.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P413897.atf						#new_text=P413897
+# train/P413897.atf new_text=P413897
 # tr.en: lambs from lambs from lambs from Aqudum sheep from sheep delivery of lamb from Lateni Therefrom sheep regular offerings lambs for Ninkununa lamb for lambs for Lugaluda booked out for king sheep into palace n sheep of gate of Nanna sheep wife of Alamu sheep deficit of Alamu sheep sheep for chief administrator
-1	n	_	_	0	_	
-2	x	_	_	0	dep	
-3	ki	_	_	0	_	
-4	...-ta	_	-LRB-	11	_	
-5	3(disz)	_	_	0	nummod	
-6	n	_	_	0	_	
-7	x	_	_	0	dep	
-8	ki	_	_	0	_	
-9	...-ta	_	_	0	_	
-10	2(disz)	_	_	0	nummod	
-11	sila4	lambs	NNS	106	_	
-12	ki	from	IN	11	nmod:from	
-13	x-...-ta	_	-RRB-	11	_	
-14	1(disz)	_	-LRB-	15	nummod	
-15	sila4	lambs	NNS	11	_	
-16	ki	_	-RRB-	15	_	
-17	szu-x-...-ta	from	IN	15	nmod:from	
-18	2(disz)	_	CD	23	nummod	
-19	sila4	lambs	NNS	15	_	
-20	ki	from	IN	21	nmod:from	
-21	asz-qu2-du-um-ta	Aqudum	NNP	19	nmod:from	
-22	3(u)	_	-LRB-	15	nummod	
-23	udu	sheep	NN	21	_	
-24	ki	from	IN	15	nmod:from	
-25	x-x-ta	_	-RRB-	15	_	
-26	6(disz)	_	NN	28	nummod	
-27	udu	sheep	NN	28	compound	
-28	mu-kux(DU)	delivery	NN	15	_	
-29	giri3-ki-x-x	of	IN	26	nmod:of	
-30	1(disz)	_	,	33	nummod	
-31	sila4	lamb	NN	26	_	
-32	ki	from	IN	33	nmod:from	
-33	la-te-ni-isz-ta	Lateni	NNP	26	nmod:from	
-34	($	_	_	0	_	
-35	blank	_	_	0	_	
-36	space	_	_	0	_	
-37	$)	_	_	0	_	
-38	1(gesz2)	_	_	0	nummod	
-39	3(u)	_	_	38	nummod	
-40	3(disz)	_	_	38	nummod	
-41	sza3-bi-ta	Therefrom	NNP	105	_	
-42	3(disz)	_	CD	46	nummod	
-43	udu	sheep	NN	41	_	
-44	sa2-du11	regular offerings	NNS	105	appos	
-45	3(disz)	_	CD	49	nummod	
-46	sila4	lambs	NNS	44	_	
-47	{d}nin-ku3-nun-na	for Ninkununa	IN	49	nmod:for	
-48	1(disz)	_	NN	46	nummod	
-49	sila4	lamb	NN	46	nmod:for	
-50	x-ka	for	IN	48	nmod:for	
-51	2(disz)	_	CD	52	nummod	
-52	sila4	lambs	NNS	48	_	
-53	{d}lugal-u4-da	for Lugaluda	IN	51	nmod:for	
-54	($	for Lugaluda	NNP	51	compound	
-55	blank	_	_	0	_	
-56	space	_	_	0	_	
-57	$)	_	_	0	_	
-58	1(u)	_	_	0	nummod	
-59	la2	_	_	58	_	
-60	1(disz)	_	_	59	nummod	
-61	zi-ga	booked out	VBN	51	acl	
-62	lugal	king	NN	61	nmod:for	
-63	1(u)	_	NN	64	nummod	
-64	udu	sheep	NN	105	_	
-65	sza3	_	_	0	_	
-66	e2-gal-sze3	palace	NN	63	compound	
-67	asz-qu2-da-num2	into	IN	63	nmod:into	
-68	n	n	CD	69	nummod	
-69	udu	sheep	NN	63	_	
-70	ka2	of	IN	71	nmod:of	
-71	nanna	gate Nanna	NN	69	nmod:of	
-72	2(disz)	_	:	75	nummod	
-73	udu	sheep	NN	64	_	
-74	...	_	CD	78	dep	
-75	dam	wife	NN	64	_	
-76	a-la-mu	Alamu	NN	75	nmod:of	
-77	1(disz)	_	-LRB-	97	nummod	
-78	udu	sheep	NN	75	_	
-79	la2-ia3	deficit	NN	78	appos	
-80	a-la-mu	Alamu	NNP	79	nmod:of	
-81	($	_	IN	80	nmod:of	
-82	blank	_	_	0	_	
-83	space	_	_	0	_	
-84	$)	_	_	0	_	
-85	1(u)	_	_	0	nummod	
-86	3(disz)	_	_	85	nummod	
-87	1(u)	_	-LRB-	97	nummod	
-88	6(disz)	_	_	87	nummod	
-89	...	_	_	0	dep	
-90	da	_	_	0	_	
-91	...	_	_	0	dep	
-92	gub-ba	_	_	0	_	
-93	5(disz)	_	_	0	nummod	
-94	...	_	_	0	dep	
-95	1(u)	_	-RRB-	97	nummod	
-96	8(disz)	_	_	95	nummod	
-97	udu	sheep	NN	80	_	
-98	...	_	CD	79	dep	
-99	1(u)	_	.	105	nummod	
-100	7(disz)	_	_	99	nummod	
-101	...	_	NN	105	dep	
-102	szabra	chief administrator	NN	103	compound	
-103	...	chief administrator	NN	79	nmod:for	
-104	...	for	IN	103	dep	
-105	 	_	NN	0	root	
-106	 	_	NN	105	appos
-	
+1	n	_(_)[_]	NU	NU	0	_	_	
+2	x	_[_]	N	N	0	dep	_	
+3	ki	ki[place]	N	N	0	_	_	
+34	($	_	_	_	0	_	_	
+35	blank	_	_	_	0	_	_	
+36	space	_	_	_	0	_	_	
+37	$)	_	_	_	0	_	_	
+38	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+39	3(u)	3(u)[ten]	NU	NU	38	nummod	_	
+40	3(disz)	3(disz)[one]	NU	NU	38	nummod	_	
+58	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+59	la2	la[hang][-ø]	V	NF.V.ABS	58	_	_	
+60	1(disz)	1(disz)[one]	NU	NU	59	nummod	_	
+85	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+86	3(disz)	3(disz)[one]	NU	NU	85	nummod	_	
 

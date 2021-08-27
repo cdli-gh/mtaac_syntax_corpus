@@ -1,96 +1,95 @@
-# train/P416418.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P416418.atf new_text=P416418
+# train/P416418.atf						#new_text=P416418
 # tr.en: sheep barley-fed buck barley-fed of n grade sheep barley-fed for Enlil and Ninlil sheep barley-fed for Nanna sheep barley-fed of nd grade sheep barley-fed siskur-offering with Suen House of Crescent sheep barley-fed siskur-offering for Inanna in palace Babanen responsible official sheep for Maruni from ari sheep barley-fed for Aab-atal man of ibilat buck barley-fed for Il-Dagan from Ebla Ur-arrugin messenger responsible official of month day elapsed booked-outs in Tummal from En-dingirmu month Szuea year Szarum was destroyed
-1	1(disz)	_	NN	2	nummod	
-2	udu	sheep	NN	0	root	
-3	niga	barley-fed	JJ	2	amod	
-4	...	_	,	9	dep	
-5	1(disz)	_	_	0	nummod	
-6	masz2-gal	buck	NN	2	appos	
-7	niga	barley-fed	JJ	2	appos	
-8	n-kam	n	CD	9	nummod	
-9	us2	grade	NN	2	nmod:of	
-10	1(disz)	_	,	9	nummod	
-11	udu	sheep	NN	9	conj	
-12	niga	barley-fed	JJ	9	conj	
-13	{d}en-lil2	for Enlil	NNP	9	nmod:for	
-14	{d}nin-lil2	and Ninlil	CC	13	cc	
-15	1(disz)	_	:	16	nummod	
-16	udu	sheep	NN	2	_	
-17	niga	barley-fed	JJ	16	amod	
-18	{d}nanna	for Nanna	NNP	16	nmod:for	
-19	2(disz)	_	,	20	nummod	
-20	udu	sheep	NN	16	_	
-21	niga	barley-fed	JJ	20	amod	
-22	saga	_	CD	25	nummod	
-23	us2	nd grade	NN	20	nmod:of	
-24	3(disz)	_	,	20	nummod	
-25	udu	sheep	NN	20	conj	
-26	niga	barley-fed	JJ	20	conj	
-27	siskur2	siskur-offering	JJ	20	amod	
-28	ki	with	IN	29	nmod:with	
-29	{d}suen	Suen House	NNP	27	nmod:with	
-30	e2-u4-sakar	Crescent	NNP	29	nmod:of	
-31	1(disz)	_	,	37	nummod	
-32	udu	sheep	NN	20	_	
-33	niga	barley-fed	JJ	32	amod	
-34	siskur2	siskur-offering for	JJ	32	amod	
-35	{d}inanna	Inanna	NNP	34	nmod:for	
-36	sza3	in	IN	37	nmod:in	
-37	e2-gal	palace	NN	34	nmod:in	
-38	ba-ba-an-sze-en	Babanen	NNP	37	appos	
-39	maszkim	responsible official	JJ	40	amod	
-40	...	responsible official	NN	37	appos	
-41	 	_	_	0	_	
-42	udu	sheep	NN	16	_	
-43	...	_	NN	0	root	
-44	'.	_	NNP	46	nmod:from	
-45	...	_	:	16	dep	
-46	mar-hu-ni	for Maruni from	NNP	41	nmod:for	
-47	lu2	_	CD	51	nummod	
-48	ha-ar-szi{ki}	ari	_	0	_	
-49	'.	_	:	16	_	
-50	1(disz)	_	CD	58	nummod	
-51	udu	sheep	NN	16	_	
-52	niga	barley-fed	JJ	51	amod	
-53	a2-ha-ba-tal	for Aab-atal	JJ	51	nmod:for	
-54	lu2	_	_	0	_	
-55	hi-bi2-la-at{ki}	man ibilat	NN	51	appos	
-56	'.	_	:	16	_	
-57	1(disz)	_	_	0	nummod	
-58	masz2-gal	buck	NN	16	_	
-59	niga	barley-fed	JJ	58	amod	
-60	i3-li2-{d}da-gan	for Il-Dagan	NNP	58	nmod:for	
-61	lu2	_	_	0	_	
-62	eb-la{ki}	from Ebla	NNP	60	nmod:from	
-63	'.	_	_	0	_	
-64	ur-szar-ru-gin7	Ur-arrugin	NN	16	_	
-65	sukkal	messenger	NN	64	appos	
-66	maszkim	responsible official	NN	64	appos	
-67	'.	_	,	73	_	
-68	iti	month	NN	66	nmod:of	
-69	u4	day	NN	73	nmod:tmod	
-70	3(u)	_	``	75	nummod	
-71	la2	_	_	70	_	
-72	1(disz@t)	_	_	71	nummod	
-73	ba-zal	elapsed	VBN	64	acl	
-74	'.	_	,	75	_	
-75	zi-ga	booked-outs	NNS	73	_	
-76	sza3	in	IN	77	nmod:in	
-77	tum-ma-al	Tummal	NNP	75	nmod:in	
-78	'.	_	:	43	_	
-79	ki	from	IN	80	nmod:from	
-80	en-dingir-mu	En-dingirmu	NN	75	nmod:from	
-81	'.	_	NNP	43	_	
-82	iti	month	NN	81	compound	
-83	szu-esz-sza	_	``	81	_	
-84	'.	_	:	43	_	
-85	mu	year	NN	88	_	
-86	sza-asz-ru-um{ki}	_	``	88	_	
-87	ba-hul	was destroyed	VBD	88	auxpass	
-88	2(u)	was destroyed	VBN	81	nummod	
-89	la2	_	DT	65	det	
-90	1(disz@t)	_	,	64	nummod
+1	1(disz)	1(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+4	...	_[_]	PN	N	2	dep	heuristic: after nominal head	
+5	1(disz)	1(disz)[one]	NU	NU	6	nummod	heuristic: NU premodifying	
+6	masz2-gal	maszgal[billy_goat]	N	N	2	appos	_	
+7	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+8	n-kam	_(_)[_]-ak-am	NU	NU.GEN.COP-3-SG	9	nummod	_	
+9	us2	us[follow][-ø]	V	NF.V.ABS	2	acl	_	
+10	1(disz)	1(disz)[one]	NU	NU	9	nummod	_	
+11	udu	udu[sheep]	N	N	9	appos	_	
+12	niga	niga[fattened][-ø]	V	NF.V.ABS	9	appos	_	
+13	{d}en-lil2	Enlil[1]	DN	DN	9	DAT	_	
+14	{d}nin-lil2	Ninlil[1][-ra]	DN	DN	13	appos	_	
+15	1(disz)	1(disz)[one]	NU	NU	16	nummod	_	
+16	udu	udu[sheep]	N	N	2	appos	_	
+17	niga	niga[fattened][-ø]	V	NF.V.ABS	16	acl	_	
+18	{d}nanna	Nanna[1][-ak]	DN	DN	16	DAT	_	
+19	2(disz)	2(disz)[one]	NU	NU	20	nummod	_	
+20	udu	udu[sheep]	N	N	16	appos	_	
+21	niga	niga[fattened][-ø]	V	NF.V.ABS	20	acl	_	
+22	saga	saga[good][-ø]	V	NF.V.ABS	25	acl	projectivity violation	
+23	us2	us[follow][-ø]	V	NF.V.ABS	20	acl	_	
+24	3(disz)	3(disz)[one]	NU	NU	20	nummod	_	
+25	udu	udu[sheep]	N	N	20	appos	_	
+26	niga	niga[fattened][-ø]	V	NF.V.ABS	20	acl	_	
+27	siskur2	siszkur[offering]	N	N	20	acl	_	
+28	ki	ki[place]	N	N	29	COM	_	
+29	{d}suen	_[Suen.House]	DN	DN	27	COM	_	
+30	e2-u4-sakar	_[Crescent]	PN	PN	29	GEN	_	
+31	1(disz)	1(disz)[one]	NU	NU	37	nummod	projectivity violation	
+32	udu	udu[sheep]	N	N	20	appos	_	
+33	niga	niga[fattened][-ø]	V	NF.V.ABS	32	acl	_	
+34	siskur2	siszkur[offering]	N	N	32	acl	_	
+35	{d}inanna	Inanna[1][-ak]	DN	DN	34	DAT	_	
+36	sza3	szag[heart]	N	N	37	LOC	_	
+37	e2-gal	egal[palace][-ak][-'a]	N	N	34	LOC	_	
+38	ba-ba-an-sze-en	_[Babanen]	V	V	37	acl	_	
+39	maszkim	maszkim[administrator]	N	N.ABS	40	acl	_	
+40	...	_[_]	PN	N	37	dep	_	
+41	udu	udu[sheep]	N	N	16	appos	_	
+42	...	_[_]	PN	N	0	dep	_	
+43	'.	_	PN	PN	46	ABL	_	
+44	...	_[_]	PN	N	44	dep	heuristic: attach to last	
+45	mar-hu-ni	_[for.Maruni.from]	N	N	0	DAT	_	
+46	lu2	lu[person]	N	N	51	nummod	projectivity violation	
+47	ha-ar-szi{ki}	Harszi[1]	SN	SN	47	_	heuristic: attach to last	
+48	'.	_	_	_	48	_	heuristic: attach to last	
+49	1(disz)	1(disz)[one]	NU	NU	58	nummod	projectivity violation	
+50	udu	udu[sheep]	N	N	16	appos	projectivity violation	
+51	niga	niga[fattened][-ø]	V	NF.V.ABS	51	acl	_	
+52	a2-ha-ba-tal	_[for.Aab-atal]	PN	PN	51	DAT	_	
+53	lu2	lu[person]	N	N	53	_	heuristic: attach to last	
+54	hi-bi2-la-at{ki}	_[man.ibilat]	SN	SN.GEN.GEN	51	appos	_	
+55	'.	_	_	_	55	_	heuristic: attach to last	
+56	1(disz)	1(disz)[one]	NU	NU	58	nummod	heuristic: NU premodifying	
+57	masz2-gal	maszgal[billy_goat]	N	N	16	appos	projectivity violation	
+58	niga	niga[fattened][-ø]	V	NF.V.ABS	58	acl	_	
+59	i3-li2-{d}da-gan	_[for.Il-Dagan]	PN	PN.GEN.ABS	58	DAT	_	
+60	lu2	lu[person]	N	N	60	_	heuristic: attach to last	
+61	eb-la{ki}	_[from.Ebla]	SN	SN	60	ABL	_	
+62	'.	_	_	_	62	_	heuristic: attach to last	
+63	ur-szar-ru-gin7	_[Ur-arrugin]	PN	PN	16	appos	projectivity violation	
+64	sukkal	sukkal[secretary][-ak][-ra]	N	N	64	appos	_	
+65	maszkim	maszkim[administrator]	N	N.ABS	64	appos	projectivity violation	
+66	'.	_	_	_	66	_	heuristic: attach to last	
+67	iti	iti[month]	N	N	66	GEN	_	
+68	u4	ud[day]	N	N	73	date	projectivity violation	
+69	3(u)	3(u)[ten]	NU	NU	75	nummod	projectivity violation	
+70	la2	la[hang][-ø]	V	NF.V.ABS	70	_	_	
+71	1(disz@t)	1(disz)[one]	NU	NU	71	nummod	_	
+72	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	64	acl	projectivity violation	
+73	'.	_	_	_	75	_	_	
+74	zi-ga	zig[expend]-a	V	NF.V.PT	73	_	_	
+75	sza3	szag[heart]	N	N	77	LOC	_	
+76	tum-ma-al	Tummal[1][-ak][-'a]	SN	SN.GEN.L1	75	LOC	_	
+77	'.	_	_	_	77	_	heuristic: attach to last	
+78	ki	ki[place]	N	N	80	ABL	_	
+79	en-dingir-mu	Endingirmu[1][-ak]	PN	PN	75	ABL	_	
+80	'.	_	PN	PN	43	appos	projectivity violation	
+81	iti	iti[month]	N	N	81	appos	_	
+82	szu-esz-sza	Szu'eszsza[1][-'a]	MN	MN.L1	81	appos	_	
+83	'.	_	_	_	83	_	heuristic: attach to last	
+84	mu	mu[year]	N	N	88	_	_	
+85	sza-asz-ru-um{ki}	Szaszrum[1][-ø]	GN	SN.ABS	88	_	_	
+86	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	88	acl	_	
+87	2(u)	2(u)[ten]	NU	NU	81	nummod	_	
+88	la2	la[hang][-ø]	V	NF.V.ABS	65	acl	_	
+89	1(disz@t)	1(disz)[one]	NU	NU	64	nummod	_
 	
 

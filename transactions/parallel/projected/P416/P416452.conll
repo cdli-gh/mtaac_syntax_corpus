@@ -1,43 +1,42 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P416452.atf
-						
-
 # tr.en: ugid-sheep ugid-ewes n semi-weaned lamb of royal bucks for House Day of month day elapsed from Nalu Nasa accepted month Festival of Ninazu year Simurum and Lulubu for th time were destroyed
-1	3(u)	_	,	4	nummod	
-2	3(disz)	_	CD	8	nummod	
-3	udu	_	_	0	_	
-4	szu-gid2	ugid-sheep	NN	29	_	
-5	1(u)	_	_	0	nummod	
-6	1(disz)	_	_	5	nummod	
-7	u8	_	_	0	_	
-8	szu-gid2	ugid-ewes	NNS	4	appos	
-9	...	n	CD	10	dep	
-10	sila4	lamb	NN	8	_	
-11	gaba	semi-weaned	JJ	10	amod	
-12	lugal	royal	NN	10	nmod:of	
-13	4(disz)	_	,	4	nummod	
-14	masz2	_	_	0	_	
-15	szu-gid2	bucks	NNS	4	appos	
-16	e2-u4-1(u)	for House Day	NNP	4	nmod:for	
-17	5(disz)	_	CD	16	nummod	
-18	iti	month	NN	19	compound	
-19	u4	day	NN	4	nmod:of	
-20	1(u)	_	,	19	nummod	
-21	2(disz)	_	_	20	nummod	
-22	ba-zal	elapsed	VBN	19	acl	
-23	ki	from	IN	24	nmod:from	
-24	na-lu5-ta	Nalu	NNP	19	nmod:from	
-25	na-sa6	Nasa	NNP	26	nsubj	
-26	i3-dab5	accepted	VBD	19	acl:relcl	
-27	iti	month	NN	29	_	
-28	ezem-{d}nin-a-zu	Festival Ninazu	NNP	29	_	
-29	mu	year	NN	0	root	
-30	si-mu-ru-um{ki}	Simurum	NNP	37	nsubjpass	
-31	u3	and	CC	30	cc	
-32	lu-lu-bu{ki}	Lulubu	NNP	30	conj	
-33	a-ra2	for th time	NN	30	nmod:for	
-34	1(u)	_	.	29	nummod	
-35	la2	_	''	34	_	
-36	1(disz@t)-kam	_	_	35	nummod	
-37	ba-hul	were destroyed	VBN	29	parataxis
+1	3(u)	3(u)[ten]	NU	NU	4	nummod	projectivity violation	
+2	3(disz)	3(disz)[one]	NU	NU	8	nummod	projectivity violation	
+3	udu	udu[sheep]	N	N	4	_	heuristic: attach to head	
+4	szu-gid2	szugid[animal_designation][-ø]	N	N	0	_	detached for projectivity	
+5	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+6	1(disz)	1(disz)[one]	NU	NU	5	nummod	_	
+7	u8	u[ewe]	N	N	4	_	heuristic: after nominal head	
+8	szu-gid2	szugid[animal_designation][-ø]	N	N	4	appos	_	
+9	...	_[_]	PN	N	10	dep	_	
+10	sila4	sila[lamb]	N	N	8	appos	_	
+11	gaba	gaba[frontier][-ak]	N	N	10	acl	_	
+12	lugal	lugal[king]	N	N	10	GEN	_	
+13	4(disz)	4(disz)[one]	NU	NU	4	nummod	_	
+14	masz2	masz[goat]	N	N	13	_	heuristic: attach to last	
+15	szu-gid2	szugid[animal_designation][-ø]	N	N	4	appos	_	
+16	e2-u4-1(u)	_[for.House.Day]	NU	NU	4	nummod	_	
+17	5(disz)	5(disz)[one]	NU	NU	16	nummod	_	
+18	iti	iti[month]	N	N	19	nmod	_	
+19	u4	ud[day]	N	N	4	GEN	_	
+20	1(u)	1(u)[ten]	NU	NU	19	nummod	_	
+21	2(disz)	2(disz)[one]	NU	NU	20	nummod	_	
+22	ba-zal	ba-zal[pass][-ø][-a][-'a]	V	MID.V.3-SG-S.SUB	19	acl	_	
+23	ki	ki[place]	N	N	24	ABL	_	
+24	na-lu5-ta	Nalu[1][-ak]-ta	PN	PN.GEN.ABL	19	ABL	_	
+25	na-sa6	Nasa[1][-e]	PN	PN.ERG	26	ABS	_	
+26	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	19	acl	_	
+27	iti	iti[month]	N	N	29	_	_	
+28	ezem-{d}nin-a-zu	Ezemninazu[1][-'a]	MN	MN.L1	29	_	_	
+29	mu	mu[year]	N	N	0	root	_	
+30	si-mu-ru-um{ki}	Simurrum[1]	SN	SN.ABS	37	ABS	projectivity violation	
+31	u3	u[and]	CNJ	CNJ	30	appos	_	
+32	lu-lu-bu{ki}	Lulubu[1][-ø]	SN	SN.ABS	30	appos	_	
+33	a-ra2	ara[times]	N	N	30	DAT	_	
+34	1(u)	1(u)[ten]	NU	NU	29	nummod	_	
+35	la2	la[hang][-ø]	V	NF.V.ABS	34	_	_	
+36	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	35	nummod	_	
+37	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	29	acl	_
 	
 

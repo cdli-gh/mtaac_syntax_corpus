@@ -1,106 +1,105 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P416430.atf
-						
-
 # tr.en: n ox grass-fed sheep grass-fed with Puzur-il ox grass-fed sheep grass-fed with Nimgir-inimgina ox grass-fed sheep grass-fed with Gab-atal ox grass-fed sheep grass-fed with Ur-Baba sheep grass-fed with Lu-saga foreman Lugal-kuzu ox grass-fed sheep grass-fed foreman Namani n sheep grass-fed with Izuzu foreman Tai-atal n ox grass-fed sheep grass-fed with Szakuge household manager n ox grass-fed siskur-offering for granary with Lu-Nanna n ox grass-fed siskur-offering for Nisaba with Ea-bani taken month Festival of Szu-Suen in Fattening House ARAD-mu responsible official the th day booked out from Duga via ulal scribe extra month following Mekigal Festival year Simanum was destroyed
-1	n	n	CD	2	nummod	
-2	gu4	ox	NN	0	root	
-3	u2	grass-fed	JJ	2	amod	
-4	7(disz)	_	,	6	nummod	
-5	udu	sheep	NN	2	appos	
-6	u2	grass-fed	JJ	2	appos	
-7	ki	with	IN	8	nmod:with	
-8	puzur4-i3-li2	Puzur-il	NN	6	nmod:with	
-9	1(disz)	_	,	10	nummod	
-10	gu4	ox	NN	6	_	
-11	u2	grass-fed	JJ	10	amod	
-12	5(disz)	_	_	0	nummod	
-13	udu	sheep	NN	10	appos	
-14	u2	grass-fed	JJ	10	appos	
-15	ki	_	:	6	_	
-16	nimgir-inim-gi-na	with Nimgir-inimgina	NN	10	nmod:with	
-17	1(disz)	_	,	18	nummod	
-18	gu4	ox	NN	6	_	
-19	u2	grass-fed	JJ	18	amod	
-20	5(disz)	_	_	0	nummod	
-21	udu	sheep	NN	18	appos	
-22	u2	grass-fed	JJ	18	appos	
-23	ki	with	IN	24	nmod:with	
-24	ga-ba-tal	Gab-atal	JJ	18	nmod:with	
-25	1(disz)	_	,	26	nummod	
-26	gu4	ox	NN	6	_	
-27	u2	grass-fed	JJ	26	amod	
-28	5(disz)	_	_	0	nummod	
-29	udu	sheep	NN	26	appos	
-30	u2	grass-fed	JJ	26	appos	
-31	ki	with	IN	32	nmod:with	
-32	ur-{d}ba-ba6	Ur-Baba	NN	26	nmod:with	
-33	5(disz)	_	:	6	nummod	
-34	udu	sheep	NN	6	_	
-35	u2	grass-fed	JJ	34	amod	
-36	ki	with	IN	37	nmod:with	
-37	lu2-sa6-ga	Lu-saga	NN	34	nmod:with	
-38	ugula	foreman	NN	6	_	
-39	lugal-ku3-zu	Lugal-kuzu	NN	38	_	
-40	1(disz)	_	,	41	nummod	
-41	gu4	ox	NN	39	_	
-42	u2	_	,	41	_	
-43	5(disz)	_	,	41	nummod	
-44	udu	sheep	_	0	_	
-45	u2	grass-fed	JJ	41	amod	
-46	ugula	foreman	NN	41	appos	
-47	nam-ha-ni	Namani	NNP	39	_	
-48	...	_	:	47	dep	
-49	udu	sheep	NN	47	_	
-50	u2	grass-fed	JJ	49	amod	
-51	ki	_	,	52	_	
-52	i-zu-zu	with Izuzu	NNP	49	nmod:with	
-53	ugula	foreman	NN	52	appos	
-54	ta2-hi-isz-a-tal	Tai-atal	JJ	52	_	
-55	...	_	:	54	dep	
-56	gu4	ox	NN	54	conj	
-57	u2	grass-fed	JJ	56	amod	
-58	1(u)	_	,	56	nummod	
-59	udu	sheep	NN	56	appos	
-60	u2	grass-fed	JJ	56	appos	
-61	ki	with	IN	62	nmod:with	
-62	sza3-ku3-ge	Szakuge	NN	56	nmod:with	
-63	szabra	household manager	NN	64	compound	
-64	...	household manager	NN	56	appos	
-65	gu4	ox	NN	54	conj	
-66	u2	grass-fed	JJ	65	amod	
-67	siskur2	siskur-offering for	JJ	65	amod	
-68	guru7	granary	NN	67	nmod:for	
-69	ki	with	IN	70	nmod:with	
-70	lu2-{d}nanna	Lu-Nanna	NNP	65	nmod:with	
-71	...	_	:	54	dep	
-72	gu4	ox	NN	54	conj	
-73	u2	grass-fed	JJ	72	amod	
-74	siskur2	siskur-offering for	JJ	72	amod	
-75	{d}nisaba	Nisaba	NNP	74	nmod:for	
-76	ki	with	IN	77	nmod:with	
-77	e2-a-ba-ni	Ea-bani	NNS	72	nmod:with	
-78	...	_	,	80	dep	
-79	nig2-dab5	taken	VBN	54	acl	
-80	ezem-{d}szu-{d}suen	month Festival Szu-Suen	NNP	54	_	
-81	sza3	in	IN	82	nmod:in	
-82	na-gab2-tum	Fattening House	NNP	80	nmod:in	
-83	ARAD2-mu	ARAD-mu	NN	80	appos	
-84	maszkim	responsible official	NN	80	appos	
-85	u4	the th day	NN	80	_	
-86	2(u)	_	,	85	nummod	
-87	9(disz)-kam	_	_	86	nummod	
-88	ki	from	IN	89	nmod:from	
-89	du11-ga-ta	Duga	NNP	90	nmod:from	
-90	ba-zi	booked out	VBN	85	acl	
-91	giri3	via	IN	92	nmod:via	
-92	hu-la-al	ulal	NNP	85	nmod:via	
-93	dub-sar	scribe	NN	85	appos	
-94	iti	month	NN	80	_	
-95	diri	extra	JJ	94	amod	
-96	ezem-me-ki-gal2	Mekigal Festival	NNP	80	_	
-97	us2-sa	following	VBG	94	acl	
-98	mu	year	NN	80	_	
-99	si-ma-num2{ki}	Simanum	NNP	100	nsubjpass	
-100	ba-hul	was destroyed	VBN	80	acl
+1	n	_(_)[_]	NU	NU	2	nummod	_	
+2	gu4	gud[ox]	N	N	0	root	_	
+3	u2	u[grass]	N	N	2	acl	_	
+4	7(disz)	7(disz)[one][-sze]	NU	NU	6	nummod	projectivity violation	
+5	udu	udu[sheep]	N	N	2	appos	_	
+6	u2	u[grass]	N	N	2	appos	_	
+7	ki	ki[place]	N	N	8	COM	_	
+8	puzur4-i3-li2	Puzurili[1][-ra]	PN	PN	6	COM	_	
+9	1(disz)	1(disz)[one]	NU	NU	10	nummod	_	
+10	gu4	gud[ox]	N	N	6	appos	_	
+11	u2	u[grass]	N	N	10	acl	_	
+12	5(disz)	5(disz)[one]	NU	NU	13	nummod	heuristic: NU premodifying	
+13	udu	udu[sheep]	N	N	10	appos	_	
+14	u2	u[grass]	N	N	10	appos	_	
+15	ki	ki[place]	N	N	6	appos	projectivity violation	
+16	nimgir-inim-gi-na	Nimgirinimgina[1]	PN	PN	10	COM	_	
+17	1(disz)	1(disz)[one]	NU	NU	18	nummod	_	
+18	gu4	gud[ox]	N	N	6	appos	_	
+19	u2	u[grass]	N	N	18	acl	_	
+20	5(disz)	5(disz)[one]	NU	NU	21	nummod	heuristic: NU premodifying	
+21	udu	udu[sheep]	N	N	18	appos	_	
+22	u2	u[grass]	N	N	18	appos	_	
+23	ki	ki[place]	N	N	24	COM	_	
+24	ga-ba-tal	_[Gab-atal]	PN	PN	18	COM	_	
+25	1(disz)	1(disz)[one]	NU	NU	26	nummod	_	
+26	gu4	gud[ox]	N	N	6	appos	_	
+27	u2	u[grass]	N	N	26	acl	_	
+28	5(disz)	5(disz)[one]	NU	NU	29	nummod	heuristic: NU premodifying	
+29	udu	udu[sheep]	N	N	26	appos	_	
+30	u2	u[grass]	N	N	26	appos	_	
+31	ki	ki[place]	N	N	32	COM	_	
+32	ur-{d}ba-ba6	Urbaba[1]	PN	PN	26	COM	_	
+33	5(disz)	5(disz)[one]	NU	NU	6	nummod	_	
+34	udu	udu[sheep]	N	N	6	appos	_	
+35	u2	u[grass]	N	N	34	acl	_	
+36	ki	ki[place]	N	N	37	COM	_	
+37	lu2-sa6-ga	_[Lu-saga]	PN	PN	34	COM	_	
+38	ugula	ugula[overseer][-ø]	N	N	6	appos	_	
+39	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	38	appos	_	
+40	1(disz)	1(disz)[one]	NU	NU	41	nummod	_	
+41	gu4	gud[ox]	N	N	39	appos	_	
+42	u2	u[grass]	N	N	41	appos	_	
+43	5(disz)	5(disz)[one]	NU	NU	41	nummod	_	
+44	udu	udu[sheep]	N	N	43	_	heuristic: attach to last	
+45	u2	u[grass]	N	N	41	acl	_	
+46	ugula	ugula[overseer][-ø]	N	N	41	appos	_	
+47	nam-ha-ni	Namhani[1]	N	PN	39	appos	_	
+48	...	_[_]	PN	N	47	dep	_	
+49	udu	udu[sheep]	N	N	47	appos	_	
+50	u2	u[grass]	N	N	49	acl	_	
+51	ki	ki[place]	N	N	52	_	_	
+52	i-zu-zu	_[with.Izuzu]	PN	PN.ABS	49	COM	_	
+53	ugula	ugula[overseer][-ø]	N	N	52	appos	_	
+54	ta2-hi-isz-a-tal	Tahiszatal[1][-ak]	PN	PN	52	appos	_	
+55	...	_[_]	PN	N	54	dep	_	
+56	gu4	gud[ox]	N	N	54	appos	_	
+57	u2	u[grass]	N	N	56	acl	_	
+58	1(u)	1(u)[ten]	NU	NU	56	nummod	_	
+59	udu	udu[sheep]	N	N	56	appos	_	
+60	u2	u[grass]	N	N	56	appos	_	
+61	ki	ki[place]	N	N	62	COM	_	
+62	sza3-ku3-ge	Szakuge[1][-e]	PN	PN.ERG	56	COM	_	
+63	szabra	szabra[chief_administrator][-ak]	N	N	64	nmod	_	
+64	...	_[_]	PN	N	56	dep	_	
+65	gu4	gud[ox]	N	N	54	appos	_	
+66	u2	u[grass]	N	N	65	acl	_	
+67	siskur2	siszkur[offering]	N	N	65	acl	_	
+68	guru7	guru[grain_heap]	N	N	67	DAT	_	
+69	ki	ki[place]	N	N	70	COM	_	
+70	lu2-{d}nanna	Lunanna[1]	PN	PN	65	COM	_	
+71	...	_[_]	PN	N	54	dep	_	
+72	gu4	gud[ox]	N	N	54	appos	_	
+73	u2	u[grass]	N	N	72	acl	_	
+74	siskur2	siszkur[offering]	N	N	72	acl	_	
+75	{d}nisaba	_[Nisaba]	DN	DN	74	DAT	_	
+76	ki	ki[place]	N	N	77	COM	_	
+77	e2-a-ba-ni	E'abani[1][-ra]	PN	PN	72	COM	_	
+78	...	_[_]	PN	N	54	dep	heuristic: after nominal head	
+79	nig2-dab5	nigdab[requisitions]	N	N	54	acl	_	
+80	ezem-{d}szu-{d}suen	_[month.Festival.Szu-Suen]	MN	MN	54	appos	_	
+81	sza3	szag[heart]	N	N	82	LOC	_	
+82	na-gab2-tum	nakabtum[stockyard][-ak][-ak]	N	N.GEN.ABS	80	LOC	_	
+83	ARAD2-mu	Aradmu[1]	PN	PN	80	appos	_	
+84	maszkim	maszkim[administrator]	N	N.ABS	80	appos	_	
+85	u4	ud[day]	N	N	80	appos	_	
+86	2(u)	2(u)[ten]	NU	NU	85	nummod	_	
+87	9(disz)-kam	9(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	86	nummod	_	
+88	ki	ki[place]	N	N	89	ABL	_	
+89	du11-ga-ta	_[Duga]	PN	PN.GEN.ABL	90	ABL	_	
+90	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	85	acl	_	
+91	giri3	giri[foot]	N	N	92	via	_	
+92	hu-la-al	Hulal[1][-ra]	PN	PN	85	via	_	
+93	dub-sar	dubsar[scribe]	N	N	85	appos	_	
+94	iti	iti[month]	N	N	80	appos	_	
+95	diri	diri[intercalary_month]	N	N	94	acl	_	
+96	ezem-me-ki-gal2	Ezemmekigal[1][-ø]	MN	MN.L1	80	appos	projectivity violation	
+97	us2-sa	us[follow]-a	V	NF.V.PT	94	acl	_	
+98	mu	mu[year]	N	N	80	appos	_	
+99	si-ma-num2{ki}	Simanum[1][-ø]	GN	SN.ABS	100	ABS	_	
+100	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	80	acl	_
 	
 

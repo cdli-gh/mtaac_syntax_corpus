@@ -1,546 +1,135 @@
-# train/P120650.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P120650.atf						#new_text=P120650
 # tr.en: female workers barig ban each female workers barig each female workers ban each female workers ban each children ban each children ban sila each children ban each old female workers ban each Their barley gur ban sila They are female weavers male workers barig each male workers ban each male workers ban each Their barley gur barig They are ug-IL of house of weavers Monthly barley rations male workers gur each male workers gur barig each male worker gur flax workers gur barig each braider gur barig Their barley gur They are not holders Annual barley rations at Girsu female workers ban each child ban children ban sila each children ban each Their barley gur barig ban at Uru female workers ban each female workers ban each children ban each children ban sila each children ban each old female workers ban each Their barley gur barig ban They are female weavers Their barley n gur barig They are porters of house of weavers at Laga female worker barig ban female workers barig each female workers ban each female workers ban each female workers ban each children ban each children ban sila each children ban each old female workers ban each Their barley gur barig ban sila They are female weavers male workers barig each male worker ban male worker ban child ban children ban sila each child ban Their barley n gur They are personnel of house of weavers fullers Their barley n gur Annual barley rations at Kinunir female worker barig ban female workers barig each female workers ban each female workers ban each male workers ban each children ban each children ban sila each children ban each old female workers ban each Their barley n gur barig They are female weavers male workers barig each male workers ban each male workers ban each at Gu-abba Total female workers barig ban each Total female workers barig each Total female workers ban each Total female workers ban each Total male workers ban each Total female workers ban each Total male workers ban each Total children ban each Total children ban sila each Total children ban each Total old female workers ban each Total male workers barig each Total male workers ban each Total male workers ban each Total male workers ban each Total children ban each Total children ban sila each Total children ban each Their barley gur barig ban They are personnel of house of weavers gur barig ban Monthly barley rations Total male workers each Total male workers barig each Total male worker barig x porters fullers they are not holders gur Annual barley rations Final account of barley rations female weavers fullers and personnel of house of weavers from Girsu to Gu-abba Year ari and Hurti were destroyed
-1	1(u)	_	CD	11	nummod	
-2	3(disz)	_	_	1	nummod	
-3	geme2	female workers	NNS	0	root	
-4	1(barig)	barig	NN	3	nummod	
-5	4(ban2)-ta	_	_	4	nummod	
-6	2(gesz2)	ban each	NN	4	nummod	
-7	2(u)	_	CD	17	nummod	
-8	9(disz)	_	_	7	nummod	
-9	1(disz)	_	_	8	nummod	
-10	geme2	female workers	JJ	11	amod	
-11	1(barig)-ta	female workers	NNS	4	nummod	
-12	1(gesz'u)	barig each	NN	3	nummod	
-13	1(gesz2)	_	CD	12	nummod	
-14	2(u)	_	_	12	nummod	
-15	4(disz)	_	_	12	nummod	
-16	geme2	female workers	JJ	17	amod	
-17	4(ban2)-ta	female workers	NNS	12	nummod	
-18	3(gesz2)	ban each	NN	12	nummod	
-19	2(u)	_	CD	29	nummod	
-20	la2	_	_	0	_	
-21	1(disz)	_	_	20	nummod	
-22	geme2	female workers	JJ	23	amod	
-23	3(ban2)-ta	female workers	NNS	12	nummod	
-24	2(gesz2)	ban each	NN	12	nummod	
-25	1(gesz2)	_	CD	34	nummod	
-26	2(u)	_	_	25	nummod	
-27	la2	_	_	0	_	
-28	1(disz)	_	_	27	nummod	
-29	dumu	children	NNS	24	_	
-30	2(ban2)-ta	_	_	0	nummod	
-31	2(gesz2)	ban each	NN	12	nummod	
-32	2(u)	_	CD	40	nummod	
-33	1(disz)	_	_	32	nummod	
-34	dumu	children	NNS	31	_	
-35	1(ban2)	ban	NN	12	nummod	
-36	5(disz)	_	_	12	nummod	
-37	sila3-ta	sila each	NN	35	_	
-38	6(gesz2)	_	CD	44	nummod	
-39	4(disz)	_	_	38	nummod	
-40	dumu	children	NNS	37	_	
-41	1(ban2)-ta	ban each	NN	12	nummod	
-42	5(u)	_	.	3	nummod	
-43	2(disz)	_	_	42	nummod	
-44	geme2	female workers	NNS	41	_	
-45	szu-gi4	old	JJ	44	amod	
-46	2(ban2)-ta	ban each	NN	12	nummod	
-47	sze-bi	Their barley	PRP$	48	nmod:poss	
-48	3(gesz2)	Their barley	NN	3	nummod	
-49	1(asz)	_	_	48	nummod	
-50	4(ban2)	_	_	48	nummod	
-51	5(disz)	_	_	48	nummod	
-52	sila3	sila	NN	53	_	
-53	gur	gur	NN	48	_	
-54	geme2	_	.	3	_	
-55	usz-bar-me	They are female weavers	NNS	52	acl:relcl	
-56	3(disz)	_	CD	61	nummod	
-57	gurusz	male workers	JJ	58	amod	
-58	1(barig)-ta	male workers	NNS	101	nummod	
-59	2(disz)	barig each	NN	58	nummod	
-60	gurusz	male workers	JJ	61	amod	
-61	5(ban2)-ta	male workers	NNS	58	nummod	
-62	2(disz)	ban each	NN	58	nummod	
-63	gurusz	male workers	NNS	62	_	
-64	4(ban2)-ta	ban each	NN	58	nummod	
-65	sze-bi	Their barley	NN	64	_	
-66	1(asz)	_	_	0	nummod	
-67	1(barig)	barig	NN	58	nummod	
-68	gur	gur	NN	67	compound	
-69	ug3-IL2	_	.	67	_	
-70	e2-usz-bar-me	They are ug-IL house weavers	NN	67	acl:relcl	
-71	sze-ba	barley rations	NNS	67	_	
-72	iti-da	Monthly	JJ	71	amod	
-73	1(u)	_	CD	79	nummod	
-74	1(disz)	_	_	73	nummod	
-75	gurusz	male workers	NNS	71	_	
-76	4(asz)	_	_	0	nummod	
-77	gur-ta	gur each	NN	75	appos	
-78	6(disz)	_	CD	83	nummod	
-79	gurusz	male workers	NNS	77	_	
-80	2(asz)	gur barig	NN	75	nummod	
-81	2(barig)-ta	each	DT	83	nummod	
-82	1(disz)	_	CD	88	nummod	
-83	gurusz	male worker	NN	80	_	
-84	2(asz)	_	_	0	nummod	
-85	gur	gur	NN	88	compound	
-86	2(disz)	_	CD	92	nummod	
-87	lu2	_	_	0	_	
-88	gu	flax workers gur	NNS	75	appos	
-89	2(asz)	_	_	0	nummod	
-90	2(barig)-ta	barig each	NN	75	nummod	
-91	1(disz)	_	_	0	nummod	
-92	tug2-du8	braider	NN	90	_	
-93	2(asz)	_	_	0	nummod	
-94	2(barig)	barig	NN	95	nummod	
-95	gur	gur	NN	75	appos	
-96	sze-bi	Their barley	PRP$	97	nmod:poss	
-97	1(gesz2)	Their barley	NN	94	nummod	
-98	4(u)	_	.	58	nummod	
-99	2(asz)	_	_	58	nummod	
-100	gur	gur	NN	75	_	
-101	nu-dab5-me	They are not holders	NNS	540	_	
-102	sze-ba	barley rations	NNS	101	_	
-103	za3-mu-ka	Annual	JJ	102	amod	
-104	sza3	at	IN	105	nmod:at	
-105	gir2-su{ki}	Girsu	NNP	102	nmod:at	
-106	3(u)	_	CD	111	nummod	
-107	1(disz)	_	_	106	nummod	
-108	geme2	female workers	JJ	109	amod	
-109	3(ban2)-ta	female workers	NNS	102	nummod	
-110	1(disz)	ban each	NN	109	nummod	
-111	dumu	child	NN	110	_	
-112	2(ban2)	ban	NN	109	nummod	
-113	1(u)	_	CD	119	nummod	
-114	dumu	children	NNS	112	_	
-115	1(ban2)	ban	NN	109	nummod	
-116	5(disz)	_	_	109	nummod	
-117	sila3-ta	sila each	NN	115	_	
-118	5(disz)	_	_	0	nummod	
-119	dumu	children	NNS	117	_	
-120	1(ban2)-ta	ban each	NN	109	nummod	
-121	sze-bi	Their barley	NN	120	_	
-122	3(asz)	_	_	0	nummod	
-123	4(barig)	_	_	122	nummod	
-124	1(ban2)	barig ban	NN	125	nummod	
-125	gur	gur	NN	109	_	
-126	sza3	at	IN	127	nmod:at	
-127	uru11{ki}	Uru	NNP	124	nmod:at	
-128	1(u)	_	CD	136	nummod	
-129	2(disz)	_	_	128	nummod	
-130	geme2	female workers	JJ	131	amod	
-131	4(ban2)-ta	female workers	NNS	125	nummod	
-132	1(gesz2)	ban each	NN	131	nummod	
-133	1(u)	_	CD	138	nummod	
-134	4(disz)	_	_	133	nummod	
-135	geme2	female workers	JJ	136	amod	
-136	3(ban2)-ta	female workers	NNS	131	nummod	
-137	1(u)	ban each	NN	131	nummod	
-138	dumu	children	NNS	137	_	
-139	2(ban2)-ta	ban each	NN	131	nummod	
-140	2(u)	_	CD	147	nummod	
-141	dumu	children	NNS	139	_	
-142	1(ban2)	ban	NN	131	nummod	
-143	5(disz)	_	_	131	nummod	
-144	sila3-ta	sila each	NN	142	_	
-145	2(u)	_	CD	150	nummod	
-146	3(disz)	_	_	145	nummod	
-147	dumu	children	NNS	144	_	
-148	1(ban2)-ta	ban each	NN	131	nummod	
-149	2(disz)	_	_	0	nummod	
-150	geme2	female workers	NNS	148	_	
-151	szu-gi4	old	JJ	150	amod	
-152	2(ban2)-ta	ban each	NN	131	nummod	
-153	sze-bi	Their barley	NN	152	_	
-154	1(u)	_	_	0	nummod	
-155	1(asz)	_	_	154	nummod	
-156	2(barig)	_	_	154	nummod	
-157	5(ban2)	barig ban	NN	158	nummod	
-158	gur	gur	NN	131	_	
-159	geme2	_	.	101	_	
-160	usz-bar-me	They are female weavers	NNS	157	acl:relcl	
-161	sze-bi	Their barley	NN	101	_	
-162	n	_	:	161	_	
-163	2(barig)	barig	NN	164	nummod	
-164	gur	gur	NN	161	_	
-165	i3-du8	They porters	NNS	163	acl:relcl	
-166	e2-usz-bar-me	are house weavers	VBP	165	cop	
-167	sza3	at	IN	168	nmod:at	
-168	lagasz{ki}	Laga	NNP	101	nmod:at	
-169	1(disz)	_	CD	175	nummod	
-170	geme2	female worker	NN	168	_	
-171	1(barig)	_	_	0	nummod	
-172	4(ban2)	barig ban	NN	168	nummod	
-173	4(disz)	_	CD	178	nummod	
-174	geme2	female workers	JJ	175	amod	
-175	1(barig)-ta	female workers	NNS	172	nummod	
-176	8(disz)	barig each	NN	168	nummod	
-177	geme2	female workers	JJ	178	amod	
-178	5(ban2)-ta	female workers	NNS	176	nummod	
-179	1(gesz2)	ban each	NN	168	nummod	
-180	3(u)	_	CD	188	nummod	
-181	8(disz)	_	_	180	nummod	
-182	geme2	female workers	JJ	183	amod	
-183	4(ban2)-ta	female workers	NNS	179	nummod	
-184	8(gesz2)	ban each	NN	168	nummod	
-185	4(u)	_	CD	191	nummod	
-186	6(disz)	_	_	185	nummod	
-187	geme2	female workers	JJ	188	amod	
-188	3(ban2)-ta	female workers	NNS	184	nummod	
-189	5(u)	ban each	NN	168	nummod	
-190	4(disz)	_	CD	196	nummod	
-191	dumu	children	NNS	189	_	
-192	2(ban2)-ta	_	_	0	nummod	
-193	1(gesz2)	ban each	NN	168	nummod	
-194	3(u)	_	CD	202	nummod	
-195	3(disz)	_	_	194	nummod	
-196	dumu	children	NNS	193	_	
-197	1(ban2)	ban	NN	168	nummod	
-198	5(disz)	_	_	197	nummod	
-199	sila3-ta	sila each	NN	197	_	
-200	2(gesz2)	_	CD	206	nummod	
-201	4(disz)	_	_	200	nummod	
-202	dumu	children	NNS	199	_	
-203	1(ban2)-ta	ban each	NN	168	nummod	
-204	1(u)	_	_	0	nummod	
-205	6(disz)	_	_	204	nummod	
-206	geme2	female workers	NNS	203	_	
-207	szu-gi4	old	JJ	206	amod	
-208	2(ban2)-ta	ban each	NN	168	nummod	
-209	sze-bi	Their barley	PRP$	210	nmod:poss	
-210	1(gesz2)	Their barley	NN	208	nummod	
-211	2(u)	_	_	208	nummod	
-212	1(asz)	_	_	208	nummod	
-213	2(barig)	_	_	208	nummod	
-214	5(ban2)	_	_	0	nummod	
-215	5(disz)	barig ban	NN	217	nummod	
-216	sila3	sila	NN	215	_	
-217	gur	gur	NN	168	_	
-218	geme2	_	.	101	_	
-219	usz-bar-me	They are female weavers	NNS	216	acl:relcl	
-220	2(u)	_	CD	225	nummod	
-221	5(disz)	_	_	220	nummod	
-222	gurusz	male workers	JJ	223	amod	
-223	1(barig)-ta	male workers	NNS	101	nummod	
-224	1(disz)	barig each	NN	223	nummod	
-225	gurusz	male worker	NN	224	_	
-226	5(ban2)	ban	NN	228	nummod	
-227	1(disz)	_	CD	231	nummod	
-228	gurusz	male worker	NN	225	conj	
-229	3(ban2)	ban	NN	225	nummod	
-230	1(disz)	_	CD	234	nummod	
-231	dumu	child	NN	229	_	
-232	2(ban2)	ban	NN	225	nummod	
-233	2(disz)	_	CD	239	nummod	
-234	dumu	children	NNS	232	_	
-235	1(ban2)	ban	NN	225	nummod	
-236	5(disz)	_	_	235	nummod	
-237	sila3-ta	sila each	NN	235	_	
-238	1(disz)	_	_	0	nummod	
-239	dumu	child	NN	237	_	
-240	1(ban2)	ban	NN	225	nummod	
-241	sze-bi	Their barley	NN	240	_	
-242	n	_	:	225	_	
-243	gur	gur	NN	225	_	
-244	giri3-se3-ga	personnel	NNS	243	acl:relcl	
-245	e2-usz-bar-me	They are house weavers	PRP	244	nsubj	
-246	2(disz)	_	:	225	nummod	
-247	lu2	_	_	0	_	
-248	azlag2	fullers	NNS	244	nmod:of	
-249	...	_	_	0	dep	
-250	sze-bi	Their barley	NN	225	_	
-251	n	_	:	225	_	
-252	gur	gur	NN	225	_	
-253	sze-ba	barley rations	NNS	101	_	
-254	za3-mu-kam	Annual	JJ	253	amod	
-255	sza3	at	IN	258	nmod:at	
-256	ki-nu-nir{ki}	Kinunir	NNP	258	compound	
-257	1(disz)	_	CD	262	nummod	
-258	geme2	female worker	NN	101	nmod:at	
-259	1(barig)	_	_	0	nummod	
-260	4(ban2)	barig ban	NN	258	nummod	
-261	1(u)	_	CD	267	nummod	
-262	geme2	female workers	NNS	260	_	
-263	1(barig)-ta	barig each	NN	258	nummod	
-264	'.	_	CD	274	nummod	
-265	1(gesz'u)	_	_	0	nummod	
-266	1(gesz2)	_	_	265	nummod	
-267	geme2	female workers	NNS	263	_	
-268	4(ban2)-ta	ban each	NN	267	nummod	
-269	'.	_	CD	280	nummod	
-270	5(gesz'u)	_	_	0	nummod	
-271	6(gesz2)	_	_	270	nummod	
-272	2(u)	_	_	270	nummod	
-273	1(disz)	_	_	270	nummod	
-274	geme2	female workers	NNS	268	_	
-275	3(ban2)-ta	ban each	NN	267	nummod	
-276	'.	_	CD	285	nummod	
-277	5(u)	_	_	0	nummod	
-278	la2	_	_	277	_	
-279	2(disz)	_	_	278	nummod	
-280	gurusz	male workers	NNS	275	_	
-281	3(ban2)-ta	ban each	NN	275	nummod	
-282	'.	_	CD	291	nummod	
-283	3(gesz2)	_	_	0	nummod	
-284	3(disz)	_	_	283	nummod	
-285	dumu	children	NNS	281	_	
-286	2(ban2)-ta	ban each	NN	275	nummod	
-287	'.	_	CD	300	nummod	
-288	1(gesz'u)	_	_	0	nummod	
-289	1(gesz2)	_	_	288	nummod	
-290	4(u)	_	_	288	nummod	
-291	dumu	children	NNS	286	_	
-292	1(ban2)	ban	NN	275	nummod	
-293	5(disz)	_	_	275	nummod	
-294	sila3-ta	sila each	NN	292	_	
-295	'.	_	CD	305	nummod	
-296	1(gesz'u)	_	_	0	nummod	
-297	7(gesz2)	_	_	296	nummod	
-298	la2	_	_	296	_	
-299	1(disz)	_	_	298	nummod	
-300	dumu	children	NNS	294	_	
-301	1(ban2)-ta	ban each	NN	275	nummod	
-302	'.	_	_	0	_	
-303	2(gesz2)	_	_	0	nummod	
-304	3(disz)	_	_	303	nummod	
-305	geme2	female workers	NNS	301	_	
-306	szu-gi4	old	JJ	305	amod	
-307	2(ban2)-ta	ban each	NN	305	nummod	
-308	'.	_	_	0	_	
-309	sze-bi	Their barley	NN	307	_	
-310	7(gesz2)	_	_	0	nummod	
-311	n	n	CD	314	nummod	
-312	1(asz)	_	_	0	nummod	
-313	3(barig)	barig	NN	305	nummod	
-314	gur	gur	NN	313	conj	
-315	'.	_	CD	322	nummod	
-316	geme2	_	_	0	_	
-317	usz-bar-me	They are female weavers	NNS	313	acl:relcl	
-318	'.	_	CD	326	nummod	
-319	4(gesz2)	_	_	0	nummod	
-320	1(u)	_	_	319	nummod	
-321	5(disz)	_	_	319	nummod	
-322	gurusz	male workers	NNS	317	_	
-323	1(barig)-ta	barig each	NN	322	nummod	
-324	'.	_	CD	331	nummod	
-325	2(u)	_	_	0	nummod	
-326	gurusz	male workers	NNS	323	_	
-327	5(ban2)-ta	ban each	NN	322	nummod	
-328	'.	_	_	0	_	
-329	4(u)	_	_	0	nummod	
-330	2(disz)	_	_	329	nummod	
-331	gurusz	male workers	NNS	327	_	
-332	4(ban2)-ta	ban each	NN	322	nummod	
-333	'.	_	.	101	_	
-334	sza3	at	IN	335	nmod:at	
-335	gu2-ab-ba{ki}	Gu-abba	NN	332	nmod:at	
-336	'.	_	_	0	_	
-337	szunigin	Total	NNP	101	_	
-338	1(u)	_	_	0	nummod	
-339	7(disz)	_	_	338	nummod	
-340	geme2	female workers	NNS	337	_	
-341	1(barig)	barig	NN	340	nummod	
-342	4(ban2)-ta	ban each	NN	341	nummod	
-343	'.	_	_	0	_	
-344	szunigin	Total	NNP	342	_	
-345	3(gesz2)	_	_	0	nummod	
-346	3(u)	_	_	345	nummod	
-347	la2	each	DT	352	det	
-348	1(disz)	_	_	347	nummod	
-349	geme2	female workers	NNS	340	_	
-350	1(barig)-ta	barig	NN	349	nummod	
-351	'.	_	_	0	_	
-352	szunigin	Total	NNP	350	_	
-353	2(u)	_	_	0	nummod	
-354	la2	each	DT	359	det	
-355	1(disz)	_	_	354	nummod	
-356	geme2	female workers	NNS	349	_	
-357	5(ban2)-ta	ban	NN	356	nummod	
-358	'.	_	_	0	_	
-359	szunigin	Total	NNP	357	_	
-360	2(gesz'u)	_	_	0	nummod	
-361	6(gesz2)	_	_	360	nummod	
-362	1(u)	_	_	360	nummod	
-363	4(disz)	_	_	360	nummod	
-364	geme2	female workers	NNS	356	_	
-365	4(ban2)-ta	ban each	NN	364	nummod	
-366	'.	_	_	0	_	
-367	szunigin	Total	NNP	365	_	
-368	1(gesz2)	_	_	0	nummod	
-369	1(disz)	_	_	368	nummod	
-370	gurusz	male workers	NNS	364	_	
-371	4(ban2)-ta	ban each	NN	370	nummod	
-372	'.	_	_	0	_	
-373	szunigin	Total	NNP	371	_	
-374	1(szar2)	_	_	0	nummod	
-375	1(gesz'u)	_	_	374	nummod	
-376	6(gesz2)	_	_	374	nummod	
-377	4(u)	_	_	374	nummod	
-378	4(disz)	_	_	374	nummod	
-379	geme2	female workers	NNS	370	_	
-380	3(ban2)-ta	ban each	NN	379	nummod	
-381	'.	_	_	0	_	
-382	szunigin	Total	NNP	380	_	
-383	4(u)	_	_	0	nummod	
-384	8(disz)	_	_	383	nummod	
-385	gurusz	male workers	NNS	379	_	
-386	3(ban2)-ta	ban each	NN	385	nummod	
-387	'.	_	_	0	_	
-388	szunigin	Total	NNP	386	nmod:npmod	
-389	7(gesz2)	_	_	0	nummod	
-390	5(u)	_	_	389	nummod	
-391	3(disz)	_	_	389	nummod	
-392	dumu	children	NNS	385	_	
-393	2(ban2)-ta	ban each	NN	392	nummod	
-394	'.	_	_	0	_	
-395	szunigin	Total	NNP	393	nmod:npmod	
-396	1(gesz'u)	_	_	0	nummod	
-397	7(gesz2)	_	_	396	nummod	
-398	1(u)	_	_	396	nummod	
-399	5(disz)	_	_	396	nummod	
-400	dumu	children	NNS	392	_	
-401	1(ban2)	ban	NN	400	nummod	
-402	5(disz)	_	_	401	nummod	
-403	sila3-ta	sila each	NN	401	_	
-404	'.	_	_	0	_	
-405	szunigin	Total	NNP	403	nmod:npmod	
-406	2(gesz'u)	_	_	0	nummod	
-407	7(gesz2)	_	_	406	nummod	
-408	1(u)	_	_	406	nummod	
-409	3(disz)	_	_	406	nummod	
-410	dumu	children	NNS	400	_	
-411	1(ban2)-ta	ban each	NN	410	nummod	
-412	'.	_	_	0	_	
-413	szunigin	Total	NNP	411	_	
-414	3(gesz2)	_	_	0	nummod	
-415	2(u)	_	_	414	nummod	
-416	la2	each	DT	423	det	
-417	2(disz)	_	_	416	nummod	
-418	geme2	female workers	NNS	410	_	
-419	<<szu>>	ban	NN	418	appos	
-420	szu-gi4	old	JJ	418	amod	
-421	2(ban2)-ta	_	_	0	nummod	
-422	'.	_	_	0	_	
-423	szunigin	Total	NNP	419	_	
-424	3(u)	_	_	0	nummod	
-425	la2	each	DT	430	det	
-426	1(u)	_	_	425	nummod	
-427	gurusz	male workers	NNS	418	_	
-428	1(barig)-ta	barig	NN	427	nummod	
-429	'.	_	_	0	_	
-430	szunigin	Total	NNP	428	_	
-431	1(u)	_	_	0	nummod	
-432	4(disz)	_	_	431	nummod	
-433	gurusz	male workers	NNS	427	_	
-434	5(ban2)-ta	ban each	NN	433	nummod	
-435	'.	_	_	0	_	
-436	szunigin	Total	NNP	434	_	
-437	7(disz)	_	_	0	nummod	
-438	gurusz	male workers	NNS	433	_	
-439	4(ban2)-ta	ban each	NN	438	nummod	
-440	'.	_	_	0	_	
-441	szunigin	Total	NNP	439	_	
-442	1(u)	_	_	0	nummod	
-443	la2	each	DT	448	det	
-444	1(disz)	_	_	443	nummod	
-445	gurusz	male workers	NNS	438	_	
-446	3(ban2)-ta	ban	NN	445	nummod	
-447	'.	_	_	0	_	
-448	szunigin	Total	NNP	446	nmod:npmod	
-449	2(disz)	_	_	0	nummod	
-450	dumu	children	NNS	445	_	
-451	2(ban2)-ta	ban each	NN	450	nummod	
-452	'.	_	_	0	_	
-453	szunigin	Total	NNP	451	nmod:npmod	
-454	6(disz)	_	_	0	nummod	
-455	dumu	children	NNS	450	_	
-456	1(ban2)	ban	NN	455	nummod	
-457	5(disz)	_	_	456	nummod	
-458	sila3-ta	sila each	NN	456	_	
-459	'.	_	_	0	_	
-460	szunigin	Total	NNP	458	nmod:npmod	
-461	8(disz)	_	_	0	nummod	
-462	dumu	children	NNS	455	_	
-463	1(ban2)-ta	ban each	NN	462	nummod	
-464	'.	_	_	0	_	
-465	sze-bi	Their barley	NN	463	_	
-466	1(u)	_	_	0	nummod	
-467	3(barig)	_	_	466	nummod	
-468	2(ban2)	barig ban	NN	469	nummod	
-469	gur	gur	NN	462	_	
-470	'.	_	.	101	_	
-471	giri3-se3-ga	personnel	NNS	468	acl:relcl	
-472	e2-usz-bar-me	They are house weavers	PRP	471	nsubj	
-473	'.	_	_	0	_	
-474	1(gesz'u)	_	_	0	nummod	
-475	6(gesz2)	_	_	474	nummod	
-476	2(u)	_	_	474	nummod	
-477	3(asz)	_	_	474	nummod	
-478	3(barig)	_	_	474	nummod	
-479	5(ban2)	barig ban	NN	482	nummod	
-480	gur	gur	NN	101	_	
-481	'.	_	.	101	_	
-482	sze-ba	barley rations	NNS	480	_	
-483	iti-da	Monthly	JJ	482	amod	
-484	'.	_	_	0	_	
-485	szunigin	Total	NNP	101	_	
-486	1(u)	_	_	0	nummod	
-487	1(disz)	_	_	486	nummod	
-488	gurusz	male workers	NNS	485	_	
-489	4(asz)-ta	each	DT	491	nummod	
-490	'.	_	_	0	_	
-491	szunigin	Total	JJ	488	appos	
-492	6(disz)	_	_	0	nummod	
-493	gurusz	male workers	NNS	491	_	
-494	2(asz)	_	_	0	nummod	
-495	2(barig)-ta	barig each	NN	493	nummod	
-496	'.	_	_	0	_	
-497	szunigin	Total	NNP	495	_	
-498	1(disz)	_	_	0	nummod	
-499	gurusz	male worker	NN	493	_	
-500	2(asz)	barig	NN	499	nummod	
-501	2(barig)	_	_	500	nummod	
-502	'.	_	:	499	_	
-503	x	_	_	0	dep	
-504	i3-du8	x porters	CC	500	cc	
-505	...	x porters	NNS	500	dep	
-506	'.	_	CD	513	nummod	
-507	lu2	_	_	0	_	
-508	azlag2	fullers they	NNS	509	compound	
-509	nu-dab5-me	are not holders	NNS	499	_	
-510	'.	_	:	509	_	
-511	3(gesz2)	_	_	0	nummod	
-512	4(asz)	_	_	511	nummod	
-513	gur	gur	NN	509	_	
-514	...	_	_	0	dep	
-515	'.	_	.	101	_	
-516	sze-ba	barley rations	NNS	509	_	
-517	za3-mu-ka	Annual	JJ	516	amod	
-518	'.	_	,	519	_	
-519	sze-ba	barley rations	NNS	520	nmod:of	
-520	nigin-ba	Final account	NN	101	_	
-521	'.	_	,	520	_	
-522	geme2	female	JJ	523	amod	
-523	usz-bar	weavers	NNS	519	conj	
-524	lu2	_	_	0	_	
-525	azlag2	fullers	NNS	519	conj	
-526	u3	and	CC	519	cc	
-527	giri3-se3-ga	personnel	NNS	519	conj	
-528	e2-usz-bar	house weavers	NN	527	nmod:of	
-529	'.	_	_	0	_	
-530	gir2-su{ki}-ta	from Girsu	NNP	520	nmod:from	
-531	'.	_	.	101	_	
-532	gu2-ab-ba{ki}-sze3	to Gu-abba	NN	530	nmod:to	
-533	'.	_	.	3	_	
-534	mu	Year	NN	101	_	
-535	ha-ar-szi{ki}	_	``	101	_	
-536	hu-ur5-ti{ki}	Hurti	NNP	537	conj	
-537	ba-hul	were destroyed	VBN	101	parataxis	
-538	 	_	NN	0	root	
-539	 	_	NN	538	appos	
-540	 	_	LS	539	_
-	
+# train/P120650.atf new_text=P120650
+1	1(u)	1(u)[ten]	NU	NU	11	nummod	projectivity violation	
+2	3(disz)	3(disz)[one]	NU	NU	1	nummod	_	
+3	geme2	geme[female_worker]	N	N	0	root	_	
+4	1(barig)	1(bariga)[unit]	NU	N	3	nummod	_	
+5	4(ban2)-ta	_	NU	NU	4	nummod	_	
+6	2(gesz2)	2(gesz)[sixty]	NU	NU	4	nummod	_	
+7	2(u)	2(u)[ten]	NU	NU	17	nummod	projectivity violation	
+8	9(disz)	9(disz)[one]	NU	NU	7	nummod	_	
+9	1(disz)	1(disz)[one]	NU	NU	8	nummod	_	
+10	geme2	geme[female_worker]	N	N	11	acl	_	
+11	1(barig)-ta	bariga[unit]-ta	NU	N.ABL	4	nummod	_	
+12	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	3	nummod	_	
+13	1(gesz2)	1(gesz)[sixty]	NU	NU	12	nummod	_	
+14	2(u)	2(u)[ten]	NU	NU	12	nummod	_	
+15	4(disz)	4(disz)[one]	NU	NU	12	nummod	_	
+16	geme2	geme[female_worker]	N	N	17	acl	_	
+17	4(ban2)-ta	_[female.workers]	NU	NU	12	nummod	_	
+18	3(gesz2)	3(gesz)[sixty]	NU	NU	12	nummod	_	
+19	2(u)	2(u)[ten]	NU	NU	29	nummod	projectivity violation	
+20	la2	la[hang][-ø]	V	NF.V.ABS	0	_	_	
+21	1(disz)	1(disz)[one]	NU	NU	20	nummod	_	
+22	geme2	geme[female_worker]	N	N	23	acl	_	
+23	3(ban2)-ta	3(ban)[unit]-ta	NU	N.ABL	12	nummod	_	
+24	2(gesz2)	2(gesz)[sixty]	NU	NU	12	nummod	_	
+25	1(gesz2)	1(gesz)[sixty]	NU	NU	34	nummod	projectivity violation	
+26	2(u)	2(u)[ten]	NU	NU	25	nummod	_	
+27	la2	la[hang][-ø]	V	NF.V.ABS	0	_	_	
+28	1(disz)	1(disz)[one]	NU	NU	27	nummod	_	
+29	dumu	dumu[child]	N	N	24	appos	_	
+30	2(ban2)-ta	_	NU	NU	31	nummod	heuristic: NU premodifying	
+31	2(gesz2)	2(gesz)[sixty]	NU	NU	12	nummod	_	
+32	2(u)	2(u)[ten]	NU	NU	40	nummod	projectivity violation	
+33	1(disz)	1(disz)[one]	NU	NU	32	nummod	_	
+34	dumu	dumu[child]	N	N	31	appos	_	
+35	1(ban2)	1(ban)[unit]	NU	N	12	nummod	_	
+36	5(disz)	5(disz)[one]	NU	NU	12	nummod	projectivity violation	
+37	sila3-ta	sila[unit]-ta	N	N.ABL	35	appos	_	
+38	6(gesz2)	6(gesz)[sixty]	NU	NU	44	nummod	projectivity violation	
+39	4(disz)	4(disz)[one]	NU	NU	38	nummod	_	
+40	dumu	dumu[child]	N	N	37	appos	_	
+41	1(ban2)-ta	_[ban.each]	NU	NU	12	nummod	_	
+42	5(u)	5(u)[ten]	NU	NU	3	nummod	projectivity violation	
+43	2(disz)	2(disz)[one]	NU	NU	42	nummod	_	
+44	geme2	geme[female_worker]	N	N	41	appos	_	
+45	szu-gi4	_[old]	PN	PN	44	acl	_	
+46	2(ban2)-ta	_[ban.each]	NU	NU	12	nummod	_	
+47	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	48	nmod	_	
+48	3(gesz2)	3(gesz)[sixty]	NU	NU	3	nummod	_	
+49	1(asz)	1(asz)[one]	NU	NU	48	nummod	_	
+50	4(ban2)	4(ban)[unit]	NU	N	48	nummod	_	
+51	5(disz)	5(disz)[one]	NU	NU	48	nummod	_	
+52	sila3	sila[unit]	N	N	53	_	_	
+53	gur	gur[unit]	N	N	48	appos	projectivity violation	
+54	geme2	geme[female_worker]	N	N	3	appos	projectivity violation	
+55	usz-bar-me	_[They.are.female.weavers]	N	N.3-SG-NH-POSS.ABS.COP-3-PL	52	acl	_	
+122	3(asz)	3(asz)[one]	NU	NU	0	nummod	_	
+123	4(barig)	4(bariga)[unit]	NU	N	122	nummod	_	
+154	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+155	1(asz)	1(asz)[one]	NU	NU	154	nummod	_	
+156	2(barig)	2(bariga)[unit]	NU	N	154	nummod	_	
+204	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+205	6(disz)	6(disz)[one][-sze]	NU	NU	204	nummod	_	
+265	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+266	1(gesz2)	1(gesz)[sixty]	NU	NU	265	nummod	_	
+270	5(gesz'u)	5(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+271	6(gesz2)	6(gesz)[sixty]	NU	NU	270	nummod	_	
+272	2(u)	2(u)[ten]	NU	NU	270	nummod	_	
+273	1(disz)	1(disz)[one]	NU	NU	270	nummod	_	
+277	5(u)	5(u)[ten]	NU	NU	0	nummod	_	
+278	la2	la[hang][-ø]	V	NF.V.ABS	277	_	_	
+279	2(disz)	2(disz)[one]	NU	NU	278	nummod	_	
+283	3(gesz2)	3(gesz)[sixty]	NU	NU	0	nummod	_	
+284	3(disz)	3(disz)[one]	NU	NU	283	nummod	_	
+288	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+289	1(gesz2)	1(gesz)[sixty]	NU	NU	288	nummod	_	
+290	4(u)	4(u)[ten]	NU	NU	288	nummod	_	
+296	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+297	7(gesz2)	7(gesz)[sixty]	NU	NU	296	nummod	_	
+298	la2	la[hang][-ø]	V	NF.V.ABS	296	_	_	
+299	1(disz)	1(disz)[one]	NU	NU	298	nummod	_	
+303	2(gesz2)	2(gesz)[sixty]	NU	NU	0	nummod	_	
+304	3(disz)	3(disz)[one]	NU	NU	303	nummod	_	
+319	4(gesz2)	4(gesz)[sixty]	NU	NU	0	nummod	_	
+320	1(u)	1(u)[ten]	NU	NU	319	nummod	_	
+321	5(disz)	5(disz)[one]	NU	NU	319	nummod	_	
+329	4(u)	4(u)[ten]	NU	NU	0	nummod	_	
+330	2(disz)	2(disz)[one]	NU	NU	329	nummod	_	
+338	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+339	7(disz)	7(disz)[one][-sze]	NU	NU	338	nummod	_	
+345	3(gesz2)	3(gesz)[sixty]	NU	NU	0	nummod	_	
+346	3(u)	3(u)[ten]	NU	NU	345	nummod	_	
+360	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+361	6(gesz2)	6(gesz)[sixty]	NU	NU	360	nummod	_	
+362	1(u)	1(u)[ten]	NU	NU	360	nummod	_	
+363	4(disz)	4(disz)[one]	NU	NU	360	nummod	_	
+368	1(gesz2)	1(gesz)[sixty]	NU	NU	0	nummod	_	
+369	1(disz)	1(disz)[one]	NU	NU	368	nummod	_	
+374	1(szar2)	1(szar)[unit]	NU	N	0	nummod	_	
+375	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	374	nummod	_	
+376	6(gesz2)	6(gesz)[sixty]	NU	NU	374	nummod	_	
+377	4(u)	4(u)[ten]	NU	NU	374	nummod	_	
+378	4(disz)	4(disz)[one]	NU	NU	374	nummod	_	
+383	4(u)	4(u)[ten]	NU	NU	0	nummod	_	
+384	8(disz)	8(disz)[one]	NU	NU	383	nummod	_	
+389	7(gesz2)	7(gesz)[sixty]	NU	NU	0	nummod	_	
+390	5(u)	5(u)[ten]	NU	NU	389	nummod	_	
+391	3(disz)	3(disz)[one]	NU	NU	389	nummod	_	
+396	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+397	7(gesz2)	7(gesz)[sixty]	NU	NU	396	nummod	_	
+398	1(u)	1(u)[ten]	NU	NU	396	nummod	_	
+399	5(disz)	5(disz)[one]	NU	NU	396	nummod	_	
+406	2(gesz'u)	2(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+407	7(gesz2)	7(gesz)[sixty]	NU	NU	406	nummod	_	
+408	1(u)	1(u)[ten]	NU	NU	406	nummod	_	
+409	3(disz)	3(disz)[one]	NU	NU	406	nummod	_	
+414	3(gesz2)	3(gesz)[sixty]	NU	NU	0	nummod	_	
+415	2(u)	2(u)[ten]	NU	NU	414	nummod	_	
+431	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+432	4(disz)	4(disz)[one]	NU	NU	431	nummod	_	
+466	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+467	3(barig)	3(bariga)[unit]	NU	N	466	nummod	_	
+474	1(gesz'u)	1(gesz'u)[six_hundred]	NU	NU	0	nummod	_	
+475	6(gesz2)	6(gesz)[sixty]	NU	NU	474	nummod	_	
+476	2(u)	2(u)[ten]	NU	NU	474	nummod	_	
+477	3(asz)	3(asz)[one]	NU	NU	474	nummod	_	
+478	3(barig)	3(bariga)[unit]	NU	N	474	nummod	_	
+486	1(u)	1(u)[ten]	NU	NU	0	nummod	_	
+487	1(disz)	1(disz)[one]	NU	NU	486	nummod	_	
+511	3(gesz2)	3(gesz)[sixty]	NU	NU	0	nummod	_	
+512	4(asz)	4(asz)[one]	NU	NU	511	nummod	_	
 

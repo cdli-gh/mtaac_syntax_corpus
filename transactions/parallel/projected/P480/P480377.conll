@@ -1,40 +1,10 @@
-# train/P480377.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
+# train/P480377.atf new_text=P480377
+# train/P480377.atf						#new_text=P480377
 # tr.en: sheep barley-fed big-billy barley-fed Szimagian to kitchen because of runners ARADgu is enforcer of month th day has passed in Uruk booked out from Lu-dingira month ubi feast year Kima and urti were destroyed sheep
-1	4(disz)	_	,	2	nummod	
-2	udu	sheep	NN	0	root	
-3	niga	barley-fed	_	0	_	
-4	1(disz)	_	,	7	nummod	
-5	masz2-gal	big-billy	_	0	_	
-6	niga	barley-fed	JJ	2	amod	
-7	szimaszgi2	Szimagian	JJ	34	_	
-8	e2	_	_	0	_	
-9	muhaldim-sze3	to kitchen	NN	7	nmod:to	
-10	mu	_	:	7	_	
-11	kas4-ke4-ne-sze3	because runners	NNS	7	nmod:because	
-12	ARAD2-mu	ARADgu is	NN	13	nsubj	
-13	maszkim	enforcer	NN	7	parataxis	
-14	iti	month	NN	7	conj	
-15	u4	th day	NN	17	nsubj	
-16	5(disz)	_	:	7	nummod	
-17	ba-zal	has passed	VBN	14	acl:relcl	
-18	sza3	in	IN	19	nmod:in	
-19	unu{ki}-ga	Uruk	NNP	7	conj	
-20	zi-ga	booked out	VBD	19	acl	
-21	ki	from	IN	23	nmod:from	
-22	lu2-dingir-ra	Lu-dingira	NN	23	compound	
-23	iti	month	NN	7	nmod:from	
-24	u5-bi2-gu7	ubi feast	NN	23	_	
-25	mu	year	NN	24	_	
-26	ki-masz{ki}	_	:	24	_	
-27	u3	and	CC	29	cc	
-28	hu-ur5-ti{ki}	urti	NNP	29	conj	
-29	ba-hul	were destroyed	VBN	24	acl	
-30	5(disz)	_	.	2	nummod	
-31	udu	sheep	NN	24	_	
-32	 	_	NN	0	root	
-33	 	_	.	32	_	
-34	 	_	CD	33	appos
-	
+1	4(disz)	4(disz)[one]	NU	NU	2	nummod	_	
+2	udu	udu[sheep]	N	N	0	root	_	
+3	niga	niga[fattened][-ø]	V	NF.V.ABS	2	_	heuristic: after nominal head	
+6	niga	niga[fattened][-ø]	V	NF.V.ABS	2	acl	_	
+30	5(disz)	5(disz)[one]	NU	NU	2	nummod	projectivity violation	
 

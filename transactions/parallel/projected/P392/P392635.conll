@@ -1,31 +1,30 @@
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # train/P392635.atf
-						
-
 # tr.en: nua ewes and lambs nua female and male goats of Abi-Ebih ewes female goats of Ur-nigar butcher from Intaea Ur-kunna took into his command Month Akiti year Szarum was destroyed
-1	1(u)	_	,	2	nummod	
-2	u8	ewes	NNS	0	root	
-3	sila4	lambs	NNS	2	conj	
-4	nu-a	nua and	NN	2	compound	
-5	1(u)	_	,	2	nummod	
-6	ud5	_	_	0	_	
-7	masz2	goats	NNS	2	conj	
-8	nu-a	nua female and male	NN	2	conj	
-9	a-bi-a-bi-ih	Abi-Ebih	NNP	2	nmod:of	
-10	1(u)	_	,	11	nummod	
-11	u8	ewes	NNS	2	conj	
-12	1(u)	_	,	11	nummod	
-13	ud5	female goats	NNS	11	appos	
-14	ur-nigar{gar}	Ur-nigar	JJ	15	amod	
-15	ab2-rig5-e	butcher	NN	11	nmod:of	
-16	ki	from	IN	17	nmod:from	
-17	in-ta-e3-a-ta	Intaea	NN	2	nmod:from	
-18	ur-ku3-nun-na	Ur-kunna	NN	19	nsubj	
-19	i3-dab5	took into his command	VBD	17	acl:relcl	
-20	iti	Month	NNP	22	compound	
-21	a2-ki-ti	Akiti	NNP	20	_	
-22	mu	year	NN	17	_	
-23	sza-asz-ru{ki}	_	``	22	_	
-24	ba-hul	was destroyed	VBD	25	auxpass	
-25	4(u)	was destroyed	VBN	22	nummod
+1	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+2	u8	u[ewe]	N	N	0	root	_	
+3	sila4	sila[lamb]	N	N	2	appos	_	
+4	nu-a	_[nua.and]	V	V	2	acl	_	
+5	1(u)	1(u)[ten]	NU	NU	2	nummod	_	
+6	ud5	uzud[goat]	N	N	2	_	heuristic: after nominal head	
+7	masz2	masz[goat]	N	N	2	appos	_	
+8	nu-a	_[nua.female.and.male]	V	V	2	acl	_	
+9	a-bi-a-bi-ih	_[Abi-Ebih]	PN	PN	2	GEN	_	
+10	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+11	u8	u[ewe]	N	N	2	appos	_	
+12	1(u)	1(u)[ten]	NU	NU	11	nummod	_	
+13	ud5	uzud[goat]	N	N	11	appos	_	
+14	ur-nigar{gar}	Urnigar[1]	PN	PN	15	acl	_	
+15	ab2-rig5-e	_[butcher]	N	N.3-SG-H-POSS.DAT-H	11	GEN	_	
+16	ki	ki[place]	N	N	17	ABL	_	
+17	in-ta-e3-a-ta	Inta'e'a[1][-ak]-ta	PN	PN.GEN.ABL	2	ABL	_	
+18	ur-ku3-nun-na	Urkununa[1][-e]	PN	PN	19	ABS	_	
+19	i3-dab5	i[-n]-dab[seize][-ø]	V	FIN.3-SG-H-A.V.3-SG-P	17	acl	_	
+20	iti	iti[month]	N	N	22	nmod	_	
+21	a2-ki-ti	Akiti[1][-'a]	N	MN.L1	20	appos	_	
+22	mu	mu[year]	N	N	17	appos	_	
+23	sza-asz-ru{ki}	Szaszru[1][-ø]	SN	SN.ABS	22	appos	_	
+24	ba-hul	ba-hulu[destroy][-ø]	V	MID.V.3-SG-S	25	acl	_	
+25	4(u)	4(u)[ten]	NU	NU	22	nummod	_
 	
 

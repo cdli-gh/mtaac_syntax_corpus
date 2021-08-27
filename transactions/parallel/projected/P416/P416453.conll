@@ -1,45 +1,44 @@
-# test/P416453.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: sheep Liptum received sheep ewes n bucks responsible official of Uruk the th day from Duga booked out via Ur-Baba scribe month Festival of An year en-priestess of Eridu was hired small cattle
-1	2(disz)	_	_	0	nummod	
-2	udu	sheep	NN	3	compound	
-3	li-ip-tum	Liptum	NNP	5	nsubj	
-4	szu	_	CD	8	nummod	
-5	ba-ti	received	VBD	0	root	
-6	2(gesz2)	_	,	8	nummod	
-7	5(disz)	_	CD	10	nummod	
-8	udu	sheep	NN	5	dobj	
-9	1(u)	_	_	0	nummod	
-10	u8	ewes	NNS	8	conj	
-11	n	_	,	8	_	
-12	masz2-gal	bucks	NNS	8	conj	
-13	...	_	_	0	dep	
-14	x-mu	_	_	0	_	
-15	...	_	_	0	dep	
-16	...	_	_	0	dep	
-17	x-x	_	:	8	dep	
-18	...	_	_	0	dep	
-19	maszkim	responsible official	NN	8	appos	
-20	unu{ki}-ga	Uruk	NNP	8	nmod:of	
-21	u4	the th day	NN	20	appos	
-22	2(u)	_	,	20	nummod	
-23	6(disz)-kam	_	_	22	nummod	
-24	ki	from	IN	25	nmod:from	
-25	du11-ga-ta	Duga	NNP	20	nmod:from	
-26	ba-zi	booked out	VBD	20	acl	
-27	giri3	via	IN	28	nmod:via	
-28	ur-{d}ba-ba6	Ur-Baba	NNP	8	nmod:via	
-29	dub-sar	scribe	NN	28	appos	
-30	iti	month	NN	32	compound	
-31	ezem-an-na	Festival	NNP	30	_	
-32	mu	year	NN	5	_	
-33	en	en-priestess	NN	36	nsubjpass	
-34	eridu{ki}	Eridu	NNP	33	nmod:of	
-35	ba-hun	was hired	VBD	36	auxpass	
-36	2(gesz2)	was hired	VBN	32	nummod	
-37	3(u)	_	.	5	nummod	
-38	1(disz)	_	_	37	nummod	
-39	udu	small cattle	NNS	5	dobj
+# test/P416453.atf
+1	2(disz)	2(disz)[one]	NU	NU	0	nummod	_	
+2	udu	udu[sheep]	N	N	3	nmod	_	
+3	li-ip-tum	_[Liptum]	N	N	5	ERG	projectivity violation	
+4	szu	szu[hand][-e]	N	N.L3-NH	8	nummod	projectivity violation	
+5	ba-ti	ba[-n]-teg[accept][-ø]	V	MID.3-SG-H-A.V.3-SG-P	0	root	_	
+6	2(gesz2)	2(gesz)[sixty]	NU	NU	8	nummod	projectivity violation	
+7	5(disz)	5(disz)[one]	NU	NU	10	nummod	projectivity violation	
+8	udu	udu[sheep]	N	N	5	ABS	_	
+9	1(u)	1(u)[ten]	NU	NU	10	nummod	heuristic: NU premodifying	
+10	u8	u[ewe]	N	N	8	appos	_	
+11	n	_(_)[_]	NU	NU	8	nummod	_	
+12	masz2-gal	maszgal[billy_goat]	N	N	8	appos	_	
+13	...	_[_]	PN	N	12	dep	heuristic: attach to last	
+14	x-mu	_	PN	PN	13	_	heuristic: attach to last	
+15	...	_[_]	PN	N	14	dep	heuristic: attach to last	
+16	...	_[_]	PN	N	15	dep	heuristic: attach to last	
+17	x-x	_[_]	PN	N.2-SG-POSS.ABS	16	dep	heuristic: attach to last	
+18	...	_[_]	PN	N	17	dep	heuristic: attach to last	
+19	maszkim	maszkim[administrator]	N	N.ABS	8	appos	_	
+20	unu{ki}-ga	Unug[1]-ak[-ak][-ø]	SN	SN.GEN	8	GEN	_	
+21	u4	ud[day]	N	N	20	appos	_	
+22	2(u)	2(u)[ten]	NU	NU	20	nummod	_	
+23	6(disz)-kam	6(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	22	nummod	_	
+24	ki	ki[place]	N	N	25	ABL	_	
+25	du11-ga-ta	_[Duga]	PN	PN.GEN.ABL	20	ABL	_	
+26	ba-zi	ba-zig[expend][-ø]	PN	MID.V.3-SG-S	20	acl	_	
+27	giri3	giri[foot]	N	N	28	via	_	
+28	ur-{d}ba-ba6	Urbaba[1]	PN	PN	8	via	_	
+29	dub-sar	dubsar[scribe]	N	N	28	appos	_	
+30	iti	iti[month]	N	N	32	nmod	_	
+31	ezem-an-na	Ezemanna[1][-'a]	MN	MN.L1	30	appos	_	
+32	mu	mu[year]	N	N	5	appos	_	
+33	en	en[priest]	N	N	36	ABS	_	
+34	eridu{ki}	Eridug[1][-ak][-ø]	SN	SN.GEN.ABS	33	GEN	_	
+35	ba-hun	ba-hug[hire][-ø]	V	MID.V.3-SG-S	36	acl	_	
+36	2(gesz2)	2(gesz)[sixty]	NU	NU	32	nummod	_	
+37	3(u)	3(u)[ten]	NU	NU	5	nummod	_	
+38	1(disz)	1(disz)[one]	NU	NU	37	nummod	_	
+39	udu	udu[sheep]	N	N	5	ABS	_
 	
 

@@ -1,78 +1,77 @@
-# train/P102301.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: barley Ur- ee field area gur Adaga scribe iku field area barig ban extra prebend of Lu-Szara iku field area barig ban extra prebend of Lugal-Suen cultivation ee field area its barley gur prebend of Lu-Szara iku field area gur Ur-gigir bur field area gur Lugal-Kuzu ee field area gur Lu-duga son of Lugal-kiri long field harvest time at field year king of Ur
-1	...	_	_	0	dep	
-2	x	_	NN	3	dep	
-3	sze	barley	NN	0	root	
-4	x	_	JJ	7	amod	
-5	...	_	_	0	dep	
-6	ur-...	_	_	0	_	
-7	x	_	NN	0	root	
-8	1(esze3)	Ur-	_	0	nummod	
-9	GAN2	ee field area	NN	4	_	
-10	2(asz)	_	_	0	nummod	
-11	gur	gur	NN	4	_	
-12	a-da-ga	Adaga	NNP	13	compound	
-13	dub-sar	scribe	NN	11	appos	
-14	1/2(iku)	_	DT	15	nummod	
-15	1/4(iku)	_	NN	20	nummod	
-16	GAN2	iku field area	NN	11	compound	
-17	2(barig)	iku field area	NN	11	nummod	
-18	3(ban2)	_	:	15	nummod	
-19	diri	extra	JJ	11	amod	
-20	szuku	prebend	NN	11	appos	
-21	lu2-{d}szara2	Lu-Szara	NNP	20	nmod:of	
-22	mu6-sub3	of	IN	21	nmod:of	
-23	3(iku)	_	:	15	nummod	
-24	GAN2	iku field area	NN	15	_	
-25	1(asz)	_	_	0	nummod	
-26	2(barig)	_	_	25	nummod	
-27	3(ban2)	barig ban	NN	24	nummod	
-28	diri	extra	JJ	27	amod	
-29	szuku	prebend	NN	27	appos	
-30	lugal-{d}suen	Lugal-Suen	NNP	29	nmod:of	
-31	apin-la2-am3	cultivation	NN	15	_	
-32	1(esze3)	_	,	36	nummod	
-33	GAN2	ee field area	NN	15	_	
-34	sze-bi	its barley	NN	33	appos	
-35	8(asz)	_	_	0	nummod	
-36	gur	gur	NN	33	_	
-37	szuku	prebend	NN	36	appos	
-38	lu2-{d}szara2	Lu-Szara	NNP	37	nmod:of	
-39	mu6-sub3	of	IN	38	nmod:of	
-40	4(iku)	_	,	43	nummod	
-41	GAN2	iku	NN	45	compound	
-42	6(asz)	_	NN	43	nummod	
-43	gur	gur	NN	45	_	
-44	ur-{gesz}gigir	Ur-gigir	NN	43	appos	
-45	igi-du8	field area	NN	36	_	
-46	1(bur3)	_	:	50	nummod	
-47	GAN2	bur field area	NN	43	_	
-48	2(u)	_	CD	53	nummod	
-49	5(asz)	_	_	48	nummod	
-50	gur	gur	NN	47	_	
-51	lugal-ku3-zu	Lugal-Kuzu	NNP	50	appos	
-52	1(esze3)	_	:	55	nummod	
-53	GAN2	ee field area	NN	50	_	
-54	6(asz)	_	_	0	nummod	
-55	gur	gur	NN	53	_	
-56	lu2-du10-ga	Lu-duga	NN	55	appos	
-57	dumu	son	NN	55	appos	
-58	lugal-{gesz}kiri6	Lugal-kiri	NN	57	nmod:of	
-59	a-sza3	field	NN	55	_	
-60	gid2-da	long	JJ	59	amod	
-61	buru14	harvest time	NN	59	appos	
-62	a-sza3	field	NN	59	nmod:at	
-63	x-nu-kusz2	at	IN	62	nmod:at	
-64	mu	year	NN	66	_	
-65	...	_	NN	66	nmod:of	
-66	lugal	king	NN	55	_	
-67	uri5{ki}	Ur	_	0	_	
-68	...	_	_	0	dep	
-69	x	_	,	66	dep	
-70	x	_	NN	66	dep	
-71	x	_	.	7	dep	
-72	x	_	''	7	dep
+# train/P102301.atf
+1	...	_[_]	PN	N	0	dep	_	
+2	x	_[_]	N	N	3	dep	_	
+3	sze	sze[barley]	N	N	0	root	_	
+4	x	_[_]	N	N	7	dep	_	
+5	...	_[_]	PN	N	4	dep	heuristic: after nominal head	
+6	ur-...	_[1][-ak]	PN	PN.GEN.ABS	4	_	heuristic: after nominal head	
+7	x	_[_]	N	N	0	dep	_	
+8	1(esze3)	1(esze)[unit]	NU	N	9	nummod	heuristic: NU premodifying	
+9	GAN2	gana[field]	N	N	4	appos	_	
+10	2(asz)	2(asz)[one]	NU	NU	11	nummod	heuristic: NU premodifying	
+11	gur	gur[unit]	N	N	4	appos	_	
+12	a-da-ga	Adaga[1]	PN	PN	13	nmod	_	
+13	dub-sar	dubsar[scribe]	N	N	11	appos	_	
+14	1/2(iku)	1/2(iku)[unit]	NU	N	15	nummod	_	
+15	1/4(iku)	1/4(iku)[unit]	NU	N	20	nummod	projectivity violation	
+16	GAN2	gana[field]	N	N	11	appos	projectivity violation	
+17	2(barig)	2(bariga)[unit]	NU	N	11	nummod	projectivity violation	
+18	3(ban2)	3(ban)[unit]	NU	N	15	nummod	_	
+19	diri	diri[intercalary_month]	N	N	11	acl	projectivity violation	
+20	szuku	szukur[prebend_land]	N	N	11	appos	projectivity violation	
+21	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	20	GEN	_	
+22	mu6-sub3	_[of]	N	N	21	GEN	_	
+23	3(iku)	3(iku)[unit]	NU	N	15	nummod	_	
+24	GAN2	gana[field]	N	N	15	appos	_	
+25	1(asz)	1(asz)[one]	NU	NU	0	nummod	_	
+26	2(barig)	2(bariga)[unit]	NU	N	25	nummod	_	
+27	3(ban2)	3(ban)[unit]	NU	N	24	nummod	_	
+28	diri	diri[intercalary_month]	N	N	27	acl	_	
+29	szuku	szukur[prebend_land]	N	N	27	appos	_	
+30	lugal-{d}suen	_[Lugal-Suen]	PN	PN.DAT-H	29	GEN	_	
+31	apin-la2-am3	_[cultivation]	N	N.ABS.COP-3-SG	15	appos	_	
+32	1(esze3)	1(esze)[unit]	NU	N	36	nummod	projectivity violation	
+33	GAN2	gana[field]	N	N	15	appos	_	
+34	sze-bi	sze[barley]-bi[-ø]	N	N.3-SG-NH-POSS.ABS	33	appos	_	
+35	8(asz)	8(asz)[one]	NU	NU	36	nummod	heuristic: NU premodifying	
+36	gur	gur[unit]	N	N	33	appos	_	
+37	szuku	szukur[prebend_land]	N	N	36	appos	_	
+38	lu2-{d}szara2	Luszara[1][-ak]	PN	PN	37	GEN	_	
+39	mu6-sub3	_[of]	N	N	38	GEN	_	
+40	4(iku)	4(iku)[unit]	NU	N	43	nummod	projectivity violation	
+41	GAN2	gana[field]	N	N	45	nmod	projectivity violation	
+42	6(asz)	6(asz)[one]	NU	NU	43	nummod	_	
+43	gur	gur[unit]	N	N	45	_	_	
+44	ur-{gesz}gigir	Urgigir[1]	PN	PN	43	appos	_	
+45	igi-du8	igidua[priestess][-ak]	N	N.GEN	36	appos	projectivity violation	
+46	1(bur3)	1(bur)[unit]	NU	N	50	nummod	projectivity violation	
+47	GAN2	gana[field]	N	N	43	appos	_	
+48	2(u)	2(u)[ten]	NU	NU	53	nummod	projectivity violation	
+49	5(asz)	5(asz)[one]	NU	NU	48	nummod	_	
+50	gur	gur[unit]	N	N	47	appos	_	
+51	lugal-ku3-zu	Lugalkuzu[1]	PN	PN	50	appos	_	
+52	1(esze3)	1(esze)[unit]	NU	N	55	nummod	projectivity violation	
+53	GAN2	gana[field]	N	N	50	appos	_	
+54	6(asz)	6(asz)[one]	NU	NU	55	nummod	heuristic: NU premodifying	
+55	gur	gur[unit]	N	N	53	appos	_	
+56	lu2-du10-ga	Luduga[1]	PN	PN	55	appos	_	
+57	dumu	dumu[child]	N	N	55	appos	_	
+58	lugal-{gesz}kiri6	Lugalkiri[1]	PN	PN	57	GEN	_	
+59	a-sza3	aszag[field]	N	N	55	appos	_	
+60	gid2-da	gid[lengthen]-a[-ø]	V	NF.V.PT	59	acl	_	
+61	buru14	_[harvest.time]	N	N	59	appos	_	
+62	a-sza3	aszag[field]	N	N	59	LOC	_	
+63	x-nu-kusz2	_[at]	FN	FN	62	LOC	_	
+64	mu	mu[year]	N	N	66	_	_	
+65	...	_[_]	PN	N	66	dep	_	
+66	lugal	lugal[king]	N	N	55	appos	_	
+67	uri5{ki}	Urim[1][-ak]	SN	SN.GEN	66	_	heuristic: after nominal head	
+68	...	_[_]	PN	N	66	dep	heuristic: after nominal head	
+69	x	_[_]	N	N	66	dep	_	
+70	x	_[_]	N	N	66	dep	_	
+71	x	_[_]	N	N	0	dep	detached for projectivity	
+72	x	_[_]	N	N	0	dep	detached for projectivity
 	
 

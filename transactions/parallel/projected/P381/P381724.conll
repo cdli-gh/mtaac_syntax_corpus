@@ -1,191 +1,190 @@
-# test/P381724.atf
-						
-
+# global.columns = ID WORD SEGM POS MORPH HEAD EDGE MISC
 # tr.en: workmen supervisor Ur-gigir supervisor Igizubara supervisor Ur-Nigar supervisor Lu-Baba Together workmen Therefrom royal entourage uzga house slaughterhouse chaff carriers of royal barge of grooms kitchen with Ur-nigar kitchen with Ur-Nane brewery with Lugal-anatum brewery with Ur-mes household of Ur-Namma in Sagdana flour carrier with Ur-Baba flour carrier with Namma flour carrier with Kugal-inimgi clay carriers in storage house stationed scribe of labor scribe of oil and dates scribe of -straw scribe of arzana scribe of flour groats spelt scribe of fish and vegetables Ur-Ninazu Ursaga with Namma Ur-Baba mouth of palace hung boat to reeds of Uruk boat of willow boat of household of governor reed carriers in Nippur boat of Isin Ki-Suen pise plasterers sick Alla sick Lu-Ea gudu-priest of Meslamtaea Total workers on hand out of town supervisor Igizubara out of town deficit supervisor Ur-gigir th day month Festival of Lisi
-1	1(gesz2)	_	,	4	nummod	
-2	3(u)	_	DT	10	nummod	
-3	7(disz)	_	_	2	nummod	
-4	gurusz	workmen	NNS	0	root	
-5	nu-banda3	supervisor	_	0	_	
-6	ur-{gesz}gigir	Ur-gigir	_	0	_	
-7	1(gesz2)	_	:	11	nummod	
-8	la2	_	CD	7	_	
-9	2(disz@t)	_	,	8	nummod	
-10	nu-banda3	supervisor	NN	4	appos	
-11	igi-zu-bar-ra	Igizubara	NN	4	_	
-12	3(u)	_	:	15	nummod	
-13	6(disz)	_	CD	12	nummod	
-14	nu-banda3	supervisor	NN	8	appos	
-15	ur-nigar{gar}	Ur-Nigar	NN	8	_	
-16	6(disz)	_	:	23	nummod	
-17	nu-banda3	supervisor	NN	13	appos	
-18	lu2-{d}ba-ba6	Lu-Baba	NNP	23	_	
-19	szunigin	Together	RB	23	_	
-20	3(gesz2)	_	.	23	nummod	
-21	1(u)	_	_	20	nummod	
-22	7(disz)	_	_	20	nummod	
-23	gurusz	workmen	NNS	13	_	
-24	sza3-bi-ta	Therefrom	NNP	23	_	
-25	3(u)	_	:	24	nummod	
-26	lugal-ra-us2-sa	royal entourage	NN	24	appos	
-27	1(u)	_	:	28	nummod	
-28	e2-uz-ga	uzga house	NN	24	_	
-29	5(disz)	_	:	28	nummod	
-30	e2-gu4-gaz	slaughterhouse	NN	28	appos	
-31	5(disz)	_	CD	32	nummod	
-32	duh-IL2	chaff carriers	NNS	28	_	
-33	5(disz)	_	CD	31	nummod	
-34	gu2	_	NN	33	appos	
-35	gir	of	IN	39	nmod:of	
-36	5(disz)	_	_	0	nummod	
-37	gu2	_	_	0	_	
-38	gir	_	_	0	_	
-39	ma2	barge	NN	31	nmod:of	
-40	lugal	royal	JJ	39	amod	
-41	5(asz)	_	DT	42	nummod	
-42	gu2	_	NN	34	nmod:of	
-43	gir	of	IN	42	nmod:of	
-44	murgu2	_	CD	48	nummod	
-45	gur8	_	,	48	_	
-46	3(disz)	_	:	48	nummod	
-47	sipa	_	CD	48	_	
-48	{ansze}si2-si2	grooms	NNS	33	_	
-49	2(u)	_	:	47	nummod	
-50	la2	_	CD	58	nummod	
-51	2(disz@t)	_	,	50	nummod	
-52	<e2>-muhaldim	kitchen with	NN	47	appos	
-53	ki	_	_	0	_	
-54	ur-nigar{gar}	Ur-nigar	NN	47	nmod:with	
-55	2(u)	_	:	47	nummod	
-56	la2	_	CD	62	nummod	
-57	2(disz@t)	_	,	56	nummod	
-58	<e2>-muhaldim	kitchen with	NN	47	conj	
-59	ki	_	_	0	_	
-60	ur-{d}nansze	Ur-Nane	NN	58	nmod:with	
-61	5(disz)	_	:	47	nummod	
-62	e2-lunga	brewery	NN	47	conj	
-63	ki	with	IN	64	nmod:with	
-64	lugal-an-na-tum2	Lugal-anatum	NN	62	nmod:with	
-65	2(disz)	_	:	47	nummod	
-66	e2-lunga	brewery with	NN	47	conj	
-67	ki	_	CD	47	_	
-68	ur-mes	Ur-mes	NNS	66	nmod:with	
-69	1(disz)	_	CD	70	nummod	
-70	e2	household	NN	67	root	
-71	ur-{d}namma	Ur-Namma	NN	70	nmod:of	
-72	1(disz)	_	,	75	nummod	
-73	gu2	_	CD	75	amod	
-74	tul2	_	,	75	_	
-75	sag-da-na	in Sagdana	NNP	69	nmod:in	
-76	1(disz)	_	:	79	nummod	
-77	zi3-IL2	flour carrier	NN	75	appos	
-78	ki	with	IN	79	nmod:with	
-79	ur-{d}ba-ba6	Ur-Baba	NN	69	nmod:with	
-80	1(disz)	_	:	81	nummod	
-81	zi3-IL2	flour carrier	NN	79	_	
-82	ki	with	IN	83	nmod:with	
-83	nam-mah	Namma	NN	81	nmod:with	
-84	1(disz)	_	:	85	nummod	
-85	zi3-IL2	flour carrier	NN	81	_	
-86	ki	with	IN	87	nmod:with	
-87	lugal-inim-gi	Kugal-inimgi	NN	85	nmod:with	
-88	2(disz)	_	:	89	nummod	
-89	im-IL2	clay carriers	NNS	130	nsubj	
-90	2(disz)	_	:	89	nummod	
-91	ga2-nun-da	in storage house stationed	NN	89	nmod:in	
-92	tusz-a	_	CD	89	_	
-93	1(disz)	_	:	89	nummod	
-94	dub-sar	scribe	NN	92	appos	
-95	gesz-kin-ti	labor	NN	94	nmod:of	
-96	1(disz)	_	:	89	nummod	
-97	dub-sar	scribe	NN	89	appos	
-98	i3	oil	NN	97	nmod:of	
-99	zu2-lum	and dates	CC	98	cc	
-100	1(disz)	_	:	89	nummod	
-101	dub-sar	scribe	NN	89	appos	
-102	in-bul5-bul5	-straw	NN	101	nmod:of	
-103	1(disz)	_	CD	89	nummod	
-104	dub-sar	scribe	NN	89	appos	
-105	ar-za-na	arzana	NN	104	nmod:of	
-106	1(disz)	_	:	89	nummod	
-107	dub-sar	scribe	NN	103	appos	
-108	zi3	flour	NN	107	nmod:of	
-109	nig2-ar-ra	groats	NNS	108	conj	
-110	imgaga3	spelt	VBN	108	acl	
-111	1(disz)	_	:	89	nummod	
-112	dub-sar	scribe	NN	89	appos	
-113	ku6	fish	NN	112	nmod:of	
-114	nisi	and vegetables	CC	113	cc	
-115	1(disz)	_	:	89	nummod	
-116	ur-{d}nin-a-zu	Ur-Ninazu	NNP	89	appos	
-117	1(disz)	_	NN	89	nummod	
-118	ur-sa6-ga	_	CD	89	_	
-119	durunx(|KU.KU|)	Ursaga	NNP	117	compound	
-120	1(disz)	_	:	89	nummod	
-121	ki	with	IN	122	nmod:with	
-122	nam-mah	Namma	NN	118	nmod:with	
-123	1(disz)	_	NN	89	nummod	
-124	ur-{d}ba-ba6	Ur-Baba	NNP	123	compound	
-125	gaba-ta	_	CD	89	_	
-126	1(disz)	_	:	89	nummod	
-127	ka	mouth	NN	125	appos	
-128	e2-gal	palace	NN	127	nmod:of	
-129	2(disz)	_	:	85	nummod	
-130	ma2-la2-a	hung boat to	VBD	85	parataxis	
-131	gi	reeds	NNS	130	nmod:to	
-132	unu{ki}-sze3	Uruk	NNP	131	nmod:of	
-133	5(disz)	_	:	134	nummod	
-134	ma2	boat	NN	85	root	
-135	{gesz}ma-nu	willow	NN	134	nmod:of	
-136	1(u)	_	CD	137	nummod	
-137	ma2	boat	NN	134	_	
-138	gi-la2	of	IN	137	nmod:of	
-139	1(u)	_	:	140	nummod	
-140	e2	household	NN	136	root	
-141	ensi2	governor	NN	140	nmod:of	
-142	3(disz)	_	:	140	nummod	
-143	gi-IL2	reed carriers	NNS	140	conj	
-144	sza3	in	IN	145	nmod:in	
-145	nibru{ki}	Nippur	NNP	143	nmod:in	
-146	3(disz)	_	CD	147	nummod	
-147	ma2	boat	NN	140	root	
-148	i3-si-in{ki}	Isin	NN	147	nmod:of	
-149	7(disz)	_	:	146	nummod	
-150	|ZI&amp;ZI|-sze3	Ki-Suen	NNP	146	appos	
-151	ki-{d}suen	_	CD	155	nummod	
-152	2(u)	_	:	146	nummod	
-153	la2	_	CD	157	compound	
-154	3(disz@t)	_	,	153	nummod	
-155	im-du8-a	pise plasterers	NNS	146	_	
-156	1(disz)	_	:	146	nummod	
-157	tu	sick	JJ	146	_	
-158	al-la	Alla	NNP	157	appos	
-159	1(disz)	_	:	146	nummod	
-160	tu	sick	JJ	161	amod	
-161	lu2-e2-a	Lu-Ea	NN	146	_	
-162	1(disz)	_	:	163	nummod	
-163	gudu4	gudu-priest	NN	178	_	
-164	{d}mes-lam-ta-e3-a	Meslamtaea	NN	163	nmod:of	
-165	szunigin	Total	NNP	163	_	
-166	3(gesz2)	_	:	165	nummod	
-167	8(disz)	_	CD	166	nummod	
-168	gurusz	workers	NNS	165	_	
-169	gub-ba	on hand	NN	168	nmod:on	
-170	4(disz)	_	:	163	nummod	
-171	iri-ta	out town	NN	167	nmod:out.of	
-172	nu-banda3	supervisor	NN	165	_	
-173	igi-zu-bar-ra	Igizubara	NN	165	_	
-174	3(disz)	_	:	180	nummod	
-175	iri-ta	out town	NN	163	nmod:out.of	
-176	la2-ia3	deficit	NN	175	appos	
-177	2(disz)	_	_	0	nummod	
-178	nu-banda3	supervisor	NN	146	_	
-179	ur-{gesz}gigir	Ur-gigir	NN	180	compound	
-180	u4	th day	NN	178	_	
-181	3(u)	_	,	180	nummod	
-182	la2	_	_	181	_	
-183	1(disz@t)-kam	_	_	182	nummod	
-184	iti	month	NN	180	appos	
-185	ezem-{d}li9-si4	Festival Lisi	NNP	180	root
+# test/P381724.atf
+1	1(gesz2)	1(gesz)[sixty]	NU	NU	4	nummod	projectivity violation	
+2	3(u)	3(u)[ten]	NU	NU	10	nummod	projectivity violation	
+3	7(disz)	7(disz)[one][-sze]	NU	NU	2	nummod	_	
+4	gurusz	gurusz[male]	N	N	0	root	_	
+5	nu-banda3	nubanda[overseer][-ø]	N	N	4	_	heuristic: after nominal head	
+6	ur-{gesz}gigir	Urgigir[1]	PN	PN	4	_	heuristic: after nominal head	
+7	1(gesz2)	1(gesz)[sixty]	NU	NU	11	nummod	projectivity violation	
+8	la2	la[hang][-ø]	V	NF.V.ABS	7	_	_	
+9	2(disz@t)	2(disz)[one]	NU	NU	8	nummod	_	
+10	nu-banda3	nubanda[overseer][-ø]	N	N	4	appos	projectivity violation	
+11	igi-zu-bar-ra	_[Igizubara]	PN	PN	4	appos	projectivity violation	
+12	3(u)	3(u)[ten]	NU	NU	15	nummod	projectivity violation	
+13	6(disz)	6(disz)[one][-sze]	NU	NU	12	nummod	_	
+14	nu-banda3	nubanda[overseer][-ø]	N	N	8	appos	projectivity violation	
+15	ur-nigar{gar}	Urnigar[1]	PN	PN	8	appos	projectivity violation	
+16	6(disz)	6(disz)[one][-sze]	NU	NU	23	nummod	projectivity violation	
+17	nu-banda3	nubanda[overseer][-ø]	N	N	13	appos	_	
+18	lu2-{d}ba-ba6	Lubaba[1][-ak][-ak][-ø]	PN	PN	23	_	_	
+19	szunigin	szunigin[total]	N	N	23	_	_	
+20	3(gesz2)	3(gesz)[sixty]	NU	NU	23	nummod	_	
+21	1(u)	1(u)[ten]	NU	NU	20	nummod	_	
+22	7(disz)	7(disz)[one][-sze]	NU	NU	20	nummod	_	
+23	gurusz	gurusz[male]	N	N	13	appos	_	
+24	sza3-bi-ta	szag[heart]-bi-ta	PN	N.3-SG-NH-POSS.ABL	23	appos	_	
+25	3(u)	3(u)[ten]	NU	NU	24	nummod	_	
+26	lugal-ra-us2-sa	_[royal.entourage]	N	N	24	appos	_	
+27	1(u)	1(u)[ten]	NU	NU	28	nummod	_	
+28	e2-uz-ga	e'uzga[building_type][-ak][-sze]	N	N.GEN.TERM	24	appos	_	
+29	5(disz)	5(disz)[one]	NU	NU	28	nummod	_	
+30	e2-gu4-gaz	_[slaughterhouse]	PN	PN	28	appos	_	
+31	5(disz)	5(disz)[one]	NU	NU	32	nummod	_	
+32	duh-IL2	_[chaff.carriers]	PN	PN	28	appos	projectivity violation	
+33	5(disz)	5(disz)[one]	NU	NU	31	nummod	_	
+34	gu2	gun[unit]	N	N	33	appos	_	
+35	gir	_[of]	N	N	39	GEN	_	
+36	5(disz)	5(disz)[one]	NU	NU	39	nummod	heuristic: NU premodifying	
+37	gu2	gun[unit]	N	N	36	_	heuristic: attach to last	
+38	gir	_	N	N	37	_	heuristic: attach to last	
+39	ma2	ma[ship]	N	N	31	GEN	projectivity violation	
+40	lugal	lugal[king]	N	N	39	acl	_	
+41	5(asz)	5(asz)[one]	NU	NU	42	nummod	_	
+42	gu2	gun[unit]	N	N	34	GEN	_	
+43	gir	_[of]	N	N	42	GEN	_	
+44	murgu2	murgu[back]	N	N	48	nummod	projectivity violation	
+45	gur8	_	V	V	44	_	heuristic: after nominal	
+46	3(disz)	3(disz)[one]	NU	NU	48	nummod	projectivity violation	
+47	sipa	sipa[shepherd]	N	N	48	_	_	
+48	{ansze}si2-si2	_[grooms]	PN	PN	33	appos	projectivity violation	
+49	2(u)	2(u)[ten]	NU	NU	47	nummod	_	
+50	la2	la[hang][-ø]	V	NF.V.ABS	58	acl	projectivity violation	
+51	2(disz@t)	2(disz)[one]	NU	NU	50	nummod	_	
+52	<e2>-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	47	appos	_	
+53	ki	ki[place]	N	N	52	_	heuristic: attach to last	
+54	ur-nigar{gar}	Urnigar[1]	PN	PN	47	COM	_	
+55	2(u)	2(u)[ten]	NU	NU	47	nummod	_	
+56	la2	la[hang][-ø]	V	NF.V.ABS	62	acl	projectivity violation	
+57	2(disz@t)	2(disz)[one]	NU	NU	56	nummod	_	
+58	<e2>-muhaldim	emuhaldim[kitchen][-sze]	N	N.TERM	47	appos	_	
+59	ki	ki[place]	N	N	58	_	heuristic: attach to last	
+60	ur-{d}nansze	Urnansze[1]	PN	PN	58	COM	_	
+61	5(disz)	5(disz)[one]	NU	NU	47	nummod	_	
+62	e2-lunga	elungak[brewery][-ak][-ø]	N	N.GEN.ABS	47	appos	_	
+63	ki	ki[place]	N	N	64	COM	_	
+64	lugal-an-na-tum2	_[Lugal-anatum]	PN	PN	62	COM	_	
+65	2(disz)	2(disz)[one]	NU	NU	47	nummod	_	
+66	e2-lunga	elungak[brewery][-ak][-ø]	N	N.GEN.ABS	47	appos	_	
+67	ki	ki[place]	N	N	47	appos	projectivity violation	
+68	ur-mes	Urmes[1]	PN	PN	66	COM	projectivity violation	
+69	1(disz)	1(disz)[one]	NU	NU	70	nummod	_	
+70	e2	e[house]	N	N	67	appos	projectivity violation	
+71	ur-{d}namma	Urnamma[1]	RN	RN	70	GEN	_	
+72	1(disz)	1(disz)[one]	NU	NU	75	nummod	_	
+73	gu2	gun[unit]	N	N	75	acl	_	
+74	tul2	tul[ditch][-ø]	V	N.ABS	75	_	_	
+75	sag-da-na	Sagdana[1][-ak][-ak]	N	PN.GEN.GEN	69	LOC	_	
+76	1(disz)	1(disz)[one]	NU	NU	79	nummod	projectivity violation	
+77	zi3-IL2	zidIL[flour_type]	N	N	75	appos	_	
+78	ki	ki[place]	N	N	79	COM	_	
+79	ur-{d}ba-ba6	Urbaba[1]	PN	PN	69	COM	_	
+80	1(disz)	1(disz)[one]	NU	NU	81	nummod	_	
+81	zi3-IL2	zidIL[flour_type]	N	N	79	appos	_	
+82	ki	ki[place]	N	N	83	COM	_	
+83	nam-mah	Nammah[1]	PN	PN	81	COM	_	
+84	1(disz)	1(disz)[one]	NU	NU	85	nummod	_	
+85	zi3-IL2	zidIL[flour_type]	N	N	81	appos	_	
+86	ki	ki[place]	N	N	87	COM	_	
+87	lugal-inim-gi	_[Kugal-inimgi]	PN	PN	85	COM	_	
+88	2(disz)	2(disz)[one]	NU	NU	89	nummod	_	
+89	im-IL2	_[clay.carriers]	N	N	130	ABS	projectivity violation	
+90	2(disz)	2(disz)[one]	NU	NU	89	nummod	_	
+91	ga2-nun-da	_[in.storage.house.stationed]	PN	PN	89	LOC	_	
+92	tusz-a	tusz[dewell]-a	V	NF.V.PT	89	_	_	
+93	1(disz)	1(disz)[one]	NU	NU	89	nummod	projectivity violation	
+94	dub-sar	dubsar[scribe]	N	N	92	appos	_	
+95	gesz-kin-ti	geszkigti[workshop][-ak]	N	N.GEN	94	GEN	_	
+96	1(disz)	1(disz)[one]	NU	NU	89	nummod	_	
+97	dub-sar	dubsar[scribe]	N	N	89	appos	_	
+98	i3	i[oil]	N	N	97	GEN	_	
+99	zu2-lum	zulum[date]	N	N	98	appos	_	
+100	1(disz)	1(disz)[one]	NU	NU	89	nummod	_	
+101	dub-sar	dubsar[scribe]	N	N	89	appos	_	
+102	in-bul5-bul5	_[-straw]	PN	PN	101	GEN	_	
+103	1(disz)	1(disz)[one]	NU	NU	89	nummod	_	
+104	dub-sar	dubsar[scribe]	N	N	89	appos	projectivity violation	
+105	ar-za-na	_[arzana]	N	N	104	GEN	_	
+106	1(disz)	1(disz)[one]	NU	NU	89	nummod	projectivity violation	
+107	dub-sar	dubsar[scribe]	N	N	103	appos	_	
+108	zi3	zid[flour]	N	N	107	GEN	_	
+109	nig2-ar-ra	_[groats]	N	N	108	appos	_	
+110	imgaga3	_[spelt]	N	N	108	acl	_	
+111	1(disz)	1(disz)[one]	NU	NU	89	nummod	_	
+112	dub-sar	dubsar[scribe]	N	N	89	appos	_	
+113	ku6	kud[fish]	N	N	112	GEN	_	
+114	nisi	_[and.vegetables]	N	N	113	appos	_	
+115	1(disz)	1(disz)[one]	NU	NU	89	nummod	_	
+116	ur-{d}nin-a-zu	_[Ur-Ninazu]	PN	PN	89	appos	_	
+117	1(disz)	1(disz)[one]	NU	NU	89	nummod	_	
+118	ur-sa6-ga	Ursaga[1][-ak]	PN	PN	89	appos	projectivity violation	
+119	durunx(|KU.KU|)	_[Ursaga]	V	V	117	acl	projectivity violation	
+120	1(disz)	1(disz)[one]	NU	NU	89	nummod	projectivity violation	
+121	ki	ki[place]	N	N	122	COM	_	
+122	nam-mah	Nammah[1]	PN	PN	118	COM	_	
+123	1(disz)	1(disz)[one]	NU	NU	89	nummod	_	
+124	ur-{d}ba-ba6	Urbaba[1]	PN	PN	123	appos	_	
+125	gaba-ta	gaba[frontier]-ta	N	N.ABL	89	appos	_	
+126	1(disz)	1(disz)[one]	NU	NU	89	nummod	projectivity violation	
+127	ka	kag[mouth]	N	N	125	appos	_	
+128	e2-gal	egal[palace][-ak][-'a]	N	N	127	GEN	_	
+129	2(disz)	2(disz)[one]	NU	NU	85	nummod	_	
+130	ma2-la2-a	_[hung.boat.to]	N	N	85	parataxis	_	
+131	gi	gi[reed][-ø]	N	N	130	LOC	_	
+132	unu{ki}-sze3	_[Uruk]	SN	SN.TERM	131	GEN	_	
+133	5(disz)	5(disz)[one]	NU	NU	134	nummod	_	
+134	ma2	ma[ship]	N	N	85	appos	_	
+135	{gesz}ma-nu	manu[wood_type][-ø]	FN	N.ABS	134	GEN	_	
+136	1(u)	1(u)[ten]	NU	NU	137	nummod	_	
+137	ma2	ma[ship]	N	N	134	appos	projectivity violation	
+138	gi-la2	_[of]	N	N	137	GEN	_	
+139	1(u)	1(u)[ten]	NU	NU	140	nummod	_	
+140	e2	e[house]	N	N	136	appos	_	
+141	ensi2	ensik[ruler]	N	N	140	GEN	_	
+142	3(disz)	3(disz)[one]	NU	NU	140	nummod	_	
+143	gi-IL2	_[reed.carriers]	N	N	140	appos	_	
+144	sza3	szag[heart]	N	N	145	LOC	_	
+145	nibru{ki}	Nibru[1][-'a]	SN	SN.GEN.ABS	143	LOC	_	
+146	3(disz)	3(disz)[one]	NU	NU	147	nummod	_	
+147	ma2	ma[ship]	N	N	140	appos	projectivity violation	
+148	i3-si-in{ki}	_[Isin]	SN	SN.GEN.ABS	147	GEN	_	
+149	7(disz)	7(disz)[one][-sze]	NU	NU	146	nummod	_	
+150	|ZI&amp;amp;ZI|-sze3	_[Ki-Suen]	N	N.3-SG-H-POSS.TERM	146	appos	_	
+151	ki-{d}suen	Kisuen[1][-ak][-sze]	PN	SN.GEN.TERM	155	nummod	projectivity violation	
+152	2(u)	2(u)[ten]	NU	NU	146	nummod	_	
+153	la2	la[hang][-ø]	V	NF.V.ABS	157	acl	projectivity violation	
+154	3(disz@t)	3(disz)[one]	NU	NU	153	nummod	_	
+155	im-du8-a	imdua[wall]	V	N	0	_	detached for projectivity	
+156	1(disz)	1(disz)[one]	NU	NU	146	nummod	_	
+157	tu	_[sick]	PN	PN	146	appos	_	
+158	al-la	Alla[1]	PN	PN	157	appos	_	
+159	1(disz)	1(disz)[one]	NU	NU	146	nummod	_	
+160	tu	_[sick]	PN	PN	161	acl	_	
+161	lu2-e2-a	_[Lu-Ea]	PN	PN	146	appos	_	
+162	1(disz)	1(disz)[one]	NU	NU	163	nummod	_	
+163	gudu4	gudug[priest]	N	N	0	_	detached for projectivity	
+164	{d}mes-lam-ta-e3-a	Meslamta'e'a[1]	DN	DN	163	GEN	_	
+165	szunigin	szunigin[total]	N	N	163	appos	_	
+166	3(gesz2)	3(gesz)[sixty]	NU	NU	165	nummod	_	
+167	8(disz)	8(disz)[one]	NU	NU	166	nummod	_	
+168	gurusz	gurusz[male]	N	N	165	appos	projectivity violation	
+169	gub-ba	gub[assigned]-a[-ak][-ø]	V	NF.V.PT	168	acl	_	
+170	4(disz)	4(disz)[one]	NU	NU	163	nummod	projectivity violation	
+171	iri-ta	_[out.town]	N	N	167	ABL	_	
+172	nu-banda3	nubanda[overseer][-ø]	N	N	165	appos	_	
+173	igi-zu-bar-ra	_[Igizubara]	PN	PN	165	appos	_	
+174	3(disz)	3(disz)[one]	NU	NU	180	nummod	projectivity violation	
+175	iri-ta	_[out.town]	N	N	163	ABL	_	
+176	la2-ia3	la'u[arrears]	N	N	175	appos	_	
+177	2(disz)	2(disz)[one]	NU	NU	178	nummod	heuristic: NU premodifying	
+178	nu-banda3	nubanda[overseer][-ø]	N	N	146	appos	_	
+179	ur-{gesz}gigir	Urgigir[1]	PN	PN	180	nmod	_	
+180	u4	ud[day]	N	N	178	appos	_	
+181	3(u)	3(u)[ten]	NU	NU	180	nummod	_	
+182	la2	la[hang][-ø]	V	NF.V.ABS	181	_	_	
+183	1(disz@t)-kam	1(disz)[one]-ak-am	NU	NU.GEN.COP-3-SG	182	nummod	_	
+184	iti	iti[month]	N	N	180	appos	_	
+185	ezem-{d}li9-si4	_[Festival.Lisi]	MN	MN	180	appos	_
 	
 
