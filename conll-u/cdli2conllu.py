@@ -1,5 +1,28 @@
 import re,os,sys
 
+def print_buffer(buffer):
+	if buffer!=None and len(buffer)>0:
+		valid=True
+		try:
+			for nr,row in enumerate(buffer):
+				id=row[0]
+				last_id="0"
+				if nr>0:
+					last_id =buffer[nr-1][0]
+				if int(last_id)!=int(id)-1:
+					valid=False
+					break
+				if int(row[6])> len(buffer):
+					valid=False
+					break				
+		except:
+			valid=False
+		if valid:
+			buffer=[ "\t".join(row) for row in buffer ]
+			buffer="\n".join(buffer)
+			print(buffer+"\n\n")
+ 
+
 pos2upos= {
 	"_" :"X",
 	"AJ": "ADJ",
@@ -74,10 +97,7 @@ for line in sys.stdin:
 		print(line)
 	else:
 		if line.startswith("1\t"):
-			if buffer!=None and len(buffer)>0:
-				buffer=[ "\t".join(row) for row in buffer ]
-				buffer="\n".join(buffer)
-				print(buffer+"\n")
+			print_buffer(buffer)
 			buffer=[]
 		if buffer!=None:
 			fields=line.split("\t")
@@ -95,9 +115,10 @@ for line in sys.stdin:
 			dep="dep"
 			if edge in dep2udep:
 				dep=dep2udep[edge]
+			if head=="0":
+				dep="root"
 			if (len(buffer)==0 and id=="1") or (len(buffer)>0 and len(buffer[-1])>1 and re.match(r"^[0-9]+$",id) and int(buffer[-1][0])+1==int(id)):
 				buffer.append([id,word,"_",upos,pos,"_",head,dep,"_","_"])
 			else:
 				buffer=None
-if(buffer!=None and len(buffer)>0):
-	print("\n".join(["\t".join(row) for row in buffer ]))
+print_buffer(buffer)
