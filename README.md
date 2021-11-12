@@ -34,7 +34,7 @@ sample (P430477): *Ibi-Suen, strong king, king of Ur, king of the four quarters;
 
 Note that Sumerian phrasal structure is to a large extend encoded in the morphology, and there such information is available, the syntactic analysis respects the existing morphological annotation. Here, Shulgili is annotated (on its dependent, *dub-sar*) with absolutive case, indicating that it is a clausal argument of a following predicate. Without any verbal predicate in the clause, we must assume that the final word *ARAD2-zu* is the predicate of an (implicit) copular clause. As it is also annotated with absolutive case, this indicates that it is an adnominal modifier (hence `acl`) of a preceding noun.
 
-However, as absolutive case is marked by a zero morpheme, the copula is implicit (morphologically unmarked) and the writing of case marking in deficient in Sumerian, alternative analyses of the same textual input are possible, e.g., the analysis of Ibi-Suen as vocative argument of the copular clause. However, for this analysis, we would expect the first word to be annotated as `RN.ABS` and the last word as `N.2-SG-POSS`.
+However, as absolutive case is marked by a zero morpheme, the copula is implicit (morphologically unmarked) and the writing of case marking is deficient in the Sumerian Ur-III data, alternative analyses of the same textual input are possible, e.g., the analysis of Ibi-Suen as vocative argument of the copular clause. However, for this analysis, we would expect the first word to be annotated as `RN.ABS` and the last word as `N.2-SG-POSS`.
 
 ## Subcorpora
 
