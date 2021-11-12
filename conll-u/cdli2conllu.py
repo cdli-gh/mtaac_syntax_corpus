@@ -67,24 +67,37 @@ dep2udep={
 	"nmod:without": "nmod",
 	"nmod:give": "nmod",
 	"appos|appos": "appos" }
+buffer=[]
 for line in sys.stdin:
 	line=line.strip()
 	if line.startswith("#") or len(line)==0:
 		print(line)
 	else:
-		fields=line.split("\t")
-		id=fields[0]
-		word=fields[1]
-		seg=fields[2]
-		pos=fields[3]
-		morph=fields[4]
-		head=fields[5]
-		edge=fields[6]
-		misc=fields[7]
-		upos="X"
-		if pos in pos2upos:
-			upos=pos2upos[pos]
-		dep="dep"
-		if edge in dep2udep:
-			dep=dep2udep[edge]
-		print("\t".join([id,word,"_",upos,pos,"_",head,dep,"_","_"]))
+		if line.startswith("1\t"):
+			if buffer!=None and len(buffer)>0:
+				buffer=[ "\t".join(row) for row in buffer ]
+				buffer="\n".join(buffer)
+				print(buffer+"\n")
+			buffer=[]
+		if buffer!=None:
+			fields=line.split("\t")
+			id=fields[0]
+			word=fields[1]
+			seg=fields[2]
+			pos=fields[3]
+			morph=fields[4]
+			head=fields[5]
+			edge=fields[6]
+			misc=fields[7]
+			upos="X"
+			if pos in pos2upos:
+				upos=pos2upos[pos]
+			dep="dep"
+			if edge in dep2udep:
+				dep=dep2udep[edge]
+			if len(buffer)==0 or int(buffer[-1][0])+1==int(id):
+				buffer.append([id,word,"_",upos,pos,"_",head,dep,"_","_"])
+			else:
+				buffer=None
+if(len(buffer)>0):
+	print("\n".join(["\t".join(row) for row in buffer ]))
