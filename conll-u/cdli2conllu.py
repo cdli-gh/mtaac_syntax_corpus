@@ -95,9 +95,9 @@ for line in sys.stdin:
 			dep="dep"
 			if edge in dep2udep:
 				dep=dep2udep[edge]
-			if len(buffer)==0 or int(buffer[-1][0])+1==int(id):
+			if (len(buffer)==0 and id=="1") or (len(buffer)>0 and len(buffer[-1])>1 and re.match(r"^[0-9]+$",id) and int(buffer[-1][0])+1==int(id)):
 				buffer.append([id,word,"_",upos,pos,"_",head,dep,"_","_"])
 			else:
 				buffer=None
-if(len(buffer)>0):
+if(buffer!=None and len(buffer)>0):
 	print("\n".join(["\t".join(row) for row in buffer ]))
