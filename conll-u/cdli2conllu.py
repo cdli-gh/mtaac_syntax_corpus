@@ -4,6 +4,7 @@ def print_buffer(buffer):
 	if buffer!=None and len(buffer)>0:
 		valid=True
 		try:
+			roots=0
 			for nr,row in enumerate(buffer):
 				id=row[0]
 				last_id="0"
@@ -14,7 +15,14 @@ def print_buffer(buffer):
 					break
 				if int(row[6])> len(buffer):
 					valid=False
-					break				
+					break
+				if row[6]=="0":
+					roots+=1
+					if roots>1:
+						valid=False
+						break
+			if roots!=1:
+				valid=False
 		except:
 			valid=False
 		if valid:
@@ -91,6 +99,7 @@ dep2udep={
 	"nmod:give": "nmod",
 	"appos|appos": "appos" }
 buffer=[]
+roots=[]
 for line in sys.stdin:
 	line=line.strip()
 	if line.startswith("#") or len(line)==0:
@@ -99,6 +108,7 @@ for line in sys.stdin:
 		if line.startswith("1\t"):
 			print_buffer(buffer)
 			buffer=[]
+			roots=[]
 		if buffer!=None:
 			fields=line.split("\t")
 			id=fields[0]
@@ -117,6 +127,12 @@ for line in sys.stdin:
 				dep=dep2udep[edge]
 			if head=="0":
 				dep="root"
+			if dep=="root":
+				if len(roots)==0:
+					roots.append(id)
+				else:
+					head=roots[0]
+					dep="parataxis"
 			if (len(buffer)==0 and id=="1") or (len(buffer)>0 and len(buffer[-1])>1 and re.match(r"^[0-9]+$",id) and int(buffer[-1][0])+1==int(id)):
 				buffer.append([id,word,"_",upos,pos,"_",head,dep,"_","_"])
 			else:
