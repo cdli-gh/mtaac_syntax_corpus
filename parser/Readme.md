@@ -17,13 +17,20 @@ Evaluate UDPipe
 
 etc.
 
-Use UDPipe:
+Use UDPipe on existing CoNLL data:
 
 	$> cut -f 1,2 test.conllu | \
            sed s/'^[^#].*'/'&\t\_\t_\t_\t_\t_\t_\t_\t_'/ | \
            ./udpipe/src/udpipe -tag -parse udpipe.model 
 
 We provide the trained model file, so you can run UDPipe directly on tokenized data. Note that it requires integer ids.
+
+Use UDPipe on plain text:
+
+	$> cut -f 2 test.conllu | grep -v '#' | perl -pe 's/([^\n])\n/$1 /g;' | egrep . | \
+	   ./udpipe/src/udpipe --input=horizontal udpipe.model --tag --parse
+
+(The second line is the call to the parser. The first line produces one text per line from the original CoNLL data.)
 
 Results
 
