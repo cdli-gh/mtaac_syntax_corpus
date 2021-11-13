@@ -49,6 +49,6 @@ Note that our materials and data for syntax annotation as still being consolidat
 ## Other data
 
 - [doc](doc) annotation guidelines for dependency syntax in Sumerian, designed for mappability to UD v.2
-- [conllu-u](conll-u) experimental CoNLL-U export for training off-the-shelf UD parsers over CDLI data
+- [parser](parser) experimental CoNLL-U export and experiments for training off-the-shelf UD parsers over CDLI data
 
 
