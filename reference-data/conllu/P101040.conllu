@@ -1,25 +1,31 @@
 #new_text=P101040									
 #ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+# For (plowing?) 8 gan2 (=2.8 ha) 7 gur (= 2,100 l) rations and beer, twice, and for 18 gan2 (=6.5 ha) 31.5 gur (=9,450 l) for Ur-Enlila.
 1	1(esze3)	1(esze)[unit]	NOUN	N	Number=Sing	3	nummod	_	_
 2	2(iku)	2(iku)[unit]	NOUN	N	Number=Sing	1	nummod	_	_
 3	GAN2	GAN[surface]	NOUN	N	Number=Sing	4	LOC	_	_
+# 28800m²
 4	sze-ba	szeba[ration]	NOUN	N	Number=Sing	0	root	_	_
 5	u3	u[and]	CCONJ	CNJ	_	4	cc	_	_
 6	kasz	kasz[beer]	NOUN	N	Number=Sing	4	conj	_	_
 7	7(asz)	7(asz)[one]	NUM	NU	_	4	nummod	_	_
 8	gur	gur[unit]	NOUN	N	Number=Sing	4	appos	_	_
+# 2100l
 9	...	_	_	_	_	4	dep	_	_
 10	a-ra2	ara[times]	NOUN	N	Number=Sing	11	ABS	_	_
 11	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	4	nummod	_	_
 12	1(bur3)	1(bur)[unit]	NOUN	N	Number=Sing	13	nummod	_	_
 13	GAN2	GAN[field]	NOUN	N	Number=Sing	18	LOC	_	_
+# 64800m²
 14	3(u)	3(u)[ten]	NUM	NU	_	18	nummod	_	_
 15	1(asz)	1(asz)[one]	NUM	NU	_	14	nummod	_	_
 16	2(barig)	2(barig)[unit]	NOUN	N	Number=Sing	14	nummod	_	_
 17	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	14	nummod	_	_
 18	gur	gur[unit]	NOUN	N	Number=Sing	4	list	_	_
+# 9450l
 19	a-ra2	ara[times]	NOUN	N	Number=Sing	20	ABS	_	_
 20	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	18	nummod	_	_
+# twice
 21	ur-{d}en-lil2-la2	Urenlilla[1]	PROPN	PN	Animacy=Hum|Number=Sing	4	DAT	_	_
 									
 22	1(esze3)	1(esze)[unit]	NOUN	N	Number=Sing	25	nummod	_	_
@@ -49,7 +55,7 @@
 45	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Number=Sing	41	DAT	_	_
 46	x-musz	_	_	_	_	45	appos	_	_
 									
-47	1(iku)	1(iku)[unit]	NOUN	N	Number=Sing	47	nummod	_	_
+47	1(iku)	1(iku)[unit]	NOUN	N	Number=Sing	50	nummod	_	_
 48	1/2(iku)	1/2(iku)[unit]	NOUN	N	Number=Sing	47	nummod	_	_
 49	1/4(iku)	1/4(iku)[unit]	NOUN	N	Number=Sing	47	nummod	_	_
 50	GAN2	GAN[field]	NOUN	N	Number=Sing	54	LOC	_	_
@@ -182,8 +188,8 @@
 164	1/2(iku)	1/2(iku)[unit]	NOUN	N	Number=Sing	163	nummod	_	_
 165	1/4(iku)	1/4(iku)[unit]	NOUN	N	Number=Sing	163	nummod	_	_
 166	GAN2	GAN[field]	NOUN	N	Number=Sing	169	LOC	_	_
-167	2(asz)	2(asz)[one]	NUM	NU	_	168	nummod	_	_
-168	4(barig)	4(bariga)[unit]	NOUN	N	Number=Sing	168	nummod	_	_
+167	2(asz)	2(asz)[one]	NUM	NU	_	169	nummod	_	_
+168	4(barig)	4(bariga)[unit]	NOUN	N	Number=Sing	167	nummod	_	_
 169	gur	gur[unit]	NOUN	N	Number=Sing	159	parataxis	_	_
 170	a-ab-ba-mu	A'abbamu[1]	PROPN	PN	Animacy=Hum|Number=Sing	169	DAT	_	_
 171	x-x	_	_	_	_	170	appos	_	_
@@ -265,8 +271,8 @@
 240	a-ra2	ara[times]	NOUN	N	Number=Sing	241	ABS	_	_
 241	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	239	nummod	_	_
 242	3(iku)	3(iku)[unit]	NOUN	N	Number=Sing	245	nummod	_	_
-243	1/2(iku)	1/2(iku)[unit]	NOUN	N	Number=Sing	243	nummod	_	_
-244	1/4(iku)	1/4(iku)[unit]	NOUN	N	Number=Sing	243	nummod	_	_
+243	1/2(iku)	1/2(iku)[unit]	NOUN	N	Number=Sing	242	nummod	_	_
+244	1/4(iku)	1/4(iku)[unit]	NOUN	N	Number=Sing	242	nummod	_	_
 245	GAN2	GAN[field]	NOUN	N	Number=Sing	248	LOC	_	_
 246	4(asz)	4(asz)[one]	NUM	NU	_	248	nummod	_	_
 247	3(barig)	3(bariga)[unit]	NOUN	N	Number=Sing	246	nummod	_	_
@@ -364,9 +370,9 @@
 329	a-sza3	aszag[field]	NOUN	N	Number=Sing	330	nmod	_	_
 330	musz-bi-an-na	Muszbi'anna[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	326	LOC	_	_
 331	mu	mu[year]	NOUN	N	Number=Sing	326	LOC	_	_
-332	en	en[priest]	NOUN	N	Number=Sing	334	ERG	_	_
+332	en	en[priest]	NOUN	N	Number=Sing	335	ERG	_	_
 333	{d}nanna	Nanna[1]	PROPN	DN	Animacy=Hum|Case=Gen,Abs|Number=Sing	332	GEN	_	_
-334	masz-e	masz[goat]	NOUN	N	Animacy=Nhum|Number=Sing	334	ABS	_	_
+334	masz-e	masz[goat]	NOUN	N	Animacy=Nhum|Number=Sing	335	ABS	_	_
 335	x	_	_	_	_	331	ccomp	_	_
 336	x	_	_	_	_	326	dep	_	_
 337	x	_	_	_	_	326	dep	_	_
