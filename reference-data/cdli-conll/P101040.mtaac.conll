@@ -1,0 +1,379 @@
+#new_text=P101040						
+#ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+# For (plowing?) 8 gan2 (=2.8 ha) 7 gur (= 2,100 l) rations and beer, twice, and for 18 gan2 (=6.5 ha) 31.5 gur (=9,450 l) for Ur-Enlila.						
+1	1(esze3)	1(esze)[unit]	N	3	nummod	_
+2	2(iku)	2(iku)[unit]	N	1	nummod	_
+3	GAN2	GAN[surface]	N	4	LOC	_
+# 28800m²						
+4	sze-ba	szeba[ration]	N	0	root	_
+5	u3	u[and]	CNJ	4	cc	_
+6	kasz	kasz[beer]	N	4	conj	_
+7	7(asz)	7(asz)[one]	NU	4	nummod	_
+8	gur	gur[unit]	N	4	appos	_
+# 2100l						
+9	...	_	_	4	dep	_
+10	a-ra2	ara[times]	N	4	acl	_
+11	1(disz)-kam	1(disz)[one]	NU	10	nummod	_
+# first time						
+12	1(bur3)	1(bur)[unit]	N	13	nummod	_
+13	GAN2	GAN[field]	N	18	LOC	_
+# 64800m²						
+14	3(u)	3(u)[ten]	NU	18	nummod	_
+15	1(asz)	1(asz)[one]	NU	14	nummod	_
+16	2(barig)	2(barig)[unit]	N	14	nummod	_
+17	3(ban2)	3(ban)[unit]	N	14	nummod	_
+18	gur	gur[unit]	N	4	list	_
+# 9450l						
+19	a-ra2	ara[times]	N	18	acl	_
+20	2(disz)-kam	2(disz)[one]	NU	19	nummod	_
+# second time						
+21	ur-{d}en-lil2-la2	Urenlilla[1]	PN	4	DAT	_
+						
+22	1(esze3)	1(esze)[unit]	N	25	nummod	_
+23	3(iku)	3(iku)[unit]	N	22	nummod	_
+24	...	_	_	22	dep	_
+25	GAN2	GAN[surface]	N	27	LOC	_
+26	7(asz)	7(asz)[one]	NU	27	nummod	_
+27	gur	gur[unit]	N	4	parataxis	_
+28	a-ra2	ara[times]	N	27	acl	_
+29	1(disz)-kam	1(disz)[one]	NU	28	nummod	_
+30	1(bur3)	1(bur)[unit]	N	31	nummod	_
+31	GAN2	GAN[field]	N	36	LOC	_
+32	3(u)	3(u)[ten]	NU	36	nummod	_
+33	1(asz)	1(asz)[one]	NU	32	nummod	_
+34	2(barig)	2(barig)[unit]	N	32	nummod	_
+35	3(ban2)	3(ban)[unit]	N	32	nummod	_
+36	gur	gur[unit]	N	27	list	_
+37	a-ra2	ara[times]	N	36	acl	_
+38	2(disz)-kam	2(disz)[one]	NU	37	nummod	_
+39	lugal-ukken-ne2	Lugalukkenne[1]	PN	27	DAT	_
+						
+40	5(iku)	5(iku)[unit]	N	41	nummod	_
+41	GAN2	GAN[field]	N	44	LOC	_
+42	2(asz)	2(asz)[one]	NU	44	nummod	_
+43	1(barig)	1(bariga)[unit]	N	42	nummod	_
+44	gur	gur[unit]	N	27	parataxis	_
+45	lu2-dingir-ra	Ludingira[1]	PN	41	DAT	_
+46	x-musz	_	_	45	appos	_
+						
+47	1(iku)	1(iku)[unit]	N	50	nummod	_
+48	1/2(iku)	1/2(iku)[unit]	N	47	nummod	_
+49	1/4(iku)	1/4(iku)[unit]	N	47	nummod	_
+50	GAN2	GAN[field]	N	54	LOC	_
+51	1(asz)	1(asz)[one]	NU	54	nummod	_
+52	1(barig)	1(bariga)[unit]	N	51	nummod	_
+53	1(ban2)	1(ban)[unit]	N	51	nummod	_
+54	gur	gur[unit]	N	44	parataxis	_
+55	ha-ba-lu5-ge2	Habaluge[1]	PN	54	DAT	_
+						
+56	2(iku)	2(iku)[unit]	N	57	nummod	_
+57	GAN2	GAN[field]	N	59	LOC	_
+58	2(asz)	2(asz)[one]	NU	59	nummod	_
+59	gur	gur[unit]	N	54	parataxis	_
+60	ur-{d}su4-an-na	Ursu'anna[1]	PN	59	DAT	_
+						
+61	1/4(iku)	1/4(iku)[unit]	N	62	nummod	_
+62	GAN2	GAN[field]	N	66	LOC	_
+63	1(barig)	1(bariga)[unit]	N	66	nummod	_
+64	1(ban2)	1(ban)[unit]	N	63	nummod	_
+65	5(disz)	5(disz)[one]	NU	63	nummod	_
+66	sila3	sila[unit]	N	59	parataxis	_
+67	lu2-{d}szara2	Luszara[1]	PN	66	DAT	_
+68	engar	engar[farmer]	N	67	appos	_
+						
+69	1(bur3)	1(bur)[unit]	N	70	nummod	_
+70	GAN2	GAN[field]	N	73	LOC	_
+71	1(u)	1(u)[ten]	NU	73	nummod	_
+72	2(asz)	2(asz)[one]	NU	71	nummod	_
+73	gur	gur[unit]	N	66	parataxis	_
+74	a-ra2	ara[times]	N	73	acl	_
+75	1(disz)-kam	1(disz)[one]	NU	74	nummod	_
+76	1(bur3)	1(bur)[unit]	N	77	nummod	_
+77	GAN2	GAN[field]	N	78	LOC	_
+78	7(asz)	7(asz)[one]	NU	73	list	_
+79	2(barig)	2(barig)[unit]	N	78	nummod	_
+80	3(ban2)	3(ban)[unit]	N	78	nummod	_
+81	a-sza3	aszag[field]	N	78	LOC	_
+82	masz-kan2{ki}	Maszkan[1]	SN	81	GEN	_
+83	a-ra2	ara[times]	N	78	acl	_
+84	2(disz)-kam	2(disz)[one]	NU	83	nummod	_
+85	6(bur3)	6(bur)[unit]	N	87	nummod	_
+86	1(esze3)	1(esze)[unit]	N	85	nummod	_
+87	GAN2	GAN[field]	N	91	LOC	_
+88	2(gesz2)	2(gesz)[sixty]	NU	91	nummod	_
+89	1(u)	1(u)[ten]	NU	88	nummod	_
+90	5(asz)	5(asz)[one]	NU	88	nummod	_
+91	gur	gur[unit]	N	73	list	_
+92	a-kal-la	Akalla[1]	PN	73	DAT	_
+93	nu-banda3	nubanda[overseer]	N	92	appos	_
+						
+94	1(bur3)	1(bur)[unit]	N	95	nummod	_
+95	GAN2	GAN[field]	N	96	LOC	_
+96	1(barig)	1(bariga)[unit]	N	73	parataxis	_
+97	lu2-kal-la	Lukala[1]	PN	96	DAT	_
+98	ma2-lah5	malah[sailor]	N	97	appos	_
+99	...	_	_	96	dep	_
+100	1(esze3)	1(esze)[unit]	N	102	nummod	_
+101	1(iku)	1(iku)[unit]	N	100	nummod	_
+102	GAN2	GAN[field]	N	103	LOC	_
+103	...	_	_	96	list	_
+104	ur-{d}...	[1]	PN	96	DAT	_
+						
+105	3(iku)	3(iku)[unit]	N	106	nummod	_
+106	GAN2	GAN[field]	N	110	LOC	_
+107	2(asz)	2(asz)[one]	NU	110	nummod	_
+108	x	_	_	107	nummod	_
+109	x	_	_	107	nummod	_
+110	gur	gur[unit]	N	96	parataxis	_
+111	ur-ab-ba-saga	Urabbasaga[1]	PN	110	DAT	_
+						
+112	2(iku)	2(iku)[unit]	N	114	nummod	_
+113	1/2(iku)	1/2(iku)[unit]	N	112	nummod	_
+114	GAN2	GAN[field]	N	118	LOC	_
+115	3(asz)	3(asz)[one]	NU	118	nummod	_
+116	3(barig)	3(bariga)[unit]	N	115	nummod	_
+117	4(ban2)	4(ban)[unit]	N	115	nummod	_
+118	gur	gur[unit]	N	110	parataxis	_
+119	ur-{d}szakkan	Urszakkan[1]	PN	118	DAT	_
+						
+120	2(esze3)	2(esze)[unit]	N	123	nummod	_
+121	1(iku)	1(iku)[unit]	N	120	nummod	_
+122	1/4(iku)	1/4(iku)[unit]	N	120	nummod	_
+123	GAN2	GAN[field]	N	128	LOC	_
+124	1(u)	1(u)[ten]	NU	128	nummod	_
+125	4(asz)	4(asz)[one]	NU	124	nummod	_
+126	3(barig)	3(bariga)[unit]	N	124	nummod	_
+127	x	_	_	124	nummod	_
+128	gur	gur[unit]	N	118	parataxis	_
+129	da-a-gi	Da'agi[1]	PN	128	DAT	_
+130	...	_	_	129	appos	_
+						
+131	1(esze3)	1(esze)[unit]	N	132	nummod	_
+132	GAN2	GAN[field]	N	136	LOC	_
+133	1(asz)	1(asz)[one]	NU	136	nummod	_
+134	4(barig)	4(bariga)[unit]	N	133	nummod	_
+135	3(ban2)	3(ban)[unit]	N	133	nummod	_
+136	gur	gur[unit]	N	128	parataxis	_
+137	lu2-du10-ga	Luduga[1]	PN	136	DAT	_
+						
+138	3(iku)	3(iku)[unit]	N	139	nummod	_
+139	GAN2	GAN[field]	N	140	LOC	_
+140	4(barig)	4(bariga)[unit]	N	136	parataxis	_
+141	lugal-GAN2-x	LugalGANx[1]	PN	140	DAT	_
+						
+142	3(iku)	3(iku)[unit]	N	144	nummod	_
+143	1/4(iku)	1/4(iku)[unit]	N	142	nummod	_
+144	GAN2	GAN[field]	N	146	LOC	_
+145	1(asz)	1(asz)[one]	NU	146	nummod	_
+146	3(barig)	3(bariga)[unit]	N	140	parataxis	_
+147	diri	dirig[surplus]	V	146	amod	_
+148	HI-x	_	_	146	dep	_
+149	ur-ab-ba	Urabba[1]	PN	146	DAT	_
+						
+150	1(iku)	1(iku)[unit]	N	151	nummod	_
+151	GAN2	GAN[field]	N	153	LOC	_
+152	2(barig)	2(barig)[unit]	N	153	nummod	_
+153	3(ban2)	3(ban)[unit]	N	146	parataxis	_
+154	diri	dirig[surplus]	V	153	amod	_
+155	kam-...	_	_	153	dep	_
+156	ur-{d}isztaran	Urisztaran[1]	PN	153	DAT	_
+						
+157	1(esze3)	1(esze)[unit]	N	158	nummod	_
+158	GAN2	GAN[field]	N	159	LOC	_
+159	1(asz)	1(asz)[one]	NU	153	parataxis	_
+160	2(barig)	2(barig)[unit]	N	159	nummod	_
+161	3(ban2)	3(ban)[unit]	N	159	nummod	_
+162	lugal-mu-x	[1]	PN	159	DAT	_
+						
+163	4(iku)	4(iku)[unit]	N	166	nummod	_
+164	1/2(iku)	1/2(iku)[unit]	N	163	nummod	_
+165	1/4(iku)	1/4(iku)[unit]	N	163	nummod	_
+166	GAN2	GAN[field]	N	169	LOC	_
+167	2(asz)	2(asz)[one]	NU	169	nummod	_
+168	4(barig)	4(bariga)[unit]	N	167	nummod	_
+169	gur	gur[unit]	N	159	parataxis	_
+170	a-ab-ba-mu	A'abbamu[1]	PN	169	DAT	_
+171	x-x	_	_	170	appos	_
+						
+172	1(bur3)	1(bur)[unit]	N	175	nummod	_
+173	1(esze3)	1(esze)[unit]	N	172	nummod	_
+174	1/4(iku)	1/4(iku)[unit]	N	172	nummod	_
+175	GAN2	GAN[field]	N	177	LOC	_
+176	3(u)	3(u)[ten]	NU	177	nummod	_
+177	gur	gur[unit]	N	169	parataxis	_
+178	...	_	_	177	dep	_
+179	1(esze3)	1(esze)[unit]	N	180	nummod	_
+180	GAN2	GAN[field]	N	184	LOC	_
+181	1(asz)	1(asz)[one]	NU	184	nummod	_
+182	1(barig)	1(bariga)[unit]	N	181	nummod	_
+183	3(ban2)	3(ban)[unit]	N	181	nummod	_
+184	gur	gur[unit]	N	177	list	_
+185	lugal-ma2-gan-x	_	_	177	DAT	_
+						
+186	1(esze3)	1(esze)[unit]	N	187	nummod	_
+187	GAN2	GAN[field]	N	191	LOC	_
+188	1(asz)	1(asz)[one]	NU	191	nummod	_
+189	2(barig)	2(barig)[unit]	N	188	nummod	_
+190	3(ban2)	3(ban)[unit]	N	188	nummod	_
+191	gur	gur[unit]	N	177	parataxis	_
+192	lu2-sze-...	_	_	191	DAT	_
+						
+193	4(iku)	4(iku)[unit]	N	195	nummod	_
+194	1/2(iku)	1/2(iku)[unit]	N	193	nummod	_
+195	GAN2	GAN[field]	N	196	LOC	_
+196	5(asz)	5(asz)[one]	NU	191	parataxis	_
+197	3(barig)	3(bariga)[unit]	N	196	nummod	_
+198	lugal-x	_	_	196	DAT	_
+						
+199	2(esze3)	2(esze)[unit]	N	202	nummod	_
+200	1(iku)	1(iku)[unit]	N	199	nummod	_
+201	1/2(iku)	1/2(iku)[unit]	N	199	nummod	_
+202	GAN2	GAN[field]	N	203	LOC	_
+203	8(asz)	8(asz)[one]	NU	196	parataxis	_
+204	lu2-...	_	_	203	DAT	_
+						
+205	a-sza3	aszag[field]	N	4	parataxis	_
+206	...	_	_	205	dep	_
+207	1(bur3)	1(bur)[unit]	N	208	nummod	_
+208	GAN2	GAN[field]	N	209	LOC	_
+209	...	_	_	205	dep	_
+210	2(iku)	2(iku)[unit]	N	211	nummod	_
+211	GAN2	GAN[field]	N	212	LOC	_
+212	...	_	_	209	list	_
+213	1(iku)	1(iku)[unit]	N	214	nummod	_
+214	GAN2	GAN[field]	N	215	LOC	_
+215	...	_	_	209	dep	_
+216	...	_	_	209	dep	_
+						
+217	...-an-na	_	_	227	dep	_
+218	...	_	_	227	dep	_
+219	DISZ-zu-x	_	_	227	dep	_
+220	...	_	_	227	dep	_
+221	lu2-bad-x	_	_	227	dep	_
+222	...	_	_	227	dep	_
+223	gur	gur[unit]	N	227	dep	_
+224	lugal-x	_	_	227	dep	_
+225	...	_	_	227	dep	_
+226	2(barig)	2(barig)[unit]	N	227	nummod	_
+227	3(ban2)	3(ban)[unit]	N	239	dep	_
+228	mes-e2	Mese[1]	PN	227	DAT	_
+229	x	_	_	227	dep	_
+230	...	_	_	227	dep	_
+231	du3	gin[quality_designation]	V	227	dep	_
+232	...	_	_	227	dep	_
+						
+233	4(iku)	4(iku)[unit]	N	235	nummod	_
+234	1/4(iku)	1/4(iku)[unit]	N	233	nummod	_
+235	GAN2	GAN[field]	N	239	LOC	_
+236	4(asz)	4(asz)[one]	NU	239	nummod	_
+237	2(barig)	2(barig)[unit]	N	236	nummod	_
+238	3(ban2)	3(ban)[unit]	N	236	nummod	_
+239	gur	gur[unit]	N	0	root	_
+240	a-ra2	ara[times]	N	239	acl	_
+241	1(disz)-kam	1(disz)[one]	NU	240	nummod	_
+242	3(iku)	3(iku)[unit]	N	245	nummod	_
+243	1/2(iku)	1/2(iku)[unit]	N	242	nummod	_
+244	1/4(iku)	1/4(iku)[unit]	N	242	nummod	_
+245	GAN2	GAN[field]	N	248	LOC	_
+246	4(asz)	4(asz)[one]	NU	248	nummod	_
+247	3(barig)	3(bariga)[unit]	N	246	nummod	_
+248	gur	gur[unit]	N	239	list	_
+249	a-ra2	ara[times]	N	248	acl	_
+250	2(disz)-kam	2(disz)[one]	NU	249	nummod	_
+251	lu2-dingir-ra	Ludingira[1]	PN	239	DAT	_
+						
+252	1(esze3)	1(esze)[unit]	N	253	nummod	_
+253	GAN2	GAN[field]	N	257	LOC	_
+254	1(u)	1(u)[ten]	NU	257	nummod	_
+255	la2	la[hang]	V	254	acl	_
+256	1(asz)	1(asz)[one]	NU	255	nummod	_
+257	gur	gur[unit]	N	239	parataxis	_
+258	ur-{d}en-lil2-la2	Urenlilla[1]	PN	239	DAT	_
+						
+259	...	_	_	260	nummod	_
+260	GAN2	GAN[field]	N	264	LOC	_
+261	1(asz)	1(asz)[one]	NU	264	nummod	_
+262	4(barig)	4(bariga)[unit]	N	261	nummod	_
+263	x	_	_	261	nummod	_
+264	gur	gur[unit]	N	257	parataxis	_
+265	...	_	_	264	dep	_
+						
+266	2(iku)	2(iku)[unit]	N	267	nummod	_
+267	GAN2	GAN[field]	N	268	LOC	_
+268	...	_	_	281	dep	_
+269	bar	bar[unknown]	_	268	dep	_
+270	...	_	_	268	dep	_
+271	1(bur3)	1(bur)[unit]	N	274	nummod	_
+272	x	_	_	271	nummod	_
+273	x	_	_	271	nummod	_
+274	GAN2	GAN[field]	N	275	LOC	_
+275	...	_	_	268	dep	_
+276	...	_	_	275	nummod	_
+277	x	_	_	275	DAT	_
+278	...	_	_	277	dep	_
+						
+279	1(bur3)	1(bur)[unit]	_	280	nummod	_
+280	GAN2	GAN[field]	N	281	LOC	_
+281	...	_	_	0	root	_
+282	ur-x-...	_	_	281	DAT	_
+						
+283	5(iku)	5(iku)[unit]	N	284	nummod	_
+284	GAN2	GAN[field]	N	285	LOC	_
+285	...	_	_	281	parataxis	_
+286	1(esze3)	1(esze)[unit]	N	288	nummod	_
+287	1/2(iku)	1/2(iku)[unit]	N	286	nummod	_
+288	GAN2	GAN[field]	N	292	LOC	_
+289	2(asz)	2(asz)[one]	NU	292	nummod	_
+290	3(barig)	3(bariga)[unit]	N	289	nummod	_
+291	x	_	_	289	dep	_
+292	gur	gur[unit]	N	285	list	_
+293	ur-{d}en-lil2-la2	Urenlilla[1]	PN	285	DAT	_
+						
+294	1(esze3)	1(esze)[unit]	N	295	nummod	_
+295	GAN2	GAN[field]	N	299	LOC	_
+296	1(asz)	1(asz)[one]	NU	299	nummod	_
+297	2(barig)	2(barig)[unit]	N	296	nummod	_
+298	3(ban2)	3(ban)[unit]	N	296	nummod	_
+299	gur	gur[unit]	N	285	parataxis	_
+300	ur-x-...	_	_	299	DAT	_
+						
+301	1(bur3)	1(bur)[unit]	N	302	nummod	_
+302	GAN2	GAN[field]	N	306	LOC	_
+303	x	_	_	306	nummod	_
+304	2(barig)	2(barig)[unit]	N	303	nummod	_
+305	4(ban2)	4(ban)[unit]	N	303	nummod	_
+306	gur	gur[unit]	N	299	parataxis	_
+307	lugal-x-sar	_	_	306	DAT	_
+						
+308	a-sza3	aszag[field]	N	0	root	_
+309	...-nu-du11	_	_	308	dep	_
+310	szunigin	szunigin[total]	N	308	dep	_
+311	...	_	_	315	dep	_
+312	sze	sze[unit]	N	310	parataxis	_
+313	1(esze3)	1(esze)[unit]	N	315	nummod	_
+314	3(iku)	3(iku)[unit]	N	313	nummod	_
+315	GAN2	GAN[field]	N	310	parataxis	_
+						
+316	szunigin	szunigin[total]	N	310	parataxis	_
+317	x-ni	_	_	316	dep	_
+318	9(gesz2)	9(gesz)[sixty]	NU	321	nummod	_
+319	5(u)	5(u)[ten]	NU	318	nummod	_
+320	8(asz)	8(asz)[one]	NU	318	nummod	_
+321	x	_	_	324	dep	_
+322	3(ban2)	3(ban)[unit]	N	324	nummod	_
+323	5(disz)	5(disz)[one]	NU	322	nummod	_
+324	sila3	sila[unit]	N	316	parataxis	_
+325	gur	gur[unit]	N	324	appos	_
+						
+326	apin	apin[plow]	N	0	root	_
+327	x	_	_	326	dep	_
+328	gid2-da	gid[long]	V	326	amod	_
+329	a-sza3	aszag[field]	N	330	nmod	_
+330	musz-bi-an-na	Muszbi'anna[1]	PN	326	LOC	_
+331	mu	mu[year]	N	326	LOC	_
+332	en	en[priest]	N	335	ERG	_
+333	{d}nanna	Nanna[1]	DN	332	GEN	_
+334	masz-e	masz[goat]	N	335	ABS	_
+335	x	_	_	331	ccomp	_
+336	x	_	_	326	dep	_
+337	x	_	_	326	dep	_
