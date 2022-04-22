@@ -1,10 +1,20 @@
+# P110613
+# (Lagash, 21st c.)
+
+## tokens 4-6 complemented according to Zólyomi (2016)
+## Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf:
+
 # NSGU 32, Hayes p.334					
 1	di-til-la	_	_	0	root
 2	{m}szesz-kal-la	_	_	7	ERG
 3	dumu-ur-{d}lamar-ka-ke4	_	_	2	appos
-4	arad2-	_	_	7	ccomp
-5	ur-{d}sahar-{d}ba-u2-ka	_	_	4	GEN
-6	nu-u3-me-en3	_	_	4	cop
+# 4-7 : "I am not a slave of Ur-Kuš-Bau." (Zolyomi 2016: 502; NG 32 obv. 3)
+# Z: 1	arad	_	slave	0	root	_
+4	arad2	_	slave	7	ccomp
+# Z: 2	ur-dkuš-dba-u₂-ka	_	PN=GEN=ABS	1	GEN	_
+5	ur-{d}sahar-{d}ba-u2-ka	_	PN.GEN.ABS	4	GEN
+# Z: 3	nu-u₃-me-en3	_	NEG-FIN-COP-1.SG.S	1	cop	_
+6	nu-u3-me-en3	_	NEG.FIN.COP.1-SG-S	4	cop
 7	bi2-in-dug4	_	_	1	parataxis
 8	ur-{d}lamar	_	_	20	LOC
 9	ab-ba-szesz-kal-la-ke4	_	_	8	appos
