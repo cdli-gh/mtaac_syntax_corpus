@@ -1,0 +1,33 @@
+# Q001542 fragments
+
+# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC
+							
+# Annotation of Sumerian syntax							
+# http://oracc.museum.upenn.edu/doc/help/languages/sumerian/syntax/index.html							
+# https://github.com/oracc/oracc/tree/master/misc/ssa3/t							
+
+
+# Q001542							
+							
+1	gu₃-de₂-a	gu₃-de₂-a	RN	4	ABS	_	_
+2	ensi₂	ensi₂	N	1	appos	_	_
+3	lagaš{ki}	lagaš{ki}	SN	2	appos	_	_
+4	ŋeštug₂	ŋeštug₂	N	0	root	_	_
+5	daŋal-a-kam	daŋal	V/i	4	amod	_	_
+
+# Q001542							
+							
+1	lu₂	lu₂	N	14	GEN+disloc	_	_
+2	e₂-an-na-ta	e₂-an-na	TN	3	ABL	_	_
+3	ib₂-ta-ab-|E₃.E₃|-a	|E₃.E₃|	V/i	1	acl	_	_
+4	ib₂-zi-re-a	zi	V/t	1	acl	_	_
+5	mu-sar-a-ba	mu-sar-ra	N	7	LOC	_	_
+6	šu	šu	N	7	ABS	_	_
+7	bi₂-ib₂-uru₁₂-a	uru₁₂	V/t	1	acl	_	_
+8	{d}inana	{d}inana	DN	14	ERG	_	_
+9	nin	nin	N	8	appos	_	_
+10	kur-kur-ra-ke₄	kur-kur	N	9	GEN	_	_
+11	saŋ-ŋa₂-ne₂	saŋ	N	14	DAT	_	_
+12	unken-na	unken	N	14	LOC	_	_
+13	nam	nam	N	14	ABS	_	_
+14	he₂-ma-kud-e	kud	V/t	0	root	_	_

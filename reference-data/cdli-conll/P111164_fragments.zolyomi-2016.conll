@@ -1,0 +1,20 @@
+# P111164
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P111164
+#(399) NG 205 obv. 1:2–4 (Lagash, 21st c.) (P111164)
+#“The heirs of Maš-gula raised a claim for (lit. ‘put a word on’) Igi-saga, the slave of Maš- gula”
+1	migi-sag₉-ga	_	PN₁	7	LOC	_
+2	urdu₂	_	slave	1	appos	_
+3	maš-gu-la-ra,	_	PN₂=GEN=L2.H	2	GEN	_
+4	i₃-bi₂-la	_	heir	7	ERG	_
+5	maš-gu-la-ke₄-ne,	_	PN₂=GEN=PL=ERG	4	GEN	_
+6	inim	_	word=ABS	7	ABS	_
+7	in-ni-ŋa₂ŋarar-eš	_	FIN-3.SG.H-L2-3.SG.H.A-place-3.PL	0	root	_
+

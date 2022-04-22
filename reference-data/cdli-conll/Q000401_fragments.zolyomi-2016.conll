@@ -1,0 +1,28 @@
+# Q000401
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# Q000401
+#(455) Shulgi G 8 (ETCSL 2.4.2.07)
+#“Who ever instructed divine Enlil?”
+1	den-lil₂-da	_	DN=COM	4	COM	_
+2	a-ba	_	who=ERG	4	ERG	_
+3	a₂	_	arm=ABS	4	ABS	_
+4	mu-da-an-aŋ₂	_	VEN-3.SG.H-COM-3.SG.H.A-measure-3.SG.P	0	root	_
+
+#
+#(440) =(448) = (488) Shulgi H Segment D 19 (= Ni 2275 iv 19) (ETCSL 2.4.2.08)
+#“May he (= Shulgi) make the people eat fine food, may he make them drink sweet water!”
+1	uŋ₃-e	_	people=L3.NH	4	LOC	_
+2	u₂	_	food	4	ABS	_
+3	nir-ŋal₂	_	fine=ABS	2	amod	_
+4	ḫa-bi₂-ib₂-gu₇-e	_	MOD-3.SG.NH-L3-3.SG.NH.P-eat-3.SG.A	0	root	_
+5	a	_	water	7	ABS	_
+6	dug₃	_	sweet=ABS	5	amod	_
+7	ḫa-bi₂-na₈-na₈	_	MOD-3.SG.NH-L3-3.SG.NH.P-drink~PF-3.SG.A	4	parataxis	_
+

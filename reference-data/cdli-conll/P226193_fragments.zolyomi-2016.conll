@@ -1,0 +1,17 @@
+# P226193
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P226193
+#(15) Shulgi 2046 1’-3’ (RIME 3/2.1.2.2046) (Ur, 21st c.) (P226193)
+#“for the well-being of Shulgi, the protective god of his land”
+1	nam-til₃	_	P1life	0	TERM	_
+2	dšul-gi	_	P3[P1PN	1	GEN	_
+3	diŋir	_	P1god	2	appos	_
+4	kalam-ma-na-ka-še₃	_	P3[P1land=P33.SG.H.POSS=P5GEN]=P5GEN]=P5TERM	3	GEN	_
+

@@ -1,0 +1,185 @@
+# Q001103
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# Q001103
+#(1) En-metena 1 3:4 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+1	e-ma-ta-bala	_	FIN-VEN-MID-ABL-L2-cross-3.SG.S	0	root	_
+
+# Q001103
+#(3) En-metena 1 2:5 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+1	e-me-sar-sar	_	FIN-VEN-3.SG.NH-L2-3.SG.H.A-write~PL-3.SG.P	0	root	_
+
+# Q001103
+#(6) En-metena 1 2:8 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+1	bi₂-gi₄	_	3.SG.NH-L3-3.SG.H.A-return-3.SG.P	0	root	_
+
+# Q001103
+#(7) En-ana-tum I 5 4:8 (RIME 1.9.4.5) (Lagash, 25th c.) (Q001103)
+1	ḫe₂-na-še₃-ŋal₂	_	MOD-FIN-3.SG.H-DAT-TERM-3.SG.H.A-exist-3.SG.P	0	root	_
+
+# Q001103
+#(8) En-metena 1 6:8 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+1	ḫe₂-na-ši-gub	_	MOD-FIN-3.SG.H-DAT-TERM-stand-3.SG.S	0	root	_
+
+# Q001103
+#(16) = (41) En-metena 1 1:1–3 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“Enlil, the king of all lands, the father of all gods”
+1	den-lil₂,	_	P1DN	0	ERG	_
+2	lugal	_	P1king	1	appos	_
+3	kur-kur-ra,	_	P3[P1land~PL=P5GEN]	2	GEN	_
+4	ab-ba	_	P1father	1	appos	_
+5	diŋir-diŋir-re₂-ne-ke₄	_	P3[P1god~PL=P4PL=P5GEN]=P5ERG	4	GEN	_
+
+# Q001103
+#(58) En-metena 1 6:26–29 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“After there has been a revolt against him in his city, may the people kill him in the middle of his city!”
+1	nam-lu₂-lu₇	_	people=ERG	4	ERG	_
+2	iri-na	_	city=3.SG.H.POSS=L1	4	LOC	_
+3	šu	_	hand=ABS	4	ABS	_
+4	u₃-na-zig₃	_	ANT-3.SG.H-DAT-L1.SYN-rise-3.SG.S	0	root	_
+5	šag₄	_	heart	7	LOC	_
+6	iri-na-ka,	_	city=3.SG.H.POSS=GEN=L1	5	GEN	_
+7	ḫa-ne₂-gaz-zeₓ(AB₂.ŠA₃.GE)	_	MOD-L1-3.SG.H.P-kill-3.SG.A	4	parataxis	_
+
+# Q001103
+#(77) En-metena 1 3:25–27 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“He piled up their burial mounds in five places.”
+1	SAHAR.DU6.TAK4-be₂,	_	burial.mound=3.SG.NH.POSS=ABS	4	ABS	_
+2	ki	_	P1place	4	LOC	_
+3	5-a,	_	P25=P5L2.NH	2	nummod	_
+4	i3-mi-dub	_	FIN-VEN-3.SG.NH-L2-3.SG.H.A-pile.up-3.SG.P	0	root	_
+
+# Q001103
+#(88) En-metena 1 6:21–23 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“After Ningirsu had thrown a battle-net on him (= the Ummaite), ….”
+1	dnin-ŋir₂-su-ke₄,	_	DN=ERG	3	ERG	_
+2	sa-šuš-gal	_	battle.net=ABS	3	ABS	_
+3	u₃-ni-šuš	_	ANT-3.SG.H-L2-3.SG.H.A-cover-3.SG.P	0	root	_
+
+# Q001103
+#(95) En-metena 1 6:15–16 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“who crosses (the boundary levees) in order to take away fields”
+1	a-šag₄ašag	_	field=ABS	3	ABS	_
+2	tum₃-de₃,	_	bring-PF=DAT.NH	3	DAT	_
+3	am₆-ta-bala-e-da	_	FIN-VEN-3.SG.NH-ABL-L2-cross-PF-3.SG.S-SUB	0	SUB	_
+
+# Q001103
+#(97) En-metena 1 1:28–29 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“By the order of Enlil, he (= Ningirsu) threw a battle net on it (= the city Umma).”
+1	inim	_	word	4	ABL	_
+2	den-lil₂-la₂-ta	_	DN=GEN=ABL	1	GEN	_
+3	sa-šuš-gal	_	battle.net=ABS	4	ABS	_
+4	bi₂-šuš	_	3.SG.NH-L2-3.SG.H.A-cover-3.SG.P	0	root	_
+
+# Q001103
+#(106) = (311) En-metena 1 2:27 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“As this (amount of) barley cannot not be repaid, ….”
+1	bar	_	outside	0	LOC	_
+2	še-be₂	_	grain=DEM=ABS	3	ABS	_
+3	nu-da-su₃-su₃-da-ka	_	NEG-FIN-3.SG.NH-COM-repay~PF-PF-3.SG.S=SUB=GEN=L2.NH	1	SUB+GEN	_
+
+# Q001103
+#(122) En-metena 1 6:15–16 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“who crosses (the boundary levees) in order to take away fields”
+1	a-šag₄ašag	_	field=ABS	3	ABS	_
+2	tum₃-de₃,	_	bring-PF=DAT.NH	3	DAT	_
+3	am₆-ta-bala-e-da	_	FIN-VEN-3.SG.NH-ABL-L2-cross-PF-3.SG.S-SUB	0	SUB	_
+
+# Q001103
+#(181) En-metena 1 6:21–23   (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“After Ningirsu had thrown a battle-net on him (= the Ummaite), ….”
+1	dnin-ŋir₂-su-ke₄,	_	DN=ERG	3	ERG	_
+2	sa-šuš-gal	_	battle.net=ABS	3	ABS	_
+3	u₃-ni-šuš	_	ANT-3.SG.H-L2-3.SG.H.A-cover-3.SG.P	0	root	_
+
+# Q001103
+#(186) En-metena 1 2:4–5 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“He set up inscribed stelae all over along that dike.”
+1	eg₂-ba	_	dike=DEM=L2.NH	3	LOC	_
+2	na-ru₂-a	_	stela=ABS	3	ABS	_
+3	e-me-sar-sar	_	FIN-VEN-3.SG.NH-L2-3.SG.A-write~PL-3.SG.P	0	root	_
+
+# Q001103
+#(241) En-metena 1 3:34–37 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“Il claimed the rulership of Umma for himself.”
+1	il₂-le,	_	PN=ERG	5	ERG	_
+2	nam-ensi₂,	_	rulership	5	ABS	_
+3	ummaki-a,	_	GN=GEN=ABS	2	GEN	_
+4	šu	_	hand=L3.NH	5	LOC	_
+5	e-ma-ti	_	FIN-VEN-MIDD-3.SG.H.A-approach-3.SG.P	0	root	_
+
+# Q001103
+#(281) En-metena 1 1:39–42 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“(E-ana-tum) marked out the boundary together with Enakale, ruler of Umma.”
+1	en-a₂-kal-le,	_	PN	5	COM	_
+2	ensi₂	_	ruler	1	appos	_
+3	ummaki-da	_	GN=GEN=COM	2	GEN	_
+4	ki	_	earth=ABS	5	ABS	_
+5	e-da-sur	_	FIN-3.SG.H-COM-3.SG.H.A-press-3.SG.P	0	root	_
+
+# Q001103
+#(317) En-metena 1 2:1–3 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“He made the dike lead from the Id-nun until the Gu-edena.”
+1	eg₂-be₂	_	dike=DEM=ABS	4	ABS	_
+2	id₂-nun-ta,	_	GN=ABL	4	ABL	_
+3	gu₂-eden-na-še₃,	_	GN=TERM	4	TERM	_
+4	ib₂-ta-ni-e₃	_	FIN-3.SG.NH-ABL-L1-3.SG.H.A-leave-3.SG.P	0	root	_
+
+# Q001103
+#(328) En-metena 1 1:8–13 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“By the order of Ishtaran, Mesalim, king of Kish, laid the measuring line on it, and set up a stela on that place.”
+1	me-salim,	_	RN	7	ERG	_
+2	lugal	_	king	1	appos	_
+3	kiški-ke₄	_	GN=GEN=ERG	2	GEN	_
+4	inim	_	word	7	ABL	_
+5	dištaran-na-ta,	_	DN=GEN=ABL	4	GEN	_
+6	eš₂-gana₂	_	measuring.line=ABS	7	ABS	_
+7	be₂-ra,	_	3.SG.NH-L2-3.SG.H.A-hit-3.SG.P	0	root	_
+8	ki-ba	_	ki=DEM=L2.NH	10	LOC	_
+9	na	_	stone=ABS	10	ABS	_
+10	bi₂-du₃	_	3.SG.NH-L2-3.SG.H.A-build-3.SG.P	7	parataxis	_
+
+# Q001103
+#(376) En-metena 1 6:28–29 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“May (the people) kill him in the middle of his city!”
+1	šag₄	_	heart	3	LOC	_
+2	iri-na-ka,	_	city=3.SG.H.POSS=GEN=L1	1	GEN	_
+3	ḫa-ne₂-gaz-zeₓ(AB₂.ŠA₃.GE)	_	MOD-L1-3.SG.H.P-kill-3.SG.A	0	root	_
+
+# Q001103
+#(382) En-metena 1 5:12–13 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“He built the fundaments of Namnunda-kigara from stone.”
+1	nam-nun-da-ki-ŋar-ra,	_	CN=GEN	4	GEN+disloc	_
+2	ur₂-be₂	_	base=3.SG.NH.POSS=ABS	4	ABS	_
+3	na₄-a	_	stone=L1	4	LOC	_
+4	mu-na-ni-du₃	_	VEN-3.SG.H-DAT-L1-3.SG.H.A-build-3.SG.P	0	root	_
+
+# Q001103
+#(387) En-metena 1 6:21–23 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“After Ningirsu had thrown a battle-net on him (= the Ummaite), ….”
+1	dnin-ŋir₂-su-ke₄,	_	DN=ERG	3	ERG	_
+2	sa-šuš-gal	_	battle.net=ABS	3	ABS	_
+3	u₃-ni-šuš	_	ANT-3.SG.H-L2-3.SG.H.A-cover-3.SG.P	0	root	_
+
+# Q001103
+#(388) En-metena 1 1:28–29 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“By the order of Enlil, he (= Ningirsu) threw a battle net on it (= the city Umma).”
+1	inim	_	word	4	ABL	_
+2	den-lil₂-la₂-ta	_	DN=GEN=ABL	1	GEN	_
+3	sa-šuš-gal	_	battle.net=ABS	4	ABS	_
+4	bi₂-šuš	_	3.SG.NH-L2-3.SG.H.A-cover-3.SG.P	0	root	_
+
+# Q001103
+#(428) En-metena 1 2:6–8 (RIME 1.9.5.1) (Lagash, 25th c.) (Q001103)
+#“He restored the stele of Mesalim (lit. ‘returned it to its place’).”
+1	na-ru₂-a,	_	stele	4	ABS	_
+2	me-salim-ma,	_	PN=GEN=ABS	1	GEN	_
+3	ki-be₂	_	place=3.SG.NH.POSS=L3.NH	4	LOC	_
+4	bi₂-gi₄	_	3.SG.NH-L3-3.SG.H.A-return-3.SG.P	0	root	_
+

@@ -1,0 +1,18 @@
+# Q000410
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# Q000410
+#(370) Shulgi R 2 (ETCSL 2.4.2.18)
+#“Father Enlil looked at you with approval.”
+1	[a]-⸢a⸣	_	father	2	nmod	_
+2	den-lil₂-le	_	DN=ERG	5	ERG	_
+3	igi	_	face	5	ABS	_
+4	zid	_	right=TL=ABS	3	amod	_
+5	mu-u₃-ši-bar	_	VEN-2.SG-TERM-3.SG.H.A-direct-3.SG.P	0	root	_
+

@@ -1,0 +1,41 @@
+# Q001792						
+# project: etcsri 						
+# textid: Q001792 						
+# file: 00atf/ETCSRI_RIME3_2.atf 						
+# langs: sux 						
+# type: text 						
+# xml:id: Q001792.U0 						
+# bracketing_level: 0 						
+# m/@k=genre : Royal Inscription 						
+# m/@k=period : Ur III 						
+# ID	WORD	BASE	MORPH2			_
+1	{d}en-lil₂	{d}en-lil₂	N1=NAME	30	DAT	_
+2	lugal	lugal	N1=STEM	1	appos	_
+3	kur-kur-ra	kur-kur	N1=STEM-RDP.N5=GEN	2	GEN	_
+4	lugal	lugal	N1=STEM	1	appos	_
+5	ki	ki	N1=STEM.N5=ABS	6	ABS	_
+6	aŋ₂-ŋa₂-ni-ir	aŋ₂	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	4	acl	_
+7	{d}amar-{d}suen	{d}amar-{d}suen	N1=NAME	30	ERG	_
+8	{d}en-lil₂-le	{d}en-lil₂	N1=NAME.N5=ERG	11	ERG	_
+9	nibru{ki}-a	nibru{ki}	N1=NAME.N5=L1	11	LOC	_
+10	mu	mu	N1=STEM.N5=ABS	11	ABS	_
+11	pad₃-da	pad₃	NV2=STEM.NV4=SUB	7	acl	_
+12	saŋ-us₂	saŋ-us₂	NV2=STEM	7	appos	_
+13	e₂	e₂	N1=STEM	12	GEN	_
+14	{d}en-lil₂-ka	{d}en-lil₂	N1=NAME.N5=GEN.N5=GEN	13	GEN	_
+15	lugal	lugal	N1=STEM	7	appos	_
+16	kalag-ga	kalag	NV2=STEM.NV4=SUB	15	amod	_
+17	lugal	lugal	N1=STEM	7	appos	_
+18	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	17	GEN	_
+19	lugal	lugal	N1=STEM	7	appos	_
+20	an-ub-da	an-ub-da	N1=STEM	19	GEN	_
+21	limmu₂-ba-ke₄	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	20	nummod	_
+22	e₂	e₂	N1=STEM	30	ABS	_
+23	lal₃	lal₃	N1=STEM.N5=ABS	29	ABS	_
+24	i₃-nun	i₃-nun	N1=STEM.N5=ABS	23	conj	_
+25	u₃	u₃	N1=STEM	23	cc	_
+26	ŋeštin	ŋeštin	N1=STEM.N5=ABS	23	conj	_
+27	ki	ki	N1=STEM	30	LOC	_
+28	sizkur₂-ra-ka-na	sizkur₂	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=L1	27	GEN	_
+29	nu-silig-ge	silig	NV1=NEG.NV2=STEM.NV3=PF.N5=ABS	22	acl	_
+30	mu-na-an-du₃	du₃	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	0	root	_

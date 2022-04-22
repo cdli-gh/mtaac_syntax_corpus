@@ -1,0 +1,16 @@
+# Q000842
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# Q000842
+#(60) = (204) Rimush 18 18–22 (RIME 2.1.2.18) (Agade, 23rd c.) (Q000842)
+#“Whoever obliterates this inscription, ….”
+1	lu₂,	_	person	0	ABS	_
+2	im-sar-ra-e,	_	P1inscription=P2DEM=P5ABS	3	ABS	_
+3	ab-ha-lam-me-a	_	FIN-3.SG.NH.P-obliterate-3.SG.A-SUB=ABS	1	SUB	_
+

@@ -1,0 +1,19 @@
+# P129886
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P129886
+#(349) SNAT 125 obv. 4–7 (unknown, 21st c.) (P129886)
+#“Ur-Nintura bought (a maiden) from (lit. ‘bartered [a maiden] towards’) Ur-Suen and Nindubsar, his wife (for 2 and 2/3 shekels of silver ).”
+1	ur-dnin-tur₅-ke₄,	_	PN₁=ERG	6	ERG	_
+2	ur-dsuen	_	PN₂	6	TERM	_
+3	u₃,	_	and	2	cc	_
+4	nin-dub-sar	_	PN₃	2	conj	_
+5	dam-ne₂-še₃,	_	wife=3.SG.H.POSS=TERM	4	appos	_
+6	in-ne-ši-sa₁₀	_	FIN-3.PL-TERM-3.SG.H.A-buy-3.SG.P	0	root	_
+

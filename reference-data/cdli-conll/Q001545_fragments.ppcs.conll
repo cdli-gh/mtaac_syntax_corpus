@@ -1,0 +1,25 @@
+# Q001545	fragments
+
+# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC
+							
+# Annotation of Sumerian syntax							
+# http://oracc.museum.upenn.edu/doc/help/languages/sumerian/syntax/index.html							
+# https://github.com/oracc/oracc/tree/master/misc/ssa3/t							
+							
+# Q001545							
+1	gu₃-de₂-a	gu₃-de₂-a	RN	14	ERG	_	_
+2	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	DN	10	ERG	_	_
+3	nin-a-ne₂	nin	N	2	appos	_	_
+4	lagaš{ki}	lagaš{ki}	SN	10	ABL	_	_
+5	iri	iri	N	4	appos	_	_
+6	ki	ki	N	7	ABS	_	_
+7	aŋ₂-ŋa₂-ni-ta	aŋ₂	V/t	5	amod	_	_
+8	unu₆	unu₆	N	10	LOC	_	_
+9	šuba₃-a	šuba₃	V/i	8	amod	_	_
+10	mu-ni-tud-da-a	tud	V/t	1	SUB	_	_
+11	e₂	e₂	N	14	ABS	_	_
+12	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	DN	11	GEN	_	_
+13	nin-a-na	nin	N	12	appos	_	_
+14	du₃-de₃	du₃	V/t	0	root	_	_
+15	u₃	u₃	N	16	ABS	_	_
+16	nu-ma-ši-kur₉(REC145)	kur₉(REC145)	V/i	14	parataxis	_	_

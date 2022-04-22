@@ -1,0 +1,23 @@
+# Q000448
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# Q000448
+#(275) = (397) Iddin-Dagan B 56 (ETCSL 2.5.3.2)
+#“All the foreign lands rest on the meadows thanks to you.”
+1	kur-kur	_	land~PL=ABS	3	ABS	_
+2	u₂-sal-la	_	meadow=L2.NH	3	LOC	_
+3	mu-e-re-nu₂	_	VEN-2.SG-DAT-L2-lie-3.SG.S	0	root	_
+
+# Q000448
+#(276) Iddin-Dagan B 53 (ETCSL 2.5.3.2)
+#“Your kingship is good for the people.” = “The people like your kingship.”
+1	nam-lugal-zu	_	kingship=2.SG.POSS=ABS	3	ABS	_
+2	uŋ₃-e	_	people=DAT.NH	3	DAT	_
+3	ba-sag₉	_	3.SG.NH-DAT-good-3.SG.S	0	root	_
+

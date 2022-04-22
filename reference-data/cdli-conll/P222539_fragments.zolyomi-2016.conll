@@ -1,0 +1,29 @@
+# P222539
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P222539
+#(107) = (179) = (205) En-metena 7 14–16 (RIME 1.9.5.7) (Lagash, 25th c.) (P222539)
+#“(For the god Ningirsu, En-metena) fashioned a gurgur vessel of purified silver, from which Ningirsu consumes the monthly oil (offering).”
+1	gur₄-gur₄	_	P1[vessel	8	ABS	_
+2	kug	_	silver	1	GEN	_
+3	luḫ-ḫa	_	clean-PT=GEN]	2	amod	_
+4	i₃	_	P2[oil	7	ABS	_
+5	itud!-da	_	month=GEN=ABS	4	GEN	_
+6	dnin-ŋir₂-su₂-ke₄	_	DN=ERG	7	ERG	_
+7	ab-ta-gu₇-a,	_	FIN-3.SG.NH-ABL-eat-3.SG.A-SUB]=P5ABS	1	SUB	_
+8	mu-na-dim₂	_	VEN-3.SG.H-DAT-3.SG.H.A-create-3.SG.P	0	root	_
+
+# P222539
+#(131) En-metena 7 21–22 (RIME 1.9.5.7) (Lagash, 25th c.) (P222539)
+#“At that time Dudu was the temple administrator of the god Ningirsu.”
+1	ud-ba	_	day=DEM=L1	3	LOC	_
+2	du-du,	_	S[PN=ABS]	3	ABS	_
+3	saŋŋa	_	PC[official	0	root	_
+4	dnin-ŋir₂-su₂-ka-kam	_	DN=GEN=ABS]=COP-3.SG.S	3	GEN	_
+

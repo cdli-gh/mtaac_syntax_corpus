@@ -1,0 +1,18 @@
+# P222400
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P222400
+#(326) E-ana-tum 5 6:2–5 (RIME 1.9.3.5) (Lagash, 25th c.) (P222400)
+#“In addition to the rulership of Lagash, she also gave him the kingship of Kiš.”
+1	nam-ensi₂,	_	rulership	5	ABL	_
+2	lagaški-ta,	_	GN=GEN=ABL	1	GEN	_
+3	⸢nam⸣-lugal	_	kingship	5	ABS	_
+4	kiški,	_	GN=GEN=ABS	3	GEN	_
+5	mu-na-ta-šum₂	_	VEN-3.SG.H-DAT-ABL-3.SG.H.A-give-3.SG.P	0	root	_
+

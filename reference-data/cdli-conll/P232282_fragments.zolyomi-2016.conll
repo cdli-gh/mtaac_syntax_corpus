@@ -1,0 +1,18 @@
+# P232282
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P232282
+#(270) Gudea Statue I 3:4–6 (Lagash, 22nd c.) (P232282)
+#“He built all the great gods of Lagash their temples.”
+1	diŋir	_	god	5	DAT	_
+2	gal-gal	_	great~PL=TL	1	amod	_
+3	lagaški-ke₄-ne,	_	GN=GEN=PL=DAT.H	1	GEN	_
+4	e₂-ne-ne,	_	house=3.PL.POSS=ABS	5	ABS	_
+5	mu-ne-du₃	_	VEN-3.PL-DAT-3.SG.H.A-build-3.SG.P	0	root	_
+

@@ -1,0 +1,17 @@
+# P253193
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P253193
+#(208) MS 4096 rev. 6 (Ur, 21st c.) (P253193)
+#“The promissory oath was sworn before them.”
+1	igi-⸢be₂⸣-še₃	_	face=3.SG.NH.POSS=TERM	4	TERM	_
+2	mu	_	name	4	ABS	_
+3	lugal	_	king=GEN=ABS	2	GEN	_
+4	ba-pad₃	_	MID-call-3.SG.S	0	root	_
+

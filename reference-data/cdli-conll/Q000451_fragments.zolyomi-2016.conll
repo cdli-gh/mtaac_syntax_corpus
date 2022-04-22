@@ -1,0 +1,26 @@
+# Q000451
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# Q000451
+#(371) Ishme-Dagan A Segment A 103 (ETCSL 2.5.4.01)
+#“She indeed looked at me with her life-giving look.”
+1	igi	_	face	3	ABS	_
+2	nam-til₃-la-ka-ne₂	_	life=GEN=3.SG.H.POSS=ABS	1	GEN	_
+3	ḫu-mu-ši-in-bar	_	MOD-VEN-1.SG-TERM-3.SG.H.A-direct-3.SG.P	0	root	_
+
+# Q000451
+#(459) Ishme-Dagan A 90 (ETCSL 2.5.4.01)
+#“The god Utu put justice and reliable words in my mouth.” (“Utu legte mir Gerechtigkeit und zuverlässige Worte in den Mund”.)
+1	dutu	_	DN=ERG	6	ERG	_
+2	niŋ₂-si-sa₂	_	justice	6	ABS	_
+3	inim	_	word	2	appos	_
+4	gi-na,	_	firm-PT=ABS	3	amod	_
+5	ka-ŋa₂	_	mouth=1.SG.POSS=L1	6	LOC	_
+6	ḫa-ma-ni-in-ŋar	_	MOD-1.SG-DAT-L1-3.SG.H.A-place-3.SG.P	0	root	_
+

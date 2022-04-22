@@ -1,0 +1,17 @@
+# P123784
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P123784
+#(442) = (449) OIP 121, 54:3 (Drehem, 21st c.) (P123784)
+#“The dogs were fed with their carcasses”
+#= lit. “The dogs were made eat their carcasses.”
+1	ad₆-be₂	_	carcass=3.SG.NH.POSS=ABS	3	ABS	_
+2	ur-gir₁₅-re	_	dog=L3.NH	3	LOC	_
+3	ba-ab-gu₇	_	MID-3.SG.NH.L3-eat-3.SG.S	0	root	_
+

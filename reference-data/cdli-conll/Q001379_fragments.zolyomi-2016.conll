@@ -1,0 +1,79 @@
+# Q001379
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# Q001379
+#(27) Lugal-zagesi 1 2:30–32 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“Ur raised its head to the sky like a bull because of him.”
+1	urim₂ki-e	_	P1GN=P5ERG	5	ERG	_
+2	gud-gen₇	_	P1bull=P5EQU	5	EQU	_
+3	saŋ	_	P1head=P5ABS	5	ABS	_
+4	an-še₃	_	P1sky=P5TERM	5	TERM	_
+5	mu-dab₆-il₂	_	VEN-3.SG.H-COM-3.SG.NH.A-raise-3.SG.P	0	root	_
+
+# Q001379
+#(44) Lugal-zagesi 1 2:21–22 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“the sovereigns of Sumer and the rulers of all lands”
+1	barag-barag	_	[[P1dais~PL	0	ABS	_
+2	ki-en-gi,	_	P3GN]	1	appos	_
+3	ensi₂	_	[P1ruler	1	appos	_
+4	kur-kur-ra	_	P3land~PL]=P5GEN]=P5ABS	3	GEN	_
+
+# Q001379
+#(175) = (188) Lugal-zagesi 1 2:26–32 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“At that time, while Uruk passed each and every day in joy because of him, Ur raised his head high like a bull because of him”
+1	ud-ba,	_	day=DEM=L1	5	LOC	_
+2	unugki-ge,	_	GN=ERG	5	ERG	_
+3	giri₁₇-zal-a,	_	joy=L1	5	LOC	_
+4	ud	_	day=ABS	5	ABS	_
+5	mu-da-zal-zal-le	_	VEN-3.SG.H-COM-L1.SYN-pass~PL-3.SG.A	0	root	_
+6	urim₂ki-e	_	GN=ERG	10	ERG	_
+7	gud-gen₇	_	bull=EQU	10	EQU	_
+8	saŋ	_	head=ABS	10	ABS	_
+9	an-še₃	_	sky=TERM	10	TERM	_
+10	mu-dab₆-il₂	_	VEN-3.SG.H-COM-3.SG.NH.A-raise-3.SG.P	5	parataxis	_
+
+# Q001379
+#(289) Lugal-zagesi 1 3:24–26 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“Under you the people do spread as abundantly as grass.”
+1	nam-lu₂-ulu₃,	_	mankind=ERG	5	ERG	_
+2	u₂-šim-gen₇,	_	greenery=EQU	5	EQU	_
+3	šu	_	hand	5	ABS	_
+4	daŋal	_	wide=ABS	3	amod	_
+5	ḫa-mu-dab₆-dug₄	_	MOD-VEN-2.SG-COM-3.SG.NH.A-do-3.SG.P	0	root	_
+
+# Q001379
+#(403) Lugal-zagesi 1 3:32–33 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“The good fate they have determined for me ….”
+1	nam	_	fate	3	ABS	_
+2	sag₉-ga	_	good-PT=ABS	1	amod	_
+3	mu-tar-re-eš₂-a	_	VEN-L2-3.SG.H.A-cut-3.PL-SUB=L1	0	SUB-L1	_
+
+# Q001379
+#(434) Lugal-zagesi 1 3:27–28 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“Under my rule the heavenly udder will certainly be ready!”
+1	ubur	_	udder	4	LOC	_
+2	an-na-ke₄	_	heaven=GEN=L3.NH	1	GEN	_
+3	si	_	horn=ABS	4	ABS	_
+4	ḫa-mu-dab₅-sa₂	_	MOD-VEN-1.SG-COM-3.SG.NH.L3-equal-3.SG.S	0	root	_
+
+# Q001379
+#(457) Lugal-zagesi 1 1:44–45 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“(when) he (= Enlil) made all the countries serve him (= Lugalzagesi) (lit. ‘threw all the countries to his feet’).”
+1	kur-kur	_	land~PL=ABS	3	ABS	_
+2	ŋiri₃-na	_	foot=3.SG.H.POSS=L2.NH	3	LOC	_
+3	e-ne₂-seg₁₀-ga-a	_	FIN-3.SG.H-L2-3.SG.H.A-place-3.SG.P-SUB-L1	0	SUB+L1	_
+
+# Q001379
+#(483) Lugal-zagesi 1 3:35–36 (RIME 1.14.20.1) (Uruk, 24th c.) (Q001379)
+#“May I be the foremost shepherd forever!”
+1	sipad	_	shepherd	0	root	_
+2	saŋ-gu₄-ŋal₂,	_	foremost=ABS	1	amod	_
+3	da-ri₂	_	forever=TERM	1	TERM	_
+4	ḫe₂-me	_	MOD-FIN-COP-1.SG.S	1	cop	_
+

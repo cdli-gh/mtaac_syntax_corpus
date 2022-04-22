@@ -1,0 +1,19 @@
+# P113923
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P113923
+#(377) MVN 3, 363 rev. 3–5 (Drehem, 21st c.) (P113923)
+#“These (various animals) are to be subtracted from the sealed tablet of Uršulpae that is in the basket of Urbau.”
+1	kišib₃	_	seal	6	ABL	_
+2	ur-dšul-pa-e₃-ka	_	PN₁=GEN	1	GEN	_
+3	bešeŋ	_	basket	5	LOC	_
+4	ur-dba-u₂-ka	_	PN₂=L1	3	appos	_
+5	i₃-in-ŋal₂-la-ta	_	FIN-L1.SYN-exist-3.SG.S-SUB=ABL	1	SUB	_
+6	tur-re-dam	_	small-PF=ABS=COP-3.SG.S	0	root	_
+

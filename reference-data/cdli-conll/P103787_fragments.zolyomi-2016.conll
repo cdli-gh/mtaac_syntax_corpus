@@ -1,0 +1,34 @@
+# P103787
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P103787
+#(320) AUCT 1, 942 rev. 5–6 (Drehem, 21st c.) (P103787)
+#“These were deducted from Puzur-Era.”
+1	ki	_	place	3	ABL	_
+2	puzur₄-er₃-ra-ta,	_	PN=GEN=ABL	1	GEN	_
+3	ba-zig₃	_	MID-raise-3.SG.S	0	root	_
+
+# P103787
+#(342) AUCT 1, 942 5–8 (Drehem, 21st. c.) (P103787)
+#“Each person 2 silver rings of eight shekels of silver each: Šulgi-nuri, female singer, and Balala, son of Agalum: when they brought in the MAritum-instrument.”
+1	2	_	2	2	nummod	_
+2	ḫar	_	P1ring	6	ABL	_
+3	kug-babbar	_	P2[silver	2	ABL	_
+4	8	_	8	5	nummod	_
+5	giŋ₄-ta-ta,	_	unit=ABL]=P1ABL	3	appos	_
+6	dšul-gi-nu-ri	_	PN₁	0	root	_
+7	nar	_	singer	6	appos	_
+8	munus,	_	woman	6	appos	_
+9	ba-la-la	_	PN₂	6	list	_
+10	dumu	_	child	9	appos	_
+11	a-ga-lum	_	PN₃	6	list	_
+12	ud	_	day	6	LOC	_
+13	ma-ri₂-tum	_	instrument=ABS	14	ABS	_
+14	mu-ni-kur₉-re-ša	_	VEN-L1-3.SG.H.A-enter-3.PL-SUB-L1	12	SUB	_
+

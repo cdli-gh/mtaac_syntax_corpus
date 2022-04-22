@@ -1,0 +1,240 @@
+# P232275
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P232275
+#(167) Gudea Statue B 1:13–14 (Lagash, 22nd c.) (P232275)
+#“The ruler, who revokes these (offerings), ….”
+1	ensi₂,	_	ruler	0	root	_
+2	inim	_	word=ABS	3	ABS	_
+3	bi₂-ib₂-gi₄-gi₄-a	_	3.SG.NH-L3-3.SG.NH.P-return~PF-3.SG.A-SUB	1	SUB	_
+
+# P232275
+#(11) Gudea Statue B 7:24 (Lagash, 21st c.) (P232275)
+#“for (the god) Ningirsu”
+1	dnin-ŋir₂-su-ra	_	P1DN=P5DAT.H	0	DAT	_
+
+# P232275
+#(19) Gudea Statue B 8:24 (Lagash, 21st c.) (P232275)
+#“in the courtyard of Ningirsu, my lord”
+1	kisal	_	P1courtyard	0	LOC	_
+2	dnin-ŋir₂-su	_	P3[P1DN	1	GEN	_
+3	lugal-ŋa₂-ka	_	P1king=P31.SG.POSS=P5GEN]=P5L1	2	appos	_
+
+# P232275
+#(39) Gudea Statue B 8:41–42 (Lagash, 21st c.) (P232275)
+#“the man who changes the orders of Gudea, the ruler of Lagash”
+1	gu₃-de₂-a	_	P1PN	4	GEN+disloc	_
+2	ensi₂	_	P1ruler	1	appos	_
+3	lagaški-ka	_	P3[P1GN=P5GEN]=P5GEN	2	GEN	_
+4	lu₂	_	P1man	0	ABS	_
+5	inim-ne₂	_	P2[P1word=P33.SG.H.POSS=P5ABS	6	ABS	_
+6	ib₂-kur₂-a	_	FIN-3.SG.NH.P-change-3.SG.A-SUB]=P5ABS	4	SUB	_
+
+# P232275
+#(54) Gudea Statue B 5:10–11 (Lagash, 21st c.) (P232275)
+#“No one’s house was entered by the debt collector.”
+1	lu₂	_	person	5	ABS	_
+2	ur₅-ra	_	debt=GEN=ABS	1	GEN	_
+3	e₂	_	house	5	LOC	_
+4	lu₂-ka	_	person=GEN=L1	3	GEN	_
+5	nu-kur₉(REC145)	_	NEG-FIN-L1.SYN-enter-3.SG.S	0	root	_
+
+# P232275
+#(63) Gudea Statue B 9:6–7 (Lagash, 21st c.) (P232275)
+#“May he be slaughtered like an ox on the very day!”
+1	gud-gen₇,	_	ox=EQU	3	EQU	_
+2	ud=ne-na	_	P1day=P2DEM=P5L1	3	LOC	_
+3	ḫe₂-gaz	_	MOD-FIN-kill-3.SG.S	0	root	_
+
+# P232275
+#(67) Gudea Statue B 6:77–7:3 (Lagash, 21st c.) (P232275)
+#“No ruler ever built a temple fashioned like this for Ningirsu.”
+1	e₂	_	house	3	ABS	_
+2	ur₅-gen₇	_	DEM=EQU	3	EQU	_
+3	dim₂-ma,	_	make-PT=ABS	1	acl	_
+4	ensi₂	_	ruler	7	ERG	_
+5	dili-e	_	single=ERG	4	amod	_
+6	dnin-ŋir₂-su-ra,	_	DN=DAT.H	7	DAT	_
+7	nu-na-du₃,	_	NEG-FIN-3.SG.H-DAT-3.SG.H.A-build-3.SG.P	0	root	_
+
+# P232275
+#(69) Gudea Statue B 3:8–9 (Lagash, 21st c.) (P232275)
+#“(when Ningirsu) chose Gudea for (being) the true shepherd of the Land for himself, ….”
+1	gu₃-de₂-a,	_	PN=ABS	5	ABS	_
+2	sipad	_	shepherd	5	TERM	_
+3	zid-še₃	_	right-TL=TERM	2	amod	_
+4	kalam-ma	_	land=L1	5	LOC	_
+5	ba-ni-pad₃-da-a	_	MID-L1-3.SG.H.A-find-3.SG.P-SUB-L1	0	SUB+LOC	_
+
+# P232275
+#(70) Gudea Statue B 6:76 (Lagash, 22nd c.) (P232275)
+#“(After building the E-ninnu for Ningirsu, Gudea, ruler of Lagash,) donated (the booty) to it for ever.”
+#= lit. “(He) made (the Eninnu) treat (the booty) in the manner of a treasure.”
+1	gil-sa	_	treasure=ADV	2	ADV	_
+2	im-mi-ak	_	FIN-VEN-3.SG.NH-L3-3.SG.H.A-act-3.SG.P	0	root	_
+
+# P232275
+#(78) Gudea Statue B 7:30 ( (Lagash, 21st c.) (P232275)
+# “For seven days no grain was ground.”
+# = Lit “For days that are seven (in number) no grain was ground.”
+1	ud	_	S[day=ABS]	0	root	_
+2	7-am₃	_	PC[7=ABS]=COP-3.SG.S	1	nummod	_
+3	še	_	grain=ABS	4	ABS	_
+4	la-ba-ara₃	_	NEG-MID-grind-3.SG.S	1	parataxis	_
+
+# P232275
+#(109) Gudea Statue B 1:13–14 (Lagash, 22nd. c.) (P232275)
+#“The ruler who withdraws (the regular offerings), ….”
+1	ensi₂	_	P1ruler	0	GEN	_
+2	inim	_	P2[word=ABS	3	ABS	_
+3	bi₂-ib₂-gi₄-gi₄-a	_	3.SG.NH-L2-3.SG.NH.P-return~PF-3.SG.A-SUB](=P5GEN)	1	SUB	_
+
+# P232275
+#(115) Gudea Statue B 2:16–17 (Lagash, 22nd. c.) (P232275)
+#“the child born by the goddess Gatumdug”
+1	dumu	_	P1child	0	ERG	_
+2	tud-da	_	P2[bear-PT]	1	acl	_
+3	dŋa₂-tum₂-dug₁₀-ke₄	_	P3[DN=GEN]=P5ERG	2	GEN	_
+
+# P232275
+#(133) Gudea Statue B 7:54 (Lagash, 22nd c) (P232275)
+#“(The statue) is of diorite.”
+1	na₄esi-am₃	_	PC[diorit=ABS]=COP-3.SG.S	0	root	_
+
+# P232275
+#(146) = (213) = (475) Gudea Statue B 7:49–50 (Lagash, 22nd. c.) (P232275)
+#“This statue is of neither silver nor lapis lazuli.”
+1	alan-e,	_	S[statue=DEM=ABS]	3	ABS	_
+2	u₃	_	and	3	cc	_
+3	kug	_	PC[silver=ABS]	0	root	_
+4	nu	_	NEG	3	cop	_
+5	za-gin₃	_	PC[lapis.lazuli=ABS]	3	conj	_
+6	nu-ga-am₃	_	NEG-FIN-COOR-COP=3.SG.S	5	cop	_
+
+# P232275
+#(165) Gudea Statue B 7:21-23 (Lagash, 21st c.) (P232275)
+#“Gudea entrusted the statue with the (following) message: ‘…’.”
+1	gu3-de2-a,	_	PN=ERG	4	ERG	_
+2	alan-e,	_	statue=DAT.NH	4	DAT	_
+3	inim	_	word=ABS	4	ABS	_
+4	im-ma-šum2-mu	_	FIN-VEN-3.SG.NH-DAT-give-3.SG.A	0	root	_
+
+# P232275
+#(168) Gudea Statue B 8:19–20 (Lagash, 22nd c.) (P232275)
+#“… who revokes my gifts, …”
+1	niŋ₂-ba-ŋa₂	_	gift=1.SG.POSS=L2.NH	2	LOC	_
+2	ba-a-gi₄-gi₄-da	_	MID-L2-return~PF-PF-3.SG.S-SUB	0	SUB	_
+
+# P232275
+#(251) Gudea Statue B 4:10 (Lagash, 22nd c.) (P232275)
+#“No one was whipped.”
+1	usan₃	_	whip=ABS	2	ABS	_
+2	la-ba-sag₃	_	NEG-MID-hit-3.SG.S	0	root	_
+
+# P232275
+#(256) = (369) Gudea Statue B 3:6–7 (Lagash, 22nd c.) (P232275)
+#“When Ningirsu had looked favourably upon his city, …”
+1	ud	_	day	0	root	_
+2	dnin-ŋir₂-su-ke₄,	_	DN=ERG	6	ERG	_
+3	iri-ne₂-še₃	_	city=3.SG.H.POSS=TERM	6	TERM	_
+4	igi	_	face	6	ABS	_
+5	zid	_	right-TL=ABS	4	amod	_
+6	im-ši-bar-ra	_	FIN-VEN-3.SG.NH-TERM-3.SG.H.A-direct-3.SG.P-SUB	1	SUB	_
+
+# P232275
+#(315) Gudea Statue B 8:6–9 (Lagash, 22nd c.) (P232275)
+#“The one who takes it (= the statue) out of the Eninnu.”
+1	lu₂	_	lu	0	root	_
+2	e₂-ninnu-ta	_	TN=ABL	3	ABL	_
+3	im-ta-ab-E₃.E₃-a	_	FIN-VEN-3.SG.NH-ABL-3.SG.P-leave-3.SG.A-SUB	1	SUB	_
+
+# P232275
+#(323) Gudea Statue B 3:10–11 (Lagash, 22nd c.) (P232275)
+#“(When) he selected him out of 216.000 people, ….”
+1	šag₄	_	heart	0	LOC	_
+2	lu₂	_	man	5	ABL	_
+3	216.000-ta,	_	216.000=GEN=ABL	2	GEN	_
+4	šu-ne₂	_	hand=3.SG.H.POSS=ABS	5	ABS	_
+5	ba-ta-an-dab₅-ba-a	_	MID-ABL-3.SG.H.A-seize-3.SG.P-SUB=L1	1	SUB	_
+
+# P232275
+#(335) = (418)Gudea Statue B 1:17–19 (Lagash, 22nd c.) (P232275)
+#“May his regular offering in the temple of Ningirsu be withdrawn!”
+1	sa2-dug4-na	_	offer=3SG.POSS=L2.NH	5	LOC	_
+2	e2	_	house	5	ABL	_
+3	dnin-ŋirsu-ka-ta	_	DN=GEN=ABL	2	GEN	_
+4	inim	_	word=ABS	5	ABS	_
+5	ḫe₂-eb2-gi4	_	MOD-FIN-3.SG.NH-L2.SYN-return-3.SG.S	0	root	_
+
+# P232275
+#(353) Gudea Statue B 5:45–47 (Lagash, 22nd c.) (P232275)
+#“He manufactured the cedar-beams into big doors.”
+1	ŋišeren-be₂,	_	cedar=DEM=ABS	4	ABS	_
+2	ig	_	door	4	TERM	_
+3	gal-še₃,	_	great-TL=TERM	2	amod	_
+4	mu-dim₂	_	VEN-3.SG.H.A-make-3.SG.P	0	root	_
+
+# P232275
+#(384) Gudea Statue B 4:7–9 (Lagash, 22nd c.) (P232275)
+#“He (= Gudea) has built the temple of Ningirsu in a place as pure as Eridu.”
+1	e₂	_	house	6	ABS	_
+2	dnin-ŋir₂-su-ka,	_	DN=GEN=ABS	1	GEN	_
+3	eridugki-gen₇,	_	GN=EQU	6	EQU	_
+4	ki	_	place	6	LOC	_
+5	sikil-la	_	pure=TL=L2.NH	4	amod	_
+6	bi₂-du₃	_	3.SG.NH-L2-3.SG.H.A-build-3.SG.P	0	root	_
+
+# P232275
+#(429) Gudea Statue B 5:17 (Lagash, 22nd c.) (P232275)
+#“He restored it for him (lit. ‘returned it to its place’).”
+1	ki-be₂	_	place=3.SG.NH.POSS=L3.NH	2	LOC	_
+2	mu-na-gi₄	_	VEN-3.SG.H-DAT-3.SG.H.A-return-3.SG.P	0	root	_
+
+# P232275
+#(473) Gudea Statue B 5:4 (Lagash, 22nd c.) (P232275)
+#“The wailing woman did not utter laments.”
+1	ama-er₂-ke₄	_	wailing.woman=ERG	3	ERG	_
+2	er₂	_	tears	3	ABS	_
+3	nu-bi₂-dug₄	_	NEG-3.SG.NH-L2-3.SG.H.A-speak-3.SG.P	0	root	_
+
+# P232275
+#(491) Gudea Statue B 9:26 (Lagash, 22nd c.) (P232275)
+#“May he be killed like a bull on the very day!”
+1	gu₄-gen7	_	bull=EQU	3	EQU	_
+2	ud-ne-na	_	day=DEM=L1	3	LOC	_
+3	ḫe₂-gaz	_	MOD-FIN-kill-3.SG.S	0	root	_
+
+# P232275
+#(501) Gudea Statue B 6:77–7:4 (Lagash, 22nd c.) (P232275)
+#“No ruler but he (= Gudea) has ever built a temple fashioned like this  for  the  god  Ningirsu.”
+#= lit. “No ruler has ever built a temple fashioned like this for the god Ningirsu, but he (= Gudea) did built it.”
+1	e₂	_	house	7	ABS	_
+2	ur₅-gen₇	_	DEM=EQU	3	EQU	_
+3	dim₂-ma,	_	make-PT=ABS	1	acl	_
+4	ensi₂	_	ruler	7	ERG	_
+5	dili-e	_	single=ERG	4	amod	_
+6	dnin-ŋir₂-su-ra,	_	DN=DAT.H	7	DAT	_
+7	nu-na-du₃,	_	NEG-FIN-3.SG.H-DAT-3.SG.H.A-build-3.SG.P	0	root	_
+8	na-mu-du₃	_	MOD-VEN-3.SG.H.A-build-3.SG.P	7	parataxis	_
+
+# P232275
+#(505) Gudea Statue B 4:10 (Lagash, 22nd c.) (P232275)
+#“No one was whipped.”
+1	usan₃	_	whip=ABS	2	ABS	_
+2	la-ba-sag₃	_	NEG-MID-hit-3.SG.S	0	root	_
+
+# P232275
+#(506) Gudea Statue B 1:17–19 (Lagash, 22nd c.) (P232275)
+#“May his regular offering in the temple of Ningirsu be withdrawn!”
+1	sa₂-dug₄-na	_	offer=3.SG.NH.POSS=L2.NH	5	LOC	_
+2	e₂	_	house	5	ABL	_
+3	dnin-ŋirsu-ka-ta	_	DN=GEN=ABL	2	GEN	_
+4	inim	_	word=ABS	5	ABS	_
+5	ḫe₂-eb₂-gi₄	_	MOD-FIN-3.SG.NH-L2.SYN-return-3.SG.S	0	root	_
+

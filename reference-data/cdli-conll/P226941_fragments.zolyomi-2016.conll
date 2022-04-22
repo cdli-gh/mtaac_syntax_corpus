@@ -1,0 +1,18 @@
+# P226941
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P226941
+#(150) Shulgi 86 (RIME 3/2.01.02.86) (unknown, 21st c.) (P226941)
+#“Baqartum, the king’s daughter: Shulgi-ili is your slave.”
+1	ba-qar₃-tum,	_	PN1	5	voc	_
+2	dumu-munus	_	daughter	1	appos	_
+3	lugal,	_	king=GEN=ABS	2	GEN	_
+4	dšul-gi-i₃-li₂,	_	S[PN2=abs]	4	ABS	_
+5	arad-zu	_	PC[slave=2SG.POSS=ABS]	0	root	_
+

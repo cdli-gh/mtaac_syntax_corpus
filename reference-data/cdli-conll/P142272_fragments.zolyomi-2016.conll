@@ -1,0 +1,23 @@
+# P142272
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P142272
+#(144) NG 212 obv. 2:4 (Umma, 21st c.) (P142272)
+#“(Lugalazida is to take the assertory oath) that he (= Lugalitida) is a slave of the god Shara”.
+1	arad	_	PC[slave	0	SUB+GEN	_
+2	dšara₂	_	GN=GEN=ABS]	1	GEN	_
+3	i₃-me-a	_	FIN-COP-3.SG.S-SUB=GEN	1	cop	_
+
+# P142272
+#(401) NGU 212 obv. 1:2 (Umma, 21st c.) (P142272)
+#“(It was established that Dinili has bought Agi for 6 shekels of silver.) A claim has been raised for that silver.”
+1	kug-ba	_	silver=DEM=L2.NH	3	LOC	_
+2	inim	_	word=ABS	3	ABS	_
+3	ba-a-ŋa₂-ar	_	MID-L2-put-3.SG.S	0	root	_
+

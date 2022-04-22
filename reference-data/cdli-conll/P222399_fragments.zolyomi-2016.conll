@@ -1,0 +1,89 @@
+# P222399
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P222399
+#(202) E-ana-tum 1 obv. 4:20–22 (RIME 1.9.3.1) (Lagash, 25th c. BCE) (P222399)
+#“He is worthy of the E-ana of Inana of the Ebgal"
+1	e₂-an-na,	_	TN₁	4	LOC	_
+2	dinana,	_	DN	1	GEN	_
+3	eb-gal-ka-ka	_	TN₂=GEN=GEN=L2.NH	2	GEN	_
+4	a-tum₂	_	FIN-3.SG.NH-L2-worthy-3.SG.S	0	root	_
+
+# P222399
+#(329) E-ana-tum 1 obv. 16:17 (RIME 1.9.3.1) (Lagash, 25th c. BCE) (P222399)
+#“(E-ana-tum gave the great battle-net of Enlil to the Ummaite, and) made him swear a promissory oath by it.”
+1	nam	_	fate=ABS	2	ABS	_
+2	e-na-ta-kud	_	FIN-3.SG.H-DAT-ABL-3.SG.H.A-cut-3.SG.P	0	root	_
+
+# P222399
+#(356) = (409) E-ana-tum 1 obv. 4:22–23 (RIME 1.9.3.1) (Lagash, 25th. c.) (P222399)
+#“(Inana) named (lit. ‘called as name’) him (= E-ana-tum) ‘He is worthy of the E-ana  of  Inana of the Ebgal’.”
+1	e₂-an-na,	_	TN₁		LOC	_
+2	dinana,	_	DN	1	GEN	_
+3	eb-gal-ka-ka,	_	TN₂=GEN=GEN=L2.NH	2	GEN	_
+4	a-tum₂	_	FIN-3.SG.NH-L2.SYN-worthy.of-3.SG.S	0	root	_
+5	mu	_	name=TERM	6	TERM	_
+6	mu-ne₂-še₂₁	_	VEN-3.SG.H-L2-3.SG.H.A-call-3.SG.P	4	parataxis	_
+
+# P222399
+#(389) E-ana-tum 1 obv. 18:21–22 (RIME 1.9.3.1) (Lagash, 25th. c.) (P222399)
+#“May (the battle net of Ninhursaga …) be thrown on Umma from above!”
+1	ummaki-a,	_	GN=L2.NH	3	LOC	_
+2	an-ta	_	sky=ABL	3	ABL	_
+3	ḫe₂-šuš	_	MOD-FIN-3.SG.NH-L2.SYN-cover-3.SG.P	0	root	_
+
+# P222399
+#(464) E-ana-tum 1 obv. 16:12–17 (RIME 1.9.3.1) (Lagash, 25th c. BCE) (P222399)
+#“E-ana-tum gave the great battle-net of Enlil to the Ummaite, and made him swear a promissory oath by it.”
+1	lu₂	_	person	6	DAT	_
+2	⸢ummaki⸣-ra,	_	GN=GEN=DAT.H	1	GEN	_
+3	e₂-an-na-tum₂-me,	_	PN=ERG	6	ERG	_
+4	sa-šuš-gal,	_	net	6	ABS	_
+5	den-lilₓ(E₂)-la₂,	_	DN=GEN=ABS	4	GEN	_
+6	e-na-šum₂,	_	FIN-3.SG.H-DAT-3.SG.H.A-give-3.SG.P	0	root	_
+7	nam	_	fate=ABS	8	ABS	_
+8	e-na-ta-kud	_	FIN-3.SG.H-DAT-3.SG.H.A-cut-3.SG.P	6	parataxis	_
+
+# P222399
+#(468) E-ana-tum 1 obv. 4:24-26 (RIME 1.9.3.1) (Lagash, 25th c. BCE) (P222399)
+#“She (= Inana) has made him (= Eanatum) sit on the right knee of the goddess Ninhursaga.”
+1	dnin-hur-saŋ-ra,	_	DN=L2.H	4	LOC	_
+2	dub₃	_	knee	4	LOC	_
+3	zid-da-na,	_	right-PT=3.SG.H.POSS=L2.NH	2	amod	_
+4	mu-ni-tuš	_	VEN-3.SG-L2-3.SG.H.A-sit-3.SG.P	0	root	_
+
+# P222399
+#(469) E-ana-tum 1 rev. 5:32-36 (RIME 1.9.3.1) (Lagash, 25th c. BCE) (P222399)
+#“(If he violates this agreement), may the goddess Ninki, by whom he has sworn, have snakes from the ground bite Umma’s feet!”
+1	dnin-ki,	_	DN	9	ERG	_
+2	nam-ne	_	fate=3.SG.H.POSS=ABS	3	ABS	_
+3	ma-ni-ku₅-ra₂,	_	VEN-DAT-3.SG.H-L3-3.SG.H.A-kud-3.SG.P-SUB=ERG	1	SUB	_
+4	ummaki,	_	GN=GEN	9	GEN+disloc	_
+5	muš	_	snake	9	LOC	_
+6	ki-ta	_	earth=ABL=L3.NH	5	ABL	_
+7	giri₃-ba	_	foot=3.SG.NH.POSS-L2.NH	9	LOC	_
+8	zu₂	_	tooth=ABS	9	ABS	_
+9	ḫe₂-mi-du₃-du₃-e	_	MOD-FIN-3.SG.NH-L2-3.SG.NH.L3-hold~PF-3.SG.A	0	root	_
+
+# P222399
+#(495) E-ana-tum 1 obv. 20:2–21:1 (RIME1.9.3.1) (Lagash, 25th c.) (P222399)
+#“I will (never ever) change its levees and ditches!”
+1	eg₂	_	levee	4	LOC	_
+2	pa₅-be₂,	_	ditch=3.SG.NH.POSS=L3.NH	1	appos	_
+3	šu-bala	_	change=ABS	4	ABS	_
+4	ba-ra-ak-ke₄	_	MOD-3.SG.NH.L3-make-1.SG.A	0	root	_
+
+# P222399
+#(503) E-ana-tum 1 rev. 10:23-25 (RIME1.9.3.1) (Lagash, 25th c.) (P222399)
+#“The stele’s name is not that of man.”
+1	na-ru₂-a,	_	stele=GEN	2	GEN+disloc	_
+2	mu-be₂,	_	name=3.SG.NH.POSS=ABS	3	ABS	_
+3	lu₂-a	_	person=GEN	0	root	_
+4	nu	_	NEG	3	cop	_
+

@@ -1,0 +1,17 @@
+# P256804
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P256804
+#(437) Shulgi D 360 (ETCSL 2.04.02.04)
+#“It (= the boat) was decorated with stars like the sky.”
+1	an-gen₇	_	sky=EQU	4	EQU	_
+2	mul-a	_	star=L1	4	LOC	_
+3	še-er-ka-an	_	ornament=ABS	4	ABS	_
+4	mi-ni-ib₂-dug₄	_	VEN-L1-3.SG.NH.L3-do-3.SG.S	0	root	_
+

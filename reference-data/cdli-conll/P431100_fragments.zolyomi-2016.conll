@@ -1,0 +1,23 @@
+# P431100
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P431100
+#(359) En-ana-tum I 3 15–16 (RIME 1.9.4.3) (Lagash, 24th c.) (P431100)
+#“… on the HAlub-tree lions which he seated for him as doorkeepers.”
+1	ur	_	lion	0	LOC	_
+2	ḫa-lu-ub₂,	_	halub.tree	1	appos	_
+3	i₃-du₈-še₃	_	doorkeeper=TERM	4	TERM	_
+4	mu-na-durunₓ(TUŠ.TUŠ)-na	_	VEN-3.SG.H-DAT-3.SG.H.A-sit.PL-3.SG.P-SUB=L2.NH	1	SUB	_
+
+# P431100
+#(373) En-ana-tum I 3 15–16 (RIME 1.9.4.3) (Lagash, 24th c.) (P431100)
+#“(when …) he set them (= cedar trees) up around the temple.”
+1	e₂-še₃	_	house=TERM	2	TERM	_
+2	mu-na-si-si-ga	_	VEN-3.SG.H-DAT-3.SG.H.A-fill~PL-3.SG.P-SUB	0	SUB	_
+

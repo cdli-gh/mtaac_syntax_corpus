@@ -1,0 +1,33 @@
+# Q001540							
+# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC
+							
+# Annotation of Sumerian syntax							
+# http://oracc.museum.upenn.edu/doc/help/languages/sumerian/syntax/index.html							
+# https://github.com/oracc/oracc/tree/master/misc/ssa3/t							
+							
+# Q001540, 25-27							
+							
+1	nin	nin	N	0	ERG	_	_
+2	an	an	N	5	LOC	_	_
+3	ki-a	ki	N	2	appos	_	_
+4	nam	nam	N	5	ABS	_	_
+5	tar-re-de₃	tar	V/t	1	acl	_	_
+6	{d}nin-tur₅	{d}nin-tur₅	DN	1	appos	_	_
+7	ama	ama	N	6	appos	_	_
+8	diŋir-re-ne-ke₄	diŋir	N	7	GEN	_	_
+							
+# Q001540							
+							
+1	gu₃-de₂-a	gu₃-de₂-a	RN	0	GEN	_	_
+2	lu₂	lu₂	N	1	appos	_	_
+3	e₂	e₂	N	2	GEN	_	_
+4	du₃-a-ka	du₃	V/t	3	SUB	_	_
+							
+# Q001540							
+1	gu₃-de₂-a	_	_	0	root	_	_
+2	ensi₂	_	_	1	appos	_	_
+3	lagaš{ki}	_	_	2	appos	_	_
+4	lu₂	_	_	1	appos	_	_
+5	e₂-ninnu	_	_	7	ABS	_	_
+6	{d}nin-ŋir₂-su-ka	_	_	5	GEN	_	_
+7	in-du₃-a	_	_	4	acl	_	_

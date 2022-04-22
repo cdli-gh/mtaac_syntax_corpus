@@ -1,0 +1,28 @@
+# P222460
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P222460
+#(117) E-ana-tum 4 1:9–10 (Lagash, 25th c.) (P222460)
+#“who makes all the foreign lands submit to Ningirsu”
+1	kur	_	P2[kur=L3.NH	3	LOC	_
+2	gu₂	_	neck=ABS	3	ABS	_
+3	ŋar-ŋar,	_	place~PL-TL]	0	acl+ERG	_
+4	dnin-ŋir₂-su₂-ka-ke₄	_	P3[DN=GEN]=P5ERG	3	GEN	_
+
+# P222460
+#(456) E-ana-tum 4 2:3–6 (Lagash, 25th c.) (P222460)
+#“He returned (Ningirsu’s) beloved field, the Gu-edena, under Ningirsu’s control.”
+1	dnin-ŋir₂-su-ra,	_	DN=L2.H	7	LOC	_
+2	a-šag₄ašag	_	field	7	ABS	_
+3	ki	_	place=ABS	4	ABS	_
+4	aŋ₂-ne₂,	_	measure-TL=3.SG.H.POSS	2	acl	_
+5	gu₂-eden-na,	_	GN=ABS	2	appos	_
+6	šu-na	_	hand=3.SG.H.POSS=L2.NH	7	LOC	_
+7	mu-ni-gi₄	_	VEN-3.SG.H-L2-3.SG.H.A-return-3.SG.P	0	root	_
+

@@ -1,0 +1,44 @@
+# P222618
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P222618
+#(228) = (245) = (185) Iri-kagina 5 obv. 4:1–4 (RIME 1.9.9.5) (Lagash, 24th c.) (P222618)
+#“(He set fire on the temple of the goddess Gatumdug,) collected all its precious metal and lapis lazuli from it for himself, and destroyed all its statues.”
+1	kug	_	precious.metal	3	ABS	_
+2	za-gin₃-be₂	_	lapis.lazuli=3.SG.NH.POSS=ABS	1	appos	_
+3	ba-ta-keš₂-keš₂	_	MID-ABL-3.SG.H.A-bind~PL-3.SG.P	0	root	_
+4	alan-be₂	_	statute=3.SG.NH.POSS=ABS	5	ABS	_
+5	i3-gul-gul	_	FIN-3.SG.H.A-destroy~PL-3.SG.P	3	parataxis	_
+
+# P222618
+#(43) Iri-kagina 5 obv. 1:12–13 (RIME 1.09.09.05 ) (Lagash, 24th c.) (P222618)
+#“(He looted) the pedestal of Enlil and the pedestal of Utu.”
+1	barag	_	P1dais	0	LOC	_
+2	den-lil₂-la₂,	_	P3[P1DN₁=P5GEN]	1	GEN	_
+3	barag	_	P1dais	1	appos	_
+4	dutu-ka	_	P3[P1DN₂=P5GEN]=P5L2.NH	3	GEN	_
+
+# P222618
+#(258) Iri-kagina 5 obv. 1:1–3 (RIME 1.09.09.05 )(Lagash, 24th c.) (P222618)
+#“The Ummaite set fire (lit. ‘give fire’) to the Ekibira.”
+1	lu2	_	man	5	ERG	_
+2	ummaki-⸢ke₄,	_	GN=GEN=ERG	1	GEN	_
+3	e₂-ki-surₓ(ERIN₂)-ra-ke₄,	_	TN=DAT.NH	5	DAT	_
+4	izi	_	fire=ABS	5	ABS	_
+5	ba-šum₂	_	3.SG.NH-DAT-3.SG.H.A-give-3.SG.P	0	root	_
+
+# P222618
+#(402) Iri-kagina 5 obv. 1:8–9 (RIME 1.9.9.5 ) (Lagash, 24th c.) (P222618)
+#“He looted (lit. ‘opened the hand on’) the great temple of Tiraš.”
+1	e₂	_	house	5	LOC	_
+2	gal	_	big-TL	1	amod	_
+3	ti-ra-aš₂-ka,	_	GN=GEN=L2.NH	1	GEN	_
+4	šu	_	hand=ABS	5	ABS	_
+5	be₂-bad	_	3.SG.NH-L2-3.SG.H.A-open-3.SG.P	0	root	_
+

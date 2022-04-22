@@ -1,0 +1,16 @@
+# P222546
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P222546
+#(94) En-metena 2 3:5–4:2 (RIME 1.9.5.2) (Lagash, 25th c.) (P222546)
+#“(For Ningirsu, his master who loves him, En-metena) extended it (= the boundary levee) from the Idnun canal until Mubikura.”
+1	id₂-nun-ta,	_	WN=ABL	3	ABL	_
+2	mu-bi-kur-ra,	_	GN=TERM	3	TERM	_
+3	e-na-ta-ni-e₃	_	FIN-3.SG.H-DAT-ABL-L1-3.SG.H.A-leave-3.SG.P	0	root	_
+

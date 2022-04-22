@@ -1,0 +1,18 @@
+# P221392
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# analyzed examples from Zólyomi (2016), numbers refer to his examples
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# P221392
+#(34) TSA 31 obv. 2:4 (Lagash, 24th c.) (P221392)
+#“26 old donkey neck clothes”
+1	26	_	26	2	nummod	_
+2	tug₂	_	P1cloth	0	ABS	_
+3	gu₂	_	P2[P1neck	2	GEN	_
+4	anše-ka	_	P2[P1donkey=P5GEN]=P5GEN]	3	GEN	_
+5	sumun	_	P2old-TL=P5ABS	2	amod	_
+

@@ -1,0 +1,49 @@
+# Q000985						
+# project: etcsri 						
+# textid: Q000985 						
+# file: 00atf/ETCSRI_RIME3_2.atf 						
+# langs: sux 						
+# type: text 						
+# xml:id: Q000985.U0 						
+# bracketing_level: 0 						
+# m/@k=genre : Royal Inscription 						
+# m/@k=period : Ur III 						
+# ID	WORD	BASE	MORPH2			_
+1	{d}amar-{d}suen	{d}amar-{d}suen	N1=NAME	0	root	_
+2	nibru{ki}-a	nibru{ki}	N1=NAME.N5=L1	5	LOC	_
+3	{d}en-lil₂-le	{d}en-lil₂	N1=NAME.N5=ERG	5	ERG	_
+4	mu	mu	N1=STEM.N5=ABS	5	ABS	_
+5	pad₃-da	pad₃	NV2=STEM.NV4=SUB	1	SUB	_
+6	saŋ-us₂	saŋ-us₂	NV2=STEM	1	appos	_
+7	e₂	e₂	N1=STEM	6	GEN	_
+8	{d}en-lil₂-ka	{d}en-lil₂	N1=NAME.N5=GEN.N5=GEN	7	GEN	_
+9	lugal	lugal	N1=STEM	1	appos	_
+10	kalag-ga	kalag	NV2=STEM.NV4=SUB	9	amod	_
+11	lugal	lugal	N1=STEM	1	appos	_
+12	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN	11	GEN	_
+13	lugal	lugal	N1=STEM	1	appos	_
+14	an-ub-da	an-ub-da	N1=STEM	1	GEN	_
+15	limmu₂-ba-me	limmu₂	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS.N6=COP-1-SG	14	nummod	_
+16	alan-ba	alan	N1=STEM.N3=DEM2.N5=GEN	21	GEN+disloc	_
+17	{d}amar-{d}suen	{d}amar-{d}suen	N1=NAME	21	ABS	_
+18	ki	ki	N1=STEM.N5=ABS	19	ABS	_
+19	aŋ₂	aŋ₂	NV2=STEM	17	SUB+appos	_
+20	urim₅{ki}-ma	urim₅{ki}	N1=NAME.N5=GEN.N5=ABS	19	GEN	_
+21	mu-bi-im	mu	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	0	root	_
+22	alan-ba	alan	N1=STEM.N3=DEM2.N5=GEN	26	GEN+disloc	_
+23	lu₂	lu₂	N1=STEM	36	COM	_
+24	ki	ki	N1=STEM	25	ABS	_
+25	gub-ba-bi	gub	NV2=STEM.NV4=SUB.N3=3-SG-NH-POSS.N5=COM	23	acl	_
+26	ib₂-da-ab-kur₂-re-a	kur₂	V2=FIN.V5=3-NH.V8=COM.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	23	SUB	_
+27	barag-sig₉-ga-bi	barag-sig₉-ga	N1=STEM.N3=3NH.POSS.N5=ABS	28	ABS	_
+28	i₃-burₓ(|KA×ŠU|)-re-a	burₓ(|KA×ŠU|)	V2=FIN.V12=STEM.V14=3-SG-A.V15=SUB.N5=X	23	SUB	_
+29	{d}nanna	{d}nanna	N1=NAME	36	ERG	_
+30	lugal	lugal	N1=STEM	29	appos	_
+31	urim₅{ki}-ma-ke₄	urim₅{ki}	N1=NAME.N5=GEN.N5=ERG	30	GEN	_
+32	{d}nin-gal	{d}nin-gal	N1=NAME	36	ERG	_
+33	ama	ama	N1=STEM	32	appos	_
+34	urim₅{ki}-ma-ke₄	urim₅{ki}	N1=NAME.N5=GEN.N5=ERG	33	GEN	_
+35	nam	nam	N1=STEM.N5=ABS	36	ABS	_
+36	ha-ba-an-da-kuru₅-ne	kuru₅	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-PL-A	0	root	_
+37	numun-na-ni	numun	N1=STEM.N3=3-SG-H-POSS.N5=ABS	37	ABS	_
+38	he₂-eb-til-le-ne	til	V1=MOD1.V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-PL-A	36	parataxis	_
