@@ -1,13 +1,25 @@
 #new_text=P131033
 # annotation by CC, annotation following Jagersma (2010), Chap. 24.3, automated glossing and CDLI translation
 # To Lu-Šulgi speak! "1 ram did Ur-Iškur receive". To Ur-Ḫendursag: "In his barley may he release!"
+# = Zolyomi 2016 (412) MVN 15, 218 obv. 4–rev. 1 (Umma, 21st c.) (P131033)
+# ... “May he release Ur-Hendursaga’s grain!”
+# note that the translation is different, and so is the transliteration
+# but I would follow Z. because that makes much more sense than a letter with instruction to two different people
+
+## Zolyomi 2016 (412) MVN 15, 218 obv. 4–rev. 1 (Umma, 21st c.) (P131033):
+#1	ur-dḫendur-saŋ-ga!,	_	PN=GEN	2	GEN+disloc	_
+#2	še-na	_	grain=3.SG.H.POSS=L2.NH	4	LOC	_
+#3	šu	_	hand=ABS	4	ABS	_
+#4	ḫa-mu-na-a-ba-re	_	MOD-VEN-3.SG.H-DAT-L2-open-3.SG.A	0	root	_
+
+# enriched automated annotation according to Z.
 1	lu2-{d}szul-gi-ra	Lu-Szulgi	PN	PN	2	DAT
 2	u3-na-a-du11	u-nn-a-e-dug[speak]	N	ANT.3-SG-H.DAT.2-SG-A.V.3-SG-P	6	advcl
 3	1(disz)	1(disz)[one]	NU	NU	4	nummod
 4	udu	udu[sheep]	N	N	6	ABS
 5	ur-{d}iszkur	Uriszkur	PN	PN	6	TERM
 6	i3-dab5	dab[seize]	V	FIN.3-SG-H-A.V.3-SG-P	0	root
-7	ur-{d}hendur-sag-ra	Ur-Hendursag	PN	PN	10	DAT
-8	sze-na	sze[barley]	N	N	10	LOC
+7	ur-{d}hendur-sag-ra	Ur-Hendursag	PN	PN.GEN	10	GEN+disloc
+8	sze-na	sze[barley]	N	N.3-SG-H-POSS.L2-NH	10	LOC
 9	szu	szu[hand]	N	N.ABS	10	ABS
-10	ha-mu-na-a-ba-re	_[release]	V	MOD1.VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	6	parataxis
+10	ha-mu-na-a-ba-re	_[release]	V	MOD1.VEN.3-SG-H.DAT.L2.V.3-SG-A	6	parataxis
