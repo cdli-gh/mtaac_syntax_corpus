@@ -2,24 +2,7 @@
 									
 # Annotation of Sumerian syntax									
 # http://oracc.museum.upenn.edu/doc/help/languages/sumerian/syntax/index.html									
-# https://github.com/oracc/oracc/tree/master/misc/ssa3/t									
-									
-# no CDLI number, but 									
-									
-1	gu₃-de₂-a	_	_	0	GEN	_	_		
-2	lu₂	_	_	1	appos	_	_		
-3	e₂	_	_	2	GEN	_	_		
-4	gal-a-ka	_	_	3	SUB	_	_		
-									
-# no CDLI									
-									
-1	lu2-u3	_	_	4	ERG	_	_		
-2	e2	_	_	3	ABS	_	_		
-3	du3-u3-de3	_	_	4	DAT	_	_		
-4	nu-du3	_	_	0	root	_	_		
-									
 # PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-									
-									
 # TCS 1									
 									
 1	u3	_	_	2	cc	_	_		
@@ -39,98 +22,10 @@
 4	zi-cag4-gal2	_	_	1	appos	_	_		
 5	{d}inanna-me-en	_	_	4	GEN	_	_		
 									
-# c4051									
-									
-1	ezen	ezen	festival	6	LOC	_	_		
-2	gal-gal-ba	gal	to be big	1	amod	_	_		
-3	uj3-e	uj3	people	6	ERG	_	_		
-4	nam-he2-a	nam-he2	abundance	6	LOC	_	_		
-5	ud-bi	ud	day(light)	6	ABS	_	_		
-6	mu-un-di-ni-ib-zal-e	zal	to pass	0	root	_	_		
-									
-# c4051									
-									
-1	me-bi	me	essence	6	DAT	_	_		
-2	me	me	essence	1	appos	_	_		
-3	abzu	abzu	underground water	2	GEN	_	_		
-4	lu2	lu2	person	6	ERG	_	_		
-5	igi	igi	eye	6	ABS	_	_		
-6	nu-bar-re-de3	bar	to set aside	0	root	_	_		
-									
-# c215.1									
-									
-1	lugal-bi	lugal	king	8	ERG	_	_		
-2	sipad	sipad	shepherd	1	appos	_	_		
-3	{d}na-ra-am-{d}suen-e	na-ra-am-suen	Naram-Suen	1	appos	_	_		
-4	barag	barag	dais	8	LOC	_	_		
-5	kug	kug	shining	4	amod	_	_		
-6	a-ga-de3{ki}-ce3	a-ga-de3	Agade	4	GEN	_	_		
-7	ud-de3-ec2	ud	day(light)	8	TERM	_	_		
-8	im-e3	e3	to go out or in	0	root	_	_		
-									
-# c4051									
-									
-1	a2	a2	arm	2	ABS	_	_		
-2	aj2-ja2	aj2	to measure	4	acl+LOC	_	_		
-3	zid-de3-ec	zid	right	4	TERM	_	_		
-4	im-ma-sug2-ge-ec	gub	to stand	0	root	_	_		
-									
 #08	"Der was restored"" (Der returned to its place)	_	_
 1	bad3{ki]	_	_	3	ABS	_	_
 2	ki-be2	_	_	3	DAT	_	_
 3	ba-ab-gi4	_	_	0	root	_	_
-
-# c1823
-
-1	ki	ki	place	2	ABS	_	_
-2	bi2-in-gul-la-gin7	gul	to destroy	4	SUB+EQU	_	_
-3	ki	ki	place	4	ABS	_	_
-4	nam-ga-bi2-ib-gul-en	gul	to destroy	0	root	_	_
-
-# c4051
-
-1	jissu-bi	jissu	(protective) shade	3	ABS	_	_
-2	kur-kur-ra	kur	(mountain) land	3	LOC	_	_
-3	ca-mu-un-la2	la2	to hang	0	root	_	_
-
-# c561
-
-1	dumu	dumu	child	4	DAT	_	_
-2	engar-ra-ra	engar	farmer	1	GEN	_	_
-3	nij2	nij2	thing	4	ABS	_	_
-4	nam-mu-ra-ra-an	ra	to beat	0	root	_	_
-
-# c24201
-
-1	nij2-erim2-e	nij2-erim2	fraudulent action	3	DAT	_	_
-2	ki	ki	place	3	ABS	_	_
-3	la-ba-ra-aj2-ja2-am3	aj2	to measure	0	root	_	_
-
-# Q001110
-
-1	diŋir-ra-ni	diŋir	N	2	ABS	_	_
-2	{d}šul-|MUŠ×PA|-am₆	{d}šul-|MUŠ×PA|	DN	0	root	_	_
-
-# c1815
-
-1	{d}gilgamec2	gilgamec2	Gilgamec	3	voc	_	_
-2	en-ce3	en3-ce3	how long	3	TERM	_	_
-3	i3-nu2-de3-en	nu2	to lie down	0	root	_	_
-
-# c1823
-
-1	en	en	lord	5	ERG	_	_
-2	aratta{ki}-ke4	aratta	Aratta	1	GEN	_	_
-3	kij2-gi4-a-ar	kij2-gi4-a	messenger	5	DAT	_	_
-4	gu3	gu3	voice	5	ABS	_	_
-5	mu-un-na-de2-e	de2	to pour	0	root	_	_
-
-# c4051
-
-1	dijir	dijir	deity	4	ABS	_	_
-2	ki	ki	place	1	GEN	_	_
-3	ni2-ba	ni2-bi	itself, themselves	4	LOC	_	_
-4	mu-un-na-gam-e-ec	gam	to bow down	0	root	_	_
 
 # LetB
 
@@ -143,39 +38,18 @@
 2	e2	_	_	1	GEN	_	_		
 3	lugal-ka-ta	_	_	2	GEN	_	_		
 									
-# c217									
-									
-1	za3-mi2	za3-mi2	praise	2	GEN+disloc	_	_		
-2	mu-ru-bi-im	murub4	middle	0	root	_	_		
-									
-# c217									
-									
-1	e2-a	e2	house(hold)	3	GEN+disloc	_	_		
-2	jic-hur-bi	jic-hur	design	3	ABS	_	_		
-3	im-ja2-ja2	jar	to place	0	root	_	_		
-									
-# c217									
-									
-1	e2-a	e2	house(hold)	5	GEN+disloc	_	_		
-2	{d}en-ki-ke4	en-ki	Enki	5	ERG	_	_		
-3	jic-hur-bi	jic-hur	design	5	DAT	_	_		
-4	si	si	horn	5	ABS	_	_		
-5	mu-na-sa2	sa2	to equal	0	root	_	_		
-									
-# c4051									
-									
-1	dur-an-ki-ka	dur-an-ki	Dur-an-ki	3	LOC	_	_		
-2	dur2	dur2	rump	3	ABS	_	_		
-3	ba-an-jar	jar	to place	0	root	_	_		
-4	jectug2	jectug2	ear	3	GEN+ERG	_	_		
-5	dajal-la-ke4	dajal	to be wide	4	amod	_	_		
-									
-# c532									
-									
-1	u8	u8	ewe	3	ABS	_	_		
-2	{d}ezina2-ra	ezina2	Ezina	3	DAT	_	_		
-3	mu-na-ni-ib-gi4-gi4	gi4	to return	0	root	_	_		
-									
+
+#          
+         
+1 ja2-am3 _ _ 0 root _ _  
+2 me-na-am3 _ _ 1 parataxis _ _  
+3 cag4 _ _ 7 ABS _ _  
+4 {d]cul-gi _ _ 3 GEN _ _  
+5 lugal-ju10 _ _ 4 appos _ _  
+6 ki-bi _ _ 7 DAT _ _  
+7 ha-ma-gi4-gi4 _ _ 2 parataxis _ _  
+         
+
 # L2									
 									
 1	iri-ce3	_	_	3	TERM	_	_		
@@ -188,50 +62,6 @@
 2	gi6-par4-ta	_	_	3	ABL	_	_		
 3	ba-da-an-kar	_	_	0	root	_	_		
 									
-# c4051									
-									
-1	cag4-ba	cag4	heart	4	LOC	_	_		
-2	hu-ri2-in{mucen}-e	hu-ri2-in	eagle	4	ERG	_	_		
-3	dub3	dub3	knee	4	ABS	_	_		
-4	mu-un-bad-ba9-re6	bad	to open	0	root	_	_		
-									
-# c217									
-									
-1	iri-ni	iri	town	4	TERM	_	_		
-2	nijin6{ki}-ce3	nijin6	Nijin	1	GEN	_	_		
-3	ma2	ma2	boat	4	ABS	_	_		
-4	mu-ni-ri	ri	to direct	0	root	_	_		
-5	kar	kar	quay	8	DAT	_	_		
-6	nijin6{ki}-na-ke4	nijin6	Nijin	5	GEN	_	_		
-7	ma2	ma2	boat	8	ABS	_	_		
-8	bi2-us2	us2	to be adjacent	4	parataxis	_	_		
-									
-# c132									
-									
-1	za-e-me-en	za	you (sg.)	6	ERG	_	_		
-2	inim-ju10	inim	word	6	DAT	_	_		
-3	an	an	heaven	6	LOC	_	_		
-4	ki-a	ki	place	3	appos	_	_		
-5	gaba-ri	gaba-ri	equal	6	ABS	_	_		
-6	la-ba-e-ni-tuku	tuku	to have	0	root	_	_		
-									
-# c4051									
-									
-1	hur-saj	hur-saj	mountain (range)	5	EQU	_	_		
-2	il2-la-gin7	il2	to raise	1	amod	_	_		
-3	ki	ki	place	5	LOC	_	_		
-4	sikil-la	sikil	to be pure	3	amod	_	_		
-5	bi2-in-mu2	mu2	to grow	0	root	_	_		
-									
-# c533									
-									
-1	{id2}idigna	idigna	Tigris	6	ERG	_	_		
-2	{id2}buranuna-bi-da	buranuna	Euphrates	1	conj	_	_		
-3	gud	gud	bull	6	EQU	_	_		
-4	gal-gin7	gal	to be big	3	amod	_	_		
-5	jiri3-bi	jiri3	foot	6	ABS	_	_		
-6	nam-mi-in-gub	gub	to stand	0	root	_	_		
-									
 # LSU									
 									
 1	an	_	_	6	ERG	_	_		
@@ -240,22 +70,6 @@
 4	{d}nin-mah-be2	_	_	1	conj	_	_		
 5	nam-bi	_	_	6	ABS	_	_		
 6	ha-ba-tar-re-ec	_	_	0	root	_	_		
-									
-# c4051									
-									
-1	ni2	ni2	fear(someness)	4	ABS	_	_		
-2	me-lem4-bi	me-lem4	(awesome) radiance	1	appos	_	_		
-3	an-ne2	an	heaven	4	LOC	_	_		
-4	im-us2	us2	to be adjacent	0	root	_	_		
-									
-# c4051									
-									
-1	en-en-e	en	lord	6	ERG	_	_		
-2	barag-barag-ge2-ne	barag	dais	1	appos	_	_		
-3	nidba	nidba	(food) offering	6	DAT	_	_		
-4	kug-ge	kug	shining	3	amod	_	_		
-5	si	si	horn	6	ABS	_	_		
-6	mu-ni-in-sa2-ec	sa2	to equal	0	root	_	_		
 									
 # NG 7									
 									
@@ -270,32 +84,6 @@
 9	ab-ba-ne-ne	_	_	10	ABS	_	_		
 10	i3-ba-a-ne	_	_	6	conj	_	_		
 									
-# c215.1.93									
-									
-1	a-ba	a-ba	who	3	ERG	_	_		
-2	igi	igi	eye	3	ABS	_	_		
-3	im-mi-in-du8-a	du8	to spread	0	root	_	_		
-									
-# c135.D									
-									
-1	dumu-ju10	dumu	child	3	ERG	_	_		
-2	a-na-am3	a-na	what	3	ABS	_	_		
-3	bi2-in-ak	ak	to do	0	root	_	_		
-									
-# c1822									
-									
-1	iri-ta	iri	town	5	ABL	_	_		
-2	a2	a2	arm	3	ABS	_	_		
-3	aj2-ja2	aj2	to measure	5	SUB+ABS	_	_		
-4	a-na-ac	a-na-ac	why	5	TERM	_	_		
-5	mu-e-de6	de6	to carry	0	root	_	_		
-									
-# c163.B.53									
-									
-1	nam-kalag-ga-zu	nam-kalag-ga	strength	3	ABS	_	_		
-2	me-ce3	me-ce3	where	3	TERM	_	_		
-3	ba-an-jen	jen	to go	0	root	_	_		
-									
 # 									
 									
 1	a-na-gin7-am	_	_	4	EQU	_	_		
@@ -308,42 +96,6 @@
 1	nij2-zu2-gub-ju10	_	_	2	ABS	_	_		
 2	cum2-ma-ab	_	_	0	root	_	_		
 									
-# c1814.1									
-									
-1	me-na-am3	me-na	when	4	advcl	_	_		
-2	jic-nu2	jic-nu2	bed	4	LOC	_	_		
-3	gi-rin	gi-rin	blossom	2	GEN	_	_		
-4	ba-ni-nu2-de3-en	nu2	to lie down	0	root	_	_		
-5	bi2-in-dug4	dug4	to say	4	parataxis	_	_		
-									
-# c1822									
-									
-1	lu2	lu2	person	5	ABS	_	_		
-2	iri-ce3	iri	town	4	TERM	_	_		
-3	je26-e	je26	I	4	ABS	_	_		
-4	ga-jen	jen	to go	5	ccomp	_	_		
-5	nu-mu-un-na-ab-be2	dug4	to say	0	root	_	_		
-									
-# c4051									
-									
-1	barag	barag	dais	7	ABS	_	_		
-2	nam-he2	nam-he2	abundance	1	GEN	_	_		
-3	e2-kur	e2-kur	E-kur	1	appos	_	_		
-4	e2	e2	house(hold)	1	appos	_	_		
-5	za-gin3	za-gin3	lapis lazuli	4	GEN	_	_		
-6	sahar-ta	sahar	earth	7	ABL	_	_		
-7	ca-ba-ra-an-il2	il2	to raise	0	root	_	_		
-									
-# c1815									
-									
-1	en	en	lord	2	nmod	_	_		
-2	{d}gilgamec2-e	gilgamec2	Gilgamec	7	ERG	_	_		
-3	kur	kur	(mountain) land	7	TERM	_	_		
-4	lu2	lu2	person	3	GEN	_	_		
-5	til3-la-ce3	til3	to live	4	amod	_	_		
-6	jectug2-ga-ni	jectug2	ear	7	ABS	_	_		
-7	na-an-gub	gub	to stand	0	root	_	_		
-									
 #									
 									
 1	geme2	_	_	5	ABS	_	_		
@@ -351,16 +103,6 @@
 3	in-tuku-a	_	_	1	acl	_	_		
 4	ec2-kiri3-ce3	_	_	5	TERM	_	_		
 5	na-ba-du3	_	_	0	root	_	_		
-									
-# c1822									
-									
-1	lugal-ban3-da	lugal-ban3-da	Lugalbanda	0	root	_	_		
-2	lu2	lu2	person	1	appos	_	_		
-3	numun-e	numun	seed	5	DAT	_	_		
-4	ki	ki	place	5	ABS	_	_		
-5	aj2-am3	aj2	to measure	2	acl	_	_		
-6	cu	cu	hand	7	ABS	_	_		
-7	nu-um-ma-gid2-de3	gid2	to be long	1	acl	_	_		
 									
 #									
 									
@@ -398,145 +140,23 @@
 6	lugal-bi	_	_	5	GEN	_	_		
 7	i3-pad3	_	_	0	root	_	_		
 									
-# c563									
+#############################################################################
+
+# https://github.com/oracc/oracc/tree/master/misc/ssa3/t									
+
+# no CDLI number					
+
+1	gu₃-de₂-a	_	_	0	GEN	_	_		
+2	lu₂	_	_	1	appos	_	_		
+3	e₂	_	_	2	GEN	_	_		
+4	gal-a-ka	_	_	3	SUB	_	_		
+									
+# no CDLI	
+
+1	lu2-u3	_	_	4	ERG	_	_		
+2	e2	_	_	3	ABS	_	_		
+3	du3-u3-de3	_	_	4	DAT	_	_		
+4	nu-du3	_	_	0	root	_	_		
+									
+
 									
-1	ud	ud	day(light)	7	ABL	_	_		
-2	henbur2-e	henbur	shoot	4	ERG	_	_		
-3	ki	ki	place	4	ABS	_	_		
-4	im-ma-ab-dar-ra-ta	dar	to split	1	SUB	_	_		
-5	sizkur2	_	_	7	DAT	_	_		
-6	{d}nin-kilim-ke4	_	_	5	GEN	_	_		
-7	dug4-ga-ab	_	_	0	root	_	_		
-									
-# c532									
-									
-1	me-za	me	essence	3	LOC	_	_		
-2	igi	igi	eye	3	ABS	_	_		
-3	mi-ni-ib-il2-la-ke4-ec	il2	to raise	0	SUB+GEN+TERM	_	_		
-									
-# c532									
-									
-1	za-e	za	you (sg.)	3	ABS	_	_		
-2	{jic}bancur-ra	bancur	(offering) table	3	LOC	_	_		
-3	jal2-la-zu-ne	jal2	to be (located)	0	SUB	_	_		
-									
-# c1815									
-									
-1	lugal-ju10	lugal	king	_	_	7	ERG		
-2	tukum-bi	tukum-bi	if	_	_	5	mark		
-3	ud-da	ud	day(light)	_	_	5	LOC		
-4	kur-ra	kur	land	_	_	5	LOC		
-5	i-ni-in-ku4-ku4-de3	kur9	enter	_	_	7	acl		
-6	{d}utu	utu	Utu	_	_	7	COM		
-7	he2-me-da-an-zu	zu	know	_	_	0	root		
-	 								
-									
-# c217									
-									
-1	e2	e2	house(hold)	2	ABS	_	_		
-2	du3-de3	du3	to erect	6	SUB+LOC	_	_		
-3	igi-zu	igi	eye	6	ERG	_	_		
-4	u3	u3	sleep	6	ABS	_	_		
-5	dug3-ga	dug3	to be good	4	amod	_	_		
-6	nu-ci-ku4-ku4	ku	to lay down	0	root	_	_		
-									
-# c217									
-									
-1	lugal-ni-ir	_	_	8	DAT	_	_		
-2	ud-de3	_	_	8	DAT	_	_		
-3	mac-ji6-ka	_	_	8	LOC	_	_		
-4	gu3-de2-a	gu3-de2-a	Gudea	8	ERG	_	_		
-5	en	en	lord	4	appos	_	_		
-6	{d}nin-jir2-su2-ra	nin-jir2-su	Ninjirsu	5	DAT	_	_		
-7	igi	igi	eye	8	ABS	_	_		
-8	mu-ni-du8-am3	du8	to spread	0	root	_	_		
-									
-# c217									
-									
-1	sipad-me	sipad	shepherd	0	root	_	_		
-2	e2	e2	house(hold)	3	ABS	_	_		
-3	mu-du3	du3	to erect	1	parataxis	_	_		
-									
-# 									
-									
-1	ja2-am3	_	_	0	root	_	_		
-2	me-na-am3	_	_	1	parataxis	_	_		
-3	cag4	_	_	7	ABS	_	_		
-4	{d]cul-gi	_	_	3	GEN	_	_		
-5	lugal-ju10	_	_	4	appos	_	_		
-6	ki-bi	_	_	7	DAT	_	_		
-7	ha-ma-gi4-gi4	_	_	2	parataxis	_	_		
-									
-# c141									
-									
-1	a-ba-me-en	a-ba	who	0	root	_	_		
-2	za-e	za	you (sg.)	1	ERG	_	_		
-									
-# c217									
-									
-1	2(MAN)-kam	2-kam-ma	2nd	0	root	_	_		
-2	ur-saj-ja2-am3	ur-saj	hero	1	parataxis	_	_		
-3	a2	a2	arm	4	ABS	_	_		
-4	mu-gur	gur8	to bend	2	parataxis	_	_		
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-								_	_
-								_	_
-								_	_
-								_	_
-								_	_
-								_	_
-								_	_
