@@ -1,74 +1,65 @@
-# c217         
+# c217
+# line ids resolved against https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.7&display=Crit&charenc=gcirc#
 
-# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC		
-									
+# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC
 
-# Annotation of Sumerian syntax									
+# Annotation of Sumerian syntax
 
-# http://oracc.museum.upenn.edu/doc/help/languages/sumerian/syntax/index.html									
+# http://oracc.museum.upenn.edu/doc/help/languages/sumerian/syntax/index.html
 
-# PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-							
+# PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-
 
-# c217         
-         
-1 2(MAN)-kam 2-kam-ma 2nd 0 root _ _  
-2 ur-saj-ja2-am3 ur-saj hero 1 parataxis _ _  
-3 a2 a2 arm 4 ABS _ _  
-4 mu-gur gur8 to bend 2 parataxis _ _  
+# A 5:2-3
+1 2(MAN)-kam 2-kam-ma 2nd 0 root _ _
+2 ur-saj-ja2-am3 ur-saj hero 1 parataxis _ _
+3 a2 a2 arm 4 ABS _ _
+4 mu-gur gur8 to bend 2 parataxis _ _
 
-# c217         
-         
-1 e2 e2 house(hold) 2 ABS _ _  
-2 du3-de3 du3 to erect 6 SUB+LOC _ _  
-3 igi-zu igi eye 6 ERG _ _  
-4 u3 u3 sleep 6 ABS _ _  
-5 dug3-ga dug3 to be good 4 amod _ _  
-6 nu-ci-ku4-ku4 ku to lay down 0 root _ _  
-         
-# c217         
-         
-1 e2-a e2 house(hold) 3 GEN+disloc _ _  
-2 jic-hur-bi jic-hur design 3 ABS _ _  
-3 im-ja2-ja2 jar to place 0 root _ _  
-         
-# c217         
-         
-1 e2-a e2 house(hold) 5 GEN+disloc _ _  
-2 {d}en-ki-ke4 en-ki Enki 5 ERG _ _  
-3 jic-hur-bi jic-hur design 5 DAT _ _  
-4 si si horn 5 ABS _ _  
-5 mu-na-sa2 sa2 to equal 0 root _ _  
-         
-# c217         
-         
-1 iri-ni iri town 4 TERM _ _  
-2 nijin6{ki}-ce3 nijin6 Nijin 1 GEN _ _  
-3 ma2 ma2 boat 4 ABS _ _  
-4 mu-ni-ri ri to direct 0 root _ _  
-5 kar kar quay 8 DAT _ _  
-6 nijin6{ki}-na-ke4 nijin6 Nijin 5 GEN _ _  
-7 ma2 ma2 boat 8 ABS _ _  
-8 bi2-us2 us2 to be adjacent 4 parataxis _ _  
-         
-# c217         
-         
-1 lugal-ni-ir _ _ 8 DAT _ _  
-2 ud-de3 _ _ 8 DAT _ _  
-3 mac-ji6-ka _ _ 8 LOC _ _  
-4 gu3-de2-a gu3-de2-a Gudea 8 ERG _ _  
-5 en en lord 4 appos _ _  
-6 {d}nin-jir2-su2-ra nin-jir2-su Ninjirsu 5 DAT _ _  
-7 igi igi eye 8 ABS _ _  
-8 mu-ni-du8-am3 du8 to spread 0 root _ _  
-         
-# c217         
-         
-1 sipad-me sipad shepherd 0 root _ _  
-2 e2 e2 house(hold) 3 ABS _ _  
-3 mu-du3 du3 to erect 1 parataxis _ _  
-         
-# c217         
-         
-1 za3-mi2 za3-mi2 praise 2 GEN+disloc _ _  
-2 mu-ru-bi-im murub4 middle 0 root _ _  
-         
+# A 6:11
+1 e2 e2 house(hold) 2 ABS _ _
+2 du3-de3 du3 to erect 6 SUB+LOC _ _
+3 igi-zu igi eye 6 ERG _ _
+4 u3 u3 sleep 6 ABS _ _
+5 dug3-ga dug3 to be good 4 amod _ _
+6 nu-ci-ku4-ku4 ku to lay down 0 root _ _
+
+# A 19:20
+1 e2-a e2 house(hold) 3 GEN+disloc _ _
+2 jic-hur-bi jic-hur design 3 ABS _ _
+3 im-ja2-ja2 jar to place 0 root _ _
+
+# A 17:17
+1 e2-a e2 house(hold) 5 GEN+disloc _ _
+2 {d}en-ki-ke4 en-ki Enki 5 ERG _ _
+3 jic-hur-bi jic-hur design 5 DAT _ _
+4 si si horn 5 ABS _ _
+5 mu-na-sa2 sa2 to equal 0 root _ _
+
+# A 4:4
+1 iri-ni iri town 4 TERM _ _
+2 nijin6{ki}-ce3 nijin6 Nijin 1 GEN _ _
+3 ma2 ma2 boat 4 ABS _ _
+4 mu-ni-ri ri to direct 0 root _ _
+5 kar kar quay 8 DAT _ _
+6 nijin6{ki}-na-ke4 nijin6 Nijin 5 GEN _ _
+7 ma2 ma2 boat 8 ABS _ _
+8 bi2-us2 us2 to be adjacent 4 parataxis _ _
+
+# A 1: 17-18
+1 lugal-ni-ir _ _ 8 DAT _ _
+2 ud-de3 _ _ 8 DAT _ _
+3 mac-ji6-ka _ _ 8 LOC _ _
+4 gu3-de2-a gu3-de2-a Gudea 8 ERG _ _
+5 en en lord 4 appos _ _
+6 {d}nin-jir2-su2-ra nin-jir2-su Ninjirsu 5 DAT _ _
+7 igi igi eye 8 ABS _ _
+8 mu-ni-du8-am3 du8 to spread 0 root _ _
+
+# B 2:5
+1 sipad-me sipad shepherd 0 root _ _
+2 e2 e2 house(hold) 3 ABS _ _
+3 mu-du3 du3 to erect 1 parataxis _ _
+
+# A 30:16
+1 za3-mi2 za3-mi2 praise 2 GEN+disloc _ _
+2 mu-ru-bi-im murub4 middle 0 root _ _
