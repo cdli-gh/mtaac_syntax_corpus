@@ -1,29 +1,31 @@
-# c532          fragments
-
-# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC		
-									
-
-# Annotation of Sumerian syntax									
-
-# http://oracc.museum.upenn.edu/doc/help/languages/sumerian/syntax/index.html									
+# Q000761 = c532          fragments
+# The Debate between Grain and Sheep 20 (ETCSL 5.3.2)
 
 # PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-							
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
 
-# c532         
+
+# PPCS c532         
          
 1 me-za me essence 3 LOC _ _  
 2 igi igi eye 3 ABS _ _  
 3 mi-ni-ib-il2-la-ke4-ec il2 to raise 0 SUB+GEN+TERM _ _  
          
-# c532         
+# PPCS c532         
          
 1 u8 u8 ewe 3 ABS _ _  
 2 {d}ezina2-ra ezina2 Ezina 3 DAT _ _  
 3 mu-na-ni-ib-gi4-gi4 gi4 to return 0 root _ _  
          
-# c532         
+# PPCS c532         
          
 1 za-e za you (sg.) 3 ABS _ _  
 2 {jic}bancur-ra bancur (offering) table 3 LOC _ _  
 3 jal2-la-zu-ne jal2 to be (located) 0 SUB _ _  
          
+
+# (66) Zolyomi 2016 
+#“The people of those days”
+1	nam-lu₂-ulu₃	_	P1people	0	ERG	_
+2	ud-re-a-ke₄-ne	_	P3[P1day=P2DEM=P5GEN]=P4PL=P5ERG	1	GEN	_
+
