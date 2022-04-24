@@ -1,0 +1,44 @@
+# Q000369
+# c1823, fragments
+# Enmerkar and the lord of Aratta (ETCSL 1.8.2.3)
+
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-, line ids manually resolved against https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.3&display=Crit&charenc=gcirc#
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# l.30; Zolyomi 2016 (278) Enmerkar and the lord of Aratta 30 (ETCSL 1.8.2.3)
+#“(The lord of Aratta placed on his head the golden crown for Inana.) But he did not please her (= Inana) like the lord of Kulaba.”
+1	en	_	lord	3	EQU	_
+2	kul-aba₄ki-a-gen₇	_	GN=GEN=EQU	1	GEN	_
+3	nu-mu-na-sag₉	_	NEG-VEN-3.SG.H-DAT-good-3.SG.S	0	root	_
+
+# l.192; PPCS
+1	ki	ki	place	2	ABS	_	_
+2	bi2-in-gul-la-gin7	gul	to destroy	4	SUB+EQU	_	_
+3	ki	ki	place	4	ABS	_	_
+4	nam-ga-bi2-ib-gul-en	gul	to destroy	0	root	_	_
+
+# l. 430; Zolyomi 2016 (86) = (260) Enmerkar and the Lord of Aratta 420 (ETCSL 1.8.2.3)
+#“The god Enki gave wisdom to Enmerkar.”
+1	en-me-er-kara₂-ra	_	PN=DAT.H	4	DAT	_
+2	den-ki-ke₄	_	DN=ERG	4	ERG	_
+3	ŋeštug₂	_	ear=ABS	4	ABS	_
+4	mu-na-an-šum₂	_	VEN-3.SG.H-DAT-3.SG.H.A-give-3.SG.P	0	root	_
+
+# l.554; Zolyomi 2016 (451) Enmerkar and the lord of Aratta 554 (ETCSL 1.8.2.3)
+#“The lord of Aratta looked at the wheat.”
+1	en	_	lord	5	ERG	_
+2	arattaki-ke₄	_	GN=GEN=ERG	1	GEN	_
+3	gig-e	_	wheat=L3.NH	5	LOC	_
+4	igi	_	eye=ABS	5	ABS	_
+5	bi₂-in-du₈	_	3.SG.NH-L3-3.SG.H.A-open-3.SG.P	0	root	_
+
+# l. 556; PPC
+1	en	en	lord	5	ERG	_	_
+2	aratta{ki}-ke4	aratta	Aratta	1	GEN	_	_
+3	kij2-gi4-a-ar	kij2-gi4-a	messenger	5	DAT	_	_
+4	gu3	gu3	voice	5	ABS	_	_
+5	mu-un-na-de2-e	de2	to pour	0	root	_	_
