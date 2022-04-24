@@ -3,7 +3,12 @@
 # ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
 
 # analyzed examples from Zólyomi (2016), numbers refer to his examples
-# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+
+# sources:
+# Zolyomi-2016: Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# PPCS: PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-, with line ids manually resolved against https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.7&display=Crit&charenc=gcirc#
+
+
 # dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
 
 
@@ -38,10 +43,30 @@
 6	e₃	_	leave-TL=ABS	7	TL+ABS	_
 7	mu-ak-ke₄	_	VEN-L1.SYN-act-1.SG.A	0	root	_
 
-# Zolyomi (2016): (62) Gudea Cyl. A 1:17 (Lagash, 22nd c.) (ETCSL 2.1.7)
-#“On this day, in a dream, ….”
-1	ud-ne	_	P1day=P2DEM	0	LOC	_
-2	maš-ŋi₆-ka,	_	vision=L1	0	appos	_
+## Zolyomi (2016): (62) Gudea Cyl. A 1:17 (Lagash, 22nd c.) (ETCSL 2.1.7)
+##“On this day, in a dream, ….”
+#1	ud-ne	_	P1day=P2DEM	0	LOC	_
+#2	maš-ŋi₆-ka,	_	vision=L1	0	appos	_
+
+## A 1: 17-18 (PPCS)
+#1	lugal-ni-ir	_	_	8	DAT	_	_
+#2	ud-de3	_	_	8	DAT	_	_
+#3	mac-ji6-ka	_	_	8	LOC	_	_
+#4	gu3-de2-a	gu3-de2-a	Gudea	8	ERG	_	_
+#5	en	en	lord	4	appos	_	_
+#6	{d}nin-jir2-su2-ra	nin-jir2-su	Ninjirsu	5	DAT	_	_
+#7	igi	igi	eye	8	ABS	_	_
+#8	mu-ni-du8-am3	du8	to spread	0	root	_	_
+
+# A 1: 17-18 (merged, using PPCS as basis)
+1	lugal-ni-ir	_	_	8	DAT	_	_
+2	ud-de3	_	day=DEM	8	LOC	_	_
+3	mac-ji6-ka	_	vision=L1	8	appos	_	_
+4	gu3-de2-a	gu3-de2-a	Gudea	8	ERG	_	_
+5	en	en	lord	4	appos	_	_
+6	{d}nin-jir2-su2-ra	nin-jir2-su	Ninjirsu	5	DAT	_	_
+7	igi	igi	eye	8	ABS	_	_
+8	mu-ni-du8-am3	du8	to spread	0	root	_	_
 
 # Zolyomi (2016): (285) Gudea Cyl. A 1:25 (Lagash, 22nd c.) (ETCSL 2.1.7)
 #“May she stand with me in this matter.”
@@ -129,13 +154,33 @@
 3	ŋa₂-ra	_	1.SG.PR=L2.H	4	LOC	_
 4	ḫa-mu-u₃-šub	_	MOD-VEN-L2-fall-3.SG.S	0	root	_
 
-# Zolyomi (2016): (199) Gudea Cyl. A 4:4 (Lagash, 22nd c.) (ETCSL 2.1.7)
-# Zolyomi (2016): (425) Gudea Cyl. A 4:4 (Lagash, 22nd c.) (ETCSL 2.1.7)
-#“He (= Gudea) moored the boat at the quay of Nigin.”
-1	kar	_	quay	4	LOC	_
-2	niŋin₆ki-na-ke₄	_	GN=GEN=L3.NH	1	GEN	_
-3	ma₂	_	boat=ABS	4	ABS	_
-4	bi₂-us₂	_	3.SG.NH-L3-3.SG.H.A-be.next-3.SG.P	0	root	_
+# A 4:4 (merged, using PPCS as basis, and PPCS orthography)
+1	iri-ni	iri	town	4	TERM	_	_
+2	nijin6{ki}-ce3	nijin6	Nijin	1	GEN	_	_
+3	ma2	ma2	boat	4	ABS	_	_
+4	mu-ni-ri	ri	to direct	0	root	_	_
+5	kar	kar	quay	8	LOC	_	_
+6	nijin6{ki}-na-ke4	nijin6=GEN=L3.NH	Nijin	5	GEN	_	_
+7	ma2	ma2	boat=ABS	8	ABS	_	_
+8	bi2-us2	us2[to be adjacent]	3.SG.NH-L3-3.SG.H.A-be.next-3.SG.P	4	parataxis	_	_
+
+## A 4:4 (PPCS)
+#1	iri-ni	iri	town	4	TERM	_	_
+#2	nijin6{ki}-ce3	nijin6	Nijin	1	GEN	_	_
+#3	ma2	ma2	boat	4	ABS	_	_
+#4	mu-ni-ri	ri	to direct	0	root	_	_
+#5	kar	kar	quay	8	DAT	_	_
+#6	nijin6{ki}-na-ke4	nijin6	Nijin	5	GEN	_	_
+#7	ma2	ma2	boat	8	ABS	_	_
+#8	bi2-us2	us2	to be adjacent	4	parataxis	_	_
+
+## Zolyomi (2016): (199) Gudea Cyl. A 4:4 (Lagash, 22nd c.) (ETCSL 2.1.7)
+## Zolyomi (2016): (425) Gudea Cyl. A 4:4 (Lagash, 22nd c.) (ETCSL 2.1.7)
+##“He (= Gudea) moored the boat at the quay of Nigin.”
+#1	kar	_	quay	4	LOC	_
+#2	niŋin₆ki-na-ke₄	_	GN=GEN=L3.NH	1	GEN	_
+#3	ma₂	_	boat=ABS	4	ABS	_
+#4	bi₂-us₂	_	3.SG.NH-L3-3.SG.H.A-be.next-3.SG.P	0	root	_
 
 # Zolyomi (2016): (345) Gudea Cyl. A 4:5 (Lagash, 22nd c.) (ETCSL 2.1.7)
 #“The ruler raised his head high (lit., ‘towards the sky’) in the courtyard of the goddess from Sirara.”
@@ -158,6 +203,12 @@
 1	e₂-a-ne₂	_	house=3.SG.H.POSS=ABS	3	ABS	_
 2	du₃-da	_	build-PF=L2.NH	3	LOC	_
 3	ma-an-dug₄	_	VEN-DAT-3.SG.H.A-speak-3.SG.P	0	root	_
+
+# A 5:2-3 (PPCS)
+1	2(MAN)-kam	2-kam-ma	2nd	0	root	_	_
+2	ur-saj-ja2-am3	ur-saj	hero	1	parataxis	_	_
+3	a2	a2	arm	4	ABS	_	_
+4	mu-gur	gur8	to bend	2	parataxis	_	_
 
 # Zolyomi (2016): (264) Gudea Cyl. A 5: 18 (Lagash, 22nd c.) (ETCSL 2.1.7)
 #“He spoke to you about the building of his shrine, the E-ninnu.”
@@ -184,6 +235,14 @@
 4	kug-ba	_	holy=3.SG.NH.POSs=L2.NH	3	amod	_
 5	gu₃	_	voice=ABS	6	ABS	_
 6	ma-ra-a-de₂	_	VEN-2.SG-DAT-L2-pour-3.SG.A	0	root	_
+
+# A 6:11 (PPCS)
+1	e2	e2	house(hold)	2	ABS	_	_
+2	du3-de3	du3	to erect	6	SUB+LOC	_	_
+3	igi-zu	igi	eye	6	ERG	_	_
+4	u3	u3	sleep	6	ABS	_	_
+5	dug3-ga	dug3	to be good	4	amod	_	_
+6	nu-ci-ku4-ku4	ku	to lay down	0	root	_	_
 
 # Zolyomi (2016): (283) Gudea Cyl. A 7:2 (ETCSL 2.1.7; Lagash, 22nd c. BCE)
 #“After you have entered the E-ninnu-the-white-Anzud-bird temple with it (= a drum) before him (= Ningirsu), …”
@@ -431,13 +490,21 @@
 2	lu₂	_	P1man	3	ABS	_
 3	šag₄-ga-na-kam	_	P3[P1heart-P33.SG.H.POSS-P5GEN]=P5ABS=COP-3.SG.S	0	root	_
 
+## A 17:17 (PPCS)
+#1	e2-a	e2	house(hold)	5	GEN+disloc	_	_
+#2	{d}en-ki-ke4	en-ki	Enki	5	ERG	_	_
+#3	jic-hur-bi	jic-hur	design	5	DAT	_	_
+#4	si	si	horn	5	ABS	_	_
+#5	mu-na-sa2	sa2	to equal	0	root	_	_
+
 # Zolyomi (2016): (37) Gudea Cyl. A 17:17 (Lagash, 22nd c.) (ETCSL 2.1.7)
 #“Enki put right the design of the temple for him.”
-1	e₂-a	_	P1temple=P5GEN	5	GEN+dislocated	_
-2	den-ki-ke₄	_	P1DN=P5ERG	5	ERG	_
-3	ŋiš-ḫur-be₂	_	P1plan=P33.SG.NH.POSS=P5L3.NH	5	LOC	_
-4	si	_	P1horn=P5ABS	5	ABS	_
-5	mu-na-sa₂	_	VEN-3.SG.H-DAT-3.SG.H.A-equal-3.SG.P	0	root	_
+# complemented with PPCS-based lemmas
+1	e₂-a	e2[house(hold)]	temple=GEN	5	GEN+dislocated	_
+2	{d}en-ki-ke₄	en-ki	DN=ERG	5	ERG	_
+3	ŋiš-ḫur-be₂	ŋiš-ḫur[design]	plan=3.SG.NH.POSS=L3.NH	5	LOC	_
+4	si	si[horn]	horn=ABS	5	ABS	_
+5	mu-na-sa₂	sa2[to.equal]	VEN-3.SG.H-DAT-3.SG.H.A-equal-3.SG.P	0	root	_
 
 # Zolyomi (2016): (120) Gudea Cyl. A 17:18 (Lagash, 22nd. c.) (ETCSL 2.1.7)
 #“(Towards) the temple whose halo reaches to heaven”
@@ -473,6 +540,11 @@
 2	u₃-šub-ba-ta	_	brick.mold=GEN=ABL	1	GEN	_
 3	sig₄	_	brick	4	ABS	_
 4	ba-ta-il₂	_	MID-ABL-3.SG.H.A-raise-3.SG.P	0	root	_
+
+# A 19:20 (PPCS)
+1	e2-a	e2	house(hold)	3	GEN+disloc	_	_
+2	jic-hur-bi	jic-hur	design	3	ABS	_	_
+3	im-ja2-ja2	jar	to place	0	root	_	_
 
 # Zolyomi (2016): (372) Gudea Cyl. A 19:24 (Lagash, 22nd c.) (ETCSL 2.1.7)
 #“Like a cow keeping an eye on its calf, …”
@@ -545,11 +617,20 @@
 3	men	_	P1crown=P5ABS	4	ABS	_
 4	bi₂-il₂	_	3.SG.NH-L3-3.SG.H.A-carry-3.SG.P	0	root	_
 
+# A 30:16 (PPCS)
+1	za3-mi2	za3-mi2	praise	2	GEN+disloc	_	_
+2	mu-ru-bi-im	murub4	middle	0	root	_	_
+
 # Zolyomi (2016): (156) Gudea Cyl. B 2:5 (Lagash, 22nd c.) (ETCSL 2.1.7)
 #“I am shepherd, I have built the temple. = I, who am a shepherd, have built the temple. = I, the shepherd, have built the temple.”
 1	sipad-me	_	PC[shepherd=ABS]=COP-1.SG.S	0	root	_
 2	e₂	_	house=ABS	3	ABS	_
 3	mu-du₃	_	VEN-1.SG.A-build-3.SG.P	1	parataxis	_
+
+## B 2:5 (PPCS)
+#1	sipad-me	sipad	shepherd	0	root	_	_
+#2	e2	e2	house(hold)	3	ABS	_	_
+#3	mu-du3	du3	to erect	1	parataxis	_	_
 
 # Zolyomi (2016): (178) Gudea Cyl. B 2:6 (Lagash, 22nd c.) (ETCSL 2.1.7)
 #“(O, Anuna gods,) may you pray on my behalf!”
