@@ -1,0 +1,23 @@
+# c1814.1 
+# Q000364
+# Gilgamesh, Enkidu and the Netherworld (ETCSL 1.8.1.4)        
+
+# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC		
+									
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+# PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-, lines manually resolved against https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.4&display=Crit&charenc=gcirc#
+
+# l.39; PPCS         
+1 me-na-am3 me-na when 4 advcl _ _  
+2 jic-nu2 jic-nu2 bed 4 LOC _ _  
+3 gi-rin gi-rin blossom 2 GEN _ _  
+4 ba-ni-nu2-de3-en nu2 to lie down 0 root _ _  
+5 bi2-in-dug4 dug4 to say 4 parataxis _ _  
+         
+
+# l. 206; Zolyomi 2016 (235) Gilgamesh, Enkidu and the Netherworld 206 (ETCSL 1.8.1.4)
+#“He put on his cleanest garments.”
+1	tug₂	_	cloth	2	ABS	_
+2	dan₂-dan₂-na-ne₂	_	clean~PL-PT=3.SG.H.POSS=ABS	1	amod	_
+3	im-ma-an-mu₄	_	FIN-VEN-MID-3.SG.H.A-dress-3.SG.P	0	root	_
