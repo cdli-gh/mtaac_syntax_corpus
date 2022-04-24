@@ -1,0 +1,39 @@
+# Q000368 fragments
+# c1822         
+# Lugalbanda and the Anzud bird (ETCSL 1.8.2.2)
+
+# ID	WORD	SEGM	XPOS	HEAD	DEP	DEPS	MISC		
+									
+
+# PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-, line ids manually resolved against https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.2&display=Crit&charenc=gcirc#
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+# l. 106; Zolyomi 2016 (142) = (484)Lugalbanda and the Anzud bird 106 (ETCSL 1.8.2.2)
+#“if you are a god, ….”
+1	diŋir	_	PC[god=ABS]	0	root	_
+2	ḫe₂-me-en	_	MOD-FIN-COP-2.SG.S	1	cop	_
+
+# l. 141, PPCS         
+1 lugal-ban3-da lugal-ban3-da Lugalbanda 0 root _ _  
+2 lu2 lu2 person 1 appos _ _  
+3 numun-e numun seed 5 DAT _ _  
+4 ki ki place 5 ABS _ _  
+5 aj2-am3 aj2 to measure 2 acl _ _  
+6 cu cu hand 7 ABS _ _  
+7 nu-um-ma-gid2-de3 gid2 to be long 1 acl _ _  
+
+# l 272, PPCS
+1 lu2 lu2 person 5 ABS _ _  
+2 iri-ce3 iri town 4 TERM _ _  
+3 je26-e je26 I 4 ABS _ _  
+4 ga-jen jen to go 5 ccomp _ _  
+5 nu-mu-un-na-ab-be2 dug4 to say 0 root _ _  
+         
+# l. 355, PPCS
+1 iri-ta iri town 5 ABL _ _  
+2 a2 a2 arm 3 ABS _ _  
+3 aj2-ja2 aj2 to measure 5 SUB+ABS _ _  
+4 a-na-ac a-na-ac why 5 TERM _ _  
+5 mu-e-de6 de6 to carry 0 root _ _  
+         
