@@ -1,0 +1,28 @@
+# Q000380
+# Lament for Sumer and Ur (LSU)
+# ETCSL 2.2.3
+# https://etcsl.orinst.ox.ac.uk/section2/c223.htm
+# ID	FORM	SEGM	XPOS	HEAD	DEP	MISC
+
+# Gábor Zólyomi (2016), An introduction to the grammar of Sumerian, Version 4/21/16, Budapest 2016; https://core.ac.uk/download/pdf/51326989.pdf
+# PPCS (2004); PDF document: https://www.yumpu.com/en/document/view/12162126/ppcs-penn-parsed-corpus-of-sumerian-a-brief-introduction-to-the-							
+# dependency annotation by MTAAC, CC-BY, please refer to Zolyomi (2016) and Chiarcos, Christian, et al. "Annotating a low-resource language with LLOD technology: Sumerian morphology and syntax." Information 9.11 (2018): 290.
+
+
+# l. 55; PPCS; LSU (line from https://etcsl.orinst.ox.ac.uk/section2/c223.htm)
+1	an	_	_	6	ERG	_	_		
+2	{d}en-lil2	_	_	1	conj	_	_		
+3	{d}en-ki	_	_	1	conj	_	_		
+4	{d}nin-mah-be2	_	_	1	conj	_	_		
+5	nam-bi	_	_	6	ABS	_	_		
+6	ha-ba-tar-re-ec	_	_	0	root	_	_		
+									
+# l. 95; Zolyomi 2016 (504) The Lament for Urim and Sumer A95 (ETCSL 2.2.3)
+#“(The father turned away from his wife saying:) ‘She is not my wife’.”
+1	dam-ŋu₁₀	_	wife=1.SG.POSS=ABS	0	root	_
+2	nu	_	NEG	1	cop	_
+
+# l. 192; PPCS; LSU 192									
+1	en-bi	_	_	3	ABS	_	_		
+2	gi6-par4-ta	_	_	3	ABL	_	_		
+3	ba-da-an-kar	_	_	0	root	_	_		
