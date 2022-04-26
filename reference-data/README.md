@@ -2,12 +2,9 @@
 
 Manually analyzed sample data, mostly drawn from the literature
 
-[orig](orig) spreadsheets or other source files containing the original annotation, their interpretation in terms of MTAAC guidelines and a mapping to UD v.2 in different tabs
-[cdli-conll](cdli-conll) static export of original annotations in a TSV format. Note that this schema overlaps partially with UD v.2 specifications. Note that a conversion to UD v.2 is possible, but not reversible (not lossless).
-
-at the moment, we provide
-- 3,200 tokens of reference data from the literature, mostly Ur III data
-- 6 hand-corrected files from MTAAC
+- [orig](orig) spreadsheets or other source files containing the original annotation, their interpretation in terms of MTAAC guidelines and a mapping to UD v.2 in different tabs
+- [conll](conll) static export of original annotations in a TSV format. Note that this schema overlaps partially with UD v.2 specifications. Note that a conversion to UD v.2 is possible, but not reversible (not lossless). Note that dependencies are CDLI-compliant, but (a) these are not updated anymore, and (b) they original transliteration (and word-level annotations)
+- [cdli-conll](cdli-conll) CoNLL dependencies aligned with CDLI tokens
 
 ## known issues
 - at the moment, FORM/WORD, SEGM/LEMMA, XPOS columns follow (mostly) the original source, not MTAAC/CDLI
